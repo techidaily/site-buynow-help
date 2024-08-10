@@ -1,7 +1,7 @@
 ---
 title: Affordable Ambient Weather Station - WS-2902A Osprey Model Review
-date: 2024-08-06 20:13:25
-updated: 2024-08-08 11:38:47
+date: 2024-08-09T00:39:10.232Z
+updated: 2024-08-10T00:39:10.232Z
 categories:
   - BestProducts
 description: This Article Describes Affordable Ambient Weather Station - WS-2902A Osprey Model Review
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
 ## Beantech Bitwatch S1 Plus
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/JogmBSjTGQl_gqbjuX8prgeJJPA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4157747-1-dfa15264b03549839f5145eaa099abb2.jpg)
 
  Lifewire / Emily Ramirez
@@ -39,6 +42,9 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
 ## Beantech Bitwatch S1 Plus
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/RIxQYWLMnyHkO9IcguCoRX11EbY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4157747-1-dfa15264b03549839f5145eaa099abb2.jpg)
 
  Lifewire / Emily Ramirez
@@ -62,6 +68,9 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
  The Beantech Bitwatch S1 Plus is an interesting proposition. For only $50, it promises to provide heart rate monitoring, music storage, call management, voice control, and remote notifications. For the most part, it delivers. The Bitwatch has its share of design flaws, such as a poorly fitted watch strap and an iOS-only voice app, but it performs enough to be a reasonable consideration for those looking for their first smartwatch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/8rMhc1Lk5yFRFW4Zlt2K9cmPdFo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-4-01d7e5ff51aa47008d803513064f4a7a.jpg)
 
  Lifewire / Emily Ramirez
@@ -84,6 +93,9 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
  Lifewire / Emily Ramirez
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance: You get what you pay for**
 
  The Bitwatch’s low price tag shows in its performance, unfortunately. The Siri app is just that: it interfaces with Siri, meaning that voice commands are iOS-exclusive. Notification handling on the device can get confusing also. You find notifications in the Remote Notifier app, and dismissing them on the Bitwatch does not dismiss them on your phone.
@@ -94,10 +106,21 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
  If you’d like to listen to calls or music through the speaker, you will miss a lot of information— think of those jingles they play when you’re on hold for a phone call. At least the screen is big and easy to read, and the notifications_do_ work. It’s good enough for someone that wants to get a feel to a smartwatch experience, but there are better options for a little more money if you can afford it.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/7GtX2IU-w4sJA-BTqQtHQThxaJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-3-ade31135cd9d4fe0b6b01286941d2652.jpg)
 
  Lifewire / Emily Ramirez
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Battery: It last longer than most flagship smartwatches**
 
  The battery life on the Bitwatch is excellent. With regular usage (GPS, heart rate, Bluetooth all on), we got between two and three days of use before we had to recharge. Charging is a little annoying, though, since it uses a snapping charger base that’s difficult to remove.
@@ -120,6 +143,9 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
  The Beantech Bitwatch is not a groundbreaking smartwatch, but it provides a lot of essential features for $50\. If you’re looking to try out smartwatches, the Bitwatch will give you a solid battery life, music storage, passive notifications, phone call management, and a very large touchscreen.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Bitwatch S1 Plus

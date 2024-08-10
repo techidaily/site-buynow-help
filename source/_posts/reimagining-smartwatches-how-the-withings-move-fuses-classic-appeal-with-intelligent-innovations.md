@@ -1,7 +1,7 @@
 ---
 title: Reimagining Smartwatches - How the Withings Move Fuses Classic Appeal with Intelligent Innovations
-date: 2024-08-05 17:28:59
-updated: 2024-08-07 11:37:55
+date: 2024-08-09T00:39:03.415Z
+updated: 2024-08-10T00:39:03.415Z
 categories:
   - BestProducts
 description: This Article Describes Reimagining Smartwatches - How the Withings Move Fuses Classic Appeal with Intelligent Innovations
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/H1dQv54wQVOKOjM-7H0MlJ5X5xw=/400x300/fi
 
 ## Beantech Bitwatch S1 Plus
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/JogmBSjTGQl_gqbjuX8prgeJJPA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4157747-1-dfa15264b03549839f5145eaa099abb2.jpg)
 
  Lifewire / Emily Ramirez
@@ -37,6 +41,9 @@ thumbnail: https://www.lifewire.com/thmb/H1dQv54wQVOKOjM-7H0MlJ5X5xw=/400x300/fi
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Beantech Bitwatch S1 Plus
 
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/RIxQYWLMnyHkO9IcguCoRX11EbY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4157747-1-dfa15264b03549839f5145eaa099abb2.jpg)
@@ -80,10 +87,16 @@ thumbnail: https://www.lifewire.com/thmb/H1dQv54wQVOKOjM-7H0MlJ5X5xw=/400x300/fi
 
  Setting up the Bitwatch works as you’d expect. Pair it via the Bluetooth on your phone and download the Beantech app. It works with both Android and iOS, so you should have no difficulty. Alerts will show up in the remote notifier app, and apps such as the calendar are not synced with your phone’s calendar apps, so keep that in mind if you’d like to add any events, notifications, or alarms to your watch.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/O7xHfA9sKsBdC0nmqNXbFky-Dm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-2-3b838f1124184bbd9452b79bb8449c2b.jpg)
 
  Lifewire / Emily Ramirez
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Performance: You get what you pay for**
 
  The Bitwatch’s low price tag shows in its performance, unfortunately. The Siri app is just that: it interfaces with Siri, meaning that voice commands are iOS-exclusive. Notification handling on the device can get confusing also. You find notifications in the Remote Notifier app, and dismissing them on the Bitwatch does not dismiss them on your phone.
@@ -94,6 +107,9 @@ thumbnail: https://www.lifewire.com/thmb/H1dQv54wQVOKOjM-7H0MlJ5X5xw=/400x300/fi
 
  If you’d like to listen to calls or music through the speaker, you will miss a lot of information— think of those jingles they play when you’re on hold for a phone call. At least the screen is big and easy to read, and the notifications_do_ work. It’s good enough for someone that wants to get a feel to a smartwatch experience, but there are better options for a little more money if you can afford it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/7GtX2IU-w4sJA-BTqQtHQThxaJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-3-ade31135cd9d4fe0b6b01286941d2652.jpg)
 
  Lifewire / Emily Ramirez
@@ -102,12 +118,18 @@ thumbnail: https://www.lifewire.com/thmb/H1dQv54wQVOKOjM-7H0MlJ5X5xw=/400x300/fi
 
  The battery life on the Bitwatch is excellent. With regular usage (GPS, heart rate, Bluetooth all on), we got between two and three days of use before we had to recharge. Charging is a little annoying, though, since it uses a snapping charger base that’s difficult to remove.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Reasonable, but worth paying more**
 
  The Bitwatch costs about $50, which is reasonable for its features and performance. You get reliable notifications and a passable heart rate monitor, as well as some basic functions like alarms and a speaker. If you want a cheap smartwatch, then the Bitwatch isn’t a bad pick, but $30 more can get you GPS and smarter notifications. If you are after a solid fitness tracker, both Garmin and[Fitbit](https://www.lifewire.com/what-is-fitbit-4176010) have[fantastic wearables](https://www.lifewire.com/phone-accessory-reviews-4102587) for under $100.
 
  The Beantech Bitwatch is not a groundbreaking smartwatch, but it provides a lot of essential features for $50.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Competition: If you want more, it will cost more**
 
  For a budget smartwatch, the Bitwatch packs a lot of features. However, it suffers in reliability and style, which may turn users off from the smartwatch market altogether. For a little more money, you can get the Amazfit Bip_,_ a sleek smartwatch from Huami that has a thirty-day battery life, fitness tracking, onboard GPS, and notifications. If you’re looking to get something very cheap to try out the smartwatch lifestyle, you should also look at the Padgene DZ09 Smart Watch, which is only $15 and has a lot of the features on the Bitwatch.

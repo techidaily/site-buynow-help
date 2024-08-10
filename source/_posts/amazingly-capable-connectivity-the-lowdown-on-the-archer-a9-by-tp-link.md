@@ -1,7 +1,7 @@
 ---
 title: "Amazingly Capable Connectivity: The Lowdown on the Archer A9 by TP-Link"
-date: 2024-08-04 12:55:18
-updated: 2024-08-07 10:36:55
+date: 2024-08-09T00:38:51.483Z
+updated: 2024-08-10T00:38:51.483Z
 categories:
   - BestProducts
 description: "This Article Describes Amazingly Capable Connectivity: The Lowdown on the Archer A9 by TP-Link"
@@ -17,8 +17,14 @@ Buying a new[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) does
 
  Our Top Picks
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Amazon](https://www.amazon.com/tvs/?tag=lifewire-onsite-prod-20&ascsubtag=4164092%7Cnbed2f9e3849f4c2b955e513b4727c27416%7C)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sony KD55X720E 55-Inch 4k Ultra HD Smart LED TV](https://www.lifewire.com/thmb/zL6fl10C4m2kTVhjqbd6DY7SSzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SonyKD55X720E55-Inch4kUltraHDSmartLEDTV-5ae2296bfa6bcc0036833c06.jpg)
 
  Courtesy of Amazon.com
@@ -27,6 +33,9 @@ Buying a new[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) does
 
  Moreover, Amazon offers helpful customer service and easy returns – most television orders will ship for free. When you're looking for a new TV at a great price and the convenience of shipment right to your door, don't overlook Amazon.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Walmart](https://www.walmart.com/cp/tv-video/1060825)
 
 ![SAMSUNG 65&#34; Class Curved 4K (2160P) Ultra HD Smart QLED HDR TV](https://www.lifewire.com/thmb/gtaur41ippil2WcpMY6V6mTIJNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SAMSUNG65ClassCurved4K2160PUltraHDSmartQLEDHDRTV-5ae229a28e1b6e0037c6f2ed.jpeg)
@@ -37,6 +46,9 @@ Buying a new[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) does
 
  Purchase new or score a great deal by browsing refurbished products. Walmart also offers value bundles that include popular accessories, making the buying process even more accessible. Plus, Walmart gives you a generous 90 days to return a television, and they accept returns in-store if you don’t want to deal with the hassle of shipping an item back.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftv-home-theater%2Ftvs%2Fabcat0101000.c%3Fid%3Dabcat0101000)
 
 ![Insignia™ - 55&#34; Class](https://www.lifewire.com/thmb/8pbyklpNAzakxsqz4XqjhuJNqNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Insignia-55Class-5ae229eb0e23d900398f9d13.jpg)
@@ -47,6 +59,9 @@ Buying a new[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) does
 
  Need a new TV fast? On Best Buy’s website, you can sort by items that are available that day for in-store pickup. Many items ship free or have a price-match guarantee to help you get the best deal. Browse new or open-box products or even request help with installation from Best Buy’s tech team.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Overstock](https://www.overstock.com/Electronics/Televisions/2171/cat.html)
 
 ![LG 55-inch Class 4K UHD OLED with HDR OLED55C7P Smart TV](https://www.lifewire.com/thmb/8UoT2SJd7ztOHAWsHQiJvo3hPyo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG55-inchClass4KUHDOLEDwithHDROLED55C7PSmartTV-5ae22e06a18d9e00374a7135.jpg)
@@ -67,6 +82,9 @@ Buying a new[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) does
 
  Costco offers competitive pricing and a generous return policy that gives you a 90-day window to return a TV. They allow you to return in-store for an immediate refund. Do you live in an apartment or townhome? Costco is one of the only online retailers that offer free delivery that includes up to two flights of stairs. The main downside is that Costco only offers TVs from four brands – Samsung, Vizio, LG, and TCL – and some deals will only be available to members. However, this still gives customers a decent selection and the chance to score a great deal online.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [B&H Photo, Video, and Pro Audio](https://www.bhphotovideo.com/c/buy/Flat-Panel-Televisions/ci/2500/N/3965713807)
 
 ![Sony KDL-48W650D 48-inch 1080p LED/LCD TV](https://www.lifewire.com/thmb/b-KwMxBqVu4xWj3zN6BEuRsKR20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-KDL48W650D-1080p-smart-tv-5b4250efc9e77c00370da324.jpg)
@@ -77,6 +95,9 @@ Buying a new[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) does
 
  They also have a page dedicated to daily deals; this is a great way to see if you can save a little extra money without looking for promo codes or coupons. If browsing the site on the weekend, you should note that the company observes Shabbat and all Jewish holidays. So, if you put something in your cart on Friday evening, you won't be able to checkout until after sundown on Saturday or when the holiday observance ends. They have an alert system that emails you when checkout re-opens, allowing you to pick right back up where you left off.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## How to Choose a TV Retailer and Get the Best Deal
 
  With so many brick-and-mortar and online retailers, shopping for a new TV can be a slog. Even though many big box retailers now allow for online shopping, you can still spend hours, days, or weeks scrolling through inventory selections, comparing brands and models. Shopping online for television can be daunting in its own right since you can't physically see the TV; this makes it difficult to visualize it in your space and challenging to know the picture and audio quality.
@@ -101,10 +122,16 @@ Buying a new[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) does
 
  If you're thinking of springing for the most expensive television, you may be paying for features you don't need and won't use. It's important to consider what you want your new television to do and where you'll have it in your home. Will it be the primary television in your living room or home theater? You'll want a decent-sized screen and plenty of smart features to binge-watch your favorite shows and movies. Will it be a secondary TV in your bedroom or kids' playroom? Look at smaller televisions and models without streaming capabilities to monitor what your children are watching.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Samsung Frame TV - TV Viewing Mode](https://www.lifewire.com/thmb/4NlrvFP4z3ApRPaGZXmBbs26QbI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-frame-tv-aaa-59b6dd7dd088c0001176262c.jpg)
 
  Samsung Frame TV - TV Viewing Mode.  Image provided by Samsung
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Price Matching
 
  Have you ever bought something in-store or online, only to find the same thing at a different place for a better price? Many retailers have a price matching policy; if you find the same television model at one of their competitors for a better price, they'll match it to keep you as a loyal customer. To take advantage of this, you often need a copy of the sale ad or promotional price to show as proof, and the sale price usually has to be the most recent to claim a price match.
@@ -113,6 +140,10 @@ Buying a new[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) does
 
 ![Wall Mounted TV and Media Console](https://www.lifewire.com/thmb/u4fTSa3rYLdZIC2otIcwcOHHurM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ikea-TV-Stand-Hack-DIY-via-smallspaces.about.jpg-56a889425f9b58b7d0f3249b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Home Delivery and Site-to-Store Shipping
 
  If you have a smaller vehicle or can't borrow a van or truck from a friend or family member, you may want to consider buying from a home-delivery retailer. You can ask customer service about having a TV that was purchased in-store delivered to your home; some stores even have staff who will help you set up your new TV and make sure everything works before leaving, making returns easier. It eliminates awkward and dangerous driving with a larvae TV box half hanging out of your trunk.

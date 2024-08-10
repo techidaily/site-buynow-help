@@ -1,7 +1,7 @@
 ---
 title: "Theodore by Flexispot: A Chic & Contemporary Stand-Up Workspace Evaluation"
-date: 2024-08-03 20:57:11
-updated: 2024-08-06 10:31:38
+date: 2024-08-09T00:39:08.187Z
+updated: 2024-08-10T00:39:08.187Z
 categories:
   - BestProducts
 description: "This Article Describes Theodore by Flexispot: A Chic & Contemporary Stand-Up Workspace Evaluation"
@@ -36,8 +36,14 @@ Lifewire / Rebecca Isaacs
 
 4.2
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Flexispot Theodore Standing Desk
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/DtKuV5cnXF6F_hZWcmPDMzPTFDY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_HeroSquare-a880730a5c574fbc9dfef59383e4aee6.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -64,6 +70,9 @@ Lifewire / Rebecca Isaacs
 
  Cue the Flexispot Theodore Standing Desk. The Flexispot was the answer to everything I needed in my workspace: classy; modern; and completely adjustable. After a week of testing, it’s safe to say I’ve never been so madly in love with a piece of furniture.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Design: Mixing the old with the new
 
  This standing desk’s design and aesthetic gave me an executive feel when I set it up. First things first—it’s really heavy, clocking in at around 100 pounds if the packaging is to be believed. I can’t recommend handling the box by yourself, and, had I tried that myself, I would have probably been squished trying to haul it up two flights of stairs.
@@ -72,6 +81,9 @@ Lifewire / Rebecca Isaacs
 
  The wooden veneer immediately caught my eye. Named after the famous Theodore Roosevelt, this desk incorporates a wooden walnut veneer to give its classic look. It’s this American design, along with rustic knobs on the sole drawer, that give it a timeless look that can complement any home. Even better were the two USB ports that were incorporated beside the buttons for raising and lowering the desk.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/du2Ec4SmWWkaWQQCKbMuR4NiBUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_02-4a15245115084875b6ac05ba8f4c6a53.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -86,6 +98,9 @@ Lifewire / Rebecca Isaacs
 
  The Theodore Standing Desk also turned out to be the perfect place to store my[Jabra Talk 45 Headset](https://www.lifewire.com/jabra-talk-45-review-5070286#:~:text=A%20great%2C%20feature%2Dpacked%20Bluetooth,with%20its%20voice%20command%20features.) and[Microsoft RVF Arc Touch Mouse](https://www.lifewire.com/microsoft-rvf-arc-touch-mouse-review-4799143) so I wouldn’t keep losing them around the house. The desk’s drawer is about three inches deep, so it could also easily store important papers. And, since the desk space is so large, I could easily fit two 17-inch laptops on there and have extra space to hold my cell phone, planner, and a desk lamp with room to spare.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/frfVa5g5ngg9vZAugmed_f2jsho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_03-b929f6838e464f14ad5615d440449658.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -98,6 +113,9 @@ Lifewire / Rebecca Isaacs
 
  One of my biggest gripes about the controls is that sometimes the buttons didn’t register when I first pressed them.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/IfBuQB7ShOvw2XlkJal4eCb1myE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_04-1e85750d263e43f4815a4b1eeddf41a1.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -130,6 +148,9 @@ Lifewire / Rebecca Isaacs
 * [Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/ergodriven-topo-review-4775310)
 * [Ergohead Standing Desk Mat](https://www.lifewire.com/ergohead-standing-desk-mat-review-4775317)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Theodore Standing Desk

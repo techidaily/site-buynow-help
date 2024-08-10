@@ -1,7 +1,7 @@
 ---
 title: StudioFX's Bright Kit Reviewed for Durability & Efficiency
-date: 2024-08-07 15:45:10
-updated: 2024-08-08 12:47:55
+date: 2024-08-09T00:38:47.420Z
+updated: 2024-08-10T00:38:47.420Z
 categories:
   - BestProducts
 description: This Article Describes StudioFX's Bright Kit Reviewed for Durability & Efficiency
@@ -13,8 +13,14 @@ thumbnail: https://www.lifewire.com/thmb/oWM-tSYp5hdg_4purj7989gLsiM=/400x300/fi
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Alienware Aurora R7
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Alienware Aurora R7](https://www.lifewire.com/thmb/mgtquLrY-jPbXryeiPiK4PShYo4=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_2LW4045927-1-7ee01493034d4631894328a424e3ac52.jpg)
 
 Lifewire / Gannon Burgett
@@ -65,6 +71,9 @@ Lifewire / Gannon Burgett
 
  For our review, we tested the Alienware Aurora R7 configured with an Intel Core i7 8700, Nvidia GeForce GTX 1070 8GB, 1TB HDD, 256GB M.2 PCIe SSD storage, and 16GB of RAM. Read on to see how it fared in games, benchmarks, and day-to-day use and see if it’s worth the high price.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Alienware Aurora R7](https://www.lifewire.com/thmb/ZHUtcT-UchRoDP6TS6RcsX2MSQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4045927-4-0a0b8fbcdc824e1c9abf26cdd1ef57c4.jpg)
 
  Lifewire / Gannon Burgett
@@ -81,14 +90,23 @@ Lifewire / Gannon Burgett
 
  On the rear of the device, there is no shortage of connections. The back has four USB 3.1 ports, six USB 2.0 ports, a USB-C port, a complete set of audio connectors including an optical input, and an Ethernet port. Finally, you have a display port for the motherboard, but your GTX 1070 will have its own set of display ports.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Alienware Aurora R7](https://www.lifewire.com/thmb/D2eCHDgSj6P_M0PYbrxB8UEnWw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4045927-6-5c5c421e3ce842339e931c622f5ee7fc-037237f24b934550859cfea611274f64.jpg)
 
 Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Setup Process: Complex settings, simplified**
 
  Setting up the Alienware Aurora R7 was fairly straightforward. In the box was the tower, a mouse, a keyboard, and the power cable. After connecting the Aurora R7 to power, plugging in the mouse and keyboard, and attaching a monitor, it was just a matter of going through Window 10’s setup process to get the ball rolling.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Performance: It’ll take nearly anything you throw at it**
 
  The Alienware Aurora R7 model we tested was configured with an Intel Core i7-8700 CPU, an NVIDIA GeForce GTX 1070 8GB graphics card,16GB of[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) , and a 256GB M.2 PCIe SSD powering the operating system and apps. Meanwhile, a 2TB HDD served as the mass media storage.
@@ -103,6 +121,9 @@ Lifewire / Gannon Burgett
 
  Overall, the Aurora R7 tested on-par or ahead of other PCs with similar specs. As is to be expected, it excelled in the graphics department, but it certainly didn’t struggle with multitasking and everyday tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Alienware Aurora R7](https://www.lifewire.com/thmb/tHYfoI6_7SBEzzlShmeBOabqaNw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4045927-5-05e1d507405c4e0288fa00242bf06396.jpg)
 
  Lifewire / Gannon Burgett
@@ -135,10 +156,16 @@ Lifewire / Gannon Burgett
 
  You could you easily build a PC with better specs for less money, but you also have to take into account the amount of time it takes to shop around for various components and build the computer. If building gaming PCs is something you’re interested in, then skip the Aurora R7 and start your own build. However, if you want to get started with gaming or VR without worrying about compatibility and the building process, the Aurora R7 has plenty of configurations that can suit your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Alienware Aurora R7](https://www.lifewire.com/thmb/dyYHBipuM2zl9fR3GmILkVHlxVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4045927-2-dbdd27635b4a47e6bb7ccdd54bb7d952.jpg)
 
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Competition: Convenience rules above all else**
 
  Judging competitors of the Alienware Aurora R7 can get incredibly tricky considering all the different configurations available, not to mention the option of building your own computer. That said, one pre-built gaming PC stands out alongside the Aurora R7 in terms of specs and value—the MSI Infinite X.

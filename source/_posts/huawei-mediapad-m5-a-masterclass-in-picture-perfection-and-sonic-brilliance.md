@@ -1,7 +1,7 @@
 ---
 title: Huawei MediaPad M5 - A Masterclass in Picture Perfection and Sonic Brilliance
-date: 2024-08-02 13:17:19
-updated: 2024-08-05 11:59:19
+date: 2024-08-09T00:38:56.414Z
+updated: 2024-08-10T00:38:56.414Z
 categories:
   - BestProducts
 description: This Article Describes Huawei MediaPad M5 - A Masterclass in Picture Perfection and Sonic Brilliance
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/CVT_-DqC-CCcWUC0wkIrzlX6Heo=/400x300/fi
 
 ## Microsoft Minecraft
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Minecraft](https://www.lifewire.com/thmb/Y0nsFxZhjPq1ZIxl9AcBg6GpUNo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Minecraft-Playstation-4-Video-Game-1-baf9fe02377c414db0f247cdfcb3484f.jpg)
 
 Lifewire / Andrew Hayward
@@ -39,6 +42,9 @@ Lifewire / Andrew Hayward
 
 4.9
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Microsoft Minecraft
 
 ![Minecraft](https://www.lifewire.com/thmb/8qTKocVx8uUQO_o8JiQevLgejLg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Minecraft-Playstation-4-Video-Game-1-baf9fe02377c414db0f247cdfcb3484f.jpg)
@@ -70,6 +76,9 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Plot: DIY**
 
  Believe it or not, there is no plot in Minecraft—and no storyline or fleshed-out characters, either, although the boy and girl character skins are referred to as Steve and Alex, respectively. Minecraft is a freeform playground in which to use your own imagination to create adventures and narratives. Minecraft won’t do that heavy lifting for you, although there is an increasing number of storylines found externally in official books, comics, and spin-off games.
@@ -80,6 +89,9 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## **Gameplay: Simple on the surface**
 
  The name of the game in Minecraft is simplicity. While there are hundreds of items to discover, craft, and use, as well as various creatures to interact with, Minecraft never complicates the way that you actually interact with each randomly-generated game world.
@@ -104,14 +116,23 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Graphics: All block everything**
 
  It’s all chunky and fuzzy in Minecraft, which uses a voxel-based system that makes everything look like giant 3D pixels. Even human characters and animals are boxy-looking, but that’s part of the lo-fi charm of the game. The Minecraft look has become iconic over the last 10 years, and influenced an untold number of other games since. There are visual modifications available that smooth out the graphics or apply lifelike textures, but the core look is decidedly Minecraft.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Minecraft](https://www.lifewire.com/thmb/vtgr1TMhJGVqcjBzkQXrnRqhUsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Minecraft-Playstation-4-Video-Game-6-0ca6fe5018cf465caed86f1b81ef3e36.jpg)
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Kid Appropriate: They play it in schools (seriously)**
 
  Minecraft is rated Everyone 10+ by the ESRB. You can craft and wield weapons such as swords, axes, and a bow and arrow, and use them to slay beasts such as zombies and the explosive Creeper, as well as attack and kill animals like pigs and wolves. You can also set animals and creatures on fire. However, it’s all presented in the same kind of goofy, pixel-stylized design and isn’t graphic or realistic at all. Escaping enemies in the nighttime can be intense, however, so younger players might do better with Creative mode or by staying inside of a shelter all night in Survival mode.
@@ -128,6 +149,9 @@ Lifewire / Andrew Hayward
 
  Minecraft is an excellent value at $20 for the PlayStation 4, Xbox One, Switch, and PC versions of the game, and just $7 for the iOS and Android editions. That’s a steal for a game that players could potentially pour hundreds or thousands of hours into. The in-game Marketplace purchases might seem a bit pricey by comparison, with some content packs and new modes selling for the equivalent of $5+ apiece, but it could be a small price to pay to help keep an already-cheap game fresh for longer.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Minecraft vs. LEGO Worlds**
 
  Minecraft has been described as many as modern-day or digital LEGOs although there actually are licensed LEGO Minecraft building kits out there. However, in the gaming world, LEGO tried to capitalize on the Minecraft phenomenon by making its own creative building game called[LEGO Worlds](https://www.lifewire.com/lego-dimensions-review-4686589) .

@@ -1,7 +1,7 @@
 ---
 title: Score the Ultimate Savings with Roku Specials This Prime Day
-date: 2024-08-04 19:32:57
-updated: 2024-08-06 10:49:48
+date: 2024-08-09T00:38:46.741Z
+updated: 2024-08-10T00:38:46.741Z
 categories:
   - BestProducts
 description: This Article Describes Score the Ultimate Savings with Roku Specials This Prime Day
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/LvLoQ9-K0KJwUj-Ozbt9jQn-RNk=/400x300/fi
 
 ## Apple Watch Series 9 GPS + Cellular 45mm
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple Watch Series 9 (front).](https://www.lifewire.com/thmb/WFGRUAsDxA0krS7sPX6WGqtdVbQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSeries9front-649521c98f4d421cad652d5c0d1230a4.jpg)
 
 Apple
@@ -68,6 +71,9 @@ Lifewire/Molly McLaughlin
 
 [How to Set Up Apple Watch](https://www.lifewire.com/set-up-apple-watch-4589317)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Pricing and What's New
 
  The Apple Watch Series 9 costs $399 for Wi-Fi only, the same as the Series 8 & 7\. To add Cellular, pricing starts at $499\. (I have the Apple Watch Series 9 GPS + Cellular 45mm.)
@@ -90,10 +96,16 @@ Lifewire/Molly McLaughlin
 
 [How to Ping Your iPhone From Your Apple Watch](https://www.lifewire.com/ping-iphone-from-apple-watch-7570320)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Theater Mode
 
  One of my favorite features is Theater Mode, which prevents the screen from lighting up when you glance at it or receive a notification. It's perfect for the movies and theater, of course, but it also came in handy when I was recently on jury duty during the trial and needed to keep distractions to a minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apple Watch Theater Mode screen.](https://www.lifewire.com/thmb/q170D6_ERklcCxR3P_p6t13HV5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_theatermodeoffon-953887b5d6f547c1b334d7912aa139ac.jpg)
 
  It turns on silent mode and makes your Walkie-Talkie status unavailable, but you'll receive haptic notifications.  
@@ -106,6 +118,9 @@ Lifewire/Molly McLaughlin
 
  In my experience, the watch was quick to pause when I stopped at traffic lights and resume once I started moving again. (This is also helpful if you forget to end a workout.)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who Should Buy It?
 
  If you have a Series 6 or older, it's worth moving up to the Series 9 as you're likely dealing with declining performance and a more easily depleted battery. The Series 9 costs the same as the Series 7 and 8, so there's little reason to purchase last year's model.
@@ -120,6 +135,9 @@ Lifewire/Molly McLaughlin
 
 [Smart Watches & Wearables](https://www.lifewire.com/how-to-use-apple-watch-4584460)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Watch Series 9 GPS + Cellular 45mm

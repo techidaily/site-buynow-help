@@ -1,7 +1,7 @@
 ---
 title: Kobo Clara HD - Your Handy, Lightweight Solution for Avid Readers on the Move
-date: 2024-08-04 21:10:17
-updated: 2024-08-05 10:14:32
+date: 2024-08-09T00:39:13.175Z
+updated: 2024-08-10T00:39:13.175Z
 categories:
   - BestProducts
 description: This Article Describes Kobo Clara HD - Your Handy, Lightweight Solution for Avid Readers on the Move
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/7ev2-TfiM509XHStrVAhMqwnGY4=/400x300/fi
 
 ## Netgear Nighthawk C7000 DOCSIS 3.0 AC1900 Wi-Fi Cable Modem Router
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Netgear Nighthawk C7000](https://www.lifewire.com/thmb/soQ2gClAjN1cPpVw6_sd2XQDEgw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4082541-4-9cd1eee50edf4975a739591263d7f54d.jpg)
 
 Lifewire / Claire Cohen
@@ -66,6 +70,9 @@ Lifewire / Claire Cohen
 
  We recently got the Netgear Nighthawk C7000 in for testing, so we can answer all of these questions and more. Let’s find out if this modem is worth the price of admission.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design: Lightweight and low-profile
 
  For such a high-end modem, the Netgear Nighthawk C7000 is surprisingly thin and light. Compared to the Xfinity modem that we have lying around, it’s a huge improvement.
@@ -74,10 +81,16 @@ Lifewire / Claire Cohen
 
  While this modem does have wireless capabilities, the antennae are inside the device, which makes for a more streamlined look.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Netgear Nighthawk C7000](https://www.lifewire.com/thmb/XBxyGD8RCZUzuy5c-9PSfLF4OBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4082541-3-a9db59bb3f7a4f6aa4d7b1d852f4ee99.jpg)
 
  Lifewire / Claire Cohen
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Setup: Easy for a modem
 
  Right out of the gate, it’s important to note that modems aren’t quite as straightforward to set up as[your average router](https://www.lifewire.com/difference-between-modem-and-router-4159854) . We had to gather all of our ISP data—account number, username, etc.—before we could get started. Then we connected the Netgear Nighthawk to power and a coax cable (if you were doing this at home, you’d need to disconnect your old modem first).
@@ -102,6 +115,9 @@ Lifewire / Claire Cohen
 
  The Netgear Nighthawk C7000 has three antennae built in, too. This means it has dual-band connectivity and a rated speed of AC1900, which can deliver up to 600 Mbps and 1,3000 Mbps on the 2.4GHz and 5.0GHz bands, respectively. So, even with our extreme 250Mbps internet connection, the modem was able to keep up during even the busiest times.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Netgear Nighthawk C7000](https://www.lifewire.com/thmb/lQeMP8N7uIA0CjbxZqkH0q0LICU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4082541-2-8832c46a0891440caed03fdfb4ae3507.jpg)
 
  Lifewire / Claire Cohen
@@ -124,6 +140,9 @@ Lifewire / Claire Cohen
 
  The Netgear Nighthawk C7000 is going to set you back $209, which might sound like a lot if you already have a modem set up. But take a look at your cable and internet bill and see how much you’re paying each month to rent a modem from your ISP. You won’t have to pay that anymore with the Nighthawk C7000\. Over time, this device can actually pay for itself.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Netgear Nighthawk C7000 vs. Motorola MT7711
 
  The Netgear Nighthawk C7000 has plenty of competition—most notably the Motorola MT7711, which retails for $199\. Not only does this Motorola modem have similar specs (24x8 DOCSIS 3.0 channels and AC1900 wireless capabilities), it also includes two phone ports. These ports are compatible with Xfinity’s phone service, so if you have a landline, you can use this modem for that, too. It’s a bit cheaper than Netgear’s modem, and it looks a little cheaper, too.
@@ -140,6 +159,9 @@ Lifewire / Claire Cohen
 * [Netgear C3700 Cable Modem Router](https://www.lifewire.com/netgear-c3700-cable-modem-router-review-4686094)
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Nighthawk C7000 DOCSIS 3.0 AC1900 Wi-Fi Cable Modem Router

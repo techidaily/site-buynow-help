@@ -1,7 +1,7 @@
 ---
 title: Expert Evaluation of Urban Armor Gear’s Robust MacBook Pro Shield Case
-date: 2024-08-06 12:49:36
-updated: 2024-08-07 12:45:45
+date: 2024-08-09T00:38:55.903Z
+updated: 2024-08-10T00:38:55.903Z
 categories:
   - BestProducts
 description: This Article Describes Expert Evaluation of Urban Armor Gear’s Robust MacBook Pro Shield Case
@@ -13,8 +13,14 @@ thumbnail: https://www.lifewire.com/thmb/5LDuZ6hwEpbkAgggHepaMTWoOBM=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Blueear Bluetooth Beanie Hat
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Blueear Bluetooth Beanie Hat](https://www.lifewire.com/thmb/doY_zCxSysBLDibywXLN58DqFNo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4159779_HeroSquare-d9847be4cedf4a279be58a3ffe96bd06.jpg)
 
  Lifewire / Jeffrey Daniel Chadwick
@@ -39,6 +45,9 @@ thumbnail: https://www.lifewire.com/thmb/5LDuZ6hwEpbkAgggHepaMTWoOBM=/400x300/fi
 
 ## Blueear Bluetooth Beanie Hat
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Blueear Bluetooth Beanie Hat](https://www.lifewire.com/thmb/AjDXKp_HcU3-156-Y8LLC7h-Ppc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4159779_HeroSquare-d9847be4cedf4a279be58a3ffe96bd06.jpg)
 
  Lifewire / Jeffrey Daniel Chadwick
@@ -68,6 +77,11 @@ thumbnail: https://www.lifewire.com/thmb/5LDuZ6hwEpbkAgggHepaMTWoOBM=/400x300/fi
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## **Design: Simple and discreet**
 
  The idea behind this Bluetooth beanie is very simple and effective. Take a beanie and stitch up some inexpensive Bluetooth speakers in the seam. The speakers are inserted in a little pouch over each ear. Once the cap is on, you can push the speakers around so they fit your head precisely. You’ll have to adjust the speakers every time you put the beanie on, which gets annoying after a while.
@@ -84,6 +98,9 @@ thumbnail: https://www.lifewire.com/thmb/5LDuZ6hwEpbkAgggHepaMTWoOBM=/400x300/fi
 
  The Bluetooth range is listed as the standard 10m, or about 30 feet. We found that to be generally accurate so long as you have a direct line of sight to the phone or computer it’s paired to. If walls and other objects get in the way, the range drops sharply.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Blueear Bluetooth Beanie Hat](https://www.lifewire.com/thmb/3aVPDXCbn533gdsOOMrbCMHgUo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4159779_02-39d07d95367d404e8e36d49ecd0f6aaa.jpg)
 
  Lifewire / Jeffrey Daniel Chadwick
@@ -96,6 +113,9 @@ thumbnail: https://www.lifewire.com/thmb/5LDuZ6hwEpbkAgggHepaMTWoOBM=/400x300/fi
 
  Switching between paired devices isn’t quite as seamless as we’ve seen in[Bluetooth earbuds](https://www.lifewire.com/best-wireless-earbuds-4140480) like the[AirPods](https://www.lifewire.com/apple-airpods-review-4589511) and[PowerBeats Pro](https://www.lifewire.com/beats-powerbeats-pro-review-4694361) . During our testing phase, it generally took about one minute to switch from a Mac to an iPhone. It took even longer from an iPhone to a Mac since you have to route the audio manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Blueear Bluetooth Beanie Hat](https://www.lifewire.com/thmb/vDgOpMTjzx4rXxlDNddSrWYNiDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4159779_06-ea3ea611fbf8423e9221af228b7c37e4.jpg)
 
  Lifewire / Jeffrey Daniel Chadwick
@@ -104,6 +124,9 @@ thumbnail: https://www.lifewire.com/thmb/5LDuZ6hwEpbkAgggHepaMTWoOBM=/400x300/fi
 
  The control panel sewed into the band sits over your left ear. This is an odd place for it for right handed people, requiring them to reach across their torso and face to use it with their dominant hand. Nevertheless, the controls are easy and complete. Controls include volume, pause, play, previous and next track. It only takes a few minutes of using the cap to learn its controls effectively.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Battery Life: Good, but not as advertised**
 
  Blueear claims a full battery will yield eight hours of listening time from this Bluetooth beanie. However, we never got past six hours of continuous use during our testing phase. That’s more than enough juice to get you through an autumn hike or a winter evening night out, but if you’re going to be outside all day and want your tunes the whole time, you’ll probably want to invest in a pair of heavy-duty wireless earbuds like the Powerbeats Pro.
@@ -136,6 +159,9 @@ thumbnail: https://www.lifewire.com/thmb/5LDuZ6hwEpbkAgggHepaMTWoOBM=/400x300/fi
 
  However, if you’re interested in an average beanie and decent sound at a bargain basement price, it’s a good pick. It’s a fashionable beanie that goes well with your winter wardrobe, and the Bluetooth speakers provide enough utility to make it more than a novelty.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Bluetooth Beanie Hat

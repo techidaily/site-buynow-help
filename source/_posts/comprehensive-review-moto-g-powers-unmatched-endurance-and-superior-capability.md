@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review: Moto G Power's Unmatched Endurance & Superior Capability"
-date: 2024-08-04 18:31:25
-updated: 2024-08-05 11:34:53
+date: 2024-08-09T00:39:13.542Z
+updated: 2024-08-10T00:39:13.542Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review: Moto G Power's Unmatched Endurance & Superior Capability"
@@ -13,8 +13,14 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Anker USB 3.0 SuperSpeed 10-Port USB Data Hub
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/xWT9vtGHKtgfNtDh5brQ807gNrI=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_HeroSquare-4e0d4d2c9d45472d9dd2c8f06caed680.jpg)
 
  Lifewire / Jonno Hill
@@ -39,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 
 ## Anker USB 3.0 SuperSpeed 10-Port USB Data Hub
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/pBJOSnO1n_b2MqS-1_5tELF2Z3M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_HeroSquare-4e0d4d2c9d45472d9dd2c8f06caed680.jpg)
 
  Lifewire / Jonno Hill
@@ -68,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## **Design: Lots of ports in a standard configuration**
 
  At 1.7 x 5.7 x 0.9 inches HWD), the Anker USB 3.0 SuperSpeed 10-Port Hub is just about as lean as one might reasonably expect for a device with this many ports. The design is relatively simple, featuring a long rectangular shape, rounded edges, and a thick plastic construction. The device feels very light, but it’s not flimsy.
@@ -88,10 +101,16 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 
  The Anker USB 3.0 SuperSpeed 10-Port Hub comes with a USB (A-to-B) cable to connect to your computer. An AC power adapter is included as well, and comes with a sizable power brick. The hub gives users ten USB 3.0 ports, offering a maximum transfer speed of 5Gbps. The charging port delivers more power than the other 9 making it ideal for charging more power hungry devices like phones and tablets.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Anker USB 3.0 SuperSpeed 10-Port Hub](https://www.lifewire.com/thmb/LqAWiFxZU1YqrVq2KbjQzkz6xMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Anker_UsbHubs_4LW4142295_04-0c115139eb2842759c6a8ceb22719901.jpg)
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Performance: A few shortcomings**
 
  The Anker USB 3.0 SuperSpeed 10-Port Hub performed as promised in our tests, providing the expected 5Gbps speeds. The first nine ports supply the standard 0.9A of power, whereas the final charging port can supply up to 2.0A. If you neglect to connect the hub to a power source, the entire device will have to share the 0.9A of power supplied by your computer’s USB 3.0 port.
@@ -108,6 +127,9 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 
  At a list price of $52.99, the Anker USB 3.0 SuperSpeed 10-Port Hub is a little expensive for what it offers. We would have expected a price of around $10-13 less given the feature set. Anker itself offers cheaper, newer options that stand a good chance at luring shoppers away from this device.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Anker USB 3.0 SuperSpeed 10-Port Hub vs. Anker 10 Port 60W Data Hub with 7 USB 3.0 Ports and 3 PowerIQ Charging Ports**
 
  One of the fiercest competitors to the Anker USB 3.0 SuperSpeed 10-Port Hub is Anker’s own 10 Port 60W Data Hub. This model, 2 years newer, features 7 data ports and 3 PowerIQ dedicated charging ports at 2.1A. The kicker? This model only costs $42.99, forcing shoppers to decide how badly they_really_ need those extra data ports. If you want to charge more than one device at a time at full speed, the newer 10 Port 60W Data Hub definitely has an advantage.

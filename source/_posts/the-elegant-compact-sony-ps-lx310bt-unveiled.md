@@ -1,7 +1,7 @@
 ---
 title: The Elegant, Compact Sony PS-LX310BT Unveiled
-date: 2024-08-05 20:14:58
-updated: 2024-08-06 12:13:23
+date: 2024-08-09T00:38:49.339Z
+updated: 2024-08-10T00:38:49.339Z
 categories:
   - BestProducts
 description: This Article Describes The Elegant, Compact Sony PS-LX310BT Unveiled
@@ -13,8 +13,14 @@ thumbnail: https://www.lifewire.com/thmb/CfBQep-WLpFKpgq6DdHcUBkAD5o=/400x300/fi
 
 4.3
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Audew Portable Air Compressor Pump
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Audew Portable Air Compressor Pump](https://www.lifewire.com/thmb/cFdj6kL0x5ji7kWglykgMkpAMoM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Audew-Tire-Inflator_HeroSquare-918a4d5f24ed473594c14775a3110898.jpg)
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -39,6 +45,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
 ## Audew Portable Air Compressor Pump
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Audew Portable Air Compressor Pump](https://www.lifewire.com/thmb/oqYlb0kfEKI_L1jXrcVUnxqWgy0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Audew-Tire-Inflator_HeroSquare-918a4d5f24ed473594c14775a3110898.jpg)
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -97,6 +106,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Performance: Fast filling for the road**
 
  To put the portable tire inflator through its paces, we took it road tripping through the American Mountain West for several days. We stopped at gas stations and rest stops along the way to simulate real-life situations where you’d be using it on the go.
@@ -115,6 +127,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Great for budget hawks**
 
  The list price for the Audew Portable Air Compressor Pump is about $32 on Amazon, making it one of the most budget-friendly portable tire inflators out there. However, if you shop around, it’s very easy to find it cheaper, making it an even more attractive deal.
@@ -135,6 +150,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
  The Audew Portable Air Compressor Pump has a lot going for it. It’s simple to operate, fills your tires quickly, and has an inexpensive price tag. It’s a basic device with a couple of quirks, but they’re easy to get past. If your goal is to be prepared for an unexpected flat or perform routine tire pressure maintenance, this pump is a cheap and reliable way to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Portable Air Compressor Pump

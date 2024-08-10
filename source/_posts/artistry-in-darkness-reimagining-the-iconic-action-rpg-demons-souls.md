@@ -1,7 +1,7 @@
 ---
 title: "Artistry in Darkness: Reimagining the Iconic Action-RPG, Demon's Souls"
-date: 2024-08-05 15:21:20
-updated: 2024-08-06 10:20:44
+date: 2024-08-09T00:39:09.571Z
+updated: 2024-08-10T00:39:09.571Z
 categories:
   - BestProducts
 description: "This Article Describes Artistry in Darkness: Reimagining the Iconic Action-RPG, Demon's Souls"
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
 ## Namco Bandai Games Demon's Souls
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Demon's Souls](https://www.lifewire.com/thmb/FlkjJ-aAhTQA7lPtbGXSQdiGsnM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_HeroHoriz-c20445163c3a41d1a3cc903b397f80c0.jpg)
 
 Andy Zahn / Lifewire
@@ -41,6 +44,9 @@ Andy Zahn / Lifewire
 
 ## Namco Bandai Games Demon's Souls
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Demon's Souls](https://www.lifewire.com/thmb/eabUhH4mU5iDNuSzJxTCU2ZDjWI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_HeroHoriz-c20445163c3a41d1a3cc903b397f80c0.jpg)
 
 Andy Zahn / Lifewire
@@ -74,6 +80,9 @@ Andy Zahn / Lifewire
 
  If that wasn’t punishment enough, if you die in body form your world tendency will shift from white to black, reducing your maximum health and impacting the story of the game. Once in spirit form, casualties don’t affect your world tendency, but you can affect world tendency intentionally by helping out other players with boss fights to shift your tendency towards white. Killing friendly NPCs, on the other hand, will cause you to shift further towards black.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Demon's Souls](https://www.lifewire.com/thmb/nhDABDvD3Q_L9cQazAzwaVqKve0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_02-1bb17b67cec04909b913e5da616ab22e.jpg)
 
 Andy Zahn / Lifewire
@@ -96,16 +105,25 @@ Andy Zahn / Lifewire
 
 Andy Zahn / Lifewire
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Controls: Different things to different people
 
  Players of the original Demon’s Souls on PS3 will find the controls largely unchanged, while Dark Souls veterans will need to get used to a less developed system than later games. Interestingly, the boss fights were less consistent in difficulty to those in Dark Souls. Some Demon’s Souls boss fights surpass those Dark Souls, while others are shockingly easy.
 
  It’s no secret that much of what makes a Souls game such a unique and enthralling experience is their punishing and frankly unfair degree of difficulty. You will die, and die, and die again.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Story: Vague and intriguing
 
  The only thing potentially harder to figure out than the gameplay of Demon’s Souls is its obscure storyline. You never really know exactly what’s going on, but that’s just perfect really because your purpose in this dying world is to slay demons and take their souls. The vagueness and mystery fits the aesthetics perfectly and helps draw you in. You can try to unravel what’s going on by exploring the world and chatting with NPCs.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Demon's Souls](https://www.lifewire.com/thmb/1Xv-AdMtEdyho60SznaWSfVFHx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_04-ee6ad6f295e6498da8fd2078b2d2cc2d.jpg)
 
 Andy Zahn / Lifewire
@@ -118,12 +136,18 @@ Andy Zahn / Lifewire
 
  Unless you have a buddy to give you hints or have an online guide handy, the learning curve will be steep indeed for people new to the franchise.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Customization: Lots of options
 
  Demon’s Souls features a deep level of both cosmetic and gameplay customization. I spent a long time crafting a cool looking character before diving into the game, though most helmets and other headgear fully obscure your features rendering all that effort mostly meaningless.
 
  There’s a wide variety of armor and weapons hidden throughout the game, though your chosen build will largely determine which gear you will use on a particular playthrough. Be sure to collect crafting materials, since they’re used for leveling up your weapons. Souls are spent on upgrading your character’s stats, and both character and weapon upgrades become progressively more expensive as you progress.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Price: The cost of next-gen gaming
 
  With an MSRP of $70, Demon’s Souls is more expensive now than when it originally launched more than a decade ago. Though the price may seem high, Demon’s Souls is something of a special case. It’s well worth the cost of admission, and it doesn’t hurt that there are no microtransactions or other hidden fees.

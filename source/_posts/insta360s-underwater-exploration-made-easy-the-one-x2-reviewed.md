@@ -1,7 +1,7 @@
 ---
 title: Insta360's Underwater Exploration Made Easy - The One X2 Reviewed
-date: 2024-08-05 18:42:25
-updated: 2024-08-08 11:49:42
+date: 2024-08-09T00:38:57.729Z
+updated: 2024-08-10T00:38:57.729Z
 categories:
   - BestProducts
 description: This Article Describes Insta360's Underwater Exploration Made Easy - The One X2 Reviewed
@@ -13,8 +13,14 @@ thumbnail: https://www.lifewire.com/thmb/ZSPG6uZDhit_U84RypZ4iQCpX3M=/400x300/fi
 
 4.9
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Jaco SmartPro Digital Tire Inflator Pump
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Jaco SmartPro Digital Tire Inflator](https://www.lifewire.com/thmb/Zen4KJ79dgFOiAoxcIwd-DLRfas=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/JacoTireInflator_HeroSquare-3363a32b2cad4c91b4662ed6f6a93ce1.jpg)
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -40,6 +46,10 @@ Lifewire / Jeffrey Daniel Chadwick
 
 ## Jaco SmartPro Digital Tire Inflator Pump
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Jaco SmartPro Digital Tire Inflator](https://www.lifewire.com/thmb/fTLjCd9CqbSCdmXD-XxJjBhyfSw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/JacoTireInflator_HeroSquare-3363a32b2cad4c91b4662ed6f6a93ce1.jpg)
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -64,6 +74,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design and Features: Simple, compact, intuitive**
 
  At just 7.5 inches wide, 2.5 inches tall and 6 inches long, this is the smallest, most compact portable tire inflator we tested. When it’s in its carrying case, it only weighs 2 pounds, 31 ounces. Even small children should be able to carry it. If you need a portable tire inflator but don't have a lot of space, this pump is exactly what you want.
@@ -116,6 +129,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
  It’s impossible to predict how long a product will last after just a few days or using it, however, the warranty period is a good indicator of the long-term durability. Jaco offers a lifetime warranty on this compressor, so it should last a really long time, or at least until you forget it’s still under warranty.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Jaco SmartPro Digital Tire Inflator vs. Kensun Portable Tire Inflator**
 
  We tested this the SmartPro Digital Tire Inflator side-by-side with the Kensun Portable Tire Inflator. Although the Kensun is about twice as large as the Jaco, they’re designed to do the same thing. For example, they both draw power from your car’s 12V socket, but if you want to get away from your car, the Kensun comes with an AC power cord that you can plug into a wall socket. This makes the Kensun a much more versatile pump. And while the built-in light on the Kensun provides great illumination at night, it lacks the hazard and emergency lights you get with Jaco.
@@ -128,6 +144,9 @@ Lifewire / Jeffrey Daniel Chadwick
 
  The Jaco SmartPro Digital Tire Inflator is a great addition to the jumper cables and triangle reflectors in your trunk. Its focus on safety, portability, and accuracy makes it very attractive for people looking to be prepared, and you can usually find it on sale for a reasonable price.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  SmartPro Digital Tire Inflator Pump

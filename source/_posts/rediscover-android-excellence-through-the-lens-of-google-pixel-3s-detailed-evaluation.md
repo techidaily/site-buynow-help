@@ -1,7 +1,7 @@
 ---
 title: Rediscover Android Excellence Through the Lens of Google Pixel 3'S Detailed Evaluation
-date: 2024-08-05 18:32:16
-updated: 2024-08-06 10:24:32
+date: 2024-08-09T00:39:10.038Z
+updated: 2024-08-10T00:39:10.038Z
 categories:
   - BestProducts
 description: This Article Describes Rediscover Android Excellence Through the Lens of Google Pixel 3'S Detailed Evaluation
@@ -37,8 +37,14 @@ Lifewire / Andy Zahn
 
 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Fossil Sport Smartwatch
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fossil Sport Smartwatch](https://www.lifewire.com/thmb/FVsGpLa_gg2Xq47MnBiAgRmc79s=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Fossil-Sport-Smart-Watch-1-b30f7a06ff534614a2afa0261ce1905f.jpg)
 
 Lifewire / Andy Zahn
@@ -82,6 +88,9 @@ Lifewire / Andy Zahn
 
  The Google Wear OS setup experience is decently streamlined, though be prepared to sit through plenty of prompts for the various permissions needed to fully utilize the capabilities of the Fossil Sport. Once you’ve got the Wear OS app installed on your phone, it will guide you through the pairing and setup processes. When you’re through with this initial setup, the other aspects of the watch (like Google Fit, apps,[Bluetooth](https://www.lifewire.com/what-is-bluetooth-2377412) headphone connections, etc.) require their own separate setup processes.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fossil Sport Smartwatch](https://www.lifewire.com/thmb/DdOVg5yJzQTRZs3QPo_qPoBT7mA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fossil-Sport-Smart-Watch-4-653a372a18904e089de460ed88380344.jpg)
 
  Lifewire / Andy Zahn
@@ -90,6 +99,9 @@ Lifewire / Andy Zahn
 
  I appreciated that Fossil included a watch band large enough to fit my extra-large 9-inch wrists with room to spare. I found it comfortable to wear all day long; its lightweight prevented it from being overly burdensome on my wrist.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## **Performance: Accurate stats**
 
  I was impressed by the accuracy of the Fossil Sport’s heart rate sensor and its other fitness tracking features. It read my correct heart rate right off the bat, which is something other smartwatches have failed to do due to my chunky wrists. The GPS and pedometer accurately kept track of my progress on walks and other activities, and these statistics are handled and gamified to some degree through Google Fit. This makes detailed statistics readily available on your phone, though it doesn’t provide quite as much detail and analysis as other fitness tracking software.
@@ -100,6 +112,9 @@ Lifewire / Andy Zahn
 
  I found that I was easily able to get through a day or two without having to recharge the Fossil Sport. Its 24-hour battery claim is accurate under average daily use conditions. Once you do run the battery down, the watch switches into a battery saver mode where only the time is displayed. In this mode, you can expect a week's worth of battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Fossil Sport Smartwatch](https://www.lifewire.com/thmb/a8TojyXavE05a-LRkRQauxY7ChM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fossil-Sport-Smart-Watch-2-cb6ea34d0ed1441c8c0dac4542d0dd1d.jpg)
 
  Lifewire / Andy Zahn
@@ -116,10 +131,16 @@ Lifewire / Andy Zahn
 
  Just because an app runs on WearOS, this doesn’t mean it will run flawlessly on any WearOS device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: An excellent value**
 
  Since launch, the MSRP of the Vivoactive 3 Music has plummeted from $275 to just $99, making it a genuine bargain. The watch is ridiculously high quality for such a low price.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Fossil Sport vs. Garmin Vivoactive 3 Music**
 
  If you want to dive deeper into fitness tracking, then you may want to consider the Garmin Vivoactive 3 Music.[The Vivoactive 3 Music](https://www.lifewire.com/garmin-vivoactive-3-music-review-5069587) (view on[Amazon](https://www.amazon.com/dp/B07DB3F6M2?tag=lifewire-onsite-prod-20&ascsubtag=5069585%7Cn5c2d2db9c33044f3bef91a93ac72349f12%7C) ) features a wide range of granular fitness tracking capabilities that outclass Fossil Sport in this respect. However, it’s twice as expensive as the Fossil Sport, which is superior in most other ways. It’s worth mentioning that the Vivoactive 3 Music easily ran Spotify, which was a definitive advantage for me.
@@ -130,6 +151,9 @@ Lifewire / Andy Zahn
 
  The value of Fossil Sport is beyond dispute. Between its capable feature set, excellent design, and bargain price point, this smartwatch is a versatile and good looking companion.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Fossil Sport

@@ -1,7 +1,7 @@
 ---
 title: HERO9 Black Examination - Superior Quality, High Expense
-date: 2024-08-04 22:50:25
-updated: 2024-08-06 11:53:12
+date: 2024-08-09T00:38:55.380Z
+updated: 2024-08-10T00:38:55.380Z
 categories:
   - BestProducts
 description: This Article Describes HERO9 Black Examination - Superior Quality, High Expense
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/PAbqj70CJSE0eatVPgTCw5r0VOY=/400x300/fi
 
 ## X-Plane 11 Global Flight Simulator
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/6zqUG0dXodiu77fxFaPt_4CTLHM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_HeroSquare-05bcd9665c244e8591478794f6732934.jpg)
 
 Lifewire / Zach Sweat
@@ -37,6 +40,10 @@ Lifewire / Zach Sweat
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## X-Plane 11 Global Flight Simulator
 
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/8OsXHzWBVNEzvelLnfybKyzm3bk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_HeroSquare-05bcd9665c244e8591478794f6732934.jpg)
@@ -63,6 +70,10 @@ Lifewire / Zach Sweat
 
  This is where Laminar Research comes in with their next-gen X-Plane 11 Global Flight Simulator—a modern take on flight sims built for more[current hardware](https://www.lifewire.com/best-gaming-consoles-4154610) . While many popular flight simulators are starting to show their age, X-Plane 11 is a breath of fresh air in the genre, and a breathtaking one at that. Read our review below to see how the latest X-Plane release stacks up against classics like FSX.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/KBuJiu3GVH9R41cibSGIkcK_7hs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_04-9dedb800bd1340e19901349ee3ca3bda.jpg)
 
  Lifewire / Zach Sweat
@@ -85,6 +96,9 @@ Lifewire / Zach Sweat
 
  Once you’ve got it hooked up, Windows should recognize the device and download the necessary drivers. When those have completed installing, you should be able to see the HOTAS connected in X-Plane 11 under the control settings. You’ll also be able to fine-tune things based on your preference from there.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/O9MXEQGpCTKXA5qNcF6nXai8L2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_03-90ad9c4205af48bcbd8fcc163c630a5a.jpg)
 
  Lifewire / Zach Sweat
@@ -103,10 +117,16 @@ Lifewire / Zach Sweat
 
  While testing out X-Plane 11, we did experience some issues, but more so in the graphics department than the gameplay itself, which we’ll touch on in the next section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/GF7rAjDnQ1m4Lngb7N3ShcMRA6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_05-4039c04a1e16492e8b1c6024167e28f8.jpg)
 
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Graphics: Breathtaking visuals, but subpar optimization**
 
  With such a monster storage requirement, it’s no surprise that the details and graphics in X-Plane 11 are pretty remarkable. Planes themselves are the focus here, so the textures are superb. Also because Laminar chose to focus on fewer aircraft overall, the ones they’ve included all feel exceptionally well fleshed out. That tradeoff might not appeal to those who want hundreds of vehicles to select from, but it does make the selection in the game quite impressive.
@@ -141,6 +161,9 @@ Lifewire / Zach Sweat
 
  One nice feature with X-Plane is that you do have the option to install mods. These free packs of user-generated content can really spice things up by providing custom aircraft and environments if you’re looking to add content without adding more money. They aren’t as numerous as the mod options for FSX, but they’re there if you want them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **X-Plane 11 Global Flight Simulator vs. Microsoft Flight Simulator X**
 
  Comparing a classic staple in flight simulators like FSX to a more modern one like X-Plane 11 might feel a bit strange, but these two games are the most popular around even today. Given that FSX is about a decade older than X-Plane 11, you’ll need to understand that there are some big differences in terms of modernization between the two.

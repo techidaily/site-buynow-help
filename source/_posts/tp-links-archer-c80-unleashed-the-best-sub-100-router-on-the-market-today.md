@@ -1,7 +1,7 @@
 ---
 title: "TP-Link's Archer C80 Unleashed: The Best Sub-$100 Router on the Market Today!"
-date: 2024-08-03 19:20:51
-updated: 2024-08-05 11:34:40
+date: 2024-08-09T00:39:00.310Z
+updated: 2024-08-10T00:39:00.310Z
 categories:
   - BestProducts
 description: "This Article Describes TP-Link's Archer C80 Unleashed: The Best Sub-$100 Router on the Market Today!"
@@ -134,12 +134,18 @@ PHOTO: Amazon
 
 **Wireless Spec:** Wi-Fi 5 (802.11ac) |**Security:** WPA2 |**Standard/Speed:** AC750 |**Bands:** Dual-band |**MU-MIMO:** No |**Beamforming:** No |**Wired Ports:** 1
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Netgear EX3700](https://www.lifewire.com/thmb/qWA7Ox2xug77GF1kfsRkFpHJ7pY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetgearEX3700Wi-FiRangeExtender-ce6ea0cfc4594cd98752d9cfdf86c0d6.jpg)
 
 Lifewire / Scot Braswell
 
 [Netgear EX3700 Wi-Fi Range Extender (AC750) Review](https://www.lifewire.com/netgear-ex3700-wifi-range-extender-ac750-review-4589551)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Best Wi-Fi 6
 
 [TP-Link Wi-Fi 6 Range Extender](https://www.walmart.com/ip/TP-LINK-RE505X-AX1500-Wi-Fi-6-Range-Extender/157871510)
@@ -168,12 +174,18 @@ PHOTO: Amazon
 
 **Wireless Spec:** Wi-Fi 6 (802.11ax) |**Security:** WPA2 |**Standard/Speed:** AX1500 |**Bands:** Dual-band |**MU-MIMO:** Yes |**Beamforming:** No |**Wired Ports:** 1
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![TP-Link RE505X](https://www.lifewire.com/thmb/CQa9ezEL-_6ZO4VXlhB73v1byEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link-RE505X-Wi-Fi-Extender-3-e4243ff5fbc14a1fbd5ba9d9e23059f0.jpg)
 
 Lifewire / Erika Rawes
 
 [TP-Link RE505X AX1500 Wi-Fi Extender Review](https://www.lifewire.com/tplink-re505x-wifi-extender-review-5078418)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Performance
 
 [Netgear Nighthawk EAX80](https://www.amazon.com/dp/B07T89YZWD?tag=lifewire-onsite-prod-20&ascsubtag=4043312%7Cn8f2a58e80eec4ac08678f4a92a94a7d414%7CB07T89YZWD)
@@ -204,6 +216,9 @@ PHOTO: Amazon
 
 **Wireless Spec:** Wi-Fi 6 (802.11ax) |**Security:** WPA2 |**Standard/Speed:** AX6000 |**Bands:** Dual-band |**MU-MIMO:** Yes |**Beamforming:** Yes |**Wired Ports:** 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
 Lifewire / Andrew Hayward
@@ -299,6 +314,9 @@ Lifewire / Andy Zahn
 
 [TP-Link TL-WR902AC AC750 Travel Router Review](https://www.lifewire.com/tp-link-tl-wr902ac-travel-router-5079165)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What to Look For
 
  Also known as Wi-Fi boosters, Wi-Fi range extenders extend your home or office network's reach, allowing you to enjoy fast internet speeds no matter what corner you're sitting in. They eliminate dead zones, especially for devices far from your router, and ensure uninterrupted phone calls, browsing sessions, and anything you go online for.

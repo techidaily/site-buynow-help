@@ -1,7 +1,7 @@
 ---
 title: Exploring the Kobo Forma - An E-Reader Designed for Book Lovers Who Mean Business
-date: 2024-08-05 23:39:42
-updated: 2024-08-08 11:34:14
+date: 2024-08-09T00:39:05.847Z
+updated: 2024-08-10T00:39:05.847Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Kobo Forma - An E-Reader Designed for Book Lovers Who Mean Business
@@ -13,8 +13,15 @@ thumbnail: https://www.lifewire.com/thmb/YP0hXL3bZVv5wSjSP7U0-poOav4=/400x300/fi
 
 4.8
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Apple Watch Series 9 GPS + Cellular 45mm
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple Watch Series 9 (front).](https://www.lifewire.com/thmb/WFGRUAsDxA0krS7sPX6WGqtdVbQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSeries9front-649521c98f4d421cad652d5c0d1230a4.jpg)
 
 Apple
@@ -36,8 +43,14 @@ Apple
 
 4.8
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple Watch Series 9 GPS + Cellular 45mm
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple Watch Series 9 (front).](https://www.lifewire.com/thmb/nPYphnTjSnL2fpeSHarRr-eDzuw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSeries9front-649521c98f4d421cad652d5c0d1230a4.jpg)
 
 Apple
@@ -74,6 +87,9 @@ Lifewire/Molly McLaughlin
 
  The last few models have had the same processor, but the Series 9 gets the S9 chip, which promises 30 percent more speed and all-day battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Apple Watch Series 9 on a desk next to its charger.](https://www.lifewire.com/thmb/fnvFdlUB4ml_QaA-kIP14u1pQsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_withcharger-11e49fb444df404b834b2127b3ebcab0.jpg)
 
 Lifewire/Molly McLaughlin
@@ -100,6 +116,9 @@ Lifewire/Molly McLaughlin
 
 [Smart Watches & Wearables](https://www.lifewire.com/theater-mode-on-apple-watch-5115897)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Fitness Tracking
 
  I use the watch for fitness tracking and try to "close my rings" daily. After a few bike rides where my average speed was skewed because I forgot to pause or unpause the workout during or after a break, I was pleased to find that you can enable automatic pausing (auto-pause) for biking and running.

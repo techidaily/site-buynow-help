@@ -1,7 +1,7 @@
 ---
 title: "Moments in Motion: The Top Cameras for Less Than $100"
-date: 2024-08-02 14:30:52
-updated: 2024-08-05 12:24:58
+date: 2024-08-09T00:38:51.758Z
+updated: 2024-08-10T00:38:51.758Z
 categories:
   - BestProducts
 description: "This Article Describes Moments in Motion: The Top Cameras for Less Than $100"
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
  I've been a freelance writer and photographer since 2017 and have shot everything from street scenes to sports. I've used brands from Nikon to Canon and beyond, mirrorless and DSLR systems, and shot analog film. My professional photo clients include universities, local businesses, and people who need a good headshot. As a writer, I've also researched various tech products to compile best-of lists, from DSLRs to photo printers to camera straps—[John Bogna](https://www.lifewire.com/john-bogna-5705941) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Just Buy This
 
 [Fujifilm Instax Mini 11 Instant Camera](https://www.amazon.com/dp/B08527W1MF?tag=lifewire-onsite-prod-20&ascsubtag=6753002%7Cn12478a107f3648588d94d063fc7da8f321%7CB08527W1MF)
@@ -105,6 +108,9 @@ Lifewire/John Bogna
 * **What about color filters?** The[Polaroid Now+](https://www.amazon.com/dp/B09CQFRKD7?tag=lifewire-onsite-prod-20&ascsubtag=6753002%7Cn12478a107f3648588d94d063fc7da8f321%7C) has all the features of the Polaroid Now and adds a Bluetooth-connected app and a pack of color filters.
 * **Is there an instant camera that offers more than one print size?** The[Fujifilm Instax Wide 300](https://www.amazon.com/Fujifilm-Instax-Wide-300-Instant/dp/B00TGOWK3Q?tag=lifewire-onsite-prod-20&ascsubtag=6753002%7Cn12478a107f3648588d94d063fc7da8f321%7C) is an excellent instant camera that outputs small prints and photos two times as wide.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How We Test and Rate Instant Cameras
 
  Each camera was evaluated in the following categories:
@@ -117,6 +123,9 @@ Lifewire/John Bogna
 
  Considering these factors, I tested each camera in multiple situations, from indoor portrait shoots to bright daylight to dusk.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Instant Cameras We Tested
 
 * Canon IVY CLIQ 2
@@ -150,6 +159,9 @@ Lifewire/John Bogna
 
 [The Best Tech Gifts Under $50](https://www.lifewire.com/best-gifts-under-50-8385339)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What to Look For
 
  When shopping for an affordable instant film camera, there are a few things you'll want:
@@ -162,12 +174,18 @@ Lifewire/John Bogna
 
  Few things are more painful than your camera dying in the middle of a shoot. Since these cameras don't have many high-tech features, the battery lasts quite a while after each charge. The Fuji Instax uses AA batteries, which also last long but must be removed to avoid corrosion if you store the camera away. Get a model with a rechargeable battery to avoid the hassle of dealing with AAs.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Film Quality
 
  You don't buy an instant film camera for tack-sharp detail and perfect color — you buy it for the old-school look. Instant film prints have a dreamy quality, high-contrast and low-detail look that feels more like 35mm film than a digital snap.
 
  You'll want to consider the price of each type of film, as some will be more expensive than others and add to the overall price of whatever camera you select. If you're working on a budget, find a film that delivers the look you want without costing too much per shot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Controls and Ergonomics
 
  Look for a lightweight camera with controls that are easy to access when taking a photo and a design that won't get in the way. The shutter button should be unobtrusive and easy to reach, as should any other relevant controls like the flash switch or self-timer.

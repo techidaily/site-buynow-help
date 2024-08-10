@@ -1,7 +1,7 @@
 ---
 title: "Wiggle and Jiggle: Fun for Fido & Friends"
-date: 2024-08-04 23:18:38
-updated: 2024-08-07 12:38:32
+date: 2024-08-09T00:39:06.269Z
+updated: 2024-08-10T00:39:06.269Z
 categories:
   - BestProducts
 description: "This Article Describes Wiggle and Jiggle: Fun for Fido & Friends"
@@ -42,6 +42,9 @@ Lifewire / Andy Zahn
 
 ## Insta360 One X2
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Insta360 One X2](https://www.lifewire.com/thmb/SA87_MJD5mJRnYY0t31c9ELFmlc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Insta360_One_X2_HeroSquare-80809b6088f0400baa121b1e7d14e4b1.jpg)
 
 Lifewire / Andy Zahn
@@ -68,6 +71,9 @@ Lifewire / Andy Zahn
 
  Traditionally,[action cameras](https://www.lifewire.com/best-action-cameras-4139765) only capture a tiny window into the world. However, the Insta360 One X2 is one of a new breed of cameras that aim to uphold this age-old truth by capturing absolutely everything around them in a single spherical image. This opens up a wealth of opportunities from nifty editing tricks to easily capturing[VR](https://www.lifewire.com/virtual-reality-vr-definition-4155090) experiences.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design: A chunky, waterproof build
 
  The Insta360 One X2 is a solid, chunky little rectangle. It’s compact enough to fit in a large pocket and feels quite rugged and durable, though those bulbous glass lens elements mean you’ll still want to be a little careful with it. Fortunately, it comes with a sleek neoprene case that offers a reassuring extra level of protection when you just want to carry the camera in your pocket.
@@ -82,10 +88,16 @@ Lifewire / Andy Zahn
 
  Controls consist of a shutter button, power button, and circular touchscreen. An[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) light indicates the camera's status, and there is a standard tripod mount on the underside of the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Setup Process: Mostly straightforward
 
  The One X2 came partially charged and ready to go once I inserted a[microSD card](https://www.lifewire.com/best-sd-cards-to-buy-4072362) , though first I had to install the Insta360 app on my phone and activate the camera. This turned out to be a bit of a pain, with the Bluetooth connection used to activate the One X2 and set up the Wi-Fi connection repeatedly timing out and failing. Eventually, I got it up and running, and aside from the one hiccup, the process was fairly smooth, if more complex than I’d typically expect from a camera.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Image Quality: Good light a necessity
 
  My initial impressions of the Insta360 One X2 were tinted by the weather conditions in which I initially tested it. Here in Western Washington, winter can be gloomy and dark, so I ended up shooting in fairly dim conditions much of the time. As a result, I couldn’t help be shocked by how poor the video looked when I went to edit it. However, when given plenty of light to work with, the One X2 produced fairly decent-looking photos and video.
@@ -102,10 +114,16 @@ Lifewire / Andy Zahn
 
  The audio recording on the One X2 could be charitably described as mediocre. It’s there, and it’s useable, but in a camera that would otherwise be well suited to vlogging, given its portable size and ease of use, it's a little disappointing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Storage Requirements: Hefty file size
 
  Though it may be the bare minimum for decent 360 footage, the 5.7L video footage the One X2 captures is still highly demanding in how much storage space it requires. A single short video clip easily takes up hundreds of megabytes of space, so you’ll want a big microSD card and plenty of hard drive space on your PC and/or[smartphone](https://www.lifewire.com/best-smartphones-4043781) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Software: Brilliant but buggy
 
  Most of my problems with the One X2 have to do with the Insta360 app, and the big one is with the difficulty of connecting to the camera. Every time I connected to the One X2, I had to tap the connect button in the app over and over again until it finally connected.
@@ -128,6 +146,9 @@ Lifewire / Andy Zahn
 
 Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Price: Good value
 
  With an MSRP of $430, the One X2 is only a little more expensive than a high-end action camera, but it’s not bad for a 360 camera. It’s a good value if being able to shoot 360-degree video is a necessity for you.

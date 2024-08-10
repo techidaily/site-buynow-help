@@ -1,7 +1,7 @@
 ---
 title: Ultimate Review of the Jackery PowerBar - Convenient Charging via Built-In Wall Plug Examined
-date: 2024-08-07 11:36:24
-updated: 2024-08-08 12:24:28
+date: 2024-08-09T00:39:06.925Z
+updated: 2024-08-10T00:39:06.925Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Review of the Jackery PowerBar - Convenient Charging via Built-In Wall Plug Examined
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/1e0cJN-BsKLogB5b5Fm0imOzPoA=/400x300/fi
 
 ## Garmin Vivomove HR
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Garmin Vivomove HR](https://www.lifewire.com/thmb/4UqUqnbW2FI0bbtwpMOFibOGM6o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivomove-HR-Fitness-Tracker-Watch-1-6eafd9ff8ecd49f2902d556ec7a9b82b.jpg)
 
 Lifewire / Yoona Wagener
@@ -42,6 +45,9 @@ Lifewire / Yoona Wagener
 
 ## Garmin Vivomove HR
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Garmin Vivomove HR](https://www.lifewire.com/thmb/xm431SBrzdbFLoz5ACy2cQpKj2s=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivomove-HR-Fitness-Tracker-Watch-1-6eafd9ff8ecd49f2902d556ec7a9b82b.jpg)
 
 Lifewire / Yoona Wagener
@@ -67,10 +73,16 @@ Lifewire / Yoona Wagener
 
  If you’re interested in moving more and monitoring daily activities with the help of a chic fitness-tracking watch, the Garmin Vivomove HR is worth a closer look. The is an accessory aimed at those who like to be active and stylish too. I wore and used this watch for over a week and was impressed with the look of it, level of wellness data captured, and the overall support it offers for general well-being.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Garmin Vivomove HR](https://www.lifewire.com/thmb/I4tLxDp9_npPph8lgb8sOWODnd4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivomove-HR-Fitness-Tracker-Watch-3-c8e32586b7d840a0a2c9747a6255b802.jpg)
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## **Design: Looks like a polished regular watch**
 
  Some people enjoy the sporty design of an[Apple Watch](https://www.lifewire.com/apple-watch-models-4175232) or Samsung smartwatch. But if you feel like you’re compromising utility over personal style with those options, the Garmin Vivomove HR offers a happy middle ground.
@@ -97,6 +109,9 @@ Lifewire / Yoona Wagener
 
  For example, if I didn’t fully swipe past the weather widget information for the day, the screen would take me to the weekly forecast. Then I had to press the back button to get to the general widgets screen. With continued use, I became savvier with touch and swiping actions, but it was still a consistent issue when trying to start/stop workout timers. This was an even bigger issue outside and in bright sunlight, which made the screen virtually undetectable.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Performance: A cheerleader for wellness rather than training**
 
  The Vivomove HR is a well-rounded device. Not only does it look fashionable as an everyday accessory, but it also offers stopwatch functions, monitors heart rate (resting and active), automatically tracks activities such as running, walking, and even using an elliptical machine, and tracks steps, calories, and other fitness data such as VO2 max.
@@ -123,10 +138,16 @@ Lifewire / Yoona Wagener
 
  In terms of design quirks, in lieu of a typical micro USB charging cord, this watch features a charging clip with a USB connection.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## **Battery: Solid performance for five days**
 
  Garmin says that this watch can last for over two weeks in watch mode and up to five days in smartwatch mode—which I can confirm. This claim tracked even with frequent glancing at the display and toggling through the widgets as well as receiving regular text and email updates throughout the day. I didn’t see the battery drain in any consistent way until the fifth day. And recharging the watch was fast: it took about only one hour.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Expensive, but it has a touchscreen**
 
  The Garmin Vivomove HR ranges in price from around $200 for the Sport version that comes with a silicone band to $350 for Premium leather-band alternatives. There are certainly cheaper hybrid smartwatch options on the market. Both the Withings Move Steel HR and Fossil Smartwatch HR Collider retail for less than $200\. And while they offer similar features such as message previews, heart rate, weather and sleep data, and even GPS, neither offers a touchscreen display and unique health data like stress level readings based on heart rate patterns.

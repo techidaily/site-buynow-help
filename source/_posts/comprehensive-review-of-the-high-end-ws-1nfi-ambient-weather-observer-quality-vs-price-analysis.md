@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the High-End WS-1nfi Ambient Weather Observer: Quality Vs. Price Analysis"
-date: 2024-08-04 17:37:48
-updated: 2024-08-07 11:43:12
+date: 2024-08-09T00:38:47.640Z
+updated: 2024-08-10T00:38:47.640Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review of the High-End WS-1nfi Ambient Weather Observer: Quality Vs. Price Analysis"
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/3b1acf72418bcbc32cbafc2ecf801ef760b09fcf6
 
 ## Samsung Galaxy Tab S6
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/7WjwLLZiPJKJZWhXlUSo8gCOtSY=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_S6_HeroSquare-041c0f1331604f5199eb280d31cb1fe8.jpg)
 
 Lifewire / Erika Rawes
@@ -39,8 +42,14 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy Tab S6
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/il4lPBPvRiNVh03WGsCMkN0U0SU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_S6_HeroSquare-041c0f1331604f5199eb280d31cb1fe8.jpg)
 
 Lifewire / Erika Rawes
@@ -72,6 +81,9 @@ Lifewire / Erika Rawes
 
  The Galaxy Tab S6 has a USB-C connector, but no 3.5 mm headphone jack. There’s a microSD card slot on the side to expand your storage to 512 MB, although this is becoming increasingly unnecessary as cloud storage applications become more commonplace.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/VjADXw7yUZHkkKXdcHBM8o70Ywc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_02-4011b3ea196f44e2a7a111bae1212dc2.jpg)
 
  Lifewire / Erika Rawes
@@ -84,6 +96,9 @@ Lifewire / Erika Rawes
 
  Some users report an issue with the screen, where it randomly goes blank in the middle of using the Tab S6\. Audio will still play, but the tablet’s screen will go dark, and the user will have to re-awaken the Tab S6 to continue their tasks. I personally experienced this issue while testing a refurbished version of the Tab S6\.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/-pHfCamdNdeJAmfn1IG93dda0i4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_03-ecf977b8c98b41a08872f0605a589246.jpg)
 
  Lifewire / Erika Rawes
@@ -92,6 +107,9 @@ Lifewire / Erika Rawes
 
  The Tab S6 has the Qualcomm 855 processor, which is a pretty solid mobile CPU. It comes in two versions: one version with 128GB of storage and 6 GB of RAM, and one version with 256 GB of storage and 8 GB of RAM. I tested the former version. On PCMark Work 2.0, the lower level Tab S6 scored a 9022\. On Geekbench 5, the Tab S6 scored a single core score of 747 and a multi-core score of 2,518\. It’s multi-core scores come in very close to the A12 Bionic chip in the iPad (2019).
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/TIUmjQSMgpAJw4W3I6fcgiYY1BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_06-cc64b6b41e8f4420b9fe38d223541b52.jpg)
 
  Lifewire / Erika Rawes
@@ -122,24 +140,37 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Camera: Dual rear cameras**
 
  The Tab S6 has dual rear cameras, and a single front-facing camera. It has a 13 MP camera and a 5 MP camera on the back, and an 8 MP camera on the front. For a tablet, the camera quality is actually pretty good. It’s not as good as your typical flagship phone, but it’s better than you’d expect on a hybrid tablet. Photos are surprisingly clean and detailed, so you could absolutely get a good group pic at the office, or snap a clear pic of a document you need to send.
 
  The Tab S6 can take UHD video (3840x2160) at 30 FPS with the rear camera and FHD (1920x1080) at 30 FPS with the front cam, and it has a few cool software features like a food mode, pro mode, night mode, and hyperlapse. You can also create an AR emoji and take advantage of additional features like Bixby Vision.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Battery: Worse than the Tab S4**
 
  The Tab S6 has a serviceable battery capacity. The 7040 mAh battery lasts for up to 15 hours play time. The S Pen does take some of the Tab’s battery, but it doesn’t affect the battery life to a noticeable degree. I was able to use the S6 on and off for most of the day, and I still had some battery leftover for the next day. The Galaxy Tab S4 had a slightly better 7300 mAh battery that lasted for up to 16 hours of play time. I was surprised to see that the Tab S6 had less battery capacity than its predecessor.
 
  I was able to use the S6 on and off for most of the day, and I still had some battery leftover for the next day.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## **Software: Now on Android 10**
 
  Initially, the Tab S6 released with Android 9\. Since its release in 2019, the Tab S6 has now upgraded to Android 10\. You can learn about the different Android versions[here](https://www.lifewire.com/android-versions-4173277) if you want to know more about the differences between the two.
 
  Samsung includes its own App Store, the Galaxy store, in addition to Google’s Play Store. The tablet also comes equipped with Samsung Daily, which is a rebranding of Bixby Home, and a number of other Samsung applications like Samsung’s virtual assistant Bixby, SmartThings, Samsung Flow, and Samsung Kids.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/C7-02cY18jujcl8-9vfJim9_H_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_05-2f0768554c044e18bedec871758e51ef.jpg)
 
  Lifewire / Erika Rawes

@@ -1,7 +1,7 @@
 ---
 title: Kobo Forma Review
-date: 2024-08-04 14:17:24
-updated: 2024-08-07 12:36:25
+date: 2024-08-09T00:39:12.489Z
+updated: 2024-08-10T00:39:12.489Z
 categories:
   - BestProducts
 description: This Article Describes Kobo Forma Review
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/YP0hXL3bZVv5wSjSP7U0-poOav4=/400x300/fi
 
 ## Samsung Q60R OLED 4K TV
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Samsung Q60R Series QLED 4K TV](https://www.lifewire.com/thmb/Q1zqDio0ZCNtuDG01zTeIwLBKdg=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung-65inch-4K-TV_2LW4142020_HeroSquare-67d1dd31f5664851b943867cd22336d9.jpg)
 
 Lifewire / Emily Isaacs
@@ -41,6 +45,9 @@ Lifewire / Emily Isaacs
 
 ## Samsung Q60R OLED 4K TV
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Samsung Q60R Series QLED 4K TV](https://www.lifewire.com/thmb/OFscv0u8zBrJ3BEwIMM_lJD87hs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung-65inch-4K-TV_2LW4142020_HeroSquare-67d1dd31f5664851b943867cd22336d9.jpg)
 
 Lifewire / Emily Isaacs
@@ -64,10 +71,25 @@ Lifewire / Emily Isaacs
 
  The Samsung 65-inch class Q60R (QN65Q60RAFXZA) is the newest smart[QLED](https://www.lifewire.com/quantum-dots-enhance-lcd-tv-performance-1847342) TV from Samsung, improving on last year’s model with great processing power at a mid-tier price. It may not have all the bells and whistles that higher-end competitor[smart TVs](https://www.lifewire.com/best-smart-tvs-4135681) offer but we found it held its own, particularly in the gaming arena. We tested this product for a month, read on to learn what we found.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Samsung Q60R Series QLED 4K TV](https://www.lifewire.com/thmb/Eote5xreEj8WNfQ91B2OdEkU09w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung-65inch-4K-TV_2LW4142020_03-1cf9fd1aab854f15b74c78d0fc2565f9.jpg)
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design** :**A slender build**
 
  QLED TVs are the successor to[LED TVs](https://www.lifewire.com/truth-about-so-called-led-televisions-1847935) , designed to derive their picture from backlighting within the unit, a stark contrast to OLED which can toggle individual pixels on or off to emit their own color. The Q60R specifically uses edge lighting in place of backlighting along the bottom of the screen. QLED TVs also add what Samsung refers to as a quantum dot to the film within the LED panel, hence the_Q_ LED. When hit with light, this quantum dot will transmit color and create a picture. This is how the Q60R generates its images.
@@ -100,6 +122,9 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: Easy to navigate, but we wish Bixby was integrated better**
 
  The TV’s platform is powered by Tizen, a Linux-based operating system implemented on a number of Samsung’s products, such as the Galaxy Watch. It’s a user-friendly interface that makes it easy to navigate the menus and home screen of the TV. One of the nice features it supports is allowing you to pick up where you left off in apps such as Netflix, although it appears inconsistent across other streaming services.
@@ -112,6 +137,9 @@ Lifewire / Emily Isaacs
 
  Often, Bixby has difficulty understanding seemingly clear instructions, but other times Bixby breezes through them. There were days we felt like we spent more time re-asking it questions or re-providing instructions than it would’ve taken for us to complete the original task ourselves. While Bixby can do things like open content in apps such as Hulu, that same functionality doesn’t extend to other apps like Netflix beyond launching the app itself. It’s strange and feels like lost potential to have such an inconsistent experience.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Samsung Q60R Series QLED 4K TV](https://www.lifewire.com/thmb/sW-1qt8D-Gg7qNt7xfnUSpUcv8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung-65inch-4K-TV_2LW4142020_05-2acbce572cb0454d9bf05c1214626de3.jpg)
 
  Lifewire / Emily Isaacs
@@ -124,6 +152,9 @@ Lifewire / Emily Isaacs
 
  On top of that, its HDR brightness seems somewhat dull as compared to higher-end QLED Samsung models with comparable settings. This impacts highlights, in particular, preventing them from achieving their peak brightness to really make contrast pop in scenes. Otherwise, the picture quality is enhanced by the Quantum Processor 4K which excels at upscaling content to 4K-like quality using artificial intelligence. It also supports FreeSync variable refresh rate technology, meaning the refresh rate of the display varies based on the needs of its source content instead of tearing or stuttering during gameplay, which is important for Xbox One players and PC gamers who may be considering this as a monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Price: Good for what you’re getting**
 
  4K smart TV’s in the 65-inch range tend to retail for $800-$5,000, and this cost jumps as screen size scales up. The Samsung Q60R is a mid-tier 4K smart TV that sits in the middle of the pack, generally retailing for around $1,000 on Amazon. While it lacks many of the intuitive, smart features that drive up the cost of competitor models, as well as their upscaled designs, it stands on its own thanks to its variable refresh rate and great picture quality. It’s a good value for the price, particularly for gamers who value performance.

@@ -1,7 +1,7 @@
 ---
 title: G9 X Mark II for Journeys – Retro Design, Modern Performance
-date: 2024-08-04 18:32:48
-updated: 2024-08-05 10:49:47
+date: 2024-08-09T00:39:09.791Z
+updated: 2024-08-10T00:39:09.791Z
 categories:
   - BestProducts
 description: This Article Describes G9 X Mark II for Journeys – Retro Design, Modern Performance
@@ -38,8 +38,14 @@ Lifewire / Hayley Prokos
 
 5
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Urban Armor Gear UAG MacBook Pro 13-inch Laptop Case
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/thmb/FtpULeJDToDCBy6PB_Y8rD7mqOg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4153328-1-7cd2eca904ca419e9039c9fdcbdfbbcd.jpg)
 
 Lifewire / Hayley Prokos
@@ -65,6 +71,9 @@ Lifewire / Hayley Prokos
 
  You’ll also likely want to find an option that has an extremely snug fit and a good grip, and that is overall thoughtfully designed with layers of protection. That option could be Under Armor Gear’s MacBook Pro 13-inch Laptop Case, a strategically-designed case that can withstand a drop.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/thmb/fDMp2JRg--bQrlqwhfek_u8CqRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4153328-3-c586304cdf4944919286e35a760d720f.jpg)
 
  Lifewire / Hayley Prokos
@@ -87,6 +96,9 @@ Lifewire / Hayley Prokos
 
  Lifewire / Hayley Prokos
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: A one-time deal**
 
  On the UAG website, you’ll find a YouTube video designed to guide users through the installation of the case. You should watch it before installing it yourself in order to avoid scratching or otherwise damaging your MacBook Pro.
@@ -101,10 +113,16 @@ Lifewire / Hayley Prokos
 
  The only hassle we encountered when testing usability was the snap closure, which is great for keeping your laptop shut in transit but difficult to pry open when trying to use your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/thmb/9Y7LLmqrhHo_Pbzks49nRtjt4ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4153328-4-49105513ae5d4a97ac284ce462185b5d.jpg)
 
  Lifewire / Hayley Prokos
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## **Durability: As tough as it gets**
 
  We found the UAG MacBook Pro 13-inch Laptop Case to be as resilient as it could be. We dropped the case from standing height on a variety of surfaces—on those as soft as carpet and as hard as hardwood and concrete—and it sustained virtually no damage (a few superficial scratches at most).
@@ -137,6 +155,10 @@ Lifewire / Hayley Prokos
 * [Twelve South BookBook V2 MacBook Case](https://www.lifewire.com/twelve-south-bookbook-v2-macbook-case-review-4689949)
 * [Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/fintie-protective-case-for-macbook-pro-13-review-4689944)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  UAG MacBook Pro 13-inch Laptop Case

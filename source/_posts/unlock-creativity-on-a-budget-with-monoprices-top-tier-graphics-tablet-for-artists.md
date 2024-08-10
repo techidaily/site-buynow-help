@@ -1,7 +1,7 @@
 ---
 title: Unlock Creativity on a Budget with Monoprice's Top-Tier Graphics Tablet for Artists
-date: 2024-08-04 10:27:25
-updated: 2024-08-05 10:40:35
+date: 2024-08-09T00:38:48.864Z
+updated: 2024-08-10T00:38:48.864Z
 categories:
   - BestProducts
 description: This Article Describes Unlock Creativity on a Budget with Monoprice's Top-Tier Graphics Tablet for Artists
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/_566qTQdHTPwNDd2Pg9Z5BKGIcg=/400x300/fi
 
 ## PrimeTracking PTGL300MA
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![PrimeTracking](https://www.lifewire.com/thmb/5BietkqPFoRwZ3KQ4RRHO-CP4e4=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_PrimeTracking-Personal-GPS-Tracker-1-723aaa6c21964b78a92e3b41ed7314d0.jpg)
 
 Lifewire / Gannon Burgett
@@ -36,6 +39,9 @@ Lifewire / Gannon Burgett
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## PrimeTracking PTGL300MA
 
 ![PrimeTracking](https://www.lifewire.com/thmb/Wty8BQkU6zXbuBdyXoHxrnPhDN4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_PrimeTracking-Personal-GPS-Tracker-1-723aaa6c21964b78a92e3b41ed7314d0.jpg)
@@ -61,6 +67,9 @@ Lifewire / Gannon Burgett
 
  Over the past few months, I’ve been putting the PrimeTracking Personal GPS Tracker to the test and have summarized my thoughts on the unit and its tracking abilities, after thousands of miles traveled and hundreds of hours of movement.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Small, but solid**
 
  The PrimeTracking GPS unit is a fairly bland, compact device that measures just 2.7 x 1.5 x 1 inch (HWD) making it roughly half the size of a deck of cards, albeit a bit thicker. The cuboid shape features three LED status lights on the front, indicating power, GPS connectivity, and cellular connectivity. There is also an emergency (SOS) button on the front that will send out your location instantly if in a dangerous situation. I would’ve liked to see Prime Tracking use a[micro USB over the mini USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) onboard, but battery life is two weeks, so you don’t have to charge it often, thankfully.
@@ -71,6 +80,9 @@ Lifewire / Gannon Burgett
 
  Setting up the PrimeTracking Personal GPS Tracker is a simple process. After receiving the device and making sure it’s fully charged, go to PrimeTracking’s website, enter your device’s information to activate it, and selecting the tracking plan you want to purchase (I dive into the plans down below under the Pricing section). From there, you can download the PrimeTracking mobile app (Android, iOS) and log in with your account information to keep track on-the-go.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## **Performance and Connectivity: Quick, reliable updates**
 
  A GPS tracker is only as good as its ability to be located at a moment’s notice—so how does the PrimeTracking Personal GPS Tracker hold up? All in all, it held up quite well, offering consistent connectivity in all but the most remote locations in Northern Michigan, where cell service was abysmal on the best of days. PrimeTracking says the unit updates its location every ten seconds and although it did seem to stutter at times, particularly when driving in a vehicle or getting off at an airport at a new location, it managed to update consistently thanks to its[4G LTE](https://www.lifewire.com/how-fast-is-4g-wireless-service-577566) connectivity.
@@ -87,6 +99,9 @@ Lifewire / Gannon Burgett
 
  l, I drove more than 1,200 miles with the GPS tracker and flew a pair of flights from Detroit to Seattle, and through it all, the tracker kept up with essentially my every move.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: Information central**
 
  The PrimeTracking Mobile app, available on Android and iOS, proved to be a joy to use. The interface is well-thought-out and provides an incredible amount of detail on the screen. PrimeTracking uses[Google Maps](https://www.lifewire.com/how-to-use-google-maps-4799052) to overlay the location and history of the device and alongside the visual is a breakdown of the various addresses and specific hotspots the tracker has been. Admittedly, the tracking gets thrown for a loop when using it to keep track of luggage on a flight, but after landing, it sorts itself out and is back to business as usual.
@@ -113,6 +128,9 @@ Lifewire / Gannon Burgett
 
  The PrimeTracking Personal GPS Tracker proved to be an invaluable tool. I spent time testing it as a vehicle tracker and even used it in my luggage on a flight and through it all, I received consistent updates on where my possessions were. The monthly cost is a bit higher than I would like to see, but for the value of items the unit is protecting, it’s justifiable—even more so if you’re using it to keep tabs on a loved one that doesn’t have a cellphone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  PTGL300MA

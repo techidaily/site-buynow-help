@@ -1,7 +1,7 @@
 ---
 title: "Get Fast WiFi on a Budget: Comprehensive Review of the TP-Link Archer C80"
-date: 2024-08-06 15:35:50
-updated: 2024-08-07 12:32:33
+date: 2024-08-09T00:39:04.557Z
+updated: 2024-08-10T00:39:04.557Z
 categories:
   - BestProducts
 description: "This Article Describes Get Fast WiFi on a Budget: Comprehensive Review of the TP-Link Archer C80"
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81
 
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/hTth7_RTT4bEi0nhlZj7rPvMYL0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -42,6 +45,10 @@ Lifewire / Jeremy Laukkonen
 
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/eB886Wl9r3D8YMg227kYv9GRkJs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -68,6 +75,10 @@ Lifewire / Jeremy Laukkonen
 
  Specifications don’t always tell the whole story, so I recently spent about five days with a TP-Link Archer A6 plugged into my own network. I tested how well it holds up under daily use with a lot of data-hungry devices connected at once, tested top speeds and range on both bands, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## **Design: Improved over older designs**
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes. Instead of the flat or glossy black finish seen on most routers, the A6 has a two-tone crosshatched pattern that creates an interesting visual effect. The edges are rounded instead of angular, and the top actually curves gently downward when viewed head-on.
@@ -120,6 +131,9 @@ Lifewire / Jeremy Laukkonen
 
  You may end up needing a Wi-Fi range extender with the Archer A6 even if your house isn’t that large.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Software: Basic and easy to use**
 
  The Archer A6 uses the same familiar web interface TP-Link has used for years. If you’ve ever used a TP-Link router before, you’ll already be familiar with the system. If you haven’t, it’s very easy to pick up.
@@ -132,6 +146,13 @@ Lifewire / Jeremy Laukkonen
 
  In addition to the web interface, TP-Link also offers a phone app that lets you change basic settings. Advanced settings have to be accessed through the web portal.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2qgk2j764OivVDjAgICPpQb-Xig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_03-7abb56dd933947dc892f8ec43ef36863.jpg)
 
  Lifewire / Jeremy Laukkonen
@@ -140,6 +161,9 @@ Lifewire / Jeremy Laukkonen
 
  With an MSRP of $50, the Archer A6 represents pretty decent value for the level of performance and the feature set it offers. You may want to step up to a more expensive unit if you have a big house or a lot of devices, and it is missing features like a USB port, but the Archer A6 is priced very well for what you get.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## **TP-Link Archer A6 vs. TP-Link Archer A7**
 
  Don’t let the numbering scheme confuse you. The Archer A7 (see on[Amazon](https://www.amazon.com/TP-Link-AC1750-Smart-WiFi-Router/dp/B079JD7F7G%2520/?tag=lifewire-onsite-prod-20&ascsubtag=4846342%7Cndd707df741a44bb699bcdb4f97d36f3622%7C) ) is actually an older device than the A6\. It’s also a little more expensive, with an MSRP of $80 and a little faster, with an AC1750 rating compared to the AC1200 of the Archer A6.
@@ -154,6 +178,9 @@ Lifewire / Jeremy Laukkonen
 
  The TP-Link Archer A6 is a great little budget-priced router that performs better than I expected it to. It’s important to stress that it’s an AC1200 router, and it’s only dual-band, so don’t expect it to do the job if you have dozens of data-hungry devices or an especially large house with a complicated internal setup. But if you just want an affordable router that performs well across about 1,400-1,600 square feet of space, this is a great option.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Archer A6 AC1200 Gigabit Smart Wi-Fi Router

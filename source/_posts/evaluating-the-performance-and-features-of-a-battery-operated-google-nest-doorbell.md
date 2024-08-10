@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Performance and Features of a Battery Operated Google Nest Doorbell
-date: 2024-08-05 16:45:40
-updated: 2024-08-08 11:31:35
+date: 2024-08-09T00:38:52.836Z
+updated: 2024-08-10T00:38:52.836Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating the Performance and Features of a Battery Operated Google Nest Doorbell
@@ -37,8 +37,14 @@ Lifewire / Jeremy Laukkonen
 
 3.9
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## D-Link DHP-P701AV Powerline AV2000
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![D-Link Powerline AV2000 Passthrough DHP-P701AV](https://www.lifewire.com/thmb/yEenIYDb17_Fxo9Tgt2DnpQFxtQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4141215-HeroSquare-db3b8923e8f945e196de87932b00dc2a.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -65,6 +71,9 @@ Lifewire / Jeremy Laukkonen
 
  While the Powerline AV2000’s specifications are impressive, they don’t always tell the whole story. That’s why we took a pair of these adapters, plugged them in, and tested them to see if they work as well as advertised. We checked things like how easy they are to set up, whether they’re likely to get in the way of other electronics, real-world transfer speeds, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![D-Link Powerline AV2000 Passthrough DHP-P701AV](https://www.lifewire.com/thmb/plySecBvduGkJXsaWpMzfgOg7gU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4141215-04-01bd7072d50949398973fb514e2ea95c.jpg)
 
  Lifewire / Jeremy Laukkonen
@@ -81,6 +90,9 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: No special knowledge or tools required**
 
  Setting up a wired network with a set of D-Link Powerline AV2000 adapters requires absolutely no networking experience or knowledge. The setup process requires you to plug one adapter into your modem or router with an included Ethernet cable, plug the other adapter into your computer, game console, or any other device that has an Ethernet port, and then plug both adapters into power.
@@ -91,10 +103,16 @@ Lifewire / Jeremy Laukkonen
 
  Each Powerline AV2000 adapter also includes a button that you can press to establish a secure connection. This isn’t necessary, but it’s still very easy. To get started, you push the button on one adapter for two seconds. You then have two minutes to press the corresponding button on the other adapter. The adapters will then established a secure connection using 128-bit AES encryption.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![D-Link Powerline AV2000 Passthrough DHP-P701AV](https://www.lifewire.com/thmb/X0oLXEoZMMDp1yHZ4thpEvAY2Sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4141215-05-29cdfecba8e74dc9a126aff93f29b3ce.jpg)
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Connectivity: HomePlug AV2 with MIMO**
 
  D-Link Powerline AV2000 adapters use the[HomePlug AV2 specification](https://www.lifewire.com/powerline-home-networking-and-homeplug-817720) , so they’re nominally compatible with other AV2 devices. In practice, and when using the secure network function, they work best with other D-Link Powerline AV2000 adapters.
@@ -117,10 +135,16 @@ Lifewire / Jeremy Laukkonen
 
  When tested on data transfer within the network, we measured a maximum transfer speed of 350Mbps. That’s not exactly gigabit, and speeds drop off significantly when the adapters are plugged into different circuits, but it’s still one of the fastest powerline adapters we’ve tested.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![D-Link Powerline AV2000 Passthrough DHP-P701AV](https://www.lifewire.com/thmb/IXQZNi3pFRjm2tdKfPMhwxTE-DA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4141215-06-5a298aa4450e4adfb249aeae86330406.jpg)
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: D-Link PLC utility available online**
 
  These devices are plug and play, so most users won’t ever have to worry about software, and there is no software included in the box. If you ever do need to change any settings or update the firmware, you can download a PLC utility from D-Link’s official website.

@@ -1,7 +1,7 @@
 ---
 title: Expand Your Network's Horizon with the Netgear EX3700 (AC750) Range Extender - A Detailed User Guide and Assessment
-date: 2024-08-05 19:16:38
-updated: 2024-08-07 11:57:34
+date: 2024-08-09T00:38:44.125Z
+updated: 2024-08-10T00:38:44.125Z
 categories:
   - BestProducts
 description: This Article Describes Expand Your Network's Horizon with the Netgear EX3700 (AC750) Range Extender - A Detailed User Guide and Assessment
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/HTY6RLGIIHR0oxCdObtgfd8_UZU=/400x300/fi
 
 ## Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router (R8000)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/hov7MSNSt061CRmYtUqLocuVn_Y=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-1-f33fb4d851884e8982d54d6ff07d5ae7.jpg)
 
 Lifewire / Yoona Wagener
@@ -39,6 +42,9 @@ Lifewire / Yoona Wagener
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router (R8000)
 
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/svytmcXYUcatZ6Kem2-kQisPZks=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-1-f33fb4d851884e8982d54d6ff07d5ae7.jpg)
@@ -71,6 +77,9 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## **Design: A little flashy**
 
  The Nighthawk X6 router is aptly named for its six antennas that are fixed to both sides of the face of the device. While you can easily fold these antennas flat, for easy moving to and from one spot to another, you’ll need to place them upright in order to maximize the signal strength.
@@ -79,6 +88,9 @@ Lifewire / Yoona Wagener
 
  All the ports are easy to locate at the back of the device. These include four[LAN](https://www.lifewire.com/what-is-lan-4684071) ports, one WAN port, and one[USB 3.0](https://www.lifewire.com/what-is-usb-3-0-2626038) and one USB 2.0 port. You’ll also find the power button and DC power input in the same row.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/GsN851fjmzxtWs6ShQfaWQtEPok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-2-b6366698f8d14745a5027973d8657745.jpg)
 
  Lifewire / Yoona Wagener
@@ -95,10 +107,16 @@ Lifewire / Yoona Wagener
 
  Overall, minus the hitch that tacked on an additional 10-15 minutes of troubleshooting, we found the guided setup to be straightforward, quick, and easy to follow.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/kHfwPJF-cpnSAITo_i4moZ2Jnw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-4-1d3586d798cf44a9b219c9fd885069b3.jpg)
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Connectivity: Focused on the most innovative technology**
 
  This is an 802.11ac tri-band router, meaning it supports three frequencies: one 2.4GHz and two 5GHz channels on the[802.11ac wireless standard](https://www.lifewire.com/802-11ac-in-wireless-networking-818284) . The advantage here is that unlike older single- or[dual-band routers](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) that operate on older Wi-Fi standards or even newer dual-band options functioning on the most current Wi-Fi 5 standard, there’s additional support for more devices and less competition over bandwidth.
@@ -123,6 +141,9 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: User-friendly and intuitive**
 
  Everything is laid out quite cleanly in the Nighthawk app in terms of guided setup and accessing the information most users will probably be interested in—like speed information, devices connected, Wi-Fi settings, and parental controls using the Circle with Disney app to monitor everyone’s screen time and activity. The app also comes with a 30-day trial of Netgear Armor security, which does the work of detecting threats from malware, bots, and any other network vulnerabilities.
@@ -135,6 +156,9 @@ Lifewire / Yoona Wagener
 
  In this respect, the Nighthawk X6 R8000 is equally friendly to the general user who doesn't want to delve into the technical deep end as well as the more tech-savvy customer who does.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: A bit steep**
 
  The Nighthawk X6 R8000 has a list price of $270, which certainly places it in the high-end tier of wireless routers. And while it’s not the most expensive tri-band router on the market, your decision to make this investment could come down to factors like how large your home is, how many devices you’re working with, and how fast your internet service plan is. The tri-band Wi-Fi technology is impressive, and there are many attractive features: an intuitive and low-effort app, built-in security with Netgear Armor, as well as a detailed level of control over managing how everyone in the family spends their screen time, but there are equally capable as less expensive options on the market.

@@ -1,7 +1,7 @@
 ---
 title: "Unboxing & Review: A Closer Look at Features, Camera, and More on Google Pixel 6"
-date: 2024-08-05 13:27:16
-updated: 2024-08-08 10:37:34
+date: 2024-08-09T00:38:45.082Z
+updated: 2024-08-10T00:38:45.082Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing & Review: A Closer Look at Features, Camera, and More on Google Pixel 6"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 
 3.5
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## SunBriteTV Weatherproof Outdoor 55-Inch Veranda (2nd Gen)
 
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/SbA6fOgyA9EEgVGvd2P96Gc5Jqw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_HERO_Square-c68f638988064b98b6d844f1c9b06c47.jpg)
@@ -35,6 +38,9 @@ Lifewire / Gannon Burgett
 
 3.5
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## SunBriteTV Weatherproof Outdoor 55-Inch Veranda (2nd Gen)
 
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/srDs47vmZPXcVAqFGXrMcO_CJi8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_HERO_Square-c68f638988064b98b6d844f1c9b06c47.jpg)
@@ -60,6 +66,10 @@ Lifewire / Gannon Burgett
 
  For this review, I put SunBrite’s 55-inch Veranda 4K TV to the test to see how well it would hold up to in the chilliest of environments. Over the course of 30 hours of on-and-off use throughout the month of January, I took notes of the TV’s strengths and weaknesses and have summarized my thoughts below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## **Design: Bulky, but durable**
 
  From a distance, the SunBrite 55-inch Veranda outdoor TV doesn’t look much different than your average LED television. Aside from being slightly bulkier due to its protective shell, the TV, from the front and side, looks nearly identical to any TV you’d see inside.
@@ -74,6 +84,9 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Durability: Come hell or high water**
 
  Ultimately, testing the durability of the SunBrite 55 Veranda is something only time will be able to prove. However, after more than a month of near-daily use (and abuse), I’ve struggled to find anything this TV can’t handle, even in the chilling winters of northern Michigan.
@@ -110,16 +123,25 @@ Lifewire / Gannon Burgett
 
  Much like the video, the audio from the Veranda is designed specifically to account for the more open, outdoor environments this TV is meant to be used in. The 20W speaker on board is more than loud enough for all but the loudest of venues, but detail is sacrificed for the sake of decibels. This proved more than fine for any sports cast or TV show, but the more nuanced sound design of movies certainly takes a hit.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/gWc18UfkuRaLKxubOAFv0zceMlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_17_Horiz-e1118b39b8ae43f5a135c249d3d6f741.jpg)
 
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## **Price: Not cheap, but worth it**
 
  At $2,000, the SunBrite 55-inch Veranda is much more expensive than your standard 55-inch 4K HDR TV—even ones that outperform it in the audio, visual, and software departments. However, as far as outdoor TVs are concerned, it’s one of the more reasonably-priced options available while still being able to take on the elements.
 
  For better or worse, its $2,000 price is roughly middle-of-the-line as far as outdoor TVs go and if you have the cash to spare, I can guarantee it’ll be a worthwhile luxury purchase if you enjoy spending your time outside in the sun (or snow, in my case).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **SunBriteTV 55-inch Veranda vs Sealoc Lanai LG 7-series**
 
  SunBriteTV knows a thing or two about creating outdoor entertainment systems, but they’re not alone. Outdoor TV company Sealoc has its own line of outdoor TVs meant for the shade and has a lot to offer with its[55-inch Sealoc Lanai LG 7-series outdoor TV.](https://www.lifewire.com/skyvue-sealoc-coastal-silver-55-inch-4k-outdoor-tv-review-5077335)
