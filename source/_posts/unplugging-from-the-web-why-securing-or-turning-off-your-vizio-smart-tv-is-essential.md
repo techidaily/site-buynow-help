@@ -1,7 +1,7 @@
 ---
 title: "Unplugging From the Web: Why Securing or Turning Off Your Vizio Smart TV Is Essential"
-date: 2024-08-28 14:35:17
-updated: 2024-08-29 12:34:27
+date: 2024-08-31T12:13:33.229Z
+updated: 2024-09-01T12:13:33.229Z
 tags:
   - games
   - tv
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 
  This all sounds pretty scary, and to some degree, _it is_, but that doesn't mean you should jump to assuming it's as invasive as it sounds. The information collected is overwhelmingly used for ads. Boring as that may be, you shouldn't allow it to happen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ##  Walmart Now Owns Vizio and Its User Data
 
  Smart TVs spying on their viewers is sadly not a new thing, but what is a more recent development is who now owns a large chunk of this data. in February 2024, [Walmart purchased Vizio for $2.3 billion](https://solve-news.techidaily.com/cookiebot-enabled-optimize-your-site-with-advanced-analytics/), and it was largely done to enhance Walmart's advertising business.
@@ -43,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 
  Clearly, there's big business in collecting data from your TV usage habits. Walmart was already selling Vizio TVs, but now it can also bolster its own ads platform—[called "Walmart Connect"](https://corporate.walmart.com/news/2024/02/20/walmart-agrees-to-acquire-vizio-holding-corp-to-facilitate-accelerated-growth-of-walmart-connect-through-vizio-s-smartcast-operating-system)—with all of that user data. Plus, with Vizio's SmartCast platform, Walmart could ditch Roku and Google TV for its Onn-branded smart TVs.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ##  Disconnecting From the Internet is the Easiest Solution
 
  So, it's extremely likely that your smart TV is spying on you, and that data may now be going to a mega-corporation such as Walmart. What can you do about it? Well, there's one very simple solution: [cut off your TV's access to the internet.](https://data-wizards.techidaily.com/essential-tips-for-repairing-media-mishaps/) 
@@ -53,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 
  Now, this does mean you'll lose some of the functionality of your smart TV's software. If you were only using the TV as a "dumb" display for other devices, like a gaming console, that's not a problem. However, if you were using the TV's stock software for launching Netflix, Hulu, and other streaming services, we'll share a better way to go about that below.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Turn off Tracking on Vizio TVs
 
 ![Vizio settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/viaplus-onscreen-settings-transformed.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 Vizio
 
  It is possible to turn off ACR if you want to continue to use the internet-connected features on your Vizio smart TV. You have the option to decline ACR when first setting up the TV by opting out of "Viewing Data." You may have already disabled it, but it doesn't hurt to check.
@@ -77,6 +93,11 @@ Vizio
 4. Highlight "Viewing Data."
 5. Press the right arrow to change the setting to "Off."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ##  Use a Secondary Streaming Device Instead
 
  There are reasons beyond tracking why you shouldn't use your smart TV's built-in software. [A secondary streaming device](https://facebook-video-share.techidaily.com/updated-prime-selection-of-screen-capture-software-for-gaming/), such as a Roku, Amazon Fire TV, or Chromecast with Google TV, has [several advantages over built-in software](https://instagram-clips.techidaily.com/2024-approved-streamline-your-footage-insta-length-management-on-macos/)—even if that built-in software is Roku, Fire TV, or Google TV.
@@ -101,3 +122,47 @@ Vizio
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-bringing-dimensionality-to-text-a-photo-editing-masterclass/"><u>[New] Bringing Dimensionality to Text  A Photo Editing Masterclass</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-playbook-for-youtube-content-innovation/"><u>[Updated] The Ultimate Playbook for YouTube Content Innovation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-facebook-blue-verification-a-step-by-step-guide-for-2024/"><u>[Updated] Unlocking Facebook Blue Verification  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-virtual-potential-with-kinemasters-latest-android-release/"><u>[Updated] Unlocking Virtual Potential with KineMaster's Latest Android Release</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-motorola-edgeplus-does-it-meet-high-end-standards/"><u>Assessing the Motorola Edge+: Does It Meet High-End Standards?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/breakdown-of-the-garmin-forerunner-945s-features-an-in-depth-review-of-an-elite-gps-running-watch/"><u>Breakdown of the Garmin Forerunner 945'S Features - An In-Depth Review of an Elite GPS Running Watch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-motion-with-gopro-time-lapse-techniques/"><u>Capturing Motion with GoPro Time-Lapse Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smartphone-iphone-or-android-find-the-perfect-match/"><u>Choosing Your Smartphone: IPhone or Android – Find the Perfect Match</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-features-of-amazon-fire-vs-samsung-tablets-making-an-informed-decision/"><u>Comparing Features of Amazon Fire Vs. Samsung Tablets: Making an Informed Decision</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-new-worlds-and-build-your-interstellar-empire-in-stellaris/"><u>Discover New Worlds & Build Your Interstellar Empire in Stellaris</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-superior-audio-performance-with-our-detailed-midland-gxt1000vp4-test-drive/"><u>Discover Superior Audio Performance with Our Detailed Midland GXT1000VP4 Test Drive</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-secret-power-of-windows-essential-6-underutilized-tools-for-enhanced-efficiency/"><u>Discover the Secret Power of Windows: Essential 6 Underutilized Tools for Enhanced Efficiency</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/steps-how-to-master-the-best-of-9-free-youtube-logomakers-for-2024/"><u>Easy Steps  How to Master the Best of 9 Free YouTube Logomakers for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/engage-with-engineering-dive-into-the-world-of-diy-robotics-with-makeblocks-innovative-mbot-kit-reviewed-here/"><u>Engage with Engineering: Dive Into the World of DIY Robotics with Makeblock's Innovative mBot Kit Reviewed Here!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-factors-to-assess-prior-to-investing-in-a-fresh-printer/"><u>Essential Factors to Assess Prior to Investing in a Fresh Printer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-best-features-of-the-nook-glowlight-plus-by-barnes-and-noble/"><u>Exploring the Best Features of the Nook GlowLight Plus by Barnes & Noble</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/harmony-hub-tech-evolution/"><u>Harmony Hub  Tech Evolution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-blaze-pro-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Blaze Pro 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-reno-10-proplus-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo Reno 10 Pro+ 5G PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-your-lessons-implementing-youtube-in-the-academic-realm/"><u>In 2024, Revolutionize Your Lessons  Implementing YouTube in the Academic Realm</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-stunning-feats-in-figure-skating-22-moments/"><u>In 2024, Stunning Feats in Figure Skating '22 Moments</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-8-real-world-youtube-boosters/"><u>In 2024, The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-the-lg-k51s-gorgeous-appearance-hindered-by-a-lagging-processor/"><u>In-Depth Review: The LG K51's Gorgeous Appearance Hindered by a Lagging Processor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insights-into-the-clash-of-tech-giants-echo-dot-vs-homepod-mini-showdown/"><u>Insights Into The Clash of Tech Giants: Echo Dot Vs. HomePod Mini Showdown</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-applecareplus-the-right-protection-plan-for-your-iphone-or-ipad/"><u>Is AppleCare+ the Right Protection Plan for Your iPhone or iPad?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sound-synchronization-secrets-for-instagram-savvy-for-2024/"><u>Sound Synchronization Secrets for Instagram Savvy for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/switched-on-gaming-a-comprehensive-look-at-nintendos-latest-offerings-lite-and-oled/"><u>Switched On Gaming: A Comprehensive Look at Nintendo's Latest Offerings, Lite and OLED</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-car-connector-dive-into-our-review-of-the-sumind-bt7b-adapter/"><u>The Best Car Connector? Dive Into Our Review of the Sumind BT7#B Adapter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723039831788-the-ultimate-review-of-the-garmin-vivomove-hr-a-chic-choice-for-active-living/"><u>The Ultimate Review of the Garmin Vivomove HR - A Chic Choice for Active Living!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-picks-for-e-reader-enthusiasts-the-complete-review-of-kobo-clarity-colour/"><u>Top Picks for E-Reader Enthusiasts: The Complete Review of Kobo Clarity Colour</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rankings-confirmed-unveiling-the-exclusivity-of-the-samsung-galaxy-s10-in-our-comprehensive-review/"><u>Top Rankings Confirmed: Unveiling the Exclusivity of the Samsung Galaxy S10 in Our Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-performance-of-the-byb-e430-lamp-an-insightful-swing-arm-led-analysis/"><u>Top-Tier Performance of the BYB E430 Lamp: An Insightful Swing Arm LED Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-capturing-your-gaming-moments-recording-playstation-4/"><u>Ultimate Guide: Capturing Your Gaming Moments - Recording PlayStation 4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-logitech-c920-pro-hd-webcam-assessment-unveiling-true-high-definition-performance/"><u>Ultimate Logitech C920 Pro HD Webcam Assessment: Unveiling True High-Definition Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-fortnite-season-xlvii-the-most-fun-and-engaging-update-yet/"><u>Unboxing Fortnite Season XLVII: The Most Fun and Engaging Update Yet!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-secrets-behind-the-solid-build-and-extended-range-functionality-of-the-uniden-r3-detector/"><u>Uncovering the Secrets Behind the Solid Build and Extended Range Functionality of the Uniden R3 Detector</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-the-large-scale-stanley-j5c09-a-review-of-its-robust-abilities-and-features/"><u>Unveiling the Potential of the Large-Scale Stanley J5C09: A Review of Its Robust Abilities and Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerful-performance-a-thorough-look-at-the-samsung-galaxy-tab-s4-for-android-users/"><u>Unveiling the Powerful Performance: A Thorough Look at the Samsung Galaxy Tab S4 for Android Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vonage-is-it-leading-the-pack-in-current-voip-services/"><u>Vonage: Is It Leading the Pack in Current VoIP Services?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/when-does-an-iphones-obsolescence-become-inevitable/"><u>When Does an iPhone's Obsolescence Become Inevitable?</u></a></li>
+</ul></div>

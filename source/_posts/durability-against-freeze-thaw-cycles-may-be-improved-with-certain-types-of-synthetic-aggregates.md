@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2024-08-28 16:12:56
-updated: 2024-08-29 10:37:50
+date: 2024-08-31T12:14:03.799Z
+updated: 2024-09-01T12:14:03.799Z
 tags:
   - games
   - tv
@@ -114,6 +114,9 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
@@ -128,20 +131,32 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Anker Nebula Capsule 3](https://us.seenebula.com/products/capsule-3-projectors-d2425) projector offers a lot of capabilities packed inside a palmable-sized canister. In my use, it performed about as well as I expected it to. It’s not quite the watch-anywhere device it might seem like from its promotional material, simply because its brightness can’t handle lighter areas.
@@ -150,6 +165,9 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Anker Nebula Capsule 3 Mini Projector
 
 7/ 10 
@@ -172,3 +190,78 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/0-recording-tips-to-record-audio-in-high-quality-for-2024/"><u>[New] 10 Recording Tips to Record Audio in High Quality for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-brushbandit-in-depth-analysis-and-step-by-step-manual-2024/"><u>[New] BrushBandit In-Depth Analysis & Step-by-Step Manual 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-stealthy-techniques-to-skip-online-classroom-vids/"><u>[New] In 2024, Stealthy Techniques to Skip Online Classroom Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lightning-loop-top-10-agile-games-on-mobilepc/"><u>[New] Lightning Loop  Top 10 Agile Games on Mobile/PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reclaiming-one-headphone-harmony/"><u>[New] Reclaiming One-Headphone Harmony</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-step-by-step-guide-for-vintage-photo-conversion-and-storage/"><u>[New] The Step-by-Step Guide for Vintage Photo Conversion & Storage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elevate-your-virtual-presentations-with-zoom-sharing/"><u>[Updated] Elevate Your Virtual Presentations with Zoom Sharing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-streaming-to-savings-preserving-your-internet-tunes-for-2024/"><u>[Updated] From Streaming to Savings  Preserving Your Internet Tunes for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-strategies-to-successfully-pin-on-snapchat/"><u>[Updated] In 2024, Strategies to Successfully Pin on Snapchat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-macos-sierra-switching-back-to-os-x-el-capitan/"><u>[Updated] MacOS Sierra  Switching Back To OS X El Capitan</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-revolutionary-tactics-for-enhanced-roi-in-animated-facebook-advertising-for-2024/"><u>[Updated] Revolutionary Tactics for Enhanced ROI in Animated Facebook Advertising for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-vanishing-in-the-crowd-how-to-peruse-instagram-stories-on-various-platforms-anonymously-for-2024/"><u>[Updated] Vanishing in the Crowd  How to Peruse Instagram Stories on Various Platforms Anonymously for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-journey-to-aesthetic-excellence-fusing-images-masterfully/"><u>2024 Approved  Journey to Aesthetic Excellence  Fusing Images Masterfully</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-gionee-f3-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Gionee F3 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-by-step-pathway-to-adding-sound-in-adobe-premiere/"><u>A Step-by-Step Pathway to Adding Sound in Adobe Premiere</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-touchscreen-perfection-a-comprehensive-moto-g-stylus-assessment/"><u>Affordable Touchscreen Perfection: A Comprehensive Moto G Stylus Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-free-and-paid-non-microsoft-productivity-suites-of-2024-revealed/"><u>Best Free & Paid Non-Microsoft Productivity Suites of 2024 Revealed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/breaking-down-the-ps4-pro-mastering-the-art-of-gaming-at-true-4k-resolution/"><u>Breaking Down the PS4 Pro: Mastering the Art of Gaming at True 4K Resolution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/can-the-google-pixel-5-bridge-the-gap-an-in-depth-look-at-its-cost-effective-strengths-and-premium-advantages/"><u>Can the Google Pixel 5 Bridge the Gap? An In-Depth Look at Its Cost Effective Strengths and Premium Advantages</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/combining-tradition-and-innovation-a-comprehensive-analysis-of-the-analog-charm-in-withings-move-smartwatches/"><u>Combining Tradition and Innovation: A Comprehensive Analysis of the Analog Charm in Withings Move Smartwatches</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-and-assessment-of-the-amazon-kindle-paperwhite-2018-edition-enhancing-your-reading-experience/"><u>Comprehensive Guide and Assessment of the Amazon Kindle Paperwhite (2018 Edition): Enhancing Your Reading Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/creating-your-first-basic-financial-plan-with-microsoft-excel-a-step-by-step-guide/"><u>Creating Your First Basic Financial Plan with Microsoft Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-leading-key-locator-devices-reviewed-here/"><u>Discover the Leading Key Locator Devices Reviewed Here!</u></a></li>
+<li><a href="https://techidaily.com/discover-your-motherboard-type-with-simple-tricks/"><u>Discover Your Motherboard Type with Simple Tricks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-control-with-ipad-mice-top-picks-reviewed/"><u>Enhanced Control with iPad Mice: Top Picks Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ergoheads-secret-weapon-unveiled-a-review-of-its-long-lasting-standing-desk-mat/"><u>Ergohead's Secret Weapon Unveiled: A Review of Its Long-Lasting Standing Desk Mat</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/examining-the-oneplus-8t-exceptional-speed-with-room-for-photographic-improvement/"><u>Examining the OnePlus 8T: Exceptional Speed with Room for Photographic Improvement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/examining-the-sony-xperia-5-portable-size-premium-cost/"><u>Examining the Sony Xperia 5: Portable Size, Premium Cost</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-hp-chromebook-11-the-all-rounder-for-academics-professional-duties-and-fun/"><u>Expert Insights on HP Chromebook 11: The All-Rounder for Academics, Professional Duties, and Fun</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-compact-aphaca-bt69-the-ultimate-bluetooth-fm-transmitter-for-your-car/"><u>Expert Review of the Compact Aphaca BT69 - The Ultimate Bluetooth FM Transmitter for Your Car</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-advanced-features-and-stylish-look-of-the-dell-alienware-aurora-r9-system-review/"><u>Exploring the Advanced Features and Stylish Look of the Dell Alienware Aurora R9 System Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-kobo-clara-hd-a-must-have-e-reader-for-bookworms-always-on-the-move/"><u>Exploring the Kobo Clara HD - A Must-Have E-Reader for Bookworms Always on the Move</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-trendy-design-and-efficient-mobility-of-the-swagtrn-swagger-scooter-a-complete-guide/"><u>Exploring the Trendy Design & Efficient Mobility of the Swagtrn Swagger Scooter - A Complete Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fango-rated-unveiling-the-top-voip-services-for-canadians/"><u>Fango Rated! Unveiling the Top VoIP Services for Canadians</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-close-up-to-faraway-the-nikon-coolpix-p1000-saga/"><u>From Close-Up to Faraway – The Nikon COOLPIX P1000 Saga</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fz80-camera-value-and-vitality-unite/"><u>FZ80 Camera - Value & Vitality Unite</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gopro-hero7-black-a-game-changer-for-adventurers/"><u>GoPro HERO7 Black - A Game-Changer for Adventurers!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hassle-free-pet-nutrition-delivered-by-arf-smart-pet-feeder/"><u>Hassle-Free Pet Nutrition Delivered by Arf Smart Pet Feeder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-spark-go-2023-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Tecno Spark Go (2023) Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-ai-powered-best-titles-makers-online/"><u>In 2024, AI-Powered Best Titles Makers Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fading-out-the-art-of-ebbing-audio-energy-in-fl-studio/"><u>In 2024, Fading Out  The Art of Ebbing Audio Energy in FL Studio</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-xs-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone XS Activation Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-12rfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus 12RFRP Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-infinix-hot-30-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Infinix Hot 30 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-genius-widecam-f100-camera-battling-pixilation-and-audio-echos/"><u>In-Depth Analysis of the Genius WideCam F100 Camera: Battling Pixilation & Audio Echos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-lightweight-lenovo-thinkpad-x1-nano-the-new-powerhouse-in-a-featherlight-frame/"><u>In-Depth Analysis of the Lightweight Lenovo ThinkPad X1 Nano – The New Powerhouse in a Featherlight Frame</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/iphone-gaming-powerhouses-finding-your-perfect-match/"><u>IPhone Gaming Powerhouses: Finding Your Perfect Match</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/karaoke-fun-on-a-budget-find-your-perfect-ktv-spot-under-150-dollars/"><u>Karaoke Fun on a Budget: Find Your Perfect KTV Spot Under 150 Dollars</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lg-um7e-um7300-a-detailed-look-at-the-economic-option-for-a-49-inch-4k-tv/"><u>LG UM7e (UM7300) - A Detailed Look at the Economic Option for a 49-Inch 4K TV</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagrams-newest-feature-reels-explained-for-2024/"><u>Mastering Instagram's Newest Feature  Reels Explained for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-lava-blaze-2-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-package-management-via-winget-in-windows-11/"><u>Mastering Package Management via Winget in Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/microsoft-surface-go-analysis-how-an-economical-device-faces-a-perplexing-classification-dilemma/"><u>Microsoft Surface Go Analysis: How an Economical Device Faces a Perplexing Classification Dilemma</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-advanced-bluetooth-telephones-a-comprehensive-guide/"><u>Most Advanced Bluetooth Telephones : A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-animate-on-the-go-top-8-mobile-apps/"><u>New Animate On-the-Go Top 8 Mobile Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/patch-or-replace-navigating-the-world-of-code-changes/"><u>Patch or Replace: Navigating the World of Code Changes</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/perfect-your-tiktok-presence-mastering-siri-commands-for-video-creation-for-2024/"><u>Perfect Your TikTok Presence - Mastering Siri Commands for Video Creation for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sky-high-savings-with-the-amazonbasics-hd-antenna-review-for-economical-over-the-air-tv/"><u>Sky-High Savings with the AmazonBasics HD Antenna Review for Economical Over-the-Air TV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-day-charge-champion-a-deep-dive-into-moto-g-powers-stellar-battery-performance/"><u>The All-Day Charge Champion - A Deep Dive Into Moto G Power's Stellar Battery Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-most-innovative-mac-compatible-mouse-choices-available/"><u>The Most Innovative Mac-Compatible Mouse Choices Available</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-next-frontier-of-classroom-technology-vr/"><u>The Next Frontier of Classroom Technology - VR</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-microsoft-office-replacements-you-cant-miss/"><u>The Ultimate Guide: Microsoft Office Replacements You Can't Miss</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tilling-through-time-top-farmer-games-evolutions-for-2024/"><u>Tilling Through Time  Top Farmer Games Evolutions for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-storm-tracking-mobile-applications/"><u>Top-Rated Storm Tracking Mobile Applications</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-still-faces-picsarts-motion-blur-magic-for-2024/"><u>Transforming Still Faces  Picsart's Motion Blur Magic for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-bluetooth-connectivity-issues-in-windows-10/"><u>Troubleshooting Bluetooth Connectivity Issues in Windows 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-minecraft-top-reviews-for-multi-generational-building-fun/"><u>Ultimate Guide to Minecraft: Top Reviews for Multi-Generational Building Fun</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unmatched-performance-and-easy-setup-why-google-wifi-is-a-must-have-for-every-home-network/"><u>Unmatched Performance and Easy Setup: Why Google Wifi Is a Must-Have for Every Home Network</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-our-impressions-on-the-portable-and-elegant-lenovo-ideapad-320-with-stylish-keyboard-design/"><u>Unveiling Our Impressions on the Portable and Elegant Lenovo Ideapad 320 with Stylish Keyboard Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-hidden-risks-how-your-data-could-be-compromised-by-chatbots/"><u>Unveiling the Hidden Risks: How Your Data Could Be Compromised by Chatbots</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/urban-armor-gear-macbook-case-the-perfect-blend-of-style-and-security/"><u>Urban Armor Gear MacBook Case: The Perfect Blend of Style and Security</u></a></li>
+</ul></div>

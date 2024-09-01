@@ -1,7 +1,7 @@
 ---
 title: "My Journey Into Game Development with ChatGPT: A Comprehensive Review"
-date: 2024-08-27 13:59:40
-updated: 2024-08-29 12:21:10
+date: 2024-08-31T12:15:12.246Z
+updated: 2024-09-01T12:15:12.246Z
 tags:
   - games
   - tv
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/34062c0c76761441d1daaab882479cf039a7dd266
 
 ![ChatGPT describes the steps in building a player character](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-seems-to-know-some-stuff-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  After sorting out that it at least knew what it was doing, I decided to give the framework for my project, which included:
 
 * Random generation of a scrolling background
@@ -75,12 +79,18 @@ public class Projectile : MonoBehaviour
     
  Notably, it gave me well-commented code so I could follow along as a beginner programmer. Many places suggest that you could [learn to code using AI](https://learntocodewith.me/resources/ai-coding/), and the inclusion of well-commented code is part of that. You won't have to worry if there are errors in your code if you can trace them comment by comment. However, when using GPT to build a game, I encountered several issues that would defeat a newcomer to game development.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  ChatGPT Is Far From Perfect
 
  LLMs are only as good (or as bad) as the prompts the user gives them. For example, a user could easily [generate anime-type characters with MidJourney](https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/) by including a few words to clarify the prompt's end result. However, when building a game with ChatGPT, I found that there were times when the engine simply didn't pick up what I was putting down.
 
 ![An error happens that I can't seem to figure out, so I ask GPT for help](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-wild-unexpected-behavior-appears.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In this example, I encountered an issue with spawning my projectiles, with all the "bullets" being deflected when the player moves. While this could create some interesting play patterns, I decided to ask it to fix the problem, and it suggested a fix. Unfortunately, the fix didn't work.
 
 ![GPT's responses doesn't fix the error I keep having](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-error-is-still-there.png) 
@@ -97,10 +107,16 @@ public class Projectile : MonoBehaviour
 
 ![GPT gives me a piece of code that is outdated because of GPT's limitations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gpt-s-godot-problem-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 GPT's Godot Problem
 
  For those who use Godot regularly, the issue is immediately obvious. ChatGPT stopped learning in 2021 or thereabouts (at least for the free version). The script GPT gave me was based on its knowledge of Godot 2.x, which is a heavily outdated version of the current 4.x version. The glaring problem is the use of KinematicBody2D, which was replaced by CharacterBody2D in later iterations of the language.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Much Skill Do You Need to Code a Game With ChatGPT?
 
  If you're considering making the next Legend of Zelda: Breath of the Wild using ChatGPT, you should probably temper your expectations. You need to have a decent understanding of the engine you're working in to use ChatGPT as a coding assistant.
@@ -109,6 +125,9 @@ GPT's Godot Problem
 
  In simpler language, you know what the game you're making should look like and how things in it should behave. You can explain it to ChatGPT what you want, and it will give you something close to (but not quite) what your game needs. To make it behave the way you want it to, you'll have to fiddle around with the code that GPT gives you.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Code a Game With ChatGPT?
 
 ![Screenshot of My Game's Title Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-1-1.jpg) 
@@ -142,3 +161,42 @@ GPT's Godot Problem
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitters-favorites-top-10-tiktok-vids/"><u>[Updated] 2024 Approved  Twitter's Favorites  Top 10 TikTok Vids</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>[Updated] In 2024, Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamlining-long-videos-on-youtube-through-effective-chapter-management/"><u>[Updated] Streamlining Long Videos on YouTube Through Effective Chapter Management</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleashing-your-creativity-advanced-techniques-for-boomers-for-2024/"><u>[Updated] Unleashing Your Creativity  Advanced Techniques for Boomers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-masterpiece-monoprice-graphic-tablet-unveiled-quality-meets-economy/"><u>Affordable Masterpiece: Monoprice Graphic Tablet Unveiled - Quality Meets Economy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-performance-powerhouse-the-elph-190-review/"><u>Affordable Performance Powerhouse: The ELPH 190 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amplifi-hd-smart-mesh-wi-fi-system-review-bid-farewell-to-wi-fi-signal-blackouts/"><u>Amplifi HD Smart Mesh Wi-Fi System Review: Bid Farewell to Wi-Fi Signal Blackouts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-giants-a-comprehensive-guide-to-outlook-and-gmail-features/"><u>Choosing Between Giants: A Comprehensive Guide to Outlook & Gmail Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/costly-convenience-with-airpods-max-investment/"><u>Costly Convenience with AirPods Max Investment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/epb-shield-tunnelling-is-designed-for-soft-ground-conditions-with-high-water-content-and-uses-a-balancing-mechanism-at-the-face-of-the-tunnel-to-maintain-st137/"><u>EPB Shield Tunnelling Is Designed for Soft Ground Conditions with High Water Content and Uses a Balancing Mechanism at the Face of the Tunnel to Maintain Stability.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/examining-the-sony-xperia-5-portable-powerful-and-pricier-than-ever-before/"><u>Examining the Sony Xperia 5: Portable, Powerful, And Pricier Than Ever Before</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-next-gen-television-with-the-sony-xbr4-groovy-x900f-a-4k-uhd-marvel-on-a-49-screen/"><u>Experience Next-Gen Television with the Sony XBR4 Groovy X900F - A 4K UHD Marvel on a 49 Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-samsung-gear-s3-frontier-an-expansive-smartwatch-with-cutting-edge-capabilities/"><u>Expert Analysis of the Samsung Gear S3 Frontier: An Expansive Smartwatch with Cutting-Edge Capabilities</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-highly-capable-dell-xps-13-convertible-notebook/"><u>In-Depth Analysis of the Highly Capable Dell XPS 13 Convertible Notebook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-unveiling-the-charms-and-drawbacks-of-the-premium-priced-google-pixelbook-go/"><u>In-Depth Review: Unveiling the Charms and Drawbacks of the Premium-Priced Google Pixelbook Go</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-at-the-fastest-device-for-streaming-the-ultimate-amazon-fire-tv-cube-review/"><u>Inside Look at The Fastest Device for Streaming – The Ultimate Amazon Fire TV Cube Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mlb-the-show-19-analysis-when-baseball-meets-strategic-role-playing-adventures/"><u>MLB The Show 19 Analysis: When Baseball Meets Strategic Role-Playing Adventures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-best-netgear-wifi-router-choices-for-enhanced-home-networking/"><u>Navigating the Best Netgear WiFi Router Choices for Enhanced Home Networking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-best-senior-friendly-mobile-tariffs/"><u>Navigating the Best Senior-Friendly Mobile Tariffs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paww-wavesound-3-review/"><u>Paww Wavesound 3 Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-red-magic-9-pro-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Red Magic 9 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/premium-picture-quality-at-a-bargain-the-inside-scoop-on-1byones-digital-amplified-indoor-hdtv-antenna/"><u>Premium Picture Quality at a Bargain: The Inside Scoop on 1Byone's Digital Amplified Indoor HDTV Antenna</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y77t-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y77t Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-15-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-podcast-with-these-ai-name-makers-for-2024/"><u>Revolutionize Your Podcast with These AI Name Makers for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-k11-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from K11 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-top-quality-budget-friendly-case-for-your-macbook-pro-13-a-review-of-finties-offering/"><u>The Ultimate Guide to Choosing a Top-Quality, Budget-Friendly Case for Your MacBook Pro 13: A Review of Fintie's Offering</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-an-office-chair-featuring-the-x-chair-x4/"><u>The Ultimate Guide to Choosing an Office Chair: Featuring the X-Chair X4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-urban-armor-gears-durable-macbook-pro-protector/"><u>The Ultimate Guide to Urban Armor Gear's Durable MacBook Pro Protector</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-itel-p55-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Itel P55 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-evaluating-the-budget-friendly-tcl-50s425-a-2019-50-inch-4k-roku-television-review/"><u>Unboxing and Evaluating the Budget-Friendly TCL 50S425 - A 2019 50-Inch 4K Roku Television Review.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lg-gram-156-an-extensive-review-of-a-remarkably-slim-and-long-lasting-ultrabook/"><u>Unveiling the LG Gram 15.6: An Extensive Review of a Remarkably Slim & Long-Lasting Ultrabook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-of-genius-widecam-f10er-examining-pixelation-and-sound-quality-concerns/"><u>Unveiling the Performance of Genius WideCam F10er: Examining Pixelation & Sound Quality Concerns</u></a></li>
+</ul></div>

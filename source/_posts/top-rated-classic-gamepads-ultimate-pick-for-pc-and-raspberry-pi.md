@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Classic Gamepads: Ultimate Pick for PC and Raspberry Pi"
-date: 2024-08-27 10:34:36
-updated: 2024-08-29 11:29:36
+date: 2024-08-31T12:10:05.529Z
+updated: 2024-09-01T12:10:05.529Z
 tags:
   - buying-guides
 categories:
@@ -78,6 +78,9 @@ Best Megadrive/Genesis Controller
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Best Retro Controller Overall: [8Bitdo Pro 2](https://www.amazon.com/8Bitdo-Bluetooth-Controller-Android-Raspberry-Classic/dp/B08XY8SK9B?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/8Bitdo-Bluetooth-Controller-Switch-Android-Raspberry/dp/B08XY8H9D5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce)
@@ -106,6 +109,9 @@ Best Megadrive/Genesis Controller
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 Best Retro Controller Overall
 
 #####  8Bitdo Pro 2 Bluetooth Controller
@@ -141,6 +147,10 @@ The Pro 2 tries to be all things to all retro gamers and by and large, succeeds 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 Best Budget Retro Controller
 
 #####  8Bitdo Sn30 2.4G Wireless Gamepad for Original SNES
@@ -149,6 +159,9 @@ This high-quality controller works with the original SNES via lag-free 2.4Ghz wi
 
 [$30 at Amazon](https://www.amazon.com/8Bitdo-Wireless-Gamepad-Original-Transparent-nintendo/dp/B092DXQYDK?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ##  Best Wired Retro Controller: [Retro-Bit Sega Saturn USB Controller](https://www.amazon.com/Retro-Bit-Official-Controller-Genesis-Nintendo/dp/B07XWL1573?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Retro-Bit-Official-Controller-Genesis-Nintendo/dp/B07XWL1573?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce)
@@ -194,6 +207,9 @@ The Model 2 revision of the Saturn controller is beloved by Sega fans and this w
 
 [![Suily NES controller on grey background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Suily-NES-controller.jpg) Suily](https://www.amazon.com/Controller-suily-Joystick-RetroPie-Emulators/dp/B07M7SYX11?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [](https://www.amazon.com/Controller-suily-Joystick-RetroPie-Emulators/dp/B07M7SYX11?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                                              | Cons                                |
@@ -211,6 +227,9 @@ The Model 2 revision of the Saturn controller is beloved by Sega fans and this w
 
 ![Suily NES controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/suily-nes-controller.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best NES-Style Controller
@@ -221,10 +240,16 @@ If you're looking for a recreation of the classic NES days, Suily delivers with 
 
 [$16 at Amazon](https://www.amazon.com/Controller-suily-Joystick-RetroPie-Emulators/dp/B07M7SYX11?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Best SNES-Style Controller: [8Bitdo SN30 Pro Wireless Bluetooth Controller](https://www.amazon.com/Bluetooth-Controller-Joysticks-Vibration-Compatible-Mac/dp/B0BW3T9YBP?tag=hotoge-20&ascsubtag=UUhtgUeUpU205804&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F807828%2Fbest-retro-controller%2F&asc%5Fcampaign=Commerce) 
 
 ![8Bitdo SN30 Pro Wireless Bluetooth Controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8bitdo-sn30-pro-wireless-bluetooth-controller.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _8Bitdo_
 
 | Pros                            | Cons                                          |
@@ -246,8 +271,14 @@ _8Bitdo_
 
 ![8Bitdo SN30 Pro Wireless Bluetooth Controller Tag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8bitdo-sn30-pro-wireless-bluetooth-controller-tag.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Best SNES Style Controller
 
 #####  8Bitdo SN30 Pro Controller
@@ -284,6 +315,9 @@ Seamlessly blending the retro cool of the original SNES controller with modern-d
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Megadrive/Genesis Controller
 
 #####  Retro-Bit Sega Genesis Controller
@@ -306,3 +340,52 @@ A faithful recreation of the classic Sega Genesis controller.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-banner-templates-for-youtube-downloads-and-makers/"><u>[New] In 2024, Free Banner Templates for YouTube Downloads & Makers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unleash-windowsmac-premium-pc-and-mac-screen-capture-tools/"><u>[New] Unleash Windows/Mac  Premium PC and MAC Screen Capture Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-bringing-videos-to-life-using-youtube-in-educational-environments/"><u>2024 Approved  Bringing Videos to Life  Using YouTube in Educational Environments</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/45-review-and-features-tailored-for-the-avid-marathoner/"><u>45 Review & Features Tailored for the Avid Marathoner</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-deep-look-into-rebel-t6s-economic-features/"><u>A Deep Look Into Rebel T6's Economic Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-excellence-in-fitness-tracking-xiaomi-mi-smart-band-4-detailed-review-analysis/"><u>Affordable Excellence in Fitness Tracking: Xiaomi Mi Smart Band 4 Detailed Review Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazon-fire-or-samsung-tablet-a-detailed-comparison-to-help-you-decide/"><u>Amazon Fire or Samsung Tablet? A Detailed Comparison to Help You Decide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-and-effective-morning-aid-totobay-wake-up-light-2nd-generation-reviewed/"><u>Budget Friendly and Effective Morning Aid: Totobay Wake-Up Light (2Nd Generation) Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/building-a-flask-based-python-server-for-networked-file-transfers/"><u>Building a Flask-Based Python Server for Networked File Transfers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-echo-dot-and-apple-homepod-mini-key-features-compared/"><u>Choosing Between Echo Dot and Apple HomePod Mini: Key Features Compared</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smartphone-iphones-or-android-devices-whats-best-suited-for-you/"><u>Choosing Your Smartphone: IPhones or Android Devices - What's Best Suited for You?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-pioneer-bdr-xd05b-blu-ray-burner-uncovering-potential-drawbacks/"><u>Comprehensive Analysis of the Pioneer BDR-XD05B Blu-Ray Burner: Uncovering Potential Drawbacks</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-fixing-the-update-failed-message-in-warframe-a-comprehensive-guide/"><u>Decoding and Fixing the 'Update Failed' Message in Warframe – A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-top-eight-mobile-game-titles-for-gamers-on-the-go/"><u>Discover the Top Eight Mobile Game Titles for Gamers on the Go</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-power-needs-with-our-picks-for-the-best-rechargeable-battery-chargers/"><u>Elevate Your Power Needs with Our Picks for the Best Rechargeable Battery Chargers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-your-driving-experience-with-the-lihan-lhfm1-039-bluetooth-transmitter-a-thorough-product-overview-and-evaluation/"><u>Enhancing Your Driving Experience with the LIHAN LHFM1 039 Bluetooth Transmitter - A Thorough Product Overview and Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-escort-max-360-a-next-generation-radar-detector-featuring-gps-technology-and-extra-functions/"><u>Expert Insights on the Escort Max 360: A Next-Generation Radar Detector Featuring GPS Technology and Extra Functions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-power-of-minimalism-with-xbox-series-s-a-review-of-its-unmatched-performance-and-size-advantage/"><u>Exploring the Power of Minimalism with Xbox Series S: A Review of Its Unmatched Performance and Size Advantage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-more-for-your-money-with-the-budget-friendly-fitbit-versa-lite-a-comprehensive-guide/"><u>Get More for Your Money with the Budget-Friendly Fitbit Versa Lite: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-more-from-prime-day-with-these-spectacular-samsung-deals/"><u>Get More From Prime Day with These Spectacular Samsung Deals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-effective-is-the-netgear-ex3700-an-expert-review-of-the-wireless-range-extender-ac750/"><u>How Effective Is the Netgear EX3700? - An Expert Review of the Wireless Range Extender (AC750)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-pop-8-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Pop 8 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-11-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone 11 without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g310-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia G310 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-htc-u23-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-7a-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 7a Phone without Google Account?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-soft-volume-tricks-lives-hidden-gems/"><u>In 2024, Soft Volume Tricks  Live’s Hidden Gems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-superior-ringtones-roundup-elite-download-hubs/"><u>In 2024, Superior Ringtones Roundup  Elite Download Hubs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-user-friendly-untangle-for-youtube-earnings-assessment/"><u>In 2024, The Ultimate User-Friendly Untangle for YouTube Earnings Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-photoscape-your-go-to-solution-for-cost-free-image-enhancement/"><u>In-Depth Evaluation of PhotoScape: Your Go-To Solution for Cost-Free Image Enhancement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-ideapad-assessment-solid-construction-and-simple-functionality/"><u>Lenovo Ideapad Assessment: Solid Construction and Simple Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lx310bt-sony-bluetooth-player-thin-and-stylish/"><u>LX310BT Sony Bluetooth Player - Thin & Stylish</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-savings-with-amazing-offers-on-benq-monitors-and-projectors-for-prime-day-shoppers/"><u>Maximize Savings with Amazing Offers on BenQ Monitors & Projectors for Prime Day Shoppers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-apple-laptops-how-does-the-macbook-air-differ-from-the-pro/"><u>Navigating Apple Laptops: How Does the MacBook Air Differ From the Pro?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nokia-72-showdown-top-performances-and-why-it-deserves-a-spot-on-your-radar/"><u>Nokia 7.2 Showdown: Top Performances and Why It Deserves a Spot on Your Radar</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revamp-your-drive-with-the-lihan-bluetooth-transmitter-an-in-depth-lhfm1039-assessment/"><u>Revamp Your Drive with the LIHAN Bluetooth Transmitter - An In-Depth LHFM1039 Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-homes-atmospheric-insights-with-top-of-the-line-stations/"><u>Revolutionize Your Home's Atmospheric Insights with Top-of-the-Line Stations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stylish-ourlink-u631-usb-wi-fi-nano-adapter-for-swift-and-robust-internet-connectivity/"><u>Stylish Ourlink U6ˈ31 USB Wi-Fi Nano Adapter for Swift and Robust Internet Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-comprehensive-analysis-of-the-newly-released-202-apple-iphone-se-what-you-need-to-know/"><u>The Comprehensive Analysis of the Newly Released 202# Apple iPhone SE - What You Need to Know!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-cell-phone-signal-amplifiers-enhancing-your-connectivity/"><u>Top-Rated Cell Phone Signal Amplifiers : Enhancing Your Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-lg-c9-oled-65-4k-television-analysis-a-dream-come-true-for-avid-viewers/"><u>Ultimate LG C9 OLED 65 4K Television Analysis - A Dream Come True for Avid Viewers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-lg-gram-156-notebook-2018-featuring-unparalleled-portability-and-enduring-battery-life/"><u>Ultimate LG Gram 15.6 Notebook (2018): Featuring Unparalleled Portability & Enduring Battery Life</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-amazon-kindle-oasis-an-elegant-device-with-a-costly-tag/"><u>Unveiling the Amazon Kindle Oasis: An Elegant Device with a Costly Tag</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/yokus-island-escapade-critique-where-grand-tales-unexpectedly-take-shape/"><u>Yoku's Island Escapade Critique: Where Grand Tales Unexpectedly Take Shape</u></a></li>
+</ul></div>

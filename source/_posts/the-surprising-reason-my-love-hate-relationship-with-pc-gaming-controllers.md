@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers"
-date: 2024-08-28 18:56:48
-updated: 2024-08-29 11:32:59
+date: 2024-08-31T12:15:25.319Z
+updated: 2024-09-01T12:15:25.319Z
 tags:
   - games
   - tv
@@ -41,6 +41,9 @@ Ismar Hrnjicevic / How-To Geek
 
  Controllers offer a more ergonomic alternative. Your fingers wrap naturally around them, moving freely, especially the [Xbox Elite controllers](https://youtube-clips.techidaily.com/the-rise-and-challenges-of-video-streaming-profits/) and their [game-changing back buttons](https://some-skills.techidaily.com/the-best-ai-naming-assistants-for-podcast-innovation-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## 2  Controllers Are Better for My Preferred Game Genres 
 
 ![A collage of hypothetical 3rd person ARPG games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-collage-of-hypothetical-3rd-person-arpg-games.png) 
@@ -53,6 +56,9 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  Don't get me wrong, I've spent countless hours enjoying RTS games like _Warcraft 3_ and _Starcraft 2_ with a keyboard and mouse. I understand their strengths for certain genres. However, with the decline of RTS games and my waning interest in FPS titles, I find controllers better suited for the types of games I enjoy most these days.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 3  A Poor Choice for Emulation 
 
  While I'm not the greatest fan of [emulators](https://some-guidance.techidaily.com/new-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/), I know many who are and they unanimously vote against the use of keyboards and mice for emulated games.
@@ -61,6 +67,9 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  If you're interested in emulation, there are various [gamepads better suited for different types of emulated systems](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-by-drfone-ios/). That said, most emulators allow you to remap buttons, so you can adapt a single gamepad to mimic different controller layouts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 4  A Lack of Vibration Feedback 
 
  Let's talk about something that keyboard and mouse setups sorely lack: [vibration feedback](https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/). If your keyboard or mouse is vibrating, you might want to get that checked out. And if it's battery-powered and vibrating, maybe step away slowly—we don't want any surprise fireworks!
@@ -71,6 +80,9 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  This is to say nothing of the modern haptic feedback seen on the PS5 DualSense controller with its adaptive triggers, and the rumble feedback that Xbox Core controllers feature in the triggers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5  Not Ideal for Local Co-op or PvP 
 
 ![illustration of two people awkwardly trying to share a single keyboard and mouse setup for gaming.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/illustration-of-two-people-awkwardly-trying-to-share-a-single-keyboard-and-mouse-setup-for-gaming.png) 
@@ -105,6 +117,9 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![Image of Keyboard and Mouse of a Deskpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/image-of-keyboard-and-mouse-of-a-deskpad.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Ismar Hrnjicevic / How-To Geek  
 
  This is not as contradictory as it sounds. I cherish my keyboard and mouse for work, which is precisely why I avoid using them for gaming. They're essential tools for my livelihood, and I'd rather keep them safe from the rigors of intense gaming sessions.
@@ -113,6 +128,9 @@ Ismar Hrnjicevic / How-To Geek
 
  My [current mechanical keyboard has hot-swappable](https://facebook-record-videos.techidaily.com/streamlining-visual-storytelling-with-youtube-videos-for-2024/) switches, so technically, if a key falters, I can pull it out and replace it. However, considering this and all the above points, it’s just more convenient to have a dedicated gamepad for gaming while preserving my keyboard and mouse for work.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9  A Spare Keyboard and Mouse Will Take Up Too Much Desk Space 
 
  Before you write in the comments, “Dude, just use a separate keyboard and mouse for gaming,” well, I tried that. My first attempt was to install a keyboard tray under my desk. It didn't work out—the tray restricted leg movement, which is a no-go for someone with [restless leg syndrome](https://www.mayoclinic.org/diseases-conditions/restless-legs-syndrome/symptoms-causes/syc-20377168).
@@ -141,3 +159,50 @@ Ismar Hrnjicevic / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-top-10-portable-tools-dominating-video-editing-landscape/"><u>[New] 2024 Approved  Top 10 Portable Tools Dominating Video Editing Landscape</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-high-quality-duo-of-photo-and-sound-capture-software-for-2024/"><u>[New] High-Quality Duo of Photo & Sound Capture Software for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-beginners-roadmap-for-instagram-reels-mastery/"><u>[New] In 2024, A Beginner's Roadmap for Instagram Reels Mastery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-recorders-handbook-for-film-lovers-for-2024/"><u>[New] The Ultimate Recorder's Handbook for Film Lovers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-visual-harmony-on-screen-mastering-zooms-edge-magic-for-2024/"><u>[New] Visual Harmony on Screen  Mastering Zoom's Edge Magic for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cut-to-the-chase-8-simple-youtube-thumbnail-builders-for-2024/"><u>[Updated] Cut-to-the-Chase  8 Simple YouTube Thumbnail Builders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-opening-doors-creating-an-account-on-youtube/"><u>[Updated] Opening Doors  Creating an Account on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compare-the-best-free-screen-recorders-on-windows-os/"><u>2024 Approved  Compare the Best Free Screen Recorders on Windows OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-defined-essential-language-explained/"><u>Artificial Intelligence Defined: Essential Language Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/benchmark-test-results-the-fastest-and-most-secure-wi-fi-router-asus-rt-ac68u/"><u>Benchmark Test Results: The Fastest and Most Secure Wi-Fi Router - Asus RT-AC68U</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-fujitsu-scansnap-ix1600-analysis-top-of-the-line-desktop-document-scanner/"><u>Comprehensive Fujitsu ScanSnap iX1600 Analysis: Top-of-the-Line Desktop Document Scanner</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-flexispot-theodore-standing-desk-a-sleek-choice-for-contemporary-offices/"><u>Comprehensive Review of the Flexispot Theodore Standing Desk - A Sleek Choice for Contemporary Offices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/d-link-powerline-kit-unveiled-swift-installation-rapid-file-sharing-insights/"><u>D-Link Powerline Kit Unveiled: Swift Installation, Rapid File Sharing Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-gaming-experience-with-samsungs-q60r-smart-qled-4k-television-a-detailed-overview/"><u>Discover the Ultimate Gaming Experience with Samsung's Q60R Smart QLED 4K Television: A Detailed Overview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/diving-into-dying-lights-co-op-world-a-thrilling-combination-of-first-person-action-parkour-skills-and-tactical-teamwork-reviewed/"><u>Diving Into Dying Light's Co-Op World: A Thrilling Combination of First-Person Action, Parkour Skills, and Tactical Teamwork Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-ear-clips-that-deliver-senso-reviewed/"><u>Economical Ear Clips That Deliver: Senso Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/efficient-heat-dissipation-with-a-cheap-laptop-tray-the-topmate-c302-breakdown/"><u>Efficient Heat Dissipation with a Cheap Laptop Tray: The TopMate C302 Breakdown</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-graphics-and-fps-with-the-latest-geforce-rtx-2080-ti-driver-updates/"><u>Enhance Graphics & FPS with the Latest GeForce RTX 2080 Ti Driver Updates</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-why-the-samsung-qn55q6f-is-a-top-contender-in-4k-hdr-smart-tvs/"><u>Expert Analysis: Why the Samsung QN55Q6F Is a Top Contender in 4K HDR Smart TVs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-best-features-of-the-stylish-and-smart-withings-move-watch/"><u>Exploring the Best Features of the Stylish and Smart Withings Move Watch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-and-benefits-of-the-netgear-nighthawk-c7000-wireless-networking-solution/"><u>Exploring the Features and Benefits of the Netgear Nighthawk C7000 Wireless Networking Solution</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-gt-neo-5-by-drfone-android/"><u>Full Guide to Unlock Your Realme GT Neo 5</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/high-definition-creation-with-the-huion-kamvas-gt-191-an-extensive-tablet-review/"><u>High Definition Creation with The Huion Kamvas GT-191 - An Extensive Tablet Review</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-c12-plus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia C12 Plus Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nubia-z50s-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nubia Z50S Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-14-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 14 with 3 Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-top-20-trending-memes-reddit-vs-twitter/"><u>In 2024, Top 20 Trending Memes  Reddit Vs. Twitter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-budget-friendly-mobvoi-ticwatch-e2-truly-value-for-money-our-review-says/"><u>Is the Budget-Friendly Mobvoi TicWatch E2 Truly Value for Money? Our Review Says...</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovos-2020-tab-m10-fhdplus-delivers-rich-visuals-without-breaking-the-bank-detailed-analysis-inside/"><u>Lenovo's 2020 Tab M10 FHD+ Delivers Rich Visuals without Breaking the Bank - Detailed Analysis Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/petcube-budget-smart-hd-pets-camera-review-quality-meets-affordability/"><u>Petcube Budget-Smart HD Pets Camera Review: Quality Meets Affordability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/portable-moko-compact-bluetooth-keyboard-perfect-for-travel/"><u>Portable MoKo Compact Bluetooth Keyboard - Perfect for Travel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-audio-problems-getting-your-microphone-back-on-track/"><u>Resolving Windows 10 Audio Problems: Getting Your Microphone Back on Track</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-photography-with-lightzone-top-darkroom-app-for-pcs-and-macs/"><u>Revolutionize Your Photography with LightZone - Top Darkroom App for PCs & Macs!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-microsoft-office-alternatives-ranked/"><u>The Ultimate Guide to Microsoft Office Alternatives - Ranked</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner/"><u>The Ultimate Guide to the Garmin Forerunner</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-understanding-the-fitbit-charge-6-expert-review-inside/"><u>The Ultimate Guide to Understanding the Fitbit Charge 6 - Expert Review Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-viber-out-review-what-you-need-to-know-before-calling/"><u>The Ultimate Viber Out Review: What You Need to Know Before Calling</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-10-recommended-sites-for-online-course-learning-experiences/"><u>Top 10 Recommended Sites for Online Course Learning Experiences</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-7-optimal-cell-phone-contracts-for-seniors/"><u>Top 7 Optimal Cell Phone Contracts for Seniors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/toshiba-55-inch-fire-tv-edition-lcd-tv-review-a-perfect-choice-for-amazon-prime-subscribers/"><u>Toshiba 55-Inch Fire TV Edition LCD TV Review: A Perfect Choice for Amazon Prime Subscribers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-toughness-a-thorough-assessment-of-the-top-race-remote-control-rock-climber/"><u>Unveiling Toughness: A Thorough Assessment of the Top Race Remote Control Rock Climber</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Poco C55 | Dr.fone</u></a></li>
+</ul></div>

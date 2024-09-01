@@ -1,7 +1,7 @@
 ---
 title: "Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools"
-date: 2024-08-27 16:54:59
-updated: 2024-08-29 11:45:23
+date: 2024-08-31T12:14:54.881Z
+updated: 2024-09-01T12:14:54.881Z
 tags:
   - games
   - tv
@@ -41,8 +41,14 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![Various emulators detected and installed directly on Steam through Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240803_095604.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You do have some control over which emulators are installed, however. I'd recommend only choosing the ones designed for the platforms that you actually want to use, since there are lots of options. Adding more emulators at a later date is as simple as opening up the EmuDeck app in Desktop Mode and selecting the ones that you're missing. It's easy!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Before Getting Started With EmuDeck
 
  The requirements for running EmuDeck are pretty minimal, as you can technically do everything with just the handheld, but this would not be ideal. I'd recommend getting a [USB-C flash drive to move files from a PC to the system](https://buynow-marvelous.techidaily.com/top-insights-from-experts-unveiling-the-benefits-of-using-the-fitbit-charge-6-user-testimonials-and-opinions/), since downloading things on the Deck directly can be cumbersome.
@@ -75,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![The ROM Manager application in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click the "Add Games" button in the bottom left corner to see a list of all the games you've added as long as you put them in the right folder.
 
 ![The Parsers menu in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/parsers2.png) 
@@ -83,12 +92,21 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![The Emudeck ROM manager adding games to Steam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Multiplayer, Quality of Life Features, and Easy Expansion
 
  Now that you've added your games and verified that they all appear in your library, you can start doing some retro gaming. Playing them handheld might already be a nice perk as it is, but [with a dock and a Bluetooth controller](https://techidaily.com/will-moto-g-5g-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/) (or several) you can even simulate playing on the real thing.
 
 ![Two people holding controllers playing a video game together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2019/11/3973a927.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 Shutterstock/REDPIXEL.PL
 
  If you're playing something with multiplayer options, you can connect multiple Bluetooth controllers and play with your friends. You may have to switch on certain settings, such as the "Multitap" option for more than two players in PCSX2, but the integration is fairly seamless.
@@ -97,6 +115,9 @@ Shutterstock/REDPIXEL.PL
 
  EmuDeck is also easy to expand and adding new games is as simple as dropping the files into the proper emulation folder and letting the program do the rest for you. You can add new emulators and update current ones automatically through the EmuDeck application in Desktop Mode without much hassle with just an internet connection.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Add Retro Achievement Support (Optional)
 
  EmuDeck is also compatible with RetroArch, which supports integration with [RetroAchievements](https://retroachievements.org), a project that adds achievements to retro games so you can show off your progress. RetroArch should come automatically installed with EmuDeck, but you may need to [add it to your Steam library as a Non-Steam game](https://ai-voice-clone.techidaily.com/chrome-video-translators-top-5-video-translation-chrome-extensions/) to run it in Desktop Mode.
@@ -125,3 +146,47 @@ Shutterstock/REDPIXEL.PL
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-easy-audio-extraction-methods-from-online-videos/"><u>[New] 2024 Approved  Easy Audio Extraction Methods From Online Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-views-with-customized-thumbnail-sizes-on-youtube-for-2024/"><u>[New] Boosting Views with Customized Thumbnail Sizes on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-collect-priceless-imagery-from-trusted-4-youtube-directories-for-2024/"><u>[New] Collect Priceless Imagery From Trusted 4 YouTube Directories for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-high-definition-slow-mo-cams/"><u>[New] Ultimate High Definition Slow-Mo Cams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-corrected-non-existence-of-shorts-on-feeds/"><u>[Updated] 2024 Approved  Corrected  Non-Existence of Shorts on Feeds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-capture-the-action-crafting-best-in-class-sports-films-for-2024/"><u>[Updated] Capture the Action  Crafting Best-in-Class Sports Films for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-privacy-preserving-photography-with-pixelated-faces/"><u>[Updated] Privacy-Preserving Photography with Pixelated Faces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>2024 Approved  The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smartphone-iphone-or-android-find-the-perfect-match/"><u>Choosing Your Smartphone: IPhone or Android – Find the Perfect Match</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-features-of-amazon-fire-vs-samsung-tablets-making-an-informed-decision/"><u>Comparing Features of Amazon Fire Vs. Samsung Tablets: Making an Informed Decision</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-netgear-nighthawk-x6-wireless-mesh-system-a-feature-deep-dive/"><u>Comprehensive Review of the Netgear Nighthawk X6 Wireless Mesh System: A Feature Deep Dive</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-superior-audio-performance-with-our-detailed-midland-gxt1000vp4-test-drive/"><u>Discover Superior Audio Performance with Our Detailed Midland GXT1000VP4 Test Drive</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-elite-selection-of-gaming-hardware/"><u>Discover the Elite Selection of Gaming Hardware</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a05-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A05</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortlessly-disable-driver-signing-in-windows-11-step-by-step-tutorial/"><u>Effortlessly Disable Driver Signing in Windows 11 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/engage-with-engineering-dive-into-the-world-of-diy-robotics-with-makeblocks-innovative-mbot-kit-reviewed-here/"><u>Engage with Engineering: Dive Into the World of DIY Robotics with Makeblock's Innovative mBot Kit Reviewed Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-correcting-non-functional-kotion-g2000-series-microphones/"><u>Expert Advice on Correcting Non-Functional KOTION G2000 Series Microphones</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f04-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy F04 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-hot-40-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Hot 40 Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-recording-your-games-in-hd-ps4-and-obs-studio-guide/"><u>In 2024, Recording Your Games in HD  PS4 & OBS Studio Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-6-best-capture-cards-for-nintendo-switch-you-can-find/"><u>In 2024, Top 6 Best Capture Cards for Nintendo Switch You Can Find</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-newest-ring-video-doorbell-power-solution-insights/"><u>In-Depth Look at the Newest Ring Video Doorbell Power Solution Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-for-unwavering-viewership-within-limit-for-2024/"><u>Innovative Approaches for Unwavering Viewership (Within Limit) for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insights-into-the-clash-of-tech-giants-echo-dot-vs-homepod-mini-showdown/"><u>Insights Into The Clash of Tech Giants: Echo Dot Vs. HomePod Mini Showdown</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-applecareplus-the-right-protection-plan-for-your-iphone-or-ipad/"><u>Is AppleCare+ the Right Protection Plan for Your iPhone or iPad?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/majestic-mansion-makeovers-from-nesting-box-to-noble-house/"><u>Majestic Mansion Makeovers: From Nesting Box to Noble House</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-affordable-microsoft-surface-go-bridging-gaps-with-a-unique-identity-challenge/"><u>The Affordable Microsoft Surface Go - Bridging Gaps with a Unique Identity Challenge</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723039831788-the-ultimate-review-of-the-garmin-vivomove-hr-a-chic-choice-for-active-living/"><u>The Ultimate Review of the Garmin Vivomove HR - A Chic Choice for Active Living!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-value-proposition-reasons-to-opt-into-youtube-premium/"><u>The Value Proposition: Reasons to Opt Into YouTube Premium</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-8-social-tools-to-skyrocket-your-likes-on-facebook-for-2024/"><u>Top 8 Social Tools to Skyrocket Your Likes on Facebook for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rankings-confirmed-unveiling-the-exclusivity-of-the-samsung-galaxy-s10-in-our-comprehensive-review/"><u>Top Rankings Confirmed: Unveiling the Exclusivity of the Samsung Galaxy S10 in Our Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-logitech-c920-pro-hd-webcam-assessment-unveiling-true-high-definition-performance/"><u>Ultimate Logitech C920 Pro HD Webcam Assessment: Unveiling True High-Definition Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-secrets-behind-the-solid-build-and-extended-range-functionality-of-the-uniden-r3-detector/"><u>Uncovering the Secrets Behind the Solid Build and Extended Range Functionality of the Uniden R3 Detector</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-the-large-scale-stanley-j5c09-a-review-of-its-robust-abilities-and-features/"><u>Unveiling the Potential of the Large-Scale Stanley J5C09: A Review of Its Robust Abilities and Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vonage-is-it-leading-the-pack-in-current-voip-services/"><u>Vonage: Is It Leading the Pack in Current VoIP Services?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/when-does-an-iphones-obsolescence-become-inevitable/"><u>When Does an iPhone's Obsolescence Become Inevitable?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-chatgpt-plus-might-be-your-best-tech-move-yet-5-key-reasons/"><u>Why ChatGPT Plus Might Be Your Best Tech Move Yet – 5 Key Reasons</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-the-tp-link-archer-a9-is-an-unbeatable-choice-for-your-budget-in-depth-review/"><u>Why the TP-Link Archer A9 Is an Unbeatable Choice for Your Budget - In-Depth Review</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Voice Chat: A Step-by-Step Guide to Using Discord with Your PlayStation 5"
-date: 2024-08-27 20:41:52
-updated: 2024-08-29 10:55:45
+date: 2024-08-31T12:13:12.182Z
+updated: 2024-09-01T12:13:12.182Z
 tags:
   - games
   - tv
@@ -40,14 +40,23 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 ![Connecting Discord to your PlayStation account under PS5 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/select_discord.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select "Discord" followed by "Link Account" and then read the disclosure that informs you that your PlayStation Network account and associated information will be revealed to Discord as part of this process. Hit "Accept and Continue" to proceed.
 
 ![Choosing to accept or decline the terms when connecting PSN to Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/accept_terms.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now link your Discord account by heading to [discord.com/activate](http://discord.com/activate), logging in, and entering the code displayed. You can also [use your iPhone](https://facebook-video-content.techidaily.com/in-2024-enhancing-outdoor-vision-with-gopro-and-live-streaming-platforms/) or [Android smartphone to scan the QR code](https://vp-tips.techidaily.com/2024-approved-free-football-live-learn-and-cut-your-match-footage/) on the screen for quicker access. Alternatively, use the PS5 browser (via the "Use Browser" button) to log in and link accounts that way.
 
 ![Using a code or QR code to verify linked accounts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/connect_account.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Once you've entered the code on a secondary device, you'll need to click "Authorize" to grant permission on Discord's end too.
 
 ![Authorizing Discord connection to a Sony account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/authorize_discord.png) 
@@ -56,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
  It's always a good idea to keep your console software up to date to avoid compatibility problems with services like Discord Head to Settings > System Software > System Software Update and Settings to manually check for an update.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Join Discord Chats Right on Your PS5
 
  PS5 Discord integration lets you join voice chats on your console using your DualSense controller's microphone and speaker (or a [gaming headset](https://fox-access.techidaily.com/essential-approach-for-blending-gopro-vids-with-continuous-360-degree-visuals/) if you have one connected). There's no way to read or join in on text chats, so you'll be limited to voice channels.
@@ -64,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 ![Discord intergration in PS5 Game Base.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_2570.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  From here you'll be able to choose a server, a voice channel, or a direct message call. This eliminates the need to use another device to control Discord integration while using your PS5.
 
 ##  Send Discord Chats to Your PS5 via Apps and the Web
@@ -86,10 +101,16 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 ![Discord voice chat notification on PS5 dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/discord_notification.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You can manage your Discord session by pressing the "PS" button, navigating to "Game Base" and selecting "Discord" in the sidebar.
 
 ![Manage your Discord voice chat session.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_2571.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Why Use Discord on Your PlayStation?
 
  Discord on PS5 is cool because it makes it easier to play with friends who are on different platforms. Many online [multiplayer experiences now support cross-play](https://youtube-lab.techidaily.com/ed-inspire-your-recruitment-process-with-pioneering-tapes/), which allows you to play online on your PlayStation with others who are on PC or Xbox. Discord bridges the gap in terms of voice communication on these platforms.
@@ -108,12 +129,22 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 ![Unlink Discord from your PlayStation Network account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/unlink_discord.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ###  On Discord
 
  To unlink your Discord account from your PS5 through Discord, launch the Discord app or web interface and navigate to user settings. This is accessible via the "cog" Settings button in the lower-left corner of the screen on the web or desktop or using the "User" tab on the mobile app. Head to "Authorized Apps" and then click or tap "Deauthorize" next to PlayStation Network.
 
 ![Deathorize your PlayStaton Network account from your Discord account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/deauthorize_psn_discord.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  Discord Is Also Available on Xbox
 
  Discord has moved away from its PC roots and [is also available on Xbox](https://program-issues.techidaily.com/ultimate-troubleshooting-tips-to-prevent-fortnite-freezes-on-windows-and-mac/) in addition to the PS5 (though no Switch version is available). Integration on Microsoft's console works in largely the same way, allowing you to join voice chats directly on your console or by directing Discord using an intermediary device like a smartphone, tablet, or computer.
@@ -134,3 +165,61 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-11-free-youtube-playlist-downloaders-onlinepcandroidios/"><u>[New] 2024 Approved  11 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-essential-free-tools-convert-youtube-audio-to-mp3-on-iphone/"><u>[New] 2024 Approved  Essential Free Tools  Convert YouTube Audio to MP3 on iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-comprehensive-guide-to-capturing-lol-showdowns/"><u>[New] In 2024, Comprehensive Guide to Capturing LOL Showdowns</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-of-3d-animation-and-modelling-programs/"><u>[New] The Ultimate List of 3D Animation and Modelling Programs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-become-a-travel-vlogger-guide-of-travel-vlogging/"><u>[Updated] 2024 Approved  How To Become A Travel Vlogger | Guide of Travel Vlogging</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-elite-peer-to-peer-messaging-services-for-2024/"><u>[Updated] Elite Peer-to-Peer Messaging Services for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-v30-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme V30 Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unmatched-tech-elevation-through-srs-enhancement/"><u>2024 Approved  Unmatched Tech Elevation Through SRS Enhancement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/an-insightful-review-on-the-innovative-protection-that-is-the-bookbook-v2-for-your-macbook/"><u>An Insightful Review on the Innovative Protection That Is The BookBook v2 for Your MacBook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-motorola-edgeplus-does-it-meet-high-end-standards/"><u>Assessing the Motorola Edge+: Does It Meet High-End Standards?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-cheap-laptop-fan-pad-review-unveiling-the-features-of-topmate-c302/"><u>Best Cheap Laptop Fan Pad Review – Unveiling the Features of TopMate C302</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/breakdown-of-the-garmin-forerunner-945s-features-an-in-depth-review-of-an-elite-gps-running-watch/"><u>Breakdown of the Garmin Forerunner 945'S Features - An In-Depth Review of an Elite GPS Running Watch</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budget-friendly-cloud-strategies-revealed/"><u>Budget-Friendly Cloud Strategies Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/caixuns-budget-75-inch-android-tv-comprehensive-analysis-for-exceptional-performance-and-picture-quality/"><u>Caixun's Budget 75-Inch Android TV: Comprehensive Analysis for Exceptional Performance and Picture Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-every-angle-samsungs-pro-versus-lgs/"><u>Capturing Every Angle  Samsung's Pro Versus LG's</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/charting-the-course-for-aspiring-pilots-why-microsoft-flight-simulator-x-gold-still-soars-in-reviews/"><u>Charting the Course for Aspiring Pilots: Why Microsoft Flight Simulator X Gold Still Soars in Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-roku-and-fire-tv-stick-a-comprehensive-buyers-guide/"><u>Choosing Between Roku and Fire TV Stick: A Comprehensive Buyer's Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/determining-best-free-screen-recorder/"><u>Determining Best Free Screen Recorder</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-ensuring-smooth-operations-of-the-virtual-battleground-hyper-scape-on-your-computer/"><u>Enhanced: Ensuring Smooth Operations of the Virtual Battleground - Hyper Scape on Your Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-mohu-leaf-30-antenna-best-balance-of-cost-and-efficiency/"><u>Evaluating the Mohu Leaf 30 Antenna: Best Balance of Cost and Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-aeeusnys-compact-solar-power-station-with-high-quality-pure-sine-wave-for-delicate-medical-gear/"><u>Expert Analysis: AEEUSNY's Compact Solar Power Station with High-Quality Pure Sine Wave for Delicate Medical Gear</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-maistos-family-adventure-remote-controlled-rock-crawler-car/"><u>Expert Review of Maisto's Family Adventure Remote-Controlled Rock Crawler Car</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-best-features-of-the-nook-glowlight-plus-by-barnes-and-noble/"><u>Exploring the Best Features of the Nook GlowLight Plus by Barnes & Noble</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-immersive-world-of-cinematic-brilliance-with-the-lg-smart-tv-oled-c9-review/"><u>Exploring the Immersive World of Cinematic Brilliance with the LG Smart TV - OLED C9 Review.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exquisite-choice-over-iphone-discover-why-skagen-falster-2-deserves-your-attention/"><u>Exquisite Choice Over iPhone? Discover Why Skagen Falster 2 Deserves Your Attention</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-poco-x5-pro-by-drfone-android/"><u>Full Guide to Unlock Your Poco X5 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/galaxy-evolution-benchmarking-s24-ultra-against-its-predecessor-the-s23-ultra/"><u>Galaxy Evolution: Benchmarking S24 Ultra Against Its Predecessor, the S23 Ultra</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/galaxy-s23-vs-galaxy-s21-an-in-depth-comparison/"><u>Galaxy S23 vs Galaxy S21: An In-Depth Comparison</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-carryminatis-income-blueprint-journey-through-2023/"><u>In 2024, CarryMinati's Income Blueprint  Journey Through 2023</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Itel Phone without Any Data Loss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-introductory-editors-for-mobile-apps/"><u>In 2024, Superior Introductory Editors for Mobile Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722982856458-ios-15-ready-heres-how-to-achieve-it/"><u>IOS 15 Ready? Here's How to Achieve It!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodical-approach-to-reviving-frozen-start-button/"><u>Methodical Approach to Reviving Frozen Start Button</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigate-to-full-screen-bliss-on-facebook-for-2024/"><u>Navigate to Full-Screen Bliss on Facebook for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-task-distribution-amongst-crew-members-for-successful-shootings/"><u>New 2024 Approved Task Distribution Amongst Crew Members for Successful Shootings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pros-vs-ultra-plus-an-in-depth-review-of-apples-newest-iphone-titans/"><u>Pros Vs. Ultra Plus: An In-Depth Review of Apple's Newest iPhone Titans</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-garmins-vivomove-hr-combining-style-and-functionality-for-daily-sports-enthusiasts/"><u>Review of Garmin's Vivomove HR: Combining Style & Functionality for Daily Sports Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/share-your-latest-audio-exploration/"><u>Share Your Latest Audio Exploration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/snap-perfection-but-stumble-on-ui-in-inexpensive-nikon-a10/"><u>Snap Perfection, but Stumble on UI in Inexpensive Nikon A10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/switched-on-gaming-a-comprehensive-look-at-nintendos-latest-offerings-lite-and-oled/"><u>Switched On Gaming: A Comprehensive Look at Nintendo's Latest Offerings, Lite and OLED</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tailoring-win10-screen-real-estate/"><u>Tailoring WIN10 Screen Real Estate</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tcls-affordable-marvel-in-depth-look-at-the-50s425-50-4k-roku-television-2019/"><u>TCL's Affordable Marvel: In-Depth Look at the 50S425 50” 4K Roku Television (2019)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-car-connector-dive-into-our-review-of-the-sumind-bt7b-adapter/"><u>The Best Car Connector? Dive Into Our Review of the Sumind BT7#B Adapter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-mechanics-of-youtube-shorts-monetization-for-2024/"><u>The Mechanics of YouTube Shorts Monetization for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-using-the-portable-effective-and-sturdy-audew-air-compressor-pump-review-insights/"><u>The Ultimate Guide to Using the Portable, Effective & Sturdy AUDEW Air Compressor Pump - Review Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-performance-of-the-byb-e430-lamp-an-insightful-swing-arm-led-analysis/"><u>Top-Tier Performance of the BYB E430 Lamp: An Insightful Swing Arm LED Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-fortnite-season-xlvii-the-most-fun-and-engaging-update-yet/"><u>Unboxing Fortnite Season XLVII: The Most Fun and Engaging Update Yet!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-productivity-with-hp-zbook-firefly-gen-8-the-pinnacle-of-portable-power-solutions/"><u>Unleashing Productivity with HP ZBook Firefly Gen 8 - The Pinnacle of Portable Power Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-features-and-controls-on-your-blink-security-camera-hands-on-approach/"><u>Unlocking Features and Controls on Your Blink Security Camera - Hands-On Approach</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-performance-vs-price-for-the-tp-link-archer-c50-wireless-router-assessment/"><u>Unveiling Performance Vs. Price for the TP-Link Archer C50 Wireless Router Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerful-performance-a-thorough-look-at-the-samsung-galaxy-tab-s4-for-android-users/"><u>Unveiling the Powerful Performance: A Thorough Look at the Samsung Galaxy Tab S4 for Android Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/winegards-flatwave-fl5500a-great-signal-high-price-point-in-depth-analysis/"><u>Winegard's FlatWave FL5500A: Great Signal, High Price Point - In-Depth Analysis</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-collabs-how-to-find-youtube-collaboration-partners/"><u>YouTube Collabs  How to Find YouTube Collaboration Partners?</u></a></li>
+</ul></div>

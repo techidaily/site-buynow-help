@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Gaming Keyboards for Gamers : The Definitive List"
-date: 2024-08-27 16:24:23
-updated: 2024-08-29 11:37:24
+date: 2024-08-31T12:12:05.008Z
+updated: 2024-09-01T12:12:05.008Z
 tags:
   - buying-guides
 categories:
@@ -119,6 +119,9 @@ Wooting
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Gaming Keyboard Overall
 
 #####  Wooting 60HE
@@ -127,12 +130,18 @@ The Wooting 60HE is the best gaming keyboard on the market thanks to its analog 
 
 [See at Wooting](https://wooting.io/wooting-60he) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ##  Best Keyboard Under $100: [HyperX Alloy Origins Core](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B08YP9VMSN?tag=hotoge-20&ascsubtag=UUhtgUeUpU208786&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F753080%2Fbest-gaming-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B08YP9VMSN?tag=hotoge-20&ascsubtag=UUhtgUeUpU208786&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F753080%2Fbest-gaming-keyboards%2F&asc%5Fcampaign=Commerce)
 
 [![Person using HyperX Alloy Origins keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/hyperxalloy-origins.jpg) HyperX](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B08YP9VMSN?tag=hotoge-20&ascsubtag=UUhtgUeUpU208786&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F753080%2Fbest-gaming-keyboards%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [](https://www.amazon.com/HyperX-Alloy-Origins-Core-Customization/dp/B08YP9VMSN?tag=hotoge-20&ascsubtag=UUhtgUeUpU208786&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F753080%2Fbest-gaming-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                                        | Cons                                                                                        |
@@ -151,6 +160,9 @@ The Wooting 60HE is the best gaming keyboard on the market thanks to its analog 
 
 ![hyperx alloy origins core](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/hyperx-alloy-origins-core.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best Gaming Keyboard Under $100
@@ -163,10 +175,16 @@ A top-notch keyboard with excellent mechanical keys and customizable RGB, the Al
 
 [$80 at Amazon](https://www.amazon.com/dp/B07YMHGP86?tag=hotoge-20&ascsubtag=UUhtgUeUpU208786&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F753080%2Fbest-gaming-keyboards%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Gaming Keyboard Under $50: [G.Skill KM250 RGB 65%](https://www.amazon.com/G-Skill-67-Key-Mechanical-Keyboard-Injection/dp/B0BSLCT417?tag=hotoge-20&ascsubtag=UUhtgUeUpU208786&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F753080%2Fbest-gaming-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![G.Skill KM250 RGB 65% laying on a computer table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/g-skill-km250-rgb-65.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _G.Skill_
 
 | Pros                        | Cons                            |
@@ -188,6 +206,9 @@ _G.Skill_
 
 ![G.Skill KM250 RGB 65%  01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/g-skill-km250-rgb-65-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best Gaming Keyboard Under $50
@@ -198,6 +219,9 @@ For a $50 gaming keyboard, the G.Skill KM250 offers metric tons of back for your
 
 [$45 at Amazon](https://www.amazon.com/G-Skill-67-Key-Mechanical-Keyboard-Injection/dp/B0BSLCT417?tag=hotoge-20&ascsubtag=UUhtgUeUpU208786&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F753080%2Fbest-gaming-keyboards%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Best Wireless Gaming Keyboard: [ASUS ROG Azoth](http://www.amazon.com/ASUS-ROG-Three-Layer-Hot-Swappable-PBT/dp/B0BSKX8W3B?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU208786&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F753080%2Fbest-gaming-keyboards%2F&asc%5Fcampaign=Commerce) 
 
 ![ASUS ROG Azoth laying on a table surrounded by keyboard switches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/asus-rog-azoth.png) 
@@ -242,6 +266,9 @@ Thanks to its unmatched wireless performance, impressive battery life, and near-
 
 ![steelseries-apex-pro-tkl-keyboard-angled-with-mousejpg_52529756606_o](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/4442eb25.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 _Hannah Stryker / Review Geek_
 
 | Pros                                                  | Cons                                 |
@@ -269,6 +296,9 @@ _Hannah Stryker / Review Geek_
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/8dd45172.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best TKL Gaming Keyboard
@@ -307,6 +337,9 @@ Adjustable OmniPoint 2.0 switches is the main reason to get the SteelSeries Apex
 
 ![gmmk 60 percent keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gmmk-60-percent-keyboard.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best 60% Gaming Keyboard
@@ -333,3 +366,54 @@ Its modular switch design makes it easy to customize the keyboard as you see fit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secure-your-facetime-discussions-with-screen-record/"><u>[New] 2024 Approved  Secure Your FaceTime Discussions with Screen Record</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-free-luts-showcase-10-standouts-with-direct-downloads/"><u>[New] Free LUTs Showcase  10 Standouts with Direct Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fundamentals-of-digital-tale-construction/"><u>[New] Fundamentals of Digital Tale Construction</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-immediate-screen-shotter-for-chromes-for-2024/"><u>[New] Immediate Screen Shotter for Chromes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expand-your-online-realm-harnessing-youtube-insights-powerfully-for-2024/"><u>[Updated] Expand Your Online Realm  Harnessing YouTube Insights Powerfully for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-live-photography-to-continuous-visual-storytelling/"><u>[Updated] Live Photography to Continuous Visual Storytelling</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-the-art-of-twitters-live-video-engagement/"><u>[Updated] Mastering the Art of Twitter's Live Video Engagement</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-photomagic-studio/"><u>[Updated] PhotoMagic Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-your-room-for-oculus-vr/"><u>[Updated] Streamlining Your Room for Oculus VR</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-techniques-for-webcam-integration-in-game-recording-for-2024/"><u>[Updated] Top Techniques for WebCam Integration in Game Recording for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-renderer-resurgence-new-radeon-edition/"><u>2024 Approved  Renderer Resurgence  New Radeon Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-meizu-21-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/45-review-and-features-tailored-for-the-avid-marathoner/"><u>45 Review & Features Tailored for the Avid Marathoner</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-excellence-in-fitness-tracking-xiaomi-mi-smart-band-4-detailed-review-analysis/"><u>Affordable Excellence in Fitness Tracking: Xiaomi Mi Smart Band 4 Detailed Review Analysis</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipate-the-arrival-all-you-need-to-know-about-psvr2s-features-price-point-debut-date-and-tech-specifications/"><u>Anticipate the Arrival: All You Need to Know About PSVR2’s Features, Price Point, Debut Date and Tech Specifications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aria-headphones-review-pioneering-sound-quality/"><u>Aria Headphones Review: Pioneering Sound Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/balancing-bulkiness-with-bandwidth-an-examination-of-netgears-powerline-av-n-model-1200-speed-and-design/"><u>Balancing Bulkiness with Bandwidth: An Examination of Netgear's Powerline AV N Model 1200 Speed and Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smartphone-iphones-or-android-devices-whats-best-suited-for-you/"><u>Choosing Your Smartphone: IPhones or Android Devices - What's Best Suited for You?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compare-and-contrast-the-new-apple-watch-se-vs-previous-models/"><u>Compare & Contrast: The New Apple Watch SE Vs. Previous Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-top-eight-mobile-game-titles-for-gamers-on-the-go/"><u>Discover the Top Eight Mobile Game Titles for Gamers on the Go</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-techniques-for-addressing-errors-with-libcurldll-on-pcs/"><u>Effective Techniques for Addressing Errors with libcurl.dll on PCs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-power-needs-with-our-picks-for-the-best-rechargeable-battery-chargers/"><u>Elevate Your Power Needs with Our Picks for the Best Rechargeable Battery Chargers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-your-driving-experience-with-the-lihan-lhfm1-039-bluetooth-transmitter-a-thorough-product-overview-and-evaluation/"><u>Enhancing Your Driving Experience with the LIHAN LHFM1 039 Bluetooth Transmitter - A Thorough Product Overview and Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-escort-max-360-a-next-generation-radar-detector-featuring-gps-technology-and-extra-functions/"><u>Expert Insights on the Escort Max 360: A Next-Generation Radar Detector Featuring GPS Technology and Extra Functions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-intersection-of-style-and-exercise-with-the-amazfit-gts-an-in-depth-review/"><u>Exploring the Intersection of Style & Exercise with The Amazfit GTS: An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-more-for-your-money-with-the-budget-friendly-fitbit-versa-lite-a-comprehensive-guide/"><u>Get More for Your Money with the Budget-Friendly Fitbit Versa Lite: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-s23-ultra-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy S23 Ultra Phone | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-ideapad-assessment-solid-construction-and-simple-functionality/"><u>Lenovo Ideapad Assessment: Solid Construction and Simple Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lx310bt-sony-bluetooth-player-thin-and-stylish/"><u>LX310BT Sony Bluetooth Player - Thin & Stylish</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-savings-with-amazing-offers-on-benq-monitors-and-projectors-for-prime-day-shoppers/"><u>Maximize Savings with Amazing Offers on BenQ Monitors & Projectors for Prime Day Shoppers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mirrorless-mastery-10-best-stabilizing-choices-for-2024/"><u>Mirrorless Mastery  10 Best Stabilizing Choices for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-apple-laptops-how-does-the-macbook-air-differ-from-the-pro/"><u>Navigating Apple Laptops: How Does the MacBook Air Differ From the Pro?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-ins-and-outs-of-using-chatgpt-for-freelance-writing-tasks/"><u>Navigating the Ins and Outs of Using ChatGPT for Freelance Writing Tasks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-homes-atmospheric-insights-with-top-of-the-line-stations/"><u>Revolutionize Your Home's Atmospheric Insights with Top-of-the-Line Stations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/score-amazing-discounts-exclusive-roku-offers-this-prime-shopping-event/"><u>Score Amazing Discounts: Exclusive Roku Offers This Prime Shopping Event!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-integration-of-updated-drivers-in-hp-envy-20-pcs-a-comprehensive-guide/"><u>Seamless Integration of Updated Drivers in HP Envy 20 PCs – A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-uninitialized-directx-device/"><u>Step-by-Step Fix for 'Uninitialized DirectX Device'</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stylish-ourlink-u631-usb-wi-fi-nano-adapter-for-swift-and-robust-internet-connectivity/"><u>Stylish Ourlink U6ˈ31 USB Wi-Fi Nano Adapter for Swift and Robust Internet Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-comprehensive-analysis-of-the-newly-released-202-apple-iphone-se-what-you-need-to-know/"><u>The Comprehensive Analysis of the Newly Released 202# Apple iPhone SE - What You Need to Know!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-hp-zbook-firefly-eg8-review-a-revolution-in-mobility-and-efficiency/"><u>The HP ZBook Firefly eG8 Review - A Revolution in Mobility and Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-amazons-kindle-oasis-is-it-justifiably-expensive/"><u>The Ultimate Guide to Amazon's Kindle Oasis: Is It Justifiably Expensive?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-links-budget-marvel-a-comprehensive-review-of-the-archer-c50-model/"><u>TP-Link's Budget Marvel: A Comprehensive Review of the Archer C50 Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-lg-c9-oled-65-4k-television-analysis-a-dream-come-true-for-avid-viewers/"><u>Ultimate LG C9 OLED 65 4K Television Analysis - A Dream Come True for Avid Viewers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-protection-comprehensive-evaluation-of-the-ring-video-doorbell-2/"><u>Ultimate Protection: Comprehensive Evaluation of the Ring Video Doorbell 2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uniden-r3-review/"><u>Uniden R3 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/yokus-island-escapade-critique-where-grand-tales-unexpectedly-take-shape/"><u>Yoku's Island Escapade Critique: Where Grand Tales Unexpectedly Take Shape</u></a></li>
+</ul></div>
