@@ -1,7 +1,7 @@
 ---
 title: "Hidden Insights: 20 Often-Missed Techniques for the Ultimate Nintendo Switch Experience"
-date: 2024-08-31T12:15:03.343Z
-updated: 2024-09-01T12:15:03.343Z
+date: 2024-09-04T16:15:11.002Z
+updated: 2024-09-05T16:15:11.002Z
 tags:
   - games
   - tv
@@ -48,13 +48,16 @@ Robert Griffey / How-To Geek
 
  But thanks to a small loophole courtesy of Nintendo, you can now access a broader selection of games by going to "System Settings" and simply changing the region under the "System" tab. Launch the eShop and grab whatever you like.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 2  Check Your Battery Life Anytime 
 
  Have you looked up from your "just one quick _Hades_ run" only to realize that darkness has fallen? Double-checking the battery life of your Switch mid-game to avoid lost progress is easier than you'd expect. When you press and hold down the Home button, a quick menu will pop up and display the current battery life alongside other options.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3  Make Additional Profiles 
 
  You can circumvent the one-save-per-game crisis by creating extra user profiles. Go to System Settings > Users, and then select "Add User." Each profile maintains its own game progress and preferences, allowing you to experience different simultaneous playthroughs of your favorite games. We're looking at you, _Tears of the Kingdom_.
@@ -63,9 +66,6 @@ Robert Griffey / How-To Geek
 
  If you ever wanted to unlock your Switch to the sound of a honking clown horn or a series of other amusing sounds, then you are in luck. You can discover a series of similarly silly sound effects on the unlock screen by pressing ZL, ZR, or the control sticks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 5  Ease Eye Strain with Dark Mode 
 
 ![Nintendo Switch in Dark Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dark-mode.png) 
@@ -83,27 +83,25 @@ Robert Griffey / How-To Geek
  You can enjoy a wireless audio experience on the go by [pairing Bluetooth headphones with your Switch](https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/). Head to System Settings > Bluetooth Audio, and follow the pairing instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8  Pair Joy-Cons with Other Devices 
 
  Did you know Nintendo’s Joy-Cons can also be paired with your trusty smartphone, Mac, or PC? Hold down the sync button on the Joy-Con until the lights start flashing—indicating it's in pairing mode—and connect it through the Bluetooth menu on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 9  Use a USB Keyboard 
 
 ![Top view of the Alienware Pro Wireless Keyboard with the caps and switches removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/alienware-pro-wireless-keyboard-top.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Even with the comfortable size of the Switch's keyboard, touchscreen typing can feel a bit sterile. Thankfully, the Switch allows you to simply plug the keyboard of your choice into one of the USB ports on the dock. The console should be able to read it as a peripheral, and you are set for a more satisfying typing experience.
@@ -112,22 +110,22 @@ Jerome Thomas / How-To Geek
 
  Have you ever woken up after a wild night of caffeinated beverages and _Mario Kart 8 Deluxe_ to find that one of your Joy-Cons has disappeared? Head over to "Controllers" on the home screen and select "Find Controllers." Use the vibration function to help locate the missing controller.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11  Perform a Hard Reset 
 
  It's a rare occasion that a Switch will freeze to a degree that necessitates any action. If the situation arises, a hard reset should resolve most issues. Hold the power button down for about 12 seconds until the console powers off, wait a few moments, and then press the power button again to restart your system.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 12  Adjust Brightness Quickly 
 
  You don't need to break your concentration if you're on-the-go and the screen becomes harder to see because the ambient light keeps changing. You can adjust the screen brightness quickly by holding down the Home button during gameplay. A quick menu will appear, allowing you to adjust the brightness without exiting your game.
@@ -139,7 +137,10 @@ Jerome Thomas / How-To Geek
 ![A Nintendo Switch face-down on a white tabletop with joy-cons surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/shutterstock_1154615047.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [saksorn kumjit/Shutterstock.com](https://www.shutterstock.com/image-photo/bangkok-thailand-august-12-2018-nintendo-1154615047)
 
@@ -150,42 +151,90 @@ Jerome Thomas / How-To Geek
  You can easily extend the battery life of your Switch by setting a shorter duration for sleep mode. Conserve power by going to System Settings > Sleep Mode, and choosing "Auto-Sleep (Playing on Console Screen)" and insulate yourself from the pitfalls of a dead-system surprise.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 15  See How Long You've Played a Game 
 
  Whether you're worried you've spent too much time speed-running _Metroid Dread_ or just need hard proof to win an argument with a significant other, you can check your playtime by selecting your user icon on the home screen and choosing "Profile." This will show you an estimate of the number of hours you've sunk into each game.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 16  Send a Screenshot to Your Phone with a QR Code 
 
  Sharing and saving in-game screenshots is made super simple with a QR code. Open the "Album" on the Home screen, select the screenshot, and choose Sharing and Editing > Send to Smartphone to generate a code to send to others or keep to yourself.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 17  Transfer Data to a New Switch 
 
 ![ROG Ally Next to OELD Switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Butler / How-To Geek
 
 The ROG Ally next to an OLED Nintendo Switch. Both devices offer impressive screens in their own right.
 
  Upgrading to an OLED Switch? Transfer user and save data to a new Switch by going to System Settings > Users, and then "Transfer Your User and Save Data." Follow the prompts to move data wirelessly between consoles.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 18  Turn on Your TV 
 
  If you're tired of having to press a confusing series of buttons to boot up your entire entertainment system, the Switch can do it for you. In the "System Settings" menu, select "TV Settings," and toggle "Match TV Power State" on. Now you can turn on your TV and Switch by pressing the Home button on your Joy-Con or Pro Controller and prove to yourself just how over-rated standing and moving actually is.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 19  Voice Chat with Friends 
 
  Outside of exceptions like _Fortnite,_ the Switch has a very limited ability to allow in-game voice chat. Luckily, you can keep up with your friends during multiplayer gaming sessions by using the Nintendo Switch Online app. Download the app for [iPhone](https://apps.apple.com/us/app/nintendo-switch-online/id1234806557) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003263/https://play.google.com/store/apps/details/Nintendo%5FSwitch%5FOnline?id=com.nintendo.znca&hl=en%5FUS), add your friends, and you are ready to talk.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 20  Zoom Function 
 

@@ -1,7 +1,7 @@
 ---
 title: "Lightning-Fast LG Gram 17: The Ultimate Guide to Its Slim, Powerful Performance"
-date: 2024-08-09T00:38:46.671Z
-updated: 2024-08-10T00:38:46.671Z
+date: 2024-09-04T16:13:30.910Z
+updated: 2024-09-05T16:13:30.910Z
 categories:
   - BestProducts
 description: "This Article Describes Lightning-Fast LG Gram 17: The Ultimate Guide to Its Slim, Powerful Performance"
@@ -40,9 +40,6 @@ Lifewire / James Huenink
 
 ## Docooler USB 2.0 12 Megapixel
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/23qFdg2CyjsEX1uFEK5ESBb8kO0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_HERO_1LW4065141_7_Final_Square-bd507bc5d1d646f9a0d8d7466601f569.jpg)
 
 Lifewire / James Huenink
@@ -71,7 +68,10 @@ Lifewire / James Huenink
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Flimsy and difficult to use**
 
@@ -79,14 +79,22 @@ Lifewire / James Huenink
 
  The base looks like a binder clip with a hinge on the back end. The front of the camera houses the focus ring, which twists to focus in or out but doesn’t turn very smoothly. When we used it for the first time, it didn’t feel like it was supposed to rotate at all. Just like everything else, the focus ring feels like it will crack or fall out at any moment. One side of the clip has a squishy pad to keep the camera from slipping when it’s mounted on a smooth surface. The two are connected by a ball joint, which allows the camera to spin around 360 degrees and tilt approximately 15 degrees forward or backward or side to side.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/a_8Gd66JN0RtfWzKKcRq95S8EmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_6_Final_Horiz-1dd3a45479614483b0f4f5883f27094a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / James Huenink
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup process: Awkward to position**
 
  It takes almost no time to get the Docooler USB 2.0 12 Megapixel up and running. We just plugged the USB cord into the computer and it worked.
@@ -101,16 +109,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  We tested the camera’s field of view by placing it 13.5 inches from a wall and measuring the field of view, 8.25 inches. After running those measurements through some trigonometric calculations, we found that it has a 34 degree field of view. The camera also has a surprising amount of distortion. Vertical lines in the background had a significant tilt backwards, and we saw tremendous barrel distortion everywhere except for the very center of the image.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Performance: Underwhelming performance in video and audio**
 
@@ -125,15 +138,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  The audio performance of the Docooler USB 2.0 12 Megapixel was also lackluster. The built-in microphone produced poor quality sound, and when we tested it on Skype, voices were both muffled and echoey. People on the other end could understand what we were saying, but it was an unpleasant experience.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Cheap price, even cheaper webcam**
 
  The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## **Competition: Falls short**
 
 **_Logitech C270_ :** The Logitech C270 is a low-cost webcam that goes for $40 MSRP, though you can frequently find it for approximately $20\. For $10 more than the Docooler, you get a big upgrade. It has 720p video calling and takes photos at 3MP. The microphone filters out background noise, so it shouldn’t have the same echo effects as the Docooler Web Cam. Even though it’s twice the price, you get a lot more camera for your ten bucks.
@@ -180,3 +193,48 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[New] How to Create Engaging Visual Hooks  A Guide to Video Thumbnail Making</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-quintessential-guide-to-music-and-voiceovers-in-reels/"><u>[New] In 2024, The Quintessential Guide to Music & Voiceovers in Reels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-maximizing-ram-for-enhanced-minecraft-experience-for-2024/"><u>[New] Maximizing RAM for Enhanced Minecraft Experience for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>[New] Ultimate Undertaking  Decoding Digital Picture Resolutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-do-youtube-channels-get-paid-regularly/"><u>[Updated] How Do YouTube Channels Get Paid Regularly?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-building-a-youtube-empire-from-scratch-for-2024/"><u>[Updated] Step by Step  Building a YouTube Empire From Scratch for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-beginners-guide-to-quality-prints-with-adobe-photoshop/"><u>A Beginner's Guide to Quality Prints with Adobe Photoshop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-of-the-best-a-detailed-look-at-every-available-ipad/"><u>Best of the Best: A Detailed Look at Every Available iPad</u></a></li>
+<li><a href="https://fox-info.techidaily.com/capacity-limit-how-many-vids-in-128gb-in-2024/"><u>Capacity Limit  How Many Vids in 128GB, In 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-jackery-powerbar-battery-pack-analysis-including-convenient-ac-output/"><u>Comprehensive Jackery PowerBar Battery Pack Analysis - Including Convenient AC Output</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-7-platforms-showcasing-new-movie-previews/"><u>Discover the Ultimate 7 Platforms Showcasing New Movie Previews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-more-for-less-diving-into-the-features-of-caixuns-cost-effective-4k-75-inch-android-tv/"><u>Experience More for Less: Diving Into the Features of Caixun’s Cost-Effective 4K 75-Inch Android TV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-jackery-powerbar-the-portable-charger-featuring-an-ac-output/"><u>Experts Weigh in on Jackery PowerBar – The Portable Charger Featuring an AC Output</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-lg-thinq-tvs-as-alternatives/"><u>Exploring LG ThinQ TVs as Alternatives</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-may-soon-add-reels-and-rooms-to-the-stories-panel/"><u>Facebook May Soon Add Reels and Rooms to the Stories Panel</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-video-to-audio-quick-download-process/"><u>FB Video to Audio  Quick Download Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-resolve-blue-color-cast-issues-with-your-tv-screen-a-guide/"><u>How to Correctly Address and Resolve Blue Color Cast Issues with Your TV Screen – A Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-sony-xperia-10-v-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Sony Xperia 10 V Pattern Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x9a-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X9a Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-versatile-garmin-gpsmap-64st-your-ultimate-handheld-companion/"><u>In-Depth Analysis of the Versatile Garmin GPSMAP 64St: Your Ultimate Handheld Companion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/incorporate-rhetorical-questions-to-engage-the-reader/"><u>Incorporate Rhetorical Questions to Engage the Reader</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-fitbit-versa-2-a-complete-guide-to-its-health-monitoring-and-enhanced-smartwatch-functions/"><u>Inside the Fitbit Versa 2 - A Complete Guide to Its Health Monitoring and Enhanced Smartwatch Functions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-art-of-intel-macintosh-upgrades-guide-for-older-models/"><u>Mastering the Art of Intel Macintosh Upgrades: Guide for Older Models</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/premier-robotic-companions-online-for-2024/"><u>Premier Robotic Companions Online for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-showdown-the-technical-and-feature-comparison-of-galaxy-s24-vs-galaxy-s23-ultra-models/"><u>Samsung Showdown: The Technical and Feature Comparison of Galaxy S24 Vs. Galaxy S23 Ultra Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-investments-what-to-look-for-in-tvs/"><u>Smart Investments: What to Look For in TVs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/studiolightkit-smartchoice-review/"><u>StudioLightkit SmartChoice Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-rounder-in-laptops-in-depth-exploration-of-hp-chromebook-11s-suitability-for-studying-working-and-playing/"><u>The All-Rounder in Laptops: In-Depth Exploration of HP Chromebook 11'S Suitability for Studying, Working, & Playing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-dji-robomaster-s1-breakdown-educational-coding-meets-exciting-tank-drone-battles/"><u>The DJI RoBOmaster S1 Breakdown: Educational Coding Meets Exciting Tank Drone Battles!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-perfect-blend-of-power-and-price-exploring-the-world-of-ibuypower-gaming-computers/"><u>The Perfect Blend of Power and Price: Exploring the World of IBUYpower Gaming Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-strategic-move-of-microsoft-buying-blizzard-analyzing-artifice-intelligence-and-translation-tech-on-the-podcast-episode-recap/"><u>The Strategic Move of Microsoft Buying Blizzard - Analyzing Artifice Intelligence & Translation Tech on the Podcast [Episode Recap]</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-using-the-lihan-lhfm1039-for-a-wireless-car-audio-upgrade-reviews-and-tips-included/"><u>The Ultimate Guide to Using the LIHAN LHFM1039 for a Wireless Car Audio Upgrade – Reviews and Tips Included</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unexpected-duality-of-mlb-the-show-19-a-visual-masterpiece-with-layers-of-role-playing-gameplay/"><u>The Unexpected Duality of MLB The Show 19: A Visual Masterpiece with Layers of Role-Playing Gameplay</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-k11x-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo K11x Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723057691834-ultimate-guide-amazfit-helio-ring-cost-and-launch-details-features-revealed/"><u>Ultimate Guide: Amazfit Helio Ring Cost & Launch Details - Features Revealed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-hp-omen-obelisk-a-top-pick-for-budget-gamers-seeking-power/"><u>Unboxing the HP Omen Obelisk: A Top Pick for Budget Gamers Seeking Power</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lenovo-thinkpad-x1-titanium-yoga-the-next-gen-2-in-1-device-that-transforms-for-devoted-thinkpad-users/"><u>Unveiling the Lenovo ThinkPad X1 Titanium Yoga: The Next-Gen 2-in-1 Device That Transforms For Devoted ThinkPad Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-hps-latest-creation-zbook-firefly-15-g8-notebook-insights/"><u>Unveiling the Potential of HP's Latest Creation - ZBook Firefly 15 G8 Notebook Insights</u></a></li>
+</ul></div>

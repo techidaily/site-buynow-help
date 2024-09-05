@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the TP-Link AC1200 Range Extender Model RE305 for Optimal WiFi Coverage
-date: 2024-08-09T00:38:46.086Z
-updated: 2024-08-10T00:38:46.086Z
+date: 2024-09-04T16:12:32.837Z
+updated: 2024-09-05T16:12:32.837Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Review of the TP-Link AC1200 Range Extender Model RE305 for Optimal WiFi Coverage
@@ -13,14 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/u5Qf7KbfeDnZm8gfCxaxy8baBY0=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## TP-Link RE305 AC1200 Wi-Fi Range Extender
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![TP-Link AC1200 Wi-Fi Range Extender RE305](https://www.lifewire.com/thmb/JNtLTx9_CWWq4Wy4WH2D2pMI1qw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4LW4043312-0cb211cf35c746879e5136b3f9d62b63.jpg)
 
 Lifewire / Claire Cohen
@@ -42,9 +36,6 @@ Lifewire / Claire Cohen
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## TP-Link RE305 AC1200 Wi-Fi Range Extender
 
 ![TP-Link AC1200 Wi-Fi Range Extender RE305](https://www.lifewire.com/thmb/C8f1R4cMjb3MUZ1ViPdvQ67Q7tE=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4LW4043312-0cb211cf35c746879e5136b3f9d62b63.jpg)
@@ -73,7 +64,10 @@ Lifewire / Claire Cohen
  We spent over a week testing it in our home, evaluating design, ease of setup and network performance.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design:** **Neither seen nor heard**
 
@@ -95,6 +89,12 @@ Lifewire / Claire Cohen
 
 ![TP-Link AC1200 (RE305)](https://www.lifewire.com/thmb/PS8-Iywv5MsnOo99Fir-jNOiPF8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4043312-4-5c924206c9e77c0001ff0bb8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Claire Cohen
 
  You'll create a password, let the device scan your network for an applicable router, and then enter the SSID and password to your current wireless network from there. There are options to change the extender network’s SSID and password if you so choose, but otherwise, it’ll remain the same as your default network. Once completed, the 2.4 GHz and/or 5GHz lights on the device should come on, depending on[your router's functionality](https://www.lifewire.com/what-is-a-router-2618162) . The entire process from unboxing to surfing the web took about 7 minutes.
@@ -105,9 +105,6 @@ Lifewire / Claire Cohen
 
  There is one important pain point, however, to keep in mind during setup. The extender's administrative password utilizes a default "admin/admin" login, so you'll want to change that to keep unauthorized users out. It can be changed via the TP-Link Tether app, which isn't clearly lined out in the instructions. It isn't required, but if you want to keep your network as secure as possible, it's an important part of setup.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Connectivity and Network Performance:** **Strong, multi-device connectivity**
 
  Several devices were connected to our wireless network, including a MacBook Pro,[iPhone X](https://www.lifewire.com/iphone-x-4150706) , iPad Pro,[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) , and[PlayStation 4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) . When testing the wireless extender's range, at 10 feet to around 70 or so feet away from the router in a 2,100 square foot home, its signal was quite strong, with full bars on an iPhone X and iPad Pro in most areas. One bathroom on the first floor did suffer from occasionally spotty connectivity at around 1,500 feet away from the router.
@@ -119,7 +116,16 @@ Lifewire / Claire Cohen
  Lifewire / Claire Cohen
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: Clean and easy to understand**
 
@@ -133,10 +139,25 @@ Lifewire / Claire Cohen
 
 ![TP-Link AC1200 (RE305)](https://www.lifewire.com/thmb/bG-oXoYxR83gVSUH4vzz37hfYxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4043312-1-5c92424b46e0fb000172f127.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Claire Cohen
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Competition: More of the same**
 
@@ -150,6 +171,18 @@ Lifewire / Claire Cohen
 
  The TP-Link AC1200 Wi-Fi Range Extender RE305 is a no-frills extender with supports dual-band Wi-Fi support and an Ethernet port for wired connectivity. It won’t fare well in homes beyond 2,000 square feet, but it's a value-priced extender that can be relied on at shorter ranges.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  RE305 AC1200 Wi-Fi Range Extender
@@ -182,3 +215,40 @@ Lifewire / Claire Cohen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-choose-your-perfect-wedding-tales-youtubes-finest-8-for-2024/"><u>[New] Choose Your Perfect Wedding Tales - Youtube's Finest 8 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foundational-methods-to-improve-color-balance/"><u>[New] Foundational Methods to Improve Color Balance</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-navigating-snapads-a-business-strategy-guide/"><u>[Updated] 2024 Approved  Navigating SnapAds  A Business Strategy Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-become-a-reddit-star-detailed-steps-for-share-success/"><u>[Updated] In 2024, Become a Reddit Star  Detailed Steps for Share Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-web-compendium-alarm-rhythms-guidebook-for-2024/"><u>[Updated] Ultimate Web Compendium  Alarm Rhythms Guidebook for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725286320974-ai-winxvideo/"><u>AI駆使の最高の動画共有サイト - Winxvideoが推奨するオンライン場所リスト</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/effective-habits-to-monitor-and-record-gotomeetings-for-2024/"><u>Effective Habits to Monitor and Record GoToMeetings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-mac-x-mkv-transcoder-hassle-free-high-definition-video-conversion-for-macos-users/"><u>Free Mac X MKV Transcoder: Hassle-Free High Definition Video Conversion for macOS Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a18-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A18 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-all-purpose-linksys-max-stream-ac1900-router-exceeds-expectations/"><u>In-Depth Analysis of the All-Purpose Linksys Max-Stream AC1900 Router – Exceeds Expectations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-ac68u-fast-safe-and-superior-5g-networking-experience/"><u>In-Depth Analysis of the Asus AC68U - Fast, Safe, and Superior 5G Networking Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-amazonbasics-affordable-and-reliable-6-sheets-cross-cut-paper-shredder/"><u>In-Depth Look at AmazonBasics' Affordable and Reliable 6-Sheets Cross-Cut Paper Shredder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-auto-gps-devices-ranked-for-excellence/"><u>Innovative Auto GPS Devices Ranked for Excellence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insight-into-asus-bw-16d1x-u-blu-ray-device-elegant-appearance-with-a-hitch-or-two/"><u>Insight Into Asus' BW-16D1X-U Blu-Ray Device: Elegant Appearance with a Hitch or Two</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/iphone-or-samsung-a-comprehensive-guide-to-making-the-best-purchase-decision/"><u>IPhone or Samsung? A Comprehensive Guide to Making the Best Purchase Decision</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-cost-effective-to-fix-apple-gadgets-power/"><u>Is Cost-Effective to Fix Apple Gadgets' Power?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/m1-powerhouse-unveiled-in-depth-look-at-the-apple-macbook-pro-13-2020-revolutionary-laptop/"><u>M1 Powerhouse Unveiled: In-Depth Look at the Apple MacBook Pro 13 (2020) Revolutionary Laptop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-component-alignment-choosing-a-motherboard-wisely/"><u>Mastering Component Alignment: Choosing a Motherboard Wisely</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-market-with-the-best-value-5g-smartphone-the-samsung-galaxy-a51-reviewed/"><u>Mastering the Market with the Best Value 5G Smartphone: The Samsung Galaxy A51 Reviewed!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-returns-15-top-stock-market-vids/"><u>Maximizing Returns  15 Top Stock Market Vids</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reinventing-picture-perfection-with-nixplays-iris-cloudtech/"><u>Reinventing Picture Perfection with Nixplay's Iris Cloudtech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-on-the-go-productivity-with-the-all-new-samsung-galaxy-chromebook-reviewed/"><u>Revolutionizing On-The-Go Productivity with the All-New Samsung Galaxy Chromebook Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sandisk-minimogg-affordable-portability-at-its-finest/"><u>SanDisk MiniMogg: Affordable Portability at Its Finest</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-installing-lenovo-os-on-yoga-900/"><u>Seamlessly Installing Lenovo OS on Yoga 900</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/shedding-light-on-the-anker-super-bright-outdoor-flash-review-the-perfect-partner-for-rugged-terrain/"><u>Shedding Light on the Anker Super Bright Outdoor Flash Review – The Perfect Partner for Rugged Terrain</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taking-on-two-titans-in-depth-analysis-of-apple-watch-series-9-against-fitbit-charge-6/"><u>Taking on Two Titans: In-Depth Analysis of Apple Watch Series 9 Against Fitbit Charge 6</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-rounder-panasonic-fz80s-review/"><u>The All-Rounder: Panasonic FZ80's Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-new-era-of-computing-imac-with-m1-a-revolutionary-design-and-powerful-cpu-analysis/"><u>The New Era of Computing: IMac with M1 - A Revolutionary Design & Powerful CPU Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-dying-light-experience-engaging-first-person-co-op-play-combined-with-parkour-skills/"><u>The Ultimate Dying Light Experience: Engaging First-Person Co-Op Play Combined with Parkour Skills</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-smart-mornings-with-totobays-2nd-gen-wake-up-light-budget-friendly-and-effective/"><u>The Ultimate Guide to Smart Mornings with Totobay's 2Nd Gen Wake-Up Light - Budget Friendly and Effective.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-7-premium-mobile-plans-for-seniors/"><u>Top 7 Premium Mobile Plans for Seniors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-17-inch-laptops-a-comprehensive-guide/"><u>Top Rated 17-Inch Laptops : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-the-dell-g5-5090-the-ultimate-choice-for-cost-effective-high-performance-gaming-computers/"><u>Top Review of the Dell G5 5090: The Ultimate Choice for Cost-Effective, High-Performance Gaming Computers</u></a></li>
+</ul></div>

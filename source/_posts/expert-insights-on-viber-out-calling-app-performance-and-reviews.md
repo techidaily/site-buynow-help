@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Viber Out Calling App Performance & Reviews
-date: 2024-08-09T00:38:44.149Z
-updated: 2024-08-10T00:38:44.149Z
+date: 2024-09-04T16:09:16.275Z
+updated: 2024-09-05T16:09:16.275Z
 categories:
   - BestProducts
 description: This Article Describes Expert Insights on Viber Out Calling App Performance & Reviews
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/srDXNKZKWXkXRf0d1TbCWQ-jKUA=/400x300/fi
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Beatit 800A BT-D11 Car Jump Starter
 
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/OIHJ0F8VMR0yFUpC8veJBJ39E6A=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
@@ -69,6 +66,12 @@ thumbnail: https://www.lifewire.com/thmb/srDXNKZKWXkXRf0d1TbCWQ-jKUA=/400x300/fi
 
  Lifewire / Tony Mitera
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: A lot of power packed into a small frame**
 
  The Beatit Jump Starter D11’s main unit's effectively a small black brick with red accents. Roughly the size of a small paperback book, the unit's constructed out of durable plastic and features a flashlight at one end. Along one of the long sides there's a small display that shows battery status, the on/off switch, two USB power outputs, and the device’s charging port. On the opposing side a rubber flap covers the jumper cable port; a unique port that the jumper cable accessory plugs in to.
@@ -79,9 +82,6 @@ thumbnail: https://www.lifewire.com/thmb/srDXNKZKWXkXRf0d1TbCWQ-jKUA=/400x300/fi
 
  The list of accessories that come with the unit includes both a wall charger and a 12V port charger, a Micro USB cable to charge devices with, and the jumper cables themselves. The jumper cable accessory is a pair of terminal clamps with relatively short cables that together join into a plastic module that plugs into the specific port on the unit. The module has a single status LED on its side that flashes different colors to signify different conditions, such as the unit being ready for jump starting, or indicating incorrect connection of the clamps.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: It can’t realistically be much simpler**
 
  Should you find yourself in a situation where you need to use the jump start functionality of the Beatit Jump Starter D11, you'll find it quite easy to use. On our Elantra test vehicle we simply had to pop the hood, bring the unit over, and plug the jumper cable accessory into its port. Once in place getting a proper connection is a simple matter of attaching the red clamp to the positive battery terminal and then the black clamp to the negative terminal. With a firm connection in place we simply had to set the unit down someplace where the vibration of the engine wouldn’t make it slide and then start the car. With the unit in place the car immediately started with zero hesitation, at which point we could disconnect the unit and get back on the road.
@@ -91,8 +91,10 @@ thumbnail: https://www.lifewire.com/thmb/srDXNKZKWXkXRf0d1TbCWQ-jKUA=/400x300/fi
  If it's your other devices that are having some battery issues, the D11’s two USB ports can be used to charge them up. The 2.1A port provides for faster charging, and while the 1A port also works it really doesn’t provide power in a hurry and should only be used with specific devices that can’t handle the other port's amperage. For most modern phones you’re just going to want to plug it into the 2.1A port and enjoy the faster recharge.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Performance: Plenty of power for all your needs**
 
@@ -103,7 +105,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Key Features: The flashlight is nice but is basically a spotlight**
 
@@ -114,7 +119,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: A ton of value for a tiny cost**
 
@@ -123,7 +131,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  At that price point, it packs a ton of value into its diminutive size.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Competition: In the battle of the smallest, this one reigns supreme**
 
@@ -141,6 +152,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In a crowded field, there are few units that are as easy to recommend as the Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter. It has relatively few features when compared to some of its competitors but otherwise excels at what it's designed to do. Charge it up, keep it stashed in your vehicle, and you’ll have a perfect tool to easily provide a jump to whatever vehicle needs it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  800A BT-D11 Car Jump Starter
@@ -171,3 +188,62 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-voice-memo-solutions-for-ipads-3-picks-for-2024/"><u>[New] Expert Voice Memo Solutions for iPads, #3 Picks for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-stream-like-a-pro-integrate-your-obs-setup-for-youtube-and-twitch/"><u>[New] Stream Like a Pro  Integrate Your OBS Setup for YouTube & Twitch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-the-best-practices-for-timing-and-organizing-google-collaborations-for-2024/"><u>[New] Unveiling the Best Practices for Timing and Organizing Google Collaborations for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-action-adventure-hits-the-best-of-the-best-top-10/"><u>[Updated] 2024 Approved  Action-Adventure Hits  The Best of the Best (Top 10)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-anitoonpro-detailed-2024-analysis/"><u>[Updated] AniToonPro  Detailed 2024 Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-optimal-cloud-audio-devices/"><u>[Updated] In 2024, Optimal Cloud Audio Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-solutions-to-amplify-iphoneandroid-video-quality/"><u>[Updated] In 2024, Solutions to Amplify iPhone/Android Video Quality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-precision-problem-solving-for-youtube-short-success/"><u>[Updated] Precision Problem-Solving for YouTube Short Success</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1-unlock-streaming-success-set-up-your-own-plex-media-center-during-prime-day-sales/"><u>1. Unlock Streaming Success: Set Up Your Own Plex Media Center During Prime Day Sales</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/10-essential-uses-of-your-google-tv-maximizing-its-potential/"><u>10 Essential Uses of Your Google TV: Maximizing Its Potential</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-minimizing-moments-edit-longer-videos-for-youtube/"><u>2024 Approved  Minimizing Moments  Edit Longer Videos for YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-paving-the-way-to-a-more-engaging-profile-adding-linktree-on-tiktok/"><u>2024 Approved  Paving the Way to a More Engaging Profile  Adding Linktree on TikTok</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-deal-on-the-market-high-quality-portable-gaming-system-below-100/"><u>Best Deal on the Market - High-Quality Portable Gaming System Below $100</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beyond-hype-steam-decks-revolutionary-impact-on-gaming/"><u>Beyond Hype: Steam Deck's Revolutionary Impact on Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/challenging-nvidias-geforce-rtx-4060-ti-with-alternatives/"><u>Challenging Nvidia's GeForce RTX 4060 Ti with Alternatives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-the-ideal-display-features-best-screen-size-resolution-and-refresh-rate-for-your-gaming-laptop/"><u>Choosing the Ideal Display Features: Best Screen Size, Resolution, and Refresh Rate for Your Gaming Laptop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/clearing-space-ultimate-guide-to-expanding-your-ps5s-hard-drive-capacity/"><u>Clearing Space: Ultimate Guide to Expanding Your PS5's Hard Drive Capacity</u></a></li>
+<li><a href="https://facebook.techidaily.com/customizing-social-media-identity-on-facebook/"><u>Customizing Social Media Identity on Facebook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-thrill-of-new-partnership-espns-game-stream-service-priced-at-only-43-bucks-monthly/"><u>Discover the Thrill of New Partnership: ESPN's Game Stream Service, Priced at Only 43 Bucks Monthly!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/diy-live-tv-success-ditching-streaming-giants-for-personal-setup/"><u>DIY Live TV Success: Ditching Streaming Giants for Personal Setup</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-asus-rog-phone-8-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Asus ROG Phone 8 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/end-of-an-era-epic-games-phases-out-compatibility-with-windows-78-platforms/"><u>End of an Era: Epic Games Phases Out Compatibility with Windows 7/8 Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-listening-experience-spotify-restores-lyric-display-for-non-premium-members/"><u>Enhanced Listening Experience: Spotify Restores Lyric Display for Non-Premium Members</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-your-game-captures-top-6-strategies-for-stunning-photomode-images/"><u>Enhancing Your Game Captures: Top 6 Strategies for Stunning Photomode Images</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enjoy-gaming-together-the-ultimate-list-of-14-best-duo-android-adventures/"><u>Enjoy Gaming Together: The Ultimate List of 14 Best Duo Android Adventures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exceptional-value-collectors-edition-bundles-separate-from-games/"><u>Exceptional Value: Collector's Edition Bundles, Separate From Games</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/excessive-replacement-)-50-of-natural-aggregates-often-results-in-a-decrease-in-concrete-strength/"><u>Excessive Replacement (> 50%%) of Natural Aggregates Often Results in a Decrease in Concrete Strength.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exciting-news-disneyplus-plus-hulu-plus-max-bundle-offer-launching-this-summer-season/"><u>Exciting News! Disney+ + Hulu + Max Bundle Offer Launching This Summer Season</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-tips-inside-a-must-read-for-any-nintendo-switch-owner-thinking-of-selling/"><u>Exclusive Tips Inside: A Must-Read for Any Nintendo Switch Owner Thinking of Selling!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expanded-compatibility-raspberry-pis-new-update-enables-connection-with-32-bit-systems/"><u>Expanded Compatibility: Raspberry Pi's New Update Enables Connection with 32-Bit Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-your-one-stop-resource/"><u>Exploring Technology with Tom's Hardware – Your One-Stop Resource</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-absence-of-built-in-screenshots-in-modern-gaming-mice/"><u>Exploring the Absence of Built-In Screenshots in Modern Gaming Mice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-often-should-you-change-your-steam-account-password/"><u>How Often Should You Change Your Steam Account Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-8s-proplus-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 8S Pro+ Location by Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-xs-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone XS screen lock without data loss?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-walmarts-purchase-of-vizio-enhances-its-digital-marketing-capabilities/"><u>How Walmart's Purchase of Vizio Enhances Its Digital Marketing Capabilities</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-a-look-at-huawei-p10-innovation-in-smartphone-technology/"><u>In 2024, A Look at Huawei P10 Innovation in Smartphone Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Phone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/initially-skeptical-of-youtube-music-discover-how-its-unique-features-transformed-my-opinion/"><u>Initially Skeptical of YouTube Music? Discover How Its Unique Features Transformed My Opinion!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-ways-to-utilize-chatgpt-for-enhancing-your-dungeon-mastering-skills-and-game-experience/"><u>Innovative Ways to Utilize ChatGPT for Enhancing Your Dungeon Mastering Skills and Game Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-nova-y91-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Nova Y91</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-chromebox-mini-the-perfect-toolkit-for-diy-enthusiasts-and-makers/"><u>Lenovo Chromebox Mini: The Perfect Toolkit for DIY Enthusiasts & Makers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-variable-speed-video-streaming-with-the-latest-plex-feature-update/"><u>Mastering Variable Speed Video Streaming with the Latest Plex Feature Update</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/opera-gx-vs-google-chrome-my-journey-and-decision-to-switch-back/"><u>Opera GX vs Google Chrome: My Journey and Decision to Switch Back</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-defy-2-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Defy 2 Phone Now with These Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pause-in-venu-live-sports-broadcasts-understanding-the-temporary-suspension/"><u>Pause in Venu Live Sports Broadcasts - Understanding the Temporary Suspension</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/please-spotify-grant-me-a-music-pause-understanding-the-need-to-mute/"><u>Please Spotify, Grant Me a Music Pause: Understanding the Need to Mute</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/portable-sonos-review-immersive-music-journey/"><u>Portable Sonos Review: Immersive Music Journey</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/raspberry-pi-introduces-new-official-remote-access-application/"><u>Raspberry Pi Introduces New Official Remote Access Application</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-collectibles-the-impact-of-3d-printing-on-the-nerf-community/"><u>Revolutionizing Collectibles: The Impact of 3D Printing on the Nerf Community</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/temporarily-suspended-insights-into-venus-interruption-of-sporting-event-online-coverage/"><u>Temporarily Suspended: Insights Into Venu's Interruption of Sporting Event Online Coverage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-selection-of-no-cost-image-transformers-for-ios-and-android-for-2024/"><u>The Ultimate Selection of No-Cost Image Transformers for iOS and Android for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-steam-deck-alternatives-a-comprehensive-guide/"><u>Top-Rated Steam Deck Alternatives : A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-windows-11-search-here/"><u>Unlock the Full Potential of Windows 11 Search Here</u></a></li>
+</ul></div>

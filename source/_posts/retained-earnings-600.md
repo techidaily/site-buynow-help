@@ -1,7 +1,7 @@
 ---
 title: "Retained Earnings: $600"
-date: 2024-08-09T00:38:44.828Z
-updated: 2024-08-10T00:38:44.828Z
+date: 2024-09-04T16:10:24.750Z
+updated: 2024-09-05T16:10:24.750Z
 categories:
   - BestProducts
 description: "This Article Describes Retained Earnings: $600"
@@ -37,9 +37,6 @@ Lifewire / Danny Chadwick
 
 5
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## DDpai Dash Cam mini3
 
 ![DDpai mini3](https://www.lifewire.com/thmb/wub4BYqtsTUxBb5FELPfSqcF92w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4062264_HeroSquare-49298d637a2d4aeb9ef1213bafb0ebf7.jpg)
@@ -68,6 +65,12 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: 21st Century Dashcam**
 
  The first thing you notice about the mini3 is that the camera housing is smooth and cylindrical. Other dash cams are very square and bulky, so right out of the box, you know this is a different kind of camera. It’s very sleek and feels like it belongs in the 21st century.
@@ -96,6 +99,18 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: Read the manual first**
 
  The user manual for the DDPAI mini3 is detailed enough that you’ll know what everything does and how to use it. It starts you off by prompting you to download the app, which will walk you through the process of connecting to the camera’s Wi-Fi and give you a tour of its features. After that, you’re ready to go—it only takes about 10 minutes to be comfortably familiar with the mini3.
@@ -104,9 +119,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## **Mobile App: What sets it apart**
 
  What really sets the mini3 apart from other dashcams is its mobile app. The user manual instructs you to download the DDPai app before you use the camera for the first time. Once it’s on your phone and paired with your camera, the app’s “Camera” tab contains all the tools you need to watch the live feed, control the camera, review footage, and adjust settings—all the things that make a car cam useful.
@@ -122,7 +134,10 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Camera Quality: 4K video with incredible detail**
 
@@ -131,19 +146,25 @@ Lifewire / Danny Chadwick
  It can capture footage in 4K resolution as well as 1600p using an f/1.8 aperture that lets in more light.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Performance: Always there for you**
 
  Once it was installed and ready to go, we drove this dashcam through the cities, suburbs, mountains, forests, and red rocks of Utah. Because the camera is so well-hidden behind the rearview mirror, we often forgot it was there. But when we passed a particularly scenic lake or rock formation, it was natural to just reach down and push the remote button to snap a picture.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Surprising low for what you get**
 
  As of the time of this writing, you can pick up the DDPAI mini3 for about $130\. For what you get out of this camera, we think this is a great value. Similarly-priced models we tested don’t nearly match the quality and utility you get from the mini3.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## **Competition** :**DDPAI** **mini3 vs. Z-Edge Z3 Plus**
 
  We also tested the mini3 alongside the Z-Edge Z3 Plus, which is a similarly-priced dashcam with more of a focus on security.
@@ -167,7 +188,10 @@ Lifewire / Danny Chadwick
 * [Anker Roav DashCam C1](https://www.lifewire.com/anker-roav-dashcam-c1-review-4773139)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -196,3 +220,46 @@ Lifewire / Danny Chadwick
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-capture-the-world-through-the-lens-of-mi-11-for-2024/"><u>[New] Capture the World Through the Lens of Mi 11 for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-mastering-bigger-head-effects-the-ultimate-guide-for-tiktok-creators-3-steps/"><u>[New] In 2024, Mastering Bigger-Head Effects  The Ultimate Guide for TikTok Creators (3 Steps)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-comedy-cache-twitters-best-jokes/"><u>[New] In 2024, The Comedy Cache  Twitter’s Best Jokes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-youtube-downloads-for-ios-devices/"><u>[New] Step-by-Step Guide  YouTube Downloads for iOS Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-visual-posts-made-easy-on-instagram/"><u>[New] Visual Posts Made Easy on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-personalizing-interactions-deepening-connections-with-viewers/"><u>[Updated] 2024 Approved  Personalizing Interactions  Deepening Connections with Viewers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-peering-into-the-future-with-asuss-4k-uxga-mg28uq-screen-for-2024/"><u>[Updated] Peering Into the Future with ASUS's 4K UXGA MG28UQ Screen for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1-essential-subscription-why-retro-gamers-cant-miss-playstation-plus-premium/"><u>1. Essential Subscription: Why Retro Gamers Can't Miss PlayStation Plus Premium</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1-unleashing-the-power-of-wireless-how-headsets-transform-your-gaming-experience/"><u>1. Unleashing the Power of Wireless: How Headsets Transform Your Gaming Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-brighter-future-in-digital-artistry-how-procreate-inspires-hope-among-visual-creators/"><u>A Brighter Future in Digital Artistry: How Procreate Inspires Hope Among Visual Creators</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/alternative-platforms-for-song-lyrics-what-to-use-now-that-spotifys-free-tier-has-changed/"><u>Alternative Platforms for Song Lyrics: What to Use Now That Spotify's Free Tier Has Changed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-breezy-game-selection-to-enjoy-during-the-sunny-summer-months/"><u>Best Breezy Game Selection to Enjoy During the Sunny Summer Months</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/catch-every-moment-of-the-2024-summer-games-on-your-screen-no-cable-required/"><u>Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-site-optimization-enhance-your-websites-traffic-and-conversions/"><u>Cookiebot-Driven Site Optimization: Enhance Your Website's Traffic and Conversions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-down-on-expenses-how-to-maintain-affordable-online-entertainment-budgets/"><u>Cutting Down on Expenses: How to Maintain Affordable Online Entertainment Budgets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989071196-defeat-call-of-duty-modern-warfare-dev-error-604-essential-fixes-for-gamers-on-pc-and-xbox/"><u>Defeat Call of Duty: Modern Warfare Dev Error ✖️604 - Essential Fixes for Gamers on PC and Xbox</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-cutting-edge-innovations-in-top-tier-mechanical-keyboard-technology-for-gamers/"><u>Discover Cutting-Edge Innovations in Top-Tier Mechanical Keyboard Technology for Gamers.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-engaging-gaming-experiences-unveiling-the-secrets-to-finding-quality-games/"><u>Discover Engaging Gaming Experiences: Unveiling the Secrets to Finding Quality Games</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-immersive-gaming-without-the-glasses-the-advantages-of-purchasing-a-pre-owned-3ds-console/"><u>Discover Immersive Gaming Without the Glasses: The Advantages of Purchasing a Pre-Owned 3DS Console</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-l3150-driver-update-optimize-your-windows-10-8-or-7-experience-with-latest-version/"><u>Epson L3150 Driver Update: Optimize Your Windows 10, 8 or 7 Experience with Latest Version!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-repair-and-prevent-persistent-whea-hardware-failures/"><u>Expert Advice: How to Repair and Prevent Persistent WHEA Hardware Failures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-xs-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone XS Lock Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-market-precision-strategic-package-interpretations/"><u>In 2024, Market Precision  Strategic Package Interpretations</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-10-free-best-quicktime-mov-movie-editors/"><u>In 2024, Top 10 Free Best QuickTime (MOV) Movie Editors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/start-editing-with-ease-implementing-movie-maker-in-windows-11-for-2024/"><u>Start Editing with Ease  Implementing Movie Maker in Windows 11 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-correcting-and-understanding-home-pregnancy-test-error-codes-like-e43/"><u>Step-by-Step Solution: Correcting and Understanding Home Pregnancy Test Error Codes Like E43</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-gadget-reviews-and-in-depth-analysis/"><u>Tom's Tech Hub: Gadget Reviews & In-Depth Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transform-your-mobile-gaming-with-razer-kishi-ultra-a-high-end-controller-for-your-smartphone/"><u>Transform Your Mobile Gaming with Razer Kishi Ultra: A High-End Controller for Your Smartphone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-your-gaming-clutter-strategies-beyond-the-mountain-of-missed-opportunities/"><u>Transforming Your Gaming Clutter: Strategies Beyond the 'Mountain of Missed Opportunities'</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-your-standard-pc-into-a-gamers-lair-key-adjustments-needed/"><u>Transforming Your Standard PC Into a Gamers' Lair: Key Adjustments Needed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-lineup-for-gaming-on-the-go-leading-steam-decks-and-rog-docking-stations-in-202cued-by-your-request-i-have-created-two-seo-friendly-titles-that-con38/"><u>Ultimate Lineup for Gaming on the Go: Leading Steam Decks & ROG Docking Stations in 202Cued by Your Request, I Have Created Two SEO-Friendly Titles that Convey Similar Meanings to The Best Steam Deck and ROG Ally Docks of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-free-fun-your-guide-to-checking-out-video-games-from-public-libraries/"><u>Unlock Free Fun: Your Guide to Checking Out Video Games From Public Libraries</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-full-potential-the-benefits-of-equipping-every-controller-with-custom-thumbstick-covers/"><u>Unlocking Full Potential: The Benefits of Equipping Every Controller with Custom Thumbstick Covers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-game-enjoyment-essential-accessibility-options-for-all-gamers/"><u>Unlocking Game Enjoyment: Essential Accessibility Options for All Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-my-favorite-reason-to-choose-paddle-controls-in-gaming-adventures/"><u>Unveiling My Favorite Reason to Choose Paddle Controls in Gaming Adventures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrades-announced-sonos-streamlines-mobile-app-and-unveils-cutting-edge-web-interface-for-superior-sound-control/"><u>Upgrades Announced: Sonos Streamlines Mobile App & Unveils Cutting-Edge Web Interface for Superior Sound Control</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/water-reducing-admixtures-enhance-workability-and-compressive-strength-by-reducing-water-content/"><u>Water-Reducing Admixtures Enhance Workability and Compressive Strength by Reducing Water Content.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-did-modern-consoles-lag-behind-ps2-in-delivering-60fps-gaming-experiences-a-historical-perspective/"><u>Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-purchasing-mp3-downloads-trumps-online-music-streaming/"><u>Why Purchasing MP3 Downloads Trumps Online Music Streaming</u></a></li>
+</ul></div>

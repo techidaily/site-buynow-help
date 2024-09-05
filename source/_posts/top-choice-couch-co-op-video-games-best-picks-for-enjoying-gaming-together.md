@@ -1,7 +1,7 @@
 ---
 title: "Top Choice Couch Co-Op Video Games: Best Picks for Enjoying Gaming Together"
-date: 2024-08-31T12:13:28.498Z
-updated: 2024-09-01T12:13:28.498Z
+date: 2024-09-04T16:15:09.397Z
+updated: 2024-09-05T16:15:09.397Z
 tags:
   - games
   - tv
@@ -34,15 +34,18 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 
  While _Tetris_ tasks players with stacking various shaped blocks to create "lines" that earn points, _Puyo Puyo_ is a gravity-based match-four puzzle game. The game is available for nearly every platform under the sun and even has a free demo that effectively lets you play the main game mode infinitely at no cost, so the barrier for entry is fairly minimal.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 _Duck Game_ 
 
  A fittingly funny product of Adult Swim Games, _Duck Game_ puts you and your friends in control of some cartoon ducks in various 2D arenas with a multitude of weapons and tasks you with just one thing: survive. The last player standing earns a point and the first to reach a set number of points wins the game.
 
  On top of weapons like machine guns, rocket launchers, and even melee options, there is a plethora of power-ups and modifiers you can turn on or off to enhance the game even more. _Duck Game_ is available on the PlayStation 4/5, Nintendo Switch and PC.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 _Rocket League_ 
 
  Affectionately called "soccer with cars" by many, _Rocket League_ is, well, pretty much exactly that. The game pits players against each other in rocket-powered cars to score goals. Players can face off against each other in split-screen matches, or team up against others online.
@@ -50,7 +53,10 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
  Featuring robust customization options for your in-game vehicles and a slew of game modes and modifiers, there is no shortage of things to unlock and work towards. The game went free to play a few years back and is available on all current platforms making it a fun, free way to spend an afternoon with some friends.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4 _Brawlhalla_ 
 
@@ -58,6 +64,12 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 
  While the game is free to play, it does have a limited roster of free characters that cycle out regularly, with the rest available for permanent unlock via [microtransactions](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/). With franchises like the _Teenage Mutant Ninja Turtles_ and _Assassin's Creed_ making their way into the roster, it may be worth a punt if you're a fan of fighting games.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 _Portal 2_ 
 
  One of the most iconic games of all time and certainly one of the best puzzle-platformers out there, _Portal 2_ tasks players with navigating a series of test chambers using their portal gun that allows them to move from one point to another instantaneously. While the single-player campaign is already one of the greatest of all time, the game also features a robust two-player co-op campaign where players can solve increasingly difficult rooms together.
@@ -65,7 +77,10 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
  Players control a pair of charming little robots as they work their way through the campaign's numerous stages, working together to overcome each challenge in uniquely inventive ways. The game is available on the PlayStation 4/5, Xbox One and Series X/S, Nintendo Switch, PC and Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6 _Overcooked!_ 
 
@@ -73,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 
  It doesn't matter which game you choose to pick up, both offer a similar amount of content, though the sequel also offers online multiplayer for those who might want it. Available on the PS4/5, Xbox One and Series X/S, PC, and Nintendo Switch, _Overcooked!_ serves up fast-paced fun for everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 7 _Minecraft: Bedrock Edition_ 
 
  One of the less obvious features of the Bedrock version of _Minecraft_ is that it is the only one to support local multiplayer via split-screen on console versions. Up to four players can build, craft, and survive together in procedurally generated worlds or build the structures of their dreams in creative mode all from the same room.
@@ -83,7 +95,10 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
  The game also supports cross-platform online multiplayer across the PlayStation, Xbox, and Switch versions of the game, and online players can join your split-screen sessions seamlessly. _Minecraft: Bedrock Edition_ is available on the PlayStation 4/5, Xbox One, Xbox Series X/S and Nintendo Switch.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8 _Super Mario Party_ 
 
@@ -92,8 +107,10 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
  While the newest entry lacks the same amount of content as older titles, it does bring backstages and mini-games from previous titles and offers hours of fun between you and your friends. Choose between your favorite Mario characters and battle it out to get the most stars by the end of the last turn to take home the victory.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 9 _Baldur's Gate 3_ 
 

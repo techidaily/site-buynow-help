@@ -1,7 +1,7 @@
 ---
 title: "Improving the Digital Storefront: Enhancing The Switch Online Shop"
-date: 2024-08-31T12:14:13.263Z
-updated: 2024-09-01T12:14:13.263Z
+date: 2024-09-04T16:15:10.101Z
+updated: 2024-09-05T16:15:10.101Z
 tags:
   - games
   - tv
@@ -42,14 +42,26 @@ Andrew Heinzman / How-To Geek
  To Nintendo's credit, you aren't _forced_ to use the eShop from your Switch. The eShop website lets you browse and purchase digital games [from your computer](https://extra-resources.techidaily.com/2024-approved-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/), and third-party solutions like [Deku Deals](https://www.dekudeals.com/) make it easier to discover new digital games.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  A Redesign Would Be Nice, Too
 
 ![A screenshot of the Discover page on the Nintendo Switch eShop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Nintendo
 

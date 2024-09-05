@@ -1,7 +1,7 @@
 ---
 title: "Phasing Out: How Netflix Leaves Behind Certain Vintage Televisions"
-date: 2024-08-31T12:13:17.099Z
-updated: 2024-09-01T12:13:17.099Z
+date: 2024-09-04T16:15:09.231Z
+updated: 2024-09-05T16:15:09.231Z
 tags:
   - games
   - tv
@@ -102,5 +102,8 @@ As time goes by, some of our older hardware will eventually get abandoned It mig
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2024-08-31T12:14:01.399Z
-updated: 2024-09-01T12:14:01.399Z
+date: 2024-09-04T16:15:09.920Z
+updated: 2024-09-05T16:15:09.920Z
 tags:
   - games
   - tv
@@ -29,16 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Controller Mis-Matching and Aim Assist
 
 ![mouse keyboard controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/mouse-keyboard-controller.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  As a PC player, I enjoy playing against other PC players because I know we all have the same hardware. Another upside of cross-platform play is allowing us PC players to hook up a controller and play alongside those console players. However, there's something amiss here.
@@ -47,15 +41,15 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  A few games offer "controller matching" to avoid this issue, allowing players to match with other players who are using the same hardware. This would be a better feature if more games included it, but sadly, it's not seen on a lot of cross-platform titles. This is only an issue when you're playing competitive PVP titles, however. Co-op titles don't need any adjusting for this metric.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ##  The Mouse-and-Keyboard vs. Controller War
 
 ![An Xbox wireless controller on top of a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_2395089811-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [FabrikaSimf/Shutterstock.com](https://www.shutterstock.com/image-photo/headphones-joystick-computer-keyboard-on-black-2395089811)
 
@@ -65,6 +59,12 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Problems That Impact Competitive Play
 
  For friendly, co-op games, having latency issues or control scheme bias isn't such a huge issue. However, for other games that have a healthy competitive scene, this could be a terrible thing to deal with.
@@ -74,7 +74,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
@@ -88,12 +91,21 @@ Jerome Thomas / How-To Geek
 
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Few Other Considerations
 
 ![Several electronic devices sharing the same screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/cross-platform-computer-smartphone-gaming.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-illustration-on-theme-cross-platform-1335072044)_
 
@@ -103,6 +115,18 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  You Can Always Turn Off Cross-Play
 
  I think that keeping cross-platform play to non-competitive titles would fix most of the problems. I like playing co-op with my friends. However, if cross-platform competitive play is to exist, developers may need to ensure that the players on both teams are matched based on their controller type.

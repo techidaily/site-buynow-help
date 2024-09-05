@@ -1,7 +1,7 @@
 ---
 title: Experience Long-Lasting Power with Our Test on the 27000mAh ChargeTech Bank
-date: 2024-08-09T00:38:46.484Z
-updated: 2024-08-10T00:38:46.484Z
+date: 2024-09-04T16:13:13.666Z
+updated: 2024-09-05T16:13:13.666Z
 categories:
   - BestProducts
 description: This Article Describes Experience Long-Lasting Power with Our Test on the 27000mAh ChargeTech Bank
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/hzO1WhES9AW27Zh7Tx8JI5riDaY=/400x300/fi
 
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/6eJwPC0xPwMxCh4aQhG73X9dkzU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
 Lifewire / Erika Rawes
@@ -42,9 +39,6 @@ Lifewire / Erika Rawes
 
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
 Lifewire / Erika Rawes
@@ -68,9 +62,6 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -81,8 +72,26 @@ Lifewire / Erika Rawes
 
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup: Easier than most**
 
  Setting up the antenna is relatively intuitive. You just connect the antenna to the coaxial/antenna-in connection on your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) . The antenna has an easy-push connector, instead of a connector you have to twist onto the threading. This makes for easier setup because you don’t have to struggle behind your TV with trying to screw on the[coaxial cable](https://www.lifewire.com/coaxial-vs-optical-digital-cable-3134605) .
@@ -92,7 +101,10 @@ Lifewire / Erika Rawes
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Performance: Almost two dozen channels**
 
@@ -100,15 +112,21 @@ Lifewire / Erika Rawes
 
  The attached coax cable isn’t as long as I’ve seen on other similarly-priced antennas, but it is long enough (10 feet) to place the antenna up high without an extender.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Range: Could be better**
 
@@ -118,15 +136,24 @@ Lifewire / Erika Rawes
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
@@ -170,3 +197,52 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-captivating-your-audience-youtube-intro-excellence-with-imovie/"><u>[New] Captivating Your Audience  YouTube Intro Excellence with iMovie</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-efficient-video-editing-learn-the-ultimate-online-ways-to-shorten-and-slice-on-vimeo/"><u>[New] Efficient Video Editing  Learn the Ultimate Online Ways to Shorten & Slice on Vimeo</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-reigning-on-rankings-transforming-your-online-presence/"><u>[Updated] 2024 Approved  Reigning on Rankings  Transforming Your Online Presence</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[Updated] Crafting Revenue in 20-Second Chunks  YouTube Shorts Magic</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-free-online-editors-the-essential-guide/"><u>[Updated] Free Online Editors  The Essential Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unraveling-the-mysteries-of-instagram-saved-stories/"><u>[Updated] Unraveling the Mysteries of Instagram Saved Stories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-assemble-your-unique-google-cardboard-virtual-reality/"><u>2024 Approved  Assemble Your Unique Google Cardboard Virtual Reality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-comprehen-word-limit-reached-continuation-in-the-next-step/"><u>2024 Approved  The Comprehen... (Word Limit Reached, Continuation in the Next Step)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-top-storm-alert-and-tracking-mobile-apps-reviewed/"><u>2024'S Top Storm Alert and Tracking Mobile Apps Reviewed</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v29e-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V29e</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-voip-option-of-2023-is-vonage-no-longer-leading-the-pack/"><u>Best VoIP Option of 2023 - Is Vonage No Longer Leading the Pack?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/chromecast-reimagined-introducing-google-tv-and-outshining-firetv/"><u>Chromecast Reimagined: Introducing Google TV and Outshining FireTV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-moto-g-play-features-exceptional-battery-endurance-and-respectable-performance-metrics/"><u>Comprehensive Review of Moto G Play Features – Exceptional Battery Endurance and Respectable Performance Metrics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-assessment-of-viber-out-features-and-user-satisfaction/"><u>Detailed Assessment of Viber Out Features and User Satisfaction</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-leading-online-tech-education-sites-code-mastery/"><u>Discover The Leading Online Tech Education Sites - Code Mastery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-power-of-tangos-free-messaging-and-calls-comprehensive-analysis-inside/"><u>Discover the Power of Tango's Free Messaging & Calls – Comprehensive Analysis Inside!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-choices-for-portable-power-in-pc-gaming-expertly-compact-systems/"><u>Elite Choices for Portable Power in PC Gaming: Expertly Compact Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-curated-selection-of-brands-and-phones-at-reputable-retailers/"><u>Expertly Curated Selection of Brands and Phones at Reputable Retailers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-value-proposition-in-depth-look-at-the-hp-stream-14-windows-laptop-on-a-shoestring-budget/"><u>Exploring the Value Proposition: In-Depth Look at the HP Stream 14 Windows Laptop on a Shoestring Budget</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-assistant-or-alexa-which-voice-ai-should-be-your-preferred-companer/"><u>Google Assistant or Alexa: Which Voice AI Should Be Your Preferred Companer?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-stop-0x00000078-phase0exception/"><u>How to Fix STOP 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-infinix-hot-40-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/imagery-inspiration-skillful-grading-techniques/"><u>Imagery Inspiration  Skillful Grading Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-itel-p40-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Itel P40 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-infinix-hot-40-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Infinix Hot 40 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-zte-nubia-flip-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock ZTE Nubia Flip 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-enhanced-e-reader-experience-with-barnes-and-nobles-giant-display-the-nook-glowlight-plus/"><u>In-Depth Look at the Enhanced E-Reader Experience with Barnes & Noble's Giant Display - The Nook GlowLight Plus</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-testing-the-features-of-samsung-galaxy-budsplus/"><u>In-Depth Review: Testing the Features of Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lightweight-manfrotto-befree-600-series-excellent-mobility/"><u>Lightweight Manfrotto Befree 600 Series: Excellent Mobility</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-portable-energy-with-maxoaks-185wh-bank-a-detailed-product-assessment/"><u>Mastering Portable Energy with MaxOak's 185Wh Bank: A Detailed Product Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/portable-moko-compact-folding-keyboard-with-bluetooth-connectivity/"><u>Portable MoKo Compact Folding Keyboard with Bluetooth Connectivity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-up-your-podcast-game-with-expert-guidance-on-zooming-into-quality/"><u>Step Up Your Podcast Game with Expert Guidance on Zooming Into Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-genesis-addon-in-kodi/"><u>Step-by-Step Guide: Setting Up Genesis Addon in Kodi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-top-three-benefits-of-equipping-smartphones-with-dual-usb-c-connectors/"><u>The Top Three Benefits of Equipping Smartphones with Dual USB-C Connectors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-clearstream-eclipse-a-perfect-blend-of-power-and-practicality/"><u>The Ultimate Guide to the ClearStream Eclipse - A Perfect Blend of Power and Practicality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-new-apple-tv-4k-3rd-generation/"><u>The Ultimate Guide to the New Apple TV 4K (3Rd Generation)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-hash-tag-guide-for-gamers-youtube-channels-for-2024/"><u>The Ultimate Hash Tag Guide for Gamers' YouTube Channels for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-off-roaders-compan-cupant-a-detailed-review-of-the-top-race-rc-rock-crawler/"><u>The Ultimate Off-Roader's Compan Cupant: A Detailed Review of the Top Race RC Rock Crawler</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-rechargeable-battery-charger-units-in-2-cups/"><u>Top-Rated Rechargeable Battery Charger Units in 2 Cups</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-functional-ringsilent-switch-a-guide-to-muting-and-unmuting-iphones/"><u>Troubleshooting a Non-Functional Ring/Silent Switch: A Guide to Muting and Unmuting iPhones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-a-wifi-mesh-network-is-google-wifi-the-best-option/"><u>Ultimate Guide to Choosing a WiFi Mesh Network: Is Google WiFi the Best Option?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-evaluating-the-samsung-galaxy-s21-ultra-a-leader-in-android-devices/"><u>Unboxing and Evaluating the Samsung Galaxy S21 Ultra – A Leader in Android Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-benefits-of-the-maxoak-battery-pack-a-high-performance-185wh-5000flya-review/"><u>Unpacking the Benefits of the MaxOak Battery Pack - A High-Performance 185Wh / 50,00Flya Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-excellence-of-soundbots-sb210-model-exceptional-auditory-experience-under-ideal-conditions/"><u>Unpacking the Excellence of Soundbot's SB210 Model: Exceptional Auditory Experience Under Ideal Conditions</u></a></li>
+</ul></div>

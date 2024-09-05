@@ -1,7 +1,7 @@
 ---
 title: "Innovative Patekfly 12: Your Shape-Shifting Tripod"
-date: 2024-08-09T00:38:46.632Z
-updated: 2024-08-10T00:38:46.632Z
+date: 2024-09-04T16:13:27.072Z
+updated: 2024-09-05T16:13:27.072Z
 categories:
   - BestProducts
 description: "This Article Describes Innovative Patekfly 12: Your Shape-Shifting Tripod"
@@ -40,9 +40,6 @@ Lifewire / Jeff Dojillo
 
 4.3
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## GoPro HERO7 Black
 
 ![GoPro HERO7 Black](https://www.lifewire.com/thmb/GYZOA14ZRWOM3tJzi8ZbmTTASe8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4158963-1-2553e26bad2246dea19f86f8fb2c3714.jpg)
@@ -79,7 +76,16 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Classic action camera design**
 
@@ -92,7 +98,16 @@ Lifewire / Jeff Dojillo
  While testing the GoPro HERO7 Black we noticed that the body of the device becomes very hot when used for long periods of time. We tested it for a few hours nonstop and noticed it was still very warm even when it was not recording. This can be a big concern if the device is used for long recordings in hot temperatures.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Display: Bright and visible**
 
@@ -100,9 +115,6 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup: Updates out of the box**
 
  The GoPro HERO7 Black did not have much battery life out of the box. Once we powered it on, we set the date, time, and location. It then prompted us to update the software, which required a blank memory card and fully-charged battery to complete.
@@ -111,9 +123,6 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Sensor: Small but mighty**
 
  The GoPro HERO7 Black boasts a 1/2.3-inch 12-megapixel sensor that is built for action. The new and improved image processor now has the ability to stabilize footage through electronic image stabilization technology called HyperSmooth. This feature works by tracking unwanted motion in your videos and algorithmically correcting shake. It makes your footage impressively stable even when filming handheld or while riding on rough terrain.
@@ -127,7 +136,10 @@ Lifewire / Jeff Dojillo
  The fixed lens on the GoPro HERO7 Black shoots wide or in SuperView mode, the latter of which is an extra-wide field of view and can sometimes give a kind of distorted fisheye effect to your footage. This distortion can be frustrating, but there are ways to work around it during editing, including using video editing software to correct. And when shooting at a lower resolution, the camera can shoot with a linear field of view which reduces the distortion of the lens. The SuperView is not available when shooting in a 4:3 aspect ratio.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Video Quality: Amazing 4K quality with variable frame rates**
 
@@ -164,7 +176,10 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Connectivity: Speedy Wi-Fi and Bluetooth pairing**
 
@@ -172,15 +187,18 @@ Lifewire / Jeff Dojillo
 
  Inside the app, there are also options to edit mode settings, change the original set up, review camera info, changed Wi-Fi remotes, as well as monitor the battery level and[SD card](https://www.lifewire.com/how-to-format-sd-card-camera-4587017) capacity. It also makes it easier to review footage and images that the camera captures.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Battery Life: High-res video drains it quickly**
 
  When recording 4K video at 60 fps, the HERO7 Black’s battery only lasts about 50 minutes, so if you’re going to be shooting all day, it would be smart to have a few extra batteries available.
 
  Another option to extend shooting time would be to connect the GoPro HERO7 Black to an external battery pack via the[USB port.](https://www.lifewire.com/what-is-a-usb-port-818166)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Fairly priced for what you get**
 
  Retailing for $400 but often selling for less, the GoPro HERO7 Black is reasonably priced for its amazing features. 4K recording, HyperSmooth image stabilization, high frame rates, Bluetooth connectivity, a waterproof body, and live streaming features make this camera well worth the asking price.
@@ -211,6 +229,12 @@ Lifewire / Jeff Dojillo
 
  Between the amazing video quality and the enhanced HyperSmooth electronic image stabilization, the GoPro HERO7 Black is perfect for adventurers who want to record or even live-stream their most rugged expeditions. It produces beautiful videos with enhanced color and sharpness and is small enough to wear or mount somewhere without it getting in the way.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [AKASO EK7000 Pro 4K Action Camera](https://www.lifewire.com/akaso-ek7000-pro-4k-action-camera-review-4770265)
@@ -218,7 +242,10 @@ Lifewire / Jeff Dojillo
 * [Sony DSC-W800](https://www.lifewire.com/sony-dsc-w800-review-4589510)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -250,3 +277,46 @@ Lifewire / Jeff Dojillo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-exploring-the-world-of-webcam-professional-videotaping/"><u>[New] 2024 Approved  Exploring the World of WebCam Professional Videotaping</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-quick-and-simple-free-fb-video-to-mp4-hd-conversion-tutorial-online-for-2024/"><u>[New] Quick and Simple  Free FB Video to MP4 (HD) Conversion Tutorial Online for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capture-call-transcript-for-study/"><u>[Updated] 2024 Approved  Capture Call Transcript for Study</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-prime-hd-video-capture-ultimate-recorder-reviews/"><u>[Updated] Prime HD Video Capture  Ultimate Recorder Reviews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-evolutionary-path-of-roguelike-games-for-2024/"><u>[Updated] The Evolutionary Path of Roguelike Games for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-nixing-the-green-glow-youtubes-mac-solution-manual/"><u>2024 Approved  Nixing the Green Glow  YouTube's Mac Solution Manual</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/acer-aspire-c27-review/"><u>Acer Aspire C27 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-vg2-revolutionizing-your-console-gaming-sessions-on-a-superior-screen/"><u>ASUS VG2#: Revolutionizing Your Console Gaming Sessions on a Superior Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-gaming-smartphones-why-these-iphones-reign-supreme/"><u>Best Gaming Smartphones: Why These iPhones Reign Supreme</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-value-computers-a-comprehensive-acer-aspire-e-tine-review/"><u>Best Value Computers: A Comprehensive Acer Aspire E Tine Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-voip-giants-how-does-vonage-stack-up-today/"><u>Comparing VoIP Giants: How Does Vonage Stack Up Today?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-portable-android-device/"><u>Comprehensive Analysis of the Samsung Galaxy Tab S4: The Ultimate Portable Android Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-battery-powered-google-nest-doorbell-evaluation/"><u>Comprehensive Battery-Powered Google Nest Doorbell Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dell-xps-13-7390-2-in-1-review-a-gorgeous-flexible-ultrabook/"><u>Dell XPS 13 7390 2-in-1 Review: A Gorgeous, Flexible Ultrabook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-how-bouncies-connected-drive-device-offers-simple-navigation-for-less/"><u>Discover How Bouncie's Connected Drive Device Offers Simple Navigation for Less!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-benefits-of-synology-rt2ac-exceptional-longer-reach-and-effective-parental-control-functions-unveiled-in-our-review/"><u>Discover the Benefits of Synology RT2#AC: Exceptional Longer Reach and Effective Parental Control Functions Unveiled in Our Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-how-fitbit-charge-4-sets-new-benchmarks-for-style-and-usefulness/"><u>Discovering How Fitbit Charge 4 Sets New Benchmarks for Style & Usefulness</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/empower-your-win11-experience-with-expert-led-zoom-insights/"><u>Empower Your Win11 Experience with Expert-Led Zoom Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-a-great-convertible-and-inexpensive-asus-chromebook-with-our-detailed-review/"><u>Experience a Great, Convertible & Inexpensive Asus Chromebook with Our Detailed Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-enhanced-connectivity-with-synology-rt2600ac-wi-fi-router-parental-controls-included/"><u>Experience Enhanced Connectivity with Synology RT2600ac Wi-Fi Router: Parental Controls Included</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-beantech-bitwatch-s1-plus-an-in-depth-review-of-a-stellar-budget-smartwatch-choice/"><u>Exploring the Beantech Bitwatch S1 Plus - An In-Depth Review of a Stellar Budget Smartwatch Choice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-new-features-of-samsung-galaxy-watch4-retro-style-with-todays-innovations-reviewed/"><u>Exploring the New Features of Samsung Galaxy Watch4: Retro Style with Today's Innovations Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huawei-mediapad-m5-review-a-tablet-focused-on-sight-and-sound/"><u>Huawei MediaPad M5 Review: A Tablet Focused on Sight and Sound</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-se-2020-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone SE (2020) Lock Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-x-flip-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo X Flip to Gmail | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unrestricted-video-editing-top-10-free-online-tools-with-no-watermark/"><u>In 2024, Unrestricted Video Editing Top 10 Free Online Tools with No Watermark</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-gadgets-top-running-smartwatches-unveiled/"><u>Innovative Gadgets: Top Running Smartwatches Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-ps4-pro-review-how-sony-transforms-standard-playstation-4-into-a-4k-powerhouse/"><u>Inside the PS4 Pro Review: How Sony Transforms Standard PlayStation 4 Into a 4K Powerhouse</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interactive-experience-test-drive-dell-monitor-elite-noise-cancelling-headphones-and-high-definition-webcam/"><u>Interactive Experience: Test Drive Dell Monitor, Elite Noise Cancelling Headphones, & High-Definition Webcam</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-google-pixel-8-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Google Pixel 8</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-tab-s7plus-review-a-premium-android-powerhouse/"><u>Samsung Galaxy Tab S7+ Review: A Premium Android Powerhouse</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapshot-strategies-maintaining-consistent-snapstreaks-for-2024/"><u>Snapshot Strategies  Maintaining Consistent Snapstreaks for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-linksys-wrt1900acss-capabilities-as-a-top-tier-open-source-router-explored/"><u>The Ultimate Review: Linksys WRT1900ACS's Capabilities as a Top-Tier Open Source Router Explored</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/top-five-game-changing-updates-from-facebook/"><u>Top Five Game-Changing Updates From Facebook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-external-hard-drive-models-buyers-guide/"><u>Top Rated External Hard Drive Models - Buyer's Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-amazonbasics-crosscut-shredder-6-sheets-a-comprehensive-guide/"><u>Unboxing the AmazonBasics Crosscut Shredder (6 Sheets): A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-magic-behind-samsung-qn5email-protected-a-revolutionary-4k-hdr-smart-tv-journey/"><u>Unveiling the Magic Behind Samsung QN5^[email Protected] – A Revolutionary 4K HDR Smart TV Journey</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-guide-test-drive-the-google-nest-doorbell-with-batteries/"><u>User Guide: Test Drive the Google Nest Doorbell with Batteries</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Rexing V1 Dashcam Examined - The Perfect Blend of Discretion and Dependability
-date: 2024-08-09T00:38:46.731Z
-updated: 2024-08-10T00:38:46.731Z
+date: 2024-09-04T16:13:37.108Z
+updated: 2024-09-05T16:13:37.108Z
 categories:
   - BestProducts
 description: This Article Describes Rexing V1 Dashcam Examined - The Perfect Blend of Discretion and Dependability
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/qr8BXTZCoxrb5ijqZD6OpDf2XWQ=/400x300/fi
 
 ## Z-Edge Z3 Plus Dashcam
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Z-Edge Z3 Plus Dashcam](https://www.lifewire.com/thmb/OL3QdFJ2E8lLE0w3IGyxR-rAD4Y=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/03LW406226_HeroSquare-b7e0d530ed9948eda68372d2984bbdc2.jpg)
 
 Lifewire / Danny Chadwick
@@ -68,9 +65,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## **Design: Small but solid**
 
  If you didn’t know this device was a dashcam, you could be forgiven for mistaking it for a point-and-shoot camera. It has a three-inch screen, and while that is small by the standards of today’s mobile devices, it’s a great size for your windshield. All the indicator lights and icons fit nicely on the screen and you only need to glance at it briefly while you drive to see that it’s recording.
@@ -97,6 +91,12 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: Super straightforward**
 
  If you’re even passingly familiar with digital cameras, you can have the Z3 Plus set up and ready to go within a few minutes of taking it out of the box. And while you should read the user manual before turning it on, you probably won’t run into any major difficulties if you don’t. The most time-consuming part of the setup is running the power cable up and around your windshield so it’s not dangling down to the power supply while you drive. This requires you to tuck the cord under your car’s upholstery and panels, which takes about 20 minutes to complete.
@@ -108,7 +108,10 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Camera Quality: Beyond high definition**
 
@@ -122,6 +125,18 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance: Never failed**
 
  We tested the Z-Edge Z3 Plus on a six-hour road trip, and throughout the drive, the Z3 Plus nor the suction cup failed. So long as it was plugged into power, it functioned flawlessly.
@@ -131,15 +146,26 @@ Lifewire / Danny Chadwick
  We did experience one strange glitch at the end of our testing—a couple of minutes after we had boxed up the Z3 Plus and put it away, we noticed loud, rapid beeping coming from the box. We took the Z3 Plus back out and it was frozen on the power-up screen. We couldn’t get it to turn off (or stop beeping) until the battery died a few minutes later. The camera appeared to work fine after that and we weren’t able to replicate the problem, but it was something of an alarming glitch from such a new device.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Fair price for a fair product**
 
  As of the time of this writing, you can pick up this dashcam from Z-Edge for between $120 and $140, which seems like a good value to us. Given its features, tools, and image quality, it’s a fair price for a useful and reliable device.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Competition: Z-Edge Z3 Plus vs. Apeman C450 Dash Camera**
 
@@ -158,7 +184,10 @@ Lifewire / Danny Chadwick
  The Z-Edge Z3 Plus is easy to set up, intuitive to use, captures clear video footage for a reasonable price. We would like to have seen a second mounting option to the suction cup and a longer-lasting battery, but those are minor quibbles in light of this device’s reliable performance.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -191,3 +220,49 @@ Lifewire / Danny Chadwick
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-building-striking-podcast-branding-logo-design-guide/"><u>[New] In 2024, Building Striking Podcast Branding  Logo Design Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-grasping-basics-your-guide-to-av1-encoding-for-2024/"><u>[Updated] Grasping Basics  Your Guide to AV1 Encoding for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-taking-it-upward-panning-high-with-your-phone/"><u>[Updated] Taking It Upward  Panning High with Your Phone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-20-free-footage-sites-a-comprehensively-curated-list/"><u>[Updated] Top 20 Free Footage Sites  A Comprehensively Curated List</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-quick-drama-drafting-method/"><u>2024 Approved  Quick Drama Drafting Method</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/chromecast-meets-google-tv-an-in-depth-analysis-for-cord-cutters/"><u>Chromecast Meets Google TV: An In-Depth Analysis for Cord Cutters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-most-advanced-long-distance-router-technologies-on-the-market/"><u>Discover the Most Advanced Long-Distance Router Technologies on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-setup-strategies-unveiling-the-dream-md2380/"><u>Economical Setup Strategies - Unveiling the Dream MD2380</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-rate-the-tp-link-archer-c9-as-an-unmatched-economical-wifi-router-option/"><u>Experts Rate the TP-Link Archer C9 as an Unmatched Economical WiFi Router Option</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-latest-in-smartwear-the-amazfit-helio-rings-cost-and-features-released/"><u>Explore the Latest in Smartwear: The Amazfit Helio Ring's Cost & Features Released</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-comprehensive-pc-component-analysis/"><u>Exploring Hardware with Tom: Comprehensive PC Component Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fun-and-functional-a-review-on-the-ddpai-mini3-dashcam/"><u>Fun & Functional: A Review on the DDpai Mini3 Dashcam</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-itel-s23plusmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Itel S23+Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hubsan-h501s-x4-fpv-quadcopter-review/"><u>Hubsan H501S X4 FPV Quadcopter Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-asus-rog-phone-8-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Asus ROG Phone 8 by Name | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-itel-p55plus-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Itel P55+</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmmakers-toolkit-masterful-avi-to-gif-conversion-via-filmora-windowsmacos/"><u>In 2024, Filmmaker’s Toolkit  Masterful AVI to GIF Conversion via Filmora (Windows/macOS)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-note-50-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme Note 50 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10c-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10C to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-imac-with-apples-revolutionary-m1-processor-performance-unleashed/"><u>In-Depth Analysis of iMac with Apple's Revolutionary M1 Processor: Performance Unleashed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-dells-wireless-network-adapter-easy-download-and-setup-instructions/"><u>Installing Dell's Wireless Network Adapter: Easy Download and Setup Instructions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/keeping-your-browsing-free-of-pop-up-videos/"><u>Keeping Your Browsing Free of Pop-Up Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-action-cameras-for-thrill-seekers-for-2024/"><u>Leading Action Cameras for Thrill Seekers for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-gen-reality-ranking-the-best-gaming-units/"><u>Next-Gen Reality: Ranking the Best Gaming Units</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sense-of-satisfaction-with-low-cost-audio-devices/"><u>Sense of Satisfaction with Low-Cost Audio Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-savings-on-screens-a-detailed-look-at-the-hisense-40h5593-f-flat-tv-model/"><u>Smart Savings on Screens? A Detailed Look at the Hisense 40H559^3 F Flat TV Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sound-blaster-zxr-by-creative-labs-a-comprehensive-review-of-the-top-notch-headset-in-2013/"><u>Sound Blaster ZXR by Creative Labs: A Comprehensive Review Of The Top-Notch Headset In 2013</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/step-by-step-modify-username-in-google-meet/"><u>Step-by-Step  Modify Username in Google Meet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-gamers-choice-awaits-comprehensive-review-on-the-superiority-of-the-xbox-one-elite-series-2-controller/"><u>The Gamer's Choice Awaits: Comprehensive Review on the Superiority of the Xbox One Elite Series 2 Controller</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-legal-landscape-of-ai-innovations-determining-authorship-and-copyright-control/"><u>The Legal Landscape of AI Innovations: Determining Authorship and Copyright Control</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-power-packed-performance-of-jabra-talk-25-microphone/"><u>The Power-Packed Performance of Jabra Talk 25 Microphone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-choice-for-wallet-wise-buyers-the-vuebell-video-doorbell-unveiled/"><u>Top Choice for Wallet-Wise Buyers: The VueBell Video Doorbell Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-best-17-inch-laptops/"><u>Ultimate Guide to the Best 17-Inch Laptops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unbeatable-oneplus-bargains-during-the-prime-event-sale/"><u>Unbeatable OnePlus Bargains During the Prime Event Sale</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-potential-with-msis-pro-portable-monitor-mp161e2-a-hands-on-analysis/"><u>Unleash Your Potential with MSI’s Pro Portable Monitor - MP161E2: A Hands-On Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-content-how-to-safely-remove-acsm-protection-from-downloads-for-better-playback-experience/"><u>Unlocking Content: How to Safely Remove ACSM Protection From Downloads for Better Playback Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-boses-sports-sound-features-solid-reputation/"><u>Unveiling Bose's Sports Sound Features - Solid Reputation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-and-performance-of-the-samsung-galaxy-tab-s7-your-must-have-tablet-if-you-love-android/"><u>Unveiling the Features and Performance of the Samsung Galaxy Tab S7 - Your Must-Have Tablet if You Love Android!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-future-of-mobile-audio-samsung-buds-pro/"><u>Unveiling the Future of Mobile Audio: Samsung Buds Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-secrets-of-bloodborne-a-comprehensive-review/"><u>Unveiling the Secrets of Bloodborne: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-the-huawei-p30-pro-continues-to-capture-my-affection-a-comprehensive-review/"><u>Why the Huawei P30 Pro Continues to Capture My Affection - A Comprehensive Review</u></a></li>
+</ul></div>

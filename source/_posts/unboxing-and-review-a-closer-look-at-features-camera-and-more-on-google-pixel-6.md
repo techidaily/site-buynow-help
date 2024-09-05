@@ -1,7 +1,7 @@
 ---
 title: "Unboxing & Review: A Closer Look at Features, Camera, and More on Google Pixel 6"
-date: 2024-08-09T00:38:45.082Z
-updated: 2024-08-10T00:38:45.082Z
+date: 2024-09-04T16:10:50.353Z
+updated: 2024-09-05T16:10:50.353Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing & Review: A Closer Look at Features, Camera, and More on Google Pixel 6"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 
 3.5
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## SunBriteTV Weatherproof Outdoor 55-Inch Veranda (2nd Gen)
 
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/SbA6fOgyA9EEgVGvd2P96Gc5Jqw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_HERO_Square-c68f638988064b98b6d844f1c9b06c47.jpg)
@@ -38,9 +35,6 @@ Lifewire / Gannon Burgett
 
 3.5
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## SunBriteTV Weatherproof Outdoor 55-Inch Veranda (2nd Gen)
 
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/srDs47vmZPXcVAqFGXrMcO_CJi8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_HERO_Square-c68f638988064b98b6d844f1c9b06c47.jpg)
@@ -66,10 +60,6 @@ Lifewire / Gannon Burgett
 
  For this review, I put SunBrite’s 55-inch Veranda 4K TV to the test to see how well it would hold up to in the chilliest of environments. Over the course of 30 hours of on-and-off use throughout the month of January, I took notes of the TV’s strengths and weaknesses and have summarized my thoughts below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## **Design: Bulky, but durable**
 
  From a distance, the SunBrite 55-inch Veranda outdoor TV doesn’t look much different than your average LED television. Aside from being slightly bulkier due to its protective shell, the TV, from the front and side, looks nearly identical to any TV you’d see inside.
@@ -85,7 +75,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Durability: Come hell or high water**
 
@@ -105,8 +98,32 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/OXDu2alZGi-BU3sWsISvhfwGSDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_11_Horiz-b20abbf925284d3fb1936ceb762e3fe1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Image and Audio Quality: Good, but not great**
 
  The SunBrite Veranda is designed specifically to be used in full shade areas. This could include a three-seasons room, an outdoor area with a canopy or, as I opted for in this review, an outdoor shed that will block the sun, but is still exposed to the elements throughout the year.
@@ -123,16 +140,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Much like the video, the audio from the Veranda is designed specifically to account for the more open, outdoor environments this TV is meant to be used in. The 20W speaker on board is more than loud enough for all but the loudest of venues, but detail is sacrificed for the sake of decibels. This proved more than fine for any sports cast or TV show, but the more nuanced sound design of movies certainly takes a hit.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/gWc18UfkuRaLKxubOAFv0zceMlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_17_Horiz-e1118b39b8ae43f5a135c249d3d6f741.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## **Price: Not cheap, but worth it**
 
  At $2,000, the SunBrite 55-inch Veranda is much more expensive than your standard 55-inch 4K HDR TV—even ones that outperform it in the audio, visual, and software departments. However, as far as outdoor TVs are concerned, it’s one of the more reasonably-priced options available while still being able to take on the elements.
@@ -140,7 +157,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  For better or worse, its $2,000 price is roughly middle-of-the-line as far as outdoor TVs go and if you have the cash to spare, I can guarantee it’ll be a worthwhile luxury purchase if you enjoy spending your time outside in the sun (or snow, in my case).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **SunBriteTV 55-inch Veranda vs Sealoc Lanai LG 7-series**
 
@@ -156,6 +182,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Overall, the SunBrite 55 Veranda is a fantastic outdoor TV that seems to withstand nearly anything you can throw at it (both literally and metaphorically). Sure, the price is absurd compared to a standard 4K HDR TV, but an outdoor TV takes extra work to prepare for the elements and that extra time and material comes with a cost.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Weatherproof Outdoor 55-Inch Veranda (2nd Gen)
@@ -186,3 +218,46 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-prime-picks-easy-youtube-template-downloads/"><u>[New] 2024 Approved  Prime Picks  Easy YouTube Template Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivating-cold-ideal-snowy-scenes-to-brighten-videos-for-2024/"><u>[New] Captivating Cold  Ideal Snowy Scenes to Brighten Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-from-monochrome-to-motion-the-ultimate-guide-to-making-videos-with-pixiz/"><u>[New] From Monochrome to Motion  The Ultimate Guide to Making Videos with Pixiz</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-post-a-vimeo-video-on-instagram-in-2024/"><u>[New] How to Post a Vimeo Video on Instagram, In 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-advice-5-proven-methods-to-document-minecraft-on-apple-devices/"><u>[New] In 2024, Expert Advice  5 Proven Methods to Document Minecraft on Apple Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simplified-guide-to-movie-recording-on-diverse-systems-for-2024/"><u>[New] Simplified Guide to Movie Recording on Diverse Systems for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-strategic-broadcasting-link-twitch-to-facebook-feeds/"><u>[New] Strategic Broadcasting  Link Twitch to Facebook Feeds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715837993967-updated-the-7-best-fps-games/"><u>[Updated] The 7 Best FPS Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-tracking-visual-storytelling-with-google-collages/"><u>2024 Approved  Fast-Tracking Visual Storytelling with Google Collages</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fongo-uncovered-the-leading-voip-option-for-canadians/"><u>Fongo Uncovered: The Leading VoIP Option for Canadians</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-access-public-phone-number-records-online/"><u>How to Access Public Phone Number Records Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with electronic signature tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastering-iphone-ios-voice-memos-recording-guide/"><u>In 2024, Mastering iPhone  IOS Voice Memos Recording Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-mirrorless-camera-models-you-cant-miss/"><u>Leading Mirrorless Camera Models You Can't Miss</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-the-art-of-video-to-animation-stepwise-guide-for-efficient-gif-creation-for-2024/"><u>Learn The Art Of Video to Animation  Stepwise Guide for Efficient Gif Creation for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-effective-orators-dominating-the-2023-scene/"><u>Most Effective Orators Dominating the 2023 Scene</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-popular-protective-covers-for-the-new-samsung-galaxy-s2e-plus/"><u>Most Popular Protective Covers for the New Samsung Galaxy S2e +</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-lava-yuva-3-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Lava Yuva 3 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-pick-micro-atx-computer-cases-a-comprehensive-guide/"><u>Top Pick Micro ATX Computer Cases : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-apple-watch-accessories-the-ultimate-selection/"><u>Top Rated Apple Watch Accessories: The Ultimate Selection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-cloud-storage-solutions-the-ultimate-guide-to-the-best-online-backups/"><u>Top Rated Cloud Storage Solutions: The Ultimate Guide to the Best Online Backups</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-earphones-compatible-with-steam-deck-a-comprehensive-guide/"><u>Top Rated Earphones Compatible with Steam Deck: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-portable-screen-mirroring-devices/"><u>Top Rated Portable Screen Mirroring Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-stereo-amp-models-your-ultimate-guide/"><u>Top Rated Stereo Amp Models : Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-mini-projectors-compact-projection-units-and-the-year-2024-they-also-promise-value-to-the-reader-with-terms-like-comprehensive-guide-and-ultimate-6/"><u>Top Rated, Mini Projectors, Compact Projection Units, and the Year 202^4. They Also Promise Value to the Reader with Terms Like Comprehensive Guide and Ultimate Selection.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-google-pixel-smartwatch-straps-the-ultimate-guide-to-2024s-market/"><u>Top-Rated Google Pixel Smartwatch Straps: The Ultimate Guide to 2024'S Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-protective-cases-for-samsung-galaxy-s24-ultra/"><u>Top-Rated Protective Cases for Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-protective-covers-for-samsung-galaxy-z-flip-6/"><u>Top-Rated Protective Covers for Samsung Galaxy Z Flip 6</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-security-cameras-for-your-yard-2024s-must-have-selection/"><u>Top-Rated Security Cameras for Your Yard: 2024'S Must-Have Selection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-travel-gaming-mice/"><u>Top-Rated Travel Gaming Mice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-usb-security-tokens-the-ultimate-guide/"><u>Top-Rated USB Security Tokens: The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-headphones-compatible-with-iphoneipad/"><u>Top-Rated Wireless Headphones Compatible with iPhone/iPad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-comparison-leading-blu-raydvd-players-for-the-modern-viewer/"><u>Ultimate Comparison: Leading Blu-Ray/DVD Players for the Modern Viewer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-iphone-e13-shielding-films-expert-picks-for-crystal-clear-protection/"><u>Ultimate Guide to iPhone E13 Shielding Films: Expert Picks for Crystal Clear Protection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-most-outstanding-android-photography-devices-of-2024/"><u>Ultimate Guide to the Most Outstanding Android Photography Devices of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-the-most-exceptional-mouse-models-of-2nwn4/"><u>Ultimate List: The Most Exceptional Mouse Models of 2Nwn4!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-2024s-highest-quality-ipad-pro-13-cases-reviewed-and-rated/"><u>Ultimate Selection: 2024'S Highest Quality iPad Pro 13 Cases Reviewed and Rated!</u></a></li>
+</ul></div>

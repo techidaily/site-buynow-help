@@ -1,7 +1,7 @@
 ---
 title: The Revolutionary Raspberry Pi Pico Takes on Dual Architectures with a Cutting-Edge RISC Design
-date: 2024-08-31T12:13:26.082Z
-updated: 2024-09-01T12:13:26.082Z
+date: 2024-09-04T16:15:09.359Z
+updated: 2024-09-05T16:15:09.359Z
 tags:
   - games
   - tv
@@ -88,5 +88,8 @@ Everybody's favorite microcontroller board is back and better than ever. Raspber
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

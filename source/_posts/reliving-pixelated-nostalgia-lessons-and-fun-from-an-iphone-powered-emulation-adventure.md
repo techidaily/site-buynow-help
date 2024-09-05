@@ -1,7 +1,7 @@
 ---
 title: "Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure"
-date: 2024-08-31T12:15:15.831Z
-updated: 2024-09-01T12:15:15.831Z
+date: 2024-09-04T16:15:11.223Z
+updated: 2024-09-05T16:15:11.223Z
 tags:
   - games
   - tv
@@ -35,6 +35,12 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
 ![SNES classic RPG Chrono Trigger running on Delta for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/chrono_trigger_delta.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It’s the experience that retro gaming enthusiasts who also happen to own an iPhone have dreamed about. If you had previously considered switching to Android to play older games on the go, you no longer need to do that. If you’re sick of mobile games and would rather level up your Charmander on the bus, you can.
 
  Unfortunately, there are a few drawbacks to playing retro games on your iPhone. On-screen touch controls are still bad for precise input. They always have been, and they probably always will be. This is a limitation of the form factor, not the emulator. It means that some games are simply best avoided if you’re going to rely on touch controls.
@@ -45,11 +51,14 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
 ![Brain Age for Nintendo DS running on an iPhone with Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/brain_age_delta.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Emulation is powered by well-known cores like [Snes9x](https://github.com/snes9xgit/snes9x) and [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), open-source projects that ensure excellent compatibility with game libraries. The experience may not be pixel-perfect (you’ll need original hardware or an [FPGA-based device like the MiSTeR for that](https://visual-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-captures-top-10-online-video-recorders/)), but with an emulator like Delta you get bonuses like save states, fast forward, and the ability to use cheat codes if you want.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The iPhone Is the Worst Part
 
  Smartphones are incredible devices that can do just about everything, but they’re not necessarily well suited to all tasks. Arguably the worst part of using an emulator like Delta on an iPhone is the fact that you’re still playing on an iPhone.
@@ -60,6 +69,12 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
  On top of this, your iPhone is still doing phone things in the background. You’ll see notifications pop up at the top of the screen, phone calls will interrupt your gameplay, and if you need to quickly do something else on your iPhone (like snap a picture, search the web, or message a friend) then you’ll need to juggle apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  BYO ROMs
 
  It’s not illegal to emulate video game platforms, but when it comes to games things get more complicated. Game files, or ROMs, are a legal grey area. It’s generally accepted that ripping and using your own ROMs is permissible, but downloading and sharing ROMs online for games you do not own is [against the law](https://facebook-videos.techidaily.com/updated-video-revenue-generation-on-facebook-tactics-for-financial-growth-for-2024/).
@@ -68,13 +83,16 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
 ![Game Boy ROMs within iPhone emulator Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gbc_roms_delta.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Though the process still feels taboo due to the scorn Apple has poured on emulators for well over a decade, it’s straightforward enough. You’ve been able to do this sort of thing in other apps for years. It’s really no different from loading your iPhone up with MIDI and chiptune music in an app like [Modizer](https://apps.apple.com/us/app/modizer/id393964792).
 
  The good news is that you’ll be playing in no time if you have a collection of ROMs stored in the cloud, and Delta even comes with a feature called Delta Sync which not only syncs ROMs but also save files, save states, cheat codes, and controller mappings between devices.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  Improving Your Experience
 
  Arguably the biggest improvement you can make to your iPhone emulator experience is to add a physical controller. You can pair most Bluetooth controllers with your iPhone including Xbox, PlayStation, and [purpose-built retro efforts](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-by-drfone-ios/) from the likes of 8bitdo.
@@ -93,17 +111,29 @@ Jason Montoya / How-To Geek
 
 ![Apple's default Gaming Focus mode trigger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/wireless_trigger_focus.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  First, launch Shortcuts and create a new shortcut. Find the “Set Focus” action and change “Turn” to “Toggle” and “Do Not Disturb” to “Gaming” and save it (giving it a suitable name). Now head to the Automation tab, create a new Automation, and use “App” as the Trigger. Choose Delta, select both “is Opened” and “is Closed”, pick “Run Immediately”, and then choose the Shortcut you just made as the action.
 
 ![An iPhone automation that triggers a shortcut to toggle a Focus mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/shortcuts_delta.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now whenever you open Delta, you’ll see a notification to let you know that the “Gaming” Focus has been enabled. When you close the app, Gaming will be disabled. This can massively cut down the number of notifications and unwanted communication you receive when you’re playing games.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Alternatively, Buy a Handheld PC (Like the Steam Deck)
 
@@ -111,9 +141,6 @@ Jason Montoya / How-To Geek
 
 ![A Steam Deck with a low-profile keyboard in front of it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/here-s-how-to-pick-a-keyboard-for-your-steam-deck.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Goran Damnjanovic / How-To Geek
 
  The active cooling system in the Steam Deck is much better than the passive cooling in your iPhone, and there is a huge variety of emulators available for the system. These fit neatly into your Steam library, and you can even spice things up a bit with [Retro Achievements](https://retroachievements.org/).
@@ -124,9 +151,6 @@ Goran Damnjanovic / How-To Geek
 
  There are also [portable retro handhelds from Retroid and Anbernic](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/). These devices are inexpensive and come in all manner of form factors, without relying on touchscreen controls. Just make sure you [avoid the cheapest, nastiest knock-offs](https://screen-recording.techidaily.com/updated-2024-approved-top-tier-tools-transforming-remote-discussions/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Give It a Try
 
  It’s well worth [diving into the world of iPhone emulators](https://tech-revival.techidaily.com/no-budget-no-barrier-to-adventure-find-your-plan-with-these-7-free-apps/) now that Apple makes the process relatively easy. If you’re exhausted with the state of mobile gaming and would rather chip away at something “old but gold” then you can do far worse.

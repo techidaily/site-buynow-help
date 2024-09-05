@@ -1,7 +1,7 @@
 ---
 title: Federal Assistance Concludes - Comcast's New Low-Cost $30 Broadband Deals
-date: 2024-08-31T12:13:03.206Z
-updated: 2024-09-01T12:13:03.206Z
+date: 2024-09-04T16:15:09.019Z
+updated: 2024-09-05T16:15:09.019Z
 tags:
   - games
   - tv
@@ -96,5 +96,8 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

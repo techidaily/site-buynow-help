@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Dream: Experience Baldur's Gate 3 with David Attenborough Using Advanced Voice Mod Technology"
-date: 2024-08-31T12:14:39.488Z
-updated: 2024-09-01T12:14:39.488Z
+date: 2024-09-04T16:15:10.603Z
+updated: 2024-09-05T16:15:10.603Z
 tags:
   - games
   - tv
@@ -43,56 +43,68 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 1: Open the Mod Manager
 
  With the mod manager file unzipped, open the folder and run BG3ModManager.exe. You should see this program window open. It looks a little complicated, but we're going to follow a very basic process.
 
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 2: Import the Mod Fixer
 
  The mod fixer is necessary for many mods to work in the game, since it forces the game to recompile the campaign data, without which some mods would not work. To install it, Select File>Import Mod in the mod manager.
 
 ![BG3 mod importing menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-importing-menu-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  Navigate to the folder where the mod fixer's zipped file is, select it and then select "Open." You should see "ModFixer" listed under "Overrides."
 
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 4: Export Mod Order
 
  Next, all you have to do is select File>Export Order to Game.
 
 ![BG3 export mod order menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-export-mod-order-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  You should see a green message pop up at the bottom of the window in the mod manager.
 
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
 
  This means we're ready to go!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 5: Test the Game
 
  Everything on the modding side of the process should now be done, which means it's time to start up the game to see if it's working. You'll get a warning that mods have been detected, which is a good sign! You can choose to never show this message again, but I think it's worth the hassle of the extra click so that you know whether you're starting up a modded version of Baldur's Gate or not.
@@ -105,12 +117,30 @@ Your browser does not support the video tag.
 
  Now you can play the game like normal with your new narrator.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Removing Mods
 
  To reverse this process and take the game back to the way it was, right-click on the mods under "Overrides" and select "Delete Mod."
 
 ![BG3 mod deletion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-deletion-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll see two check boxes. Make sure the permanent deletion box is checked if you want to remove the mod files completely. Otherwise, simply leave the box to remove the mod from the load order checked. Then confirm your choice. Finally, export the mod order to the game again.
 
  Now the original narrator should be back, and in my testing, this did not affect my save games. However, keep in mind that certain mods may make save games impossible to use with the vanilla game! If you want to know more about PC gaming mods in general, check out my [modding primer](https://facebook-clips.techidaily.com/2024-approved-streaming-aerial-adventures-on-fb-from-dji-drone/) and if you're interested in AI technology in video games, you might want to see how [AI will change game development](https://some-guidance.techidaily.com/2024-approved-the-evolved-2023-samsung-bd-j5900-a-deep-dive/).

@@ -1,7 +1,7 @@
 ---
 title: Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
-date: 2024-08-31T12:12:47.674Z
-updated: 2024-09-01T12:12:47.674Z
+date: 2024-09-04T16:15:08.770Z
+updated: 2024-09-05T16:15:08.770Z
 tags:
   - games
   - tv
@@ -34,7 +34,10 @@ Pony / Sky / AestheticSpartan
  These in-game items may be given out for free, but they can be traded on the Steam Community Market for real money. You can buy and sell bananas from as little as a few cents up to hundreds or thousands of dollars. The rarer the banana, the higher the value the community has assigned to it.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What's Really Going On Here?
 
@@ -45,7 +48,10 @@ Pony / Sky / AestheticSpartan
 ![The free-to-play Banana game in third place on the Steam charts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-12-at-12-32-52.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  It’s still a bit of a mystery what’s really going on here. The game makes no claims that in-game items have any inherent value so on the surface, Banana seems innocent enough. The game doesn’t appear to be doing anything in the background (so it’s not a stealthy crypto miner), and you don’t even need to leave it open as long as you open it regularly for a few clicks to collect your fruit.
 

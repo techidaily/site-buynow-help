@@ -1,7 +1,7 @@
 ---
 title: Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store
-date: 2024-08-31T12:14:56.088Z
-updated: 2024-09-01T12:14:56.088Z
+date: 2024-09-04T16:15:10.877Z
+updated: 2024-09-05T16:15:10.877Z
 tags:
   - games
   - tv
@@ -29,13 +29,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  A steady drip of niche, free games continued through 2023 and into 2024\. This year, we've seen some dismal free offerings, including in-game items to try to get more people interested in games they already don't care about.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Epic's Free Games Are Repetitive and Lack Variety
 
 ![Screenshot of Epic Games Store browsing page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/156005c5-5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  As someone open to new gaming experiences, I'm always willing to try out something new, assuming it falls into one of the genres I enjoy. Many recent free games fall into this category, like indie puzzlers or management simulators, which do not necessarily appeal to all gamers. While some of them appeal to me, there can be too much of a good thing.
 
  The problem with offering so many games as freebies that share the same theme is that the audience gets fatigued. After my fifth management game, I realized I might not be getting a bit bored of the free lunch. I was pretty much only extending the number of games in my catalog that I had yet to finish.
@@ -43,7 +46,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The biggest issue I've had with Epic's free games offering is how limited it is compared to competitors. Other outlets like Steam and GOG have free games and massively discounted gems spanning dozens of genres. There's something to be said when a game's price tag is free, and it still can't compete with a classic like _Celeste_ at $1.99, courtesy of [Steam's amazing sales](https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/).
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Game Saturation, or Having Too Much To Play
 
@@ -62,7 +68,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
 
@@ -75,7 +90,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The EGS has a long way to go before becoming as usable as storefronts like Steam. But the approach of offering weekly free games is paying off in some ways.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  There Are Some Benefits to This Approach
 
@@ -88,14 +106,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The downside is that no one on Epic's side seems to check the quality of these games. While none of them are outright shovelware, a few titles make a gamer raise their eyebrows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Keep Collecting Epic's Free Games?
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
 

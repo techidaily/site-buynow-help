@@ -1,7 +1,7 @@
 ---
 title: "Decoding Value in Sony's XBR65X850F: An In-Depth Review of This Well-Priced 65 Ultra HD TV"
-date: 2024-08-09T00:38:44.090Z
-updated: 2024-08-10T00:38:44.090Z
+date: 2024-09-04T16:09:10.251Z
+updated: 2024-09-05T16:09:10.251Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding Value in Sony's XBR65X850F: An In-Depth Review of This Well-Priced 65 Ultra HD TV"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/f755ebc6fd74e541b86783b8f288eb9ebe73ceda2
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## LG OLED C9 65" 4K Smart TV
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/Z82osxXGuhEbZyidLLG58VdbbJ0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_HeroSquare-b4b1522941d44a18b75a586155788477.jpg)
@@ -45,9 +42,6 @@ Lifewire / Emily Isaacs
 
 ## LG OLED C9 65" 4K Smart TV
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/-RQ5Ui3BjE0KxHGHYE-UjNz7EY4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_HeroSquare-b4b1522941d44a18b75a586155788477.jpg)
 
 Lifewire / Emily Isaacs
@@ -72,13 +66,22 @@ Lifewire / Emily Isaacs
 
  The LG OLED C9 (OLED65C9PUA) may not be a significant improvement over its predecessor, but it’s still our pick for the best OLED TV of 2019, combining 65 inches of near-perfect color with an ease of use that will leave you loving[LG’s interface](https://www.lifewire.com/best-tvs-to-buy-4061107) . We tested this TV for a month and here’s what we had to say.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/Ky7KFEDgeAy-u_D_Tv7zaOPYQMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_03-f111424cfd584bfeac329fa2932278ca.jpg)
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Smart and sleek**
 
 [OLED TVs](https://www.lifewire.com/oled-tv-basics-1846926) are among the best money can buy, characterized by their ability to produce a wide range of colors alongside deep, rich blacks by toggling individual pixels to emit their own light. On top of this, OLED frames are thinner and lighter than their LED predecessors. It’s a powerful combination that makes for a startlingly realistic picture alongside an expanded range of placement options. In the case of the LG C9, it’s a design that’s as smart as it is sleek thanks to the inclusion of Google Assistant and Alexa.
@@ -93,6 +96,18 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: Do it yourself worthy, but you’ll need a hand**
 
  Due to its large size and fragile nature, consider where the LG C9 will be most secure before moving ahead with setup. It shouldn’t be placed anywhere where there’s a risk it could be knocked down or climbed on, for instance, so choose a location safely tucked away from pets and children.
@@ -108,7 +123,16 @@ Lifewire / Emily Isaacs
  Once the TV has been installed, LG’s WebOS guides the first-time setup process by prompting inputs for settings ranging from time zone and language up to and including any necessary user agreements. The LG C9 will complete a scan in order to identify the devices and then you’re free to customize the TV’s settings by pressing the gear button on the LG Magic Remote. The first setting we changed was the Auto Power Saving (APS) picture mode, which reduces power use by dimming the brightness of the TV. The other important setting to disable is TruMotion, which smooths motion in TV shows and movies by altering the frame rate of the programming. If your LG’s picture looks a bit too much like a soap opera, chances are you need to disable this setting.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Image Quality: Stunning picture**
 
@@ -120,18 +144,18 @@ Lifewire / Emily Isaacs
 
  These pictures are further enhanced with LG’s α9 Gen 2 intelligent processor, new to 2019’s model. It excels at drawing out detail and correcting quality discrepancies within the picture, such as banding which creates textures and strips in areas of the screen that would otherwise be smooth. This is particularly important given the large screen size and high resolution. While it’s not as bright as an LED TV since it lacks backlighting, it doesn’t need it as the TV already possesses excellent color, a change here would risk washing out the inky blacks on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Audio: Better than expected**
 
  While OLED TVs aren’t generally known for their great sound quality, the LG C9 has a surprisingly good sound system all things considered—but a soundbar would still be recommended. Audio in TV or movies is generally good, but it struggles to regulate loud and soft noises in a scene. Streaming Lizzo’s_Cuz I Love You_ on Spotify produces a surprising depth of sound, but it’s simply not comparable to a more robust system that a soundbar or home theater system would provide.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/SZUaFESJi6OZubIeLdK1e9L9FEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_04-c559e4cc6de64f0c8baf4470f883dd9e-4844a7694fb74eb2904f1128ba93f760.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Emily Isaacs
 
 ## **Software: Smooth and easy to use**
@@ -143,7 +167,16 @@ Lifewire / Emily Isaacs
  In addition to the WebOS software, the LG C9 also comes with Google Assistant as well as Amazon’s Alexa. It makes it easy to search content, switch between apps and features, or check the weather, among other things.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: A premium price for a premium TV**
 
@@ -151,6 +184,18 @@ Lifewire / Emily Isaacs
 
 [How to Buy a TV For Your Home in 2024](https://www.lifewire.com/best-60-inch-tvs-4580159)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **LG OLED C9 65-inch vs. Samsung 65-inch Class Q60R**
 
  It’s easy to see why the LG C9 is such an attractive model. Between its many bells and whistles, it offers superior quality at a premium price. For users looking for a more down-to-earth price point, QLED TV models offer great picture quality at a lower cost and are a major competitor for OLED models.
@@ -212,3 +257,47 @@ Lifewire / Emily Isaacs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-ten-cost-free-virtual-chat-solutions-for-teams/"><u>[New] In 2024, Top Ten Cost-Free Virtual Chat Solutions for Teams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>[Updated] 2024 Approved  Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-art-of-cross-platform-content-sharing/"><u>[Updated] 2024 Approved  The Art of Cross-Platform Content Sharing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-deciphering-finances-how-much-do-youtubers-earn-per-ad/"><u>[Updated] Deciphering Finances  How Much Do YouTubers Earn Per Ad?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-discovering-win11s-finest-screen-grabbers-for-2024/"><u>[Updated] Discovering Win11's Finest Screen Grabbers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-gamescreen-unleashed-2024-edition/"><u>[Updated] GameScreen Unleashed  2024 Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-smooth-path-from-instagram-visuals-to-mp3-sound/"><u>[Updated] Smooth Path  From Instagram Visuals to Mp3 Sound</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/alternatives-to-vlc-revealed-in-detailed-review/"><u>Alternatives to VLC Revealed in Detailed Review</u></a></li>
+<li><a href="https://win-forum.techidaily.com/corrective-techniques-remedying-the-error-preventing-app-from-running-on-your-pc/"><u>Corrective Techniques: Remedying the Error Preventing App From Running on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-innovative-ways-to-personalize-windows-11-search/"><u>Five Innovative Ways to Personalize Windows 11 Search</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hisense-40-inch-40h5590f-led-smart-television-evaluation-affordable-quality-for-your-home/"><u>Hisense 40-Inch 40H5590F LED Smart Television Evaluation - Affordable Quality for Your Home</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y36i-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y36i for Free? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/premier-asmr-software-for-iphone-and-android-for-2024/"><u>Premier ASMR Software for iPhone & Android for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rtx-2060-super-graphics-card-drivers-free-download-for-microsofts-windows-11/"><u>RTX 2060 Super Graphics Card Drivers [Free Download] for Microsoft's Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/storage-solutions/"><u>Storage Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-top-rated-iphone-13-pro-protective-covers/"><u>The Ultimate Selection: Top-Rated iPhone 13 Pro Protective Covers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gaming-switch-controllers/"><u>Top Rated Gaming Switch Controllers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-projector-screens-a-comprehensive-guide/"><u>Top Rated Projector Screens : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranking-samsung-mobile-devices/"><u>Top-Ranking Samsung Mobile Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-apple-watch-ultra-straps-the-perfect-fit/"><u>Top-Rated Apple Watch Ultra Straps : The Perfect Fit!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gaming-keyboards-for-gamers-the-definitive-list/"><u>Top-Rated Gaming Keyboards for Gamers : The Definitive List</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-household-safety-solutions/"><u>Top-Rated Household Safety Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-indoor-and-outdoor-air-purifiers-improving-your-health/"><u>Top-Rated Indoor & Outdoor Air Purifiers: Improving Your Health</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-intelligent-notepads-a-comprehensive-guide/"><u>Top-Rated Intelligent Notepads : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-laptops-ideal-for-university-scholars/"><u>Top-Rated Laptops Ideal for University Scholars</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-magsafe-chargers-and-power-banks/"><u>Top-Rated MagSafe Chargers & Power Banks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-portable-gaming-computers-a-comprehensive-guide/"><u>Top-Rated Portable Gaming Computers : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-protective-covers-for-google-pixel-6-pro/"><u>Top-Rated Protective Covers for Google Pixel 6 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-smart-bathroom-weighing-devices/"><u>Top-Rated Smart Bathroom Weighing Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-soldering-irons-find-your-perfect-match/"><u>Top-Rated Soldering Irons: Find Your Perfect Match</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-travel-friendly-speakers-a-comprehensive-guide/"><u>Top-Rated Travel-Friendly Speakers : A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-t2-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo T2 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-choosing-the-ideal-surge-protector-for-home-and-office-in-2-surveys-highlighting-their-superiority-in-performance-and-value-for-customers-see13/"><u>Ultimate Guide: Choosing the Ideal Surge Protector for Home & Office in 2 Surveys, Highlighting Their Superiority in Performance and Value for Customers Seeking Protection Against Voltage Spikes.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-durable-and-stylish-google-pixel-phone-sleeves-for-2nce-2023-edition/"><u>Ultimate Selection: Durable & Stylish Google Pixel Phone Sleeves for 2Nce - 2023 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-leading-compact-projection-units-of-2024-revealed/"><u>Ultimate Selection: Leading Compact Projection Units of 2024 Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreezing-deadlocks-fixing-windows-semaphore-expired-error/"><u>Unfreezing Deadlocks: Fixing Windows' 'Semaphore Expired' Error</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unraveling-video-opposites-a-comprehensible-guide-for-instavids/"><u>Unraveling Video Opposites  A Comprehensible Guide for InstaVids</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/warner-yates-prairie-nature-center/"><u>Warner Yates Prairie Nature Center</u></a></li>
+</ul></div>

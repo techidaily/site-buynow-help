@@ -1,7 +1,7 @@
 ---
 title: Why the Lack of Achievements on The Switch Could Be a Positive Thing
-date: 2024-08-31T12:13:42.720Z
-updated: 2024-09-01T12:13:42.720Z
+date: 2024-09-04T16:15:09.612Z
+updated: 2024-09-05T16:15:09.612Z
 tags:
   - games
   - tv
@@ -28,8 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now, the first thing everyone says to this is "you can just [disable the notifications](https://extra-skills.techidaily.com/2024-approved-mastering-high-dynamic-range-with-image-curving/)", but the way that Xbox and PlayStation achievements are designed means they are always in sight at some point. They clutter up the screen when you're browsing your games, litter your profile page, and try to get your eyes on them wherever possible. If Nintendo implemented a truly optional achievement system, I'd be less fussed about it, but their competition only offers half-measures, and that's not good enough for me. My Switch is currently the only place where I can play video games and only have to think about the game itself.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Achievements Can Make Gaming Worse
 
@@ -38,22 +40,42 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Likewise, game developers who design their games with achievements in mind have a [perverse incentive](https://en.wikipedia.org/wiki/Perverse%5Fincentive) to use achievements to drive engagement, or stuff the game with filler to push up play time numbers, or even maximize the chances that players will use [microtransactions](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/). Since achievements can be used to influence player behavior, it's possible to use them in ways that aren't great for players in terms of enjoyment.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Individual Switch Games Have Their Own Achievement Systems
 
 ![The box art for Fire Emblem Engage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/b5827e3b.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Switch/dp/B0BF1W7K23/ref=sr%5F1%5F1%5Fsspa?crid=14DNO0YJ12XXC&keywords=fire+emblem+engage&qid=1674073683&sprefix=fire+emblem+engage%2Caps%2C522&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaM1cxNDBNMjBTSDcmZW5jcnlwdGVkSWQ9QTA2MzM3NjkxQjRIWFVaRUxNVU1LJmVuY3J5cHRlZEFkSWQ9QTA4MDc2NjYxWFU2Q0FCRkRHVDdLJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)_
 
  In light of the lack of achievements on the Switch, some developers have simply opted to build their own achievements into their games. For example, in Fire Emblem Engage there's an achievement list within the game to keep track of your progress. Even better, you get in-game currency when you unlock an achievement, so they are more than just window dressing. This isn't rare either, as this [list of Switch games with in-game achievements](https://www.reddit.com/r/NintendoSwitch/comments/xl00ju/list%5Fof%5Fswitch%5Fgames%5Fwith%5Fingame%5Fachievements%5Fin/) from Reddit shows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Switch 2 Simply Doesn’t Need Them to Succeed
 

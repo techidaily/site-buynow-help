@@ -1,7 +1,7 @@
 ---
 title: "Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools"
-date: 2024-08-31T12:14:54.881Z
-updated: 2024-09-01T12:14:54.881Z
+date: 2024-09-04T16:15:10.858Z
+updated: 2024-09-05T16:15:10.858Z
 tags:
   - games
   - tv
@@ -42,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![Various emulators detected and installed directly on Steam through Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240803_095604.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You do have some control over which emulators are installed, however. I'd recommend only choosing the ones designed for the platforms that you actually want to use, since there are lots of options. Adding more emulators at a later date is as simple as opening up the EmuDeck app in Desktop Mode and selecting the ones that you're missing. It's easy!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Before Getting Started With EmuDeck
 
  The requirements for running EmuDeck are pretty minimal, as you can technically do everything with just the handheld, but this would not be ideal. I'd recommend getting a [USB-C flash drive to move files from a PC to the system](https://buynow-marvelous.techidaily.com/top-insights-from-experts-unveiling-the-benefits-of-using-the-fitbit-charge-6-user-testimonials-and-opinions/), since downloading things on the Deck directly can be cumbersome.
@@ -61,12 +61,24 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  Confirm that you want to run it and the installer will download the necessary files, and then install. From here you can follow the on-screen instructions to configure EmuDeck to your liking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Adding Emulated Games to Your Steam Library
 
  My favorite EmuDeck feature is the ability to add emulated games directly to the Steam Library, complete with their respective box art. This means that instead of opening up an emulator manually and loading ROMs or ISO files, you can boot into games directly from your library like you would any other game.
 
 ![PS2 games in the Steam Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-4.jfif) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It is, of course, up to you to make sure that you're staying on the right side of the law when it comes to emulated games. Assuming you're aware of the law, adding ROMs is fairly simple. EmuDeck has an automatic system to detect ROMs from a USB-C flash drive, but I'd recommend doing it manually to be safe.
 
  When it comes to sourcing ROMs and game files, [make sure you understand the legal ramifications of emulation](https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-13-mini-by-drfone-ios/). It is highly recommended that you purchase games through legal means and dump the files yourself to play on your emulator.
@@ -82,21 +94,42 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![The ROM Manager application in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Click the "Add Games" button in the bottom left corner to see a list of all the games you've added as long as you put them in the right folder.
 
 ![The Parsers menu in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/parsers2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you have selected all of your desired games, select "Save to Steam" and the program should automatically parse all your installed games directly to your Steam library.
 
 ![The Emudeck ROM manager adding games to Steam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Multiplayer, Quality of Life Features, and Easy Expansion
 
@@ -104,9 +137,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![Two people holding controllers playing a video game together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2019/11/3973a927.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 Shutterstock/REDPIXEL.PL
 
  If you're playing something with multiplayer options, you can connect multiple Bluetooth controllers and play with your friends. You may have to switch on certain settings, such as the "Multitap" option for more than two players in PCSX2, but the integration is fairly seamless.
@@ -115,9 +145,6 @@ Shutterstock/REDPIXEL.PL
 
  EmuDeck is also easy to expand and adding new games is as simple as dropping the files into the proper emulation folder and letting the program do the rest for you. You can add new emulators and update current ones automatically through the EmuDeck application in Desktop Mode without much hassle with just an internet connection.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Add Retro Achievement Support (Optional)
 
  EmuDeck is also compatible with RetroArch, which supports integration with [RetroAchievements](https://retroachievements.org), a project that adds achievements to retro games so you can show off your progress. RetroArch should come automatically installed with EmuDeck, but you may need to [add it to your Steam library as a Non-Steam game](https://ai-voice-clone.techidaily.com/chrome-video-translators-top-5-video-translation-chrome-extensions/) to run it in Desktop Mode.

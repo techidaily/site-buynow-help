@@ -1,7 +1,7 @@
 ---
 title: "Top Recommended Keyboards : Your Ultimate Guide"
-date: 2024-08-31T12:11:40.975Z
-updated: 2024-09-01T12:11:40.975Z
+date: 2024-09-04T16:15:07.162Z
+updated: 2024-09-05T16:15:07.162Z
 tags:
   - buying-guides
 categories:
@@ -78,15 +78,18 @@ Best Mac Keyboard
 
 ## 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Best Keyboard Overall: [Keychron Q6](https://www.amazon.com/Keychron-Mechanical-Programmable-Hot-swappable-Compatible/dp/B09MMXSFR2?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Keychron-Mechanical-Programmable-Hot-swappable-Compatible/dp/B09MMXSFR2?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
 
 [![Keychron Q6 closeup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Keychron-Q6.jpg) Keychron](https://www.amazon.com/Keychron-Mechanical-Programmable-Hot-swappable-Compatible/dp/B09MMXSFR2?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [](https://www.amazon.com/Keychron-Mechanical-Programmable-Hot-swappable-Compatible/dp/B09MMXSFR2?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                                      | Cons                                      |
@@ -116,7 +119,10 @@ Best Mac Keyboard
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Keyboard Overall
 
@@ -133,7 +139,10 @@ The Keychron Q6 is a brilliant custom mechanical keyboard that comes preassemble
 [![Logitech MK270 on desk with mouse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/best-keyboards-logitech-combo.jpg) Logitech](https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [](https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
@@ -153,6 +162,12 @@ The Keychron Q6 is a brilliant custom mechanical keyboard that comes preassemble
 
 ![logitch mk270](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/logitch-mk270.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best Budget Keyboard
@@ -165,6 +180,18 @@ Looking to save some money? You can grab Logitech's basic keyboard and mouse com
 
 [$26 at Amazon](https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) [Walmart](https://www.walmart.com/ip/Logitech-Wireless-Keyboard-Mouse-Combo-Windows-2-4-GHz-Wireless-Compact-Mouse-8-Multimedia-Shortcut-Keys-2-Year-Battery-Life-PC-Laptop/605403536) 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Wired Gaming Keyboard: [Wooting 60HE](https://next.wooting.io/wooting-60he) 
 
 [](https://next.wooting.io/wooting-60he)
@@ -172,7 +199,16 @@ Looking to save some money? You can grab Logitech's basic keyboard and mouse com
 [![Wooting 60HE graphic](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Wooting-60HE.jpg) Wooting](https://next.wooting.io/wooting-60he)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [](https://next.wooting.io/wooting-60he) 
 
@@ -200,11 +236,20 @@ Looking to save some money? You can grab Logitech's basic keyboard and mouse com
 
 ![wooting 60HE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/wooting-60he.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Best Wired Gaming Keyboard
 
 #####  Wooting 60HE
@@ -217,9 +262,6 @@ The Wooting 60HE is the best gaming keyboard on the market thanks to its analog 
 
 ![Logitech G915 TKL keyboard sitting on a rock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Logitech-G915-TKL-keyboard-sitting-on-a-rock.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 _Eric Schoon / How-To Geek_
 
 | Pros                                          | Cons             |
@@ -238,14 +280,8 @@ _Eric Schoon / How-To Geek_
 
 ![Logitech G915](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/logitech-g915.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 Best Wireless Gaming Keyboard
 
 #####  Logitech G915 TKL
@@ -256,12 +292,27 @@ Wireless is always nice, and the G915 TKL pushes the boundaries of what a wirele
 
 [See at logitechg](https://www.logitechg.com/en-us/products/gaming-keyboards/g915-low-profile-wireless-mechanical-gaming-keyboard.html) [$170 at Amazon](http://www.amazon.com/dp/B085RFFC9Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flogitech__g915_light%2F6414195.p%3FskuId%3D6414195) [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Faccessories-and-software%2Fkeyboards-and-mice%2Fkeyboards%2F78101501) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Bluetooth Keyboard: [Logitech K380 Bluetooth Keyboard](https://www.amazon.com/Logitech-K380-Multi-Device-Bluetooth-Keyboard/dp/B0148NPH9I?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
 ![Logitech K380 Feature (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/logitech-k380-feature-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The Logitech K380 on a white desk.
 
@@ -296,6 +347,18 @@ If you can live with its small size, the Logitech K380 is a great Bluetooth keyb
 
 ![ERGO Feature (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/ergo-feature-1.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The Logitech K860 on a wooden desk.
 
 | Pros                                    | Cons                                               |
@@ -313,14 +376,8 @@ The Logitech K860 on a wooden desk.
 
 ![Logitech ERGO K860](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/logitech-ergo-k860.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Best Ergonomic Keyboard
 
 #####  Logitech Ergo K860 Wireless Ergonomic Keyboard
@@ -329,9 +386,6 @@ The Logitech ERGO K860 is a highly adjustable, features a split keyframe design,
   
 [$130 at Amazon](https://www.amazon.com/Logitech-Wireless-Ergonomic-Keyboard-Wrist/dp/B07ZWK2TQT?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best TKL (Tenkeyless) Keyboard: [Logitech G915 TKL](https://www.amazon.com/Logitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC/dp/B085RFFC9Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Logitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC/dp/B085RFFC9Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
@@ -339,7 +393,10 @@ The Logitech ERGO K860 is a highly adjustable, features a split keyframe design,
 [![Logitech TKL on black and blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/best-keyboards-logitech-tkl.jpg) Logitech](https://www.amazon.com/Logitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC/dp/B085RFFC9Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [](https://www.amazon.com/Logitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC/dp/B085RFFC9Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
@@ -362,8 +419,20 @@ The Logitech ERGO K860 is a highly adjustable, features a split keyframe design,
 
 ![Logitech G915](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/logitech-g915.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best TKL Keyboard
 
 #####  Logitech G915 TKL
@@ -380,6 +449,12 @@ Looking to save a little space on your desk, but don't want to give up too many 
 
 [![Wooting 60HE graphic](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Wooting-60HE.jpg) Wooting](https://next.wooting.io/wooting-60he)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [](https://next.wooting.io/wooting-60he) 
 
 | Pros                                                                 | Cons     |
@@ -403,13 +478,19 @@ Looking to save a little space on your desk, but don't want to give up too many 
 
 ![wooting 60HE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/wooting-60he.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best 60% Keyboard
 
@@ -419,9 +500,6 @@ Aside from being the best gaming keyboard around, the Wooting 60HE is also an im
 
 [See at Wooting](https://next.wooting.io/wooting-60he) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Best Mac Keyboard: [Apple Magic Keyboard](https://www.amazon.com/Apple-Magic-Keyboard-English-Silver/dp/B09BRDXB7N?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Apple-Magic-Keyboard-English-Silver/dp/B09BRDXB7N?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
@@ -449,13 +527,24 @@ Aside from being the best gaming keyboard around, the Wooting 60HE is also an im
 ![Apple Magic Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-magic-keyboard.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Mac Keyboard
 
@@ -467,13 +556,22 @@ If you're a Mac user, you will probably want to stick with Apple accessories, an
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### What is the keyboard shortcut for undo?
 
  The keyboard shortcut for undo is "Ctrl + Z."
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do I switch browser tabs using a keyboard?
 
  To cycle forward through opened tabs in your browser, hit "Ctrl + Shift." To go one tab back, press "Ctrl + Shift + Tab."
@@ -483,7 +581,10 @@ If you're a Mac user, you will probably want to stick with Apple accessories, an
  Note that when you hit "Ctrl + 9" you won't land on the ninth tab to the left but on the rightmost tab opened in your browser, no matter how many opened tabs you have.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How do I turn on keyboard backlights?
 
@@ -502,6 +603,12 @@ If you're a Mac user, you will probably want to stick with Apple accessories, an
 * 60% layout: 61 keys
 * 40% keyboards: 45-50 keys
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do I clean my keyboard?
 
  If your keyboard has removable keycaps, you can remove and wash them while cleaning the rest of the body with a microfiber cloth.

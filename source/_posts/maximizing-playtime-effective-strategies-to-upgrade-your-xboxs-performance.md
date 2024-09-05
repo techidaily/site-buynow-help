@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Playtime: Effective Strategies to Upgrade Your Xbox's Performance"
-date: 2024-08-31T12:14:15.641Z
-updated: 2024-09-01T12:14:15.641Z
+date: 2024-09-04T16:15:10.142Z
+updated: 2024-09-05T16:15:10.142Z
 tags:
   - games
   - tv
@@ -50,6 +50,12 @@ Jordan Gloor / How-To Geek
 
 ![Xbox dashboard showing connected storage devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbox_storage_devices.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It’s still a good idea to have an external drive connected to your Xbox, but we’d recommend using such a drive as “cold storage” and swapping files to the internal storage as you need them. This will almost always be faster than downloading a game from the internet, even if you also need to update the game before it can be played.
 
  You can [move games to and from your external Xbox drive](https://sim-unlock.techidaily.com/sim-unlock-oppo-a1x-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) using the “My games & apps” library, or via the Settings > Storage menu. You can also purchase additional fast storage in the form of [Xbox expansion cards](https://www.xbox.com/en-US/accessories/hard-drives/seagate-expansion-card). These start at $89 for 512GB with 1TB and 2TB options available.
@@ -65,7 +71,10 @@ Jordan Gloor / How-To Geek
 ![Selecting "High Frame Rate" mode in Hardspace: Shipbreaker on the Xbox Series X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbox_performance_mode.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you want a game to look its absolute best, regardless of frame rate, pick quality mode. Be careful about toggling between the two. It can be very jarring to move from 30 frames to 60 frames and back again. Many games require a restart to switch modes, which can help mask this transition.
 
@@ -76,7 +85,10 @@ Jordan Gloor / How-To Geek
  For some, prioritizing frame rate is an absolute must, regardless of what’s being played. We’ve moved past the “30 frames will have to do” era of the Xbox 360 and PlayStation 4, with more and more titles now shipping with a performance option and a 60 frames-per-second (or even 120 frames-per-second) option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Make Sure VRR, 120Hz, and HDR are Enabled
 
@@ -85,7 +97,10 @@ Jordan Gloor / How-To Geek
 ![Xbox dashboard "TV details" interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbox_tv_details.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Even in performance mode, dips in frame rate are possible. Variable refresh rate technology can help smooth over these dips and eliminate screen tearing by adjusting your display refresh rate to match the game frame rate. Not all televisions and monitors will support VRR, but it’s safe to say that most new displays do.
 
@@ -95,15 +110,21 @@ Jordan Gloor / How-To Geek
 
 ![Xbox dashboard showing available video modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbox_video_modes.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, high dynamic range (HDR) gaming is one of the highlights of the console generation. If you have a display that supports HDR10 or Dolby Vision, you can enable both of these modes under Settings > General > TV & display options > Video modes.
 
  Other settings that you might want to set include “Allow auto low-latency mode” to on, “Allow YCC 4:2:2” to off (unless you have trouble getting a video signal to display without it), and “Auto HDR” to on (to [play in HDR mode even in older titles that don’t support it](https://extra-information.techidaily.com/new-apple-music-and-video-harmony-explained/)).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Clean Your Console for Best Airflow
 
@@ -113,14 +134,6 @@ Jordan Gloor / How-To Geek
 
 ![Xbox series X on a table next to a monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/xbox-series-x.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  Intakes require far more attention than exhaust vents since they can easily get clogged up.
@@ -133,6 +146,18 @@ Corbin Davenport / How-To Geek
 
 ![Xbox power options menu showing the "Restart console" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbox_restart_console.PNG) 
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Restarting can help solve issues with crashing, network connectivity, and other wonky behavior. You should also take care to responsibly shut your console down (using Settings > General > Power options > Shut-down now) if you’re going to be unplugging it from mains power.
 
 ---

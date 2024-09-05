@@ -1,7 +1,7 @@
 ---
 title: "Cutting Down on Expenses: How to Maintain Affordable Online Entertainment Budgets"
-date: 2024-08-31T12:13:53.519Z
-updated: 2024-09-01T12:13:53.519Z
+date: 2024-09-04T16:15:09.787Z
+updated: 2024-09-05T16:15:09.787Z
 tags:
   - games
   - tv
@@ -43,6 +43,12 @@ Jordan Gloor / How-To Geek
 
  Don’t want to sit through ads? Rest assured, there are some ways to watch free movies and shows with no advertising. That brings me to what I consider to be one of the best-kept secrets in streaming.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Stream Free Movies With a Library Card
 
 ![Screenshot of the homepage on Kanopy's website on a desktop computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/kanopy-homepage.png) 
@@ -56,12 +62,27 @@ Jordan Gloor / How-To Geek
 ![Screenshot of the homepage for Hoopla's website on a desktop computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/hoopla-homepage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The second app that allows you to stream free movies without ads is called Hoopla. They have a similar setup where you log in with a library account. A neat thing about Hoopla is they also offer audiobooks, comic books, and music that you can “borrow” through their app. Similar to Kanopy’s tickets, you get an allowance of borrows that resets each month, depending on your library.
 
  Hoopla also offers BingePasses, which are week-long periods to access additional streaming services like CuriosityStream and Hallmark Movies Now. You can easily [see if your library participates with Hoopla](http://www.hoopladigital.com/register).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Rotate Streaming Services
 
  Another way I keep my streaming service bills in check is by rotating my streaming services. Seriously, you don’t need to sign up for everything at once.
@@ -70,6 +91,12 @@ Jordan Gloor / How-To Geek
 
  For sports fans, this is particularly useful as you can subscribe to a live TV streaming service during a sports season and then cancel during the off-season. That’s something you wouldn’t be able to do with a cable service that has a long-term contract.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Take Advantage of Streaming Deals
 
  Almost every major streaming service offers promotional discounts at least once a year. The best time to look out for deals is Black Friday, but Prime Day, the start of the NFL season, and National Streaming Day (May 20th) are good times to look for deals, too. For the past few years, I've signed up for streaming services like Peacock and Hulu on Black Friday and have gotten some really steep savings.
@@ -84,9 +111,6 @@ Jordan Gloor / How-To Geek
 * **Cellular providers:** Customers for companies like Verizon and T-Mobile can get discounts (or even free memberships) on streaming services like The Disney Bundle and Apple TV+.
 * **Annual plans:** Some streaming services offer discounts if pay for an entire year upfront instead of getting billed monthly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Streaming Service Bundles
 
 ![The Disney Bundle promotional page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/799bad5a-5.jpg) 
@@ -102,14 +126,26 @@ Disney
 * **Verizon Bundles**: Verizon customers can get various streaming deals, including a bundle with Netflix and Max for $10/month (both are the ad-supported plans).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Watch Free Local Channels With an Antenna
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
@@ -117,16 +153,10 @@ Corbin Davenport / How-To Geek
 
  With an antenna, I get dozens of local channels like CBS, FOX, ABC, and NBC, all without paying anything. For comparison, the cheapest live TV streaming service to include the big four broadcasters is YouTube TV, which costs $73 a month. Plus, with an over-the-air DVR like the ones from Tablo and AirTV. I've been able to record shows and cast them on other devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Refer Friends and Get Bill Credits
 
 ![Screenshot of a form on Fubo's website where you can invite friends to get $30 off your bill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/fubo-refer-a-friend.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  If you subscribe to certain live TV services like YouTube TV or Fubo, you can save some money by referring friends and family. If you share your referral code with someone else and they enter it when checking out, you’ll both get a bill credit. So it’s a win-win! I've gotten some huge discounts on YouTube TV this way.
 
 ---

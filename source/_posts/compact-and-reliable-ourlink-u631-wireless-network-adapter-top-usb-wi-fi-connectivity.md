@@ -1,7 +1,7 @@
 ---
 title: Compact & Reliable Ourlink U631 Wireless Network Adapter - Top USB Wi-Fi Connectivity
-date: 2024-08-09T00:38:44.039Z
-updated: 2024-08-10T00:38:44.039Z
+date: 2024-09-04T16:09:05.405Z
+updated: 2024-09-05T16:09:05.405Z
 categories:
   - BestProducts
 description: This Article Describes Compact & Reliable Ourlink U631 Wireless Network Adapter - Top USB Wi-Fi Connectivity
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/rzeWMKdlKlTLfQDQfgYzktZqxBQ=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sabrent Mini Travel USB Optical Mouse
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/NHk2GXtdpeJT9sEET7cl5b3Coq0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_HeroSquare-6ae9d6d299054d748f84492b5c31f033.jpg)
@@ -66,6 +63,12 @@ Lifewire / Rebecca Isaacs
 
  Working on the go can prove difficult on a laptop, especially when you need to work on heavy-hitting projects requiring precision. Travel mice, or portable computer mice that can be packed and unpacked on the go, can alleviate much of the proverbial headache of working on PC-heavy tasks. For those who prefer their mouse have a cable, the Sabrent fits the bill. Using high definition precision technology, the tiny, three-year-old mouse is designed for those who want convenience and extreme precision in their work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Basic**
 
  The Sabrent was not designed for heavy gaming in mind; its design is so tiny at 3.2 x 1.5 inches (LW) that it fits into the cup of your palm with some room to spare. Unlike gaming mice, which can be complex, with a plethora of buttons/features, the all-black, 1.5-ounce mouse only has three buttons: the left (main) button, the wheel, and the right button. While this might turn off many users, in reality, it turns out to be of huge benefit. Thanks to its simplicity, ambidextrous users will appreciate its ability to swap between dominant hands.
@@ -76,21 +79,42 @@ Lifewire / Rebecca Isaacs
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/E-UHv94vEiLyLkgwTG1qIFE6uvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_04-76e4b475ca3f4449a746c22f3713f784.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
  The cable’s addition increases the size of the mouse, bringing the total measurements to 6.44 x 1.5x 2.44 inches (LWH). The Sabrent also comes with a mesh carrying bag, making it easy to pack up and take on the go without scratching it. One more perk: this mouse is adaptable to most[Windows](https://www.lifewire.com/windows-4781566) ,[Mac](https://www.lifewire.com/mac-backup-software-hardware-and-guides-2260931) , and[Linux](https://www.lifewire.com/software-and-apps-4781541) systems, so you can insert it into USB ports across multiple machines for fast use.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: Plug and play**
 
  Setting up the Sabrent proved simple and convenient. Expanding the cable and plugging it into the PC’s USB port allows the Sabrent to self-install. In under less than a minute, the plug and play features kick in. If you need to alter it to suit ambidextrous needs, you’ll need to head into the control panel of your PC to make the swap. Those requiring left-handed features will need to alter it. Once the software quickly installs, and you’re able to begin scrolling in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/mM3uSf3Y2pyayDyWJzP8_5uUya4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_05-04e025144b514674b109e77f79129d74.jpg)
 
  Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance: Precise, but mildly problematic**
 
  The Sabrent boasts that it’s a high precision mini mouse, and in that regard, we have to agree. While 1200 dpi is minimal in comparison to some of the other heavy-hitting mice on the market, this mouse wasn’t designed to be used as a gaming mouse—it was designed in mind that you could take it and pack it on the go and get the job done.
@@ -108,30 +132,35 @@ Lifewire / Rebecca Isaacs
  The cable length left something to be desired in a work PC, however. At 25 inches, it sounds like a dream come true, however, testing it on a standing desk where the PC tower is located further away from the keyboard and mouse we realized there was a problem. The length cable prevented us from shifting our grip on the mouse, and the tugging was a frustrating physical constraint. Laptop users won’t even notice the cable, but PC users may want to look for something a little more wireless.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Comfort: Too small**
 
  Because the mouse is so tiny, and barely fit into the palm of our hand, we constantly had to adjust our fingers to compensate for its size. Granted, we used the mouse for up to eight hours at a time in testing, and our muscles didn’t tire out and hands didn’t cramp, which was a testament to the ergonomic design. However, constantly having to shift our grip to press buttons and scroll was mildly annoying, especially when we were deeply engaged in work.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/h8ibsbPtDqgJOD0XgpZSD6FOXUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_02-1331828bbc3f460baebd85cbd24d61e2.jpg)
 
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Reasonable**
 
  At around $7, this is a great budget mouse. Essentially, the cost is for basic mouse features, and not for anything heavier or more taxing on a PC. If you’re looking for a travel mouse with more features, then expect to spend more. However, if accomplishing work tasks is solely your task then this is the perfect price point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **Sabrent Mini Travel Mouse vs. VicTsing Wireless Mouse**
 
  Because the mouse is so tiny, we also tested the[VicTsing Wireless Mouse](https://www.lifewire.com/victsing-wireless-mouse-review-4799129) (view on[Amazon](https://www.amazon.com/VicTsing-Wireless-Portable-Receiver-Adjustable/dp/B013WC0P2A/?tag=lifewire-onsite-prod-20&ascsubtag=4799034%7Cn6493c6f4bf4b471ba05fab7dd162554120%7C) ) to get a feel as to which mouse is the better option for a portable, travel mouse. The answer turned out to be more complicated: whereas the Sabrent was more ideal for ambidextrous travel, the VicTsing Wireless Mouse was geared more for right-handed users who prefer adjustable and wireless features.
@@ -146,9 +175,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  While we constantly had to shift our grip on the tiny Sabrent mouse, we really liked its portability and fast, accurate movements. The cable proved to be difficult for desktop use, however, laptop users will enjoy the speeds that accompany the wired cable.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Mini Travel USB Optical Mouse
@@ -176,3 +202,39 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-the-future-of-content-navigating-video-landscapes-on-fb-for-2024/"><u>[New] The Future of Content  Navigating Video Landscapes on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-growth-on-a-dime-attracting-sponsors-with-simplicity/"><u>[Updated] 2024 Approved  Channel Growth on a Dime  Attracting Sponsors with Simplicity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-captivating-music-reaction-videos-top-10-tips/"><u>[Updated] 2024 Approved  How to Create Captivating Music Reaction Videos - Top 10 Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-become-an-expert-in-real-time-streaming-on-facebook-platform-for-2024/"><u>[Updated] Become an Expert in Real-Time Streaming on Facebook Platform for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-optimizing-living-area-for-oculus-virtual-reality-for-2024/"><u>[Updated] Optimizing Living Area for Oculus Virtual Reality for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-video-and-photography-harnessing-the-power-of-hero5-black/"><u>[Updated] Pro Video & Photography  Harnessing the Power of Hero5 Black</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-surveying-the-lack-of-diversity-s-vr-realm/"><u>2024 Approved  Surveying the Lack of Diversity 'S VR Realm</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-travel-blogging-essentials-step-by-step-path-to-success/"><u>2024 Approved  Travel Blogging Essentials  Step-by-Step Path to Success</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-updated-corsair-icue-utility-for-gaming-pcs-running-windows-1110/"><u>Download & Install the Updated Corsair iCUE Utility for Gaming PCs Running Windows 11/10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-hoverair-x1-a-revolutionary-autonomous-photography-uav/"><u>Exploring the Features of HoverAir X1: A Revolutionary Autonomous Photography UAV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-idea-to-execution-creating-a-game-using-chatgpts-assistance-the-full-story/"><u>From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-resolving-the-issue-of-missing-texts-on-your-android-smartphone/"><u>Guide: Resolving the Issue of Missing Texts on Your Android Smartphone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-spotify-uses-artificer-intelligence-to-create-personalized-listening-experiences-when-discover-falls-short/"><u>How Spotify Uses Artificer Intelligence to Create Personalized Listening Experiences When Discover Falls Short</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immerse-in-stories-on-the-go-with-spotifys-competitively-priced-audiobook-plan-for-only-9eby/"><u>Immerse in Stories on the Go with Spotify's Competitively Priced Audiobook Plan for Only $9.eby</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/improving-the-digital-storefront-enhancing-the-switch-online-shop/"><u>Improving the Digital Storefront: Enhancing The Switch Online Shop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/master-the-art-of-digital-dueling-the-ultimate-reasons-to-engage-in-online-fighting-games-today/"><u>Master the Art of Digital Dueling: The Ultimate Reasons to Engage in Online Fighting Games Today</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-playtime-effective-strategies-to-upgrade-your-xboxs-performance/"><u>Maximizing Playtime: Effective Strategies to Upgrade Your Xbox's Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-value-5-strategies-for-unlocking-the-full-potential-of-owning-a-peacock/"><u>Maximizing Value: 5 Strategies for Unlocking the Full Potential of Owning a Peacock</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-safely-around-second-hand-nintendo-switch-account-listings-online/"><u>Navigating Safely Around Second-Hand Nintendo Switch Account Listings Online</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-era-of-inflated-gaming-ratings-a-guide-to-discovering-quality-titles/"><u>Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/new-android-tv-14-unveils-enhanced-picture-in-picture-feature/"><u>New Android TV 14 Unveils Enhanced Picture-in-Picture Feature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-evaluation-the-ultimate-gamers-choice-for-sony-pulse-wireless-earbuds-and-real-time-sound/"><u>Professional Evaluation: The Ultimate Gamers' Choice for Sony Pulse Wireless Earbuds and Real-Time Sound</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-streaming-olympic-aquatic-competitions/"><u>Step-by-Step Guide: Streaming Olympic Aquatic Competitions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stop-youtube-from-taking-over-your-apple-tv-and-android-tv-wallpaper-a-simple-guide/"><u>Stop YouTube From Taking Over Your Apple TV & Android TV Wallpaper: A Simple Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-advantages-of-digital-comics-over-printed-versions/"><u>The Advantages of Digital Comics Over Printed Versions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-end-of-the-era-for-ubiquitous-touch-buttons-in-product-design/"><u>The End of the Era for Ubiquitous Touch Buttons in Product Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-powers-not-delegated-to-the-united-states-by-the-constitution-nor-prohibited-by-it-to-the-states-are-reserved-to-the-states-respectively-or-to-the-peopl32/"><u>The Powers Not Delegated to the United States by the Constitution, nor Prohibited by It to the States, Are Reserved to the States Respectively, or to the People.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-truth-about-pokemon-microsd-cards-what-not-to-invest-in/"><u>The Truth About Pokemon MicroSD Cards - What Not to Invest In!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-converting-printed-textbooks-to-e-books-in-just-three-steps/"><u>The Ultimate Guide: Converting Printed Textbooks to E-Books in Just Three Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-10-unmissable-xbox-series-xs-titles-from-the-xbox-one-library/"><u>Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performing-gopro-cameras-a-comprehensive-review/"><u>Top Performing GoPro Cameras - A Comprehensive Review</u></a></li>
+</ul></div>

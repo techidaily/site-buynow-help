@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2024-08-31T12:14:59.707Z
-updated: 2024-09-01T12:14:59.707Z
+date: 2024-09-04T16:15:10.944Z
+updated: 2024-09-05T16:15:10.944Z
 tags:
   - games
   - tv
@@ -40,7 +40,10 @@ Cianna Garrison / How-To Geek
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Things Get Complicated With Newer AAA Games
 
@@ -51,8 +54,10 @@ Cianna Garrison / How-To Geek
 ![A screenshot of a virtual Corvette driving in a race from the game "Forza Horizon 5."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-01-172430.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
@@ -81,14 +86,26 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy an 8GB GPU in 2024?
 

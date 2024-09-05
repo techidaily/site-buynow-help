@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Converting Printed Textbooks to E-Books in Just Three Steps"
-date: 2024-08-31T12:14:29.220Z
-updated: 2024-09-01T12:14:29.220Z
+date: 2024-09-04T16:15:10.376Z
+updated: 2024-09-05T16:15:10.376Z
 tags:
   - games
   - tv
@@ -30,7 +30,16 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
  We're not in a position to offer legal advice, and it's always your responsibility to check the laws where you live. However, the doctrine of Fair Use in the US generally allows you to make copies of media that you own for personal use. Fair Use is, however, complicated, and scanning an entire book might make it less likely to qualify as Fair Use. However, if it's strictly for your personal use, does not affect the market for that book, and you don't distribute it illegally, you should be fine. Digitization specialists Digital Library Vision have a fantastic deep-dive into the [legal aspects of scanning books](https://www.libraryvision.org/digitization/book-scanning-legality/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Non-Destructive Scanning With an App
 
@@ -39,21 +48,36 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
  These scanning apps have features that let you de-skew, color correct, and clean up your book scans so they look good on a screen. That being said, how many people still own flatbed scanners? Chances are you're much better off using your phone's camera and the right app to digitize your books. Especially if you only have a small handful to process. You can use something like the [Adobe Scanner app](https://www.adobe.com/acrobat/mobile/scanner-app.html) which has a [specialized book mode](https://www.adobe.com/acrobat/hub/scan-digitize-textbooks.html) that lets you quickly make a PDF with automatically processed pages from a book.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Destructive Scanning by Removing the Book’s Binding
 
  If you have a book that's already falling apart, or you don't mind undoing its binding, then the optimal solution is to scan each separated page using a flatbed scanner. This can be time-consuming, but if it's a book with lots of illustrations or artwork, this might actually be the best way. This is also more likely to be the way to go for really old books right before you send them to be bound properly again.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Buying a Specialized Non-Destructive Book Scanner
 
 ![CZUR Aura Pro Portable Book Scanner](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/czur.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 CZUR
 

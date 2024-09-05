@@ -1,7 +1,7 @@
 ---
 title: Why You Might Reconsider the Necessity of Investing in Your Own Arcade Game Console
-date: 2024-08-31T12:14:43.075Z
-updated: 2024-09-01T12:14:43.075Z
+date: 2024-09-04T16:15:10.665Z
+updated: 2024-09-05T16:15:10.665Z
 tags:
   - games
   - tv
@@ -37,15 +37,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I make reference to "JAMMA" boards below, and while it's not super-important information, you'll want to know that this is short for "Japan Amusement Machine and Marketing Association" and describes a wiring standard for arcade cabinets. Hence, a game on a JAMMA circuit board will work with a JAMMA arcade cabinet. This is the most common standard you'll encounter with both classic arcade cabinets and modern remakes.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Finding Good Boards Is Getting Harder (Does It Matter?)
 
 ![A MisterCade JAMMA Kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/mistercade.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Mister
 
@@ -62,8 +67,10 @@ Mister
  You can, of course, also roll your own by running something like [MAME](https://fox-hovers.techidaily.com/2024-approved-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/) on a Raspberry Pi. There are plenty of [Raspberry Pi arcade projects](https://medium.com/swlh/how-to-build-a-raspberry-pi-arcade-machine-3de4df2894c6) to find online, but again, this is for casual fans because the emulation won't satisfy purists. If it were me, unless my editors graciously bought me a MisterCade to review (hint-hint!) I'd probably buy something like the Arcade Legends systems, and just accept that emulation will never be perfect.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  DIY Cabs Are Too Hard (But, Not Really?)
 
@@ -72,7 +79,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  The good news is that there's often a local company that will either build these kits for you, or make ones to your specifications,and then ship them a short distance to your door. Whether you actually live close enough to one of these outfits to make use of this depends on where you live, but I guess if I had no other choice, spending an afternoon assembling a kit isn't the worst way to spend your time.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Maybe I’ll Just Buy an Arcade Stick (But It’s Just Not the Same)
 
@@ -85,7 +95,10 @@ _HORI_
  That sounds sensible, and you can pack it all away when you're not playing. Still, it feels like it defeats the point of having a dedicated arcade system. It's like having a Chess board set up somewhere. You can just walk up to it and start playing with no friction. If you have friends over, people could just come and go as they felt like it, playing when the mood takes them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  I Have Too Much Gaming Stuff Already (But Cabinets Are Cool)
 
@@ -98,7 +111,10 @@ _HORI_
  Well, I guess just _one_ more gaming thing can't hurt. Except maybe in the wallet area.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  It’ll Be My Most Expensive Game (But Also My Coolest)
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Observing the Spectacular Lyrid Meteor Display
-date: 2024-08-31T12:12:53.633Z
-updated: 2024-09-01T12:12:53.633Z
+date: 2024-09-04T16:15:08.866Z
+updated: 2024-09-05T16:15:08.866Z
 tags:
   - games
   - tv
@@ -28,7 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  While January to March offers some of the darkest skies for stargazing in the Northern Hemisphere, it's when meteor showers are at their quietest. That's why we're really excited about the upcoming Lyrid meteor shower. Let's look at what it is, how you can see it, and how to capture it on camera.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What and Where Is the Lyrid Meteor Shower?
 
@@ -37,14 +40,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Our planet passes through Thatcher's trail once a year in April. More specifically, it lasts from April 14-30, peaking on the night of April 22-23\. The Lyra constellation is best viewable in Northern-Hemisphere skies, and the Lyrid meteor shower's radiant point is far north on the sky's dome. While you might see some meteors if you're in Cape Town or Canberra, you're more likely to appreciate its spectacle in Montreal, Memphis, and Manchester.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Watch the Lyrid Meteor Shower
 
 ![The Cygnus constellation, with Deneb and Albireo highlighted, and the Lyra constellation, with Vega highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cygnus-constellation-2711349.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 BBC Sky at Night
 
@@ -61,7 +70,16 @@ BBC Sky at Night
  The biggest final obstacles to shooting star success are things you can't control. First, the moon will be in its waxing gibbous phase as the meteor shower hits its peak (the full moon is on April 24th), so you can expect some unwanted light to obscure your view of the faintest meteors. Try to plan your time between the setting of the moon and the rising of the sun (between 5 am and 6 am on April 23rd) for the darkest skies. Second, clouds—the biggest thorn in any stargazer's side. But remember, all things being well, you'll catch some shooting stars at some point between April 14-30 if you find the right conditions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Photograph the Lyrid Meteor Shower
 

@@ -1,7 +1,7 @@
 ---
 title: "Wastelands II - The Director's Cut Version Critique: An Engaging Strategy and Adventure Game"
-date: 2024-08-09T00:38:46.355Z
-updated: 2024-08-10T00:38:46.355Z
+date: 2024-09-04T16:12:59.657Z
+updated: 2024-09-05T16:12:59.657Z
 categories:
   - BestProducts
 description: "This Article Describes Wastelands II - The Director's Cut Version Critique: An Engaging Strategy and Adventure Game"
@@ -68,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
  With over 250 million players, Fortnite’s Battle Royale is a third-person shooter that has taken the world by storm—and for good reason. Its vibrant colors, memorable animations, and constant updates serve to keep gameplay fresh for returning players, but remain stable enough so as not to disrupt new players’ experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fortnite Battle Royale](https://www.lifewire.com/thmb/Z5kydB0kP2A67yJxqmRGCP6KuT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fortnite_BattleRoyale_StandardMode_04-f788a639837845a9aead0db474cbc72d.jpg)
 
  Lifewire / Emily Isaacs
@@ -86,7 +83,10 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
  Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Gameplay: Simple for easy pick up and play**
 
@@ -98,24 +98,21 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
  The storm is an ever-encroaching threat that closes over set intervals and deals damage that increases over time to players trapped within its boundaries, forcing everyone closer together as the safe zone shrinks. The last team standing will claim the Victory Royale for themselves.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: Good, campy fun**
 
  Fortnite’s graphics are campy, oversaturated, and brightly-colored fun making them a treat to look at. Unlike competitors such as PUBG or Apex Legends, Fortnite’s graphics trade realism for cartoonish, exaggerated features. When combined with the emotes and skins earned throughout the game, these can create some very entertaining in-game visuals.
 
  It’s worth noting that DirectX 12 support is officially here for PC users, which means that people playing on higher quality graphics cards should see a more consistent gameplay experience thanks to an increased and more stable frame rate. If your system is older, you can play on reduced settings, but it does make the picture choppy and difficult to follow. It’ll get the job done, but we wouldn’t recommend it.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fortnite Battle Royale](https://www.lifewire.com/thmb/1EGFvaMlK-nV8KKnng7WcI-X7iI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fortnite_BattleRoyale_StandardMode_03-aff88589c9a04d05a9663f5a75975706.jpg)
 
  Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Building Mechanics: Build, build and build some more**
 
@@ -125,6 +122,12 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
  For the more casual player, these building controls can be found on the keyboard, but binding the building keys to unused mouse buttons can quickly become an asset on the battlefield where every second counts. A seamless defense can be the difference between victory and defeat.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Seasons: The down and dirty on the Battle Pass**
 
  The seasonal Battle Pass system offers rewards to players as they gain experience in the game, a change from the previous system Chapter 1 used which relied on leveling up through Battle Stars earned from Weekly Challenges. The shift to experience-based leveling feels much more intuitive. And honestly, it’s fun to watch the experience bar increase during the match, although it’d be better if you could toggle its presence to collapse or display in the HUD.
@@ -137,10 +140,25 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
 ![Fortnite Battle Royale](https://www.lifewire.com/thmb/Ock_qOb167XfWuEIuPpuFC0DpUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fortnite_Battle-Royale_Standard-Mode_05-95fe04b07a934bdbbcf8ae58496c736c.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Modes: Limited-time and alternative game modes for variety**
 
@@ -150,13 +168,22 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
  If you love earning a variety of rewards, are intrigued by building mechanics, or just appreciate a casual game you can pick up and play, Fortnite’s Battle Royale is the clear winner.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Free to play**
 
  The only decision players need to make is whether or not they want to pick up the Battle Pass, which retails for 950 V-Bucks ($9.50). Otherwise,[Fortnite Battle Royale](https://www.lifewire.com/game-play-and-streaming-4781449) is free and available on almost every major platform: PC/Mac, Xbox One, PS4, iOS, Android, and Nintendo Switch. What’s better—cross-platform gameplay is also supported, so you can pick up and play with friends anywhere, anytime.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Apex Legends vs. Fortnite Battle Royale**
 
  Battle royale games have seen a lot of shake-up in the field lately, with the latest challenger arriving in February 2019 thanks to Respawn Entertainment’s[Apex Legends](https://www.ea.com/games/apex-legends) . Apex Legends is a first-person shooter meets battle royale game where 60 players are dropped onto a map competing with squads of three for domination.
@@ -175,9 +202,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
  Fortnite has taken the world by storm, and with over 250 million players worldwide, it’s easy to see why it’s so beloved. If you’re a fan of campy fun, vibrant graphics, third-person shooters, or battle royale games, Fortnite’s Battle Royale is well worth a look—and best of all, it is free to play. Combined with Epic Games’ continuous ability to reinvent Fortnite season after season, Fortnite Battle Royale a sure-fire winner in our books.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Fortnite Battle Royale
@@ -205,3 +229,39 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-youtube-presence-with-custom-animated-subscription-buttons-in-filmora/"><u>[New] 2024 Approved  Elevate Your YouTube Presence with Custom Animated Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-open-worlds-you-cant-ignore/"><u>[New] 2024 Approved  Essential Open Worlds You Can't Ignore</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-chromesnap-tracker-os-level-recording-for-2024/"><u>[New] ChromeSnap Tracker  OS Level Recording for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-analyzing-the-significance-of-instagrams-selfie-verification/"><u>[Updated] In 2024, Analyzing the Significance of Instagram's Selfie Verification</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-gopro-vs-polaroid-cube-choosing-your-editing-companion/"><u>[Updated] In 2024, GoPro Vs. Polaroid Cube  Choosing Your Editing Companion</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-instagram-follower-dilemrancy-guide/"><u>[Updated] In 2024, The Instagram Follower Dilemrancy Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-top-10-no-cost-streaming-services-like-netflix/"><u>Discover Top 10 No-Cost Streaming Services Like Netflix</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/engaging-eyes-most-favored-insta-filters/"><u>Engaging Eyes  Most Favored Insta Filters</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-methods-for-livestreaming-sporting-action-successfully/"><u>Essential Methods for Livestreaming Sporting Action Successfully</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huaweis-mediapad-m5-an-expert-look-at-its-stunning-visuals-and-rich-audio/"><u>Huawei's MediaPad M5: An Expert Look at Its Stunning Visuals and Rich Audio</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-kobo-nia-the-new-force-to-reckon-with-for-amazon-kindle-users/"><u>In-Depth Analysis of the Kobo Nia - The New Force to Reckon With for Amazon Kindle Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-nokia-71s-stellar-screen-and-camera-performance-with-wallet-friendly-pricing/"><u>In-Depth Look: Nokia 7.1'S Stellar Screen and Camera Performance with Wallet-Friendly Pricing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-fitbit-charge-3-a-continued-winner-in-wearable-tech-reviews/"><u>Is the Fitbit Charge 3 a Continued Winner in Wearable Tech Reviews?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kensun-tire-inflator-assessment-durable-trustworthy-and-easy-to-carry/"><u>Kensun Tire Inflator Assessment: Durable, Trustworthy & Easy-to-Carry</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-home-meteorological-devices-reviewed-2024-edition/"><u>Leading Home Meteorological Devices Reviewed: 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maisto-rc-rock-crawler-evaluation-perfect-family-entertainment-in-a-remote-control-car-package/"><u>Maisto RC Rock Crawler Evaluation: Perfect Family Entertainment in a Remote Control Car Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-elegance-with-technology-inside-look-at-the-michael-kors-access-gen-5e-collection/"><u>Mastering Elegance with Technology: Inside Look at the Michael Kors Access Gen 5E Collection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-gaming-with-the-asus-rt-ac88u-is-this-router-a-game-changer-or-just-hype/"><u>Mastering Gaming with the Asus RT-AC88U – Is This Router a Game-Changer or Just Hype?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-art-of-gaming-computers-inside-look-at-the-corsair-one-pro/"><u>Mastering the Art of Gaming Computers - Inside Look at the Corsair One Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-features-of-mobvoi-ticwatch-pro-3-the-impacts-of-dual-displays-on-gps-precision-and-battery-longevity/"><u>Navigating the Features of Mobvoi TicWatch Pro 3 - The Impacts of Dual Displays on GPS Precision and Battery Longevity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-skies-with-style-the-ultimate-guide-to-the-blade-e-flite-mcxn-rtf-copter-review/"><u>Navigating the Skies with Style: The Ultimate Guide to the Blade E-Flite mCXn RTF Copter Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revealing-the-eccentricities-of-sony-walkman-ws623/"><u>Revealing The Eccentricities of Sony Walkman WS623</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-home-showdown-comparing-the-features-pros-and-cons-of-ring-and-nest-doorbells/"><u>Smart Home Showdown: Comparing the Features, Pros & Cons of Ring and Nest Doorbells</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-home-showdown-evaluating-features-of-ring-vs-nest-doorbells/"><u>Smart Home Showdown: Evaluating Features of Ring vs Nest Doorbells</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sml385btbk-singing-machine-karaoke-unit-user-friendly-vibrant-and-instantly-ready-for-fun/"><u>SML385BTBK Singing Machine Karaoke Unit: User-Friendly, Vibrant & Instantly Ready for Fun</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-verdict-on-hewlett-packards-value-driven-amd-laptop-an-expert-performance-analysis/"><u>The Verdict on Hewlett-Packard's Value-Driven AMD Laptop: An Expert Performance Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performers-comprehensive-guide-to-using-the-halo-bolt-portable-chargerjump-starter/"><u>Top Performers: Comprehensive Guide to Using the Halo Bolt Portable Charger/Jump Starter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-phone-shops-where-to-find-the-perfect-device/"><u>Top Rated Phone Shops: Where to Find the Perfect Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-rca-video-doorbell-camera-delivers-superior-security-quality/"><u>Top Review of RCA Video Doorbell Camera - Delivers Superior Security Quality</u></a></li>
+<li><a href="https://facebook.techidaily.com/track-and-field-teams-abolish-internet-reliance/"><u>Track and Field Teams Abolish Internet Reliance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725286495197-winxvideo-ai/"><u>WinxVideo AI：如何利用人工智能技術進行螢幕錄製及網路直播</u></a></li>
+</ul></div>

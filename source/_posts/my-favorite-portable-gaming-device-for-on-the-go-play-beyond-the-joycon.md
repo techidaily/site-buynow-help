@@ -1,7 +1,7 @@
 ---
 title: "My Favorite Portable Gaming Device for On-the-Go Play: Beyond the JoyCon"
-date: 2024-08-31T12:15:11.037Z
-updated: 2024-09-01T12:15:11.037Z
+date: 2024-09-04T16:15:11.136Z
+updated: 2024-09-05T16:15:11.136Z
 tags:
   - games
   - tv
@@ -32,15 +32,15 @@ Tim Rattray / How-To Geek
  Playdate is also noteworthy for its game distribution model. Every console comes with 24 games, doled out at a pace of two per week. These span the gamut of game genres, from puzzlers to RPGs to high-score chasers. Some were created by famous developers such as Bennett Foddy and Zack Gage exclusively for Playdate. Options beyond this "season one" collection include Panic's curated catalogue of games for purchase—the highest profile of which being Lucas Pope's _Mars After Midnight_—and [sideloading games](https://tech-haven.techidaily.com/navigating-nuance-the-human-advantage-over-bots/) following support through [the Playdate website](https://help.play.date/games/sideloading/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  This Charming Device Invites You to Play
 
 ![Playdate with cases and box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/htg-playdate-feature-header.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 Tim Rattray / How-To Geek
 
  It's hard not to notice a Playdate when one's in your eyeline, as the striking yellow casing (or an equally colorful protective case) pops off any desk. It's such an visual draw that some people even use it as a clock, a use-case for which Panic has announced [a forthcoming dock](https://play.date/stereo-dock/). But more importantly, the Playdate screams "carefree fun" before you even pick it up, which in turn entices you to play with it.
@@ -50,12 +50,27 @@ Tim Rattray / How-To Geek
  It's also noteworthy that unlike the bright screens we often spend much of our day starting at, the Playdate's screen isn't backlit. It's akin to reading on an [e-ink Kindle](https://facebook-video-files.techidaily.com/updated-the-key-to-captivating-audiences-crafting-fb-slideshows/), except you get to game instead. Thus, a quick Playdate session becomes a respite for the eyes.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Games Are Satisfying in Quick Bursts
 
 ![Playdate playing 'Under the Castle.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/playdate-with-under-the-castle.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Rattray / How-To Geek
 
  Of course, what matters most are the games. Whereas most Switch titles are console-ready experiences that ask for prolonged attention, many of Playdate's best games are built to provide substantive gameplay in bite-sized sessions. This could be minigames like _Whitewater Wipeout_ and _Root Bear_, which require deft manipulation of the crank to net high scores, or roguelikes like _Under the Castle_, where a quick dungeon run contributes to broader progression. Because developers approach Playdate with this quick-hit design philosophy in mind, the hardware and software harmoniously synchronize when used in this manner.
@@ -66,13 +81,16 @@ Tim Rattray / How-To Geek
 
  Also worth noting is that you can easily both sideload and buy games through your computer's web browser, which automatically download to your Playdate. This means that the quick game you intend to play will likely be waiting for you next time you grab the handheld. This fuss-free functionality ensures your quick session is spent playing instead of waiting for an install. It's a feature found on most modern hardware but is nonetheless critical to the Playdate's pick-up-and-play sensibility.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Longer Experiences Are Also Available
 
 ![Playdate and box on platform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/playdate-and-box-on-platform.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 Tim Rattray / How-To Geek
 
  Playdate also has its fair share of bulkier experiences. If, like me, your fond Game Boy memories involve cuddling up in a chair with your bulky handheld in tow, Playdate has you covered (and without the bulk). _Saturday Edition_, _Casual Birder_, and _Ratcheteer_ are examples of games bundled with the system that reward players who immerse themselves in their strange worlds. These may have more complex counterparts on the Switch, but there's no substitute for their idiosyncratic attitude. These games don't need to appeal to a mass market to find traction, and while this is not a selling point on its own merits, it does enable them to be refreshingly different.
@@ -80,15 +98,20 @@ Tim Rattray / How-To Geek
  You can even "dock" a Playdate via USB-C into your computer using Panic's [Mirror](https://play.date/mirror/) app. Beyond the benefit of a bigger screen for longer sessions, it also allows you to use your [controller of choice](https://hardware-reviews.techidaily.com/unlocking-the-potential-of-computer-components-with-toms-gear-guides/). However, some games work better than others depending on if and how they use the crank, and it runs counter to the true charm of using the Playdate as a handheld.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  We Need to Talk About the Crank
 
  No discussion of the Playdate is complete without remarking on its trademark feature: the crank. This pops out of a nook in the side of the device and is utilized by most games in some capacity. It's transformative at its best, be it adjusting a camera lens or operating it like a beer tap. The clever ways in which developers utilize the crank are endlessly surprising and provide an experience unavailable on any other console. Plus, it's hard to go wrong with the fun-factor of turning a crank.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Is The Playdate Right for You?
 

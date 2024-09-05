@@ -1,7 +1,7 @@
 ---
 title: Score the Ultimate Savings with Roku Specials This Prime Day
-date: 2024-08-09T00:38:46.741Z
-updated: 2024-08-10T00:38:46.741Z
+date: 2024-09-04T16:13:38.340Z
+updated: 2024-09-05T16:13:38.340Z
 categories:
   - BestProducts
 description: This Article Describes Score the Ultimate Savings with Roku Specials This Prime Day
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/LvLoQ9-K0KJwUj-Ozbt9jQn-RNk=/400x300/fi
 
 ## Apple Watch Series 9 GPS + Cellular 45mm
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple Watch Series 9 (front).](https://www.lifewire.com/thmb/WFGRUAsDxA0krS7sPX6WGqtdVbQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSeries9front-649521c98f4d421cad652d5c0d1230a4.jpg)
 
 Apple
@@ -72,7 +69,16 @@ Lifewire/Molly McLaughlin
 [How to Set Up Apple Watch](https://www.lifewire.com/set-up-apple-watch-4589317)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Pricing and What's New
 
@@ -82,6 +88,12 @@ Lifewire/Molly McLaughlin
 
 ![Apple Watch Series 9 on a desk next to its charger.](https://www.lifewire.com/thmb/fnvFdlUB4ml_QaA-kIP14u1pQsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_withcharger-11e49fb444df404b834b2127b3ebcab0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire/Molly McLaughlin
 
  The display has double the brightness of the Series 8 and comes in a new pink color.
@@ -97,17 +109,23 @@ Lifewire/Molly McLaughlin
 [How to Ping Your iPhone From Your Apple Watch](https://www.lifewire.com/ping-iphone-from-apple-watch-7570320)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Theater Mode
 
  One of my favorite features is Theater Mode, which prevents the screen from lighting up when you glance at it or receive a notification. It's perfect for the movies and theater, of course, but it also came in handy when I was recently on jury duty during the trial and needed to keep distractions to a minimum.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Apple Watch Theater Mode screen.](https://www.lifewire.com/thmb/q170D6_ERklcCxR3P_p6t13HV5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_theatermodeoffon-953887b5d6f547c1b334d7912aa139ac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It turns on silent mode and makes your Walkie-Talkie status unavailable, but you'll receive haptic notifications.  
 
 [Smart Watches & Wearables](https://www.lifewire.com/theater-mode-on-apple-watch-5115897)
@@ -119,7 +137,16 @@ Lifewire/Molly McLaughlin
  In my experience, the watch was quick to pause when I stopped at traffic lights and resume once I started moving again. (This is also helpful if you forget to end a workout.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Who Should Buy It?
 
@@ -136,7 +163,10 @@ Lifewire/Molly McLaughlin
 [Smart Watches & Wearables](https://www.lifewire.com/how-to-use-apple-watch-4584460)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -160,3 +190,46 @@ Lifewire/Molly McLaughlin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-elevate-your-video-content-with-effective-unboxing-tactics/"><u>[New] Elevate Your Video Content with Effective Unboxing Tactics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-iphones-hdr-a-photography-essential-for-2024/"><u>[New] Mastering iPhone's HDR  A Photography Essential for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-a-compreayers-guide-to-batched-video-downloads-from-tiktok/"><u>[New] Unlocking the Potential  A Compreayer's Guide to Batched Video Downloads From TikTok</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-your-digital-footprint-with-effective-fb-page-management/"><u>[Updated] In 2024, Elevate Your Digital Footprint with Effective FB Page Management</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-savor-the-spectacle-best-practices-for-cooking-channel-titling/"><u>2024 Approved  Savor the Spectacle  Best Practices for Cooking Channel Titling</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-top-notch-wrist-rest-reviews-for-enhanced-typing-comfort/"><u>2024'S Top-Notch Wrist Rest Reviews for Enhanced Typing Comfort</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-pioneers-portable-bdr-xs06-blu-ray-burner-functionality-meets-ease-of-use/"><u>A Closer Look at Pioneer's Portable BDR-XS06 Blu-Ray Burner: Functionality Meets Ease of Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aquatic-leisure-devices-for-sunbathing/"><u>Aquatic Leisure Devices for Sunbathing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-wifi-routers-with-built-in-parental-controls-for-protecting-kids-online-2024-edition/"><u>Best WiFi Routers with Built-In Parental Controls for Protecting Kids Online - 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smart-speaker-a-thorough-comparison-of-googles-nest-audio-and-nest-mini/"><u>Choosing Your Smart Speaker: A Thorough Comparison of Google's Nest Audio and Nest Mini</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-and-free-downloads-for-epson-et-2750-drivers-on-windows-devices/"><u>Complete Guide and Free Downloads for Epson ET-2750 Drivers on Windows Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-aukey-usb-30-hub-assessment-a-stylish-and-functional-tech-accessory/"><u>Comprehensive Aukey USB 3.0 Hub Assessment: A Stylish and Functional Tech Accessory</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-insights-into-the-powerhouse-that-is-samsungs-gear-s3-frontier-a-multi-featured-wrist-companion/"><u>Comprehensive Insights Into the Powerhouse that Is Samsung's Gear S3 Frontier – A Multi-Featured Wrist Companion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/critique-of-the-remastered-adventure-how-ratchet-and-clank-evolves-yet-stays-true-to-its-roots/"><u>Critique of the Remastered Adventure – How Ratchet & Clank Evolves Yet Stays True to Its Roots</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/crucial-considerations-for-choosing-the-right-unlocked-smartphone/"><u>Crucial Considerations for Choosing the Right Unlocked Smartphone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cybersecurity-threats-how-ai-contributes-to-crime-in-5-ways/"><u>Cybersecurity Threats: How AI Contributes to Crime in 5 Ways</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-ntoskrnlexe-leading-to-bsod-in-windows-systems/"><u>Effective Solutions for 'ntoskrnl.exe' Leading to BSOD in Windows Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/email-wars-unraveling-the-benefits-of-outlook-and-gmail-for-your-usage/"><u>Email Wars: Unraveling the Benefits of Outlook and Gmail for Your Usage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-byb-e430-a-top-tier-led-swing-aram-lamplight-experience/"><u>Evaluating the BYB E430 - A Top-Tier LED Swing Aram Lamplight Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bypassing-youtube-previews-the-invisible-button-hack/"><u>In 2024, Bypassing YouTube Previews  The Invisible Button Hack</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-essential-techniques-for-effective-srt-file-creation/"><u>In 2024, Essential Techniques for Effective SRT File Creation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oneplus-12r-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My OnePlus 12R Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-apple-watch-series-4-an-enhanced-masterpiece/"><u>In-Depth Analysis of the Apple Watch Series 4: An Enhanced Masterpiece</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-how-chromeos-fuels-the-pixel-slate-mayhem/"><u>Inside Look: How ChromeOS Fuels the Pixel Slate Mayhem</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-home-networks-a-detailed-look-at-netgears-tri-band-nighthawk-x6-ac3200-for-efficient-household-usage/"><u>Mastering Home Networks: A Detailed Look at Netgear's Tri-Band Nighthawk X6 AC3200 for Efficient Household Usage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/"><u>Misinterpretation of Gram Staining Results Can Lead to Incorrect Identification, Affecting Treatment Decisions in Clinical Settings.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigate-web-and-stream-your-favorites-on-a-budget-lenovo-tab-m10-hd-2020-unveiled/"><u>Navigate Web & Stream Your Favorites on a Budget: Lenovo Tab M10 HD (2020) Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-plants-vs-zombies-battle-for-neighborville-a-hilarious-action-packed-adventure/"><u>Review of 'Plants Vs. Zombies: Battle for Neighborville' - A Hilarious, Action-Packed Adventure</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/romers-energy-efficient-flashlight-unmatched-brightness-for-camping-and-emergencies/"><u>Romer's Energy-Efficient Flashlight: Unmatched Brightness for Camping and Emergencies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smooth-transition-to-a-cloud-ready-photography-experience/"><u>Smooth Transition to a Cloud-Ready Photography Experience!</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-error-non-compliant-windows-generic-audio-problems/"><u>Stop Error: Non-Compliant Windows Generic Audio Problems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ideal-iphone-selection-for-enthusiastic-gamers-in-2nd/"><u>The Ideal iPhone Selection for Enthusiastic Gamers in 2nD</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-premier-guide-to-outstanding-smartwatches/"><u>The Premier Guide to Outstanding Smartwatches</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-blaze-2-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Blaze 2 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-notch-features-on-a-shoestring-inside-the-zte-blade-a3y-budget-phone-review/"><u>Top-Notch Features on a Shoestring: Inside the ZTE Blade A3Y Budget Phone Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-havit-5-fan-cooler-for-gamers-comprehensive-overview/"><u>Top-Rated HAVIT 5 Fan Cooler for Gamers - Comprehensive Overview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unbeatable-car-boost-in-depth-review-of-the-1000a-m-mooc-jump-starter-with-a-giant-18k-mah-battery/"><u>Unbeatable Car Boost: In-Depth Review of the 1000A M MOOC Jump Starter with a Giant 18K mAh Battery!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-xiaomi-14-ultra-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Xiaomi 14 Ultra.</u></a></li>
+</ul></div>

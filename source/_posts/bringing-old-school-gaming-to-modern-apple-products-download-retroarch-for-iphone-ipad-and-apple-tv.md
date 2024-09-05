@@ -1,7 +1,7 @@
 ---
 title: "Bringing Old-School Gaming to Modern Apple Products: Download RetroArch for iPhone, iPad & Apple TV!"
-date: 2024-08-31T12:12:37.558Z
-updated: 2024-09-01T12:12:37.558Z
+date: 2024-09-04T16:15:08.593Z
+updated: 2024-09-05T16:15:08.593Z
 tags:
   - games
   - tv
@@ -91,5 +91,8 @@ Step aside, no-name emulation apps. RetroArch is now available on iPhone, iPad, 
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers"
-date: 2024-08-31T12:15:25.319Z
-updated: 2024-09-01T12:15:25.319Z
+date: 2024-09-04T16:15:11.368Z
+updated: 2024-09-05T16:15:11.368Z
 tags:
   - games
   - tv
@@ -42,7 +42,16 @@ Ismar Hrnjicevic / How-To Geek
  Controllers offer a more ergonomic alternative. Your fingers wrap naturally around them, moving freely, especially the [Xbox Elite controllers](https://youtube-clips.techidaily.com/the-rise-and-challenges-of-video-streaming-profits/) and their [game-changing back buttons](https://some-skills.techidaily.com/the-best-ai-naming-assistants-for-podcast-innovation-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2  Controllers Are Better for My Preferred Game Genres 
 
@@ -56,9 +65,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  Don't get me wrong, I've spent countless hours enjoying RTS games like _Warcraft 3_ and _Starcraft 2_ with a keyboard and mouse. I understand their strengths for certain genres. However, with the decline of RTS games and my waning interest in FPS titles, I find controllers better suited for the types of games I enjoy most these days.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## 3  A Poor Choice for Emulation 
 
  While I'm not the greatest fan of [emulators](https://some-guidance.techidaily.com/new-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/), I know many who are and they unanimously vote against the use of keyboards and mice for emulated games.
@@ -67,9 +73,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  If you're interested in emulation, there are various [gamepads better suited for different types of emulated systems](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-by-drfone-ios/). That said, most emulators allow you to remap buttons, so you can adapt a single gamepad to mimic different controller layouts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 4  A Lack of Vibration Feedback 
 
  Let's talk about something that keyboard and mouse setups sorely lack: [vibration feedback](https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/). If your keyboard or mouse is vibrating, you might want to get that checked out. And if it's battery-powered and vibrating, maybe step away slowly—we don't want any surprise fireworks!
@@ -81,12 +84,21 @@ Dibakar Ghosh / How-To Geek | Midjourney
  This is to say nothing of the modern haptic feedback seen on the PS5 DualSense controller with its adaptive triggers, and the rumble feedback that Xbox Core controllers feature in the triggers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5  Not Ideal for Local Co-op or PvP 
 
 ![illustration of two people awkwardly trying to share a single keyboard and mouse setup for gaming.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/illustration-of-two-people-awkwardly-trying-to-share-a-single-keyboard-and-mouse-setup-for-gaming.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  As a fan of hosting gaming sessions, I've found keyboard and mouse setups to be a real party pooper for [local co-op](https://facebook-videos.techidaily.com/updated-earnings-expertise-for-youtube-creators-fb-insights-and-tactics/) or PvP. I mean, how do you even make that work?
@@ -97,6 +109,12 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  I've experienced this first-hand with _EA Sports FC 24_, my current go-to game for local multiplayer. But it translates to other titles like _Street Fighter_, _It Takes Two_, or _Overcooked_. Trust me, you don't want to play _Overcooked_ with one person on a gamepad and another fumbling with a keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6  I’m Tied to My Desk 
 
  Picture this: I've spent hours sitting at my desk, working away. When it's finally time to unwind with some games, I'm faced with the prospect of either staying in that exact same spot or going somewhere else. My life can’t start and end at a desk.
@@ -113,12 +131,27 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  By associating gaming with a gamepad and keeping it out of sight during work hours, I created just enough friction to resist sneaking into quick gaming sessions when work got challenging. I established a clear boundary: work mode is a keyboard and mouse, and play mode is a gamepad. It's simple, effective, and [keeps me disciplined](https://extra-information.techidaily.com/the-insiders-guide-to-captivating-youtube-headlines/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8  Because I Love My Keyboard and Mouse 
 
 ![Image of Keyboard and Mouse of a Deskpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/image-of-keyboard-and-mouse-of-a-deskpad.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Ismar Hrnjicevic / How-To Geek  
 
@@ -128,9 +161,6 @@ Ismar Hrnjicevic / How-To Geek
 
  My [current mechanical keyboard has hot-swappable](https://facebook-record-videos.techidaily.com/streamlining-visual-storytelling-with-youtube-videos-for-2024/) switches, so technically, if a key falters, I can pull it out and replace it. However, considering this and all the above points, it’s just more convenient to have a dedicated gamepad for gaming while preserving my keyboard and mouse for work.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9  A Spare Keyboard and Mouse Will Take Up Too Much Desk Space 
 
  Before you write in the comments, “Dude, just use a separate keyboard and mouse for gaming,” well, I tried that. My first attempt was to install a keyboard tray under my desk. It didn't work out—the tray restricted leg movement, which is a no-go for someone with [restless leg syndrome](https://www.mayoclinic.org/diseases-conditions/restless-legs-syndrome/symptoms-causes/syc-20377168).

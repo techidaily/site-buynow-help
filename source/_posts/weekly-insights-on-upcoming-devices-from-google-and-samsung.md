@@ -1,7 +1,7 @@
 ---
 title: Weekly Insights on Upcoming Devices From Google & Samsung
-date: 2024-08-31T12:14:41.876Z
-updated: 2024-09-01T12:14:41.876Z
+date: 2024-09-04T16:15:10.644Z
+updated: 2024-09-05T16:15:10.644Z
 tags:
   - games
   - tv
@@ -21,39 +21,60 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
  The Steam games client now has a built-in background screen recorder, and it even works on the Steam Deck.
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Valve
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
@@ -67,22 +88,25 @@ Valve
 Motorola
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Other Stuff
 
  The European Union [announced its preliminary view](https://www.macrumors.com/2024/06/24/eu-accuses-apple-violating-dma-rules/) earlier this week that Apple is violating the Digital Markets Act (DMA), by charging fees for developers publishing apps outside the App Store and other anti-competitive practices. Apple was required to [open up iPhones in the EU](https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/) earlier this year to allow third-party app stores (or “digital marketplaces”), but iPhones in other parts of the world remain locked down.

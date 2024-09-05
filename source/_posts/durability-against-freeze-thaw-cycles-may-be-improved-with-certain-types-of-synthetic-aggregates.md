@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2024-08-31T12:14:03.799Z
-updated: 2024-09-01T12:14:03.799Z
+date: 2024-09-04T16:15:09.959Z
+updated: 2024-09-05T16:15:09.959Z
 tags:
   - games
   - tv
@@ -94,6 +94,12 @@ Jerome Thomas / How-To Geek
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
@@ -114,13 +120,16 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -132,7 +141,10 @@ Jerome Thomas / How-To Geek
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Battery Life
 
@@ -141,22 +153,25 @@ Jerome Thomas / How-To Geek
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Anker Nebula Capsule 3](https://us.seenebula.com/products/capsule-3-projectors-d2425) projector offers a lot of capabilities packed inside a palmable-sized canister. In my use, it performed about as well as I expected it to. It’s not quite the watch-anywhere device it might seem like from its promotional material, simply because its brightness can’t handle lighter areas.
@@ -166,7 +181,10 @@ Jerome Thomas / How-To Geek
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Anker Nebula Capsule 3 Mini Projector
 

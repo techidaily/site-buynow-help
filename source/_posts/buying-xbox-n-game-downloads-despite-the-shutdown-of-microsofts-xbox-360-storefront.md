@@ -1,7 +1,7 @@
 ---
 title: Buying Xbox N Game Downloads Despite the Shutdown of Microsoft's Xbox 360 Storefront
-date: 2024-08-31T12:14:48.987Z
-updated: 2024-09-01T12:14:48.987Z
+date: 2024-09-04T16:15:10.748Z
+updated: 2024-09-05T16:15:10.748Z
 tags:
   - games
   - tv
@@ -44,7 +44,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It's also worth noting that all three digital storefronts also sell downloadable content for backward-compatible titles. If you missed out on any paid expansion packs or free DLC, you can still get them from these stores. However, any games and downloadable content packs that were delisted from the Xbox 360 store or were never made backward compatible won't be available on these platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Download Digital Games on the Xbox 360
 
@@ -53,21 +56,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The settings page of the Xbox 360 dashboard with "Account" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-settings.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  This will open the Account Management menu. From here, scroll down and select "Download History" under the "Your Billing Options" menu.
 
 ![The Xbox 360 Account Management screen with "Download History" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-account.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Your download history will provide a complete list of every game or demo you have purchased that works on an Xbox 360\. At the top of this list will be your most recent purchases, which is where you'll find the digital games you have bought from the other Xbox storefronts. Select the title you wish to download onto the console, then select "Download Again." This will begin the download process.
 
 ![The download screen for BattleBlock Theater on the Xbox 360, with "Download Again" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-digital-download.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once your game is finished downloading, you can finally play it on your Xbox 360.
 

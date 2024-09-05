@@ -1,7 +1,7 @@
 ---
 title: "The Essential Companion for Runners: A Detailed Review of the Garmin Forerunner 45"
-date: 2024-08-09T00:38:43.810Z
-updated: 2024-08-10T00:38:43.810Z
+date: 2024-09-04T16:08:42.187Z
+updated: 2024-09-05T16:08:42.187Z
 categories:
   - BestProducts
 description: "This Article Describes The Essential Companion for Runners: A Detailed Review of the Garmin Forerunner 45"
@@ -62,7 +62,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Plot: Lots of options**
 
@@ -70,15 +73,15 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
  As for a real plotline, there isn’t really one—the only kind of plot in the game is the objective to colonize Mars. There are challenges which you can do if you’re feeling particularly adventurous, which is nice, but they’re not a real plotline, and only serve to give you a different angle to colonizing the planet.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
 
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Performance: Humans have never been so annoying**
 
@@ -94,6 +97,12 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
  The colonists also come with their own unique personality traits, from veganism to survivalist to alcoholic, so they all have their own service needs. You’ll have to factor this into your game as you build up your population. If someone doesn’t get their needs met, it can land them in the hospital, or worse, on a rocket back home. And don’t get me started on the chaos that erupts when humans start freezing during a cold spell or complain when they don’t have enough oxygen. The nerve of some colonists!
@@ -113,17 +122,23 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Surviving Mars](https://www.lifewire.com/thmb/xyO7-tOzWWRT_ffxzC7TaIMOwH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_03-9d30e99e7a0b4364bc86c4b40dfc99bf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
 ## **Competition: Other city-building games**
@@ -139,8 +154,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -169,3 +186,57 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-explore-google-meets-full-potential-free-edition/"><u>[New] In 2024, Explore Google Meet's Full Potential (Free Edition)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-sites-that-link-you-to-youtube-promo-deals/"><u>[New] Unveiling Sites That Link You to YouTube Promo Deals</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-what-is-virtual-reality-headset-in-2024/"><u>[New] What Is Virtual Reality Headset, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-crafting-compelling-vo-for-visual-storytelling-success/"><u>[Updated] Crafting Compelling VO for Visual Storytelling Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-music-magic-for-instagram-a-guide/"><u>[Updated] Music Magic for Instagram  A Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-split-screen-simplicity-mastering-picture-in-picture-videos-on-apple-devices/"><u>[Updated] Split-Screen Simplicity  Mastering Picture in Picture Videos on Apple Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/10-top-ranked-youtube-news-entities-for-2024/"><u>10 Top-Ranked YouTube News Entities for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-most-outstanding-television-models-reviewed-find-the-perfect-set-for-you/"><u>2024'S Most Outstanding Television Models Reviewed: Find the Perfect Set for You</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y77t-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y77t to Roku | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-the-most-advanced-sprinkler-automation-solutions/"><u>A Comprehensive Guide to the Most Advanced Sprinkler Automation Solutions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieving-perfectly-sealed-3d-prints-how-to-avoid-common-hole-and-gap-issues/"><u>Achieving Perfectly Sealed 3D Prints: How to Avoid Common Hole and Gap Issues.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-and-powerful-laptop-picks-for-the-savvy-shopper-2023-edition/"><u>Affordable & Powerful Laptop Picks for the Savvy Shopper - 2023 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-and-high-performance-mechanical-keyboards-below-50-price-tag/"><u>Affordable and High-Performance Mechanical Keyboards Below $50 Price Tag</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-poco-m6-pro-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Poco M6 Pro 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-choice-avi-player-with-multiplatform-support-for-2024/"><u>Best Choice Avi Player with Multiplatform Support for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-premier-samsung-galaxy-s23-phone-case-selections-the-consumers-handbook/"><u>Discover Premier Samsung Galaxy S23 Phone Case Selections : The Consumer's Handbook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essentialists-guide-to-professional-photo-bag-selection-2024/"><u>Essentialist's Guide to Professional Photo Bag Selection /2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-most-effective-resistance-bands-of-2024-for-fitness-enthusiasts/"><u>Explore the Most Effective Resistance Bands of 2024 for Fitness Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-leading-nas-systems-features-reviews-and-buying-tips/"><u>Exploring the Leading NAS Systems : Features, Reviews, and Buying Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/free-protection-excellence-leading-antivirus-solutions-without-the-price-tag/"><u>Free Protection Excellence: Leading Antivirus Solutions Without the Price Tag</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-rogue-realms-decades-best-representation/"><u>In 2024, Rogue Realms  Decade’s Best Representation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-mirrorless-camera-models-you-cant-miss/"><u>Leading Mirrorless Camera Models You Can't Miss</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-pc-components-with-toms-expert-analysis/"><u>Mastering Gadgets and PC Components with Tom's Expert Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-effective-orators-dominating-the-2023-scene/"><u>Most Effective Orators Dominating the 2023 Scene</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-performance-enhancement-resolving-graphics-glitches-and-frame-rate-problems/"><u>Red Dead Redemption 2 Performance Enhancement - Resolving Graphics Glitches & Frame Rate Problems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gaming-audio-equipment-ultimate-picks/"><u>Top Rated Gaming Audio Equipment - Ultimate Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-gadgets-and-enhancements/"><u>Top Rated iPad Gadgets and Enhancements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-iphone-15-pro-max-protective-covers-ultimate-shopping-list/"><u>Top Rated iPhone 15 Pro Max Protective Covers - Ultimate Shopping List</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-mp3-players-your-ultimate-guide/"><u>Top Rated MP3 Players - Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-recommended-keyboards-your-ultimate-guide/"><u>Top Recommended Keyboards : Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-case-picks-for-the-new-2023-9th-gen-model-enhance-your-device/"><u>Top-Rated iPad Case Picks for the New 2023 9Th Gen Model: Enhance Your Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-iphone-protective-covers-2023-edition/"><u>Top-Rated iPhone Protective Covers - 2023 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-laptop-workstations-ultimate-choices-for-2-024/"><u>Top-Rated Laptop Workstations: Ultimate Choices for 2 024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-photography-gear-packs-ultimate-guide/"><u>Top-Rated Photography Gear Packs : Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-portable-speaker-systems/"><u>Top-Rated Portable Speaker Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-protective-covers-for-samsung-galaxy-a-comprehensive-guide/"><u>Top-Rated Protective Covers for Samsung Galaxy : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-protective-covers-for-the-samsung-galaxy-z-fold-4-a-comprehensive-guide/"><u>Top-Rated Protective Covers for the Samsung Galaxy Z Fold 4 : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-ps5-audio-gear-ultimate-list-for-23/"><u>Top-Rated PS5 Audio Gear: Ultimate List for 2^3!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-samsung-galaxy-s22-ultra-phone-covers-2023-edition/"><u>Top-Rated Samsung Galaxy S22 Ultra Phone Covers - 2023 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-smart-lock-innovations-the-ultimate-picks/"><u>Top-Rated Smart Lock Innovations: The Ultimate Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-smart-window-shades-a-comprehensive-guide/"><u>Top-Rated Smart Window Shades : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-bluetooth-dongles-a-comprehensive-guide/"><u>Top-Rated Wireless Bluetooth Dongles : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-keyboards-in-2n24-a-comprehensive-guide/"><u>Top-Rated Wireless Keyboards in 2N24: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-usb-c-power-solutions-for-the-year-2024/"><u>Ultimate Selection of Premium USB-C Power Solutions for the Year 2024</u></a></li>
+</ul></div>

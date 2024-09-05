@@ -1,7 +1,7 @@
 ---
 title: "A Deep Dive Into the Director's Cut: Why Wasteland 2 Is a Must-Play Turn-Based RPG"
-date: 2024-08-09T00:38:45.787Z
-updated: 2024-08-10T00:38:45.787Z
+date: 2024-09-04T16:12:02.786Z
+updated: 2024-09-05T16:12:02.786Z
 categories:
   - BestProducts
 description: "This Article Describes A Deep Dive Into the Director's Cut: Why Wasteland 2 Is a Must-Play Turn-Based RPG"
@@ -13,14 +13,8 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
 5
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple MacBook Pro 16-inch (2021)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/L5Mbsc5JB_OpmoLJkqia2EonbI8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-hero-8413a7aa67ca443bb241da703c1025b2.jpg)
 
 Lifewire / Sascha Brodsky
@@ -75,9 +69,10 @@ Lifewire / Sascha Brodsky
  I’ve been using Apple portables ever since the Powerbook 100 was released in 1991\. After spending several weeks with the new MacBook Pro, it offers the responsiveness previously associated only with iPads and iPhones, matched with the refined form factor of Apple’s best laptops.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Design: Back to the future
 
@@ -85,20 +80,26 @@ The powerful video editing program for your Windows PC</a>
 
  However, the tiny details make all the difference in the design of the new MacBook. The Pro just feels nicer than any laptop Apple has ever made in many different ways starting with the incredibly smooth hinge mechanism when you open it up.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/dFndxams3xUoua0_gkYqRycgBdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-1-db37ffedba744e8eb2070780c0d8de10.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Sascha Brodsky
 
  The Pro could be considered a step back in some areas. For one thing, at 0.66 by 14 by 9.8 inches and 4.8 pounds, the MacBook Pro is chunkier and heavier than the model it replaces. This is definitely not a laptop you’ll forget you are carrying in your backpack. On the other hand, the heft of the new MacBook is reassuring and in keeping with its target market of professionals.
 
  Apple has also gone full circle and replaced the ports it removed in previous iterations of the MacBook. You get a MagSafe connector, headphone jack, SD card slot, HDMI port, and three Thunderbolt 4 ports, which should be enough for almost any user. There’s no USB-A port but most people won’t miss it.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keyboard: Precision is everything
 
  The joy of using the MacBook Pro really becomes apparent when you start typing on the keyboard. It’s got a scissor key mechanism that feels precise and offers excellent feedback.
@@ -113,9 +114,6 @@ Lifewire / Sascha Brodsky
 
  There’s nothing not to like about the trackpad on the new MacBook Pro. It’s big and responsive, and you won’t notice it after a while, which is all you need in an input device.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/tD3rxlw9zH5xufV5ztJIZyrJc3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-3-db6300639d8049d1862d0e4f25a35222.jpg)
 
 Lifewire / Sascha Brodsky
@@ -136,6 +134,12 @@ Lifewire / Sascha Brodsky
 
  Text looks terrific on the Pro, and I ended up spending time gazing at Word documents just to admire the way words look so crisp and defined. Video playback was equally impressive, with the Mini-LED screen revealing a level of detail that made me want to rewatch my favorite movies. The no-glare coating also works very well, even when using the Pro in direct sunlight.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Performance: Sizzling speed that stays cool
 
  The MacBook Pro uses the same cutting-edge M1 chip, designed by Apple, that’s been powering some of the company’s other machines over the past year.
@@ -146,6 +150,12 @@ Lifewire / Sascha Brodsky
 
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/UM5_acSqOhRJtIaZE3CeAWp45y0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-2-2be1639ee44f489286cb43a53aaf6454.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Sascha Brodsky
 
  For those who want to know the details, the PCMark benchmarking software found the following scores for the MacBook Pro:
@@ -160,9 +170,6 @@ Lifewire / Sascha Brodsky
 
  Multi-Core: 7552
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Battery: Keeps on going and going
 
  One of the benefits of the new M1 chip is its efficiency. Despite its power, the chip sips energy. The M1 Pro ran for 16 hours on its battery during continuous use, making it the longest-lasting laptop I've ever tried.
@@ -173,9 +180,6 @@ Lifewire / Sascha Brodsky
 
  Another nice thing about the efficient M1 chip is the fact that the MacBook runs cool. I’ve used it for dozens of hours, and it never felt more than slightly warm. Contrast that to my 2019 MacBook Pro that used to get so hot I was worried it would catch fire.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: Cough, splutter?
 
  The big hiccup for most potential users of the MacBook Pro is its high price tag. I’ve been using the lowest-end model, which starts at $2499\. You get a 10-Core CPU, 16-Core GPU, 16GB of RAM, and 512GB SSD Storage for that price.
@@ -204,12 +208,24 @@ Lifewire / Sascha Brodsky
 
  As one of the newest and more expensive laptops on the market, it’s no surprise that I’m giving the MacBook Pro top marks in practice. Blazing speed, a great screen, and all day and then some battery life make this a great laptop for almost any use. However, the design is back to the basics and road warriors might want to consider a lighter, less bulky model. But, if you depend on your MacBook for demanding tasks, this is a must-buy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Apple MacBook Pro 13-inch (M1, 2020)](https://www.lifewire.com/macbook-pro-13-inch-m1-2020-review-5092658)
 * [Apple MacBook Air 13-inch](https://www.lifewire.com/macbook-air-13-inch-m1-2020-review-5092793)
 * [Dell XPS 13 7390 (2020)](https://www.lifewire.com/dell-xps-13-7390-2-in-1-review-5113106)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  MacBook Pro 16-inch (2021)
@@ -244,3 +260,38 @@ Lifewire / Sascha Brodsky
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-detailed-strategies-for-altering-facial-gender-display-in-digital-media/"><u>[New] 2024 Approved  Detailed Strategies for Altering Facial Gender Display in Digital Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphones-pathway-through-virtual-video-landscapes/"><u>[Updated] IPhone's Pathway Through Virtual Video Landscapes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-scripting-signal-sequences/"><u>[Updated] Scripting Signal Sequences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-xsplit-digest-in-depth-splits-reviews/"><u>2024 Approved  XSplit Digest  In-Depth Splits Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-audio-elite-choosing-the-best-wires-for-you/"><u>2024'S Audio Elite: Choosing the Best Wires for You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-close-look-at-claude-pro-and-its-comparison-with-chatgptplus/"><u>A Close Look at Claude Pro and Its Comparison with ChatGPT+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-lenovo-chromebook-duet-evaluation-a-comprehensive-look-at-the-cost-effective-tabletlaptop-hybrid/"><u>Affordable Lenovo Chromebook Duet Evaluation: A Comprehensive Look at the Cost-Effective Tablet/Laptop Hybrid</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722960894199-amazon-basics-7-port-usb-30-hub-comprehensive-review-your-ultimate-connectivity-solution/"><u>Amazon Basics 7-Port USB 3.0 Hub Comprehensive Review – Your Ultimate Connectivity Solution!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aminy-ufo-review-looks-can-be-deceiving/"><u>Aminy UFO Review: Looks Can Be Deceiving</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/barnes-and-nobles-nook-glowlight-ereader-review-your-perfect-book-companion-in-the-dark/"><u>Barnes & Noble's Nook GlowLight eReader Review: Your Perfect Book Companion in the Dark</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bt-d11-by-beatit-a-comprehensive-review-of-the-robust-jump-starter/"><u>BT-D11 by Beatit: A Comprehensive Review of the Robust Jump Starter</u></a></li>
+<li><a href="https://driver-install.techidaily.com/c6515-operating-system-patches/"><u>C6515 Operating System Patches</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/capitalize-on-prime-day-savings-top-picks-for-high-performance-benq-tech/"><u>Capitalize on Prime Day Savings: Top Picks for High-Performance BenQ Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-enhanced-security-with-ring-doorbell-proplus/"><u>Comprehensive Evaluation of Enhanced Security with Ring Doorbell Pro+</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-avchd-files-to-mp4-gratis-with-easy-steps-on-windows-11/"><u>Convert AVCHD Files to MP4 Gratis with Easy Steps on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-8-plus-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 8 Plus iCloud Lock</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-8-honest-video-promotion-services/"><u>In 2024, Unveiling 8 Honest Video Promotion Services</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-enigmatic-identity-of-microsoft-surface-go-unveiled-in-our-affordable-tablet-review/"><u>The Enigmatic Identity of Microsoft Surface Go Unveiled in Our Affordable Tablet Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-companer-for-on-the-go-power-an-extensive-review-of-maxoaks-185wh50000mah-bank/"><u>The Ultimate Companer for On-the-Go Power: An Extensive Review of MaxOak's 185Wh/50000mAh Bank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-fongo-in-canada-exploring-superior-voip-services-for-business-and-personal-use/"><u>The Ultimate Guide to Choosing Fongo in Canada: Exploring Superior VoIP Services for Business and Personal Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-playbook-a-guide-to-efficiently-posting-srt-files-online-for-2024/"><u>The Ultimate Playbook  A Guide to Efficiently Posting SRT Files Online for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-acer-savings-on-prime-day-2024-unbeatable-offers/"><u>Top Acer Savings on Prime Day 2024: Unbeatable Offers!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-showdown-how-does-apple-tv-4k-stack-up-against-roku-ultra-in-a-side-by-side-comparison/"><u>Top Showdown: How Does Apple TV 4K Stack Up Against Roku Ultra in a Side-by-Side Comparison?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-performance-with-ibuypowers-high-value-gaming-rig-in-depth-review/"><u>Top-Tier Performance with IBUYPOWER's High-Value Gaming Rig - In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-sonys-xperia-5-size-and-price-overview/"><u>Unboxing Sony's Xperia 5: Size and Price Overview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-tp-link-archer-c80-superior-performance-at-a-budget-friendly-price/"><u>Unboxing the TP-Link Archer C80: Superior Performance at a Budget-Friendly Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-fast-and-reliable-connectivity-comprehensive-review-of-the-d-link-powerline-2000-kit/"><u>Unlocking Fast and Reliable Connectivity: Comprehensive Review of the D-Link Powerline 2000 Kit</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-versatility-of-amazons-family-friendly-fire-hd-10-multimedia-tablet-in-our-latest-review/"><u>Unveiling the Versatility of Amazon's Family-Friendly Fire HD 10 Multimedia Tablet in Our Latest Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgraded-power-contrasting-samsungs-latest-marvels-s24-and-s23-ultra/"><u>Upgraded Power: Contrasting Samsung's Latest Marvels, S24 and S23 Ultra</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-centric-design-of-the-acer-xfa240-laptop-examined/"><u>User-Centric Design of the Acer XFA240 Laptop Examined</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Best Breezy Game Selection to Enjoy During the Sunny Summer Months
-date: 2024-08-31T12:13:51.079Z
-updated: 2024-09-01T12:13:51.079Z
+date: 2024-09-04T16:15:09.751Z
+updated: 2024-09-05T16:15:09.751Z
 tags:
   - games
   - tv
@@ -39,7 +39,10 @@ _[Dave the Diver](https://mintrocketgames.com/en/DaveTheDiver)_ was one of the b
  Best of all is the fact that, aside from those nerve-wracking moments during your restaurant shifts and a couple of boss battles, _Dave the Diver_ is a game where you can sit back, relax, and play the game in second gear.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2 _[A Short Hike](https://ashorthike.com)_ 
 
@@ -49,9 +52,6 @@ _[Dave the Diver](https://mintrocketgames.com/en/DaveTheDiver)_ was one of the b
 
 _A Short Hike_ was so successful it kickstarted a whole new “cozy adventure” micro-genre that gave birth to other neat experiences such as _[Lil Gator Game](https://store.steampowered.com/app/1586800/Lil%5FGator%5FGame/), [Tiny Terry’s Turbo Trip](https://store.steampowered.com/app/2238040/Tiny%5FTerrys%5FTurbo%5FTrip/)_, and _[Haven Park](https://store.steampowered.com/app/1549550/Haven%5FPark/)_. If you end up liking _A Short Hike,_ you ought to play them all. These are super chill summer games that you will finish in a jiffy, but remember for years to come.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 _[Loddlenaut](https://www.loddlenaut.com)_ 
 
  Here’s yet another cozy underwater adventure. Unlike _Dave the Diver, [Loddlenaut](https://www.loddlenaut.com)_ is a game you can finish in a couple of hours, during which you don’t have to worry about tending the bar or fighting giant underwater creatures. Here, all you’ve got to do is clean the ocean on a faraway planet.
@@ -59,7 +59,10 @@ _A Short Hike_ was so successful it kickstarted a whole new “cozy adventure”
  The best part about _Loddlenaut_ is the fact that, as you pick up trash and make the planet GUP-14’s ocean a better place for everyone, you also discover its adorable natives, axolotl-like Loddles that look as cute as their name suggests.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4 _[Unpacking](https://www.unpackinggame.com)_ 
 
@@ -67,9 +70,6 @@ _A Short Hike_ was so successful it kickstarted a whole new “cozy adventure”
 
  The game is so good at calming you down after a stressful day at work, allowing you to organize your perfect home time and time again. And as the story progresses and in-game years march on, you’ll create a personal relationship with a person you’ve never met, a relationship built solely through possessions you need to find a new place for, in a new home, over and over again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5 _[Tchia](https://www.awaceb.com/tchia)_ 
 
  What if _The Legend of Zelda: Breath of the Wild_ didn’t focus on combat and took place in a Pacific archipelago instead of Hyrule? Well, the final product would most likely look similar to [_Tchia_](https://www.awaceb.com/tchia), but not too much. While the game’s elevator pitch is that it’s something of a _BOTW_ clone, _Tchia_ is far from being a carbon copy of the Switch classic.
@@ -90,6 +90,12 @@ _A Short Hike_ was so successful it kickstarted a whole new “cozy adventure”
 
  I loved every second of _Alba: A Wildlife Adventure_, and I recommend everyone to take their time, explore the island at their leisure, and remember that this is a _chillectathon_: there’s no reward for finishing the game as soon as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7 _[Little Kitty, Big City](https://www.littlekittybigcity.com)_ 
 
  After chilling a bit too hard and falling from a highrise cat's cradle, it’s time for this little kitty to find its way back home. But not before causing some mayhem, meeting some peppy new friends, playing a ton of mini-games, and exploring the city to your heart’s content.
@@ -99,7 +105,10 @@ _A Short Hike_ was so successful it kickstarted a whole new “cozy adventure”
 [_Stray_](https://store.steampowered.com/app/1332010/Stray/)is another feline adventure I recommend playing, but I think you’d be better off with _[Untitled Goose Game](https://store.steampowered.com/app/837470/Untitled%5FGoose%5FGame/)_ if you want to play something more in the vein of _Little Kitty, Big City_.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8 _[FAR: Changing Tides](https://www.farchangingtides.com)_ 
 
@@ -107,6 +116,18 @@ _A Short Hike_ was so successful it kickstarted a whole new “cozy adventure”
 
  If you end up liking _FAR: Changing Tides_, you should definitely play its prequel, [_FAR: Lone Sails_](https://store.steampowered.com/app/609320/FAR%5FLone%5FSails/). It's quite similar but takes place in a desert instead of in (and below) the sea.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9 _[Jusant](https://dont-nod.com/en/games/jusant/)_ 
 
 [_Jusant_](https://dont-nod.com/en/games/jusant/)’s climbing mechanics thread the perfect line between engaging and complicated. The end result is a game that packs hours of captivating gameplay that shouldn't frustrate the player even for a second. You can climb without worrying about having enough rope to reach the next part of a level, and you won't need to spend more time planning your next route than actually climbing it.
@@ -122,7 +143,10 @@ _A Short Hike_ was so successful it kickstarted a whole new “cozy adventure”
  If you’re looking for a similar, relatively lightweight adventure with cute visuals and contained levels that don’t require a map to keep your bearings, _[The Last Campfire](https://store.steampowered.com/app/990630/The%5FLast%5FCampfire/)_ fits that bill perfectly.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 11 _[What The Golf?](https://whatthegames.com/golf)_ 
 

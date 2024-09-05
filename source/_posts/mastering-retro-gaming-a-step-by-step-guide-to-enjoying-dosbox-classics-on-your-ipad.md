@@ -1,7 +1,7 @@
 ---
 title: "Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad"
-date: 2024-08-31T12:13:10.100Z
-updated: 2024-09-01T12:13:10.100Z
+date: 2024-09-04T16:15:09.116Z
+updated: 2024-09-05T16:15:09.116Z
 tags:
   - games
   - tv
@@ -26,6 +26,18 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
  The [iDOS 3 app](https://apps.apple.com/za/app/idos-3/id1580768213) is based on the free and Open Source DOS emulator [DOSBox](https://www.dosbox.com/). The app has a beautiful retro front-end, is easy to use, and only cost me around a dollar. So the first thing you need to do in this process is buy the app, and install it.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Getting Your DOS Games on iPad
 
  The next step is getting your game files on your iPad. You can use all sorts of file setups with iDOS, such as game disk images. However, the easiest way is to simply copy a game's installation folder over to your iPad. That is, the folder that contains the ".exe" executable file you'd run to play the game.
@@ -35,7 +47,16 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![The context menu to show the contents of a macOS app package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-12-46-23-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In this case the .exe file was in Content > Resources > Game, so I copied the entire contents of the "game" folder to my iPad in a folder named "Jazz."
 
@@ -47,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![iDOS 3 in portrait mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/idos-3-in-portrait-mode.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Some DOS games need to be installed off a CD, but in this case we just want to mount the folder as a drive. So tap on the floppy drive and select "Folder."
 
 ![The floppy drive menu in iDOS 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-floppy-drive-menu-in-idos-3.PNG) 
@@ -59,14 +77,20 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![The iDOS 3 file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-file-browser.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You'll see a message that the game folder has been mounted as a virtual drive in iDOS. So next we want to change to that drive. Type "D:" using the on-screen keyboard and then tap on the Enter button.
 
 ![The iDOS 3 interface showing that a folder had been mounted and the drive changed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-interface-showing-that-a-folder-had-been-mounted-and-the-drive-changed.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now we've changed to drive D, and all you have to do is type the name of the executable, and then press enter. In this case, that's "Jazz.exe" but it depends on the specific game, of course.
 
@@ -85,17 +109,24 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![The iDOS 3 quick bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can use the little pin icon to make it stay, but you can just tap the top edge of the screen to make it appear. Here you can tap on buttons to see a virtual mouse, keyboard, or gamepad appear on-screen.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Configuring Peripherals
 
@@ -105,24 +136,30 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 quick bar with blutooth icon highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar-with-blutooth-icon-highlighted.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Hold the button on the controller you want to rebind, and then press the corresponding key on the virtual keyboard.
 
 ![The iDOS 3 gamepad configuration screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-gamepad-configuration-screen.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Some DOS games supported joysticks or gamepads, and if you want to use your gamepad as a true controller with these games, tap on the settings gear in the iDOS 3 quick bar and choose "Settings."
 
 ![The iDOS 3 settings button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-settings-button.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  Then under "optional inputs" enable the gamepad option. Just remember that you'll have to set up the joystick or gamepad in the game itself, since back then games calibrated these peripherals on an individual basis.
 
 ![The iDOS 3 optional input settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-optional-input-settings.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Personally, I wouldn't bother with this most of the time, since there was rarely any sort of analog joystick control in old DOS games, but it's great to have the option nonetheless.
 
  That's the least you need to know to get a DOS game running on your iPad. I already have a massive [GOG DOS game collection](https://ai-driven-video-production.techidaily.com/updated-get-started-with-filmora-13-free-video-editor-download-for-2024/), that I love playing on my highly portable [MacBook Air](https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/), but having the option to play them on my iPad opens up so many possibilities for avoiding doing my actual job. I couldn't be happier!

@@ -1,7 +1,7 @@
 ---
 title: Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.
-date: 2024-08-31T12:14:51.351Z
-updated: 2024-09-01T12:14:51.351Z
+date: 2024-09-04T16:15:10.797Z
+updated: 2024-09-05T16:15:10.797Z
 tags:
   - games
   - tv
@@ -98,9 +98,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I took the Nebula Capsule 3 on a weekend trip to see how it handled being on the road. Because the device is so portable and easy to move around or travel with, I do wish it came with a case or some kind of lens protection. Packaging it in a backpack with some of my other devices made me a little uneasy.
@@ -117,12 +114,21 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -135,7 +141,16 @@ Jerome Thomas / How-To Geek
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Battery Life
 
@@ -143,27 +158,31 @@ Jerome Thomas / How-To Geek
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -173,6 +192,12 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Anker Nebula Capsule 3 Mini Projector
 
 7/ 10 

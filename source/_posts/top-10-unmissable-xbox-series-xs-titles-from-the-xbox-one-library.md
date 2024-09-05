@@ -1,7 +1,7 @@
 ---
 title: Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library
-date: 2024-08-31T12:14:30.427Z
-updated: 2024-09-01T12:14:30.427Z
+date: 2024-09-04T16:15:10.402Z
+updated: 2024-09-05T16:15:10.402Z
 tags:
   - games
   - tv
@@ -39,15 +39,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This release received plenty of upgrades for the Series X|S, including variable field of view adjustment, [support for 120 frames per second](https://hardware-tips.techidaily.com/comprehensive-review-of-popular-120mm-aftermarket-cpu-coolers-by-be-quiet-corsair-cooler-master-and-enermax/) for both single and multiplayer, and 4K resolution. It now looks and plays just as well as any modern game, and it's absolutely worth your time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2 _The Witcher 3: Wild Hunt_ 
 
 ![The main menu of The Witcher 3: Wild Hunt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/witcher-3-wild-hunt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  I'll be frank: you've been living under a rock if you're a gamer who hasn't heard about _The Witcher 3: Wild Hunt_. This 2015 title is not just one of the best RPGs ever made, but many consider it one of the [best _overall_ games of all time](https://screen-activity-recording.techidaily.com/streamline-control-switch-pro-in-steam-play/), and it holds over 200 game of the year awards to prove it.
 
  In this action roleplaying game, you play as monster hunter Geralt of Rivia in a massive fantasy world inspired by Slavic mythology. Engage in fierce battles against both man and eldritch beast, craft unique potions and poisons to aid you, and become the world champion of Gwent (the best card minigame to ever exist).
@@ -55,7 +61,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 _The Witcher 3_ is one of the highest-selling games of all time for good reason. It has been upgraded for the Series X|S with many graphical improvements such as ray-tracing and higher-resolution textures. The latest release also includes all DLC and even has some extra main game content compared to the Xbox One release.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3 _DOOM Eternal_ 
 
@@ -67,13 +82,16 @@ Bethesda Softworks
 
  It's _DOOM_. It's frenetic, violent, deceptively complex, full of awesome music, and includes a deeper story than most realize. It already looked great on the Xbox One, but it also received an update for the Series X|S, allowing it to look even better and play more smoothly. [If you love fast-paced shooters](https://common-error.techidaily.com/solving-unable-to-connect-issues-with-a-remote-server-a-step-by-step-guide/), _DOOM Eternal_ is worth a look.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 _Star Wars Jedi: Fallen Order_ 
 
 ![A cutscene from Star Wars Jedi: Fallen Order.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fallen-order.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Electronic Arts
 
  There was a time when the _Star Wars_ franchise was putting out incredible games every year. _Knights of the Old Republic_, _Republic Commando_, _Jedi Knight_, _Starfighter_, and more. In the past decade or so, quality Star Wars games have been harder to come by. Thankfully, _Star Wars Jedi: Fallen Order_, brought back that awesome feeling in 2019.
@@ -91,7 +109,16 @@ Electronic Arts
  Fighting games aren't for everyone, but if you love _DragonBall_, it's worth a look just for that feeling of practically being in the anime. If you like other 2D fighters but haven't tried _FighterZ_ yet, I'd recommend it just for the team-based fighting system, super moves, and great music (ArcSys really never misses). The main upgrade from the Xbox One version to the X|S version was [the addition of rollback netcode](https://tech-haven.techidaily.com/localizing-your-legal-services-with-an-llm-is-it-worth-it-understanding-pros-and-cons/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6 _Hellblade: Senua's Sacrifice_ 
 
@@ -104,7 +131,16 @@ _Hellblade: Senua's Sacrifice_ is not a game that everyone is going to enjoy. So
  Moreover, the sequel, _Hellblade 2_, arrived in 2024\. Now is a great time to play the original game. On the Series X|S, the game is even more visually incredible, thanks to [the inclusion of ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) and other graphical upgrades.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7 _Mortal Shell_ 
 
@@ -119,14 +155,26 @@ Playstack
 _Mortal Shell_ has an enhanced edition for the Series X|S, improving its graphical fidelity. If you're looking for a quick but rewarding Souls-like experience, give _Mortal Shell_ a shot.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8 _Stellaris: Console Edition_ 
 
 ![Gameplay from Stellaris: Console Edition.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/stellaris.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Paradox Interactive
 
@@ -134,20 +182,28 @@ Paradox Interactive
 
  Destroy entire worlds, conquer other empires, take over the galaxy as a sentient fungal hivemind horror: you name it, _Stellaris_ probably lets you do it. I can personally attest that _Stellaris_ plays very intuitively with a controller, which many 4X games on console can't claim. Being a strategy game, graphics aren't _that_ important, but a performance-optimized version for the X|S does exist now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 9 _Cyberpunk 2077_ 
 
 ![Gameplay from Cyberpunk 2077.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cyberpunk-2077.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 CD Projekt Red
 
  If you tried to play _Cyberpunk 2077_ when it first debuted on the Xbox One, you probably remember that it was a really rough launch. Console versions were full of bugs and performance issues, to the extent that Sony even removed the game from its stores for a time. It was a real shame because the game was highly praised for its interesting setting, intriguing narrative, and memorable characters.
 
  The good news is that this critically acclaimed title is in a much better state today, and it has a Series X|S version optimized for the newer hardware. It looks better, runs better, plays better, and there's a big DLC expansion available too. So if you avoided [playing _Cyberpunk 2077_](https://some-approaches.techidaily.com/updated-top-10-impressive-srt-converters-for-mac-and-windows/) due to its rough launch, now would be a great time to give it a shot on the Series X|S.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 _Sea of Thieves_ 
 
 ![Gameplay from Sea of Thieves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/sea-of-thieves.png) 

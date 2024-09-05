@@ -1,7 +1,7 @@
 ---
 title: "Console-Free: How the Absence of Gaming Systems Could Diminish PC Gaming Experience"
-date: 2024-08-31T12:12:54.798Z
-updated: 2024-09-01T12:12:54.798Z
+date: 2024-09-04T16:15:08.882Z
+updated: 2024-09-05T16:15:08.882Z
 tags:
   - games
   - tv
@@ -28,21 +28,30 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
  Like it or not, when it comes to mainstream hardcore gaming, consoles are by far the most popular hardware platform. For a studio to put millions or even hundreds of millions into developing the next amazing video game, there needs to be a large-enough market to pay for it. If the only gaming platform out there was PC, then that market would be significantly smaller, which in turn would have an effect on the variety and quality of games that are created.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Consoles Create Reasonable Game Requirements
 
 ![CyberPowerPC Grvty High Airflow Series gaming PC case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52651356479_64da2bb7da_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  The current console generation effectively sets the minimum requirements for all new games. As I write this, that minimum requirement is the [Xbox Series S](https://win11-tips.techidaily.com/addressing-vscode-shutdown-problems-on-windows-11/), which all games released for Xbox must work on with playable performance. If there were no consoles, developers might not be incentivized to make their games scalable. If you look at what sort of computer the average PC gamer has, this might lead to a situation where most people can't get a good experience. Thanks to consoles, developers have to create games that will run on less than a thousand dollars' worth of hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Consoles Encourage Game Optimization and Innovation
 
@@ -51,14 +60,20 @@ Justin Duino / How-To Geek
  Sometimes to make this work, entire new techniques are invented. Think about methods such as Variable Rate Shading, dynamic resolution, asset streaming due to limited unified memory, upscaling methods such as TAA or checkerboarding, technologies like [DirectStorage](https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-lava-yuva-3-drfone-by-drfone-virtual/), and the list goes on. Now that consoles like the PlayStation 5 and Xbox Series systems are essentially specialized PCs, any optimization methods developed to get more out of them will benefit PC games more directly. Working within limitations breeds innovation, and I really believe there would be much less of it on PC if consoles did not exist.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Controller Gaming Is Better on PC Thanks to Consoles
 
  While I love playing games with a mouse and keyboard, some types of game simply aren't suited to it. In my case, if it's a third-person action game, a 2D sidescroller, a [racing game](https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y36-drfone-by-drfone-virtual/), or really anything that's not an RTS or FPS title, I'm reaching for a controller on PC. Many of you might not remember the bad old days of controller support in games and on Windows, but thanks to modern consoles and multiplatform releases, controller support is excellent on PC. It's become a plug-and-play experience as you get exactly the same configuration as the console version in most cases, with all the same interface elements as well. It's extremely rare for a modern PC game to mess up controller support, and I think consoles and multiplatform releases have a significant role in that.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Console Crossplay Keeps Multiplayer Games Alive
 

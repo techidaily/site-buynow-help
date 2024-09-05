@@ -1,7 +1,7 @@
 ---
 title: "Mastering Voice Chat: A Step-by-Step Guide to Using Discord with Your PlayStation 5"
-date: 2024-08-31T12:13:12.182Z
-updated: 2024-09-01T12:13:12.182Z
+date: 2024-09-04T16:15:09.155Z
+updated: 2024-09-05T16:15:09.155Z
 tags:
   - games
   - tv
@@ -30,6 +30,12 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
  Being a PlayStation user doesn't mean you can't use Discord. Connect your Discord account to your PS5 and chat with other users while playing, even if they're using a different platform to you. Here's how to set up and use Discord on a Sony console.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Set Up Discord on PS5
 
  To use Discord on the PlayStation 5, start by [linking your Discord account to your console](https://facebook-videos.techidaily.com/2024-approved-discovery-unearthing-the-best-videos-from-fbs-sphere/). To do this, turn on your PS5, sign in, and select the "cog" Settings icon in the top-right corner of the dashboard.
@@ -41,33 +47,39 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 ![Connecting Discord to your PlayStation account under PS5 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/select_discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Select "Discord" followed by "Link Account" and then read the disclosure that informs you that your PlayStation Network account and associated information will be revealed to Discord as part of this process. Hit "Accept and Continue" to proceed.
 
 ![Choosing to accept or decline the terms when connecting PSN to Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/accept_terms.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now link your Discord account by heading to [discord.com/activate](http://discord.com/activate), logging in, and entering the code displayed. You can also [use your iPhone](https://facebook-video-content.techidaily.com/in-2024-enhancing-outdoor-vision-with-gopro-and-live-streaming-platforms/) or [Android smartphone to scan the QR code](https://vp-tips.techidaily.com/2024-approved-free-football-live-learn-and-cut-your-match-footage/) on the screen for quicker access. Alternatively, use the PS5 browser (via the "Use Browser" button) to log in and link accounts that way.
 
 ![Using a code or QR code to verify linked accounts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/connect_account.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once you've entered the code on a secondary device, you'll need to click "Authorize" to grant permission on Discord's end too.
 
 ![Authorizing Discord connection to a Sony account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/authorize_discord.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The screen should update on your PS5 to let you know that your console has been linked to your Discord account.
 
  It's always a good idea to keep your console software up to date to avoid compatibility problems with services like Discord Head to Settings > System Software > System Software Update and Settings to manually check for an update.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Join Discord Chats Right on Your PS5
 
  PS5 Discord integration lets you join voice chats on your console using your DualSense controller's microphone and speaker (or a [gaming headset](https://fox-access.techidaily.com/essential-approach-for-blending-gopro-vids-with-continuous-360-degree-visuals/) if you have one connected). There's no way to read or join in on text chats, so you'll be limited to voice channels.
@@ -77,7 +89,10 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 ![Discord intergration in PS5 Game Base.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_2570.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  From here you'll be able to choose a server, a voice channel, or a direct message call. This eliminates the need to use another device to control Discord integration while using your PS5.
 
@@ -93,6 +108,18 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 ![Transferring to PS5 using Discord web interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/transfer_to_ps5.png) 
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In both instances, you'll be invited to confirm the PS5 then hit the "Transfer Voice" button to send the call to your PlayStation.
 
 ![Confirm the console you want to transfer your voice chat to.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/transfer_voice_confirmation.png) 
@@ -101,15 +128,15 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 ![Discord voice chat notification on PS5 dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/discord_notification.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can manage your Discord session by pressing the "PS" button, navigating to "Game Base" and selecting "Discord" in the sidebar.
 
 ![Manage your Discord voice chat session.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_2571.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Why Use Discord on Your PlayStation?
 
@@ -123,6 +150,12 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
  You can remove Discord integration both on your PS5 console or via the Discord web interface and apps. Both have the same effect, so it's up to you which method is more convenient.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  On Your PlayStation 5
 
  To unlink Discord on the PS5, head to Settings > Users and Accounts > Linked Services and select Discord followed by "Unlink Account" to sever ties between your PlayStation Account and your Discord account.
@@ -130,8 +163,10 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 ![Unlink Discord from your PlayStation Network account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/unlink_discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  On Discord
 
@@ -140,10 +175,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Deathorize your PlayStaton Network account from your Discord account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/deauthorize_psn_discord.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Discord Is Also Available on Xbox
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles"
-date: 2024-08-31T12:14:18.891Z
-updated: 2024-09-01T12:14:18.891Z
+date: 2024-09-04T16:15:10.200Z
+updated: 2024-09-05T16:15:10.200Z
 tags:
   - games
   - tv
@@ -30,14 +30,32 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  Reviews are subjective, and attaching a score to them without a clear and consistent rubric might not be that smart to begin with. There are plenty of incredibly high-scoring games that I think are boring (Breath of the Wild) or barely games (Red Dead Redemption 2), which would make me an iconoclast in some cases. However, tehre are reviewers who have similar tastes to mine, so instead of worrying about an average score on Metacritic or what mainstream reviewers think of a game, try to find a reviewer who has given good scores to games you already love. Then look for games they've reviewed well to get an idea of what you should play next.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Read the Reviews, Not the Scores
 
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
@@ -48,14 +66,20 @@ Cianna Garrison / How-To Geek
  If you're reading reviews by other players, rather than professional reviewers, it's also worth looking at circumstantial information to get some context on their reviews. Did they post a gushing review five hours into a 100 hour game? Are they [console warring](https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-phone-and-remove-locked-screen-by-drfone-android/) in the review? Again, the substance of the review matters as well as some of what's between the lines.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Watch YouTube Gameplay
 
  There are tons of third-party gameplay videos of just about every game on YouTube. You may even prefer to watch clips with no commentary at all, so you can get an idea of what the minute-to-minute experience is like, without someone's opinion affecting you. Just be careful not to spoil the game for yourself. You may want to look for footage that's specifically labeled as spoiler-free, or that doesn't contain story content. It may also be a good idea to look at footage of the first hour of gameplay only, if you don't want any spoilers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Try a Demo or Play on a Subscription Service
 
