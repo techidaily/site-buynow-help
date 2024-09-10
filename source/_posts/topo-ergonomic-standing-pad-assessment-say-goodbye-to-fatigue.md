@@ -1,7 +1,7 @@
 ---
 title: "Topo Ergonomic Standing Pad Assessment: Say Goodbye to Fatigue"
-date: 2024-08-09T00:38:50.626Z
-updated: 2024-08-10T00:38:50.626Z
+date: 2024-09-09T04:05:46.231Z
+updated: 2024-09-10T04:05:46.231Z
 categories:
   - BestProducts
 description: "This Article Describes Topo Ergonomic Standing Pad Assessment: Say Goodbye to Fatigue"
@@ -13,6 +13,12 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
 3.4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mohawk Games Offworld Trading Company
 
 ![Offworld Trading Company](https://www.lifewire.com/thmb/ZRJU1Y1MI2vuyYrL2_TFwULoTqs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4145806_Offworld-Hero-Shot-e2bcf25749f14c0cb98b6c6e4743d630.jpg)
@@ -39,11 +45,14 @@ Lifewire / Thomas Hindmarch
 
 ## Mohawk Games Offworld Trading Company
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Offworld Trading Company](https://www.lifewire.com/thmb/iiFooF4dDeVcP3L3UfgO6Uv4jso=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4145806_Offworld-Hero-Shot-e2bcf25749f14c0cb98b6c6e4743d630.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Thomas Hindmarch
 
 [View On Steampowered.com](https://store.steampowered.com/app/1037200/Offworld%5FTrading%5FCompany%5F%5FCore%5FGame/)
@@ -67,11 +76,14 @@ Lifewire / Thomas Hindmarch
 
  Your eventual goal is to eliminate all other players from the game, by buying a majority share of stock in their companies and staging a hostile takeover. At the same time, you must keep your profits high and debt low, to make it infeasibly expensive for other players to buy some of your own stock. Along the way, you can seize control of various useful commodities, buy and sell resources on an open market, and use underworld contacts to sabotage your opponents.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Offworld Trading Company](https://www.lifewire.com/thmb/d_YtN6HUMwxC62jqMOnJl6csGzE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4145806-2-13a8624d0ff64b5c95cc1b640598737f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Thomas Hindmarch
 
 ## **Setup Process: A short, painless installation**
@@ -80,16 +92,16 @@ Lifewire / Thomas Hindmarch
 
  At this point, you can spend a surprising amount of money on the game by grabbing all its expansions at once. However, you’d do better to try the base game first, just to make sure you’re interested before you go all in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Offworld Trading Company](https://www.lifewire.com/thmb/lOC0APAKrRycWJJCB5UAbnwuLtM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4145806-5-4c671b58f2944c249dc9529f0ceb477d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Thomas Hindmarch
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Plot: Welcome to the new gold rush**
 
  It’s the distant future, and several different economic blocs have come to Mars to capitalize on its newly available resources. As one of these corporations, ranging from a couple of obsessed scientists to a surprisingly sarcastic all-robot team, you race to stake your claims, open mines, acquire materials, and turn those materials into facilities and a solid profit. It’s all delivered with the gleeful matter-of-fact immorality of a PG-rated Gordon Gecko, through a handful of signature characters of varying degrees of eccentricity.
@@ -104,9 +116,6 @@ Lifewire / Thomas Hindmarch
 
  Lifewire / Thomas Hindmarch
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Gameplay: Buy low, sell high, cheat like crazy**
 
  Do yourself a favor and play through all the tutorials. At the start of a round, you pick a spot on the Martian landscape to drop your base module, and have a handful of land claims that you can use to place your buildings. You also have a limited amount of hard currency with which to outright buy materials on the open market. Resources you need to burn to stay in operation, such as food and fuel, will automatically be purchased, driving you into debt if necessary, but construction material will not.
@@ -133,6 +142,18 @@ Lifewire / Thomas Hindmarch
 
  Lifewire / Thomas Hindmarch
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Graphics: Simple, but effective**
 
  You don’t actually see much in Offworld Trading Company. It’s all flying drones and Martian landscapes, viewed from an omniscient perspective. It’s actually nice to look at, more so than it needed to be.
@@ -144,7 +165,10 @@ Lifewire / Thomas Hindmarch
  Lifewire / Thomas Hindmarch
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Cheap to start, potentially expensive if you get involved**
 
@@ -153,7 +177,10 @@ Lifewire / Thomas Hindmarch
  The multiplayer is really where the meat of the game lies, so try it for free and see if it grabs you, ideally with a few interested friends along for the ride. After that, you can pick up the main game and its DLC to expand your options.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Competition: A handful of super-smart, addictive contenders**
 
@@ -168,7 +195,10 @@ Lifewire / Thomas Hindmarch
  Offworld Trading Company is surprisingly easy to pick up considering its relative complexity, and has a lot of content at this point, with a compelling central loop and a good use of market forces. However, the central gameplay mechanic is always basically the same: cripple your opponent, build up your factories, buy the other guy out. As a result, we found Offworld Trading Company lost its luster quickly. It’s a fun initial run and you can get a lot out of it at a game night, but it doesn’t have the endless appeal of a Civilization.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -196,3 +226,42 @@ Lifewire / Thomas Hindmarch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-comprehensive-app-exploration-az-capture-essentials/"><u>[New] Comprehensive App Exploration AZ Capture Essentials</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-direct-engagement-broadcast-from-twitch-to-facebook-friends-for-2024/"><u>[New] Direct Engagement Broadcast From Twitch to Facebook Friends for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-virtual-collaboration-share-your-screens-with-facebook-viewers/"><u>[Updated] 2024 Approved Virtual Collaboration Share Your Screens with Facebook Viewers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-grid-mastery-in-photos-with-our-select-apps/"><u>[Updated] Grid Mastery in Photos with Our Select Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-essential-shortcut-knowledge-for-flawless-mac-recordings/"><u>[Updated] In 2024, Essential Shortcut Knowledge for Flawless Mac Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-top-methods-for-remotely-podcasting-success/"><u>[Updated] The Top Methods for Remotely Podcasting Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-realizing-dreamscapes-picks-of-the-best-tools-for-animation-artists/"><u>2024 Approved Realizing Dreamscapes Picks of the Best Tools for Animation Artists</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieve-learning-excellence-the-leading-6-homework-support-applications-for-students-and-parents-alike/"><u>Achieve Learning Excellence: The Leading 6 Homework Support Applications for Students and Parents Alike</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-thrills-in-the-sky-holy-stone-hs1/"><u>Affordable Thrills in the Sky: Holy Stone HS1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-digital-marketing-success/"><u>Cookiebot-Driven Digital Marketing Success</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-your-story-with-immersive-youtube-video-editing-tips/"><u>Craft Your Story with Immersive YouTube Video Editing Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dousing-disruptive-dance-in-your-acer-screen/"><u>Dousing Disruptive Dance in Your Acer Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-borrowing-a-world-view-in-eng/"><u>Linguistic Borrowing: A World View in Eng</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-world-of-phones-is-an-iphone-or-a-samsung-device-best-for-you/"><u>Navigating the World of Phones: Is an iPhone or a Samsung Device Best for You?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oodle-unveiled-topnotch-local-deals-and-promotions-without-the-price-tag/"><u>Oodle Unveiled: Topnotch Local Deals and Promotions Without the Price Tag</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-invisible-bluetooth-hardware-issues-in-device-manager-on-pc/"><u>Resolving Invisible Bluetooth Hardware Issues in Device Manager on PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-s10-review/"><u>Samsung Galaxy S10 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/securing-online-play-making-and-using-a-network-id-on-the-nintendo-3ds/"><u>Securing Online Play: Making and Using a Network ID on the Nintendo 3DS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/take-to-the-skies-outdoors-in-depth-look-at-the-blade-blh4100-120-r-ready-to-fly-helicopter/"><u>Take to the Skies Outdoors: In-Depth Look at the Blade BLH4100 120 R Ready-to-Fly Helicopter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taking-on-the-competition-comprehensive-review-of-the-google-pixel-4a-5g/"><u>Taking on the Competition: Comprehensive Review of the Google Pixel 4a 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tales-of-surprising-escapades-delving-deep-into-yokus-island-express-critique/"><u>Tales of Surprising Escapades: Delving Deep Into Yoku's Island Express Critique</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/test-your-skies-the-ultimate-guide-to-the-syma-x3d-ultra-hover-copter-value-meets-performance/"><u>Test Your Skies: The Ultimate Guide to the Syma X3D-Ultra Hover Copter - Value Meets Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ambient-weather-observer-ws-1002-with-wifi-deluxe-precision-noteworthy-investment-reviewed/"><u>The Ambient Weather Observer WS-1002 with WiFi - Deluxe Precision, Noteworthy Investment Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-glion-dolly-e-scooter-experience-examining-its-elegant-aesthetics-swift-velocity-and-expensive-nature/"><u>The Glion Dolly E-Scooter Experience - Examining Its Elegant Aesthetics, Swift Velocity & Expensive Nature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-top-playlist-for-the-best-family-friendly-game-ever-minecraft/"><u>The Top Playlist for the Best Family-Friendly Game Ever - Minecraft!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/to-embrace-or-not-new-mac-os-sonoma-edition/"><u>To Embrace or Not: New Mac OS, Sonoma Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-picks-for-exceptional-mobile-gaming-titles-number-one-to-eight/"><u>Top Picks for Exceptional Mobile Gaming Titles: Number One to Eight</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-fifa-19-assessment-conquering-the-realm-of-competitive-gameplay/"><u>Ultimate FIFA 19 Assessment: Conquering the Realm of Competitive Gameplay</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uniden-r3-radar-detector-assessment-durable-construction-and-extended-detection-capabilities/"><u>Uniden R3 Radar Detector Assessment: Durable Construction & Extended Detection Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-the-power-of-5g-an-in-depth-review-of-motorola-one-5g-aces-impressive-speed-and-battery-performance/"><u>Unleashing the Power of 5G: An In-Depth Review of Motorola One 5G Ace's Impressive Speed and Battery Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-long-distance-connectivity-the-ultimate-netgear-ex3700-ac750-wifi-repeater-review/"><u>Unlocking Long-Distance Connectivity: The Ultimate Netgear EX3700 AC750 Wifi Repeater Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-an-insightful-evaluation-of-the-stylishly-engineered-samsung-galaxy-watch/"><u>Unveiling the Features: An Insightful Evaluation of the Stylishly Engineered Samsung Galaxy Watch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-motorola-one-hyper-a-dynamic-entry-in-the-mid-range-smartphone-market-review/"><u>Unveiling the Potential of Motorola One Hyper – A Dynamic Entry in the Mid-Range Smartphone Market Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-subscribe-to-kindle-unlimited-exploring-the-four-key-benefits/"><u>Why Subscribe to Kindle Unlimited? Exploring the Four Key Benefits</u></a></li>
+</ul></div>

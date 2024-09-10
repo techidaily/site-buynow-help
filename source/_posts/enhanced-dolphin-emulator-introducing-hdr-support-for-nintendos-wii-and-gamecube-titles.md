@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Dolphin Emulator: Introducing HDR Support for Nintendo's Wii & GameCube Titles"
-date: 2024-09-04T16:15:09.992Z
-updated: 2024-09-05T16:15:09.992Z
+date: 2024-09-09T04:11:25.371Z
+updated: 2024-09-10T04:11:25.371Z
 tags:
   - games
   - tv
@@ -11,6 +11,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170ba42ee253c3df8a8c92937c0.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhanced Dolphin Emulator: Introducing HDR Support for Nintendo's Wii & GameCube Titles
 
 It's hard to get emulators _completely_ right with intrincate hardware designs and protections. The first version of Dolphin was released in 2003, but even after 21 years of development, there are still improvements to be made. Dolphin has now published a new progress report outlining all the new features and changes from the past few months, and there's a lot to talk about.
@@ -23,6 +29,12 @@ It's hard to get emulators _completely_ right with intrincate hardware designs a
 
 ![Dropdown menu with various aspect ratios in Dolphin settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/aspectratiocustom.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dolphin
 
  The emulator can now output to HDR displays on Windows, macOS, and select Linux systems as well. You're getting two HDR enhancement shaders here: AutoHDR subtly expands highlights for an HDR effect while maintaining an authentic look, and PerceptualHDR delivers a more dramatic transformation with higher brightness and saturation. It's worth noting that due to variations in displays and limitations of older game lighting engines, achieving the ideal HDR look may require experimentation and adjustments.
@@ -114,10 +126,3 @@ Dolphin
 <li><a href="https://buynow-help.techidaily.com/voice-command-victory-analyzing-the-pros-and-cons-of-alexa-against-google-assistant/"><u>Voice Command Victory: Analyzing the Pros and Cons of Alexa Against Google Assistant</u></a></li>
 <li><a href="https://buynow-help.techidaily.com/why-the-apple-ipad-pro-2018-11-inches-stands-out-as-a-leading-tablet-device/"><u>Why the Apple iPad Pro (2018, 11 Inches) Stands Out as a Leading Tablet Device</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

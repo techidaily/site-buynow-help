@@ -1,7 +1,7 @@
 ---
 title: Affordable High-Performance TP-Link Archer A9 Router Evaluation – Less Than $100
-date: 2024-08-09T00:38:52.048Z
-updated: 2024-08-10T00:38:52.048Z
+date: 2024-09-09T04:08:08.179Z
+updated: 2024-09-10T04:08:08.179Z
 categories:
   - BestProducts
 description: This Article Describes Affordable High-Performance TP-Link Archer A9 Router Evaluation – Less Than $100
@@ -9,17 +9,32 @@ excerpt: This Article Describes Affordable High-Performance TP-Link Archer A9 Ro
 thumbnail: https://www.lifewire.com/thmb/_dREsVYrj4hW6KtI2UvhJGoOPdk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_HeroSquare-05a827c48b274d8e9ccd0070e770f4d4.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Affordable and Efficient: The Mohu Leaf 30 Antenna'4 High Performance Proven in Our Review
 
 4.2
 
 ## Mohu Leaf 30
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/AyUAqIhKcHESYKlEswC1pUtS1Po=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Jonno Hill
 
  What We Like
@@ -41,13 +56,13 @@ Lifewire / Jonno Hill
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Mohu Leaf 30
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/xXK31GRLX2h6w0vFc9K2Ps_ufqk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
 
 Lifewire / Jonno Hill
@@ -74,7 +89,10 @@ Lifewire / Jonno Hill
  Mohu might not be breaking new ground with this antenna, but it’s more than sufficient for most city dwellers and perhaps even a few buyers in the suburbs with a relatively unobstructed path to the broadcast source.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Basic but effective**
 
@@ -103,7 +121,10 @@ Lifewire / Jonno Hill
  Buyers probably wouldn’t be wise to spend more money unless they live a bit further from their signal source and have had trouble with similar antennas in the past. I think that for most people living in cities, the Mohu Leaf 30 TV Antenna should be more than enough.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Mohu Leaf 30 TV Antenna vs Mohu Blade TV Antenna**
 
@@ -115,7 +136,10 @@ Lifewire / Jonno Hill
  The Mohu Leaf 30 TV Antenna is a great entry point into the TV antenna space, providing a nice mix of performance and value in a dead-simple package that won’t burden buyers during setup. It might not be powerful enough to suit the needs of suburban users and beyond, but if you’re close enough to the signal source, it’s a nice option.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -144,3 +168,48 @@ Lifewire / Jonno Hill
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cut-the-cord-download-fb-videos-on-pc-and-mobile-for-2024/"><u>[New] Cut the Cord - Download FB Videos on PC & Mobile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-extract-youtube-trailers-and-more-for-2024/"><u>[New] How to Extract YouTube Trailers & More for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-optimizing-apex-dive-deep-into-single-platform-solitude/"><u>[New] Optimizing Apex Dive Deep Into Single-Platform Solitude</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-youtube-seo-optimization/"><u>[New] The Ultimate Guide to YouTube SEO Optimization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-photographs-into-stunning-collaborative-art/"><u>[New] Transforming Photographs Into Stunning Collaborative Art</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unlock-the-secrets-of-9gag-for-memetic-success/"><u>[Updated] 2024 Approved Unlock the Secrets of 9GAG for Memetic Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimizing-audio-transition-from-cds-using-wmp/"><u>[Updated] Optimizing Audio Transition From Cds Using WMP</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bluetooth-fm-transmitter-criacr-comprehensive-review-of-the-compact-cp24/"><u>Bluetooth FM Transmitter CRIACR - Comprehensive Review of the Compact CP24</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boost-gaming-and-multimedia-learn-how-to-replace-a-graphic-processor-unit/"><u>Boost Gaming and Multimedia: Learn How to Replace a Graphic Processor Unit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-watch-mkv-files-on-itunes-begin-your-free-conversion-to-compatible-mp4-and-mov-formats-now/"><u>Can You Watch MKV Files on iTunes? Begin Your Free Conversion to Compatible MP4 & MOV Formats Now!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-blueear-wireless-earmuff-headband-assessment-stylish-and-functional-audio-with-solid-performance/"><u>Comprehensive BlueEar Wireless Earmuff Headband Assessment: Stylish and Functional Audio with Solid Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-ideapad-laptop-analysis-unveiling-the-quality-and-design/"><u>Comprehensive Lenovo IdeaPad Laptop Analysis: Unveiling the Quality and Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-acurite-pro-weather-station-01036m-effortless-installation-and-solid-construction/"><u>Comprehensive Review of AcuRite Pro Weather Station 01036M: Effortless Installation & Solid Construction</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/critical-points-to-reflect-on-before-selecting-a-new-print-device/"><u>Critical Points to Reflect on Before Selecting a New Print Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decision-time-which-is-better-a-head-to-head-analysis-of-apple-watch-s9-and-fitbit-charge-6/"><u>Decision Time! Which Is Better? A Head-to-Head Analysis of Apple Watch S9 & Fitbit Charge 6</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-6s-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 6s Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engaging-audiences-with-dynamic-photoviewer-content-in-pixiz/"><u>Engaging Audiences with Dynamic Photoviewer Content in Pixiz</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-midland-lxt500vp3-a-radio-built-for-extraordinary-but-plagued-by-underwhelming-performance/"><u>Evaluating the Midland LXT500VP3: A Radio Built for Extraordinary, But Plagued by Underwhelming Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-uncharted-audio-territory-avantrees-aria/"><u>Exploring Uncharted Audio Territory: Avantree's Aria</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/incredible-value-of-the-asus-chromebook-flip-c302ca-budget-friendly-convertible-laptop-with-outstanding-quality/"><u>Incredible Value of the ASUS Chromebook Flip C302CA - Budget-Friendly Convertible Laptop with Outstanding Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lensdirect-blue-light-glasses-review-block-blue-light-with-prescription-lenses/"><u>LensDirect Blue Light Glasses Review: Block Blue Light With Prescription Lenses</u></a></li>
+<li><a href="https://techtrends.techidaily.com/may-25th-new-york-times-connection-puzzles-solved-349-edition/"><u>May 25Th New York Times Connection Puzzles Solved - #349 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mohu-blade-tv-antenna-review-a-unique-design-and-good-indoor-performance/"><u>Mohu Blade TV Antenna Review: A Unique Design And Good Indoor Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-past-in-depth-review-of-the-legacy-netgear-c3000-router-with-built-in-modem-features/"><u>Navigating the Past: In-Depth Review of the Legacy Netgear C3000 Router with Built-In Modem Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paw-patrol-party-pet-playtime/"><u>Paw Patrol Party: Pet Playtime</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pedaling-towards-better-tracking-inside-look-at-mapmyride-app-review/"><u>Pedaling Towards Better Tracking? Inside Look at MapMyRide App Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-access-to-canon-scanner-drivers-for-windows-download-now/"><u>Quick Access to Canon Scanner Drivers for Windows - Download Now!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/recording-showdown-the-battle-for-the-best-screen-grabber-for-2024/"><u>Recording Showdown The Battle for the Best Screen Grabber for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-garmin-vivomove-hr-smartwatch-the-trendiest-gadget-for-fitness-enthusiasts/"><u>Review of the Garmin Vivomove HR Smartwatch: The Trendiest Gadget for Fitness Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-a51-5g-evaluation-excellent-deal-for-budget-conscious-tech-enthusiasts/"><u>Samsung Galaxy A51 5G Evaluation: Excellent Deal for Budget-Conscious Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-a51-5g-unleashed-exceptional-value-for-next-gen-network-speed-enthusiasts/"><u>Samsung Galaxy A51 5G Unleashed - Exceptional Value for Next-Gen Network Speed Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-creating-your-unique-nintendo-network-id-on-the-3ds/"><u>Step-by-Step Guide: Creating Your Unique Nintendo Network ID on the 3DS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/study-shows-totobay-as-leading-contender-for-cost-effective-sunrise-alarm-clocks/"><u>Study Shows Totobay as Leading Contender for Cost-Effective Sunrise Alarm Clocks!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-choice-for-budget-readers-a-comprehensive-amazon-kindle-2019-review/"><u>The Best Choice for Budget Readers? - A Comprehensive Amazon Kindle (2019) Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-miniature-master-unpacking-the-power-of-sx740-hs/"><u>The Miniature Master: Unpacking the Power of SX740 HS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-portable-pro-with-extended-zoom-meet-the-sx70/"><u>The Portable Pro with Extended Zoom - Meet the SX70!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-revolutionary-amazon-fire-tv-cube-guide-blazing-fast-media-device-for-everyone/"><u>The Revolutionary Amazon Fire TV Cube Guide: Blazing Fast Media Device for Everyone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-of-voice-transcription-tools-224/"><u>The Ultimate Selection of Voice Transcription Tools - 2#24</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repair-dealing-with-kernel3-dll-errors-on-windows-machines/"><u>Troubleshooting and Repair: Dealing with Kernel3^ Dll Errors on Windows Machines</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-audio-essentials-removing-background-noise-for-crisp-sound/"><u>Updated FCPX Audio Essentials Removing Background Noise for Crisp Sound</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/value-meets-performance-in-our-comprehensive-oneplus-nord-n1-review/"><u>Value Meets Performance in Our Comprehensive OnePlus Nord N1^ Review!</u></a></li>
+</ul></div>

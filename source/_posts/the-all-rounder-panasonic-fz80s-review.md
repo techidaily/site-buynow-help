@@ -1,7 +1,7 @@
 ---
 title: "The All-Rounder: Panasonic FZ80's Review"
-date: 2024-08-09T00:38:51.308Z
-updated: 2024-08-10T00:38:51.308Z
+date: 2024-09-09T04:06:51.555Z
+updated: 2024-09-10T04:06:51.555Z
 categories:
   - BestProducts
 description: "This Article Describes The All-Rounder: Panasonic FZ80's Review"
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
 ![DDpai mini3](https://www.lifewire.com/thmb/m-JiQKEOfEZO6ef5cqKE0iCn6mQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4062264_HeroSquare-49298d637a2d4aeb9ef1213bafb0ebf7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Danny Chadwick
 
  What We Like
@@ -66,7 +72,10 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: 21st Century Dashcam**
 
@@ -97,7 +106,10 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup Process: Read the manual first**
 
@@ -108,7 +120,16 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Mobile App: What sets it apart**
 
@@ -130,29 +151,20 @@ Lifewire / Danny Chadwick
 
  It can capture footage in 4K resolution as well as 1600p using an f/1.8 aperture that lets in more light.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## **Performance: Always there for you**
 
  Once it was installed and ready to go, we drove this dashcam through the cities, suburbs, mountains, forests, and red rocks of Utah. Because the camera is so well-hidden behind the rearview mirror, we often forgot it was there. But when we passed a particularly scenic lake or rock formation, it was natural to just reach down and push the remote button to snap a picture.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Surprising low for what you get**
 
  As of the time of this writing, you can pick up the DDPAI mini3 for about $130\. For what you get out of this camera, we think this is a great value. Similarly-priced models we tested don’t nearly match the quality and utility you get from the mini3.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition** :**DDPAI** **mini3 vs. Z-Edge Z3 Plus**
 
  We also tested the mini3 alongside the Z-Edge Z3 Plus, which is a similarly-priced dashcam with more of a focus on security.
@@ -170,7 +182,16 @@ Lifewire / Danny Chadwick
  If you’re a road-tripper, travel vlogger, or plugged-in social media user, then the DDPAI mini3 is made for you. Not only is this dashcam stylish and discreet, it also captures beautiful photos and video of your travels that are perfect for sharing or simply saving to revisit down the road.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
@@ -178,6 +199,12 @@ Lifewire / Danny Chadwick
 * [Rexing V1 DashCam](https://www.lifewire.com/rexing-v1-dashcam-review-4770571)
 * [Anker Roav DashCam C1](https://www.lifewire.com/anker-roav-dashcam-c1-review-4773139)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Dash Cam mini3
@@ -205,3 +232,52 @@ Lifewire / Danny Chadwick
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expert-tips-capturing-high-quality-whatsapp-voice-transcripts/"><u>[New] 2024 Approved Expert Tips Capturing High-Quality WhatsApp Voice Transcripts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-amalgamate-ppts-for-video-creation/"><u>[New] Amalgamate PPTs for Video Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-discovering-the-forgotten-chronicles-a-guide-to-past-facebook-stories-on-tech-devices-for-2024/"><u>[New] Discovering The Forgotten Chronicles A Guide to Past Facebook Stories on Tech Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-future-of-fb-ads-whats-a-must-try/"><u>[New] In 2024, Future of FB Ads – What’s a Must-Try?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-most-attractive-game-ready-gaming-equipment-for-under-100-for-2024/"><u>[New] The Most Attractive Game-Ready Gaming Equipment for Under $100 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-ranked-zoonotic-patterns/"><u>[New] Top-Ranked Zoonotic Patterns</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-engaging-bio-stories-a-guide-to-stand-out-on-fb/"><u>[Updated] Crafting Engaging Bio Stories – A Guide to Stand Out on FB</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-exclusive-mac-hd-scribing-plus-auditory-logging-solution/"><u>[Updated] Exclusive Mac HD Scribing + Auditory Logging Solution</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-live-footage-at-its-best-gamers-recording-tips/"><u>[Updated] Live Footage at Its Best Gamers' Recording Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insiders-guide-to-watermark-free-images/"><u>[Updated] The Insider's Guide to Watermark-Free Images</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-link-audio-to-facebook-profiles-iphoneandroid/"><u>2024 Approved How to Link Audio to Facebook Profiles (iPhone/Android)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-best-virtualdub-replacements-for-video-editing/"><u>2024 Approved The Best Virtualdub Replacements for Video Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-zoom-chat-how-to-chat-in-zoom-meeting/"><u>2024 Approved Zoom Chat How to Chat in Zoom Meeting?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-top-storm-alert-and-tracking-mobile-apps-reviewed/"><u>2024'S Top Storm Alert and Tracking Mobile Apps Reviewed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/chromecast-reimagined-introducing-google-tv-and-outshining-firetv/"><u>Chromecast Reimagined: Introducing Google TV and Outshining FireTV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-moto-g-play-features-exceptional-battery-endurance-and-respectable-performance-metrics/"><u>Comprehensive Review of Moto G Play Features – Exceptional Battery Endurance and Respectable Performance Metrics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-assessment-of-viber-out-features-and-user-satisfaction/"><u>Detailed Assessment of Viber Out Features and User Satisfaction</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-leading-online-tech-education-sites-code-mastery/"><u>Discover The Leading Online Tech Education Sites - Code Mastery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-power-of-tangos-free-messaging-and-calls-comprehensive-analysis-inside/"><u>Discover the Power of Tango's Free Messaging & Calls – Comprehensive Analysis Inside!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-curated-selection-of-brands-and-phones-at-reputable-retailers/"><u>Expertly Curated Selection of Brands and Phones at Reputable Retailers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-value-proposition-in-depth-look-at-the-hp-stream-14-windows-laptop-on-a-shoestring-budget/"><u>Exploring the Value Proposition: In-Depth Look at the HP Stream 14 Windows Laptop on a Shoestring Budget</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-assistant-or-alexa-which-voice-ai-should-be-your-preferred-companer/"><u>Google Assistant or Alexa: Which Voice AI Should Be Your Preferred Companer?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/high-definition-video-editing-top-5-software-solutions/"><u>High-Definition Video Editing Top 5 Software Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-issues-with-apple-watch-failure-to-recognize-steps-or-exercise/"><u>How to Resolve Issues with Apple Watch Failure to Recognize Steps or Exercise</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-is-av1-really-outdo-cooking-vp9/"><u>In 2024, Is AV1 Really Outdo Cooking VP9?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-enhanced-e-reader-experience-with-barnes-and-nobles-giant-display-the-nook-glowlight-plus/"><u>In-Depth Look at the Enhanced E-Reader Experience with Barnes & Noble's Giant Display - The Nook GlowLight Plus</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-testing-the-features-of-samsung-galaxy-budsplus/"><u>In-Depth Review: Testing the Features of Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lightweight-manfrotto-befree-600-series-excellent-mobility/"><u>Lightweight Manfrotto Befree 600 Series: Excellent Mobility</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-portable-energy-with-maxoaks-185wh-bank-a-detailed-product-assessment/"><u>Mastering Portable Energy with MaxOak's 185Wh Bank: A Detailed Product Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-network-a-thorough-review-of-netgear-nighthawk-x6-wireless-expansion-technology/"><u>Maximizing Your Network: A Thorough Review of Netgear Nighthawk X6 Wireless Expansion Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/portable-moko-compact-folding-keyboard-with-bluetooth-connectivity/"><u>Portable MoKo Compact Folding Keyboard with Bluetooth Connectivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-resolve-absence-of-noise-on-pc-without-hassle/"><u>Quick Fix Guide: Resolve Absence of Noise on PC Without Hassle</u></a></li>
+<li><a href="https://win-forum.techidaily.com/retro-tech-goes-open-source-microsofts-dos-40-from-the-late-80s-ready-to-download/"><u>Retro Tech Goes Open Source: Microsoft's DOS 4.0 From the Late '80S Ready to Download!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-lgs-latest-smartphone-a-blend-of-elegant-design-and-reliable-stylus-feature/"><u>Review of LG's Latest Smartphone: A Blend of Elegant Design & Reliable Stylus Feature</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/sonicsoothsayer-listening-inspection-report-for-2024/"><u>SonicSoothsayer Listening Inspection Report for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-monetary-side-of-podcasting-success/"><u>The Monetary Side of Podcasting Success</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-new-apple-tv-4k-3rd-generation/"><u>The Ultimate Guide to the New Apple TV 4K (3Rd Generation)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-off-roaders-compan-cupant-a-detailed-review-of-the-top-race-rc-rock-crawler/"><u>The Ultimate Off-Roader's Compan Cupant: A Detailed Review of the Top Race RC Rock Crawler</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-drawbacks-of-the-new-apple-vision-pro-could-these-flaws-stop-you/"><u>Top 6 Drawbacks of the New Apple Vision Pro - Could These Flaws Stop You?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-rechargeable-battery-charger-units-in-2-cups/"><u>Top-Rated Rechargeable Battery Charger Units in 2 Cups</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-a-wifi-mesh-network-is-google-wifi-the-best-option/"><u>Ultimate Guide to Choosing a WiFi Mesh Network: Is Google WiFi the Best Option?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-evaluating-the-samsung-galaxy-s21-ultra-a-leader-in-android-devices/"><u>Unboxing and Evaluating the Samsung Galaxy S21 Ultra – A Leader in Android Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-benefits-of-the-maxoak-battery-pack-a-high-performance-185wh-5000flya-review/"><u>Unpacking the Benefits of the MaxOak Battery Pack - A High-Performance 185Wh / 50,00Flya Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-excellence-of-soundbots-sb210-model-exceptional-auditory-experience-under-ideal-conditions/"><u>Unpacking the Excellence of Soundbot's SB210 Model: Exceptional Auditory Experience Under Ideal Conditions</u></a></li>
+</ul></div>

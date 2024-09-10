@@ -1,7 +1,7 @@
 ---
 title: "Top Choice Couch Co-Op Video Games: Best Picks for Enjoying Gaming Together"
-date: 2024-09-04T16:15:09.397Z
-updated: 2024-09-05T16:15:09.397Z
+date: 2024-09-09T04:11:24.837Z
+updated: 2024-09-10T04:11:24.837Z
 tags:
   - games
   - tv
@@ -28,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 
  Couch gaming has been a staple of the medium since its inception and even with the rise of online multiplayer, it's still going strong. Whether you're a casual gamer or a dedicated player seeking some hearty challenges, the team at How-To Geek has put together a list of our favorite games to play locally.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 _Puyo Puyo Tetris 2_ 
 
  An all-time favorite of mine, _Puyo Puyo Tetris 2_ is the adorably fun mashup of Sega's _Puyo Puyo_ puzzler series and the all-time classic _Tetris._ Players can face off against up to three friends to outlast the rest in "swap battles" which switch between both games on the fly mid-match, or simply play each game separately.
@@ -40,36 +46,18 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 
  On top of weapons like machine guns, rocket launchers, and even melee options, there is a plethora of power-ups and modifiers you can turn on or off to enhance the game even more. _Duck Game_ is available on the PlayStation 4/5, Nintendo Switch and PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 _Rocket League_ 
 
  Affectionately called "soccer with cars" by many, _Rocket League_ is, well, pretty much exactly that. The game pits players against each other in rocket-powered cars to score goals. Players can face off against each other in split-screen matches, or team up against others online.
 
  Featuring robust customization options for your in-game vehicles and a slew of game modes and modifiers, there is no shortage of things to unlock and work towards. The game went free to play a few years back and is available on all current platforms making it a fun, free way to spend an afternoon with some friends.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 _Brawlhalla_ 
 
  Despite its reputation as a free alternative to _Super Smash Bros.,_ _Brawlhalla_ has a lot of its own unique charms compared to Nintendo's flagship fighter. It takes on the same 2D level design and similar mechanics where damage builds over time but retains its own identity with slower-paced gameplay and mostly original characters.
 
  While the game is free to play, it does have a limited roster of free characters that cycle out regularly, with the rest available for permanent unlock via [microtransactions](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/). With franchises like the _Teenage Mutant Ninja Turtles_ and _Assassin's Creed_ making their way into the roster, it may be worth a punt if you're a fan of fighting games.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 _Portal 2_ 
 
  One of the most iconic games of all time and certainly one of the best puzzle-platformers out there, _Portal 2_ tasks players with navigating a series of test chambers using their portal gun that allows them to move from one point to another instantaneously. While the single-player campaign is already one of the greatest of all time, the game also features a robust two-player co-op campaign where players can solve increasingly difficult rooms together.
@@ -77,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
  Players control a pair of charming little robots as they work their way through the campaign's numerous stages, working together to overcome each challenge in uniquely inventive ways. The game is available on the PlayStation 4/5, Xbox One and Series X/S, Nintendo Switch, PC and Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6 _Overcooked!_ 
 
@@ -88,6 +76,12 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 
  It doesn't matter which game you choose to pick up, both offer a similar amount of content, though the sequel also offers online multiplayer for those who might want it. Available on the PS4/5, Xbox One and Series X/S, PC, and Nintendo Switch, _Overcooked!_ serves up fast-paced fun for everyone.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7 _Minecraft: Bedrock Edition_ 
 
  One of the less obvious features of the Bedrock version of _Minecraft_ is that it is the only one to support local multiplayer via split-screen on console versions. Up to four players can build, craft, and survive together in procedurally generated worlds or build the structures of their dreams in creative mode all from the same room.
@@ -95,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
  The game also supports cross-platform online multiplayer across the PlayStation, Xbox, and Switch versions of the game, and online players can join your split-screen sessions seamlessly. _Minecraft: Bedrock Edition_ is available on the PlayStation 4/5, Xbox One, Xbox Series X/S and Nintendo Switch.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8 _Super Mario Party_ 
 
@@ -107,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
  While the newest entry lacks the same amount of content as older titles, it does bring backstages and mini-games from previous titles and offers hours of fun between you and your friends. Choose between your favorite Mario characters and battle it out to get the most stars by the end of the last turn to take home the victory.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 9 _Baldur's Gate 3_ 
 
@@ -118,6 +112,12 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 
  Considering how large and robust the game already is, playing _Baldur's Gate 3_ with a friend could add a whole new layer of strategy and decision-making as you work together to beat bosses and make story decisions. The game is available on the PlayStation 5, Xbox Series X, and PC; the Series S version does not feature split-screen co-op, however.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 _Call of Duty_ 
 
  Most of the _Call of Duty_ titles feature split-screen gameplay across most game modes, except Warzone in _Modern Warfare III._ Whether you're looking for co-op action with the zombies mode or you want to battle it out in several competitive modes, you and some friends can do worse than the flagship shooter franchise on consoles.

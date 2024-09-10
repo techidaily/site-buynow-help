@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Netgear C3700 as a Primary Modem Solution
-date: 2024-08-09T00:38:52.249Z
-updated: 2024-08-10T00:38:52.249Z
+date: 2024-09-09T04:08:29.570Z
+updated: 2024-09-10T04:08:29.570Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating the Netgear C3700 as a Primary Modem Solution
@@ -14,7 +14,16 @@ thumbnail: https://www.lifewire.com/thmb/gviNJgKKnr3PxooAF6y3zR6wYS8=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
@@ -41,10 +50,22 @@ thumbnail: https://www.lifewire.com/thmb/gviNJgKKnr3PxooAF6y3zR6wYS8=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/AfRhNgqeOD7JfcVqpjzm5LwPSB4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 [View On Amazon $185](https://www.amazon.com/dp/B07T89YZWD?tag=lifewire-onsite-prod-20&ascsubtag=4846125%7Cn35b11b2c61b54fa1a2d951691d1a61ed04%7CB07T89YZWD) [View On Walmart $379](https://www.walmart.com/ip/NETGEAR-Nighthawk-AX6000-Dual-Band-WiFi-Wireless-6-Mesh-Range-Extender-EAX80-100NAS/122370265) [View On Best Buy $197](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-nighthawk-ax6000-ax8-dual-band-wi-fi-6-range-extender-black%2F6359409.p%3FskuId%3D6359409)
@@ -78,7 +99,10 @@ thumbnail: https://www.lifewire.com/thmb/gviNJgKKnr3PxooAF6y3zR6wYS8=/400x300/fi
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup Process: Avoid the app**
 
@@ -90,16 +114,16 @@ thumbnail: https://www.lifewire.com/thmb/gviNJgKKnr3PxooAF6y3zR6wYS8=/400x300/fi
 
  Over and over, the setup process wouldn’t complete… and then it finally did. I ran into similar issues with the other Netgear extenders, in which setup processes didn’t work as expected on the first or second time, but this was a much longer and more arduous ordeal. Finally, however, I got the Nighthawk AX8 up and running. From there, you’ll need to find a new location for the extender—roughly halfway between the router and your Wi-Fi dead zone is ideal, but play around with positioning if you’re not getting the results you seek.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Connectivity: Smooth sailing**
 
  Once through the hassle of setup, the Netgear Nighthawk AX8 Wi-Fi 6 Mesh Extender really did deliver strong performance. I tested the connection in my office, which reliably sees reduced 5GHz reception from my router due to obstructions in between, and saw a noticeable boost in both reception and speed.
@@ -114,11 +138,14 @@ thumbnail: https://www.lifewire.com/thmb/gviNJgKKnr3PxooAF6y3zR6wYS8=/400x300/fi
 
  Given the high max speeds, it wasn’t surprising to see strong gaming performance, as well. While playing Rocket League, I saw smooth gameplay across the wired Ethernet connection as well as both wireless networks, with a ping as low as 33 via the wired connection. The wireless ping was only a few points higher.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
  As a Wi-Fi mesh extender, the Netgear Nighthawk AX8 will automatically replicate the SSID of your router’s existing Wi-Fi networks and seamlessly keep you connected whenever you’re in range of either. That’s true even with non-Netgear routers and those without Wi-Fi 6 support, and it’s a huge benefit over some cheaper extenders that don’t keep the same network info intact across devices.
@@ -127,9 +154,6 @@ thumbnail: https://www.lifewire.com/thmb/gviNJgKKnr3PxooAF6y3zR6wYS8=/400x300/fi
 
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## **Price: More than most**
 
  The Netgear Nighthawk AX8 Wi-Fi 6 Mesh Extender is listed at $250, although it’s being sold for $220 at multiple retailers as of this writing. That’s definitely on the higher end for an extender.
@@ -171,3 +195,57 @@ thumbnail: https://www.lifewire.com/thmb/gviNJgKKnr3PxooAF6y3zR6wYS8=/400x300/fi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ensuring-privacy-in-zoom-meetings-by-recording/"><u>[New] 2024 Approved Ensuring Privacy in Zoom Meetings by Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-6-unobtrusive-applications-for-android-captures/"><u>[New] 2024 Approved Top 6 Unobtrusive Applications for Android Captures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-stories-screen-capture-made-simple/"><u>[New] In 2024, Instagram Stories Screen Capture Made Simple</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-playlist-sharing-on-youtube/"><u>[New] Mastering Playlist Sharing on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-what-is-igtv-and-how-to-use-it-everything-you-need-to-know/"><u>[New] What Is IGTV and How to Use It Everything You Need to Know</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pixelperfect-the-modern-recorder-diagnosis/"><u>[Updated] 'PixelPerfect' The Modern Recorder Diagnosis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>[Updated] Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-down-barriers-to-affordable-editing-power/"><u>2024 Approved Breaking Down Barriers to Affordable Editing Power</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-currency-of-clicks-youtube-view-revenue-explored/"><u>2024 Approved The Currency of Clicks Youtube View Revenue Explored</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubers-essential-camera-guidebook/"><u>2024 Approved YouTubers' Essential Camera Guidebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerating-videos-an-easy-start-with-snapchat-for-2024/"><u>Accelerating Videos An Easy Start with Snapchat for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battling-with-battlenet-a-step-by-step-fixed-it-out-your-2nd-comprehensive-guide/"><u>Battling With Battle.net: A Step-by-Step Fixed It Out - Your 2nD Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/benchmark-test-results-the-fastest-and-most-secure-wi-fi-router-asus-rt-ac68u/"><u>Benchmark Test Results: The Fastest and Most Secure Wi-Fi Router - Asus RT-AC68U</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-fujitsu-scansnap-ix1600-analysis-top-of-the-line-desktop-document-scanner/"><u>Comprehensive Fujitsu ScanSnap iX1600 Analysis: Top-of-the-Line Desktop Document Scanner</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-flexispot-theodore-standing-desk-a-sleek-choice-for-contemporary-offices/"><u>Comprehensive Review of the Flexispot Theodore Standing Desk - A Sleek Choice for Contemporary Offices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-gaming-experience-with-samsungs-q60r-smart-qled-4k-television-a-detailed-overview/"><u>Discover the Ultimate Gaming Experience with Samsung's Q60R Smart QLED 4K Television: A Detailed Overview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/diving-into-dying-lights-co-op-world-a-thrilling-combination-of-first-person-action-parkour-skills-and-tactical-teamwork-reviewed/"><u>Diving Into Dying Light's Co-Op World: A Thrilling Combination of First-Person Action, Parkour Skills, and Tactical Teamwork Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-gpu-drivers-nvidia-rtx-2060-super-for-windows-11-systems/"><u>Download Updated GPU Drivers: Nvidia RTX 2060 Super for Windows 11 Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-ear-clips-that-deliver-senso-reviewed/"><u>Economical Ear Clips That Deliver: Senso Reviewed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-l3150-drivers-download-install-and-upgrade-for-windows-11-10-8-and-7-easy-guide/"><u>Epson L3150 Drivers: Download, Install & Upgrade for Windows 11, 10, 8, and 7 - Easy Guide!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-rankings-the-elite-selection-of-network-server-cabinets-and-cases/"><u>Expert Rankings: The Elite Selection of Network Server Cabinets and Cases</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-and-benefits-of-the-netgear-nighthawk-c7000-wireless-networking-solution/"><u>Exploring the Features and Benefits of the Netgear Nighthawk C7000 Wireless Networking Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012113855-hyper-scape-stability-issues-resolved-how-to-stop-pc-game-crashes/"><u>Hyper Scape Stability Issues Resolved – How To Stop PC Game Crashes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-find-n3-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Find N3?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-budget-friendly-mobvoi-ticwatch-e2-truly-value-for-money-our-review-says/"><u>Is the Budget-Friendly Mobvoi TicWatch E2 Truly Value for Money? Our Review Says...</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/johannes-honterus-a-great-personality-who-inspires-and-motivates-us/"><u>Johannes Honterus: A Great Personality Who Inspires And Motivates Us</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovos-2020-tab-m10-fhdplus-delivers-rich-visuals-without-breaking-the-bank-detailed-analysis-inside/"><u>Lenovo's 2020 Tab M10 FHD+ Delivers Rich Visuals without Breaking the Bank - Detailed Analysis Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-tech-insights-on-tome-hardware-hub/"><u>Navigating Advanced Tech Insights on Tom'e Hardware Hub</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-adobe-premiere-rush-vs-the-competition-top-4-alternatives/"><u>New In 2024, Adobe Premiere Rush Vs. The Competition Top 4 Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcp-hack-how-to-create-a-vhs-aesthetic-in-minutes/"><u>New In 2024, FCP Hack How to Create a VHS Aesthetic in Minutes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/petcube-budget-smart-hd-pets-camera-review-quality-meets-affordability/"><u>Petcube Budget-Smart HD Pets Camera Review: Quality Meets Affordability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/portable-moko-compact-bluetooth-keyboard-perfect-for-travel/"><u>Portable MoKo Compact Bluetooth Keyboard - Perfect for Travel</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-photography-with-lightzone-top-darkroom-app-for-pcs-and-macs/"><u>Revolutionize Your Photography with LightZone - Top Darkroom App for PCs & Macs!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/step-by-step-guide-installing-third-party-applications-directly-on-your-fire-tvstick/"><u>Step-by-Step Guide: Installing Third-Party Applications Directly on Your Fire TV/Stick</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-lowdown-on-lg-channels-top-details-unveiled/"><u>The Lowdown on LG Channels – Top Details Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-next-generation-of-powerhouse-computing-meet-apples-latest-m4-processor/"><u>The Next Generation of Powerhouse Computing: Meet Apple’s Latest M4 Processor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-cheat-sheet-for-using-macos-preview-as-an-image-editor-pro-tips-and-tricks/"><u>The Ultimate Cheat Sheet for Using macOS Preview as an Image Editor: Pro Tips and Tricks</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-microsoft-office-alternatives-ranked/"><u>The Ultimate Guide to Microsoft Office Alternatives - Ranked</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner/"><u>The Ultimate Guide to the Garmin Forerunner</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-understanding-the-fitbit-charge-6-expert-review-inside/"><u>The Ultimate Guide to Understanding the Fitbit Charge 6 - Expert Review Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-102-inch-ipad-7th-generation-and-its-game-changing-ipados-features/"><u>The Ultimate Review: 10.2-Inch iPad (7Th Generation) and Its Game-Changing IPadOS Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-viber-out-review-what-you-need-to-know-before-calling/"><u>The Ultimate Viber Out Review: What You Need to Know Before Calling</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/thermopros-tp67-reviewed-wallet-friendly-yet-questioning-its-reliability/"><u>ThermoPro's TP67 Reviewed: Wallet-Friendly Yet Questioning Its Reliability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-7-optimal-cell-phone-contracts-for-seniors/"><u>Top 7 Optimal Cell Phone Contracts for Seniors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/toshiba-55-inch-fire-tv-edition-lcd-tv-review-a-perfect-choice-for-amazon-prime-subscribers/"><u>Toshiba 55-Inch Fire TV Edition LCD TV Review: A Perfect Choice for Amazon Prime Subscribers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-evaluating-the-enduring-appeal-of-samsung-galaxy-tab-s/"><u>Unboxing and Evaluating the Enduring Appeal of Samsung Galaxy Tab S</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-creative-labs-sound-blaster-zxr-2013-a-fresh-look-at-flagship-audio-tech/"><u>Unboxing the Creative Labs Sound Blaster ZXR (2013): A Fresh Look at Flagship Audio Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-toughness-a-thorough-assessment-of-the-top-race-remote-control-rock-climber/"><u>Unveiling Toughness: A Thorough Assessment of the Top Race Remote Control Rock Climber</u></a></li>
+</ul></div>

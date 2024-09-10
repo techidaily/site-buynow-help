@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at AmazonBasics' Affordable and Reliable 6-Sheets Cross-Cut Paper Shredder
-date: 2024-08-09T00:38:51.142Z
-updated: 2024-08-10T00:38:51.142Z
+date: 2024-09-09T04:06:34.734Z
+updated: 2024-09-10T04:06:34.734Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Look at AmazonBasics' Affordable and Reliable 6-Sheets Cross-Cut Paper Shredder
@@ -13,14 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/ZGkU_v50do17iYS5LwlJ7MnuhQI=/400x300/fi
 
 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Amazon Fire TV Cube
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/K_gugGZBSXUKggkCqocQEu_IF2U=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroSquare-484d7d80c4354681968a1ff7d19b9676.jpg)
 
 Lifewire/Emily Ramirez
@@ -72,8 +66,20 @@ Lifewire/Emily Ramirez
 
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/XdJMKZTDX0bcXYVWQa5F4sXhnt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroHoriz-bb386a84025b49d2a22d3d34c6974007.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire/Emily Ramirez
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Futuristic design powered by Alexa**
 
  The Fire TV Cube is a cute, futuristic-looking block that will stand out on your home console despite its 4-inch sides. On the outside, it’s virtually unchanged from the first-generation model. Across the top, there’s a blue LED bar that lights up whenever the Cube takes action. The sides of the cube have a glossy black finish that’s a fingerprint magnet. There’s volume and menu buttons on the top, as well, but we don’t foresee a lot of use for them considering that the Cube comes with a remote. In the back, there’s an[HDMI connector](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) , a power adapter port, and a micro USB port.
@@ -88,6 +94,18 @@ Lifewire/Emily Ramirez
 
  My biggest pet peeve with the Cube’s design and features is its accessory bundle. For $120, Amazon could have afforded to throw in an HDMI cable—the $30 Roku Express has one, for instance. If you end up purchasing a Cube, remember to also get an[HDMI cable](https://www.lifewire.com/hdmi-cables-and-connectors-what-you-need-to-know-4685377) . I’ve found Blue Rigger strikes a great balance between affordability and quality, if you need a recommendation.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: Some difficulty in getting ready**
 
  Compared to the[Fire TV Stick](https://www.lifewire.com/amazon-fire-tv-stick-4k-review-4691492) , the Cube is a little harder to set up— it doesn’t automatically boot like the Stick, and you need to take into consideration its IR receivers. It must have a clear line of sight to your remote, so place it somewhere you can see it. Additionally, if you want to take advantage of its 4K capabilities, you’ll likely want to use the included Ethernet adapter (and you’ll need to acquire an[Ethernet cable](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ).
@@ -95,7 +113,16 @@ Lifewire/Emily Ramirez
  Once you have your cables connected and power flowing to the Cube, you now need to go through the software side of setup. It’ll ask you to connect to Internet, pick out some apps/channels, and log into your Amazon account.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Streaming Performance: Fast streaming and almost no buffering**
 
@@ -123,31 +150,25 @@ Lifewire/Emily Ramirez
 
  If you’re interested in a Cube because you love Amazon products and content, you’ll be pleased with Prime’s selection of video. There are many, many shows included with your Prime subscription, a lot of them with a stellar production team. Almost all Amazon originals are filmed in 4K, so you can get the most out of your Cube’s performance capabilities. If you haven’t already, you should watch The Expanse and The Marvelous Mrs. Maisel.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/21Mjfh9xUyCrX05R6TQdh9JX64c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_02-603b91304a21457c94312ceb97dfcf74.jpg)
 
 Lifewire/Emily Ramirez
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: On the expensive side**
 
  The Fire TV Cube costs $120, which is frankly a little expensive compared to the Fire TV Stick 4K or an Amazon Echo. However, if you want an Echo that’s also a media player, the Cube is your best option. It comes with excellent performance, control for IoT devices, built-in speaker and mic, and svelte looks. While it’s not the best value streaming device, it’s certainly a versatile and well-featured one.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Amazon Fire TV Cube vs. Roku Ultra**
 
@@ -162,7 +183,10 @@ Lifewire/Emily Ramirez
  The Amazon Fire TV Cube is a fantastic streamer for those committed to the Alexa ecosystem. However, it’s a little expensive if you only want reliable 4K streaming, in which case you may be better served by the Fire TV Stick 4K or the Roku Streaming Stick+ for $50.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -190,3 +214,42 @@ Lifewire/Emily Ramirez
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-comedy-gold-twitters-hottest-jokes-for-2024/"><u>[New] Comedy Gold Twitter's Hottest Jokes for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-simplified-guide-for-iphones-voice-capture-feature/"><u>[Updated] Simplified Guide for iPhone's Voice Capture Feature</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-hear-the-difference-explore-the-best-voice-changer-software-for-smartphones/"><u>2024 Approved Hear the Difference Explore the Best Voice Changer Software for Smartphones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-jujutsu-kaisens-universe-on-your-tiktok-feed/"><u>2024 Approved Jujutsu Kaisen’s Universe on Your TikTok Feed</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-clarity-windows-11-taskbar-tutorial/"><u>Achieving Clarity: Windows 11 Taskbar Tutorial</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-4k-laptops-for-ultimate-gaming-for-2024/"><u>Best 4K Laptops for Ultimate Gaming for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-photos-with-easy-online-cropping-steps/"><u>In 2024, Transforming Photos with Easy Online Cropping Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-splitgate-graphics-settings-fixes-for-increasing-speed-and-reducing-stutter/"><u>Mastering Splitgate Graphics Settings: Fixes for Increasing Speed & Reducing Stutter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/overcooked-2-critique-savoring-the-chaos/"><u>Overcooked! 2 Critique: Savoring the Chaos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/playstation-5-showdown-exploring-differences-between-standard-and-slim-variants/"><u>PlayStation 5 Showdown: Exploring Differences Between Standard and Slim Variants</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/prioritizing-these-5-points-can-make-or-break-your-fitness-tracker-experience/"><u>Prioritizing These 5 Points Can Make or Break Your Fitness Tracker Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ranking-the-highest-rated-mobile-games-for-on-the-go-players/"><u>Ranking: The Highest Rated Mobile Games for On-the-Go Players</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stay-chilled-with-a-bargain-a-detailed-examination-of-the-effective-topmate-c302-laptop-fan-stand/"><u>Stay Chilled with a Bargain: A Detailed Examination of the Effective TopMate C302 Laptop Fan Stand</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/subscribing-to-youtube-tv-here-are-five-significant-perks/"><u>Subscribing to YouTube TV? Here Are Five Significant Perks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sync-with-the-future-upgrade-your-pc-with-windows-11/"><u>Sync with the Future: Upgrade Your PC With Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taotronics-tt-dl16-led-lamp-review-modern-and-stylish/"><u>TaoTronics TT-DL16 LED Lamp Review: Modern and Stylish</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-5-biggest-tech-fails-of-2022/"><u>The 5 Biggest Tech Fails of 2022</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-companion-for-runners-a-detailed-review-of-the-garmin-forerunner-45/"><u>The Essential Companion for Runners: A Detailed Review of the Garmin Forerunner 45</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-hidden-costs-of-buying-a-tv-recorder-without-research/"><u>The Hidden Costs of Buying a TV Recorder Without Research</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-influencers-blueprint-five-steps-to-proven-marketing-success-for-2024/"><u>The Influencer's Blueprint Five Steps to Proven Marketing Success for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-miniature-powerhouse-ourlink-u631-usb-wi-fi-adapter-for-superior-speed-and-durability/"><u>The Miniature Powerhouse: OURLINK U631 USB Wi-Fi Adapter for Superior Speed & Durability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-how-the-linksys-velop-reinvents-mesh-networking-technology/"><u>The Ultimate Review: How the Linksys Velop Reinvents Mesh Networking Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tiny-yet-mighty-a-comprehensive-echo-dot-gen-3-review-covering-all-alexa-features/"><u>Tiny Yet Mighty: A Comprehensive Echo Dot (Gen 3) Review Covering All Alexa Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-features-and-review-of-the-netgear-nighthawk-x6-wireless-mesh-extender-for-enhanced-networking/"><u>Top Features and Review of the Netgear Nighthawk X6 Wireless Mesh Extender for Enhanced Networking</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-key-trackers-a-comprehensive-review/"><u>Top-Rated Key Trackers : A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-rest-a-thorough-review-of-the-ihome-zenergy-therapeutic-nighttime-companer-rise-and-shine-revitalized/"><u>Transforming Rest: A Thorough Review of the IHome Zenergy Therapeutic Nighttime Companer – Rise and Shine Revitalized</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-the-finest-wide-mouse-pads/"><u>Ultimate Selection: The Finest Wide Mouse Pads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-lg-stylo-6-a-blend-of-style-and-writing-accuracy-insightfully-reviewed/"><u>Unboxing the LG Stylo 6 – A Blend of Style and Writing Accuracy Insightfully Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-creative-potential-the-definitive-guide-to-huion-kamvas-gt-191-tablet/"><u>Unleash Your Creative Potential - The Definitive Guide to Huion Kamvas GT-191 Tablet</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-requires-elevation-puzzle-win-11s-error-740-solution/"><u>Unraveling the Requires Elevation Puzzle: Win 11'S Error #740 Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-choose-chatgpt-plus-here-are-5-insights-that-show-why-you-shouldnt-miss-out/"><u>Why Choose ChatGPT Plus? Here Are 5 Insights That Show Why You Shouldn't Miss Out!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/yokus-island-express-gameplay-analysis-unexpectedly-captivating-journeys/"><u>Yoku's Island Express Gameplay Analysis: Unexpectedly Captivating Journeys</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Effortless Mealtime with Arf's Auto-Feed Dog and Cat Food Dispenser
-date: 2024-08-09T00:38:53.364Z
-updated: 2024-08-10T00:38:53.364Z
+date: 2024-09-09T04:10:30.072Z
+updated: 2024-09-10T04:10:30.072Z
 categories:
   - BestProducts
 description: This Article Describes Effortless Mealtime with Arf's Auto-Feed Dog and Cat Food Dispenser
@@ -14,7 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/xqB6GvmsoqinTwWXEKpYRlAPObQ=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Insta360 One X2
 
@@ -43,16 +46,16 @@ Lifewire / Andy Zahn
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Insta360 One X2
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Insta360 One X2](https://www.lifewire.com/thmb/SA87_MJD5mJRnYY0t31c9ELFmlc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Insta360_One_X2_HeroSquare-80809b6088f0400baa121b1e7d14e4b1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Andy Zahn
 
 [View On Amazon $300](https://www.amazon.com/dp/B08M3B9754?tag=lifewire-onsite-prod-20&ascsubtag=5120402%7Cn5991ded260c043b49372f3c10028cf2500%7CB08M3B9754) [View On Best Buy $300](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6440817.p) [View On Adorama.com $300](https://www.adorama.com/ins3601xm2.html)
@@ -78,11 +81,10 @@ Lifewire / Andy Zahn
  Traditionally,[action cameras](https://www.lifewire.com/best-action-cameras-4139765) only capture a tiny window into the world. However, the Insta360 One X2 is one of a new breed of cameras that aim to uphold this age-old truth by capturing absolutely everything around them in a single spherical image. This opens up a wealth of opportunities from nifty editing tricks to easily capturing[VR](https://www.lifewire.com/virtual-reality-vr-definition-4155090) experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Design: A chunky, waterproof build
 
@@ -98,10 +100,22 @@ Lifewire / Andy Zahn
 
  Controls consist of a shutter button, power button, and circular touchscreen. An[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) light indicates the camera's status, and there is a standard tripod mount on the underside of the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Setup Process: Mostly straightforward
 
  The One X2 came partially charged and ready to go once I inserted a[microSD card](https://www.lifewire.com/best-sd-cards-to-buy-4072362) , though first I had to install the Insta360 app on my phone and activate the camera. This turned out to be a bit of a pain, with the Bluetooth connection used to activate the One X2 and set up the Wi-Fi connection repeatedly timing out and failing. Eventually, I got it up and running, and aside from the one hiccup, the process was fairly smooth, if more complex than I’d typically expect from a camera.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Image Quality: Good light a necessity
 
  My initial impressions of the Insta360 One X2 were tinted by the weather conditions in which I initially tested it. Here in Western Washington, winter can be gloomy and dark, so I ended up shooting in fairly dim conditions much of the time. As a result, I couldn’t help be shocked by how poor the video looked when I went to edit it. However, when given plenty of light to work with, the One X2 produced fairly decent-looking photos and video.
@@ -115,16 +129,15 @@ Lifewire / Andy Zahn
  One thing to remember about the One X2 is that its 5.7K recording resolution isn’t as sharp and detailed as you might expect, and when you crop down to a standard 16:9 frame you end up with[1080p](https://www.lifewire.com/what-the-term-1080p-means-1846837) . That’s good enough for viewing on a phone or small tablet, but the low resolution, as well as noise and image artifacts, become pretty significant when viewed on a large computer monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Audio: Unimpressive overall
 
  The audio recording on the One X2 could be charitably described as mediocre. It’s there, and it’s useable, but in a camera that would otherwise be well suited to vlogging, given its portable size and ease of use, it's a little disappointing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Storage Requirements: Hefty file size
 
  Though it may be the bare minimum for decent 360 footage, the 5.7L video footage the One X2 captures is still highly demanding in how much storage space it requires. A single short video clip easily takes up hundreds of megabytes of space, so you’ll want a big microSD card and plenty of hard drive space on your PC and/or[smartphone](https://www.lifewire.com/best-smartphones-4043781) .
@@ -155,6 +168,12 @@ Lifewire / Andy Zahn
 
  With an MSRP of $430, the One X2 is only a little more expensive than a high-end action camera, but it’s not bad for a 360 camera. It’s a good value if being able to shoot 360-degree video is a necessity for you.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Insta360 One X2 vs. GoPro Hero 9 Black
 
  You may well be trying to decide between a 360 camera and a traditional action camera, in which case the obvious choice to match against the Insta360 One X2 is the[GoPro HERO9 Black](https://www.lifewire.com/gopro-hero9-black-review-5120078) . On the surface, the GoPro looks like the obvious choice for far better image and audio quality with better durability at a lower price point. However, if what you want is to record special moments in your life without having to even think about the camera, then you should go with the One X2.
@@ -172,7 +191,10 @@ Lifewire / Andy Zahn
 * [GoPro HERO7 Black](https://www.lifewire.com/gopro-hero7-black-review-4705929)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -212,3 +234,44 @@ Lifewire / Andy Zahn
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-combating-an-unresponsive-obs-camera-input-stream-for-2024/"><u>[New] Combating an Unresponsive OBS Camera Input Stream for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-video-aesthetics-incorporating-lc-and-bb-in-facebook-posts-for-2024/"><u>[Updated] Enhancing Video Aesthetics Incorporating LC and BB in Facebook Posts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289135683-2024dvd/"><u>2024年パソコンでDVDを再生できず - 解決策とトラブルシューティング方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-shockwave-flash-issues-on-google-chrome/"><u>How to Repair Shockwave Flash Issues on Google Chrome</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 6s</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y78-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y78 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-and-proficiently-implementing-cc-rights/"><u>In 2024, Understanding and Proficiently Implementing CC Rights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-budget-friendly-asus-vivobook-11-for-everyday-use/"><u>In-Depth Analysis of the Budget-Friendly Asus VivoBook 11 for Everyday Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-guide-to-the-apple-homepod-mini-evaluating-sound-performance-and-integration-with-siri/"><u>In-Depth Guide to the Apple HomePod Mini – Evaluating Sound Performance & Integration with Siri</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-samsung-galaxy-budsplus/"><u>In-Depth Review: Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/jabra-talk-45-review/"><u>Jabra Talk 45 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/linksys-velop-test-drive-mastering-seamless-connectivity-with-a-leading-mesh-system/"><u>Linksys Velop Test Drive: Mastering Seamless Connectivity with a Leading Mesh System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-simultaneous-zip-file-extraction-in-windows/"><u>Master the Art of Simultaneous ZIP File Extraction in Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mid-gen-vs-next-gen-gaming-which-consoles-reign-supreme/"><u>Mid-Gen vs Next Gen Gaming: Which Consoles Reign Supreme?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-picture-in-picture-settings-for-iphone-and-ipad/"><u>Navigating Picture-in-Picture Settings for iPhone & iPad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-senior-mobility-the-top-7-phone-plans-to-choose-from-in-24/"><u>Navigating Senior Mobility: The Top 7 Phone Plans to Choose From in 2#4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-2024-a-comprehensive-review-of-top-performing-cable-modems/"><u>Navigating Through 2024: A Comprehensive Review of Top-Performing Cable Modems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgear-orbi-examined-why-its-the-premier-mesh-router-on-the-market-now/"><u>Netgear Orbi Examined: Why It's the Premier Mesh Router on The Market Now</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-art-of-cartooning-top-apps-to-turn-yourself-into-a-cartoon/"><u>New 2024 Approved The Art of Cartooning Top Apps to Turn Yourself Into a Cartoon</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oceantunes-test-depth-defying-fidelity/"><u>OceanTunes Test: Depth Defying Fidelity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pooch-pics-reel-entertainment-in-family-settings/"><u>Pooch Pics Reel: Entertainment in Family Settings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/precision-control-with-sabrents-wireless-travel-mouse-ideal-for-on-the-go-productivity/"><u>Precision Control with Sabrent's Wireless Travel Mouse - Ideal for On-the-Go Productivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/readers-paradise-a-deep-dive-into-the-capabilities-of-the-nook-glowlight-4-edition/"><u>Readers' Paradise: A Deep Dive Into the Capabilities of the Nook GlowLight 4 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rediscovering-a-gaming-icon-a-fresh-take-on-ratchet-and-clank/"><u>Rediscovering a Gaming Icon: A Fresh Take on Ratchet & Clank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliable-six-course-feeding-cycle-with-the-petsafe-automatic-pet-feeder/"><u>Reliable Six-Course Feeding Cycle with the PetSafe Automatic Pet Feeder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionary-guide-to-iphone-x-animoji-mastery-for-2024/"><u>Revolutionary Guide to iPhone X Animoji Mastery for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sizzling-success-an-in-depth-look-at-the-deliciously-maddening-world-of-overcooked-2/"><u>Sizzling Success: An In-Depth Look at the Deliciously Maddening World of Overcooked! 2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sony-xperia-5-assessment-compact-size-with-premium-pricing/"><u>Sony Xperia 5 Assessment: Compact Size with Premium Pricing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nubia-red-magic-9-proplus-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nubia Red Magic 9 Pro+ FRP</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/studiofxs-bright-kit-reviewed-for-durability-and-efficiency/"><u>StudioFX's Bright Kit Reviewed for Durability & Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-of-both-worlds-powerful-performance-and-value-in-the-samsung-galaxy-a5n-5g/"><u>The Best of Both Worlds: Powerful Performance and Value in the Samsung Galaxy A5n 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-surreal-space-saga-reviewed-by-aminy/"><u>The Surreal Space Saga Reviewed by Aminy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-caixun-75-4k-android-smart-tv-exceptional-value-for-money/"><u>The Ultimate Guide to Caixun 75 4K Android Smart TV: Exceptional Value for Money</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-8-plus-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 8 Plus without Passcode</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-mondlys-most-comprehensible-language-collection/"><u>Unveiling Mondly’s Most Comprehensible Language Collection</u></a></li>
+</ul></div>

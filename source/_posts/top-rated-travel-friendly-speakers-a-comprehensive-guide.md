@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Travel-Friendly Speakers : A Comprehensive Guide"
-date: 2024-09-04T16:15:08.162Z
-updated: 2024-09-05T16:15:08.162Z
+date: 2024-09-09T04:11:23.691Z
+updated: 2024-09-10T04:11:23.691Z
 tags:
   - buying-guides
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75fd36c3fc8b04cf6e73d4d3c9.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top-Rated Travel-Friendly Speakers : A Comprehensive Guide
 
 With summer just around the corner, the call of the great outdoors beckons. And what better way to enjoy those all-important day trips than by keeping your favorite tunes close at hand and investing in a trusty portable speaker?
@@ -28,6 +34,12 @@ Best Budget Portable Speaker
 * [](https://uk.jbl.com/bluetooth-speakers/XTREME-4.html?cgid=bluetooth-portables)  
 ![JBL Xtreme 4 TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/jbl-xtreme-4-tag.png)  
 JBL  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  JBL Xtreme 4  
 Best Portable Speaker  
 [See at JBL](https://uk.jbl.com/bluetooth-speakers/XTREME-4.html?cgid=bluetooth-portables)
@@ -44,6 +56,12 @@ Tribit
 Best Compact Portable Speaker  
 [$80 at Amazon](https://www.amazon.co.uk/dp/B0CCJ3XHK5)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Choose the Best Portable Speaker in 2024
 
  Choosing the best portable speaker will come down to when and where you want to use it. Naturally, size will be key, as you'll want something with a high portability factor, and this is a good place to start.
@@ -65,10 +83,22 @@ Best Compact Portable Speaker
 
  How-To Geek's product recommendations come from the same team of experts who have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Portable Speaker Overall: [Sonos Move 2](https://www.amazon.com/gp/aw/d/B0CGGJHZSM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003006&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-portable-speakers%2F&asc%5Fcampaign=Commerce) 
 
 ![Sonos Move 2 sitting on a dirt patch in front of flowers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53197064810_f154131bfd_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 | **Pros**                                    | **Cons**            |
@@ -90,6 +120,12 @@ Tyler Hayes / How-To Geek
 
 ![Sonos Move 2 TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sonos-move-2-tag.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Portable Speaker Overall
@@ -100,22 +136,16 @@ The Sonos Move 2 is a veritable powerhouse among portable speakers and supports 
 
 [See at Amazon](https://www.amazon.com/gp/aw/d/B0CGGJHZSM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003006&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-portable-speakers%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Budget Portable Speaker: [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C296VD7T?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003006&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-portable-speakers%2F&asc%5Fcampaign=Commerce) 
 
 ![Sony SRS-XB100](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-srs-xb100.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sony
 
 | Pros                                        | Cons                                   |
@@ -137,19 +167,13 @@ Sony
 
 ![Sony SRS-XB100 TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-srs-xb100-tag.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Best Budget Portable Speaker
 
@@ -161,16 +185,16 @@ With its diminutive size, the Sony SRS-XB100 is one of the most portable speaker
 
 [$48 at Amazon](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C296VD7T?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003006&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-portable-speakers%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Best Portable Speaker: [JBL Xtreme 4](https://uk.jbl.com/bluetooth-speakers/XTREME-4.html?cgid=bluetooth-portables) 
 
 ![JBL Xtreme 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/jbl-xtreme-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 JBL
 
 | Pros                       | Cons                    |
@@ -202,6 +226,12 @@ Bring the party with you, with the JBL Xtreme 4\. Featuring powerful, bass-heavy
 
 [See at JBL](https://uk.jbl.com/bluetooth-speakers/XTREME-4.html?cgid=bluetooth-portables) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best Waterproof Portable Speaker: [UE EPICBOOM](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003006&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-portable-speakers%2F&asc%5Fcampaign=Commerce) 
 
 ![UE EPICBOOM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ue-epicboom.png) 
@@ -225,26 +255,8 @@ Ultimate Ears
 
 ![UE EPICBOOM TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ue-epicboom-tag.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Best Waterproof Portable Speaker
 
 #####  UE EpicBoom
@@ -260,10 +272,10 @@ For lazy summer days at the beach or beside the pool, the Ultimate Ears EpicBoom
 ![Tribit StormBox Flow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/tribit-stormbox-flow.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tribit
 
@@ -288,6 +300,12 @@ Tribit
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best Compact Portable Speaker
 
 #####  Tribit StormBox Flow
@@ -297,24 +315,18 @@ Indulge in the StormBox Flow outdoor speaker audio experience with distinct voca
 [$80 at Amazon](https://www.amazon.co.uk/dp/B0CCJ3XHK5) 
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Does a portable speaker need Bluetooth to work?
 
@@ -326,12 +338,6 @@ Indulge in the StormBox Flow outdoor speaker audio experience with distinct voca
 
  With a Wi-Fi speaker, data can be transferred at much faster speeds than with Bluetooth and isn't subject to the same data compression process as Bluetooth is. However, Wi-Fi speakers require an internet connection to function, whereas Bluetooth speakers do not.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Can I bring a portable speaker on a plane?
 
  Yes - although there are one or two caveats to this. You'll need to check that your speaker doesn't exceed the size and weight limits for your carry-on luggage if you want to avoid having to pay supplementary fees.
@@ -340,6 +346,18 @@ Indulge in the StormBox Flow outdoor speaker audio experience with distinct voca
 
  Consider connecting your speaker to Bluetooth headphones to show consideration for other people's privacy. If this isn't possible, ensure that you are using your speaker on a low-volume setting, and perhaps ask for the consent of those sitting near you before you use your speaker.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why is my portable speaker cutting out?
 
  There's a short checklist of possible reasons for this. They include lack of battery charge, interference, obstruction, or distance from the Wi-Fi router.

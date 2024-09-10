@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of the Blade E-Flite mCX2 RTF Remote Control Helicopter - Top Choice in Flying Toys
-date: 2024-08-09T00:38:50.878Z
-updated: 2024-08-10T00:38:50.878Z
+date: 2024-09-09T04:06:09.511Z
+updated: 2024-09-10T04:06:09.511Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Analysis of the Blade E-Flite mCX2 RTF Remote Control Helicopter - Top Choice in Flying Toys
@@ -14,12 +14,21 @@ thumbnail: https://www.lifewire.com/thmb/tR1jJKBwxkt67USHWOapYd5ysK0=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/NWhMBmuK3pkL9EGvdNCEAF8sWEo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Jeffrey Daniel Chadwick
 
  What We Like
@@ -42,9 +51,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -70,7 +76,10 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
@@ -94,6 +103,12 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
@@ -120,15 +135,15 @@ Lifewire / Jeffrey Daniel Chadwick
 
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
 
@@ -145,7 +160,16 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -171,3 +195,44 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-elevate-your-digital-footprint-strategies-for-effective-fb-video-marketing/"><u>[Updated] In 2024, Elevate Your Digital Footprint Strategies for Effective FB Video Marketing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-timely-humor-for-various-gatherings/"><u>[Updated] Ultimate List Timely Humor for Various Gatherings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-streamline-your-videos-10-best-flv-to-youtube-convertors/"><u>2024 Approved Streamline Your Videos 10 Best FLV to YouTube Convertors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-thorough-examination-of-jabra-talk-45s-clear-communication-dependable-power/"><u>A Thorough Examination of Jabra Talk 45'S Clear Communication, Dependable Power</u></a></li>
+<li><a href="https://some-skills.techidaily.com/amazon-kindle-e-readers-compare-the-latest-kindle-paperwhite-and-basic-models/"><u>Amazon Kindle E-Readers: Compare the Latest Kindle Paperwhite & Basic Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/argument-unveiling-the-merits-of-owning-an-ipad/"><u>Argument: Unveiling the Merits of Owning an iPad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-google-stadia-areas-of-growth-and-potential-upgrades/"><u>Assessing Google Stadia: Areas of Growth and Potential Upgrades</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/audio-faceoff-which-is-better-google-nest-or-apple-homepod/"><u>Audio Faceoff: Which Is Better, Google Nest or Apple HomePod?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-4k-android-tv-75-inch-caixun-comprehensive-product-review/"><u>Budget 4K Android TV 75 Inch Caixun - Comprehensive Product Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-android-tablets-compared-spotlight-on-the-lenovo-tab-4s-pros-and-cons/"><u>Budget Android Tablets Compared: Spotlight on the Lenovo Tab 4'S Pros and Cons</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/can-you-extend-a-notebooks-memory-capacity-easily/"><u>Can You Extend a Notebook’s Memory Capacity Easily?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/combining-protection-with-performance-discovering-bose-soundsport-frames/"><u>Combining Protection with Performance: Discovering Bose SoundSport Frames</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-criacr-bluetooth-fm-transmitter-cp2n-comprehensive-review-and-analysis/"><u>Compact CRIACR Bluetooth FM Transmitter (CP2n) - Comprehensive Review and Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-beantech-bitwatch-s1plus-smartwatch-analysis-exceptional-value-for-money/"><u>Comprehensive Beantech Bitwatch S1+ Smartwatch Analysis - Exceptional Value for Money</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-print-settings-in-photoshop/"><u>Comprehensive Guide to Print Settings in Photoshop</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-samsung-galaxy-watch-active-examination-the-ultimate-fitness-companion/"><u>Comprehensive Samsung Galaxy Watch Active Examination – The Ultimate Fitness Companion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprerancing-the-cutting-edge-tech-in-b550-xt/"><u>Comprerancing The Cutting-Edge Tech in B550-XT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-a-winning-combo-with-rotiboxs-bluetooth-beanie-hat-a-reviewers-take-on-audio-experience-and-ease/"><u>Discover a Winning Combo with Rotibox's Bluetooth Beanie Hat - A Reviewer’s Take on Audio Experience & Ease</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-elite-audio-upgrades-the-creme-de-la-creme-sound-cards-of-the-2024-market/"><u>Discover Elite Audio Upgrades: The Crème De La Crème Sound Cards of the 2024 Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-your-inner-adventurer-the-incredible-compact-camera-sx70/"><u>Discover Your Inner Adventurer: The Incredible Compact Camera SX70</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/echo-pop-or-echo-dot-understanding-the-key-differences/"><u>Echo Pop or Echo Dot – Understanding The Key Differences</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elysian-estates-transforming-simple-nests-into-grand-homes/"><u>Elysian Estates: Transforming Simple Nests Into Grand Homes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-the-best-rc-vehicle-for-families-in-depth-maisto-rc-rock-crawler-analysis/"><u>Evaluating the Best RC Vehicle for Families: In-Depth Maisto RC Rock Crawler Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-into-the-samsung-galaxy-watch-active-your-ally-for-personal-fitness-goals/"><u>Expert Insights Into the Samsung Galaxy Watch Active: Your Ally for Personal Fitness Goals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-strongly-built-uniden-r3-with-exceptional-long-range-features/"><u>Expert Review: The Strongly Built Uniden R3 with Exceptional Long Range Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-lava-yuva-2-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Lava Yuva 2 Face Lock?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-screen-record-on-ipad-more-easily-for-2024/"><u>How to Screen Record on iPad More Easily for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-delving-into-filmoras-appeal-its-essential-10-features/"><u>In 2024, Delving Into Filmora's Appeal Its Essential 10 Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mplayer-xtreme-next-gen-media-player-for-2024/"><u>MPlayer Xtreme Next-Gen Media Player for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pioneering-powerpoint-recordings-via-contemporary-webcams/"><u>Pioneering PowerPoint Recordings via Contemporary Webcams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/predicting-film-production-costs-music-video-for-2024/"><u>Predicting Film Production Costs Music Video for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-ultimate-performance-expert-insights-on-the-mmock-1000a-peak-powered-portable-battery-booster/"><u>Unleash Ultimate Performance: Expert Insights on The MMOCK 1000A Peak-Powered Portable Battery Booster</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-a-detailed-review-of-barnes-and-nobles-big-screen-nook-glowlight-plus-e-reader/"><u>Unveiling the Features: A Detailed Review of Barnes & Noble's Big-Screen Nook GlowLight Plus E-Reader</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-upgrades-in-samsung-galaxy-watch-active-2-a-step-forward-from-its-precursor-in-control-and-integration-capabilities/"><u>Unveiling the Upgrades in Samsung Galaxy Watch Active 2: A Step Forward From Its Precursor in Control and Integration Capabilities</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-learn-video-editing-fast-top-beginner-friendly-software/"><u>Updated Learn Video Editing Fast Top Beginner-Friendly Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/waterproof-kobo-libra-h2o-the-ultimate-guide-for-hassle-free-digital-reading/"><u>Waterproof Kobo Libra H2O - The Ultimate Guide for Hassle-Free Digital Reading</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-4k-8k-10k/"><u>Winxvideo AI 기술을 활용해 4K, 8K, 10K 이미지를 강조 및 재구성하세요</u></a></li>
+</ul></div>

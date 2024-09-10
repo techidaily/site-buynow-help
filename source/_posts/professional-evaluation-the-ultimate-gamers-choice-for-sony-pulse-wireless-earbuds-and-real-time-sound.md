@@ -1,7 +1,7 @@
 ---
 title: "Professional Evaluation: The Ultimate Gamers' Choice for Sony Pulse Wireless Earbuds and Real-Time Sound"
-date: 2024-09-04T16:15:10.238Z
-updated: 2024-09-05T16:15:10.238Z
+date: 2024-09-09T04:11:25.590Z
+updated: 2024-09-10T04:11:25.590Z
 tags:
   - games
   - tv
@@ -23,8 +23,26 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
 ![Sony Pulse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-pulse.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Sony Pulse Explore Wireless Earbuds
 
 7/ 10 
@@ -49,6 +67,12 @@ Sony Pulse Explore Wireless Earbuds feature planar magnetic drivers, lossless Pl
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price and Availability** 
 
  The Sony Pulse Explore Wireless Earbuds are available from Amazon, Best Buy, or Sony for $200\. A charging case, PlayStation Link USB-A adapter, six earbud tips, USB-C to USB-A charging cable, and some paperwork all come in the box.
@@ -107,12 +131,6 @@ Bill Loguidice / How-To Geek
 
 ![Sony Pulse Explore Wireless Earbuds in open charging case held by a person's hands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/2024-06-29-10-52-20.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  The Pulse Explore supports connections for up to 10 paired Bluetooth devices, but can only connect to, and play audio from, one such device at a time. The volume buttons on the earbuds control only the PS Link audio, so when your earbuds are connected to a Bluetooth device, volume is solely controlled from that device. This also means that when listening to two audio sources from both PS Link and Bluetooth devices at the same time, the volume button on the earbuds controls only the PS Link audio.
@@ -120,15 +138,21 @@ Bill Loguidice / How-To Geek
  Battery life maxes out at a paltry five hours, with an additional five hours from the charging case, for a maximum of 10 hours, although both times can be slightly improved with lower listening volumes. The Pulse Explore earbuds take about 40 minutes to charge from empty, although just 10 minutes of charging can get you about 1.5 hours of battery life.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Sound and Immersion: Best with PlayStation** 
 
 ![Sony PlayStation Portal, Pulse Explore Wireless Earbuds, and Charging Case on a tabletop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/2024-06-29-11-33-26.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  There's no question what systems the Pulse Explore earbuds are optimized for. When playing on a PS5 or PS Portal, the sound is perfectly tuned, with excellent stereo separation and proper surround effects that really let you hear what direction they're coming from. A good amount of bass is present, but it's never overpowering and gives the overall sound profile some heft. Whether playing a racer like "Trials Rising," an action-stealth adventure like "Metal Gear Solid V: The Phantom Pain," an action-adventure like "Horizon Forbidden West," or a sports game like "MLB The Show 24," I always felt immersed and that the Pulse Explore were delivering an ideal audio experience.
@@ -149,16 +173,16 @@ Bill Loguidice / How-To Geek
 
  Finally, it's important to note that the only device you can permanently adjust the equalizer, sidetone volume, 3D audio, and other settings for the Pulse Explore is when connected to a PS5\. Equalizer and sidetone volume settings are stored on your earbuds once you configure them through your PS5 console. If you connect your earbuds to other devices, they’ll keep the same settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design and Fit: Bulky and a Bit Odd** 
 
 ![Sony Pulse Explore Wireless Earbuds in a person's hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/2024-06-29-10-49-56.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  Each earbud features a volume up and down button at the top and PS Link buttons at the bottom. When both the left and right earbuds are connected via PS Link, the left earbud's microphone is enabled. As is the problem with many earbuds with physical buttons, and something a company like Apple solves with their AirPods by simply doing away with any tactile controls, is the tendency to hit the volume buttons when inserting the Pulse Explore earbuds in your ear. It's hardly a deal-breaker, and I certainly appreciate the ability to quickly adjust the volume, but it nevertheless leads to inadvertent presses when inserting or adjusting the earbuds.
@@ -169,12 +193,6 @@ Bill Loguidice / How-To Geek
 
  The earbuds themselves are similarly bulky, with an unbalanced shape that's a bit hard to get used to. Once you pick the earbud tip that provides the best fit and seal, you insert the earbuds with a slight upward twist so the PlayStation logo is level. Although there's no active noise-canceling, with the right tip, external noises should sound muffled, with audio at the same level in each ear. It took some practice for me to get used to the awkward shape and more consistently insert the earbuds correctly into my ears. Once inserted properly, however, I found the earbuds to be comfortable.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Should You Buy the Sony Pulse Explore Wireless Earbuds?** 
 
  If you want good multi-platform gaming earbuds, the [Sony Pulse Explore](https://www.playstation.com/en-us/accessories/pulse-explore-wireless-earbuds/) make a nice choice. They have the best sound when used with the PS5 or PS Portal, where they're well-tuned with excellent surround sound performance, but also do well with Bluetooth devices, and a serviceable job on PCs.
@@ -183,19 +201,13 @@ Bill Loguidice / How-To Geek
 
 ![Sony Pulse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-pulse.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Sony Pulse Explore Wireless Earbuds
 

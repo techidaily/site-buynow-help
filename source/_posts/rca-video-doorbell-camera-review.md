@@ -1,7 +1,7 @@
 ---
 title: RCA Video Doorbell Camera Review
-date: 2024-08-09T00:38:48.752Z
-updated: 2024-08-10T00:38:48.752Z
+date: 2024-09-09T04:02:28.587Z
+updated: 2024-09-10T04:02:28.587Z
 categories:
   - BestProducts
 description: This Article Describes RCA Video Doorbell Camera Review
@@ -9,19 +9,18 @@ excerpt: This Article Describes RCA Video Doorbell Camera Review
 thumbnail: https://www.lifewire.com/thmb/Riy1HAl4ji6PWQruB21sfV_9fhQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_IMG_4428_Final-5c91426946e0fb000187a3ad.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top Score Review on Amplifi HD Wi-Fi Extender Kit: Bid Farewell to Connectivity Dead Zones
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Ubiquiti Amplifi HD Mesh Wi-Fi System
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Amplifi HD](https://www.lifewire.com/thmb/qzQaLlac--q8GkxuTKk83OA0RKQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amplifi_LongRangeRouters_HD_HeroSquare-fdb67079a06b415b98467919ec8e34a6.jpg)
 
 Lifewire / Erika Rawes
@@ -50,6 +49,12 @@ Lifewire / Erika Rawes
 
 ![Amplifi HD](https://www.lifewire.com/thmb/Njd1HQu0FsmaveVCH4FDT0Spa6c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amplifi_LongRangeRouters_HD_HeroSquare-fdb67079a06b415b98467919ec8e34a6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Erika Rawes
 
 [View On Walmart $426](https://www.walmart.com/ip/976428400) [View On Staples $449](https://www.staples.com/Ubiquiti-Amplifi-AFIHD-High-Density-Router-with-2-Mesh-Point-1750-Mbps/product%5F2620679?cid=AFF%3A2620679&slfpid=3) [View On Quill.com $455](https://www.quill.com/ubiquiti-amplifi-home-wi-fi-system-afi-hd-ac1750-dual-band-wireless-ethernet-router-white-afi-hd/cbs/55340637.html?effort%5Fcode=550&cm%5Fmmc=AFF%5F55340637&slfpid=3)
@@ -73,7 +78,10 @@ Lifewire / Erika Rawes
  The Amplifi HD is a[Mesh Wi-Fi System](https://www.lifewire.com/best-mesh-wi-fi-network-systems-4139748) with a main router and separate mesh points that serve as satellite routers. The Amplifi system is supposed to extend Wi-Fi range, reduce dead zones, and provide better coverage. To see how Ubiquiti’s mesh system holds up to the demands of a household with multiple devices, I connected the Amplifi HD in my test home that contains roughly 50 Wi-Fi connected devices.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: A beautiful router with mismatched mesh points**
 
@@ -83,22 +91,22 @@ Lifewire / Erika Rawes
 
  The two satellite points are very simplistic. They are basic looking, oval-shaped devices with no ports. They plug into a wall outlet, and they have indicator lights to tell you the signal strength. The mesh points, aside from being the same matte-white color, don’t match very well with the main router. Fortunately, they sit in different areas of the home, so the mismatched design doesn’t have too much impact on the overall aesthetic.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Amplifi HD](https://www.lifewire.com/thmb/s87ZCkRIGWmpbjF2kUOXJRQtOl4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amplifi_LongRangeRouters_HD_02-1a111a806ad7495ba9f36d51121fe5b0.jpg)
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup: Couldn’t get any easier**
 
  The setup for the Amplifi HD system is probably the easiest setup process I’ve encountered. The app walks you through the process step-by-step, with pictures to guide you on each instruction. The most difficult part was deciding where to place the two mesh points in my test home. I placed one in the far bedroom and one in my office, two rooms that notoriously experience drop-offs.
 
  By default, the app creates a dual (2.4 and 5Ghz) network, which directs traffic based on the most efficient pathways. You can create separate 2.4 and 5Ghz networks, or make other adjustments as you see fit though. You can change the band on the mesh points (from 2.4 to 5Ghz), create additional SSIDs, and more. For the purpose of testing, I used the default combined network and allowed the system to direct network traffic between bands.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Connectivity: Lags when you add too many devices**
 
  The Amplifi HD system is not Wi-Fi 6 capable.[It has 802.11ac](https://www.lifewire.com/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553) , and it's backwards compatible. On the back of the router sit four gigabit LAN ports in addition to the WAN connection. There’s no multigig port, but the four ports were a welcome addition.
@@ -116,7 +124,10 @@ Lifewire / Erika Rawes
  The app creates a dual (2.4 and 5Ghz) network, which directs traffic based on the most efficient pathways.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: Amplifi App**
 
@@ -126,8 +137,26 @@ Lifewire / Erika Rawes
 
 ![Amplifi HD](https://www.lifewire.com/thmb/2X1DxWPlS1VXqnwsUCG5qviJXwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amplifi_LongRangeRouters_HD_03-56584e48b76942519745c71443c2e8d5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: A little steep**
 
  The Amplifi HD system isn’t cheap. The package I tested, which came with the router and two mesh points, retails for $340\. You can find mesh systems for much less, and of course, some mesh systems are much more expensive. But, the Amplifi system’s design, easy setup, and feature set help justify the price.
@@ -142,9 +171,6 @@ Lifewire / Erika Rawes
 
  The Amplifi HD mesh system is attractive and does provide coverage for a huge area, but it doesn’t deliver lightning-fast speeds in a home with dozens of connected devices.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Amplifi HD Mesh Wi-Fi System
@@ -178,3 +204,40 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-the-world-of-sound-effects-in-youtube-videos/"><u>[New] 2024 Approved Navigating the World of Sound Effects in YouTube Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ransform-spaceships-into-trees-youtubes-green-secrets-revealed/"><u>[New] Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlocking-video-excellence-on-tiktok-through-effective-templates-use-for-2024/"><u>[New] Unlocking Video Excellence on TikTok Through Effective Templates Use for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-broadcasting-with-gopro-tips-for-facebookperiscope-integration/"><u>[Updated] Broadcasting with GoPro Tips for Facebook/Periscope Integration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-game-changing-capture-technology-for-switch-for-2024/"><u>[Updated] Game-Changing Capture Technology for Switch for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-6-mc-survival-home-blueprints/"><u>[Updated] In 2024, Best 6 MC Survival Home Blueprints</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ranking-8-real-time-strategies-to-grow-youtube-success/"><u>[Updated] Ranking 8 Real-Time Strategies to Grow YouTube Success</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-viewer-connection-mastering-the-art-of-square-footage-in-videos/"><u>2024 Approved Elevate Viewer Connection Mastering the Art of Square Footage in Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-aspects-of-creating-animated-visual-narratives/"><u>2024 Approved Key Aspects of Creating Animated Visual Narratives</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-prints-with-microsoft-smartscreen-security-feature/"><u>Activating Prints with Microsoft SmartScreen Security Feature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-topmate-c302-laptop-cooler-evaluation-budget-friendly-and-high-performance/"><u>Affordable TopMate C302 Laptop Cooler Evaluation: Budget-Friendly & High Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-watch-series-6-evaluation-subtle-enhancements-yet-remains-unrivaled/"><u>Apple Watch Series 6 Evaluation: Subtle Enhancements Yet Remains Unrivaled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-on-beatits-mighty-d11-portable-charger-review/"><u>Comprehensive Analysis on Beatit's Mighty D11 Portable Charger Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-why-the-netgear-nighthawk-rax120-is-a-top-contender-for-ultra-fast-connectivity/"><u>Comprehensive Guide: Why the Netgear Nighthawk RAX120 Is a Top Contender for Ultra-Fast Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cost-effective-smartphone-comparison-how-motorola-one-matches-up-to-an-iphone/"><u>Cost-Effective Smartphone Comparison: How Motorola One Matches up to an iPhone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cost-efficient-tv-display-guide-discover-the-dream-md2380/"><u>Cost-Efficient TV Display Guide: Discover the Dream MD2380</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-ideal-cellphone-shops-for-unbeatable-deals-and-quality/"><u>Discover Ideal Cellphone Shops for Unbeatable Deals and Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-best-2023-games-to-play-on-your-new-steam-deck/"><u>Discover the Best 2023 Games to Play on Your New Steam Deck</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-in-gaming-graphics-at-4k-speeds-for-2024/"><u>Excellence in Gaming Graphics at 4K Speeds for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/foundations-of-frame-and-frequency-in-visual-media/"><u>Foundations of Frame and Frequency in Visual Media</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/garmin-vivoactive-3-unveiled-elevating-workouts-and-work-tunes-for-optimal-fitness/"><u>Garmin Vivoactive 3 Unveiled: Elevating Workouts and Work Tunes for Optimal Fitness</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-why-the-oneplus-9-struggles-with-mathematical-excellence/"><u>In-Depth Analysis: Why the OnePlus 9 Struggles with Mathematical Excellence</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/protecting-windows-11-from-online-dangers-a-comprehensive-guide-to-virus-prevention-and-digital-security/"><u>Protecting Windows 11 From Online Dangers: A Comprehensive Guide to Virus Prevention and Digital Security</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active2-review-more-connectivity-control-and-insights-than-the-original/"><u>Samsung Galaxy Watch Active2 Review: More Connectivity, Control, and Insights Than the Original</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tablet-buying-strategy-balancing-portability-with-performance-in-size-and-weight/"><u>Tablet Buying Strategy: Balancing Portability with Performance in Size and Weight</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-why-the-new-iphone-12-is-a-cutting-edge-marvel/"><u>The Definitive Guide to Why the New iPhone 12 Is a Cutting-Edge Marvel</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-latest-and-greatest-2024s-premier-compact-charger-units-for-your-laptop/"><u>The Latest and Greatest: 2024'S Premier Compact Charger Units for Your Laptop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/thorough-oneplus-nord-n100-evaluation-top-pick-for-affordable-smartphones/"><u>Thorough OnePlus Nord N100 Evaluation: Top Pick for Affordable Smartphones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-karaoke-experience-in-the-usa-top-picks-for-less-than-150/"><u>Ultimate Karaoke Experience in the USA - Top Picks for Less Than $150</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unbeatable-amazon-prime-day-blowouts-get-your-hands-on-the-best/"><u>Unbeatable Amazon Prime Day Blowouts: Get Your Hands on the Best</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-potent-functionality-a-review-of-the-durable-samsung-gear-s3-frontier-timepiece/"><u>Unboxing the Potent Functionality: A Review of the Durable Samsung Gear S3 Frontier Timepiece</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unexpected-grand-adventures-await-in-our-yokus-island-express-gameplay-analysis/"><u>Unexpected Grand Adventures Await in Our Yoku's Island Express Gameplay Analysis</u></a></li>
+</ul></div>

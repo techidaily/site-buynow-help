@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Real Value: Do You Truly Benefit From Having a Personalized Arcade System?"
-date: 2024-09-04T16:15:08.987Z
-updated: 2024-09-05T16:15:08.987Z
+date: 2024-09-09T04:11:24.463Z
+updated: 2024-09-10T04:11:24.463Z
 tags:
   - games
   - tv
@@ -11,8 +11,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b156e8e5794d885b9d42d1fa5d.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Evaluating the Real Value: Do You Truly Benefit From Having a Personalized Arcade System?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Arcade Cabs Are Too Big (or Are They?)](https://www.howtogeek.com/please-convince-me-i-dont-need-a-home-arcade-cabinet/#arcade-cabs-are-too-big-or-are-they)
@@ -26,6 +38,12 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 
  I've been toying with the idea of getting an old-school arcade cabinet. Not the original single-game systems I grew up with, but a modern emulated multi-game system that has the look and feel of stand-up arcade cabs. It's the ultimate geeky white elephant and as you might imagine as a responsible adult, I'm conflicted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Arcade Cabs Are Too Big (or Are They?)
 
  All of my gaming stuff has been getting smaller and smaller over time. Gone is my huge gaming PC tower, replaced by a gaming laptop. My TV is now a razor-thin [OLED](https://extra-tips.techidaily.com/discovering-the-best-in-display-tech-10-list-for-your-mac/) mounted up on a wall. My [OLED Nintendo Switch](https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-15-prevention-and-solution-drfone-by-drfone-ios/) won't quite go in a pocket but it's still pretty tiny. So the idea of bringing a virtually immovable gaming device into my house seems like a bad idea.
@@ -36,21 +54,15 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 
  I make reference to "JAMMA" boards below, and while it's not super-important information, you'll want to know that this is short for "Japan Amusement Machine and Marketing Association" and describes a wiring standard for arcade cabinets. Hence, a game on a JAMMA circuit board will work with a JAMMA arcade cabinet. This is the most common standard you'll encounter with both classic arcade cabinets and modern remakes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Finding Good Boards Is Getting Harder (Does It Matter?)
 
 ![A MisterCade JAMMA Kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/mistercade.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Mister
 
@@ -66,12 +78,6 @@ Mister
 
  You can, of course, also roll your own by running something like [MAME](https://fox-hovers.techidaily.com/2024-approved-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/) on a Raspberry Pi. There are plenty of [Raspberry Pi arcade projects](https://medium.com/swlh/how-to-build-a-raspberry-pi-arcade-machine-3de4df2894c6) to find online, but again, this is for casual fans because the emulation won't satisfy purists. If it were me, unless my editors graciously bought me a MisterCade to review (hint-hint!) I'd probably buy something like the Arcade Legends systems, and just accept that emulation will never be perfect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  DIY Cabs Are Too Hard (But, Not Really?)
 
  I might be into 3D printing, and like building desktop computers, but I am not actually a DIY guy. So the idea of building a cabinet from scratch isn't appealing. Even [building one from a kit](https://www.youtube.com/watch?v=qHfnyZZzvuo) fills me with dread, though it looks only mildly more involved than assembling an IKEA-style flatpack bookshelf.
@@ -79,26 +85,14 @@ Mister
  The good news is that there's often a local company that will either build these kits for you, or make ones to your specifications,and then ship them a short distance to your door. Whether you actually live close enough to one of these outfits to make use of this depends on where you live, but I guess if I had no other choice, spending an afternoon assembling a kit isn't the worst way to spend your time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Maybe I’ll Just Buy an Arcade Stick (But It’s Just Not the Same)
 
 ![HORI Fighting Stick alpha](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/hori-fighting-stick-alpha.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-_HORI_ 
-
- Maybe you don't have to buy the whole arcade cabinet. Instead, why not just buy a good arcade stick? If I just want to play casually, it doesn't even have to be that good. There are lots of great arcade sticks around thanks to the fighting game genre. Heck, you can even get those Pandora's Box arcade systems built into an arcade stick deck, that hooks up to your TV.
-
- That sounds sensible, and you can pack it all away when you're not playing. Still, it feels like it defeats the point of having a dedicated arcade system. It's like having a Chess board set up somewhere. You can just walk up to it and start playing with no friction. If you have friends over, people could just come and go as they felt like it, playing when the mood takes them.
 
 <!-- affiliate ads begin -->
 <span id="1983551">
@@ -112,6 +106,12 @@ _HORI_
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+_HORI_ 
+
+ Maybe you don't have to buy the whole arcade cabinet. Instead, why not just buy a good arcade stick? If I just want to play casually, it doesn't even have to be that good. There are lots of great arcade sticks around thanks to the fighting game genre. Heck, you can even get those Pandora's Box arcade systems built into an arcade stick deck, that hooks up to your TV.
+
+ That sounds sensible, and you can pack it all away when you're not playing. Still, it feels like it defeats the point of having a dedicated arcade system. It's like having a Chess board set up somewhere. You can just walk up to it and start playing with no friction. If you have friends over, people could just come and go as they felt like it, playing when the mood takes them.
+
 ##  I Have Too Much Gaming Stuff Already (But Cabinets Are Cool)
 
  I have way too much video game stuff. PCs, every console, every handheld, mobile games, retro emulation systems, and more stuff I'm too embarrassed to list lest you really think I'm too much of a geek. So really, can I justify spending yet more money on a video game system that I'll hardly have time to play?

@@ -1,7 +1,7 @@
 ---
 title: The Revolutionary Raspberry Pi Pico Takes on Dual Architectures with a Cutting-Edge RISC Design
-date: 2024-09-04T16:15:09.359Z
-updated: 2024-09-05T16:15:09.359Z
+date: 2024-09-09T04:11:24.801Z
+updated: 2024-09-10T04:11:24.801Z
 tags:
   - games
   - tv
@@ -11,6 +11,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Revolutionary Raspberry Pi Pico Takes on Dual Architectures with a Cutting-Edge RISC Design
 
 Everybody's favorite microcontroller board is back and better than ever. Raspberry Pi Pico 2 sports a higher core clock speed, double the RAM of its predecessor, full backwards compatibility with existing Pico hardware and software, plus a dual-architecture design that lets users flip between ARM and RISC-V.
@@ -86,10 +98,3 @@ Everybody's favorite microcontroller board is back and better than ever. Raspber
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-running-a-32-bit-windows-computer-and-looking-for-best-free-video-editing-software-for-32-bit-windows-here-are-top-3-free-video-editing-soft/"><u>Updated In 2024, Running a 32-Bit Windows Computer and Looking for Best Free Video Editing Software for 32-Bit Windows? Here Are Top 3 Free Video Editing Software for a User Running 32-Bit Windows</u></a></li>
 <li><a href="https://buynow-help.techidaily.com/user-guide-for-asus-vivobook-11-the-perfect-blend-of-portability-and-performance-on-budget/"><u>User Guide for Asus VivoBook 11: The Perfect Blend of Portability & Performance on Budget</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

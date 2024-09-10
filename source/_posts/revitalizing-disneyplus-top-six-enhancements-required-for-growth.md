@@ -1,7 +1,7 @@
 ---
 title: "Revitalizing Disney+: Top Six Enhancements Required for Growth"
-date: 2024-09-04T16:15:09.291Z
-updated: 2024-09-05T16:15:09.291Z
+date: 2024-09-09T04:11:24.739Z
+updated: 2024-09-10T04:11:24.739Z
 tags:
   - games
   - tv
@@ -32,15 +32,21 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
  That's not to mention shows like _Willow_ and _The Mighty Ducks: Game Changers_, which debuted as Disney+ exclusives and were [removed with dozens of others as part of a cost-saving exercise](https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2  Resurrect GroupWatch 
 
 ![GroupWatch on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/groupwatch-on-disney.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In 2023, [Disney+ removed its GroupWatch feature](https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-narzo-60-5g-to-protect-your-individual-information-by-drfone-android/) without fanfare. GroupWatch let you and up to six other subscribers remotely watch something on Disney+ simultaneously. It was perfect for long-distance relationships and the like.
 
  While those on [Apple devices can still use SharePlay](https://ai-video-tools.techidaily.com/updated-unlock-your-creative-potential-video-editing-tips-for-home-movies-for-2024/), GroupWatch supported all devices you could stream Disney+ on, and didn't require any third-party tool.
@@ -51,12 +57,6 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
 
 ![The 'Continue Watching' row on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-continue-watching-row-on-disney.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Have you ever started watching something, decided it's not for you, and then found it sticks around in your Continue Watching row for seemingly ever? Or even that shows and movies you did watch all the way through randomly reappear? You're not alone.
 
  The problem is, Disney+ has no easy way to remove something from Continue Watching. You have to skip near the end of the movie or the show's last ever episode, let it play for a bit, and then hope it disappears—a tedious and unreliable method. All it needs is a simple "Remove from row" button like Netflix.
@@ -64,36 +64,24 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
  And would it be too much to ask to keep the row pinned to the top for quick access, rather than buried beneath others? Moving it around presumably helps push you into watching something new, but it's inconvenient.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4  Add More Search Filters 
 
 ![Searching on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/searching-on-disney.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you know exactly what you're looking for on Disney+, it's easy to find. You can search by title, character, genre, and actor. There are even curated collections, like "Adult Animation" and "Animals and Nature."
 
  This is all great, but it could be better. For example, you can't search by release year, duration, or age rating. If you want to combine parameters, like to find only TV shows with Mickey Mouse in, you can't do that either. The best you can do is go to the movies or series page and filter by genre, with no further search functionality.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5  Stop Releasing Episodes Weekly 
 
@@ -101,15 +89,27 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
 
  Instead, it'd be great if Disney+ released all episodes at once, and then it's entirely up to you how you watch. In fairness, this does happen for some shows like _Echo_ and _Renegade Nell_, but others like _Loki_ and _The Mandalorian_ are firmly weekly affairs.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6  Rely Less on Star Wars and Marvel 
 
 ![Marvel shows and movies on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/marvel-shows-and-movies-on-disney.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Star Wars and Marvel are billion dollar franchises, so it makes sense that Disney would want to milk them for all they're worth. Much of Disney+'s original scripted offerings are based around these properties, and I've certainly enjoyed shows like _Andor_ and _X-Men '97_.
 

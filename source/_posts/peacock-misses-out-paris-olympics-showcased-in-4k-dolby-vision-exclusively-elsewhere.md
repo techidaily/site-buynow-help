@@ -1,7 +1,7 @@
 ---
 title: "Peacock Misses Out: Paris Olympics Showcased in 4K Dolby Vision Exclusively Elsewhere"
-date: 2024-09-04T16:15:09.216Z
-updated: 2024-09-05T16:15:09.216Z
+date: 2024-09-09T04:11:24.668Z
+updated: 2024-09-10T04:11:24.668Z
 tags:
   - games
   - tv
@@ -11,6 +11,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d5151455426579049284afd82c0786b6e3dd815a4b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Peacock Misses Out: Paris Olympics Showcased in 4K Dolby Vision Exclusively Elsewhere
 
 The 2024 Olympic Games are about to kick off in Paris, France, and it will be extra special for cable TV subscribers. Comcast has announced some technical upgrades coming to its Olympics coverage, including Dolby Vision and Dolby Atmos audio for some events.
@@ -92,10 +98,3 @@ The 2024 Olympic Games are about to kick off in Paris, France, and it will be ex
 <li><a href="https://buynow-help.techidaily.com/unveiling-the-magic-a-thorough-review-of-minecrafts-campfire-tales-character-designs/"><u>Unveiling the Magic: A Thorough Review of Minecraft's Campfire Tales Character Designs</u></a></li>
 <li><a href="https://buynow-help.techidaily.com/value-meets-quality-in-the-zte-blade-a3y-an-in-depth-review-of-performance/"><u>Value Meets Quality in the ZTE Blade A^3Y - An In-Depth Review of Performance</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

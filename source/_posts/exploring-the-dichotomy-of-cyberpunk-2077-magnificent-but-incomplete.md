@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Dichotomy of Cyberpunk 2077: Magnificent but Incomplete"
-date: 2024-08-09T00:38:52.294Z
-updated: 2024-08-10T00:38:52.294Z
+date: 2024-09-09T04:08:34.762Z
+updated: 2024-09-10T04:08:34.762Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Dichotomy of Cyberpunk 2077: Magnificent but Incomplete"
@@ -42,7 +42,10 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 [Jump to Review](https://www.lifewire.com/#toc-best-for-gaming-kinesis-gaming-freestyle-edge-rgb)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Best Overall
 
@@ -74,7 +77,10 @@ PHOTO: Amazon
 **Type:** Membrane | **Connectivity:** Wireless receiver, Bluetooth | **RGB:** None | **Tenkeys:** Yes | **Palm Rest:** Yes | **Dedicated Media Controls:** No
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Best Bluetooth
 
@@ -104,6 +110,12 @@ PHOTO: Amazon
 
 **Type:** Membrane | **Connectivity:** Wireless receiver | **RGB:** None | **Tenkeys:** Yes | **Palm Rest:** Yes | **Dedicated Media Controls:** Yes
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best for Macs
 
 [Kinesis Freestyle2 Blue](https://www.amazon.com/dp/B00NMVJYEW/?tag=lifewire-onsite-prod-20&ascsubtag=4147386%7Cn326e10e09a2e4a42be05879465b0c31513%7CB00NMVJYEW)
@@ -133,6 +145,12 @@ PHOTO: Amazon
 
 [Kinesis Freestyle2 Blue (Mac) Review](https://www.lifewire.com/freestyle2-blue-review-4780187)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best for Gaming
 
 [KINESIS Gaming Freestyle Edge RGB](https://www.amazon.com/KINESIS-Gaming-Freestyle-Mechanical-Keyboard/dp/B07SXX7P6D/?tag=lifewire-onsite-prod-20&ascsubtag=4147386%7Cn326e10e09a2e4a42be05879465b0c31513%7CB07SXX7P6D)
@@ -163,27 +181,33 @@ PHOTO: Amazon
 [The Best Mice for Macs of 2024](https://www.lifewire.com/best-mice-for-macs-6753004)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What to Look For in an Ergonomic Keyboard
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Usage**
 
  Where will you be using this keyboard? Is it mainly for personal use, or will you take it to the office? Do you need an ergonomic keyboard explicitly made with gamers in mind? While you can use a keyboard for multiple purposes, you may enjoy customizing which one you buy based on how you will use it the most.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Mac vs. PC**
 
  Do you have a Mac or a PC? While it seems like keyboards should be usable with both, that’s not always the case. You need to make sure whatever keyboard you buy is compatible with your system (this is usually a bigger problem for Macs rather than PCs). Additionally, the two operating systems have slightly different keys. While you can often use mapping software to alleviate these issues, you may want to purchase a keyboard specifically designed for your type of machine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### **Keyboard size**
 
  Do you need a full-size keyboard, complete with a number pad? If you’re inputting numbers, you probably find the number pad vital. But if you’re used to typing on a laptop, it’s likely you barely use it. Do you need a foldable, portable keyboard? Or do you need something with a small footprint but not necessarily mobile? You can find ergonomic keyboards in all sizes—think about what you’ll need.
@@ -227,3 +251,69 @@ Tell us why!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-invest-in-insta-success-the-top-earners-playbook/"><u>[New] 2024 Approved Invest in Insta Success The Top Earners' Playbook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-performing-8-recording-software-picks-for-2024/"><u>[New] Best Performing 8 Recording Software Picks for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-scaling-up-with-sourav-joshi-youtube-earnings-strategy/"><u>[New] In 2024, Scaling Up with Sourav Joshi YouTube Earnings Strategy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlock-the-power-of-engagement-to-monetize-facebook/"><u>[New] In 2024, Unlock the Power of Engagement to Monetize Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimize-media-storage-tips-and-tricks-for-mov-on-windows-pcs/"><u>[New] Optimize Media Storage Tips & Tricks for .mov on Windows PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peekpoint-analysis-a-guide/"><u>[New] Peekpoint Analysis A Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-complete-drone-racing-playbook-plus-5-elite-fpv-brands/"><u>[New] The Complete Drone Racing Playbook + 5 Elite FPV Brands</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-androids-top-10-moba-gaming-spectacles/"><u>[Updated] Android's Top 10 MOBA Gaming Spectacles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-breakdown-of-adobe-cloud-plus-alternative-methods/"><u>[Updated] Expert Breakdown of Adobe Cloud, Plus Alternative Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-optimal-obs-configuration-for-budget-pcs/"><u>[Updated] In 2024, Optimal OBS Configuration for Budget PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lightning-fast-windowed-gallery-viewer-alert/"><u>[Updated] Lightning-Fast Windowed Gallery Viewer Alert</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-the-art-of-uploading-youtube-videos-on-fb/"><u>[Updated] Mastering the Art of Uploading YouTube Videos on FB</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-smart-techniques-to-elevate-your-youtube-summaries/"><u>[Updated] Smart Techniques to Elevate Your Youtube Summaries</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-your-iphones-album-organization-and-icloud-connection/"><u>[Updated] Streamlining Your iPhone's Album Organization and iCloud Connection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-achieving-zen-in-meetings-how-to-disable-background-speech/"><u>2024 Approved Achieving Zen in Meetings How to Disable Background Speech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-leading-photographic-enhancers/"><u>2024 Approved Android's Leading Photographic Enhancers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommended-5-top-drones-on-market/"><u>2024 Approved Expert-Recommended 5 Top Drones on Market</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-upgrading-made-easy-your-guide-to-smooth-tech-transitions/"><u>2024 Approved Upgrading Made Easy Your Guide to Smooth Tech Transitions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-users-perspective-review-and-recommendations-for-the-anthropics-smart-photo-editor/"><u>A User’s Perspective: Review and Recommendations for the Anthropics Smart Photo Editor</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-spark-go-2023-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723025392421-compact-fast-and-cheap-the-most-affordable-in-car-car-chargers-reviewed-discover-the-best/"><u>Compact, Fast & Cheap: The Most Affordable In-Car Car Chargers Reviewed - Discover the Best!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-googles-pixelbook-go-stunning-performance-meets-steep-pricing/"><u>Comprehensive Guide to Google's Pixelbook Go - Stunning Performance Meets Steep Pricing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-budget-friendly-z-edge-z3plus/"><u>Comprehensive Review of the Budget-Friendly Z-Edge Z3+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-netgear-nighthawk-x6-wireless-mesh-system-a-feature-deep-dive/"><u>Comprehensive Review of the Netgear Nighthawk X6 Wireless Mesh System: A Feature Deep Dive</u></a></li>
+<li><a href="https://article-tips.techidaily.com/directors-of-the-airspace-editing-for-impactful-drone-videos-for-2024/"><u>Directors of the Airspace Editing for Impactful Drone Videos for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-elite-selection-of-gaming-hardware/"><u>Discover the Elite Selection of Gaming Hardware</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-analog-bliss-with-at-lp60xbt/"><u>Discovering Analog Bliss with AT-LP60XBT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/examining-the-pros-and-cons-of-pioneers-bdr-xd05b-a-detailed-review-on-its-drawbacks/"><u>Examining the Pros and Cons of Pioneer's BDR-XD05B: A Detailed Review on Its Drawbacks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-affordability-and-performance-the-samsung-galaxy-a20s-place-among-budget-android-phones/"><u>Exploring Affordability and Performance: The Samsung Galaxy A20's Place Among Budget Android Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-pros-and-cons-of-the-costly-samsung-un65nu8000fxza-smart-television/"><u>Exploring the Pros and Cons of the Costly Samsung UN6^5NU8000FXZA Smart Television</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expressive-idioms-unveiled-defining-current-english-slang/"><u>Expressive Idioms Unveiled: Defining Current English Slang</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gearing-up-for-style-and-health-evaluating-the-amazfit-gts-experience/"><u>Gearing Up for Style and Health: Evaluating the Amazfit GTS Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-galaxy-m34-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Galaxy M34 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy A05 Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-asus-rog-phone-8-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Asus ROG Phone 8?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-videos-with-precision-leveraging-storyremix-in-windows-11/"><u>In 2024, Crafting Videos with Precision Leveraging StoryRemix in Windows 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-elevate-your-tiktok-content-with-new-backdrops/"><u>In 2024, Elevate Your TikTok Content with New Backdrops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-critique-of-the-gaomon-pd1/"><u>In-Depth Analysis and Critique of the Gaomon PD1</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-newest-ring-video-doorbell-power-solution-insights/"><u>In-Depth Look at the Newest Ring Video Doorbell Power Solution Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-powerful-corsair-one-pro-gaming-workstation/"><u>In-Depth Look at the Powerful Corsair One Pro Gaming Workstation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-specs-and-performance-of-a-modest-contender-dells-inspiron-3671-desktop-critique/"><u>Inside the Specs and Performance of a Modest Contender: Dell's Inspiron 3671 Desktop Critique</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/majestic-mansion-makeovers-from-nesting-box-to-noble-house/"><u>Majestic Mansion Makeovers: From Nesting Box to Noble House</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-flip-rotate-and-enhance-top-10-video-editing-software/"><u>New 2024 Approved Flip, Rotate, and Enhance Top 10 Video Editing Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/should-you-opt-for-chatgpt-plus-here-are-five-compelling-reasons-why/"><u>Should You Opt for ChatGPT Plus? Here Are Five Compelling Reasons Why!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/standing-strong-with-terramat-by-cubefit-an-in-depth-product-analysis/"><u>Standing Strong with TerraMat by CubeFit: An In-Depth Product Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-affordable-microsoft-surface-go-bridging-gaps-with-a-unique-identity-challenge/"><u>The Affordable Microsoft Surface Go - Bridging Gaps with a Unique Identity Challenge</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-perfect-travel-companion-for-avid-readers-an-in-depth-review-of-the-kobo-clara-hd/"><u>The Perfect Travel Companion for Avid Readers: An In-Depth Review of the Kobo Clara HD</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-premier-game-collection-on-google-play-pass-top-8-picks-revealed/"><u>The Premier Game Collection on Google Play Pass - Top 8 Picks Revealed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic5-ultimate-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-value-proposition-reasons-to-opt-into-youtube-premium/"><u>The Value Proposition: Reasons to Opt Into YouTube Premium</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-wasteland-ii-directors-edition-reviewed-an-engrossing-turn-by-turn-adventure/"><u>The Wasteland II - Director's Edition Reviewed: An Engrossing Turn-By-Turn Adventure</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-innovation-in-sound-technology-samsungs-buds-pro/"><u>Unveiling Innovation in Sound Technology: Samsung's Buds Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-of-ergodrivens-topo-anti-fatigue-mat-a-comprehensive-review-for-standing-desks-enthusiasts/"><u>Unveiling the Benefits of ErgoDriven's Topo Anti-Fatigue Mat - A Comprehensive Review for Standing Desks Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-latest-in-wearables-the-ultimate-review-of-the-fitbit-charge-4s-style-and-functionality/"><u>Unveiling the Latest in Wearables: The Ultimate Review of the Fitbit Charge 4'S Style and Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-the-fitbit-versa-2-a-wearable-that-elevates-your-health-game-and-offers-cutting-edge-smartwatch-extras/"><u>Unveiling the Power of the Fitbit Versa 2 - A Wearable that Elevates Your Health Game and Offers Cutting-Edge Smartwatch Extras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/anxieties-unmasked-how-to-combat-them/"><u>Vlog Anxieties Unmasked How to Combat Them</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vonage-is-it-leading-the-pack-in-current-voip-services/"><u>Vonage: Is It Leading the Pack in Current VoIP Services?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-chatgpt-plus-might-be-your-best-tech-move-yet-5-key-reasons/"><u>Why ChatGPT Plus Might Be Your Best Tech Move Yet – 5 Key Reasons</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/willful-m98-review/"><u>Willful M98 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/yokus-island-express-game-analysis-unexpectedly-thrilling-journeys/"><u>Yoku's Island Express Game Analysis: Unexpectedly Thrilling Journeys</u></a></li>
+</ul></div>

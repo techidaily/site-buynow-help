@@ -1,7 +1,7 @@
 ---
 title: A Closer Look at LG Gram 17 – Blending Slim Design with Top-Tier Efficiency
-date: 2024-08-09T00:38:51.429Z
-updated: 2024-08-10T00:38:51.429Z
+date: 2024-09-09T04:07:05.128Z
+updated: 2024-09-10T04:07:05.128Z
 categories:
   - BestProducts
 description: This Article Describes A Closer Look at LG Gram 17 – Blending Slim Design with Top-Tier Efficiency
@@ -9,17 +9,32 @@ excerpt: This Article Describes A Closer Look at LG Gram 17 – Blending Slim De
 thumbnail: https://www.lifewire.com/thmb/plhq-qtTIvBCJ2jL0ayJXgsB4TE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_LG-Gram-17-Inch-Thin-Laptop-1-26891b187a0c4260bbbe391a08f0e413.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Experience Cutting Edge TV Without Breaking the Bank with the Antolink AT-127 - A Sophisticated and Efficient Choice
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Antop AT-127
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/6eJwPC0xPwMxCh4aQhG73X9dkzU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Erika Rawes
 
  What We Like
@@ -44,6 +59,12 @@ Lifewire / Erika Rawes
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Erika Rawes
 
 [View On Walmart $29](https://www.walmart.com/ip/612208092)
@@ -66,7 +87,10 @@ Lifewire / Erika Rawes
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: Reversible faux wood finish**
 
@@ -81,7 +105,10 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup: Easier than most**
 
@@ -91,22 +118,28 @@ Lifewire / Erika Rawes
 
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
 
  The attached coax cable isn’t as long as I’ve seen on other similarly-priced antennas, but it is long enough (10 feet) to place the antenna up high without an extender.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -115,16 +148,10 @@ Lifewire / Erika Rawes
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
 
  Lifewire / Erika Rawes
@@ -170,3 +197,43 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-mixed-media-mastery-evaluating-splitcams-edge/"><u>[New] Mixed Media Mastery Evaluating SplitCam's Edge</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>[Updated] 2024 Approved Breaking the Monotony Innovative YT Playlist Shuffling</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-downgrade-or-rollback-the-macos-sierra-to-os-x-el-capitan/"><u>2024 Approved How To Downgrade Or Rollback The Macos Sierra To Os X El Capitan</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-top-10plus-free-online-youtube-intro-makers/"><u>2024 Approved Top 10+ Free Online YouTube Intro Makers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-windows-10s-leading-screen-capture-tools-a-comprehensive-list/"><u>2024 Approved Windows 10'S Leading Screen Capture Tools A Comprehensive List</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessment-of-the-compact-and-convenient-amazon-basics-tablet-holder-for-mobile-use/"><u>Assessment of the Compact and Convenient Amazon Basics Tablet Holder for Mobile Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-through-chatgpts-token-ceiling-barrier/"><u>Breaking Through ChatGPT’s Token Ceiling Barrier</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comedic-craftsmanship-unlocking-gags-at-zero-cost/"><u>Comedic Craftsmanship Unlocking Gags at Zero Cost</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-ospreys-cost-effective-weather-station-the-ambient-ws-2902a/"><u>Comprehensive Guide to Osprey's Cost-Effective Weather Station - The Ambient WS-2902A</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-on-kooteks-cooling-pad-for-computers-highly-recommended-product/"><u>Comprehensive Review on Kootek's Cooling Pad for Computers: Highly Recommended Product</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ddpai-mini3-dashcam-testing-an-unusually-entertaining-experience/"><u>Ddpai Mini3 Dashcam Testing: An Unusually Entertaining Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-oneplus-offers-and-promotions-this-cyber-monday/"><u>Exclusive OnePlus Offers & Promotions This Cyber Monday!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-the-fujitsu-scansnap-ix1400-your-reliable-partner-in-home-and-small-business-scanning-solutions/"><u>Expert Analysis on the Fujitsu ScanSnap iX1400 - Your Reliable Partner in Home and Small Business Scanning Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-6-sheet-money-saving-amazonbasics-document-destroyer/"><u>Expert Insights on the 6-Sheet, Money-Saving AmazonBasics Document Destroyer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/exploring-browsing-anomalies-where-are-my-fb-video-suggestions-for-2024/"><u>Exploring Browsing Anomalies Where Are My FB Video Suggestions for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-the-ultimate-guide/"><u>Exploring Tom's Hardware - The Ultimate Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-a-perfect-replica-of-your-drive/"><u>How to Make a Perfect Replica of Your Drive</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-8-plus-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 8 Plus Lock Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-garmin-forerunner-745-ultimate-guide-for-avid-athletes/"><u>In-Depth Analysis of the Garmin Forerunner 745: Ultimate Guide for Avid Athletes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-fintie-macbook-pro-13-protector-delivers-on-durability-and-budget/"><u>In-Depth Analysis: How the Fintie MacBook Pro 13 Protector Delivers on Durability and Budget</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-guide-to-d-link-powerline-2000-swift-installation-and-rapid-file-sharing/"><u>In-Depth Guide to D-Link Powerline 2000: Swift Installation & Rapid File Sharing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-the-high-costs-and-swift-performance-of-swagtrons-swagboard-t1/"><u>In-Depth Review: The High Costs & Swift Performance of Swagtron's Swagboard T1</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-marathon-gaming-sessions-a-review-of-mavix-m-9s-unbeatable-comfort/"><u>Mastering Marathon Gaming Sessions – A Review of Mavix M 9'S Unbeatable Comfort</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/maximizing-impact-best-practices-for-corporate-screencast-training/"><u>Maximizing Impact Best Practices for Corporate Screencast Training</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nikon-sb-700-af-speedlight-flash-review/"><u>Nikon SB-700 AF Speedlight Flash Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/omoton-t1-portable-tablet-dock-a-solid-cost-effective-stand-for-your-device-reviewed/"><u>Omoton T1 Portable Tablet Dock - A Solid, Cost-Effective Stand for Your Device Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oneplus-8t-performance-analysis-how-camera-quality-affects-the-fast-and-furious-experience/"><u>OnePlus 8T Performance Analysis: How Camera Quality Affects the Fast and Furious Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-amazon-fire-hd-10-tablet-for-children-with-top-tier-parental-safeguards/"><u>Review of Amazon Fire HD 10 Tablet for Children with Top-Tier Parental Safeguards</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/shake-off-boredom-with-these-10-fantastic-game-choices/"><u>Shake Off Boredom with These 10 Fantastic Game Choices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-fongos-features-and-performance-in-canada/"><u>The Ultimate Guide to Fongo's Features and Performance in Canada</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-phantom-v-flip-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Phantom V Flip Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-cable-modem-models-your-ultimate-buying-guide/"><u>Top Rated Cable Modem Models : Your Ultimate Buying Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/troubleshooting-facebooks-missing-verification-code-solution/"><u>Troubleshooting: Facebook's Missing Verification Code Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-nest-audios-charm-an-essential-addition-to-music-lovers-smart-home-collections/"><u>Unveiling Nest Audio's Charm: An Essential Addition to Music Lovers’ Smart Home Collections</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-tecno-pop-8-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Tecno Pop 8 Phone Network-Ready</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/yamahas-compact-sound-system-b020bl-overview/"><u>Yamaha's Compact Sound System - B020BL Overview</u></a></li>
+</ul></div>

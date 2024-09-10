@@ -1,7 +1,7 @@
 ---
 title: Upgrading Your Mobile PC with Microsoft's Improved Windows Features
-date: 2024-09-04T16:15:09.515Z
-updated: 2024-09-05T16:15:09.515Z
+date: 2024-09-09T04:11:24.948Z
+updated: 2024-09-10T04:11:24.948Z
 tags:
   - games
   - tv
@@ -11,6 +11,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gamebar.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Upgrading Your Mobile PC with Microsoft's Improved Windows Features
 
 Handheld console-like PCs running Windows are becoming more common, but Windows still isn’t really built for tablet-sized screens with controller navigation. Microsoft is now fixing one of the bigger headaches there: the Xbox Game Bar.
@@ -23,6 +29,18 @@ Handheld console-like PCs running Windows are becoming more common, but Windows 
 
 ![Adding a widget in the Windows game bar on a handheld PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2408-widgets-80b614204effb964aca0-1536x864.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Microsoft
 
  Most PC gaming handhelds ship with Windows, such as the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/) and [Lenovo Legion Go](https://buynow-help.techidaily.com/wire-free-wonderment-the-allure-of-m06-headphones/), but the operating system still isn’t optimized for that design. This is one of Microsoft’s first steps towards fixing that. There are still many other actions that will require tapping the screen or using an on-screen keyboard, but making the Game Bar work well with controller input is a step in the right direction.
@@ -89,10 +107,3 @@ Microsoft
 <li><a href="https://buynow-help.techidaily.com/top-rated-usb-stick-picks-your-ultimate-guide/"><u>Top-Rated USB Stick Picks : Your Ultimate Guide</u></a></li>
 <li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-your-network-with-a-thorough-review-of-the-linksys-wrt1900acs-open-source-router/"><u>Unlocking the Potential of Your Network with a Thorough Review of the Linksys WRT1900ACS Open Source Router</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
-date: 2024-09-04T16:15:08.770Z
-updated: 2024-09-05T16:15:08.770Z
+date: 2024-09-09T04:11:24.257Z
+updated: 2024-09-10T04:11:24.257Z
 tags:
   - games
   - tv
@@ -11,8 +11,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/banana.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Virtual bananas in a new viral game are being traded for real money on Steam, with rare items fetching hundreds or thousands of dollars.
@@ -21,12 +39,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Steam’s latest clicker game sensation has users trading virtual bananas on the Steam Community Market for hundreds of real-world dollars. Just what is going on?
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  This Game Is Bananas
 
 [Banana](https://store.steampowered.com/app/2923300/Banana/) is a free clicker game that has taken the Steam charts by storm. The extent of the “gameplay” involves clicking an on-screen banana, which admittedly isn’t dissimilar to [other types of clicker games](https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/). Every three and 18 hours, you’ll get given an in-game item in the form of a banana.
 
 ![A virtual banana from the Banana game on Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ss_641d6402187d5335b1e345498f0eff293a054f75-1920x1080.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Pony / Sky / AestheticSpartan
 
  These bananas are random drops designed by the game’s community on Discord, with varying degrees of rarity. There are bananas that look like 3D meshes, bananas that look like games of pong, bananas with pandas and cats on them, and so on.
@@ -34,10 +64,16 @@ Pony / Sky / AestheticSpartan
  These in-game items may be given out for free, but they can be traded on the Steam Community Market for real money. You can buy and sell bananas from as little as a few cents up to hundreds or thousands of dollars. The rarer the banana, the higher the value the community has assigned to it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What's Really Going On Here?
 
@@ -48,10 +84,10 @@ Pony / Sky / AestheticSpartan
 ![The free-to-play Banana game in third place on the Steam charts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-12-at-12-32-52.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  It’s still a bit of a mystery what’s really going on here. The game makes no claims that in-game items have any inherent value so on the surface, Banana seems innocent enough. The game doesn’t appear to be doing anything in the background (so it’s not a stealthy crypto miner), and you don’t even need to leave it open as long as you open it regularly for a few clicks to collect your fruit.
 

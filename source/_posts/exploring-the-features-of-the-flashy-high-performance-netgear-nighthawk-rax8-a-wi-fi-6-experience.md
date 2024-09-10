@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Features of the Flashy, High-Performance Netgear Nighthawk RAX8#: A Wi-Fi 6 Experience"
-date: 2024-08-09T00:38:50.257Z
-updated: 2024-08-10T00:38:50.257Z
+date: 2024-09-09T04:05:09.263Z
+updated: 2024-09-10T04:05:09.263Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Features of the Flashy, High-Performance Netgear Nighthawk RAX8#: A Wi-Fi 6 Experience"
@@ -9,6 +9,12 @@ excerpt: "This Article Describes Exploring the Features of the Flashy, High-Perf
 thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d01905429c873797c52e328b9.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ultimate Guide to the Netgear Nighthawk X10 (AD7200) - Experience Lightning Quick Internet with Our In-Depth Review
 
 4.2
@@ -39,16 +45,16 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Netgear Nighthawk X10 AD7200 Router
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netgear Nighthawk X10 AD7200](https://www.lifewire.com/thmb/0rm8vUox5EoeaGCQJw0E5XQxwck=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_WirelessRouters_NighthawkX10AD7200_HeroSquare-885945bb208b49a583aca8da1aa09378.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
 [View On Amazon $440](https://www.amazon.com/dp/B01M12RE4A?tag=lifewire-onsite-prod-20&ascsubtag=4846418%7Cnd55a891e250641509ef77229001ead8021%7CB01M12RE4A) [View On Walmart $279](https://www.walmart.com/ip/122396083) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-nighthawk-x10-ad7200-tri-band-wi-fi-router-black%2F5610805.p%3FskuId%3D5610805)
@@ -85,15 +91,21 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
  Two USB 3.0 type A connectors can be found on the left side of the router as you look at it from the front. These can be used to connect USB thumb drives or[SSDs](https://www.lifewire.com/solid-state-drive-833448) to populate the built-in Plex Media Server and pipe multimedia content to devices throughout your home.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netgear Nighthawk X10 AD7200 (R9000)](https://www.lifewire.com/thmb/I8vaunCMjxEzWH-oM1U7fsSYe9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_WirelessRouters_NighthawkX10AD7200_04-abc45a63844e4ebe8f43e4f6facbd601-d54874ec8e984393b51c0bea9803c849.jpg)
 
 Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup Process: Zero hassle from start to finish**
 
@@ -107,6 +119,12 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Connectivity: AD7200 tri-band with MU-MIMO and 10G SFP+**
 
  The Netgear Nighthawk X10 AD7200 is an AD7200 tri-band router, which means it’s capable of providing 1733Mbps over a 5GHz wireless network, 800Mbps over a 2.4GHz network, and a blistering 4600Mbps over a 60Hz network. That last one is the key feature here, as only 802.11ad routers like this one feature a super-high-speed 60GHz network.
@@ -121,6 +139,12 @@ Lifewire / Jeremy Laukkonen
 
  For physical connectivity, the Nighthawk X10 features six Ethernet ports, two of which can be used together to create a single 2Gbps connection. You also get two USB 3.0 ports for connecting USB drives and a single 10Gbps SFP+ LAN port. This final port is potentially the most interesting, and also most niche since it allows you to connect a high-speed NAS server, a secondary switch for more Ethernet ports, or other devices that require a bunch of high-speed bandwidth.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Network Performance: Fantastic 5GHz performance, WiGig leaves a bit to be desired**
 
  Since this is an 802.11ad router, and the 60GHz WiGig network is the key feature here, that’s where I’m going to start. All of my tests are performed using a 1Gbps Mediacom cable internet connection, so any testing done on an 802.11ad router like this involves data transfer speeds within my network, not the internet connection. For testing purposes, I have a[laptop](https://www.lifewire.com/best-laptops-to-buy-4043650) that I retrofitted with a network interface card featuring the QCA9005 chipset.
@@ -146,7 +170,10 @@ Lifewire / Jeremy Laukkonen
  Strangely enough, this 802.11ad router’s strongest selling point might be the impressively robust nature of its 5 GHz network.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: Netgear’s web interface and web app, plus Plex and more**
 
@@ -163,7 +190,10 @@ Lifewire / Jeremy Laukkonen
  I plugged in one of my media-filled SSD USB drives and had no trouble streaming to any of the Plex clients I have on my network.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Not bad if you really need 802.11ad**
 
@@ -174,7 +204,10 @@ Lifewire / Jeremy Laukkonen
  By way of comparison, the Nighthawk Pro Gaming XR700 has similar specifications, swaps out Plex Media Server for some gaming-centric quality of life (QoL) features, and has a street price that’s close to $400.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Netgear Nighthawk X10 AD7200 vs. Netgear Nighthawk RAX80**
 
@@ -225,3 +258,45 @@ Lifewire / Jeremy Laukkonen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-of-the-best-in-gpodc-podcasts/"><u>[New] Best of the Best in GPodC Podcasts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-editing-savvy-streamlining-your-youtube-video-lengths/"><u>[New] Editing Savvy Streamlining Your YouTube Video Lengths</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-cost-android-communication-tools-guide/"><u>[New] No-Cost Android Communication Tools Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-the-art-of-audio-integration-on-social-media-videos/"><u>[Updated] Mastering the Art of Audio Integration on Social Media Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-pro-ultimate-2023-template-collection-free/"><u>[Updated] Premier Pro Ultimate 2023 Template Collection (FREE)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-kinemaster-edge-mastering-video-segmentation-and-transitioning/"><u>[Updated] The Kinemaster Edge Mastering Video Segmentation and Transitioning</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-engage-leveraging-facebook-twitter-instagram-and-youtube-for-growth/"><u>Connect and Engage: Leveraging Facebook, Twitter, Instagram & YouTube for Growth</u></a></li>
+<li><a href="https://fox-info.techidaily.com/expert-techniques-for-opening-srt-on-computers-for-2024/"><u>Expert Techniques for Opening SRT on Computers for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-ranked-best-of-the-best-smart-speakers/"><u>Expertly Ranked Best-of-the-Best: Smart Speakers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-amazon-fire-hd-n-an-inclusive-media-tablet-reviewed/"><u>Exploring the Amazon Fire HD N - An Inclusive Media Tablet Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-depths-of-galactic-warfare-a-thorough-review-of-star-wars-squadrons/"><u>Exploring the Depths of Galactic Warfare - A Thorough Review of Star Wars: Squadrons.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/find-everything-at-your-fingertips-with-oodle-your-go-to-source-for-complimentary-community-listings/"><u>Find Everything at Your Fingertips with Oodle - Your Go-To Source for Complimentary Community Listings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/finding-your-ideal-viewing-experience-with-projection-or-television/"><u>Finding Your Ideal Viewing Experience with Projection or Television</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fun-filled-gaming-adventure-reviews-of-plants-vs-zombies-new-release-battle-for-neighborville/"><u>Fun-Filled Gaming Adventure: Reviews of 'Plants Vs. Zombies' New Release, 'Battle for Neighborville'</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2022-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2022) System? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-earn-with-each-screen-capture/"><u>In 2024, Earn With Each Screen Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfecting-the-science-of-converting-speech-to-text-with-google/"><u>In 2024, Perfecting the Science of Converting Speech to Text with Google</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-unveiling-the-power-of-a-feature-packed-samsung-galaxy-tab-s5e/"><u>In-Depth Analysis: Unveiling the Power of a Feature-Packed Samsung Galaxy Tab S5e</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insightful-analysis-of-samsung-galaxy-fit-an-ultimate-companion-for-health-conscious-users/"><u>Insightful Analysis of Samsung Galaxy Fit: An Ultimate Companion for Health-Conscious Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/interactive-illusions-vr-storytelling-for-2024/"><u>Interactive Illusions VR Storytelling for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interplanetary-town-planning-gone-awry-stirring-up-storms-for-galactic-fun/"><u>Interplanetary Town Planning Gone Awry: Stirring Up Storms for Galactic Fun</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-usb-wi-fi-converters-for-seamless-internet-connection-in-2n3-best-picks-of-the-year/"><u>Leading USB Wi-Fi Converters for Seamless Internet Connection in 2N3 - Best Picks of the Year</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-connectivity-with-asus-rog-gt-ac5300-the-ultimate-choice-for-gamers-and-tech-enthusiasts/"><u>Mastering Connectivity with Asus ROG GT-AC5300: The Ultimate Choice for Gamers & Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/minecraft-campfire-stories-collection-examined-is-it-a-must-have-for-your-game-library/"><u>Minecraft Campfire Stories Collection Examined: Is It a Must-Have for Your Game Library?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/osteolytic-lesions-can-lead-to-complications-such-as-pain-fractures-and-spinal-cord-compression/"><u>Osteolytic Lesions Can Lead to Complications Such as Pain, Fractures, and Spinal Cord Compression</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/periscope-footage-lifesaving-tips-and-tricks-for-2024/"><u>Periscope Footage Lifesaving Tips & Tricks for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-the-ultimate-guide-to-siri-enabled-streaming-on-apple-tv-4k/"><u>Review: The Ultimate Guide to Siri-Enabled Streaming on Apple TV 4K</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/staying-serene-in-meetings-master-the-art-of-quieting-others-in-google-video-conversations/"><u>Staying Serene in Meetings Master the Art of Quieting Others in Google Video Conversations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sumind-bt7-the-following-message-is-from-the-us-census-bureau-and-provides-information-on-how-many-people-live-in-a-particular-region-such-as-a-state-or-cou158/"><u>Sumind BT7 The Following Message Is From the U.S. Census Bureau and Provides Information on How Many People Live in a Particular Region, Such as a State or County. The Numbers Come From the Most Recent Census Data Available at that Time:</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-verdict-on-the-galaxy-s20-fe-with-5g-tech-reviews-and-consumer-ratings/"><u>The Definitive Verdict on the Galaxy S20 FE with 5G: Tech Reviews and Consumer Ratings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-king-of-gaming-stations-a-detailed-examination-of-the-xbox-one-x/"><u>The King of Gaming Stations - A Detailed Examination of the Xbox One X</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-lenovos-new-lightweight-champion-thinkpad-x1-nano-review/"><u>The Ultimate Guide to Lenovo's New Lightweight Champion - ThinkPad X1 Nano Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-m-mock-1000a-18000mah-auto-jump-starter-your-best-pick-for-emergencies/"><u>The Ultimate Guide to the M MOCK 1000A 18000mAh Auto Jump Starter: Your Best Pick for Emergencies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-mohu-leaf-30-antenna-high-performance-at-great-price/"><u>The Ultimate Guide to the Mohu Leaf 30 Antenna: High-Performance at Great Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-x-chair-x4-ergonomic-leader-in-corporate-comfort/"><u>The Ultimate Guide to the X-Chair X4 Ergonomic Leader in Corporate Comfort</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-trick-to-delete-resistant-directories-in-windows-10-and-11-using-revos-toolkit/"><u>Ultimate Trick to Delete Resistant Directories in Windows 10 & 11 Using Revo's Toolkit</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-the-methods-to-retrieve-erased-iphone-messages-comprehensive-guide/"><u>Uncovering the Methods to Retrieve Erased iPhone Messages: Comprehensive Guide</u></a></li>
+</ul></div>

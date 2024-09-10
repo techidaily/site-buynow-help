@@ -1,7 +1,7 @@
 ---
 title: Unboxing the Powerhouse Apple iPhone 12 Mini - A Review
-date: 2024-08-09T00:38:53.762Z
-updated: 2024-08-10T00:38:53.762Z
+date: 2024-09-09T04:11:13.391Z
+updated: 2024-09-10T04:11:13.391Z
 categories:
   - BestProducts
 description: This Article Describes Unboxing the Powerhouse Apple iPhone 12 Mini - A Review
@@ -9,20 +9,38 @@ excerpt: This Article Describes Unboxing the Powerhouse Apple iPhone 12 Mini - A
 thumbnail: https://www.lifewire.com/thmb/RRm7SO68Yut-wFBusZ-z3LplvZA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Apple-iPhone-12-Mini-1-a3e834f4622142a69a0de434b17b98e4.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiling the Portable Powerhouse: The Pioneer BDR-XS06's Blu-Ray Burning Excellence Reviewed
 
 4.4
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Pioneer BDR-XS06 Slot Loading Portable Blu-ray Burner
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pioneer BDR-XS06](https://www.lifewire.com/thmb/1WEpNEg3uu2Ow7DpqhXyGzVO8Pw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW832423_HeroSquare-191df3b949f947dc9398373d6f610c19.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Scott Gercken
 
  What We Like
@@ -43,11 +61,14 @@ Lifewire / Scott Gercken
 
 4.4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pioneer BDR-XS06 Slot Loading Portable Blu-ray Burner
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Pioneer BDR-XS06](https://www.lifewire.com/thmb/0KtwvTBY-2P8KkZ_aO3Di4x-41c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW832423_HeroSquare-191df3b949f947dc9398373d6f610c19.jpg)
 
 Lifewire / Scott Gercken
@@ -86,28 +107,34 @@ Lifewire / Scott Gercken
 
  It’s a slot loading drive, which works exactly the way you’d expect. It may be personal preference, but slot loading systems seem cleaner and less fussy than clamshell or tray systems. The back side has two ports, a[USB 3.0](https://www.lifewire.com/what-is-usb-3-0-2626038) micro-B and a port for a DC power input (not included with the drive). The drive also comes with a micro-B to USB-A cord, making it easy to connect the Pioneer BDR-XS06 to your computer.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pioneer BDR-XS06](https://www.lifewire.com/thmb/LB5BA5cM1cVQB_sK6BgcOEl3l9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW832423_02-60d78cf22bf04b52979d5f65437a35e8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Scott Gercken
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: So easy**
 
  The Pioneer BDR-XS06[Blu-ray Burner](https://www.lifewire.com/best-desktop-blu-ray-drives-832423) is very easy to set up. We just plugged the USB cord into the Blu-ray burner and the computer and it was ready to go. Macs have native software for reading and burning using a Blu-ray drive, so it was a breeze to get started.
 
  The BDR-XS06 also comes with a copy of Roxio Toast Lite. We inserted the installation disc into the BDR-XS06 to get the process started. When the drive mounted the disc, it showed a window with the application and an alias for the applications folder. Installation was as easy as dragging the icon to our applications folder. When we opened the app, the only setup step was registration, and then we were ready to go.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Compatibility: Works right out of the box**
 
  Even without the software, the BDR-XS06 worked right away. This model works right out of the box with both Windows and MacOS with little to no additional fuss. It’s one of the most plug-and-play burners we’ve tested.
@@ -120,9 +147,6 @@ It’s one of the most plug-and-play burners we’ve tested.
 
  To test read/write speeds, we ripped a copy of_Die Hard,_ a 37GB file, using a program called_MakeMKV._ The whole process took an hour and 13 minutes, and the drive hit speeds between 5.2x and 6x. To test the write speeds, we made a backup copy of a 14GB photo library. It took just under 42 minutes, though the same task took 32 minutes on Roxio Toast. While these speeds aren’t the fastest on the market, they live up to Pioneer’s advertising. While using Roxio Toast, the software measured an average write speed of 3x while using a BD-R, though its max speed is 6x for that format.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pioneer BDR-XS06](https://www.lifewire.com/thmb/hYWwVcK8E-FSog7TpOTOgE-hYnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW832423_03-df0bfb492ead4e86a35df19618bcd5d4.jpg)
 
  Lifewire / Scott Gercken
@@ -136,7 +160,10 @@ It’s one of the most plug-and-play burners we’ve tested.
  While many people rave about[HD](https://www.lifewire.com/what-you-need-to-see-hd-1847338) image quality, we think that the depth of sound is the most exciting feature of the Blu-ray format. When you get all the high-end and low-end sound, it feels more immersive, and the Pioneer BDR-XS06 Slot Loading Portable Blu-ray Burner delivered the audio quality you’d expect from a Blu-ray. If you don’t mind the reduction in image quality vs. a dedicated player, the BDR-XS06 could double as a Blu-ray player for your PC or TV.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: Quirky but useful**
 
@@ -170,9 +197,6 @@ It’s one of the most plug-and-play burners we’ve tested.
 
  The Pioneer BDR-XS06 Slot Loading Portable Blu-ray Burner is a solid, portable Blu-ray burner. It’s small enough to pack up to take on a trip, and it’s solid enough to give us confidence that it can endure some jostling on the way. It costs a little more than its competitors, but we think the solid construction is worth it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [OWC Mercury Pro External USB 3.1 Gen 1 Optical Drive](https://www.lifewire.com/owc-mercury-pro-review-4774690)
@@ -180,7 +204,16 @@ It’s one of the most plug-and-play burners we’ve tested.
 * [NAVISKAUTO 12" Portable DVD Player](https://www.lifewire.com/naviskauto-12-portable-dvd-player-review-4691953)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 
@@ -214,3 +247,43 @@ It’s one of the most plug-and-play burners we’ve tested.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-fives-finest-tools-for-rapid-video-frame-capturing-for-2024/"><u>[New] Five's Finest Tools for Rapid Video Frame Capturing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-video-concepts-fueling-creativity-in-youtube-channels/"><u>[New] In 2024, Essential Video Concepts Fueling Creativity in YouTube Channels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-insights-crafting-tall-footage-in-final-cut-pro-x/"><u>[New] In 2024, Instagram Insights Crafting Tall Footage in Final Cut Pro X</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-leading-free-video-conferencing-services-top-screen-sharing-list/"><u>[Updated] 2024 Approved Leading Free Video Conferencing Services Top Screen Sharing List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-effortless-single-frame-analysis-in-youtube-videos-5-ways-for-2024/"><u>[Updated] Effortless Single-Frame Analysis in YouTube Videos [5 Ways] for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-evaluating-earnings-from-one-million-youtube-watches-for-2024/"><u>[Updated] Evaluating Earnings From One Million YouTube Watches for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-essentials-of-professional-editing-in-gopro-studio/"><u>[Updated] In 2024, The Essentials of Professional Editing in GoPro Studio</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-pinnacle-of-funny-photo-artistry/"><u>[Updated] Pinnacle of Funny Photo Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-video-playback-device-pcmobile-focus/"><u>2024 Approved Ultimate Video Playback Device - PC/Mobile Focus</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-new-era-for-classic-design-in-depth-review-of-the-latest-lg-watch-style-featuring-wear-os-20-technology/"><u>A New Era for Classic Design: In-Depth Review of the Latest LG Watch Style Featuring Wear OS 2.0 Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-elegance-motorola-ones-iphone-like-appeal-at-half-the-price/"><u>Affordable Elegance: Motorola One's iPhone-Like Appeal at Half the Price</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-motorola-g54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Motorola G54 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-ospreys-cost-effective-weather-station-the-ambient-ws-2902a/"><u>Comprehensive Guide to Osprey's Cost-Effective Weather Station - The Ambient WS-2902A</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-on-kooteks-cooling-pad-for-computers-highly-recommended-product/"><u>Comprehensive Review on Kootek's Cooling Pad for Computers: Highly Recommended Product</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ddpai-mini3-dashcam-testing-an-unusually-entertaining-experience/"><u>Ddpai Mini3 Dashcam Testing: An Unusually Entertaining Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-the-fujitsu-scansnap-ix1400-your-reliable-partner-in-home-and-small-business-scanning-solutions/"><u>Expert Analysis on the Fujitsu ScanSnap iX1400 - Your Reliable Partner in Home and Small Business Scanning Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-6-sheet-money-saving-amazonbasics-document-destroyer/"><u>Expert Insights on the 6-Sheet, Money-Saving AmazonBasics Document Destroyer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-elite-art-tools-top-5-drawing-tablets-dominating-2024-market/"><u>Explore Elite Art Tools: Top 5 Drawing Tablets Dominating 2024 Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/headlamp-upgrades-for-peak-vehicle-performance/"><u>Headlamp Upgrades for Peak Vehicle Performance</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-fintie-macbook-pro-13-protector-delivers-on-durability-and-budget/"><u>In-Depth Analysis: How the Fintie MacBook Pro 13 Protector Delivers on Durability and Budget</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-guide-to-d-link-powerline-2000-swift-installation-and-rapid-file-sharing/"><u>In-Depth Guide to D-Link Powerline 2000: Swift Installation & Rapid File Sharing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-the-high-costs-and-swift-performance-of-swagtrons-swagboard-t1/"><u>In-Depth Review: The High Costs & Swift Performance of Swagtron's Swagboard T1</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-applecareplus-a-smart-choice-for-your-iphone-protection-plan/"><u>Is AppleCare+ a Smart Choice for Your iPhone Protection Plan?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/masterclasses-on-procuring-photo-and-video-borders-for-2024/"><u>Masterclasses on Procuring Photo & Video Borders for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-marathon-gaming-sessions-a-review-of-mavix-m-9s-unbeatable-comfort/"><u>Mastering Marathon Gaming Sessions – A Review of Mavix M 9'S Unbeatable Comfort</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-apples-release-schedule-for-optimal-iphone-timing/"><u>Navigating Apple's Release Schedule for Optimal iPhone Timing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nikon-sb-700-af-speedlight-flash-review/"><u>Nikon SB-700 AF Speedlight Flash Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/omoton-t1-portable-tablet-dock-a-solid-cost-effective-stand-for-your-device-reviewed/"><u>Omoton T1 Portable Tablet Dock - A Solid, Cost-Effective Stand for Your Device Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oneplus-8t-performance-analysis-how-camera-quality-affects-the-fast-and-furious-experience/"><u>OnePlus 8T Performance Analysis: How Camera Quality Affects the Fast and Furious Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-amazon-fire-hd-10-tablet-for-children-with-top-tier-parental-safeguards/"><u>Review of Amazon Fire HD 10 Tablet for Children with Top-Tier Parental Safeguards</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/shake-off-boredom-with-these-10-fantastic-game-choices/"><u>Shake Off Boredom with These 10 Fantastic Game Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-401-unauthorized-error-a-step-by-step-guide/"><u>Solving the 401 Unauthorized Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/ultimate-strategies-for-instagram-stories-mastery-for-2024/"><u>Ultimate Strategies for Instagram Stories Mastery for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-nest-audios-charm-an-essential-addition-to-music-lovers-smart-home-collections/"><u>Unveiling Nest Audio's Charm: An Essential Addition to Music Lovers’ Smart Home Collections</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/yamahas-compact-sound-system-b020bl-overview/"><u>Yamaha's Compact Sound System - B020BL Overview</u></a></li>
+</ul></div>
