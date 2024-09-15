@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis of Moto G Power: Exceptional Longevity & Stellar Efficiency"
-date: 2024-08-09T00:38:57.634Z
-updated: 2024-08-10T00:38:57.634Z
+date: 2024-09-14T04:59:56.230Z
+updated: 2024-09-14T16:09:28.728Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis of Moto G Power: Exceptional Longevity & Stellar Efficiency"
@@ -13,10 +13,6 @@ thumbnail: https://thmb.techidaily.com/e55121a8e00138bfd889740b0f7a193e7e03922e8
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Antop AT-127
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/6eJwPC0xPwMxCh4aQhG73X9dkzU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
@@ -43,10 +39,6 @@ Lifewire / Erika Rawes
 
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
 Lifewire / Erika Rawes
@@ -70,9 +62,6 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -85,9 +74,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup: Easier than most**
 
  Setting up the antenna is relatively intuitive. You just connect the antenna to the coaxial/antenna-in connection on your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) . The antenna has an easy-push connector, instead of a connector you have to twist onto the threading. This makes for easier setup because you don’t have to struggle behind your TV with trying to screw on the[coaxial cable](https://www.lifewire.com/coaxial-vs-optical-digital-cable-3134605) .
@@ -102,9 +88,6 @@ Lifewire / Erika Rawes
 
  The attached coax cable isn’t as long as I’ve seen on other similarly-priced antennas, but it is long enough (10 feet) to place the antenna up high without an extender.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
 
  Lifewire / Erika Rawes
@@ -117,17 +100,35 @@ Lifewire / Erika Rawes
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
  You can find indoor antennas for less than $15 (view on[Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845583%7Cna0f30cabffec4337b279a8df3e4c99b015%7C) ). The[AmazonBasics](https://www.lifewire.com/amazonbasics-flat-tv-antenna-review-4845569) 35-mile range antenna is a good example, though it doesn’t come with a stand or have the easy-push connector. Aesth etically, the AmazonBasics antenna doesn’t hold a candle to the Antop antenna, but it does cost significantly less.
@@ -138,9 +139,6 @@ Lifewire / Erika Rawes
 
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AT-127
@@ -157,14 +155,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,3 +167,23 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-your-life-your-legacy-youtube-videos-that-matter/"><u>[New] In 2024, Your Life, Your Legacy YouTube Videos That Matter</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-social-media-riches-joining-the-elite-of-tiktok-creators/"><u>[Updated] 2024 Approved Social Media Riches Joining the Elite of TikTok Creators</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-xsplit-direct-insight-and-evaluation-guide/"><u>[Updated] In 2024, XSplit Direct Insight & Evaluation Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-what-is-crossfade/"><u>[Updated] What Is Crossfade</u></a></li>
+<li><a href="https://article-files.techidaily.com/an-in-depth-guide-to-every-element-of-srt/"><u>An In-Depth Guide to Every Element of SRT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-zephyrus-g14-analysis-ultimate-performance-meets-portability/"><u>Asus Zephyrus G14 Analysis: Ultimate Performance Meets Portability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-clearstream-2v-hd-tv-antenna-review-stunning-outdoorindoor-functionality-in-an-eye-catching-design/"><u>Comprehensive ClearStream 2V HD TV Antenna Review: Stunning Outdoor/Indoor Functionality in an Eye-Catching Design</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/grau-gmbhs-expert-hardware-and-software-fixes-for-seamless-video-editing/"><u>Grau GmbH's Expert Hardware and Software Fixes for Seamless Video Editing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c02-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C02 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huawei-mediapad-m5-a-cutting-edge-tablet-for-exceptional-sight-and-sound-performance/"><u>Huawei MediaPad M5: A Cutting-Edge Tablet for Exceptional Sight and Sound Performance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-m54-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy M54 5G Unlock Without Password</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-windows-10-features-for-seamless-video-editing/"><u>In 2024, Navigating Windows 10 Features for Seamless Video Editing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inexpensive-camera-photo-quality-vs-frustrating-nikon-a10-ui/"><u>Inexpensive Camera - Photo Quality Vs. Frustrating Nikon A10 UI</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/photography-made-simple-with-the-prime-amazon-basics-tripod/"><u>Photography Made Simple with the Prime Amazon Basics Tripod</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performance-review-for-garmin-forerunner-945-the-premier-gps-smartwatch-for-fitness-enthusiasts/"><u>Top Performance Review for Garmin Forerunner 945: The Premier GPS Smartwatch for Fitness Enthusiasts</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Water-Reducing Admixtures Enhance Workability and Compressive Strength by Reducing Water Content.
-date: 2024-08-31T12:15:40.474Z
-updated: 2024-09-01T12:15:40.474Z
+date: 2024-09-12T03:38:55.274Z
+updated: 2024-09-15T06:58:00.710Z
 tags:
   - games
   - tv
@@ -98,9 +98,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I took the Nebula Capsule 3 on a weekend trip to see how it handled being on the road. Because the device is so portable and easy to move around or travel with, I do wish it came with a case or some kind of lens protection. Packaging it in a backpack with some of my other devices made me a little uneasy.
@@ -118,15 +115,16 @@ Jerome Thomas / How-To Geek
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -137,29 +135,27 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Anker Nebula Capsule 3](https://us.seenebula.com/products/capsule-3-projectors-d2425) projector offers a lot of capabilities packed inside a palmable-sized canister. In my use, it performed about as well as I expected it to. It’s not quite the watch-anywhere device it might seem like from its promotional material, simply because its brightness can’t handle lighter areas.
@@ -167,6 +163,13 @@ Jerome Thomas / How-To Geek
  But if you don’t mind hunting for the shadowy corners of a room during the day or waiting until nightfall, then there’s not much to dislike about what this projector can do. It’s a solid value from a reputable brand with modern software onboard.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -182,8 +185,6 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,36 +194,18 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-to-zoom-screen-recorders/"><u>[Updated] 2024 Approved  The Ultimate Guide to Zoom Screen Recorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-science-of-sensor-based-hands-monitoring/"><u>[Updated] The Science of Sensor-Based Hands Monitoring</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-understanding-instagrams-chord-of-musical-law/"><u>[Updated] Understanding Instagram’s Chord of Musical Law</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-video-perfection-streamlined-subtitlecc-implementation-on-youtube/"><u>[Updated] Video Perfection  Streamlined Subtitle/CC Implementation on YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exclusive-list-of-premium-screen-free-gaming-on-android-devices/"><u>2024 Approved  Exclusive List of Premium Screen-Free Gaming on Android Devices</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>2024 Approved  The Art of Auditory Alchemy  Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-deep-dive-into-freeimage-editing-software-the-comprehensive-photoscape-evaluation/"><u>A Deep Dive Into FreeImage Editing Software: The Comprehensive PhotoScape Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-detailed-torment-tides-of-numenera-game-analysis-an-in-depth-look-at-a-science-fiction-role-playing-experience/"><u>A Detailed Torment: Tides of Numenera Game Analysis - An In-Depth Look at a Science Fiction Role-Playing Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-lg-24lh4830-television-quality-and-value-combined/"><u>Affordable LG 24LH4830 Television - Quality and Value Combined</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/amazon-vs-apple-in-depth-comparison-of-the-echo-dot-and-homepod-mini-speakers/"><u>Amazon Vs. Apple: In-Depth Comparison of the Echo Dot and HomePod Mini Speakers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/authoritative-guide-to-the-most-advanced-smart-audio-systems/"><u>Authoritative Guide to the Most Advanced Smart Audio Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/book-lovers-guide-how-does-the-newly-launched-kobo-nia-hold-up-against-amazon-kindle-rivals/"><u>Book Lover's Guide: How Does the Newly Launched Kobo Nia Hold up Against Amazon Kindle Rivals?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-your-smart-companion-alexa-vs-google-assistant-finding-the-ideal-match/"><u>Choosing Your Smart Companion: Alexa Vs. Google Assistant - Finding the Ideal Match</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-e-readers-ipad-vs-amazon-kindle-vs-barnes-and-noble-nook/"><u>Comparing E-Readers: IPad Vs. Amazon Kindle Vs. Barnes & Noble Nook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-sound-quality-google-nest-audio-vs-apple-homepod-showdown/"><u>Comparing Sound Quality: Google Nest Audio Vs. Apple HomePod Showdown</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-rca-video-doorbell-cam-expert-reviews-and-insights/"><u>Comprehensive Analysis of the RCA Video Doorbell Cam - Expert Reviews & Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/consistent-pet-diet-management-using-petsafes-advanced-six-portion-feeder/"><u>Consistent Pet Diet Management Using PetSafe's Advanced Six Portion Feeder</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-best-features-of-the-economical-fitbit-versa-watch/"><u>Discovering the Best Features of the Economical Fitbit Versa Watch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/empire-at-stake-in-imperator-rome-unveiling-the-triumphs-and-tribulations-of-rule/"><u>Empire at Stake in 'Imperator: Rome' – Unveiling the Triumphs & Tribulations of Rule</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-d-link-powerline-2000-network-solution-user-friendly-setup-and-accelerated-internet-performance/"><u>Evaluating the D-Link Powerline 2000 Network Solution: User-Friendly Setup & Accelerated Internet Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-critique-is-the-sony-65-inch-4k-oled-model-xb930f-worth-its-price/"><u>Expert Critique: Is the Sony 65-Inch 4K OLED (Model XB930F) Worth Its Price?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-mighty-intellect-and-design-of-tcls-2019-32-inch-roku-tv/"><u>Exploring the Mighty Intellect and Design of TCL's 2019 32-Inch Roku TV</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/frugalflare-studiokit-lights-reviewed/"><u>FrugalFlare StudioKit Lights Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hisense-40-inch-5590f-led-smart-tv-evaluation-great-value-for-the-money/"><u>Hisense 40-Inch 5590F LED Smart TV Evaluation: Great Value for the Money</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/prevalence-of-online-fraudulent-activities/"><u>Prevalence of Online Fraudulent Activities</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-art-of-youtube-trailers-using-filmora-tools-for-2024/"><u>The Art of YouTube Trailers Using Filmora Tools for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722972082998-the-ultimate-showdown-gopros-hero7-in-the-action-camera-arena/"><u>The Ultimate Showdown: GoPro's HERO7 in the Action Camera Arena!</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-the-essential-guide-to-emoji-memoji-animoji-and-bitmoji/"><u>Updated 2024 Approved The Essential Guide to Emoji, Memoji, Animoji, and Bitmoji</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/youtube-premium-is-it-right-for-your-viewing-habits/"><u>YouTube Premium: Is It Right for Your Viewing Habits?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-biometrics-battle-comparing-faces-of-iphone-x-and-galaxy-phones-for-2024/"><u>[New] Biometrics Battle Comparing Faces of iPhone X & Galaxy Phones for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-integrating-podcast-magic-a-step-by-step-for-iphone-users/"><u>[New] In 2024, Integrating Podcast Magic A Step-by-Step for iPhone Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-podcast-dialogue-tips-and-practical-script-examples/"><u>[New] Mastering Podcast Dialogue Tips & Practical Script Examples</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-hear-the-difference-mastering-instagram-voice-customizations/"><u>2024 Approved Hear the Difference Mastering Instagram Voice Customizations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-in-depth-guide-to-live-photos-and-full-screen-videos-on-iphones/"><u>2024 Approved In-Depth Guide to Live Photos and Full-Screen Videos on iPhones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-wi-fi-booster-an-experts-take-on-the-tp-link-re200-ac750/"><u>Budget-Friendly Wi-Fi Booster: An Expert's Take on the TP-Link RE200 Ac750</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-apple-watch-series-9-evaluation/"><u>Comprehensive Apple Watch Series 9 Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-beantech-bitwatch-s1-plus-review-an-affordable-tech-marvel/"><u>Comprehensive Beantech Bitwatch S1 Plus Review - An Affordable Tech Marvel!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-examination-of-hps-latest-creation-the-portable-marvel-zbook-firefly-15-g8/"><u>Comprehensive Examination of HP's Latest Creation: The Portable Marvel, ZBook Firefly 15 G8</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977756009-get-the-newest-asus-dvd-player-and-camera-drivers-instantly/"><u>Get the Newest ASUS DVD Player & Camera Drivers Instantly!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-6s-plus-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 6s Plus Passcode without a Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/offizielle-rabattcodes-fur-winx-dvd-ripper-platin-edition-gutscheine-and-vergunstigungen-jetzt-verfugbar/"><u>Offizielle Rabattcodes Für WinX DVD Ripper Platin Edition - Gutscheine & Vergünstigungen Jetzt Verfügbar!</u></a></li>
 </ul></div>
+

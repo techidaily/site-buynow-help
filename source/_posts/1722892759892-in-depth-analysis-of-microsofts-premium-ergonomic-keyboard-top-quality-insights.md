@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of Microsoft's Premium Ergonomic Keyboard – Top Quality Insights!
-date: 2024-08-09T00:38:58.000Z
-updated: 2024-08-10T00:38:58.000Z
+date: 2024-09-10T00:54:32.749Z
+updated: 2024-09-14T22:10:40.502Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of Microsoft's Premium Ergonomic Keyboard – Top Quality Insights!
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/fwoVVARzxv1WmJLD7QvU3L8GEJ4=/400x300/fi
 
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/6eJwPC0xPwMxCh4aQhG73X9dkzU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
 Lifewire / Erika Rawes
@@ -40,14 +37,8 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
 Lifewire / Erika Rawes
@@ -71,9 +62,6 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -94,6 +82,13 @@ Lifewire / Erika Rawes
 
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
@@ -112,20 +107,28 @@ Lifewire / Erika Rawes
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
  You can find indoor antennas for less than $15 (view on[Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845583%7Cna0f30cabffec4337b279a8df3e4c99b015%7C) ). The[AmazonBasics](https://www.lifewire.com/amazonbasics-flat-tv-antenna-review-4845569) 35-mile range antenna is a good example, though it doesn’t come with a stand or have the easy-push connector. Aesth etically, the AmazonBasics antenna doesn’t hold a candle to the Antop antenna, but it does cost significantly less.
@@ -136,9 +139,6 @@ Lifewire / Erika Rawes
 
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AT-127
@@ -155,14 +155,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,3 +167,21 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-brevity-in-action-the-process-of-shortening-youtube-videos/"><u>[New] 2024 Approved Brevity in Action The Process of Shortening YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagrams-latest-filters-use-and-applications-2023/"><u>[New] 2024 Approved Instagram's Latest Filters Use and Applications 2023</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-top-10-editing-powerhouses-to-create-engaging-reels/"><u>[New] The Top 10 Editing Powerhouses to Create Engaging Reels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-best-music-player-software-for-android/"><u>2024 Approved Best Music Player Software for Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audiovisual-expertise-selecting-top-video-minds/"><u>Audiovisual Expertise Selecting Top Video Minds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-gamers-delight-in-depth-review-of-the-fellowes-microban-wired-keyboard/"><u>Budget-Friendly Gamer's Delight: In-Depth Review of the Fellowes Microban Wired Keyboard</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-of-the-economical-z-edge-z3plus-a-dashboard-essential/"><u>Comprehensive Assessment of the Economical Z-Edge Z3+: A Dashboard Essential</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-gotrax-gxl-v2-your-ideal-speed-optimized-city-scooter/"><u>Comprehensive Evaluation of the Gotrax GXL V2 - Your Ideal Speed-Optimized City Scooter</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 11 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active-an-in-depth-analysis-for-the-modern-health-enthusiasts-smartwatch/"><u>Samsung Galaxy Watch Active - An In-Depth Analysis for the Modern Health Enthusiast's Smartwatch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-in-one-workstation-showdown-evaluating-the-microsoft-surface-studio-evolution/"><u>The All-in-One Workstation Showdown: Evaluating the Microsoft Surface Studio Evolution</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-video-making-apps-iphone-android-edition-for-2024/"><u>Top 10 Video-Making Apps IPhone, Android Edition for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-vertical-computer-mice-for-the-year-2024/"><u>Ultimate Selection of Premium Vertical Computer Mice for the Year 2024</u></a></li>
+</ul></div>
+

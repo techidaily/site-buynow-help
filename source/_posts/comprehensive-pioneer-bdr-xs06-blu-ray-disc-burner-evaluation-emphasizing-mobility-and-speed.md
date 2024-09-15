@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Pioneer BDR-XS06 Blu-Ray Disc Burner Evaluation: Emphasizing Mobility & Speed"
-date: 2024-08-09T00:38:57.557Z
-updated: 2024-08-10T00:38:57.557Z
+date: 2024-09-09T06:15:43.063Z
+updated: 2024-09-15T06:09:45.593Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Pioneer BDR-XS06 Blu-Ray Disc Burner Evaluation: Emphasizing Mobility & Speed"
@@ -40,9 +40,6 @@ Lifewire / Scott Gercken
 
 ## Pioneer BDR-XD05B Blu-ray Burner
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![Pioneer BDR-XD05B Blu-ray Burner](https://www.lifewire.com/thmb/nC_G9Nr8iQMb-lVdoUhQTXWP5lo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW832423_HeroSquare-7488fe2dd07248ca99020859f82cefaf.jpg)
 
 Lifewire / Scott Gercken
@@ -70,10 +67,6 @@ Lifewire / Scott Gercken
 
  Check out our buyers guide for more information on what you should look for in an optical drive.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## **Design: Feels a little flimsy**
 
  The Pioneer BDR-XD05B[Blu-ray Burner](https://www.lifewire.com/best-desktop-blu-ray-drives-832423) is a sleek, small black drive. It’s a tiny 5.12” square by .5” tall with a black cover and a metal bottom. The clamshell case opens to 65 degrees, so it’s easy to slide a disc onto the spindle. The button to open the clamshell is on the front left of the drive, and there’s a blue LED indicator that lights up when the drive is plugged into a power source. The drive comes with an unusually shaped USB cord, with a male micro-B USB 3.0 on one side and two USB A male ends on the other. One is designed to power the drive and one is for data transfer. The back of the drive has both a micro-B USB 3.0 port and a DC power port as a second option for powering it. The Pioneer BDR-XD05B Blu-ray Burner’s look is minimalist, black with just a small gray Blu-ray logo on the top.
@@ -88,9 +81,6 @@ Lifewire / Scott Gercken
 
  Lifewire / Scott Gercken
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Some baffling software issues**
 
  The setup process for the Pioneer BDR-XD05B is both really easy and frustrating. The easy part is that we only needed to plug the USB cord into the right slots to get it running on the Macbook we used to test it. The frustrating part is that the included software only works on Windows computers. A major producer like Pioneer only including PC software is very frustrating.
@@ -99,17 +89,17 @@ Lifewire / Scott Gercken
 
  After 25 minutes of installation, there was a dialog indicating installation was complete. Yet, there were still two instances of the installer program running, and each showed an alert that said it was installing one program or another without any indication of progress.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Pioneer BDR-XD05B Blu-ray Burner](https://www.lifewire.com/thmb/xaXRYsi71hFhblhSiQT18pmQ2Mw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW832423_02-5138fb74431a40c1b0cbb76c30bc6350.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Scott Gercken
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Good for an inexpensive Blu-ray burner**
 
  We did two tests to see check the burner’s performance. First, we ripped a 37GB Blu-ray copy of_Die Hard_ to check the burner’s read speed for a commercial Blu-ray. Using the program MakeMKV, it took 70 minutes to make a copy.
@@ -117,6 +107,13 @@ The ultimate burning program for all your needs!</a>
  Second, we made a backup copy of a 13.32 GB photos library using the MacOS native Blu-ray burning feature. It took 39 minutes to write the file onto a single-layer BD-R. There are a lot of Blu-ray burners that can both read and write much faster than this, but the Pioneer BDR-XD05B combines low cost with portability to make up for it.
 
  Noise was never a problem with this drive. Auto Quiet mode adjusts media discs to a slower speed so it’s quieter, and with both data and movie discs we didn’t notice any noise loud enough to be a bother.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Image Quality: Don’t watch Blu-rays on this drive**
 
@@ -139,8 +136,12 @@ The ultimate burning program for all your needs!</a>
  With an MSRP of $100, The Pioneer BDR-XD05B is one of the least expensive Blu-ray burners on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Performs well in this price range**
 
 **_MthsTec Slim External Blu-ray Drive_ :** Looks great at about the same price as the Pioneer BDR-XD05B, $119 MSRP, but there’s no website and no good information from the brand. It makes us wonder about customer service and quality. Try as we might, we couldn’t find any documentation about Blu-ray burning capabilities.
@@ -159,9 +160,6 @@ The ultimate burning program for all your needs!</a>
 
  On one hand, the Pioneer BDR-XD05B is a light, portable Blu-ray burner with decent performance at a low cost. On the other hand, it also feels flimsy and has a smudge-magnet finish. It’s a solid performer in its price range, but there are other portable Blu-ray burners without these faults (albeit generally for more cash).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  BDR-XD05B Blu-ray Burner
@@ -178,14 +176,11 @@ The ultimate burning program for all your needs!</a>
 * Warranty  1 year
 * Boxed dimensions  8.75 x 6.6 x 3.5 in.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,3 +188,18 @@ The ultimate burning program for all your needs!</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-superior-budget-friendly-cam-viewer/"><u>[New] 2024 Approved Superior Budget-Friendly Cam Viewer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-slide-show-tools-for-iphone-series-10-13-upgrades/"><u>[New] Ideal Slide Show Tools For iPhone Series 10-13 Upgrades</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/budget-enthusiasts-choices-the-right-gopro-add-ons-for-newbies-for-2024/"><u>Budget Enthusiasts Choices The Right GoPro Add-Ons for Newbies for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-control-with-ipad-mice-top-picks-reviewed/"><u>Enhanced Control with iPad Mice: Top Picks Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-trendy-design-and-efficient-mobility-of-the-swagtrn-swagger-scooter-a-complete-guide/"><u>Exploring the Trendy Design & Efficient Mobility of the Swagtrn Swagger Scooter - A Complete Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-microsoft-office-replacements-you-cant-miss/"><u>The Ultimate Guide: Microsoft Office Replacements You Can't Miss</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-reduce-file-size-not-quality-5-top-free-video-compression-apps/"><u>Updated 2024 Approved Reduce File Size, Not Quality 5 Top Free Video Compression Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/urban-armor-gear-macbook-case-the-perfect-blend-of-style-and-security/"><u>Urban Armor Gear MacBook Case: The Perfect Blend of Style and Security</u></a></li>
+</ul></div>
+

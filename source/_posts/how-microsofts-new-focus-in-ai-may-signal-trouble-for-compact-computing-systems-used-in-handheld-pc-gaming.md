@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
-date: 2024-09-04T16:15:11.024Z
-updated: 2024-09-05T16:15:11.024Z
+date: 2024-09-10T01:36:23.649Z
+updated: 2024-09-14T19:33:05.091Z
 tags:
   - games
   - tv
@@ -51,12 +51,6 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -65,18 +59,6 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
@@ -84,17 +66,12 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
  ARM-based chips and [Windows on ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) have been gaining more and more traction in the recent couple of years.
@@ -106,11 +83,12 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Qualcomm 
 
  This sounds promising for future ARM-based Windows laptops, but it could also mean that we might see handheld gaming PCs powered by ARM chips in the future. ARM SoCs can be incredibly power efficient, making them perfect for mobile solutions. The high-performance version of the Snapdragon X Elite [gulps up to 80W of power](https://tools.techidaily.com/anandtech/products/), the thin and light version of the chip only uses 23W of power, and that’s for the entire device, not only the SoC.
@@ -133,8 +111,6 @@ Qualcomm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,50 +120,21 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-customize-screenshot-storing-on-mac/"><u>[New] Customize Screenshot Storing on Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-image-ingenuity-funnyflick-studio/"><u>[New] Image Ingenuity  FunnyFlick Studio</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-reviving-the-past-flipping-iphone-video-streams/"><u>[New] Reviving the Past  Flipping iPhone Video Streams</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-compiling-leading-short-form-video-editors-iosandroid-edition/"><u>[Updated] 2024 Approved  Compiling Leading Short-Form Video Editors  IOS/Android Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-five-superior-timelapse-filmmakers-for-2024/"><u>[Updated] Five Superior Timelapse Filmmakers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-fastest-growing-youtube-channel/"><u>[Updated] In 2024, 8 Fastest-Growing YouTube Channel</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-building-a-powerful-twitter-marketing-strategy/"><u>2024 Approved  Building a Powerful Twitter Marketing Strategy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-visual-wonders-the-art-of-3d-text-in-psartwork/"><u>2024 Approved  Crafting Visual Wonders  The Art of 3D Text in PSArtwork</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-precision-problem-solving-for-social-media-stories-issues/"><u>2024 Approved  Precision Problem-Solving for Social Media Stories Issues</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-the-powerful-and-packed-feature-samsung-gear-s3-frontier-your-ultimate-wrist-companion/"><u>A Closer Look at The Powerful & Packed-Feature Samsung Gear S3 Frontier - Your Ultimate Wrist Companion?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-deep-dive-into-the-lenovos-9-nook-tablet-a-user-experience-review/"><u>A Deep Dive Into the Lenovo's 9 Nook Tablet - A User Experience Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordability-meets-maneuverability-in-the-propella-aboard-review/"><u>Affordability Meets Maneuverability in the Propella Aboard Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723039949873-affordable-tech-marvel-motorola-one-the-budget-friendly-iphone-lookalike/"><u>Affordable Tech Marvel: Motorola One - The Budget-Friendly iPhone Lookalike!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/belly-laughs-list-ultimate-guide-to-free-memes/"><u>Belly Laughs List  Ultimate Guide to Free Memes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/crucial-factors-in-choosing-the-apeman-c450-a-top-budget-dashcam-revealed/"><u>Crucial Factors in Choosing the Apeman C450 - A Top Budget Dashcam Revealed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/doggy-delights-exploring-the-premier-choice-for-your-four-legged-friends-vision-needs-with-furbo/"><u>Doggy Delights: Exploring the Premier Choice for Your Four-Legged Friend's Vision Needs with Furbo</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-motorola-mg7700-for-quick-and-trustworthy-data-transfer/"><u>Evaluating the Motorola MG7700 for Quick & Trustworthy Data Transfer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-picks-leading-cable-modems-available/"><u>Expert Picks: Leading Cable Modems Available</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expertly-selected-best-cable-modem-and-wireless-router-bundles-of-2024/"><u>Expertly Selected Best Cable Modem and Wireless Router Bundles of 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fintie-laptop-case-for-macbook-airpro-13-balancing-durability-with-affordable-pricing-reviewed/"><u>Fintie Laptop Case for MacBook Air/Pro 13 - Balancing Durability with Affordable Pricing Reviewed!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/get-the-most-out-of-a-minute-gps-tracker-top-picks-in-depth-comparisons-and-smart-tips-for-personal-belongings-security/"><u>Get the Most Out of a Minute GPS Tracker: Top Picks, In-Depth Comparisons & Smart Tips for Personal Belongings Security</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-m-audio-fast-track-driver-for-windows-107881-free-download-now/"><u>Get Your M-Audio Fast Track Driver for Windows 10/7/8/8.1 - Free Download Now!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-lava-agni-2-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Lava Agni 2 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-the-unbeatable-performance-of-the-elite-series-ebox-one-controller/"><u>In-Depth Analysis: The Unbeatable Performance of the Elite Series Ebox One Controller.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-samsung-galaxy-s10-where-elegance-meets-performance/"><u>In-Depth Look at the Samsung Galaxy S10 - Where Elegance Meets Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-winegard-fl55n0a-flatwave-antenna-topnotch-features-countered-by-high-expenses/"><u>In-Depth Look at the Winegard FL55n0A FlatWave Antenna - Topnotch Features Countered by High Expenses</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-replacing-with-advanced-apple-watch-a-smart-move/"><u>Is Replacing with Advanced Apple Watch a Smart Move?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nickwatch-takes-center-stage-in-america-amidst-the-excitement-of-the-annual-kids-choice-celebration/"><u>NickWatch Takes Center Stage in America Amidst The Excitement of the Annual Kids' Choice Celebration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/outstanding-oneplus-6t-analysis-superior-speed-and-value-like-no-other/"><u>Outstanding OnePlus 6T Analysis: Superior Speed and Value Like No Other</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reviewing-the-withings-move-a-blend-of-analog-style-and-digital-functionality-in-a-smartwatch/"><u>Reviewing The Withings Move: A Blend of Analog Style and Digital Functionality in a Smartwatch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-fit-examination-the-perfect-gadget-for-fitness-enthusiasts/"><u>Samsung Galaxy Fit Examination: The Perfect Gadget for Fitness Enthusiasts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/solving-persistent-launch-problems-in-back-4-blood-for-windows-gamers/"><u>Solving Persistent Launch Problems in Back 4 Blood for Windows Gamers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-jackery-energy-station-evaluating-its-integrated-ac-receptacle-functionality/"><u>The Ultimate Guide to the Jackery Energy Station - Evaluating Its Integrated AC Receptacle Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-topmate-c302-notebook-cooling-pad-quality-meets-affordability/"><u>The Ultimate Guide to TopMate C302 Notebook Cooling Pad: Quality Meets Affordability</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-13-pro-max-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 13 Pro Max for Parents | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-most-advanced-smart-frames-of-2024/"><u>Ultimate Guide to the Most Advanced Smart Frames of 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-in-depth-analysis-of-the-mavix-m9-ergonomic-gaming-throne/"><u>Ultimate Guide: In-Depth Analysis of the Mavix M9 Ergonomic Gaming Throne</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-coverage-potential-with-the-netgear-nighthawk-x6-mesh-system-a-detailed-look/"><u>Unlocking Coverage Potential with the Netgear Nighthawk X6 Mesh System – A Detailed Look</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unraveling-the-magic-behind-nintendos-iconic-handhebox-an-expert-take-on-super-mario-bros-game-and-watch/"><u>Unraveling the Magic Behind Nintendo's Iconic Handhebox: An Expert Take on Super Mario Bros Game & Watch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-microsofts-latest-upgrade-ai-enhanced-search-capabilities-in-bing/"><u>Unveiling Microsoft's Latest Upgrade: AI Enhanced Search Capabilities in Bing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/whats-not-there-exploring-the-elusive-element-in-the-latest-samsung-galaxy-tab-a-2020/"><u>What's Not There? Exploring the Elusive Element in the Latest Samsung Galaxy Tab A (2020)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-minecraft-ultimate-recording-techniques/"><u>[Updated] 2024 Approved Mastering Minecraft Ultimate Recording Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-android-deluxe-playtime-top-gb-games-on-your-phone-for-2024/"><u>[Updated] Android Deluxe Playtime Top GB Games on Your Phone for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-technical-journey-to-capture-snapchat-on-mobile/"><u>[Updated] In 2024, The Technical Journey to Capture Snapchat On Mobile</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazon-echo-show-5-generation-4-redesign-and-features-explored-in-review/"><u>Amazon Echo Show 5 - Generation 4 Redesign & Features Explored in Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/an-in-depth-look-at-demons-souls-revamp-brilliant-graphics-with-timeless-gameplay/"><u>An In-Depth Look at Demon's Souls Revamp: Brilliant Graphics with Timeless Gameplay</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-airpods-max-review-headphones-at-a-hefty-price/"><u>Apple Airpods Max Review: Headphones at a Hefty Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boosting-audio-fidelity-on-the-road/"><u>Boosting Audio Fidelity on the Road</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/browse-your-best-photos-in-a-premium-frame/"><u>Browse Your Best Photos in a Premium Frame</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-google-pixel-6-expert-insights-and-conclusions/"><u>Comprehensive Analysis of the Google Pixel 6 - Expert Insights and Conclusions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-moto-g-stylus-excellent-performance-and-adequate-power-longeperture/"><u>Comprehensive Analysis of the Moto G Stylus - Excellent Performance & Adequate Power Longeperture</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-glion-dolly-e-scooter-assessment-high-end-features-meet-swift-performance/"><u>Comprehensive Glion Dolly E-Scooter Assessment: High-End Features Meet Swift Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-gionee-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Gionee</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-aimp-pro-streaming-enhancer-without-wmsp/"><u>In 2024, AIMP Pro Streaming Enhancer Without WMSP</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-and-accelerate-torrenting-with-top-tier-vpn-solutions-anywhere-anytime/"><u>Protect and Accelerate Torrenting with Top-Tier VPN Solutions Anywhere, Anytime</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/step-into-a-world-of-magic-expert-led-guide-to-snapchat-edits-for-2024/"><u>Step Into a World of Magic Expert-Led Guide to Snapchat Edits for 2024</u></a></li>
 </ul></div>
+

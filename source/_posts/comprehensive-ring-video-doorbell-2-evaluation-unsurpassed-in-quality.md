@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Ring Video Doorbell 2 Evaluation - Unsurpassed in Quality
-date: 2024-08-09T00:38:55.812Z
-updated: 2024-08-10T00:38:55.812Z
+date: 2024-09-10T16:55:52.547Z
+updated: 2024-09-15T02:39:14.432Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Ring Video Doorbell 2 Evaluation - Unsurpassed in Quality
@@ -37,9 +37,6 @@ Lifewire / Jonno Hill
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
@@ -70,16 +67,10 @@ Lifewire / Jonno Hill
 
  How has HP reconciled all these things, and what does it mean for potential owners? Let’s take a look at the performance, build quality, and usability of this space-conscious gaming desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
  The HP OMEN Obelisk looks good in pictures but starts to fall apart a little when examined up close. Overall, HP did a pretty decent job here, but there are plenty of areas for improvement.
@@ -100,9 +91,6 @@ Lifewire / Jonno Hill
 
  The lighting system is also approachable and understated, giving a little bit of customizable flare without going too over the top. As you’ll see later in the software section, HP has made it very straightforward to tweak any of these settings to your satisfaction.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
  Lifewire / Jonno Hill
@@ -115,9 +103,6 @@ Lifewire / Jonno Hill
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## **Gaming** :**Great for the most demanding titles**
 
  Gaming performance is great on the HP OMEN Obelisk thanks to the Nvidia GTX GeForce 2080 Super and Intel i9-9900K combo. I tested a number of games on my 3440x1440 monitor to get a sense of performance. To put this in perspective, this resolution is roughly 60 percent of the pixels of a 4K monitor.
@@ -130,10 +115,14 @@ Lifewire / Jonno Hill
 
  Lastly, I ran the notoriously resource-heavy Deus Ex: Mankind Divided using a few different profiles. On Ultra settings, the OMEN Obelisk saw just 55.7fps on average, with a minimum of 44.6fps and a maximum of 61.6fps. Dialing things down one level to Very High, things looked only slightly rosier: 58.1fps average, 49.5fps minimum, 62.2fps maximum. Finally, turning it down one more level to High found a sweet spot: 75.8fps average, 62.8fps minimum, 96.6 FPS maximum.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -142,6 +131,13 @@ Lifewire / Jonno Hill
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Just enough options**
 
@@ -161,11 +157,15 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
  If you want something even smaller, and even more monolithic, the[Corsair One Pro](https://www.lifewire.com/corsair-one-pro-review-5072820) (see on[Corsair](https://www.corsair.com/us/en/Categories/Products/Systems/CORSAIR-ONE/CORSAIR-ONE-PRO-i180-Compact-Workstation-Grade-PC/p/CS-9040001-NA) ) manages to pack a high-end gaming rig in a minuscule 12-liter case, making even the HP OMEN seem large by comparison. It has a very solid construction and manages to fit water cooling for both the CPU and GPU inside its small frame.
@@ -178,10 +178,6 @@ Lifewire / Jonno Hill
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Omen Obelisk
@@ -201,14 +197,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Network  Wi-Fi 5 (2x2), Gigabit Ethernet, Bluetooth 4.2
 * Warranty  1 year limited
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -216,3 +209,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-choosing-a-professional-video-editor-filmora-against-democreator/"><u>[New] In 2024, Choosing a Professional Video Editor Filmora Against Democreator</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-revolutionize-gaming-install-funimate-via-apk-method-for-2024/"><u>[New] Revolutionize Gaming - Install Funimate via APK Method for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-learn-to-keep-unwanted-suggestions-away-from-ig/"><u>[Updated] 2024 Approved Learn to Keep Unwanted Suggestions Away From IG</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-stop-facebook-ad-popups-for-peaceful-browsing/"><u>2024 Approved Stop Facebook Ad Popups for Peaceful Browsing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-best-in-budget-tech-a-thorough-review-of-hisenses-40-inch-smart-tv-40h5590f/"><u>Discovering the Best in Budget Tech: A Thorough Review of Hisense's 40-Inch Smart TV (40H5590F)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-stellaris-an-in-depth-guide-to-interstellar-empires-and-alien-encounters/"><u>Exploring Stellaris: An In-Depth Guide to Interstellar Empires and Alien Encounters</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/motorola-one-5g-ace-revealed-breakneck-speed-on-5g-networks-and-robust-battery-capacity-reviewed-inside-out/"><u>Motorola One 5G Ace Revealed: Breakneck Speed on 5G Networks & Robust Battery Capacity Reviewed Inside Out</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-key-to-flawless-tiktok-profile-hyperlinking-for-2024/"><u>The Ultimate Key to Flawless TikTok Profile Hyperlinking for 2024</u></a></li>
+</ul></div>
+

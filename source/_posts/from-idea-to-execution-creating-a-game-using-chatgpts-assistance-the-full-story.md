@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story"
-date: 2024-09-09T04:11:25.422Z
-updated: 2024-09-10T04:11:25.422Z
+date: 2024-09-09T20:09:31.036Z
+updated: 2024-09-15T07:24:36.440Z
 tags:
   - games
   - tv
@@ -11,32 +11,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34ec60d7f7f9e3cbb3a84553c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Game engines understood by ChatGPT are suitable for coding game prototypes.
@@ -53,24 +29,12 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  It's quickly apparent that GPT's willingness to [teach you to code](https://fox-helps.techidaily.com/navigating-gif-storage-and-use-in-the-digital-age-iphone/) a game is well-meaning but requires you to understand a bit about what you're doing. As someone who's been an amateur game developer for more than a decade, I know a little bit about coding a game. In using GPT to help me, I was interested in seeing how sophisticated it was for producing a playable game prototype.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  It Certainly Understands Game Engines
 
  A game engine is what a developer uses to create a game. Several game engines are available, including [Unreal Engine](https://www.unrealengine.com/en-US), [Godot](https://godotengine.org/), and [Unity](https://unity.com/). As someone who knows Unity well, I decided to use this as my development engine. I asked a few general questions (that I know the answer to) to ensure that [ChatGPT wouldn't start hallucinating](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) about my game engine.
 
 ![ChatGPT describes the steps in building a player character](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-seems-to-know-some-stuff-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After sorting out that it at least knew what it was doing, I decided to give the framework for my project, which included:
 
 * Random generation of a scrolling background
@@ -106,29 +70,23 @@ public class Projectile : MonoBehaviour
             // Destroy the projectile if it collides with a wall  
             Destroy(gameObject);  
 
-
 }`
     
  Notably, it gave me well-commented code so I could follow along as a beginner programmer. Many places suggest that you could [learn to code using AI](https://learntocodewith.me/resources/ai-coding/), and the inclusion of well-commented code is part of that. You won't have to worry if there are errors in your code if you can trace them comment by comment. However, when using GPT to build a game, I encountered several issues that would defeat a newcomer to game development.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  ChatGPT Is Far From Perfect
 
  LLMs are only as good (or as bad) as the prompts the user gives them. For example, a user could easily [generate anime-type characters with MidJourney](https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/) by including a few words to clarify the prompt's end result. However, when building a game with ChatGPT, I found that there were times when the engine simply didn't pick up what I was putting down.
 
 ![An error happens that I can't seem to figure out, so I ask GPT for help](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-wild-unexpected-behavior-appears.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In this example, I encountered an issue with spawning my projectiles, with all the "bullets" being deflected when the player moves. While this could create some interesting play patterns, I decided to ask it to fix the problem, and it suggested a fix. Unfortunately, the fix didn't work.
 
 ![GPT's responses doesn't fix the error I keep having](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-error-is-still-there.png) 
@@ -149,6 +107,13 @@ GPT's Godot Problem
 
  For those who use Godot regularly, the issue is immediately obvious. ChatGPT stopped learning in 2021 or thereabouts (at least for the free version). The script GPT gave me was based on its knowledge of Godot 2.x, which is a heavily outdated version of the current 4.x version. The glaring problem is the use of KinematicBody2D, which was replaced by CharacterBody2D in later iterations of the language.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Much Skill Do You Need to Code a Game With ChatGPT?
 
  If you're considering making the next Legend of Zelda: Breath of the Wild using ChatGPT, you should probably temper your expectations. You need to have a decent understanding of the engine you're working in to use ChatGPT as a coding assistant.
@@ -162,11 +127,12 @@ GPT's Godot Problem
 ![Screenshot of My Game's Title Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-1-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Game development is a complex field, but thanks to engines like those mentioned above, it is much more approachable for the general public. A skilled developer could spend a few hours putting together a game that works and has all the things they want in it.
 
  This particular project took me a total of 48 hours from start to finish. The more complex the game, the more time and effort it will take. That's not counting the amount of time you'd have to throw into asset sourcing and development. It could get to be a pretty large project.
@@ -188,8 +154,6 @@ GPT's Godot Problem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,37 +163,20 @@ GPT's Godot Problem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-saving-your-best-on-instagram-a-comprehensive-guide/"><u>[New] 2024 Approved  Saving Your Best on Instagram  A Comprehensive Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-chilly-cinematography-comprehensive-ice-cream-monitoring-tutorial-for-2024/"><u>[New] Chilly Cinematography  Comprehensive Ice Cream Monitoring Tutorial for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-expertly-record-your-browser-adventures-with-top-5-capturers-for-2024/"><u>[New] Expertly Record Your Browser Adventures with Top 5 Capturers for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instantaneous-instagram-video-experience-for-2024/"><u>[New] Instantaneous Instagram Video Experience for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instant-viral-potential-learn-kinemaster-memes/"><u>[Updated] Instant Viral Potential  Learn KineMaster Memes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-techniques-for-efficient-zoom-meeting-recordings/"><u>[Updated] Techniques for Efficient Zoom Meeting Recordings</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-ssl-vendors-a-comprehensible-guide/"><u>Affordable SSL Vendors: A Comprehensible Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-ipad-pro-and-surface-pro-key-distinctions-revealed/"><u>Comparing IPad Pro and Surface Pro: Key Distinctions Revealed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/efficient-heat-dissipation-with-a-cheap-laptop-tray-the-topmate-c302-breakdown/"><u>Efficient Heat Dissipation with a Cheap Laptop Tray: The TopMate C302 Breakdown</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevate-your-blogging-income-with-buysellads-monetization-tactics/"><u>Elevate Your Blogging Income with BuySellAds Monetization Tactics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhancing-wifi-coverage-a-professional-review-on-the-performance-of-the-tp-link-re505x-extender/"><u>Enhancing WiFi Coverage: A Professional Review on the Performance of the TP-Link RE505X Extender</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-why-the-samsung-qn55q6f-is-a-top-contender-in-4k-hdr-smart-tvs/"><u>Expert Analysis: Why the Samsung QN55Q6F Is a Top Contender in 4K HDR Smart TVs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-nvidia-shield-tv-pros-features-the-perfect-gaming-media-player/"><u>Exploring Nvidia Shield TV Pro's Features: The Perfect Gaming Media Player</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-best-features-of-the-stylish-and-smart-withings-move-watch/"><u>Exploring the Best Features of the Stylish and Smart Withings Move Watch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fitbit-versa-smartwatch-examined-cost-effective-style-for-health-enthusiasts/"><u>Fitbit Versa Smartwatch Examined: Cost-Effective Style for Health Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/gamers-delight-the-premier-console-selection-for-an-epic-year/"><u>Gamers' Delight: The Premier Console Selection for an Epic Year</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-hot-40-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Hot 40 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/immerse-yourself-in-the-thrill-a-detailed-evaluation-of-nhl-19s-interactive-online-experience/"><u>Immerse Yourself in the Thrill – A Detailed Evaluation of NHL 19’S Interactive Online Experience</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-v30-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo V30 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oneplus-open-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock OnePlus Open Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kobo-nia-review-how-this-e-reader-holds-its-own-against-amazons-best/"><u>Kobo Nia Review: How This E-Reader Holds Its Own Against Amazon's Best</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-music-at-parties-a-comprehensive-review-of-the-ion-audio-tailgater-plus/"><u>Maximizing Music at Parties: A Comprehensive Review of the ION Audio Tailgater Plus</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/score-big-with-limited-time-deals-on-premium-samsung-tech-gadgets/"><u>Score Big with Limited-Time Deals on Premium Samsung Tech Gadgets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-an-inoperative-headset-microphone/"><u>Solving the Problem of an Inoperative Headset Microphone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-pastime-games-to-enjoy-during-down-time/"><u>The Best Pastime Games to Enjoy During Down Time</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-essential-guide-to-metaverse-brand-strategies-for-2024/"><u>The Essential Guide to Metaverse Brand Strategies for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-of-the-pup-pack-an-extensive-evaluation-of-the-best-dog-camera-on-the-market-furbo/"><u>Top of the Pup Pack: An Extensive Evaluation of The Best Dog Camera on the Market – Furbo</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-lenovo-thinkpad-x1-titanium-yoga-the-ideal-choice-for-fanatical-thinkpad-lovers/"><u>Ultimate Guide to the Lenovo ThinkPad X1 Titanium Yoga - The Ideal Choice for Fanatical ThinkPad Lovers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleashing-the-potential-of-the-portable-beast-in-depth-look-at-apples-ipad-mini-5/"><u>Unleashing the Potential of the Portable Beast - In Depth Look at Apple's iPad Mini 5</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-parental-supervision-and-long-range-expertise-with-the-powerful-synology-rt2600ac-wireless-networking-appliance/"><u>Unveiling Parental Supervision and Long-Range Expertise with the Powerful Synology RT2600ac Wireless Networking Appliance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-for-improved-connectivity-hdmi-on-windows-10-11/"><u>Update for Improved Connectivity: HDMI on Windows 10, 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/xbox-series-s-evaluation-astonishing-tech-in-compact-design/"><u>Xbox Series S Evaluation: Astonishing Tech in Compact Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-using-vlc-for-mp4-and-format-shifting/"><u>[New] The Ultimate Guide to Using VLC for MP4 & Format Shifting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-the-mystery-of-storing-instagram-videos-pc-and-mac-users-guide/"><u>[Updated] 2024 Approved Unlocking the Mystery of Storing Instagram Videos (PC & Mac Users Guide)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-ace-the-game-crafting-a-pro-gaming-channels-success-story/"><u>[Updated] Ace the Game Crafting a Pro Gaming Channels Success Story</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-pick-a-preferred-screen-recorder-app/"><u>[Updated] In 2024, How to Pick a Preferred Screen Recorder App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts/"><u>[Updated] In 2024, Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-social-media-roi-with-judicious-facebook-hash-usage/"><u>[Updated] Maximizing Social Media ROI with Judicious Facebook Hash Usage</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/dare-to-be-noteworthy-top-30-innovative-tiktok-usernames/"><u>Dare to Be Noteworthy Top 30 Innovative TikTok Usernames</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-if-an-enhanced-apple-watch-is-essential-for-my-life/"><u>Exploring if an Enhanced Apple Watch Is Essential for My Life</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/functionality-at-its-best-unveiling-the-features-of-the-acer-xfa2/"><u>Functionality at Its Best: Unveiling the Features of the Acer XFA2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-up-close-with-msis-high-quality-portable-monitor-model-mp1-161e2/"><u>Get Up Close with MSI's High-Quality Portable Monitor, Model MP1 161E2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-tv-chromecast-unveiled-is-it-time-to-replace-your-firestick/"><u>Google TV Chromecast Unveiled: Is It Time to Replace Your Firestick?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/initiating-wet-world-photo-fun-kid-safe-camera-sets/"><u>Initiating Wet World Photo Fun: Kid-Safe Camera Sets</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-smart-spectacles-expert-picks/"><u>Leading Smart Spectacles: Expert Picks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/no-cost-audio-nirvana-with-oneplus-buds-unveiled/"><u>No-Cost Audio Nirvana with OnePlus Buds Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-startup-hurdles-for-photoshop-on-windows-1011/"><u>Overcoming Startup Hurdles for Photoshop on Windows 10/11</u></a></li>
 </ul></div>
+

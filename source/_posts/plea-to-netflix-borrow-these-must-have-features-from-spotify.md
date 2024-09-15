@@ -1,7 +1,7 @@
 ---
 title: "Plea to Netflix: Borrow These Must-Have Features From Spotify"
-date: 2024-09-09T04:11:24.698Z
-updated: 2024-09-10T04:11:24.698Z
+date: 2024-09-09T06:31:11.609Z
+updated: 2024-09-15T08:05:19.199Z
 tags:
   - games
   - tv
@@ -11,20 +11,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57539d3344fb75e1f209995c6.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Plea to Netflix: Borrow These Must-Have Features From Spotify
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Netflix should add TV playlists for better binging.
@@ -33,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
  The best TV binges are the ones with all hits and no skips. Netflix, you’re the king of queues, so let me create my own playlists with individual episodes from shows on your service. While we’re on the topic of new features, I’ve got some other ideas too.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Video Playlists Would Be Great for Better Binging
 
  It’s a simple request, but I want to add any TV show episode to a playlist I create. Sometimes I just want to re-live the best moments and there’s no easy way to do that without mentally cataloging certain episodes or writing them down somewhere.
@@ -51,12 +33,6 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
  Dear reader, I can see the skeptical wheels turning in your brain, thinking, “But content gets removed and added to Netflix all the time, what happens then?” That's easy. If shows or movies become unavailable, then they’re just grayed out from playlists. The same thing happens with songs on Spotify. Artists remove songs and albums all the time for various reasons. The playlist skips unavailable tracks and moves on. To spin this into a positive thing, Netflix could always use this info to ping you when a show or movie returns.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Add Back That Shuffle Button!
 
  Being able to make playlists is the feature I really want to see all video services add, but it’s not the only one Netflix could take a cue from Spotify on. Another obvious one that goes hand in hand with a playlist is a shuffle button.
@@ -66,11 +42,12 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Access to More Data For a Richer Experience
 
  Spotify, along with Apple Music, has been doing a good job of exposing more data to listeners who want to know it. Lyrics are the obvious data point, but did you know you can see songwriters, producers, and musicians who worked on songs?
@@ -80,11 +57,12 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
 
  Whether Netflix or other streaming video services add my playlist feature, they need to start adding more features in general. I can name the last time each service [raised its prices](https://youtube-web.techidaily.com/emystifying-video-seo-on-youtube-as-a-novice/), but I can’t tell you the last features they showed some innovation with—and I follow this stuff! (Playing videos at a [faster speed](https://extra-hints.techidaily.com/10-sci-fi-vr-adventures-unveiling-distant-realities/) ain't it either.)
@@ -97,8 +75,6 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,49 +84,19 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-x-media-library-manager-personal-computer/"><u>[New] In 2024, X-Media Library Manager, Personal Computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-peek-behind-ustreams-curtain-and-more/"><u>[Updated] Peek Behind Ustream's Curtain and More</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-twitter-elite-moments-live-on-snapchat/"><u>2024 Approved  Twitter Elite Moments Live on Snapchat</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-alcatel-joy-tab-2-your-guide-to-an-economical-lte-tablet/"><u>Affordable Alcatel Joy Tab 2 - Your Guide to an Economical LTE Tablet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-watch-series-9-and-fitbit-charge-6-face-off-which-one-wins/"><u>Apple Watch Series 9 and Fitbit Charge 6 Face-Off: Which One Wins?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/blueear-bluetooth-beanie-unveiled-stylish-headgear-with-high-sound-performance-reviewed/"><u>Blueear Bluetooth Beanie Unveiled: Stylish Headgear with High Sound Performance Reviewed!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/compact-and-stylish-criacrs-bluetooth-fm-transmitter-cp24-reviewed-pros-and-cons-explored/"><u>Compact & Stylish Criacr's Bluetooth FM Transmitter CP24 Reviewed: Pros and Cons Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-amazon-fire-hd-10-tablet-analysis-the-ultimate-family-entertainment-device/"><u>Comprehensive Amazon Fire HD 10 Tablet Analysis - The Ultimate Family Entertainment Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-midland-lxt500vp3-a-radio-full-of-promises-but-short-on-deliverance/"><u>Comprehensive Analysis of the Midland LXT500VP3 - A Radio Full of Promises but Short on Deliverance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-edge-television-unleashed-an-insightful-review-of-the-sony-xbr49x900fs-4k-display-and-smart-capabilities/"><u>Cutting-Edge Television Unleashed: An Insightful Review of the Sony XBR49X900F's 4K Display and Smart Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/darktable-free-os-x-and-linux-raw-photo-converter/"><u>Darktable – Free OS X and Linux RAW Photo Converter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-2024s-top-ranked-computers-and-makers/"><u>Discovering 2024'S Top-Ranked Computers and Makers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-innovation-in-small-form-the-ultimate-iphone-12-mini-assessment/"><u>Discovering Innovation in Small Form: The Ultimate iPhone 12 Mini Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-kensuns-travel-friendly-tire-inflator-consistent-functionality-and-easy-mobility/"><u>Evaluating Kensun’s Travel-Friendly Tire Inflator: Consistent Functionality & Easy Mobility</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-next-level-gaming-with-the-affordable-hp-omen-obelisk-comprehensive-analysis-inside/"><u>Experience Next-Level Gaming with the Affordable HP OMEN Obelisk - Comprehensive Analysis Inside!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-maisto-rc-rock-crawler-your-ultimate-guide-to-a-safe-family-oriented-off-road-experience/"><u>Exploring the Maisto RC Rock Crawler: Your Ultimate Guide to a Safe, Family-Oriented Off-Road Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/high-definition-with-new-laptop-graphics-card/"><u>High Definition with New Laptop Graphics Card</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-to-leverage-buyselladscom-for-successful-blogging-monetization-strategies/"><u>How to Leverage buySELLads.com for Successful Blogging Monetization Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-efficient-meeting-management-with-slack-and-filmora-tools/"><u>In 2024, Efficient Meeting Management with Slack & Filmora Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g04-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto G04 FRP Locks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-critique-of-rayman-legends-masterful-crafting-of-a-two-dimensional-playground/"><u>In Depth Critique of Rayman Legends: Masterful Crafting of a Two-Dimensional Playground</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-midland-gxt1000vp4-the-ultimate-clear-audio-solution/"><u>In-Depth Analysis of the Midland GXT1000VP4 - The Ultimate Clear Audio Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-owc-mercury-pro-unmatched-speed-and-efficiency-review/"><u>In-Depth Analysis of the OWC Mercury Pro: Unmatched Speed & Efficiency Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>Internal Screen Recording  Huawei Mate 10/20 & P Series Devices (P20, P10)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/intriguing-insights-into-the-portable-and-economical-samsung-galaxy-s10e/"><u>Intriguing Insights Into the Portable & Economical Samsung Galaxy S10e</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/key-factors-contributing-to-wii-us-remarkable-success-story/"><u>Key Factors Contributing to Wii U's Remarkable Success Story</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-health-tracking-the-fitbit-versa-2-reviewed-for-active-people-seeking-smart-connectivity/"><u>Mastering Health Tracking: The Fitbit Versa 2 Reviewed for Active People Seeking Smart Connectivity</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/method-to-archive-webcam-discussions-for-2024/"><u>Method to Archive Webcam Discussions for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-and-utilizing-your-arlo-defense-system-for-optimal-use/"><u>Navigating and Utilizing Your Arlo Defense System for Optimal Use</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/owc-mercury-pro-review-solid-drive-with-best-in-class-performance/"><u>OWC Mercury Pro Review: Solid Drive with Best-in-Class Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revamped-chromecast-with-google-tv-is-it-time-to-replace-your-firetv/"><u>Revamped Chromecast with Google TV – Is It Time to Replace Your FireTV?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-entryway-showdown-which-reigns-supreme-ring-or-nest-doorbell/"><u>Smart Entryway Showdown: Which Reigns Supreme - Ring or Nest Doorbell</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-apple-watch-series-6-evaluation-refined-not-revolutionary-yet-still-unrivaled-in-quality/"><u>The Apple Watch Series 6 Evaluation - Refined, Not Revolutionary, Yet Still Unrivaled in Quality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-ranking-of-superior-external-blu-ray-drives-to-upgrade-your-setup-in-2024/"><u>The Definitive Ranking of Superior External Blu-Ray Drives to Upgrade Your Setup in 지난해 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-essential-guide-to-the-cyberpower-cp685avrg-how-this-simple-ups-can-secure-your-devices-and-data/"><u>The Essential Guide to the CyberPower CP685AVRG: How This Simple UPS Can Secure Your Devices and Data</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-future-of-smart-living-arrives-exploring-the-amazon-echo-show-10-3rd-generations-dynamic-capabilities-in-our-detailed-analysis/"><u>The Future of Smart Living Arrives: Exploring the Amazon Echo Show 10 (3Rd Generation's Dynamic Capabilities in Our Detailed Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-motorola-one-hyper-unleashed-a-comprehhavoir-review-of-a-compelling-highly-capable-device-in-the-mid-range-segment/"><u>The Motorola One Hyper Unleashed: A Comprehhavoir Review of a Compelling, Highly Capable Device in the Mid-Range Segment</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq-for-2024/"><u>The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-sleep-tech-to-wind-you-down/"><u>The Ultimate Sleep Tech To Wind You Down</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-8-leading-computer-manufacturers-to-watch/"><u>Top 8 Leading Computer Manufacturers to Watch</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-steps-for-transforming-your-ppts-into-video-magic/"><u>Ultimate Steps for Transforming Your PPTs Into Video Magic</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-lenovo-p11-pro-an-amazing-tablet-experience-with-a-few-downsides/"><u>Unveiling the Lenovo P11 Pro - An Amazing Tablet Experience with a Few Downsides</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-new-imac-m1-enhanced-graphics-meet-superior-processing-power/"><u>Unveiling the New iMac M1: Enhanced Graphics Meet Superior Processing Power</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-ultimate-selection-of-acer-savings-for-amazon-prime-day-24/"><u>Unveiling the Ultimate Selection of Acer Savings for Amazon Prime Day '24!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/videovantage-warriors-for-2024/"><u>VideoVantage Warriors for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-direct-lineup-for-iphone-images-flawless-snapchat-backup/"><u>[Updated] 2024 Approved Direct Lineup for iPhone Images Flawless Snapchat Backup</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-level-perfection-iphone-xs-photographic-breakthroughs/"><u>[Updated] Pro-Level Perfection IPhone X's Photographic Breakthroughs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-cover-pics-made-easy-top-5-free-downloader-lists-for-2024/"><u>[Updated] YouTube Cover Pics Made Easy – Top 5 Free Downloader Lists for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-top-choices-for-innovative-visual-voice-mail-apps/"><u>2024'S Top Choices for Innovative Visual Voice Mail Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-system-unveiling-best-apps-of-the-year/"><u>Elevate Your System: Unveiling Best Apps of the Year</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-12-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 12 Pro Max/Windows/Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/by-step-for-quick-chromakey-application-for-2024/"><u>Step-by-Step for Quick Chromakey Application for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-x-fold-2-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo X Fold 2 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-alluring-power-of-apples-latest-the-215-inch-4k-imac-reviewed-for-style-and-performance/"><u>The Alluring Power of Apple's Latest: The 21.5 Inch 4K iMac Reviewed for Style and Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-asus-chromebook-c202-saga-a-sturdy-companion-for-students-and-children/"><u>The Asus Chromebook C202 Saga: A Sturdy Companion for Students and Children</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-battle-of-sony-consoles-analyzing-ps5-and-ps5-slim-features/"><u>The Battle of Sony Consoles: Analyzing PS5 and PS5 Slim Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-guide-to-using-and-understanding-the-garmin-gpsmap-64st-handheld-gps/"><u>The Essential Guide to Using and Understanding the Garmin GPSMAP 64St Handheld GPS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-secret-image-editor-built-into-your-mac-preview-uncovered/"><u>The Ultimate Guide to the Secret Image Editor Built Into Your Mac: Preview Uncovered</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-kootek-portable-pc-chiller-the-perfect-cooling-solution/"><u>Ultimate Guide to the Kootek Portable PC Chiller - The Perfect Cooling Solution</u></a></li>
 </ul></div>
+

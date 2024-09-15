@@ -1,7 +1,7 @@
 ---
 title: "Holy Stone RC Cartoon Race Car Review: Family-Friendly Fun"
-date: 2024-08-09T00:38:57.072Z
-updated: 2024-08-10T00:38:57.072Z
+date: 2024-09-11T10:01:19.670Z
+updated: 2024-09-15T08:17:26.172Z
 categories:
   - BestProducts
 description: "This Article Describes Holy Stone RC Cartoon Race Car Review: Family-Friendly Fun"
@@ -44,9 +44,6 @@ Lifewire / Emily Isaacs
 
 ## Kinesis Freestyle2 Blue
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/wuNd6MsZiivoQ99Xm0JHB9iB4Rs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
 
 Lifewire / Emily Isaacs
@@ -72,17 +69,10 @@ Lifewire / Emily Isaacs
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## **Design and Features: Freestyle2 breaks the mold**
 
  For people who are tethered to their[computers](https://www.lifewire.com/computer-and-laptop-reviews-4102643) , ergonomic keyboards are a must. These keyboards tend to be large thanks to the frequently employed swoop design that opens up the keys to provide additional spacing, so fingers feel less cramped, and a wrist-friendly position that prevents[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) while typing. These keyboards are typically space hogs, taking up large portions of any surface that they’re placed on, often forcing users to reach further for[mice](https://www.lifewire.com/best-wireless-mice-6666207) . This can lead to shoulder injuries in place of wrist injuries—a trade-off no one wants.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/C-YK_WPWu8Ujx1fwDLxvO6Epi-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_05-adcddc5fc05b415dbcd82396bc0ada77.jpg)
 
  Lifewire / Emily Isaacs
@@ -95,17 +85,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Clocking in at 2 pounds, it’s also lightweight which makes it easy to pack. Whether you’re commuting between the home and the office or you’re heading out of town for a vacation, it’s easy to break down and bring anywhere so long as there’s a flat surface to place it during use.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: For Apple products only**
 
  The Kinesis Freestyle2 Blue arrives with the two keyboard halves, the instructional pamphlet, and a six-foot USB charging cable. Designed for use with iPads,[iPhones](https://www.lifewire.com/iphone-and-ios-4781515) , and[Macs](https://www.lifewire.com/macs-4781332) , the setup process is quick and easy to complete. First, we flipped the switch on the right-hand side of the keyboard from the off position to the on position. Then, we flipped the keyboard over and pressed the connect button on the backside. We knew it was ready to begin pairing when the lights on the frontside began flashing blue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/XHY6Xe9cdaO1U6Uj0wDY6rROlcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_04-7fad98b589454e0388ecf48afe425e8c.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -119,9 +116,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Its split design is comfortable, following the natural arc of your fingers and hands as they rest upon its keys.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Battery: Plenty of juice so you’re never in a bind**
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
@@ -132,7 +126,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Kinesis Freestyle2 Blue vs. Microsoft Sculpt Ergonomic Keyboard**
 
@@ -152,9 +160,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The Kinesis Freestyle2 Blue for Mac is a compact, user-friendly ergonomic keyboard that takes comfort and customization to the next level for Apple users thanks to its split, modular design. Its extended battery life of up to 300 plus hours combined with its ability to connect to multiple iOS devices at a time is a game-changer, making it well worth the splurge.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Freestyle2 Blue
@@ -171,14 +176,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Compatibility  OS X 10.4 and newer, iOS devices
 * Key Switch  Peak force: 44 grams; activation force: 35 grams; travel distance: 3.9 mm; switch type: rubber dome, membrane
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,3 +188,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-optimal-screen-capture-techniques-tunefab-style/"><u>2024 Approved Optimal Screen Capture Techniques - Tunefab Style</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-devices-key-features-of-the-kindle-and-fire-tablet-explored/"><u>Comparing Devices: Key Features of the Kindle and Fire Tablet Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/does-the-motorola-edgeplus-deliver-on-flagship-features-or-disappoint-where-it-matters-most/"><u>Does the Motorola Edge+ Deliver on Flagship Features or Disappoint Where It Matters Most?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exciting-launch-of-latest-nicktoons-on-us-soil-at-the-annual-kids-gala/"><u>Exciting Launch of Latest Nicktoons on U.S. Soil at the Annual Kids’ Gala</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-s24-ultramirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy S24 UltraMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-huawei-nova-y71-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Huawei Nova Y71 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-from-real-time-to-leisurely-iphone-methods-for-slow-motion-video/"><u>In 2024, From Real Time to Leisurely IPhone Methods for Slow Motion Video</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kobo-nia-overview-and-review-a-formidable-challenger-in-the-kindle-ecosystem/"><u>Kobo Nia Overview and Review: A Formidable Challenger in the Kindle Ecosystem</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimize-with-cookiebot-advanced-tracking-and-personalized-user-experience-solutions/"><u>Optimize with Cookiebot: Advanced Tracking & Personalized User Experience Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unbeatable-online-video-recorders-ranked-10-for-2024/"><u>Unbeatable Online Video Recorders Ranked #10 for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-secrets-of-the-affordable-5g-revolution-inside-the-samsung-galaxy-a51-review/"><u>Unlocking the Secrets of the Affordable 5G Revolution: Inside the Samsung Galaxy A51 Review!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Review: The Soundbot SB210 Speaker Delivers Quality Sound and Pleasant Listening - When It's Working Smoothly"
-date: 2024-08-09T00:38:57.794Z
-updated: 2024-08-10T00:38:57.794Z
+date: 2024-09-08T23:15:45.798Z
+updated: 2024-09-14T17:06:14.012Z
 categories:
   - BestProducts
 description: "This Article Describes Review: The Soundbot SB210 Speaker Delivers Quality Sound and Pleasant Listening - When It's Working Smoothly"
@@ -15,14 +15,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
 ## MAXOAK 185Wh/50000mAh External Battery Power Bank
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Max Oak](https://www.lifewire.com/thmb/CeiJTW7zTopZdtR_zhtXz9_P-Mw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_5WebHero-5c8ff106c9e77c0001a926f8.jpg)
 
 Lifewire / Gannon Burgett
@@ -45,9 +37,6 @@ Lifewire / Gannon Burgett
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## MAXOAK 185Wh/50000mAh External Battery Power Bank
 
 ![Max Oak](https://www.lifewire.com/thmb/0sYGw-7sF6j5aqPA13sWjU-Y2b4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_5WebHero-5c8ff106c9e77c0001a926f8.jpg)
@@ -74,17 +63,10 @@ Lifewire / Gannon Burgett
 
  While there's no shortage of options on the market, there aren’t many that can keep you going for days. That’s not the case with the MaxOak 50000mAh, an absolutely massive and robust charger that attempts to be the jack of all when it comes to charging gadgets on the go. It’s power comes at the cost of massive size and the charging ports aren’t too fast, but if you need tons of power, this is the battery pack to get.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Bulky for travelers**
 
  First and foremost, this thing is a tank. At 2.77 pounds, it weighs many times more than most smartphones and nearly as much as most compact laptops. It also measures in at 8.1 x 5.3 x 1.3 inches (HWD), making it quite the behemoth to lug around. A small detail regarding the weight of the MaxOak is that it isn't balanced. The side without the ports holds a fair bit more weight than the side with the various ports. It's not a significant detail, but one you might notice with time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Max Oak](https://www.lifewire.com/thmb/SHsB9QkFaBbOrU6sw55TzNOqC7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_4Web-5c8ff4adc9e77c0001ff0b36.jpg)
 
  Lifewire / Gannon Burgett
@@ -98,21 +80,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Charging the device is done via a small 16.8-volt 2.5A plug-in style port on the opposite side of the power button. Overall, the design is roughly what you'd expect from a 50000mAh laptop battery charger. Yes, it's heavy, yes it's quite beefy in size, but it comes with the territory.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Simple to start, but yet another adapter to carry around**
 
  Setting up the MaxOak laptop battery charger is as simple as it gets. After removing it from its unbranded cardboard box, it's simply a matter of plugging it in and getting it charged up completely. Our device came charged at roughly 50% based on the onboard[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) battery indicator, but to complete our tests we wanted it charged entirely, which leads us to our biggest complaint about this charger.
 
  The point of a charger is to have extra battery power on hand when needed so you don't have to carry around unnecessary cables when traveling. Unfortunately, the MaxOak battery pack doesn't use any kind of USB or standardized port. Rather than charging it with a[USB Type-C](https://www.lifewire.com/usb-c-4149490) or even a micro-USB port, the MaxOak battery pack relies on its own proprietary power supply that's nearly as large as most laptop chargers. Sure, the 50000mAh onboard is likely enough that you could leave both the battery pack charger and your laptop charger behind for most events, but eventually you'll run out of juice and rather than reaching for a cable you would probably already have in your bag, you're stuck bringing along a proprietary charger.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Charging Speed and Battery: Slow and steady wins this race**
 
  The MaxOak 50000mAh manages to charge at a decent rate considering its capacity, but we would’ve liked to see more high-powered ports for speedier charging. We charged and fully drained the MaxOak power bank five times and charging took roughly six to eight hours per recharge with an average of seven hours and fifteen minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Max Oak](https://www.lifewire.com/thmb/FlP4JZUVLoJ3DjKoSRUIFuf1peY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_6Web-5c8ff3e6c9e77c0001a926ff.jpg)
 
  Lifewire / Gannon Burgett
@@ -126,6 +116,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The MaxOak power bank charged the Samsung Galaxy S8 Active just shy of twelve times from 0% to 100%. This aligns almost exactly with the 50000mAh capacity of the MaxOak power divided by the 4,000mAh capacity of the Samsung Galaxy S8 Active. We experienced similar results with the iPhone XS. While Apple doesn't specifically mention the battery capacity of the iPhone XS, third parties have reported it to be approximately 2,700mAh, which would equate to roughly 18.5 full charges. In our tests, we were able to get 17.5 charges from the MaxOak power bank.
 
  Moving onto laptops, our ASUS X555LA was able to be charged four and a half times from 0% with the MaxOak power bank, with an average charge time of three hours or so. The ASUS X555LA has a relatively small battery compared to most laptops, which means it falls in line with MaxOak’s claims that its power bank can charge a laptop two times over give or take a little.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Right down the middle**
 
@@ -168,14 +165,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Warranty  One year
 * Compatibility  Android, iOS
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,3 +177,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-optimize-your-workday-with-io-screen-capture-expertise/"><u>2024 Approved Optimize Your Workday with IO Screen Capture Expertise</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-prime-mobileweb-invest-in-no-cost-imagery-upgrade/"><u>2024 Approved Prime Mobile/Web Invest in No-Cost Imagery Upgrade</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-synchronize-and-schedule-seamless-entry-into-any-zoom-session-from-android/"><u>2024 Approved Synchronize and Schedule Seamless Entry Into Any Zoom Session From Android</u></a></li>
+<li><a href="https://techidaily.com/abbyy-go-revolutionizing-quick-loan-approvals-with-powerful-mobile-ocr-technology/"><u>Abbyy Go: Revolutionizing Quick Loan Approvals with Powerful Mobile OCR Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-patch-update-corrects-ui-flaw-error-id-2711/"><u>Black Ops Cold War Patch Update Corrects UI Flaw, Error ID 27^11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bluetooth-beats-discover-the-lx310bts-charm/"><u>Bluetooth Beats: Discover the LX310BT's Charm</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-yoga-a940-performance-analysis/"><u>Comprehensive Lenovo Yoga A940 Performance Analysis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovative-techniques-improve-your-hp-laptop-screen-recordings-for-2024/"><u>Innovative Techniques Improve Your HP Laptop Screen Recordings for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-list-of-budget-video-call-apps-with-live-sharing/"><u>Leading List of Budget Video Call Apps with Live Sharing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pioneer-bdr-xd05b-blu-ray-burner-review/"><u>Pioneer BDR-XD05B Blu-Ray Burner Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ringtone-to-text-iphone-model-2024-vox/"><u>Ringtone to Text IPhone, Model 2024 VOX</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-budsplus-a-comprehensive-hands-on-analysis/"><u>Samsung Galaxy Buds+: A Comprehensive Hands-On Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-riot-games-fix-for-the-2024-reconnect-bug-in-lol/"><u>Understanding Riot Games' Fix for the 2024 Reconnect Bug in LoL</u></a></li>
+</ul></div>
+

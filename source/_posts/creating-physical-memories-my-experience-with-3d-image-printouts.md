@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2024-09-09T04:11:24.383Z
-updated: 2024-09-10T04:11:24.383Z
+date: 2024-09-11T02:23:31.138Z
+updated: 2024-09-15T08:01:59.814Z
 tags:
   - games
   - tv
@@ -11,20 +11,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd587560ad00c9351b904f56102.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Creating Physical Memories: My Experience with 3D Image Printouts
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Lithophanes are images created by varying the thickness of a material to let different amount of light through.
@@ -39,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
  While working with porcelain isn't something you can do at home typically, if you have a 3D printer you can emulate the same effect and make a lithophane by printing it. When you hold the lithophane up to the light, your original image appears. It's a neat effect and, thanks to the flexibility of 3D printing, you can make all sorts of interesting decorations using this method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Converting an Image to a Lithophane
 
  To make a lithophane, you need to use software that converts the light and dark parts of the image into a 3D model with thicker or thinner sections representing the image.
@@ -55,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
 
  Once you're happy with the settings, your photo will appear as a lithophane model in the slicer just like any other 3D model.
@@ -74,11 +50,12 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Printing Your Lithophane
 
  Once you have the lithophane model you want to print, the question is how it should be printed. The most reliable way is to print it flat on its back. However, this means the quality of the print is determined by the line width of your printer. That, in turn, is limited by the nozzle diameter you're currently using. Typically, this is 0.04mm and that's exactly what I was using with [my K1 Max](https://extra-hints.techidaily.com/3-techniques-to-fix-iphone-hdr-blunders-in-premiere-pro-for-2024/).
@@ -92,11 +69,12 @@ Close
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek
 
  Now all that's left to do is put a light source behind it, and enjoy a unique way to display your photos.
@@ -107,8 +85,6 @@ Sydney Louw Butler / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,33 +94,19 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-choosing-the-right-instagram-video-size-a-2023-guide/"><u>[New] 2024 Approved  Choosing the Right Instagram Video Size - A 2023 Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-architecting-an-inspiring-tiktok-conclusion/"><u>[New] In 2024, Architecting an Inspiring TikTok Conclusion</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-decoding-the-secrets-of-stardew-valley-with-a-focus-on-its-mysterious-ginger-isle/"><u>[Updated] In 2024, Decoding the Secrets of Stardew Valley with a Focus on Its Mysterious Ginger Isle</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-new-potentials-iphone-x-secrets-unveiled/"><u>2024 Approved  Unlock New Potentials  IPhone X Secrets Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-uniden-r3-top-quality-design-for-long-distance-radar-alerts/"><u>Comprehensive Review of the Uniden R3 - Top-Quality Design for Long Distance Radar Alerts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/detailed-breakdown-and-overview-of-the-acclaimed-anker-portable-charger-plus-26800mah-pair-review/"><u>Detailed Breakdown and Overview of the Acclaimed Anker Portable Charger + 26800mAh Pair Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-amazon-essentials-tablet-stand-a-perfect-travel-companion/"><u>Evaluating the Amazon Essentials Tablet Stand: A Perfect Travel Companion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/guide-to-activating-a-nintendo-id-on-your-handheld-console-nintendo-3ds/"><u>Guide to Activating a Nintendo ID on Your Handheld Console (Nintendo 3DS)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-ring-video-doorbell-pro-revolutionizes-home-security-a-detailed-review/"><u>How the Ring Video Doorbell Pro Revolutionizes Home Security – A Detailed Review</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-12-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 12 Pro?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hp-notebook-15-review/"><u>HP Notebook 15 Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-which-is-superior-ring-or-nest-doorbells/"><u>In Depth Review: Which Is Superior - Ring or Nest Doorbells?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lenovos-budget-friendly-tablet-with-stunning-full-hd-plus-screen-a-comprehensive-2020-review/"><u>Lenovo's Budget-Friendly Tablet with Stunning Full HD Plus Screen - A Comprehensive 2020 Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/masterclass-on-samsungs-galaxy-note-9-a-pinnacle-achievement-for-high-resolution-big-screen-devices/"><u>Masterclass on Samsung's Galaxy Note 9: A Pinnacle Achievement for High-Resolution Big Screen Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgear-pl-1200-powerline-networking-unit-tested-sizing-up-for-speed-and-design-efficiency/"><u>Netgear PL-1200 Powerline Networking Unit Tested - Sizing Up for Speed and Design Efficiency</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172972874-psp-reimagined-iphone-edition-now-available/"><u>PSP Reimagined: IPhone Edition Now Available</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-x-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone X Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-zte-blade-a3y-quality-performance-meets-budget-pricing/"><u>Review of ZTE Blade A3Y: Quality Performance Meets Budget Pricing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionize-your-workout-routine-with-the-stylish-and-sleek-garmin-vivomove-hr-watch/"><u>Revolutionize Your Workout Routine with the Stylish and Sleek Garmin Vivomove HR Watch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ricoh-theta-sc2-handhraning-360-degree-exploration/"><u>Ricoh Theta SC2: Handhraning 360-Degree Exploration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sony-xbr65x850f-65-inch-4k-tv-quality-and-price-that-wont-break-the-bank/"><u>Sony XBR65X850F (65-Inch) 4K TV: Quality & Price That Won't Break The Bank!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/space-saga-with-a-twist-uncover-the-entertaining-story-in-the-outer-worlds/"><u>Space Saga with a Twist: Uncover the Entertaining Story in 'The Outer Worlds'</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-steps-installing-the-epson-xp-830-printer-driver/"><u>Successful Steps: Installing the Epson XP-830 Printer Driver</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-srt-to-subc-innovative-techniques-explored-for-2024/"><u>The Art of SRT to SUBC  Innovative Techniques Explored for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-usb-stick-picks-your-ultimate-guide/"><u>Top-Rated USB Stick Picks : Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-singing-machine-sml385btbk-karaoke-experience-user-friendly-vibrant-and-instantly-ready/"><u>Ultimate Singing Machine SML385BTBK Karaoke Experience: User-Friendly, Vibrant & Instantly Ready</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-magic-a-thorough-review-of-minecrafts-campfire-tales-character-designs/"><u>Unveiling the Magic: A Thorough Review of Minecraft's Campfire Tales Character Designs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/value-meets-quality-in-the-zte-blade-a3y-an-in-depth-review-of-performance/"><u>Value Meets Quality in the ZTE Blade A^3Y - An In-Depth Review of Performance</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-becoming-a-greenscreen-specialist-in-kinemasters-vfx-realm/"><u>[New] 2024 Approved Becoming a Greenscreen Specialist in KineMaster's VFX Realm</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-stars-brief-moment-analysis/"><u>[New] In 2024, Star's Brief Moment Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-quickly-connect-your-fb-story-via-linked-profile/"><u>2024 Approved Quickly Connect Your FB Story via Linked Profile</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-xiaomi-redmi-13c-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Xiaomi Redmi 13C 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminating-glitches-a-comprehensive-tutorial-to-prevent-diablo-immortal-from-crashing/"><u>Eliminating Glitches: A Comprehensive Tutorial to Prevent Diablo Immortal From Crashing</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-windows-1111-ui-for-auto-check-updates/"><u>Enabling Windows 11/11 UI for Auto-Check Updates</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-poco-m6-pro-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Poco M6 Pro 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pathway-to-enlisting-world-class-cinematographers/"><u>In 2024, Pathway to Enlisting World-Class Cinematographers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-the-past-and-present-our-take-on-the-netgear-c3000-router-review/"><u>Navigating Through the Past and Present: Our Take on the Netgear C3000 Router Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nhl-19-review-compelling-online-gameplay/"><u>NHL 19 Review: Compelling Online Gameplay</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nickwatch-arrives-in-the-usa-coinciding-with-kidzchoice-gala/"><u>NickWatch Arrives in the USA Coinciding with KidzChoice Gala</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nintendos-console-revolutionized-discover-how-the-switch-lite-delivers-quality-entertainment-for-less/"><u>Nintendo's Console Revolutionized: Discover How the Switch Lite Delivers Quality Entertainment for Less</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/prioritize-these-pc-upgrades-now/"><u>Prioritize These PC Upgrades Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/roku-and-fire-tv-stick-showdown-deciding-on-the-ideal-option/"><u>Roku and Fire TV Stick Showdown – Deciding on The Ideal Option</u></a></li>
 </ul></div>
+

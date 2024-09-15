@@ -1,7 +1,7 @@
 ---
 title: The Glion Dolly E-Scooter Experience - Examining Its Elegant Aesthetics, Swift Velocity & Expensive Nature
-date: 2024-08-09T00:38:56.672Z
-updated: 2024-08-10T00:38:56.672Z
+date: 2024-09-11T16:50:21.663Z
+updated: 2024-09-15T08:16:02.595Z
 categories:
   - BestProducts
 description: This Article Describes The Glion Dolly E-Scooter Experience - Examining Its Elegant Aesthetics, Swift Velocity & Expensive Nature
@@ -37,15 +37,8 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
 Lifewire / Erika Rawes
@@ -69,9 +62,6 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -80,16 +70,16 @@ Lifewire / Erika Rawes
 
  The antenna comes with a stand for placement on a desk or entertainment center. It also comes with double-sided adhesives, so you can hang it on a wall or window. The adhesives are extremely sticky—when I pulled the antenna off of my wall, the paint came off along with it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup: Easier than most**
 
@@ -99,22 +89,36 @@ No advertising on the website.
 
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
 
  The attached coax cable isn’t as long as I’ve seen on other similarly-priced antennas, but it is long enough (10 feet) to place the antenna up high without an extender.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
 
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -127,9 +131,6 @@ No advertising on the website.
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
 
  Lifewire / Erika Rawes
@@ -160,14 +161,11 @@ No advertising on the website.
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,3 +173,23 @@ No advertising on the website.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-rankings-for-podcasts-a-seo-masterclass/"><u>[New] Top-Tier Rankings for Podcasts A Seo Masterclass</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-use-video-titles-and-youtube-tags-for-2024/"><u>[Updated] How to Use Video Titles and YouTube Tags for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-media-subtitles-transformation/"><u>2024 Approved Mastering Media Subtitles Transformation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assassins-creed-valhalla-evaluation-unveiling-a-thrilling-viking-journey-through-the-medieval-era/"><u>Assassin's Creed: Valhalla Evaluation – Unveiling a Thrilling Viking Journey Through the Medieval Era</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dive-into-performance-in-depth-review-of-apples-latest-multimedia-marvel-the-ipad-air-201/"><u>Dive Into Performance: In-Depth Review of Apple's Latest Multimedia Marvel, the iPad Air (201</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722945843888-embrace-active-living-with-the-fitbit-versa-3-its-internal-gps-and-diverse-health-app-selection-provide-continuous-encouragement/"><u>Embrace Active Living with the Fitbit Versa 3 - Its Internal GPS & Diverse Health App Selection Provide Continuous Encouragement!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-a-perfect-harmony-of-style-and-functionality-in-the-skagen-falster-3-an-in-depth-review/"><u>Experience a Perfect Harmony of Style and Functionality in the Skagen Falster 3 - An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-compact-design-and-functionality-issues-of-criacns-bt-fm-transmitter-model-cp24/"><u>Expert Review: The Compact Design and Functionality Issues of Criacn's BT FM Transmitter Model CP24</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-note-12t-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 12T Pro Fingerprint Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/masterful-device-management-via-installed-hardware-drivers/"><u>Masterful Device Management via Installed Hardware Drivers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-internet-speed-with-the-asus-zenwifi-router-ax6600-in-depth-review-and-setup-tips/"><u>Maximizing Your Internet Speed with the ASUS ZenWiFi Router AX6600: In-Depth Review and Setup Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-copy-pasting-errors-in-popular-web-browsers/"><u>Overcoming Copy-Pasting Errors in Popular Web Browsers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ty-upgrade-switch-codecs-to-av1-for-youtube-viewing/"><u>Quality Upgrade Switch Codecs to AV1 for YouTube Viewing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ring-video-doorbell-2-review/"><u>Ring Video Doorbell 2 Review</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 7 | Dr.fone</u></a></li>
+</ul></div>
+

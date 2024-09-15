@@ -1,7 +1,7 @@
 ---
 title: "Five Years On: The Critical Functions Yet To Be Added To Apple TV+"
-date: 2024-09-04T16:15:10.902Z
-updated: 2024-09-05T16:15:10.902Z
+date: 2024-09-10T21:28:20.171Z
+updated: 2024-09-15T08:55:29.563Z
 tags:
   - games
   - tv
@@ -35,12 +35,6 @@ Apple
 
  Another wrinkle is that everyone you invite to Family Sharing needs to create an Apple account. It's free to do that, but it's still an annoying hurdle—especially compared to the likes of Disney+ and Netflix, where you can create extra profiles within seconds from any device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  An Android App for Phones and Tablets
 
  Apple is known for its walled garden. Typically, if you want to use an Apple service, you need to own an Apple product. But when every other major streaming service is platform-agnostic, it's baffling that Apple TV+ still doesn't have an app for Android phones and tablets.
@@ -49,26 +43,8 @@ Apple
 
 ![Apple TV app on the Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-tv-app-on-the-play-store.png) 
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You're not entirely locked out as an Android user, mind. You can stream Apple TV+ in a web browser on mobile, but it's not as smooth as a native app would be—you may encounter plentiful buffering, for instance, and there's no support for [features like offline viewing](https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-z-fold-5-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Separate Your Watchlist From Up Next
 
  When you're partway through a show or movie on Apple TV+, it adds it to your "Up Next" row. This persistently appears on the home screen, so it's quick to jump back into what you're watching. So far, so good.
@@ -76,21 +52,16 @@ Apple
 ![Up Next on Apple TV+ in a web browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/up-next-on-apple-tv-in-a-web-browser.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The issue comes when you want to mark something you're interested in so you can easily find it later. There's no separate watchlist, like there is on Netflix or Prime Video. Instead, you can only add it to your Up Next, which means that list quickly becomes a mess of things you're currently watching and what you want to watch.
 
  Having at least two lists, one to track current viewing and another for things to watch later, would solve this.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Robust and Reliable Search
 
  Apple TV+ doesn't have as much to watch as many other services, so it makes sense that its discovery functionality isn't great—it helps mask the limited catalog. Regardless, it needs to be better than it is.
@@ -100,11 +71,12 @@ Apple
 ![Searching on Apple TV+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/searching-on-apple-tv.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The search functionality itself is also unreliable. A search for "kids" includes the likes of adult-orientated _The Tragedy of Macbeth_. You'll also get different results depending on whether you search "kids" and then select "Movies", or just search "kids movies".
 
  On top of all this, some versions of the Apple TV+ app don't separate the search results between content that comes with your Apple TV+ subscription and that which you have to purchase separately.
@@ -119,8 +91,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,42 +100,18 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-iphone-camera-savvy-image-optimization-secrets/"><u>[New] IPhone Camera Savvy  Image Optimization Secrets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unraveling-the-secrets-to-auditory-harmony-crossfade/"><u>[Updated] Unraveling the Secrets to Auditory Harmony (Crossfade)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-sparking-your-content-strategy-crafting-a-youtube-channel-from-scratch/"><u>2024 Approved  Sparking Your Content Strategy  Crafting a YouTube Channel From Scratch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-value-and-high-performance-gaming-mini-computers-reviewed/"><u>Best Value and High-Performance Gaming Mini Computers Reviewed</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-video-to-live-photos-apps/"><u>Best Video to Live Photos Apps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-cams-what-to-look-for/"><u>Budget-Friendly Cams: What to Look For</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-between-apple-tv-n-4k-and-roku-ultra-features-compared/"><u>Choosing Between Apple TV N 4K and Roku Ultra: Features Compared</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-your-perfect-smartwatch-a-comparison-between-apple-watch-series-9-and-fitbit-charge-6/"><u>Choosing Your Perfect Smartwatch: A Comparison Between Apple Watch Series 9 and Fitbit Charge 6</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-nokia-nokia72-how-it-stands-out-among-competitive-devices/"><u>Comprehensive Guide to the Nokia Nokia7.2: How It Stands Out Among Competitive Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/critical-review-of-imperator-rome-conquering-empires-and-overcoming-great-risks/"><u>Critical Review of 'Imperator: Rome' - Conquering Empires and Overcoming Great Risks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decision-time-how-to-pick-the-ideal-tablet-comparing-features-of-amazon-fire-and-samsung-models/"><u>Decision Time: How to Pick the Ideal Tablet – Comparing Features of Amazon Fire and Samsung Models</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dialect-dynamics-ukrainian-vs-russian-conversations/"><u>Dialect Dynamics: Ukrainian Vs Russian Conversations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-uninterrupted-speed-with-d-link-powerline-2000-a-user-friendly-setup-guide/"><u>Experience Uninterrupted Speed with D-Link Powerline 2000: A User-Friendly Setup Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-enjoyment-in-pokemon-diamond-and-pokemon-pearl-a-guide/"><u>Exploring Enjoyment in 'Pokémon Diamond & Pokémon Pearl': A Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-features-a-closer-look-at-the-revolutionary-samsung-galaxy-s24-ultra/"><u>Exploring the Features: A Closer Look at the Revolutionary Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/futureproof-with-windows-11-phasing-out-windows-8/"><u>Futureproof with Windows 11: Phasing Out Windows 8</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-ring-video-doorbell-pro-revolutionizes-home-security-a-detailed-review/"><u>How the Ring Video Doorbell Pro Revolutionizes Home Security – A Detailed Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-the-edge-with-a-premier-zero-cost-voice-change-software/"><u>In 2024, Get the Edge with a Premier, Zero-Cost Voice Change Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-x50i-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor X50i Devices</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-6s-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 6s Plus to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-kobo-nia-reader-can-it-match-up-to-the-amazon-kindle-standards/"><u>In-Depth Analysis of the Kobo Nia Reader - Can It Match Up to the Amazon Kindle Standards?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-the-fintie-shield-suitable-for-your-macbook-air-13-exploring-durability-and-affordability-in-our-review/"><u>Is the Fintie Shield Suitable for Your MacBook Air 13? Exploring Durability and Affordability in Our Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kensun-mobile-pneumatic-inflator-review-proven-quality-for-on-the-go-fixes/"><u>Kensun Mobile Pneumatic Inflator Review: Proven Quality for On-the-Go Fixes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/miniature-powerhouse-showdown-in-depth-look-at-the-unihertz-atom-xls-robust-performance/"><u>Miniature Powerhouse Showdown: In-Depth Look at the Unihertz Atom XL's Robust Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgear-pl-1200-powerline-networking-unit-tested-sizing-up-for-speed-and-design-efficiency/"><u>Netgear PL-1200 Powerline Networking Unit Tested - Sizing Up for Speed and Design Efficiency</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/owc-mercury-pro-the-pinnacle-of-solid-state-drive-technology-explored-in-review/"><u>OWC Mercury Pro: The Pinnacle of Solid State Drive Technology Explored in Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/power-under-glass-the-ultimate-list-of-processor-optimized-tablets-evaluated/"><u>Power Under Glass: The Ultimate List of Processor-Optimized Tablets Evaluated</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/secure-and-savvy-why-the-fintie-case-is-your-best-bet-for-macbook-pro-13-defense-check-out-our-review/"><u>Secure and Savvy: Why the Fintie Case Is Your Best Bet for MacBook Pro 13 Defense Check Out Our Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sony-xbr65x850f-65-inch-4k-tv-quality-and-price-that-wont-break-the-bank/"><u>Sony XBR65X850F (65-Inch) 4K TV: Quality & Price That Won't Break The Bank!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-choosing-a-superior-keyboard-experience-microsoft-surface-ergo-model-evaluation/"><u>The Definitive Guide to Choosing a Superior Keyboard Experience: Microsoft Surface Ergo Model Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-truth-about-amazon-luna-is-it-the-ultimate-in-effortless-gaming-experience/"><u>The Truth About Amazon Luna: Is It the Ultimate in Effortless Gaming Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-usb-stick-picks-your-ultimate-guide/"><u>Top-Rated USB Stick Picks : Your Ultimate Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tip-fixed-lacking-available-space-error-in-god-of-war-gameplay/"><u>Troubleshooting Tip: Fixed 'Lacking Available Space' Error in God of War Gameplay</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-your-network-with-a-thorough-review-of-the-linksys-wrt1900acs-open-source-router/"><u>Unlocking the Potential of Your Network with a Thorough Review of the Linksys WRT1900ACS Open Source Router</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/value-meets-quality-in-the-zte-blade-a3y-an-in-depth-review-of-performance/"><u>Value Meets Quality in the ZTE Blade A^3Y - An In-Depth Review of Performance</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-premiere-edition-selective-sierra-video-editors/"><u>[New] Premiere Edition Selective Sierra Video Editors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audio-ambition-realized-cutting-edge-recording-methods-for-minecraft-players/"><u>[Updated] In 2024, Audio Ambition Realized Cutting-Edge Recording Methods for Minecraft Players</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/advanced-techniques-for-live-action-sims-playback-for-2024/"><u>Advanced Techniques for Live-Action Sims Playback for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-garmin-gpsmap-navigational-companion/"><u>Expert Analysis of the Garmin GPSMAP Navigational Companion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-halo-bolt-jump-starter-and-portable-charger-the-ultimate-car-battery-savior/"><u>Expert Analysis of the Halo Bolt Jump Starter & Portable Charger - The Ultimate Car Battery Savior</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-the-most-efficient-ups-battery-systems-available/"><u>Expert Picks: The Most Efficient UPS Battery Systems Available</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-on-apples-compact-music-hub-the-homepod-mini-with-siri-integration/"><u>Expert Review on Apple's Compact Music Hub – The HomePod Mini with Siri Integration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-curated-selections-find-your-perfect-tv-with-these-6-prime-online-retailers/"><u>Expertly Curated Selections: Find Your Perfect TV with These 6 Prime Online Retailers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/exploring-significance-and-usage-of-a-blue-emoji-on-messenger/"><u>Exploring Significance and Usage of a Blue Emoji on Messenger</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-racing-wheels-driver-installation-guide-windows-users/"><u>Logitech Racing Wheels Driver Installation Guide – Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-art-gpt-powered-image-creation/"><u>Mastering AI Art: GPT-Powered Image Creation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mi-11-tech-specs-unveiled-with-advanced-screen-capture/"><u>Mi 11 Tech Specs Unveiled with Advanced Screen Capture</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a34-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A34 5G FRP</u></a></li>
 </ul></div>
+

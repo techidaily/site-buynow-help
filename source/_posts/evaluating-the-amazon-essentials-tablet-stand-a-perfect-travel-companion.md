@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Amazon Essentials Tablet Stand: A Perfect Travel Companion"
-date: 2024-08-27T06:47:42.422Z
-updated: 2024-08-28T06:47:42.422Z
+date: 2024-09-11T10:03:31.041Z
+updated: 2024-09-15T08:41:46.598Z
 categories:
   - BestProducts
 description: "This Article Describes Evaluating the Amazon Essentials Tablet Stand: A Perfect Travel Companion"
@@ -63,9 +63,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -88,19 +85,12 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Reliable, accurate, quick and loud**
 
  When we tested the tire inflator, we took it on a road trip that took us to the states of Nevada, Utah, Idaho, and Wyoming. Along the way, we stopped at rural rest areas and gas stations. In order to use them in the circumstances, they were designed for. Throughout it all, the Kensun Portable Tire Inflator never failed to work when we needed it.
@@ -122,15 +112,16 @@ Lifewire / Jeffrey Daniel Chadwick
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
 
  The Kensun Portable Tire Inflator is similar to the Jaco Digital Tire Inflator, they have similar cord and hose lengths, and can continually run for about half an hour. But the Kensun is more than twice the size of the Jaco, so it can deliver more power to fill your tires faster. Additionally, the Jaco lacks the ability to plug into an AC socket, so you can only use it in your car.
@@ -146,8 +137,18 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  AC/DC Portable Air Pump Tire Inflator
@@ -164,8 +165,6 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,61 +174,14 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-downloading-twitters-animated-content-simplified-for-2024/"><u>[New] Downloading Twitter's Animated Content Simplified for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instasnap-optimize-images-and-videos-on-ig/"><u>[New] In 2024, InstaSnap  Optimize Images & Videos on IG</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-instagram-videos-wandering-why-angles-change-for-2024/"><u>[New] Instagram  Videos Wandering - Why Angles Change for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-resources-for-3d-type-art/"><u>[New] Pinnacle Resources for 3D Type Art</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-earnings-unleashed-discovering-8-lucrative-tiktok-practices/"><u>[Updated] Earnings Unleashed  Discovering 8 Lucrative TikTok Practices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-precision-in-practice-detailed-manual-on-windows-pc-live-tv-capture/"><u>[Updated] Precision in Practice  Detailed Manual on Windows PC Live TV Capture</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-quality-drones-that-accommodate-gopro-cameras/"><u>2024 Approved  High-Quality Drones That Accommodate GoPro Cameras</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/5-best-mesh-wi-fi-network-kits-dominating-the-market-this-year/"><u>5 Best Mesh Wi-Fi Network Kits Dominating the Market This Year</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a35-audio-analysis-sonic-brilliance/"><u>A35 Audio Analysis - Sonic Brilliance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-tp-link-re2n-ac750-wireless-repeater-in-depth-analysis/"><u>Affordable TP-Link RE2n AC750 Wireless Repeater - In-Depth Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-watch-ultra-series-2-unveiled-whats-new-predicted-cost-and-launch-timeline/"><u>Apple Watch Ultra Series 2 Unveiled - What's New, Predicted Cost & Launch Timeline?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/applications-include-aircraft-part-fabrication-tank-manufacturing-and-joining-dissimilar-metals/"><u>Applications Include Aircraft Part Fabrication, Tank Manufacturing, and Joining Dissimilar Metals.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/audiophile-delight-walkman-wm-nw78/"><u>Audiophile Delight: Walkman WM-NW78</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-master-why-the-acer-aspire-e-15-deserves-your-attention/"><u>Budget Master: Why the Acer Aspire E 15 Deserves Your Attention</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/charting-the-best-workout-music-playlists/"><u>Charting the Best Workout Music Playlists</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-your-smartphone-wisely-iphone-or-android/"><u>Choosing Your Smartphone Wisely: IPhone or Android?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-apple-iphone-12-pro-max-is-going-larger-a-game-changer/"><u>Comprehensive Analysis of the Apple iPhone 12 Pro Max - Is Going Larger a Game-Changer?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-anker-30-speedy-usb-hub-analysis-unleash-maximum-connectivity/"><u>Comprehensive Anker 3.0 Speedy USB Hub Analysis - Unleash Maximum Connectivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/conquer-console-challenges-with-asus-vg245h-a-gamers-ultimate-ally/"><u>Conquer Console Challenges with Asus VG245H - A Gamer's Ultimate Ally</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cyberpunk-2077-analysis-a-game-of-imperfections-and-untapped-potential/"><u>Cyberpunk 2077 Analysis: A Game of Imperfections and Untapped Potential</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/deciding-on-a-more-useful-language-german-or-french/"><u>Deciding on a More Useful Language: German or French?</u></a></li>
-<li><a href="https://article-files.techidaily.com/demystifying-the-viva-video-interface/"><u>Demystifying the Viva Video Interface</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-top-notch-affordability-in-the-convertible-asus-chromebook-flip-c3email-protecteda-in-depth-analysis/"><u>Discover Top-Notch Affordability in the Convertible Asus Chromebook Flip C3([email Protected])A: In-Depth Analysis</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-upgrade-to-latest-amd-drivers-enjoy-effortless-auto-selecting-technology/"><u>Download and Upgrade to Latest AMD Drivers - Enjoy Effortless Auto-Selecting Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/efficiency-meets-mobility-in-depth-review-of-kensun-tire-air-filler/"><u>Efficiency Meets Mobility: In-Depth Review of Kensun Tire Air Filler</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhancing-performance-pc-upgrade-suggestions/"><u>Enhancing Performance: PC Upgrade Suggestions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-pros-and-cons-of-the-samsung-55-inch-ru7300-smart-led-a-complete-4k-television-assessment/"><u>Evaluating the Pros and Cons of the Samsung 55-Inch RU7300 Smart LED - A Complete 4K Television Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exclusive-lowest-price-offers-on-roku-units-make-the-most-of-prime-day/"><u>Exclusive Lowest Price Offers on Roku Units: Make The Most Of Prime Day!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-of-havits-five-fan-laptop-cooling-pad-a-game-changer-in-heat-management/"><u>Expert Review of HAVIT's Five-Fan Laptop Cooling Pad - A Game Changer in Heat Management</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-the-bouncie-car-locator-intuitive-cost-effective-vehicle-tracking-reviewed/"><u>Explore the Bouncie Car Locator: Intuitive, Cost-Effective Vehicle Tracking Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-pros-and-cons-of-the-budget-friendly-hp-stream-14/"><u>Exploring the Pros and Cons of the Budget-Friendly HP Stream 14</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-shadows-into-brilliance-the-transcendent-return-of-demons-souls-with-cutting-edge-graphics/"><u>From Shadows Into Brilliance - The Transcendent Return of Demon's Souls with Cutting-Edge Graphics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/future-proof-choices-top-power-inverters-dominating-consumer-picks/"><u>Future-Proof Choices: Top Power Inverters Dominating Consumer Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-fix-the-error-message-launchdll-is-absent-or-lost/"><u>Guide: Fix the Error Message - 'Launch.dll' Is Absent or Lost</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-cutting-edge-techniques-for-youtube-thumbnails-made-for-macos/"><u>In 2024, Cutting-Edge Techniques for YouTube Thumbnails, Made for macOS</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-v27e-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo V27e Phones with/without a PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-proven-tactics-for-saving-lol-events/"><u>In 2024, Proven Tactics for Saving LOL Events</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-transform-your-clips-step-by-step-youtube-end-screen-tutorials/"><u>In 2024, Transform Your Clips  Step-by-Step YouTube End Screen Tutorials</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-netgear-nighthawk-x4-mesh-wifi-system/"><u>In Depth Evaluation of the Netgear Nighthawk X4 Mesh WiFi System</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-playstation-4-pro-transforms-into-a-4k-console-masterpiece/"><u>In-Depth Review: How PlayStation 4 Pro Transforms Into a 4K Console Masterpiece</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/interstellar-city-planning-gone-wild-whirlwinds-and-laughter-across-the-red-planet/"><u>Interstellar City Planning Gone Wild: Whirlwinds and Laughter Across the Red Planet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lenovo-tab-4-a-cost-effective-android-tablet-with-considerations/"><u>Lenovo Tab 4 - A Cost-Effective Android Tablet With Considerations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/marvels-avengers-unveiled-striking-a-balance-between-amazing-and-mediocre/"><u>Marvel’s Avengers Unveiled: Striking a Balance Between Amazing and Mediocre</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oneplus-8t-evaluation-revealed-brilliant-velocity-meets-disappointing-image-capture-features/"><u>OnePlus 8T Evaluation Revealed - Brilliant Velocity Meets Disappointing Image Capture Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/premiere-vehicle-encryption-analysts-2024/"><u>Premiere Vehicle Encryption Analysts, 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-tab-s5e-review/"><u>Samsung Galaxy Tab S5e Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/speed-vs-build-a-deep-dive-into-the-features-of-netgear-powerline-adapter-pl1200-review/"><u>Speed Vs. Build: A Deep Dive Into the Features of Netgear Powerline Adapter (PL1200) Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-updating-and-downloading-canoscan-lide-120-drivers/"><u>Step-by-Step Tutorial for Updating and Downloading CanoScan LiDE 120 Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connection-issues-heres-how-you-can-resolve-them/"><u>Struggling with iPhone VPN Connection Issues? Here's How You Can Resolve Them</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-razer-book-13-assessment-small-size-big-performance/"><u>The Ultimate Razer Book 13 Assessment - Small Size, Big Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlock-hours-of-joy-with-cost-effective-american-karaoke-under-150/"><u>Unlock Hours of Joy with Cost-Effective American Karaoke Under $150</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unlocking-the-potential-of-drone-footage-through-editing-for-2024/"><u>Unlocking the Potential of Drone Footage Through Editing for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-essential-elements-of-premium-play-machines/"><u>Unveiling Essential Elements of Premium Play Machines</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-imac-with-m1-enhanced-performance-meets-elegant-design/"><u>Unveiling the iMac with M1: Enhanced Performance Meets Elegant Design</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/versatile-glow-spk10-037-softbox-kicking-up-creative-energy/"><u>Versatile Glow: SPK10-037 Softbox Kicking Up Creative Energy</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/zte-blade-a3y-reviewed-delivering-high-end-specs-on-a-budget-smartphone/"><u>ZTE Blade A3Y Reviewed: Delivering High-End Specs on a Budget Smartphone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-adjust-macs-screenshot-stash-location/"><u>[New] In 2024, Adjust Mac's Screenshot Stash Location</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-why-visual-narratives-from-customers-boost-business-appeal/"><u>[New] In 2024, Why Visual Narratives From Customers Boost Business Appeal</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlocking-asmrs-health-perks-a-guide/"><u>[New] Unlocking ASMR's Health Perks A Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/high-ranked-choices-ideal-online-spots-for-grab-snapchat-ringtone/"><u>High-Ranked Choices Ideal Online Spots for Grab Snapchat Ringtone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-create-stunning-images-using-iphones-latest-photo-cutout-tool-in-ios-16/"><u>How to Create Stunning Images Using iPhone's Latest Photo Cutout Tool in iOS 16</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-dell-alienware-aurora-r9-a-cutting-edge-gamers-dream/"><u>In-Depth Analysis of Dell Alienware Aurora R9: A Cutting-Edge Gamer's Dream</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-top-tier-garmin-forerunner-745-multisport-watch/"><u>In-Depth Analysis of the Top-Tier Garmin Forerunner 745 Multisport Watch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-motorola-one-5g-ace-excellent-5g-speeds-meet-unbeatable-battery-endurance/"><u>In-Depth Review of the Motorola One 5G Ace: Excellent 5G Speeds Meet Unbeatable Battery Endurance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-cleansing-companion-the-dreame-bot-l1amooring-and-sweeping-robot-powered-by-lidar-technology-reviewed/"><u>Innovative Cleansing Companion: The Dreame Bot L1amooring and Sweeping Robot Powered by LiDAR Technology Reviewed</u></a></li>
 </ul></div>
+

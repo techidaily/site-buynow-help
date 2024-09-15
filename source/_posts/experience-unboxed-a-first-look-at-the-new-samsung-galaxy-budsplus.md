@@ -1,7 +1,7 @@
 ---
 title: "Experience Unboxed: A First Look at the New Samsung Galaxy Buds+"
-date: 2024-08-09T00:38:57.015Z
-updated: 2024-08-10T00:38:57.015Z
+date: 2024-09-11T03:42:36.220Z
+updated: 2024-09-15T09:08:49.226Z
 categories:
   - BestProducts
 description: "This Article Describes Experience Unboxed: A First Look at the New Samsung Galaxy Buds+"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/67b9a46edc93cc7d7ee3f65fbe7a823bf8c1214de
 
 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Amazon Fire TV Cube
 
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/K_gugGZBSXUKggkCqocQEu_IF2U=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroSquare-484d7d80c4354681968a1ff7d19b9676.jpg)
@@ -67,16 +64,10 @@ Lifewire/Emily Ramirez
 
  Updated for 2019, the Amazon Fire TV Cube brings powerful hardware that can stream thousands of channels and apps in full[4K HDR](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) with Dolby Vision encoding. The glowing cube also takes voice commands, basically making it an Echo speaker, but is Alexa’s brainpower and its beefy hexacore processor enough to justify its relatively hefty price tag? I spent 15 hours putting it to the test, read on to see how I liked it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/XdJMKZTDX0bcXYVWQa5F4sXhnt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroHoriz-bb386a84025b49d2a22d3d34c6974007.jpg)
 
  Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## **Design: Futuristic design powered by Alexa**
 
  The Fire TV Cube is a cute, futuristic-looking block that will stand out on your home console despite its 4-inch sides. On the outside, it’s virtually unchanged from the first-generation model. Across the top, there’s a blue LED bar that lights up whenever the Cube takes action. The sides of the cube have a glossy black finish that’s a fingerprint magnet. There’s volume and menu buttons on the top, as well, but we don’t foresee a lot of use for them considering that the Cube comes with a remote. In the back, there’s an[HDMI connector](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) , a power adapter port, and a micro USB port.
@@ -105,10 +96,20 @@ Lifewire/Emily Ramirez
 
  If a show was particularly loud, Alexa had some trouble hearing me, but it was a quick fix by lowering or muting the volume. Alexa never confused the content audio for a command. However, while I didn’t have a problem with having Alexa understand my commands, I would be a little warier if your accent deviates strongly from standard American English. Google’s language recognition protocols tend to be better with understanding other languages and accents.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/O-RbJQ9z0Q90LRS1tw4p-LYm-Xc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FIreCubeTV_03-525c653ed76f4b72bcd57495c1bc3142-55e4717a457d48aa8324c37542b70f01.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire/Emily Ramirez
 
@@ -126,23 +127,28 @@ Lifewire/Emily Ramirez
 
  If you’re interested in a Cube because you love Amazon products and content, you’ll be pleased with Prime’s selection of video. There are many, many shows included with your Prime subscription, a lot of them with a stellar production team. Almost all Amazon originals are filmed in 4K, so you can get the most out of your Cube’s performance capabilities. If you haven’t already, you should watch The Expanse and The Marvelous Mrs. Maisel.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/21Mjfh9xUyCrX05R6TQdh9JX64c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_02-603b91304a21457c94312ceb97dfcf74.jpg)
 
 Lifewire/Emily Ramirez
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: On the expensive side**
 
  The Fire TV Cube costs $120, which is frankly a little expensive compared to the Fire TV Stick 4K or an Amazon Echo. However, if you want an Echo that’s also a media player, the Cube is your best option. It comes with excellent performance, control for IoT devices, built-in speaker and mic, and svelte looks. While it’s not the best value streaming device, it’s certainly a versatile and well-featured one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Amazon Fire TV Cube vs. Roku Ultra**
 
  There’s a lot to consider if you’re choosing between the Roku Ultra and the Fire TV Cube. Specs-wise, the Fire TV Cube is undoubtedly more powerful and supports more codecs. However, the Roku Ultra has more than enough power to handle 4K content, and it supports HDR, so only the pickiest film lovers would even notice the difference.
@@ -173,11 +179,21 @@ Lifewire/Emily Ramirez
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-first-steps-on-the-path-equipment-for-beginners/"><u>[New] 2024 Approved First Steps on the Path Equipment for Beginners</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-silent-steppes-righteous-quests-games-like-the-samurai-odyssey/"><u>[Updated] Silent Steppes, Righteous Quests Games Like the Samurai Odyssey</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tailoring-twitter-video-thumbnails-a-step-by-step-guide/"><u>[Updated] Tailoring Twitter Video Thumbnails A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insightful-evaluation-of-the-asus-bw-16d1x-u-blu-ray-unit-stylish-yet-unconventional/"><u>Insightful Evaluation of the Asus BW-16D1X-U Blu-Ray Unit: Stylish Yet Unconventional</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/keep-it-undercover-a-guide-to-concealing-chatgpt-chats-without-erasing-them/"><u>Keep It Undercover: A Guide to Concealing ChatGPT Chats Without Erasing Them</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-2024-mobile-apps-for-monitoring-severe-weather-conditions/"><u>Top 2024 Mobile Apps for Monitoring Severe Weather Conditions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-efficient-productivity-on-the-go-using-the-hp-stream-11-notebook/"><u>Unleash Efficient Productivity on the Go Using the HP Stream 11 Notebook</u></a></li>
+</ul></div>
+

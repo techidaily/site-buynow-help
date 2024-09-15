@@ -1,7 +1,7 @@
 ---
 title: "Effortless Powerhouse: Explore the Acer Aspire C27's All-Inclusive Features"
-date: 2024-08-09T00:38:57.624Z
-updated: 2024-08-10T00:38:57.624Z
+date: 2024-09-09T09:34:48.720Z
+updated: 2024-09-15T10:11:05.079Z
 categories:
   - BestProducts
 description: "This Article Describes Effortless Powerhouse: Explore the Acer Aspire C27's All-Inclusive Features"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Omni 20+ Wireless Power Bank
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/0PqspYn0Ny1UT0fFzdIhza4naCk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-HERO-SQ-e459d44e1a2c432f80fec058b858ccfe.jpg)
@@ -43,9 +40,6 @@ Lifewire / Jeremy Laukkonen
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Omni 20+ Wireless Power Bank
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/_EV0MTLRfFPHdqFJ2gKyMJff5YY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-HERO-SQ-e459d44e1a2c432f80fec058b858ccfe.jpg)
@@ -79,9 +73,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Slick all-black appearance that’s dulled a bit by soft-touch rubber**
 
  The Omni 20+ is a great looking device, with an all-black case and gem-cut edges that fit in nicely when used alongside my[HP Spectre x360](https://www.lifewire.com/hp-spectre-x360-15t-touch-laptop-review-4773540) . The top and bottom are completely bereft of any markings, hiding the presence of a Qi wireless charger hidden in the top, and the labels that it does have for inputs and outputs are understated.
@@ -93,6 +84,13 @@ Lifewire / Jeremy Laukkonen
  The USB-C port is capable of fast charging some devices and providing up to 60W of power.
 
  For a premium device with a premium price like the Omni 20+, I’d like to see a different material used for the case.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Initial Setup: Frustrating due to a lack of documentation**
 
@@ -118,9 +116,6 @@ Lifewire / Jeremy Laukkonen
 
  I’ve already covered the issue with the manual in the previous section, so suffice it to say I recommend avoiding frustration and just downloading the manual from the Omnicharge website rather than trying to figure out the display and controls on your own.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Sockets and Ports: Excellent array, including wireless**
 
  The Omni 20+ includes a nice array of sockets and ports, managing to cover all of the important bases with ease. On one side, you’ll find a USB-C port and a barrel connector port, which are both capable of charging the Omni 20+ or providing power to other devices.
@@ -137,6 +132,13 @@ Lifewire / Jeremy Laukkonen
 
  On the front of the power bank, next to the display, you’ll find two USB-A ports. These ports are capable of charging all your standard USB devices. One is a Qualcomm 3.0 compatible quick charge port, and the other is a standard USB port that’s capable of putting out up to 3A.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery: Decent battery capacity for the size**
 
  The Omni 20+ includes a 20,000 mAh battery, which is a decent capacity for the size of this power bank. I’d like to see a larger capacity based on the price of this unit, but it’s clear that you’re paying for extra features like fast USB-Charging and[wireless charging](https://www.lifewire.com/qi-wireless-charging-4151894) instead of a big battery.
@@ -149,16 +151,10 @@ Lifewire / Jeremy Laukkonen
 
  When charged over USB-C using an appropriate charger, like my Nintendo Switch charger, the Omni 20+ takes about three hours to charge to full. Charging it with a weaker charger, or over the barrel connector, takes a bit longer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/aZDfINCcUg9uIHRuhVr2k3wmX94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-1-815fe3c777eb4f46a77cb00127bd88c2.jpg)
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## **Charging Speed: True fast charging available for some USB-C devices**
 
  For the most part, the Omni 20+ is able to charge each device as fast as it’s designed to be charged. Older devices that charge over standard USB-A ports will draw between 1 and 3 A, depending on the device, and charge quite slowly. But if you have a Qualcomm 3.0 compatible device, you can plug it into the appropriate USB port and enjoy faster charging.
@@ -178,8 +174,18 @@ Lifewire / Jeremy Laukkonen
  With an MSRP of $200, Omni 20+ is a high-end battery bank with a high-end price. You get a whole lot of functionality for that price, but the device does lag behind in terms of both battery capacity and included accessories. The glaring issue is that you can find more powerful battery banks for less money, even if you won’t find one with the exact same functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Omni 20+ vs. Pilot Pro 2**
 
  With an MSRP of $90, you could buy two[Pilot Pro 2](https://www.lifewire.com/poweradd-pilot-pro2-review-4843548) battery packs for the price of a single Omni 20+. With that disparity in price, it would seem like these devices aren’t even in the same category, but they actually have some important similarities. In fact, the 23,000 mAh battery in the Pilot Pro 2 is even a bit more powerful than the Omni 20+.
@@ -197,8 +203,12 @@ Lifewire / Jeremy Laukkonen
  The Omnicharge Omni 20+ is one of the best power banks out there, and it had better be for the price they’re asking. This is the power bank you need if you count a high wattage USB-C port, barrel connector input and output, wireless charging, and a standard power outlet among your needs. You can find cheaper power banks that provide more juice, but you won’t find one with this same feature set.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  20+ Wireless Power Bank
@@ -210,14 +220,11 @@ Lifewire / Jeremy Laukkonen
 * Output  100W (outlet), 60W (USB-C), 10W (wireless)
 * Warranty  One year
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -225,3 +232,19 @@ Lifewire / Jeremy Laukkonen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/dvanced-guide-to-virtual-backgrounds-in-videography/"><u>[New] Advanced Guide to Virtual Backgrounds in Videography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-grand-photographic-epic-weaver-toolset/"><u>[New] In 2024, Grand Photographic Epic Weaver Toolset</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-leveraging-speech-recognition-in-googles-popular-docs-application/"><u>[Updated] 2024 Approved Leveraging Speech Recognition in Google's Popular Docs Application</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-most-effective-mobile-signal-amplifiers-your-comprehensive-guide/"><u>2024'S Most Effective Mobile Signal Amplifiers: Your Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-top-netgear-routers-ranked-find-your-perfect-home-wifi-solution-today/"><u>2024'S Top Netgear Routers Ranked: Find Your Perfect Home WiFi Solution Today!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-hp-stream-14-economical-windows-notebook-and-its-limitations/"><u>In Depth Look at the HP Stream 14 - Economical Windows Notebook & Its Limitations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s5e-premium-features-at-your-fingertips/"><u>In-Depth Analysis of the Samsung Galaxy Tab S5e: Premium Features at Your Fingertips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-long-range-routers-discover-the-most-efficient-models-on-the-market/"><u>Mastering Long-Range Routers : Discover the Most Efficient Models on the Market</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-sound-visualization-merging-waveforms-for-audio-sight-and-animated-display-using-premiere-pro-for-2024/"><u>Mastering Sound Visualization Merging Waveforms for Audio Sight & Animated Display Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-process-of-win-backup-defaulting/"><u>Navigating the Process of Win Backup Defaulting</u></a></li>
+</ul></div>
+

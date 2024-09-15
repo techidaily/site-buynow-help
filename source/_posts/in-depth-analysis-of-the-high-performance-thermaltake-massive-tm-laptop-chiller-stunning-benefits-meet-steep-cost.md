@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the High-Performance Thermaltake Massive TM Laptop Chiller: Stunning Benefits Meet Steep Cost"
-date: 2024-08-09T00:38:54.623Z
-updated: 2024-08-10T00:38:54.623Z
+date: 2024-09-10T20:16:51.637Z
+updated: 2024-09-15T01:56:25.682Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis of the High-Performance Thermaltake Massive TM Laptop Chiller: Stunning Benefits Meet Steep Cost"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Microsoft Xbox One Elite Series 2 Controller
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/425lsqo6i1_7Vzb3ebrBxtVPgfM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
@@ -40,9 +37,6 @@ Lifewire / Zach Sweat
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Microsoft Xbox One Elite Series 2 Controller
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
@@ -70,9 +64,6 @@ Lifewire / Zach Sweat
 
  We reviewed the original $150 Elite controller when it debuted years ago and loved nearly every aspect of it, but it wasn’t flawless suffering from the lack of a few key features and some durability issues. This is where the newly updated Elite Series 2 controller comes in. Listening to feedback provided by gamers on the weaknesses of Series 1, Microsoft has put out what is likely to be the last iteration of the[Xbox One controller,](https://www.lifewire.com/xbox-one-consoles-4156250) and it’s pretty much perfect—provided you’re willing to pay the hefty price tag.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/t8wI_yN2s_uIQ1leo87MmOnXxb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-5-0c39ec4e89eb45b094471681efec0e7d.jpg)
 
  Lifewire / Zach Sweat
@@ -117,17 +108,23 @@ Lifewire / Zach Sweat
 
  The only real issue some users may see as a downside of this controller is that it’s quite a hefty device. The controller weighs 348 grams with all attachments, so it might take some getting used to compared to the 210 gram S controller. I personally love the bulk, as it feels premium, but it might not be for everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process and Software: Bluetooth, at long last**
 
  One of our biggest gripes with the original Elite controller was that it lacked Bluetooth functionality despite its premium price tag. Seeing how the much cheaper ONE S variant included this, it was even more frustrating. Thankfully, Microsoft listened to our collective rants and added Bluetooth to the Series 2, which drastically improves the number of devices it can be used with.
@@ -146,9 +143,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you plan to buy this controller to use with other electronics that support Bluetooth devices, make sure you do some research before committing to it, as it doesn’t always work with everything. That said, we did manage to pair the controller with a couple other devices that weren’t officially supported.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
 
  Lifewire / Zach Sweat
@@ -183,16 +177,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The argument could be made that considering you get a Bluetooth controller capable of working on XB1 and PC, a charging dock and a nice little case to keep it all together, the cost isn’t awful. But if you want all of those things for less, you can grab an S controller, dock and case for far, far less.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
 
  Since the Elite controller really is in a league of its own, the biggest competitor to it is the first generation, which can still be purchased from a number of retailers. We’re going to quickly compare the two to see which might be best for you.
@@ -206,6 +201,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  **A truly awesome controller with a steep price point.**
 
  Everything we disliked about the original Elite controller has been improved with the second iteration, making it the best first-party controller you can get for XB1 or PC. However, the steep price point might be a hard pill to swallow for users who don’t like to splurge.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -224,14 +226,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Warranty  90-day warranty
 * Compatibility  All Xbox One Consoles, Windows 10 PCs, Bluetooth devices
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -239,3 +238,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capture-and-save-everything-on-your-screen/"><u>[New] In 2024, Capture & Save Everything on Your Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-illustrator-wizards-guide-to-3d-text/"><u>[New] The Illustrator Wizard's Guide to 3D Text</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-four-approaches-to-airing-fb-live-on-tv-channels/"><u>[Updated] In 2024, Four Approaches to Airing FB Live on TV Channels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-lowest-price-offers-on-roku-units-make-the-most-of-prime-day/"><u>Exclusive Lowest Price Offers on Roku Units: Make The Most Of Prime Day!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/future-proof-choices-top-power-inverters-dominating-consumer-picks/"><u>Future-Proof Choices: Top Power Inverters Dominating Consumer Picks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-official-toshiba-printer-software-on-your-pc-a-step-by-step-guide/"><u>How to Install Official Toshiba Printer Software on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-selection-best-desktop-pcs/"><u>In 2024, Exclusive Selection Best Desktop Pcs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-keeping-memories-alive-on-androidmac-with-snaps/"><u>In 2024, Keeping Memories Alive on Android/Mac with Snaps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ioss-top-5-ps2-simulators/"><u>IOS's Top 5 PS2 Simulators</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-tab-4-a-cost-effective-android-tablet-with-considerations/"><u>Lenovo Tab 4 - A Cost-Effective Android Tablet With Considerations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/marvels-avengers-unveiled-striking-a-balance-between-amazing-and-mediocre/"><u>Marvel’s Avengers Unveiled: Striking a Balance Between Amazing and Mediocre</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oneplus-8t-evaluation-revealed-brilliant-velocity-meets-disappointing-image-capture-features/"><u>OnePlus 8T Evaluation Revealed - Brilliant Velocity Meets Disappointing Image Capture Features</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/specialized-partnerships-collaboration-with-subprocessors-for-abbyy-service-optimization/"><u>Specialized Partnerships: Collaboration with Subprocessors for ABBYY Service Optimization</u></a></li>
+</ul></div>
+

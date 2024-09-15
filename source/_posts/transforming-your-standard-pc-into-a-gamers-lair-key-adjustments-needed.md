@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Standard PC Into a Gamers' Lair: Key Adjustments Needed"
-date: 2024-09-04T16:15:11.495Z
-updated: 2024-09-05T16:15:11.495Z
+date: 2024-09-12T18:53:09.539Z
+updated: 2024-09-15T02:07:48.043Z
 tags:
   - games
   - tv
@@ -41,12 +41,6 @@ EA
 
  Two of my current favorite games are a “new to me” title from 2009 and a game from 2004 that I played as a kid.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Check Your Specs
 
  Let’s say you love graphics-heavy, AAA titles, but you only have a standard laptop that’s below spec requirements. One obvious solution is to adjust your settings accordingly. However, this can defeat the purpose of playing these titles to some degree.
@@ -57,18 +51,6 @@ EA
 
 ![A Razer eGPU enclosure on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/https___hybrismediaprod-blob-core-windows-net_sys-master-phoenix-images-container_h57_h88_9084458041374_razer-core-x-gallery-hero.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Razer
 
  Another area laptop gamers should turn their attention is RAM. This acts as your PC’s short-term memory, recalling information as soon as it’s needed. Most standard laptops are equipped with only 8GB of RAM, which is widely considered the bare minimum for gaming.
@@ -79,12 +61,6 @@ Razer
 
 ![A laptop RAM stick sitting on a laptop keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/laptop-ram-sitting-on-a-laptop-keyboard-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  With the GPU and RAM taken care of, the next thing to look at is storage. As with many factors, [how much storage you should have is determined by your specific needs](https://remote-screen-capture.techidaily.com/in-2024-obs-mastery-5-edits-that-will-elevate-your-work/). Depending on how many games you'd like available to play and how much space your games require, you may be able to get by with the 512GB of SSD storage that’s slowly becoming the laptop minimum. However, gamers are generally advised to have 1-2TB of storage especially if they appreciate being able to play a variety of games at any one time..
@@ -93,15 +69,16 @@ Hannah Stryker / How-To Geek
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  If your laptop doesn’t support storage expansion, you can always turn to [cloud gaming platforms](https://facebook-video-recording.techidaily.com/2024-approved-biography-breakthroughs-101-expert-tips-and-tricks-for-facebook-biographers/) like Amazon Luna and NVIDIA GeForce Now. If cloud gaming isn’t your thing or isn't available in your area, you can purchase an [external solid state drive](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/) to free up some space. It's worth noting, though, that you’ll likely have a better experience [building one yourself](https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-14-activation-lock-by-drfone-ios/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Boost Your Setup With Peripherals and Accessories
 
@@ -111,12 +88,6 @@ Jerome Thomas / How-To Geek
 
 ![A desk set up with a laptop and monitor plugged into the Satechi Thunderbolt 4 Multimedia Pro Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53027644659_a9ca8d2076_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  After getting your dock set up, you can start plugging in all the good stuff. [The best accessory for laptop gaming is a controller](https://screen-capture.techidaily.com/in-2024-capturing-your-twitch-sessions-step-by-step/), but those who prefer a keyboard and mouse will likely want to get [a wireless keyboard](https://network-issues.techidaily.com/fixed-error-alert-win-stops-due-to-nvidia-issue/) and [gaming mouse](https://extra-skills.techidaily.com/in-2024-salt-and-surge-2023s-best-surf-cam-tech-review/).
@@ -128,11 +99,18 @@ Hannah Stryker / How-To Geek
 ![An RGB-lit keyboard, gaming headset, mouse, and controller on a desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/shutterstock_1487069789.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/gamer-work-space-concept-top-view-1487069789)_
 
  As with many peripherals, gaming headsets come in both wired and wireless varieties. Most gamers find wired headsets provide better sound quality, but many [prefer the convenience of wireless sets](https://technical-tips.techidaily.com/step-by-step-repair-why-is-my-playstation-5-controller-not-charging/).
@@ -149,8 +127,6 @@ _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,41 +136,17 @@ _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-best-in-class-skype-recorders-ranked/"><u>[New] Best-in-Class Skype Recorders Ranked</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-inhabit-your-island-minimalistic-mc-house-plans-explained/"><u>[New] In 2024, Inhabit Your Island  Minimalistic MC House Plans Explained</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-the-process-of-downloading-instagram-videos-pcmac/"><u>[Updated] Unveiling the Process of Downloading Instagram Videos (PC/Mac)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ahead-of-the-curve-best-hydro-games-compiled/"><u>2024 Approved  Ahead of the Curve  Best Hydro Games Compiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-value-and-high-performance-gaming-mini-computers-reviewed/"><u>Best Value and High-Performance Gaming Mini Computers Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-between-apple-tv-n-4k-and-roku-ultra-features-compared/"><u>Choosing Between Apple TV N 4K and Roku Ultra: Features Compared</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-your-perfect-smartwatch-a-comparison-between-apple-watch-series-9-and-fitbit-charge-6/"><u>Choosing Your Perfect Smartwatch: A Comparison Between Apple Watch Series 9 and Fitbit Charge 6</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-nokia-nokia72-how-it-stands-out-among-competitive-devices/"><u>Comprehensive Guide to the Nokia Nokia7.2: How It Stands Out Among Competitive Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/critical-review-of-imperator-rome-conquering-empires-and-overcoming-great-risks/"><u>Critical Review of 'Imperator: Rome' - Conquering Empires and Overcoming Great Risks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decision-time-how-to-pick-the-ideal-tablet-comparing-features-of-amazon-fire-and-samsung-models/"><u>Decision Time: How to Pick the Ideal Tablet – Comparing Features of Amazon Fire and Samsung Models</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-uninterrupted-speed-with-d-link-powerline-2000-a-user-friendly-setup-guide/"><u>Experience Uninterrupted Speed with D-Link Powerline 2000: A User-Friendly Setup Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-seatechs-external-blu-ray-drive-with-usb-connectivity-a-comprehensive-performance-evaluation/"><u>Expert Analysis of SeaTech's External Blu-Ray Drive with USB Connectivity: A Comprehensive Performance Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-reveal-on-twelve-souths-compass-pro-gear-for-optimal-balance-and-control/"><u>Expert Reveal on Twelve South's Compass Pro Gear for Optimal Balance & Control</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-enjoyment-in-pokemon-diamond-and-pokemon-pearl-a-guide/"><u>Exploring Enjoyment in 'Pokémon Diamond & Pokémon Pearl': A Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-features-a-closer-look-at-the-revolutionary-samsung-galaxy-s24-ultra/"><u>Exploring the Features: A Closer Look at the Revolutionary Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-pro-uge-driver-software-for-windows-computers/"><u>Get the Latest HP Officejet Pro Uge Driver Software for Windows Computers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v27-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V27 Pro in Minutes | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-12plus-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 12+ 5G Fingerprint Lock</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-14-pro-max-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone 14 Pro Max The Right Way</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-creme-de-la-meme-collection-10/"><u>In 2024, The Crème De La Meme Collection - #10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-kobo-nia-reader-can-it-match-up-to-the-amazon-kindle-standards/"><u>In-Depth Analysis of the Kobo Nia Reader - Can It Match Up to the Amazon Kindle Standards?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s7plus-unleashing-a-luxury-android-experience/"><u>In-Depth Analysis of the Samsung Galaxy Tab S7+: Unleashing a Luxury Android Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/iphones-or-samsung-smartphones-making-the-right-purchase-decision/"><u>IPhones or Samsung Smartphones: Making the Right Purchase Decision</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kensun-mobile-pneumatic-inflator-review-proven-quality-for-on-the-go-fixes/"><u>Kensun Mobile Pneumatic Inflator Review: Proven Quality for On-the-Go Fixes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lenovo-tab-m10-hd-2020-reviewed-affordable-quality-for-efficient-web-surfing-and-media-enjoyment/"><u>Lenovo Tab M10 HD 2020 Reviewed - Affordable Quality for Efficient Web Surfing and Media Enjoyment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/miniature-powerhouse-showdown-in-depth-look-at-the-unihertz-atom-xls-robust-performance/"><u>Miniature Powerhouse Showdown: In-Depth Look at the Unihertz Atom XL's Robust Performance</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/navega-a-domingo-con-el-idioma-espanol/"><u>Navega a Domingo Con El Idioma Español</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/owc-mercury-pro-the-pinnacle-of-solid-state-drive-technology-explored-in-review/"><u>OWC Mercury Pro: The Pinnacle of Solid State Drive Technology Explored in Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/power-under-glass-the-ultimate-list-of-processor-optimized-tablets-evaluated/"><u>Power Under Glass: The Ultimate List of Processor-Optimized Tablets Evaluated</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fix-for-mac-programs-that-refuse-to-launch-expert-tips-and-advice/"><u>Quick Fix for Mac Programs that Refuse to Launch: Expert Tips & Advice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/secure-and-savvy-why-the-fintie-case-is-your-best-bet-for-macbook-pro-13-defense-check-out-our-review/"><u>Secure and Savvy: Why the Fintie Case Is Your Best Bet for MacBook Pro 13 Defense Check Out Our Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/sonic-sleuths-den-acquire-and-scrutinize-audio-files-for-2024/"><u>Sonic Sleuths' Den  Acquire & Scrutinize Audio Files for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-choosing-a-superior-keyboard-experience-microsoft-surface-ergo-model-evaluation/"><u>The Definitive Guide to Choosing a Superior Keyboard Experience: Microsoft Surface Ergo Model Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-truth-about-amazon-luna-is-it-the-ultimate-in-effortless-gaming-experience/"><u>The Truth About Amazon Luna: Is It the Ultimate in Effortless Gaming Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-gimp-the-ultimate-no-cost-cross-os-image-editing-software-examined/"><u>Top Rated GIMP: The Ultimate No-Cost, Cross-OS Image Editing Software Examined</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-mouse-options-for-your-ipad-find-the-perfect-match/"><u>Top-Rated Mouse Options for Your iPad: Find the Perfect Match</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-your-network-with-a-thorough-review-of-the-linksys-wrt1900acs-open-source-router/"><u>Unlocking the Potential of Your Network with a Thorough Review of the Linksys WRT1900ACS Open Source Router</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-archive-your-antics-a-practical-guide-to-capturing-and-storing-gif-images-from-twitter/"><u>[New] 2024 Approved Archive Your Antics A Practical Guide to Capturing and Storing GIF Images From Twitter</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/teps-to-restore-visual-clarity-to-youtube-videos-for-2024/"><u>[New] Steps to Restore Visual Clarity to YouTube Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-essential-steps-for-resizing-videos-in-igtv/"><u>2024 Approved Essential Steps for Resizing Videos in IGTV</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>2024 Approved Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/futureproofing-your-home-with-premium-cordless-phones-of-2024-what-to-buy-now/"><u>Futureproofing Your Home with Premium Cordless Phones of 2024: What to Buy Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/has-the-voip-leader-changed-a-comparison-beyond-vonage/"><u>Has The VoIP Leader Changed? A Comparison Beyond Vonage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-behind-the-scenes-of-360-degree-media/"><u>In 2024, Behind the Scenes of 360-Degree Media</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-reliable-omoton-t1-tablet-holder-great-value-at-an-unbeatable-price/"><u>In-Depth Evaluation of the Reliable Omoton T1 Tablet Holder: Great Value at an Unbeatable Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-dying-light-the-ultimate-first-person-team-up-survival-journey/"><u>In-Depth Review of Dying Light: The Ultimate First-Person, Team-Up Survival Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-decks-new-frontier-external-memory-expansion/"><u>Steam Deck's New Frontier: External Memory Expansion</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-streamline-your-videos-5-best-free-compression-apps-for-ios-devices/"><u>Updated In 2024, Streamline Your Videos 5 Best Free Compression Apps for iOS Devices</u></a></li>
 </ul></div>
+

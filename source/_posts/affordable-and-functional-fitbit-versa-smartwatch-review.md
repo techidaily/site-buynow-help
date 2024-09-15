@@ -1,7 +1,7 @@
 ---
 title: Affordable and Functional Fitbit Versa Smartwatch Review
-date: 2024-08-09T00:38:56.282Z
-updated: 2024-08-10T00:38:56.282Z
+date: 2024-09-08T21:32:33.861Z
+updated: 2024-09-15T08:31:46.906Z
 categories:
   - BestProducts
 description: This Article Describes Affordable and Functional Fitbit Versa Smartwatch Review
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/5kvEiL71-ITPHxJfT_o-20Cs33g=/400x300/fi
 
 ## Fitbit Charge 4 Fitness Tracker
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Fitbit Charge 4](https://www.lifewire.com/thmb/yo9CS9ZHHalRYthVdaCfit6zr7Y=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Fitbit-Charge-4-Fitness-Tracker-1-c163fbceed1748a6bd3de7883ab66a4d.jpg)
 
 Lifewire / Anduy Zahn
@@ -42,14 +39,8 @@ Lifewire / Anduy Zahn
 
 4.7
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Fitbit Charge 4 Fitness Tracker
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Fitbit Charge 4](https://www.lifewire.com/thmb/3KZYnLSyn9OGGXZdp02JH2_4wB8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Fitbit-Charge-4-Fitness-Tracker-1-c163fbceed1748a6bd3de7883ab66a4d.jpg)
 
 Lifewire / Anduy Zahn
@@ -73,10 +64,6 @@ Lifewire / Anduy Zahn
 
  Before testing out the Fitbit Charge 4, I had long been a skeptic of wearable exercise technology. However, after a few weeks with this awesome little device, I’m now a firm believer in its merits as both a means towards achieving a healthier lifestyle and as a minimalist smartwatch. It has succeeded in putting me on the path towards meaningful weight loss where countless diets and New Years' resolutions have failed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## **Design: Minimalist masterpiece**
 
  The Fitbit Charge 4 is sleek and stylish with a futuristic flare. The patterned strap is attractive and catches the light in interesting ways. The square screen is practical, but may not appeal to folks who prefer round watches. It feels pretty durable, and it's waterproof down to 50 meters. After a number of rigorous outdoor adventures, it's come through unscathed. The Charge 4 comes with a charging station and both small and large wristbands. It’s easy to swap the wrist bands out, and Fitbit sells a variety of alternative styles.
@@ -89,9 +76,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup process: Streamlined and straightforward**
 
  My[Samsung Galaxy Note 9](https://www.lifewire.com/samsung-galaxy-note-9-review-4683995) immediately noticed that the Charge 4 was nearby when I powered the smartwatch up, and a tap of the screen of my phone took me to the download page for the app. Once installed, the app guided me through the setup process. You’ve got to enter a bunch of information about yourself, including name, birth date, weight, and gender. Next, the app shows a helpful animation of how to attach the charger. I like the smiley face the device gives you when it starts charging; it’s a small touch, but it gives the Charge 4 a little jolt of personality.
@@ -118,23 +102,50 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Fitbit Charge 4](https://www.lifewire.com/thmb/UlCfm0YzhPSZMR3WWRs3oeCWPsA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Charge-4-Fitness-Tracker-2-6afa07ba83e74effb1bd3521b2b43391-3287de2174dc42359f46f06e6576d80b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Intuitive but ad infested**
 
  Both the interface of the watch and the companion app for[IOS](https://www.lifewire.com/what-is-ios-1994355) and[Android](https://www.lifewire.com/what-is-google-android-1616887) function nearly flawlessly. Menus are easy to navigate, and data is both in-depth while also being easy to access and analyze. Though the hardware itself is a marvel of design and miniaturization, the software is where the magic happens. The Charge 4 essentially turns weight loss and healthy living into a game, and for me, this is an addictive and rewarding game indeed.
 
  One thing to consider is that some features such as sleep score details and custom challenges are locked behind a steep paywall that will run you $10 a month or $80 per year. It’s pretty easy to set up a subscription like this, never use it, and forget to cancel it until years later when you’ve spent a hefty chunk of change on the service. Annoyingly, the ad for this premium service is permanently affixed to the toolbar in the app.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Fitbit Charge 4](https://www.lifewire.com/thmb/wFO4EEqsgPPy2Dq-eUgUTZ1q70A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Charge-4-Fitness-Tracker-3-38e2a0e1ea5a46ee85939b8dec6d6a48.jpg)
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery Life: Awesome, but with caveats**
 
@@ -142,13 +153,17 @@ Lifewire / Andy Zahn
 
  However, I did run into a few issues worth mentioning. First of all, when the battery drops below 20% the Charge 4 seems to go into a power-saving mode that limits functionality. Secondly, using features like exercise tracking that use the GPS will drain the battery much more quickly. When I embarked with a full charge on a two-day backpacking trip and set the Charge 4 to record the hike as an exercise it only lasted me through roughly 75% of the two days of trekking.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Good value**
 
  With an MSRP of $150 the Fitbit Charge 4 is somewhat expensive but fairly priced for a basic smartwatch. However, extra accessories and subscription services can quickly add to the cost.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Fitbit Charge 4 vs. Fossil Sport**
 
  For a more fully-featured smartwatch with a more classic watch design, the[Fossil Sport](https://www.lifewire.com/fossil-sport-review-5069585) is an attractive alternative to the Fitbit Charge 4\. Using Google’s[Wear OS](https://www.lifewire.com/complete-guide-to-android-wear-4086408) and utilizing a full color LED displace, the Fossil Sport is a far more versatile device. However, the Charge 4 has the benefit of simplicity that lends a much more intuitive experience.
@@ -177,11 +192,23 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-zenith-of-zoom-background-blurring-techniques/"><u>[New] In 2024, The Zenith of Zoom Background Blurring Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-5-recorder-picks-to-freeze-your-web-wanderings-in-time/"><u>[Updated] 2024 Approved Top 5 Recorder Picks to Freeze Your Web Wanderings in Time</u></a></li>
+<li><a href="https://win-blog.techidaily.com/altering-default-sheet-counts-a-guide-to-customizing-workbooks-when-starting-with-excel/"><u>Altering Default Sheet Counts: A Guide to Customizing Workbooks When Starting with Excel</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-tp-link-archer-ax6000-evaluation-superior-or-inferior-to-netgears-nighthawk-ax12/"><u>Comprehensive TP-Link Archer AX6000 Evaluation - Superior or Inferior to Netgear's Nighthawk AX12?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-performance-assessment-third-gen-apple-tv-4k-for-enthusiasts-and-casual-viewers/"><u>Detailed Performance Assessment: Third-Gen Apple TV 4K for Enthusiasts and Casual Viewers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-professional-screenrecorder-x2-breakdown/"><u>In 2024, Professional ScreenRecorder X2 Breakdown</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mobvoi-ticwatch-pro-with-lte-an-in-depth-analysis-and-top-smartwatch-pick/"><u>Mobvoi Ticwatch Pro with LTE: An In-Depth Analysis and Top Smartwatch Pick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-microsoft-directx-and-directinput-dll-file-errors/"><u>Step-by-Step Solution for Microsoft DirectX and DirectInput .dll File Errors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-rounder-starter-watch-in-depth-review-and-analysis-of-the-amazfit-bips-features/"><u>The All-Rounder Starter Watch: In-Depth Review and Analysis of the Amazfit Bip's Features</u></a></li>
+</ul></div>
+

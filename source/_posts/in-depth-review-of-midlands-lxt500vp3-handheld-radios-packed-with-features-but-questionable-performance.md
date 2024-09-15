@@ -1,7 +1,7 @@
 ---
 title: In Depth Review of Midland's LXT500VP3 Handheld Radios – Packed with Features but Questionable Performance
-date: 2024-08-09T00:38:58.310Z
-updated: 2024-08-10T00:38:58.310Z
+date: 2024-09-13T05:42:13.270Z
+updated: 2024-09-15T02:10:36.001Z
 categories:
   - BestProducts
 description: This Article Describes In Depth Review of Midland's LXT500VP3 Handheld Radios – Packed with Features but Questionable Performance
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/liJwE98Sv8EgOXIWVzrkFGGXxEo=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Netgear Powerline PL1200
 
 ![Netgear Powerline 1200](https://www.lifewire.com/thmb/LJwkWIKV_tIoZmxEqV9kr7ByA1Y=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_Powerline1000_HeroSquare-d40232740fc34cdbb9b7197a7bda177d.jpg)
@@ -39,9 +36,6 @@ Lifewire / Jordan Oloman
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Netgear Powerline PL1200
 
 ![Netgear Powerline 1200](https://www.lifewire.com/thmb/rYExgRawgStvNWLyEyCyiiEqyOI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_Powerline1000_HeroSquare-d40232740fc34cdbb9b7197a7bda177d.jpg)
@@ -68,9 +62,6 @@ Lifewire / Jordan Oloman
 
  The Netgear Powerline 1200 Kit serves as a chunky plug-in adapter that offers impressive speeds over wired Ethernet, at the cost of your power sockets. We put it to the test to see if it’s worth the price.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear Powerline 1200](https://www.lifewire.com/thmb/pTY-hBlPDWY0Ns6j4BVyAl75U-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_Powerline1000_04-cd509045b4a3477fab85fdf3c69cacb4.jpg)
 
  Lifewire / Jordan Oloman
@@ -87,9 +78,6 @@ Lifewire / Jordan Oloman
 
  There’s also only one Ethernet port on the Netgear kit, which means that you can only improve the wired connection of one device—a poor payoff for all of the manoeuvering you may have to do, especially when there’s certainly space for another port. Overall, the design is obtrusive and frustrating, which is a shame given how reliable adapter is.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear Powerline 1200](https://www.lifewire.com/thmb/LMrQEcpONDZxLUfoMW6U8sX4dQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_Powerline1000_02-a8557f722ac84f29b6efb2a763d22a3c.jpg)
 
  Lifewire / Jordan Oloman
@@ -106,10 +94,14 @@ Lifewire / Jordan Oloman
 
  The only unfortunate thing to note is that the Ethernet cables supplied in the box are tiny, and will not stretch very far. We’d go so far as to say that you should purchase longer Ethernet cables in advance. It seems short-sighted to offer the promise of an expanded network without the cables that are long enough to enable it. We ended up swapping them out with some we had laying around the house.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netgear Powerline 1200](https://www.lifewire.com/thmb/LvSmrJJnFItVzQEAPCzBexfSn2M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_Powerline1000_03-8fb5af44f82449b49fc780fd23bcb2af.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jordan Oloman
 
@@ -124,6 +116,13 @@ Lifewire / Jordan Oloman
  You can create a secure and powerful network that boasts a dramatic upgrade in efficacy, all for a low price point, with a setup process that is actually plug and play. It also has some energy-saving features built in to bring your costs down when you’re not using the network. With an upper limit of 1.2Gbps in download, the sky really is the limit with this adapter, and it can even be applied in a small business setting where the network is already very strong.
 
  You can create a secure and powerful network that boasts a dramatic upgrade in efficacy, all for a low price point, with a setup process that is actually plug and play.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Affordable for what you get**
 
@@ -143,9 +142,6 @@ Lifewire / Jordan Oloman
 
  The Netgear Powerline 1200 is incredibly reliable, albeit poorly designed. It is obstructive in the design department, fairly ugly to look at and comes with just one connection and awfully short Ethernet cables. Yet it has a true plug and play setup process with no compromises, and offers a reliable upgrade to your home network speeds. If you can look past the strange design choices this is the perfect introductory kit for Powerline beginners that does everything you need it to.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Powerline PL1200
@@ -161,11 +157,28 @@ Lifewire / Jordan Oloman
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-cross-platform-movie-capture/"><u>[New] 2024 Approved The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pazera-unchained-master-your-music-extraction-techniques-for-2024/"><u>[Updated] Pazera Unchained Master Your Music Extraction Techniques for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieve-peaceful-nights-with-expert-recommended-asmr/"><u>Achieve Peaceful Nights with Expert-Recommended ASMR</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/auditory-instructions-for-effective-chatgpt-commanding/"><u>Auditory Instructions for Effective ChatGPT Commanding</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-cams-what-to-look-for/"><u>Budget-Friendly Cams: What to Look For</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-nokia-nokia72-how-it-stands-out-among-competitive-devices/"><u>Comprehensive Guide to the Nokia Nokia7.2: How It Stands Out Among Competitive Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decision-time-how-to-pick-the-ideal-tablet-comparing-features-of-amazon-fire-and-samsung-models/"><u>Decision Time: How to Pick the Ideal Tablet – Comparing Features of Amazon Fire and Samsung Models</u></a></li>
+<li><a href="https://extra-information.techidaily.com/excellence-in-detail-a-curated-list-of-8k-cameras/"><u>Excellence in Detail A Curated List of 8K Cameras</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fresh-start-on-your-iphone-15-heres-how-to-perform-a-smooth-reboot/"><u>Fresh Start on Your iPhone 15? Here’s How to Perform a Smooth Reboot!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-15-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone 15 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-fintie-shield-suitable-for-your-macbook-air-13-exploring-durability-and-affordability-in-our-review/"><u>Is the Fintie Shield Suitable for Your MacBook Air 13? Exploring Durability and Affordability in Our Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/miniature-powerhouse-showdown-in-depth-look-at-the-unihertz-atom-xls-robust-performance/"><u>Miniature Powerhouse Showdown: In-Depth Look at the Unihertz Atom XL's Robust Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-inactivity-in-new-os-sleep-mode/"><u>Overcoming Device Inactivity in New OS Sleep Mode</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unable-to-configure-drivers-no-intel-adapter-present/"><u>Unable to Configure Drivers; No Intel Adapter Present</u></a></li>
+</ul></div>
+

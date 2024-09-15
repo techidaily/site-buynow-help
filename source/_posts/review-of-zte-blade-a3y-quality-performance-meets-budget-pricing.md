@@ -1,7 +1,7 @@
 ---
 title: "Review of ZTE Blade A3Y: Quality Performance Meets Budget Pricing"
-date: 2024-08-27T06:47:56.429Z
-updated: 2024-08-28T06:47:56.429Z
+date: 2024-09-11T17:49:18.329Z
+updated: 2024-09-15T05:45:23.348Z
 categories:
   - BestProducts
 description: "This Article Describes Review of ZTE Blade A3Y: Quality Performance Meets Budget Pricing"
@@ -66,9 +66,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: All the basics**
 
  The Apeman C450 has a three-inch screen that’s bright, detailed, and provides an at-a-glance view of the camera’s status. If it were much bigger, it would be both a distraction and dangerous visual obstruction.
@@ -85,14 +82,8 @@ Lifewire / Danny Chadwick
 
 ![Apeman C540 Dashcam](https://www.lifewire.com/thmb/A63ztrIxThbZlrb_lHJH3YL7778=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4062264_02-6ef4e204d0bd452b9601ec468e5358bf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process: You’ll have to figure a lot of stuff out for yourself**
 
  The user manual included with the Apeman C450 isn’t particularly useful, and though its written in English, the language is full of confusing phrases that feel like poor translations. The features are not fully explained and there are key omissions in the instructions that make understanding and using this dashcam much harder.
@@ -116,13 +107,14 @@ Lifewire / Danny Chadwick
 ![Apeman C540 Dashcam](https://www.lifewire.com/thmb/Hp7FvJ_BMgl0S2-Dsd-hd2qiQ7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4062264_04-82d0af63043344a6b7b44863790050d7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance: Travels as well as the rest of them**
 
  During our testing, the Apeman C450 performed exactly as we expected. It never shut down unexpectedly, it stayed attached to the windshield, and it yielded no problems during the drive.
@@ -148,8 +140,12 @@ Lifewire / Danny Chadwick
  The defects of this dashcam can be forgiven pretty easily considering that it costs less than $50\. If you’re looking for a very inexpensive device, the Apeman C450 is a decent if somewhat flawed solution—it’s definitely not built as solidly and lacks the high resolution of its more expensive competitors, but if you are comfortable working around those shortcomings, this dashcam performs pretty well for the price.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Apeman C450 vs. Z-Edge Z3 Plus**
 
  We tested the Apeman C450 side by side with the Z-Edge Z3 Plus dashcam. The Z3 Plus is considerably more expensive, and while we found these two devices to be generally similar in form and function, we ultimately favored the Z3 Plus because it lacks the small annoyances that made the Apeman C450 frustrating.
@@ -163,6 +159,13 @@ Lifewire / Danny Chadwick
  **A decent budget dashcam with some flaws that are annoying but not necessarily deal-breaking.**
 
  Despite a poor-quality build and some design quirks, the Apeman C450 does its job as a dashcam. It has a discreet design, captures pretty good-quality video, and has important extra features like collision detection and a surveillance mode. If you can get past some of its foibles, it's definitely worth the price tag.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -186,14 +189,11 @@ Lifewire / Danny Chadwick
 * Storage  Up to 32GB SDHC card (Class 10)
 * Warranty  12 months
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -204,37 +204,18 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-prime-communication-tools-for-remote-teams/"><u>[New] Prime Communication Tools for Remote Teams</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-final-word-on-vegaspro-2019/"><u>[Updated] The Final Word on VegasPro 2019</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-to-using-obs-for-gamers/"><u>2024 Approved  The Ultimate Guide to Using OBS for Gamers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-videography-6-tips-for-making-macro-video/"><u>2024 Approved  Videography  6 Tips for Making Macro Video</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/amazon-fire-vs-samsung-tablets-a-comprehensive-guide-to-choosing-the-best-device/"><u>Amazon Fire Vs. Samsung Tablets: A Comprehensive Guide to Choosing the Best Device</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/best-unplugged-android-gaming-apps-no-internet-required-for-2024/"><u>Best Unplugged Android Gaming Apps (No Internet Required) for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhanced-motivation-with-inbuilt-gps-and-comprehensive-wellness-features-on-fitbit-versa-3/"><u>Enhanced Motivation with Inbuilt GPS & Comprehensive Wellness Features on Fitbit Versa 3</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-microsofts-sculpt-keyboard-exceptionally-priced-unrivaled-quality-guaranteed/"><u>Expert Analysis on Microsoft's Sculpt Keyboard - Exceptionally Priced, Unrivaled Quality Guaranteed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-our-picks-for-the-most-advanced-wireless-handsets-available-now/"><u>Explore Our Picks for the Most Advanced Wireless Handsets Available Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-the-best-of-online-shopping-a-guide-to-6-premier-websites-for-television-purchases/"><u>Explore the Best of Online Shopping: A Guide to 6 Premier Websites for Television Purchases</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-class-and-functionality-in-the-flexispot-theodore-an-in-depth-look-at-todays-trendy-standing-desks/"><u>Exploring Class and Functionality in the Flexispot Theodore: An In-Depth Look at Today's Trendy Standing Desks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-smooth-fixes-to-groundbreaking-code-overhauls/"><u>From Smooth Fixes to Groundbreaking Code Overhauls</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-inexpensive-2019-kindle-from-amazon-measures-up-readers-guide/"><u>How The Inexpensive 2019 Kindle From Amazon Measures Up: Reader's Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-broadcasted-theatrical-skits/"><u>In 2024, Excellence in Broadcasted Theatrical Skits</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-the-mophie-ac-powerstation-review-is-it-worth-its-premium-cost/"><u>Inside the Mophie AC Powerstation Review: Is It Worth Its Premium Cost?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/iphones-seamless-transition-plan-explored/"><u>IPhone's Seamless Transition Plan Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kensuns-mobile-air-pump-reviewed-unyielding-performance-meets-convenience-on-wheels/"><u>Kensun's Mobile Air Pump Reviewed: Unyielding Performance Meets Convenience on Wheels</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-g580-seamless-driver-updates/"><u>Lenovo G580: Seamless Driver Updates!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/logitech-c615-webcam-overview-evaluating-its-performance-for-every-budget-shopper/"><u>Logitech C615 Webcam Overview: Evaluating Its Performance for Every Budget Shopper</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/master-internet-surfing-and-enjoy-media-streams-with-the-budget-friendly-lenovo-tablet-detailed-2020-tab-m10-hd-review/"><u>Master Internet Surfing and Enjoy Media Streams with the Budget-Friendly Lenovo Tablet - Detailed 2020 Tab M10 HD Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-visuals-with-lgs-premium-65-inch-oled-c9-smart-tv-a-comprehensive-4k-experience/"><u>Mastering Visuals with LG's Premium 65-Inch OLED C9 Smart TV - A Comprehensive 4K Experience</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-behind-the-scenes-sound-management-expert-insights-into-using-ducking-effects/"><u>New 2024 Approved Behind-the-Scenes Sound Management Expert Insights Into Using Ducking Effects</u></a></li>
-<li><a href="https://article-tips.techidaily.com/quick-tips-uploading-to-apple-podcast-network-for-2024/"><u>Quick Tips  Uploading to Apple Podcast Network for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-the-criacr-bluetooth-fm-transmitter-cp24-small-design-noticeable-issues/"><u>Review of the CRIACR Bluetooth FM Transmitter CP24: Small Design, Noticeable Issues</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/skagen-falster-3-review/"><u>Skagen Falster 3 Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-enhancing-your-arduino-device-through-usb-drivers-for-windows-users/"><u>Step-by-Step Guide: Enhancing Your Arduino Device Through USB Drivers for Windows Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-extollo-lansocket-1500-review-a-deep-dive-into-high-performance-ethernet-solutions-with-quick-response-times/"><u>The Extollo LANSocket 1500 Review: A Deep Dive Into High-Performance Ethernet Solutions with Quick Response Times</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-nokia-71-experience-a-review-focusing-on-superior-display-high-quality-cameras-and-value-for-money/"><u>The Nokia 7.1 Experience: A Review Focusing on Superior Display, High-Quality Cameras & Value for Money</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-elgoog-insight-mastering-the-features-of-the-top-mirror-website/"><u>The Ultimate ElgooG Insight: Mastering the Features of the Top Mirror Website</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-smart-home-weather-monitors-in-2n24-your-ultimate-guide/"><u>Top Rated Smart Home Weather Monitors in 2N24: Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-highest-quality-karaoke-devices/"><u>Ultimate Guide to the Highest Quality Karaoke Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-potential-the-remarkable-capabilities-of-the-m1-powered-2020-macbook-air-reviewed/"><u>Unlocking Potential: The Remarkable Capabilities of the M1-Powered 2020 MacBook Air Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-perfection-an-in-depth-analysis-of-google-pixel-3/"><u>Unveiling the Perfection: An In-Depth Analysis of Google Pixel 3</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>[New] In 2024, Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reimagining-audio-editing-the-impact-of-magix-music-maker-2024/"><u>[New] Reimagining Audio Editing The Impact of Magix Music Maker 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-prime-screen-snaps-on-apple-devices-max-length-156/"><u>[Updated] 2024 Approved Prime Screen Snaps on Apple Devices (Max Length 156)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-microsoft-teams-sessions-recording/"><u>[Updated] In 2024, Microsoft Teams Sessions Recording</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-moto-g13-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola Moto G13</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722149717168-cleared-twitter-of-checkmarks-linuss-revelations-trojan-analysis-and-ai-shortcom-writes/"><u>Cleared Twitter of Checkmarks, Linus’s Revelations, Trojan Analysis, & AI Shortcom Writes.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/doggie-diaries-live-capturing-puppy-playtime/"><u>Doggie Diaries Live: Capturing Puppy Playtime</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevating-your-videography-through-audio-storytelling/"><u>Elevating Your Videography Through Audio Storytelling</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-motorola-edgeplus-does-it-match-top-tier-standards/"><u>Evaluating Motorola Edge+: Does It Match Top-Tier Standards?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-owc-mercury-pro-cutting-edge-drive-innovation-and-peak-performance-capabilities/"><u>Evaluating the OWC Mercury Pro: Cutting-Edge Drive Innovation and Peak Performance Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-performance-and-features-of-a-battery-operated-google-nest-doorbell/"><u>Evaluating the Performance and Features of a Battery Operated Google Nest Doorbell</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-hd-webcam-c270-driver-download-for-windows-1011/"><u>Logitech HD Webcam C270 Driver Download for Windows 10/11</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v30-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V30 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+

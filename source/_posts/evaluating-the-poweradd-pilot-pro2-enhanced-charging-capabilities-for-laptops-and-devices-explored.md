@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the POWERADD Pilot Pro2: Enhanced Charging Capabilities for Laptops and Devices Explored"
-date: 2024-08-09T00:38:54.007Z
-updated: 2024-08-10T00:38:54.007Z
+date: 2024-09-12T22:30:18.278Z
+updated: 2024-09-15T02:26:36.493Z
 categories:
   - BestProducts
 description: "This Article Describes Evaluating the POWERADD Pilot Pro2: Enhanced Charging Capabilities for Laptops and Devices Explored"
@@ -69,9 +69,6 @@ Lifewire / Emily Ramirez
 
  Lifewire / Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Sleek and convenient**
 
  The Sound Blaster ZxR features a black and red chassis on its main and daughter boards, brightly accented in gold around the transistors and back plate. Together, the cards have enough outputs to natively support a 5.1 surround sound speaker system. They have 2 RCA outputs, 2 3.5mm outputs, two RCA inputs, one optical TOSLINK input, one optical TOSLINK output, one 6.3mm microphone input, and one 6.3 headphone output jack. The ZxR also comes with an Audio Control Module (ACM), which is Creative Labs’ take on an amplifier and on extending the 6.3mm connections. It has both 3.5mm and 6.3mm inputs and outputs so you can choose where you’d like to plug in your headphones and microphone. On the ACM’s face lies a big, plastic volume knob that controls the headphones’ loudness.
@@ -84,9 +81,6 @@ Lifewire / Emily Ramirez
 
  Lifewire / Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process/Installation: Easy install, irritating setup**
 
  To install the hardware, we popped open our mid-size PC tower and inserted the sound card and daughter board into two available PCIe slots. Creative Labs had the foresight to build the main card with a PCIe 1x slots, giving the user flexibility in where they connect their cards to the motherboard. Once the cards were secured, we plugged the headphones and microphone into the corresponding jacks.
@@ -95,10 +89,14 @@ Lifewire / Emily Ramirez
 
  Unfortunately, configuring Creative Labs’ drivers and software suite was a much less intuitive process. The ZxR’s outputs are controlled via the Sound Blaster Z-series Software, where users can select whether they’re listening with their headphones or their speakers, apply EQ effects, and more. By default, the software is set to output to speakers with several different EQ effects turned on. We had to manually switch it to headphone output and turn off EQ; the software does not automatically detect which jacks are in use.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/6uorHzKoJdW1FBv0B5ZfeoE8XzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-3-17de2156e4294b5c85f151bd0cd97aa4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
 
@@ -108,16 +106,17 @@ Lifewire / Emily Ramirez
 
  Should you happen to own dynamic headphones, you should find their impedance curve. Dynamic headphones with a high impedance may be distorted by the ACM, thanks to the ACM’s high resistance. How your headphones will be affected depends on their impedance curve: for the HD800s, for example, there is a peak at 100Hz (this range captures electric bass and the lower octaves of guitars), so the upper bass range is boosted relative to the other frequencies in the audio. Increasing the volume on the ACM reduces its output resistance and in turn reduces the distortion, but it may be easier to plug equipment directly into the sound card and use the system volume instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1CZw4BSxxTqlBF1kxT0_rl73XCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-5-e1022e9adc854517af98407c4be32691.jpg)
 
  Lifewire / Emily Ramirez
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Lots of options with mixed utility**
 
  For the tinkerers out there, Sound Blaster provides a myriad of audio adjustments through their Z-Series software package. Here, you can EQ any frequency between 20 and 20,000 Hz or activate “Crystallization,” “Scout Mode,” and “Theater Mode.” Crystallization adds punch to the audio’s treble, making voices stand out against the background. Theater Mode is similar to Crystallization, but it tries to_only_ boost voices instead of the entire treble range. We found it great for watching videos. Meanwhile, Scout Mode is squarely aimed at gamers. It theoretically makes enemy noises like footsteps louder.
@@ -126,16 +125,17 @@ Lifewire / Emily Ramirez
 
  When testing Scout Mode in_Overwatch_ , we did not find the adjustment helpful; Scout Mode made our enemies’ and our allies’ movements louder, making it harder to tell where the enemy was coming from. Without adjustments,_Overwatch’s_ audio already makes the enemies’ movements louder than your allies’, making Scout Mode not only ineffective but an active detriment to gameplay. Other games that strongly rely on situational awareness have also likely invested the time into making enemies’ movements noticeable. Overall the software modifications Sound Blaster provides are situationally useful but not the comprehensive range of options we’d like to see at this price point.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Unjustified expense**
 
  The Sound Blaster ZxR retails for about $250, on par with other high-end consumer audio cards. Its 6.3mm audio and microphone jacks, coupled with support for headphone impedance of up to 600 ohms, gives the listener flexibility in the rest of their audio setup: no need for 6.3mm to 3.5mm adapters or extension cords. One major hardware disappointment is its lack of 7.1 surround compatibility, which is something many sound card enthusiasts prize in a high-end sound card. There are also a number of other products with better sound quality for less than the ZxR’s $250 MSRP.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition:** **Falls short of less expensive options**
 
  As we’ve already emphasized, it’s difficult to recommend the aging ZxR at its inflated $250 MSRP. You can find a number of sound cards for significantly less that provide competitive performance, though they generally don’t offer the same robust software package as the ZxR.
@@ -156,14 +156,18 @@ Lifewire / Emily Ramirez
 
  The Sound Blaster ZxR is a quality, expensive sound card, with comprehensive software features and the hardware to power great consumer headsets and microphones. The ZxR sounds good, and gamers will not be disappointed by the ZxR’s power, but audio purists and 7.1 surround fans can find cleaner performance with fewer bells and whistles for the $250 asking price of the ZxR. It’s a card that hasn’t aged well since it’s 2013 release, and one that’s been largely overshadowed by some of its competitors in the interim.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Sound Blaster Z](https://www.lifewire.com/sound-blaster-z-review-4769764)
 * [Sound Blaster Audigy RX](https://www.lifewire.com/sound-blaster-audigy-rx-review-4769814)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Sound Blaster ZxR
@@ -187,14 +191,11 @@ Lifewire / Emily Ramirez
 * Software  Sound Blaster Z-Series Software
 * What’s Included  Sound Blaster ZxR sound card, Sound Blaster DBpro card, Sound Blaster Audio Control Module, 1Optical Cable, 1x Stereo(3.5mm)-to-RCA cable, 1x DBpro cable, Quick Start Leaflet, Installation CD containing: Drivers for Windows 7 and Windows 8, Creative Software Suite, User's Guide
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -202,3 +203,15 @@ Lifewire / Emily Ramirez
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>[Updated] Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pro-video-recording-methods-for-multiple-systems-for-2024/"><u>[Updated] Pro Video Recording Methods for Multiple Systems for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ar-5-review-by-arcshell-premium-augmented-reality-for-less/"><u>AR-5 Review by ArcShell - Premium Augmented Reality for Less!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experiencing-next-level-visuals-with-the-power-upgraded-playstation-4/"><u>Experiencing Next-Level Visuals with the Power Upgraded PlayStation 4</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-novice-to-pro-a-guide-to-github-desktop-and-windows-integration/"><u>From Novice to Pro: A Guide to GitHub Desktop & Windows Integration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-your-device-importing-to-inshot-app-for-2024/"><u>Harmonizing Your Device Importing to InShot App for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/shop-smart-this-prime-day-get-high-quality-benq-monitors-and-projectors-at-steep-markdowns/"><u>Shop Smart This Prime Day: Get High-Quality BenQ Monitors & Projectors at Steep Markdowns!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2024-09-09T04:11:24.532Z
-updated: 2024-09-10T04:11:24.532Z
+date: 2024-09-09T10:24:05.827Z
+updated: 2024-09-15T05:29:56.093Z
 tags:
   - games
   - tv
@@ -13,18 +13,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What You Need](https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/)
@@ -61,12 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 2: Import the Mod Fixer
 
  The mod fixer is necessary for many mods to work in the game, since it forces the game to recompile the campaign data, without which some mods would not work. To install it, Select File>Import Mod in the mod manager.
@@ -77,12 +59,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
@@ -94,35 +70,38 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![BG3 export mod order menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-export-mod-order-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You should see a green message pop up at the bottom of the window in the mod manager.
 
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This means we're ready to go!
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Step 5: Test the Game
 
  Everything on the modding side of the process should now be done, which means it's time to start up the game to see if it's working. You'll get a warning that mods have been detected, which is a good sign! You can choose to never show this message again, but I think it's worth the hassle of the extra click so that you know whether you're starting up a modded version of Baldur's Gate or not.
@@ -130,11 +109,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![BG3 mod warning message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-warning.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you're in the game, you can either load up your save game and wait until you get to a section of narration, or you can quickly start a new game with a preset character, run to the first nursery in front of your pod, and check for the voice this way. As you can see in this clip.
 
 Your browser does not support the video tag. 
@@ -147,12 +127,6 @@ Your browser does not support the video tag.
 
 ![BG3 mod deletion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-deletion-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see two check boxes. Make sure the permanent deletion box is checked if you want to remove the mod files completely. Otherwise, simply leave the box to remove the mod from the load order checked. Then confirm your choice. Finally, export the mod order to the game again.
 
  Now the original narrator should be back, and in my testing, this did not affect my save games. However, keep in mind that certain mods may make save games impossible to use with the vanilla game! If you want to know more about PC gaming mods in general, check out my [modding primer](https://facebook-clips.techidaily.com/2024-approved-streaming-aerial-adventures-on-fb-from-dji-drone/) and if you're interested in AI technology in video games, you might want to see how [AI will change game development](https://some-guidance.techidaily.com/2024-approved-the-evolved-2023-samsung-bd-j5900-a-deep-dive/).
@@ -163,8 +137,6 @@ Your browser does not support the video tag.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,34 +146,18 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-studio-lights-for-online-filmmakers-for-2024/"><u>[Updated] Cutting-Edge Studio Lights for Online Filmmakers for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagrams-latest-trends-for-successful-influencer-journeys-for-2024/"><u>[Updated] Instagram's Latest Trends for Successful Influencer Journeys for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-from-confinement-to-comedy-selecting-lighthearted-fb-incarceration-moments/"><u>2024 Approved  From Confinement to Comedy  Selecting Lighthearted FB Incarceration Moments</u></a></li>
-<li><a href="https://fox-info.techidaily.com/acknowledgment-series-free-vs-paid-template-choices/"><u>Acknowledgment Series  Free vs Paid Template Choices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessing-the-large-stanley-j5c09-a-blend-of-space-and-strength/"><u>Assessing the Large Stanley J5C09: A Blend of Space and Strength</u></a></li>
-<li><a href="https://program-issues.techidaily.com/back-in-action-origin-online-sign-in-now-restored/"><u>Back in Action: Origin Online Sign-In Now Restored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bluetooth-beats-discover-the-lx310bts-charm/"><u>Bluetooth Beats: Discover the LX310BT's Charm</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-lenovo-p11-pro-great-aspects-and-small-flaws-uncovered/"><u>Comprehensive Evaluation of the Lenovo P11 Pro: Great Aspects and Small Flaws Uncovered</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-yoga-a940-performance-analysis/"><u>Comprehensive Lenovo Yoga A940 Performance Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-rca-video-doorbell-evaluation-exceptional-home-security-on-a-budget/"><u>Comprehensive RCA Video Doorbell Evaluation: Exceptional Home Security on a Budget</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/explore-the-best-webcams-on-your-windows-10-pc/"><u>Explore the Best Webcams on Your Windows 10 PC</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-razer-portal-revolutionizes-gaming-with-superior-wi-fi-performance/"><u>How the Razer Portal Revolutionizes Gaming with Superior Wi-Fi Performance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Android? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-swagtron-swagboard-t1-a-flexible-choice-with-a-hefty-price-tag/"><u>In-Depth Analysis of the Swagtron Swagboard T1: A Flexible Choice with a Hefty Price Tag</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-sound-creation-utilizing-chatgpt-within-your-digital-audio-workstation/"><u>Mastering Sound Creation: Utilizing ChatGPT Within Your Digital Audio Workstation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nikon-z7-prodigy-capturing-lifes-moments-near-perfection/"><u>Nikon Z7 Prodigy: Capturing Life's Moments Near Perfection</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pioneer-bdr-xd05b-blu-ray-burner-review/"><u>Pioneer BDR-XD05B Blu-Ray Burner Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pocket-sized-serenity-exploring-oneplus-buds-features/"><u>Pocket-Sized Serenity: Exploring OnePlus Buds Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/rediscovering-archived-discussions-on-reddit-now/"><u>Rediscovering Archived Discussions on Reddit Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-budsplus-a-comprehensive-hands-on-analysis/"><u>Samsung Galaxy Buds+: A Comprehensive Hands-On Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-s10e-review/"><u>Samsung Galaxy S10e Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sonic-extravagance-beoplay-h8i-diary/"><u>Sonic Extravagance - Beoplay H8i Diary</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-nokia-72-critique-a-flagship-contender-in-the-affordable-phone-arena/"><u>The Nokia 7.2 Critique: A Flagship Contender in the Affordable Phone Arena</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-amazonbasics-shredder-a-look-at-its-12-sheets-and-cutting-edge-safety-features/"><u>Top AmazonBasics Shredder: A Look at Its 12 Sheets and Cutting-Edge Safety Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-picks-review-lgs-impressive-oled-c9-65-inch-4k-set-a-must-have-for-serious-tv-buffs/"><u>Top Picks Review: LG's Impressive OLED C9 65-Inch 4K Set - A Must-Have for Serious TV Buffs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723011927097-top-rated-z3plus-dash-camera-the-perfect-blend-of-value-and-simplicity-unveiled/"><u>Top Rated Z3+ Dash Camera: The Perfect Blend of Value and Simplicity Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723073897695-top-rated-exercise-monitors/"><u>Top-Rated Exercise Monitors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-review-the-netgear-c3000-gateway-modem-router-combo-a-tech-relic-or-still-relevant-today/"><u>Unboxing Review: The Netgear C3000 Gateway Modem-Router Combo - A Tech Relic or Still Relevant Today?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-a-thoughtful-look-at-googles-pixel-phone/"><u>Unveiling the Potential: A Thoughtful Look at Google's Pixel Phone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-of-vogue-establishing-your-channel-in-the-cosmetic-world/"><u>Voice of Vogue  Establishing Your Channel in the Cosmetic World</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-common-issues-with-youtube-shorts-thumbnails/"><u>[New] 2024 Approved Common Issues with YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitch-and-prime-whos-watching-the-show-2023-edition/"><u>[New] In 2024, Twitch and Prime Who’s Watching the Show? 2023 Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-new-recording-solutions-that-excel-beyond-fbx-limits-for-2024/"><u>[New] Top 10 New Recording Solutions That Excel Beyond FBX Limits for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-future-of-vlogging-top-12-camera-innovations/"><u>[Updated] Unveiling the Future of Vlogging Top 12 Camera Innovations</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-v27-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo V27? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-subtitling-mastering-the-art-of-srt-editing-on-apple-systems/"><u>In 2024, Advanced Subtitling Mastering the Art of SRT Editing on Apple Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insightful-analysis-of-samsung-galaxy-fit-an-ultimate-companion-for-health-conscious-users/"><u>Insightful Analysis of Samsung Galaxy Fit: An Ultimate Companion for Health-Conscious Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interplanetary-town-planning-gone-awry-stirring-up-storms-for-galactic-fun/"><u>Interplanetary Town Planning Gone Awry: Stirring Up Storms for Galactic Fun</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-11-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 11® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-usb-wi-fi-converters-for-seamless-internet-connection-in-2n3-best-picks-of-the-year/"><u>Leading USB Wi-Fi Converters for Seamless Internet Connection in 2N3 - Best Picks of the Year</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-connectivity-with-asus-rog-gt-ac5300-the-ultimate-choice-for-gamers-and-tech-enthusiasts/"><u>Mastering Connectivity with Asus ROG GT-AC5300: The Ultimate Choice for Gamers & Tech Enthusiasts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solution-steps-why-your-instagram-stories-wont-upload-and-how-to-fix-them/"><u>Solution Steps: Why Your Instagram Stories Won’t Upload and How to Fix Them</u></a></li>
 </ul></div>
+

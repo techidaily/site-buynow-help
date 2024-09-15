@@ -1,7 +1,7 @@
 ---
 title: TP-Link TL-WR902AC AC750 Travel Router Review
-date: 2024-08-09T00:38:58.528Z
-updated: 2024-08-10T00:38:58.528Z
+date: 2024-09-10T21:40:33.800Z
+updated: 2024-09-14T20:54:41.489Z
 categories:
   - BestProducts
 description: This Article Describes TP-Link TL-WR902AC AC750 Travel Router Review
@@ -13,14 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/22WjFUPJyfDyoiQncgDsnN0FJoQ=/400x300/fi
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Razer Book 13
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Razer Book 13](https://www.lifewire.com/thmb/VaOshLbjt_41gksIyYfg24DF6KM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_HeroSquare-80401fcfbef94a1b8444cd0832388aac.jpg)
 
 Lifewire / Andy Zahn
@@ -47,9 +41,6 @@ Lifewire / Andy Zahn
 
 ## Razer Book 13
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Razer Book 13](https://www.lifewire.com/thmb/0i6VvZqT39MNfVUbDSY7z3l8-Tw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_HeroSquare-80401fcfbef94a1b8444cd0832388aac.jpg)
 
 Lifewire / Andy Zahn
@@ -78,9 +69,6 @@ Lifewire / Andy Zahn
 
  An[ultrabook](https://www.lifewire.com/best-laptops-to-buy-4043650) is typically a thing of compromises, and if you want a laptop that’s thin and light, power is often sacrificed. However, the Razer Book 13 challenges that stereotype and offers a sleek and attractive alternative to other high-end[ultra-portables](https://www.lifewire.com/best-lightweight-laptops-to-buy-4065134) . I tested it for 40 hours to find if it can live up both to its stunning ultrabook looks and Razer’s prowess in building high-powered gaming laptops.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Design: Beauty in minimalism
 
  Razer is known for their flashy gaming-focused laptops, mice, and keyboards that are clearly marketed towards gamers, but they have always also employed a certain degree of restraint over some more exuberant gaming products. With the Book 13, that restraint is pushed even further with only a few tasteful reminders of the laptop’s gaming heritage—the twisted snaky Razer logo on the top, and of course RGB backlighting for the keyboard.
@@ -97,13 +85,17 @@ Lifewire / Andy Zahn
 
  For such a thin laptop, there’s a surprising amount of ports included with the Book 13\. You get 4[Thunderbolt ports](https://www.lifewire.com/what-is-thunderbolt-832713) , a USB type-A port,[HDMI port](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) , a microSD slot, and a 3.5mm headphone/microphone combo port. Such a versatile array of inputs is not to be taken for granted these days, and is a big point in the Book 13’s favor.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Setup Process: Very straightforward
 
  There’s not a lot to say about setting up the Razer Book 13\. It’s just a standard install of Windows 10 Home with no surprises along the way so you can be up and running in just a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Display: Positively stunning
 
  The Razer Book 13 configuration we tested comes with an absolutely gorgeous 13.5-inch UHD 60Hz display that is both very color accurate and provides stunning visuals. This is great for both creative tasks that require color accuracy, and for media consumption. The 16:10 aspect ratio is definitely tailored for productivity. The bezel is attractively thin, and the screen is made of Gorilla Glass 6, making it highly scratch resistant.
@@ -124,45 +116,57 @@ Lifewire / Andy Zahn
 
  The Book 13 is equipped with a 512GB SSD. This is good enough, but it would have been nice to have a full terabyte of storage.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Software: No bloat
 
  I’m pleased to report that the Book 13 is pretty much free of bloat. Aside from the usual bits and bobs you get with Windows 10 Home, the laptop does come with Razer Synapse installed, which is absolutely essential as it allows you to control the customizable RGB backlighting in the keyboard, among a few other useful functions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Razer Book 13](https://www.lifewire.com/thmb/hKfA1c1e0-bRVVhMU22PtI2GewM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_03-23b08f335541443ebe1e7d7763140eca.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connectivity: The latest and greatest
 
  With[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , the Book 13 had no trouble taking full advantage of my home network. It provides a fast and reliable connection, and Bluetooth 5.0 is available as well.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery: Juice for the day
 
  Razer claims a battery life of up to 10 hours or even a bit more, and I found this to be accurate. The Book 13 should get you through a day at the office without needing to recharge, depending upon use, of course.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Razer Book 13](https://www.lifewire.com/thmb/6yYQ1e8vR0Ldvs2GP61CrvFy3zg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_05-1c8a8e1bdd78413fb72cc6307a07ea40.jpg)
 
 Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Audio: Big sound for a small laptop
 
  You wouldn’t expect to get good audio out of such a small laptop, but the Book 13 does quite well in this regard. It features THX spatial audio and delivers a remarkably good listening experience. It’s certainly loud enough to deliver sound at max volume without noticeable distortion. 2Cellos cover of “Thunderstruck” is my go-to song for testing speakers and headphones, and I also listened to their new cover of “Livin’ on a Prayer.” The Book 13 rendered them both beautifully.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Razer Book 13](https://www.lifewire.com/thmb/PL2MokPWQ_egcxv3fE0tw_k09Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_04-6eed60095cbe467c9552c651ba4c9d46.jpg)
 
 Lifewire / Andy Zahn
@@ -172,6 +176,19 @@ Lifewire / Andy Zahn
 ## Camera: Competent webcam
 
  The webcam on the Book 13 is about average for a laptop. It captures 720p video and is perfectly acceptable, though not exceptional in any way. Video quality looks decent, even in relatively challenging situations.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: The cost of quality
 
@@ -222,11 +239,29 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-meme-mechanic-generating-online-engagement-through-videos/"><u>[New] The Meme Mechanic Generating Online Engagement Through Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-your-videos-potential-with-these-youtube-seo-insights/"><u>[New] Unlock Your Videos' Potential with These YouTube SEO Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/7-profitable-uses-of-a-3d-printer-how-you-can-save-money/"><u>7 Profitable Uses of a 3D Printer: How You Can Save Money</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/7800-plus-revival-experience-the-classic-80s-nostalgia-with-modern-technology/"><u>7800 Plus Revival: Experience the Classic 80'S Nostalgia with Modern Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/act-now-steams-annual-mid-year-discount-event-has-started/"><u>Act Now: Steam's Annual Mid-Year Discount Event Has Started</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beyond-discord-why-gaming-communities-are-calling-for-an-upgrade-with-modern-alternatives/"><u>Beyond Discord: Why Gaming Communities Are Calling for an Upgrade with Modern Alternatives</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-a-fresh-perspective-watch-dogs-legion-evaluation/"><u>Exploring a Fresh Perspective: Watch Dogs: Legion Evaluation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-proficiently-upload-impressive-elongated-youtube-content/"><u>How to Proficiently Upload Impressive, Elongated YouTube Content</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-t2x-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo T2x 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-innovators-choice-top-5-state-of-the-art-slow-cams/"><u>In 2024, Innovators' Choice Top 5 State-of-the-Art Slow Cams</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-voice-over-checklist-best-practices-for-final-cut-pro/"><u>New The Ultimate Voice Over Checklist Best Practices for Final Cut Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-crashing-microsoft-edge-on-your-windows-10-pc-made-simple/"><u>Troubleshooting Crashing Microsoft Edge on Your Windows 10 PC Made Simple</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-netflix-should-adopt-top-traits-of-spotify-for-a-superior-user-experience/"><u>Why Netflix Should Adopt Top Traits of Spotify for a Superior User Experience.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-xbox-cloud-gaming-struggles-to-soar-solutions-microsoft-must-implement/"><u>Why Xbox Cloud Gaming Struggles to Soar: Solutions Microsoft Must Implement</u></a></li>
+</ul></div>
+

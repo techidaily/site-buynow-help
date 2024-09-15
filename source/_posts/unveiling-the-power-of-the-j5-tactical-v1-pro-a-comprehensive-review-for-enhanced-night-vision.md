@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power of the J5 Tactical V1-Pro: A Comprehensive Review for Enhanced Night Vision"
-date: 2024-08-09T00:38:54.431Z
-updated: 2024-08-10T00:38:54.431Z
+date: 2024-09-10T01:17:04.158Z
+updated: 2024-09-14T19:04:58.394Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Power of the J5 Tactical V1-Pro: A Comprehensive Review for Enhanced Night Vision"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/3e3d11024602b266406d40d71c2e14542454419c9
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Apple iPad Pro 11-Inch (2018)
 
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/XAxnGc_g0AZSliRVCCVfXsB5Wug=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_HeroSquare-b5f2405776244188aa59f67503531baf.jpg)
@@ -42,10 +39,6 @@ Lifewire / Jordan Provost
 
 ## Apple iPad Pro 11-Inch (2018)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/SgNIbLZ961-p9WD7at7-M5m8Tuk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_HeroSquare-b5f2405776244188aa59f67503531baf.jpg)
 
 Lifewire / Jordan Provost
@@ -76,16 +69,10 @@ Lifewire / Jordan Provost
 
  When you’re shopping for tablets, considering an iPad is almost inevitable. Launched in November of 2018, Apple’s new iPad Pro (11-inch) promised the world a number of bold changes to the original design, with sharper screens, better multitasking options, and a suite of new features that addressed past complaints. On the flip side, the Pro also commands a lofty price tag which raises the question, is this the iPad that can replace your laptop? We take a deep look at all aspects of its design, software, and performance to see if it lives up to those high expectations.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![IPad Pro 11-Inch](https://www.lifewire.com/thmb/jYGLTeSXEAGonvbdFrussmvvPDU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_2-74153fdc1da44cbba893312f82da0547.jpg)
 
  Lifewire / Jordan Provost
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## **Design and Features: Cutting edge**
 
  The iPad Pro is easy to pick up with one hand and barely makes a dent in your backpack storage. It feels like a notepad, and you can use it as such. For what is inside this piece of kit, that is a marvel This device even fits snug into the accessory slot of a laptop sleeve if you’re planning to double up. It is dainty, but what makes it so wonderful is that there are no compromises to make up for this, design-wise.
@@ -99,8 +86,18 @@ Lifewire / Jordan Provost
  Lifewire / Jordan Provost
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Accessories: Useful for productivity**
 
  The two main attachments everyone should consider when purchasing an iPad Pro are the Apple Pencil and the Smart Keyboard Folio. The Apple Pencil is a powerful tool for artists and note takers, and the revised model includes a double-tap feature so you can quickly switch between brush styles and utilize functions usually locked off to the more PC-focused professional drawing tablets. Previous Apple Pencil users will be glad to know that it charges with a magnetic pad on the side of the device, and not awkwardly through the port at the bottom like previous models.
@@ -113,9 +110,6 @@ Lifewire / Jordan Provost
 
  Top 3 Tablets On the Market
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Fast and easy**
 
  Setting up the 11-inch iPad Pro is quick and painless, and strikingly similar to many of Apple’s other products. Once unboxed, we took the iPad out of its case and held down on the power button which led to the setup screen.
@@ -123,6 +117,13 @@ Lifewire / Jordan Provost
  Following this, we used our iPhone to scan the visual code on the screen which quickly linked the devices and ensured a smooth setup. If you don't own any other Apple products, you are led through a short set of screens where you pick your time zone, sign into your Apple ID, and connect to your WiFi. As part of the setup process, you also have to orient your head around the camera to ensure Face ID can set you up properly for the multiple viewing angles. Once everything has updated, you simply swipe up and are let loose into the Apple home screen from where you can start downloading and installing your apps.
 
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/GV44W9kKlQd3SXT_XaWI-tjo6Cw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_6-2bcb5b2009154c92931411045a9b6ddc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jordan Provost
 
@@ -132,9 +133,6 @@ Lifewire / Jordan Provost
 
  There’s also some nifty usability features that come packed with the iPad Pro. True Tone is a feature that helps match the display to the color temperature of your surroundings, which makes the screen easier on your eyes. The 120Hz Pro Motion technology alters the refresh rate of the screen depending on your usage, which results in extremely fluid motion, from scrolling, to playing games, or watching video. It’s difficult to find a poor viewing angle, though you still can’t watch 4K video on YouTube, which is a crying shame given the power of the screen, but more of a problem between Apple and Google rather than a knock to the device itself.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Powerhouse processor**
 
  As touted by Apple during its launch presentation, the iPad Pro is said to be as powerful as an Xbox One S. This is true from a pure graphics perspective, but you have to consider that the iPad doesn’t have the same games or support, so while it is as powerful, it’s unlikely to replace your console anytime soon.
@@ -147,9 +145,6 @@ Lifewire / Jordan Provost
 
  In our GFX Metal tests, the iPad really ran away from its competitors too. It scored 3407 frames in the Car Chase benchmark, almost double that of the Nvidia Shield, and nearly triple that of the previous iPad, running at an incredible 57 FPS (frames per second) compared to the previous iPads 23 FPS. It’s a massive, almost overkill leap considering the lack of AAA experiences available for the device, but it’s nice to have all that power in your hands.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/KXfYew06x6vujxu5asiFMPptK_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_1-a6ce9e62649048d7a20596066576c2c5.jpg)
 
  Lifewire / Jordan Provost
@@ -167,15 +162,16 @@ Lifewire / Jordan Provost
  Outside of that, you can’t connect some external drives, Thunderbolt devices or use a mouse. Split View is also certainly a compromise to professionals used to using more than three programs at once.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Audio: Thunderous sound**
 
  One of the major upgrades to the Pro is the stereo effect audio playback with four powerful speakers, two on either side of the device. The iPad Pro has truly stunning audio, and if you crank it up it could easily act as a party speaker. There is absolutely no need for anything external when watching video content. Amazingly, the fidelity of the audio never seems to suffer, even at full volume. Apple ditching the headphone jack poses an interesting problem in that you’re going to need a pair of Bluetooth headphones or buy an adapter to receive audio on the go.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Network: Reasonable connectivity**
 
  In terms of signal strength, we struggled to get the WiFi to break by walking outside and away from our router. In the garden and the garage ( a usual drop-out spot for other devices) it held true in very reasonable fashion.
@@ -196,6 +192,13 @@ Lifewire / Jordan Provost
 
  Take a peek at some of the[best camera apps](https://www.lifewire.com/best-iphone-camera-apps-4176231) you can download.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery: All-day usage**
 
  This is an all-day device, and should last you roughly around 10 hours of regular use, as per our testing. We spent almost a full working day pushing it using Split View to draft articles, with some Procreate drawing and Netflix streaming in between, and the iPad Pro clocked out at around 9 hours. However, we found some apps like Google Docs drain the battery more than most, so it varies depending on your workflow. Much like the Apple Watch, if you’re not a power user this tablet could last you a number of days before needing a fresh charge.
@@ -212,9 +215,6 @@ Lifewire / Jordan Provost
 
  iOS 12 is by far and away the best version of the operating system yet, but there are still some blatant compromises that eat away at the possibility of the iPad Pro being a laptop replacement.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## **Price: Well worth the money if you can justify it**
 
  As far as tablets go, one of the main reasons many people are put off by the iPad Pro is the existence of far cheaper options. Our review model (11-inch, 64GB) retails for $799, and you may well be inclined to upgrade both the size and the capacity to suit your needs. This doesn’t factor in some of the more essential accessories with jaw-dropping prices like the Apple Pencil, Smart Keyboard, and the Bluetooth headphones necessary to navigate the lack of a headphone jack. That can lead to a very expensive purchase, and with Apple products, it can be hard to tell whether they are worth it case by case.
@@ -233,15 +233,19 @@ Lifewire / Jordan Provost
 
  With utterly seamless navigation and playback, fantastic speakers and world-class accessories and performance, this is a beautifully designed piece of hardware. Unfortunately, whilst the power is there, it is held back by its own operating system, forcing you into busywork or compromising missteps. It cannot replace your laptop just yet, but it may well make it redundant based on your use case.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple iPad 10.2-inch (7th Generation)](https://www.lifewire.com/apple-ipad-10-2-inch-7th-generation-review-4772313)
 * [Microsoft Surface Go](https://www.lifewire.com/microsoft-surface-go-review-4690827)
 * [Apple iPad Mini (2019)](https://www.lifewire.com/apple-ipad-mini-2019-review-4688991)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  iPad Pro 11-Inch (2018)
@@ -255,14 +259,11 @@ Lifewire / Jordan Provost
 * RAM  4 GB
 * Camera  12 MP
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -270,3 +271,24 @@ Lifewire / Jordan Provost
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-commencing-shoot-critical-overview/"><u>[Updated] Commencing Shoot Critical Overview</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-premium-high-resolution-pics-viewer-quickly/"><u>[Updated] In 2024, Premium High-Resolution Pics Viewer, Quickly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professionals-drone-guide-top-5-recommendations-inside/"><u>[Updated] Professionals’ Drone Guide - Top 5 Recommendations Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-but-faulty-a-comprehensive-thermopro-tpn67-test/"><u>Budget-Friendly but Faulty: A Comprehensive ThermoPro TPn67 Test</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-premium-garmin-forerunner-745-fitness-tracker-for-athletes/"><u>Expert Review of the Premium Garmin Forerunner 745 Fitness Tracker for Athletes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-depths-of-numeneras-sci-fi-universe-a-review-of-torment-tides-of-numenera/"><u>Exploring the Depths of Numenera's Sci-Fi Universe: A Review of Torment: Tides of Numenera</u></a></li>
+<li><a href="https://win-answers.techidaily.com/frostpunk-performance-optimization-end-the-frustrating-crash-dilemma/"><u>Frostpunk Performance Optimization - End the Frustrating Crash Dilemma!</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huawei-mediapad-m5-comprehensive-analysis-the-ultimate-audio-and-visual-experience-tablet/"><u>Huawei MediaPad M5 Comprehensive Analysis - The Ultimate Audio & Visual Experience Tablet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/showdown-of-smartwatches-the-apple-watch-series-9-versus-the-fitbit-charge-6/"><u>Showdown of Smartwatches: The Apple Watch Series 9 Versus the Fitbit Charge 6</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/slashing-costs-without-compromising-style-a-comprehensive-look-at-the-procase-macbook-pro-13-case/"><u>Slashing Costs Without Compromising Style: A Comprehensive Look at the ProCase MacBook Pro 13 Case</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-platform-not-supported-message-when-setting-up-intel-serial-io-device-drivers/"><u>Solving 'Platform Not Supported' Message When Setting Up Intel Serial IO Device Drivers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-companion-for-illustrators-a-detailed-review-of-the-xp-pen-artist-16-pro-tablet/"><u>The Ultimate Companion for Illustrators: A Detailed Review of the Xp-Pen Artist 16 Pro Tablet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-iphone-usb-drivers-for-windows-10-users/"><u>Ultimate Guide: IPhone USB Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windowsno1-dvdtop5hdwin1011/"><u>Windowsで使える推薦No.1 DVD再生ソフトウェアTOP5【無料、HD品質、Win10/11互換】</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Offworld Trading Company Analysis - Mastering the Ruthless Business Game
-date: 2024-08-09T00:38:55.176Z
-updated: 2024-08-10T00:38:55.176Z
+date: 2024-09-14T03:16:06.162Z
+updated: 2024-09-14T22:00:20.151Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Offworld Trading Company Analysis - Mastering the Ruthless Business Game
@@ -13,18 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/YvejJSb8geFdG7p1fbjrHPlywLo=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/D9MecP2109T2iYhabM0CPBRirFA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
@@ -95,9 +83,6 @@ Lifewire / Jeremy Laukkonen
 
  The controller is similarly unassuming, and Amazon clearly isn’t trying to rock the boat there. It’s extremely similar in profile to an Xbox One controller, right down to the positioning of the offset analog sticks. This configuration has long been my favorite, with the Sony-style side-by-side analogs feeling cramped, so the Luna controller feels instinctually good in my hands. If you’re a fan of the Xbox One controller, you’ll likely feel the same. If you don’t like the Xbox-style design for whatever reason, then you may at least appreciate the fact that the build quality of the controller feels quite solid, and it’s very snappy and responsive in use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -112,18 +97,12 @@ Lifewire / Jeremy Laukkonen
 
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Setup Process: Quick and easy
 
  Luna is just about as easy to use as a gaming service can be. To use Luna, there’s zero setup involved. If you’re playing on Windows, macOS, iOS, or Android, you can just connect a compatible controller, navigate to the Luna website, and start playing. The Fire TV app is similarly easy to get up and running.
 
  If you’re using the optional Luna controller, there is a bit of additional setup to work through. You can choose to have your controller automatically linked to your Amazon account when you buy it, which simplifies setup a bit, but it’s a fairly straightforward process either way.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -131,6 +110,13 @@ Lifewire / Jeremy Laukkonen
  If you do opt to link your controller to your Amazon account when you buy it, and you already own other Amazon devices like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) that are connected to your Wi-Fi connection, then you can take advantage of Amazon’s Wi-Fi simple setup that shaves some time off the setup process. Otherwise, you just use the Luna controller app on your Android or iPhone to hook the controller up to Wi-Fi.
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance: Impressive game streaming, but no 4K
 
@@ -153,8 +139,12 @@ Lifewire / Jeremy Laukkonen
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -165,9 +155,6 @@ Lifewire / Jeremy Laukkonen
 
  During the beta period, the basic Luna subscription gets you access to 70 games, with an additional two dozen games locked behind the Ubisoft+ subscription. The 70 games included with the basic subscription offer a ton of entertainment value, but most genres are woefully underrepresented, and others are missing altogether. For example, fans of fighting games won’t find anything to rally behind here.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -176,9 +163,6 @@ Lifewire / Jeremy Laukkonen
 
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: Affordable fee reflects the thin library
 
  Luna comes with a price tag of $4.95 per month during the beta period, with the insinuation that it will increase later on. It’s uncertain as to whether or not the price will actually go up, but right now it’s a pretty good deal. The only real caveat is that the attractive price tag is balanced by a somewhat thin library. Go ahead and check the library before you sign up. If you see more than a handful of games you’re interested in, then Luna is absolutely worth the price of admission.
@@ -210,8 +194,12 @@ Lifewire / Jeremy Laukkonen
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Luna
@@ -227,14 +215,11 @@ Lifewire / Jeremy Laukkonen
 * Ports  USB-C, 3.5mm audio (controller)
 * Peripherals  Luna controller (Wi-Fi, Bluetooth) is optional
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -242,3 +227,23 @@ Lifewire / Jeremy Laukkonen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-sound-to-scripture-top-pick-offline-recognition-software/"><u>[Updated] Sound to Scripture Top Pick Offline Recognition Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-market-leaders-a-comprehensive-review-of-premium-server-rack-units/"><u>2024'S Market Leaders: A Comprehensive Review of Premium Server Rack Units</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ace-the-art-of-game-recordings-in-windows-11-for-2024/"><u>Ace the Art of Game Recordings in Windows 11 for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beast-battles-unleashed-a-critical-review-of-monster-hunter-worlds-fearsome-challenges/"><u>Beast Battles Unleashed: A Critical Review of Monster Hunter: World's Fearsome Challenges</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-fitbit-inspire-hr-your-perfect-around-the-clock-workout-buddy/"><u>Comprehensive Analysis of the Fitbit Inspire HR: Your Perfect Around-the-Clock Workout Buddy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-evaluating-the-pros-and-cons-of-anthropics-smart-photo-editor/"><u>Comprehensive Guide: Evaluating the Pros and Cons of Anthropics Smart Photo Editor</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y78plus-t1-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y78+ (T1) Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-elite-server-enclosures-and-racks-of-the-year-2024/"><u>Expert Picks: Elite Server Enclosures and Racks of the Year 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/requent-uploads-can-skyro-cookie-sales-on-your-youtube-channel/"><u>How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-nord-ce-3-lite-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from OnePlus Nord CE 3 Lite 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-broadcasting-tweeted-videos-to-facebook-friends/"><u>In 2024, Broadcasting Tweeted Videos to Facebook Friends</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sizing-up-quality-an-essential-review-of-apples-iphone-12-pro-max-model/"><u>Sizing up Quality - An Essential Review of Apple's iPhone 12 Pro Max Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-saving-images-from-word-docs/"><u>Step-by-Step Guide: Saving Images From Word Docs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-marketing-playbook-for-digital-beginners-on-reddit-for-2024/"><u>The Ultimate Marketing Playbook for Digital Beginners on Reddit for 2024</u></a></li>
+</ul></div>
+

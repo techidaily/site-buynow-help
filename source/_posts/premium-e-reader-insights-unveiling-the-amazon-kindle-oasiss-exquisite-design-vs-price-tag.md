@@ -1,7 +1,7 @@
 ---
 title: "Premium E-Reader Insights: Unveiling the Amazon Kindle Oasis's Exquisite Design Vs. Price Tag"
-date: 2024-08-09T00:38:57.174Z
-updated: 2024-08-10T00:38:57.174Z
+date: 2024-09-10T06:57:59.608Z
+updated: 2024-09-15T09:45:40.560Z
 categories:
   - BestProducts
 description: "This Article Describes Premium E-Reader Insights: Unveiling the Amazon Kindle Oasis's Exquisite Design Vs. Price Tag"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ## inXile Entertainment Torment: Tides of Numenera
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/HYgHMUDMFh7JI98Hj0JMbI2wcpw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 Lifewire / Kelsey Simon
@@ -39,18 +36,8 @@ Lifewire / Kelsey Simon
 
 2.7
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## inXile Entertainment Torment: Tides of Numenera
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 Lifewire / Kelsey Simon
@@ -85,6 +72,19 @@ Lifewire / Kelsey Simon
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Gameplay: Dialogue prompts and effort**
 
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
@@ -106,24 +106,26 @@ Lifewire / Kelsey Simon
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
 
  The one positive is the originality in the world the developers have created. The setting feels unique―a mix of strange alien tech within a fantasy city. A wide range of characters will fill the game, and they respond and react in creative ways. It’s also a fun experience to run around and talk to these various characters and explore the game’s world and the lore of Numenera.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -135,13 +137,6 @@ Lifewire / Kelsey Simon
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## **Competition: Other story focused RPGs**
 
  There are quite a few other games available that are story-focused RPGs besides Tides of Numenera. Wasteland 2 (view on[Amazon](https://www.amazon.com/Wasteland-2-Directors-Cut-PlayStation-4/dp/B013CQHQFU/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7C) ) is a very similar game, as it is made by the same developers, but where Numenera falls flat with its heavy-handed storytelling, Wasteland 2 stands apart with a fun, tactical combat system.
@@ -162,14 +157,11 @@ No advertising on the website.
 * ESRB Rating  M for Mature
 * Available Platforms  PC, MaxOS,Xbox One, PlayStation 4
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,3 +169,24 @@ No advertising on the website.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-best-8-3d-gold-text-effect-websites/"><u>[Updated] Best 8 3D Gold Text Effect Websites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-bottom-line-gear-collect-all-these-trendsetting-tools-to-win-in-business-for-2024/"><u>[Updated] Bottom Line Gear Collect All These Trendsetting Tools to Win in Business for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximizing-your-sound-the-best-microphones-for-podcasting/"><u>[Updated] Maximizing Your Sound The Best Microphones for Podcasting</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitsoundscape-audio-from-tweets/"><u>[Updated] TwitSoundscape Audio From Tweets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-angle-videos-for-improved-viewership/"><u>2024 Approved How to Angle Videos for Improved Viewership</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-lenovo-tab-m10-hd-2020-a-comprehensive-guide-for-browsing-and-media-streaming/"><u>Affordable Lenovo Tab M10 HD (2020): A Comprehensive Guide for Browsing & Media Streaming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-giants-a-comprehensive-guide-to-outlook-and-gmail-features/"><u>Choosing Between Giants: A Comprehensive Guide to Outlook & Gmail Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/epb-shield-tunnelling-is-designed-for-soft-ground-conditions-with-high-water-content-and-uses-a-balancing-mechanism-at-the-face-of-the-tunnel-to-maintain-st137/"><u>EPB Shield Tunnelling Is Designed for Soft Ground Conditions with High Water Content and Uses a Balancing Mechanism at the Face of the Tunnel to Maintain Stability.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-2020-samsung-galaxy-tab-a-critical-feature-omitted-discussion/"><u>Evaluating the 2020 Samsung Galaxy Tab A: Critical Feature Omitted Discussion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-linksys-velop-a-cutting-edge-triple-band-mesh-network-review/"><u>Expert Insights on Linksys Velop - A Cutting Edge Triple-Band Mesh Network Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy A05 Phone Without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-gt-5-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme GT 5 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy XCover 6 Pro Tactical Edition Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-sx620-hs-a-blend-of-functionality-and-portability/"><u>The SX620 HS: A Blend of Functionality and Portability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lg-gram-156-an-extensive-review-of-a-remarkably-slim-and-long-lasting-ultrabook/"><u>Unveiling the LG Gram 15.6: An Extensive Review of a Remarkably Slim & Long-Lasting Ultrabook</u></a></li>
+</ul></div>
+

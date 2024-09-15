@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers"
-date: 2024-09-04T16:15:11.368Z
-updated: 2024-09-05T16:15:11.368Z
+date: 2024-09-13T19:49:24.508Z
+updated: 2024-09-14T19:04:16.729Z
 tags:
   - games
   - tv
@@ -41,18 +41,6 @@ Ismar Hrnjicevic / How-To Geek
 
  Controllers offer a more ergonomic alternative. Your fingers wrap naturally around them, moving freely, especially the [Xbox Elite controllers](https://youtube-clips.techidaily.com/the-rise-and-challenges-of-video-streaming-profits/) and their [game-changing back buttons](https://some-skills.techidaily.com/the-best-ai-naming-assistants-for-podcast-innovation-for-2024/).
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2  Controllers Are Better for My Preferred Game Genres 
 
 ![A collage of hypothetical 3rd person ARPG games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-collage-of-hypothetical-3rd-person-arpg-games.png) 
@@ -64,6 +52,19 @@ Dibakar Ghosh / How-To Geek | Midjourney
  Many of the games in these genres are designed with consoles in mind, where controllers are the default input. As a result, the controls are optimized for gamepads, offering me a smoother, more intuitive experience.
 
  Don't get me wrong, I've spent countless hours enjoying RTS games like _Warcraft 3_ and _Starcraft 2_ with a keyboard and mouse. I understand their strengths for certain genres. However, with the decline of RTS games and my waning interest in FPS titles, I find controllers better suited for the types of games I enjoy most these days.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3  A Poor Choice for Emulation 
 
@@ -84,21 +85,16 @@ Dibakar Ghosh / How-To Geek | Midjourney
  This is to say nothing of the modern haptic feedback seen on the PS5 DualSense controller with its adaptive triggers, and the rumble feedback that Xbox Core controllers feature in the triggers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5  Not Ideal for Local Co-op or PvP 
 
 ![illustration of two people awkwardly trying to share a single keyboard and mouse setup for gaming.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/illustration-of-two-people-awkwardly-trying-to-share-a-single-keyboard-and-mouse-setup-for-gaming.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  As a fan of hosting gaming sessions, I've found keyboard and mouse setups to be a real party pooper for [local co-op](https://facebook-videos.techidaily.com/updated-earnings-expertise-for-youtube-creators-fb-insights-and-tactics/) or PvP. I mean, how do you even make that work?
@@ -110,11 +106,18 @@ Dibakar Ghosh / How-To Geek | Midjourney
  I've experienced this first-hand with _EA Sports FC 24_, my current go-to game for local multiplayer. But it translates to other titles like _Street Fighter_, _It Takes Two_, or _Overcooked_. Trust me, you don't want to play _Overcooked_ with one person on a gamepad and another fumbling with a keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6  I’m Tied to My Desk 
 
  Picture this: I've spent hours sitting at my desk, working away. When it's finally time to unwind with some games, I'm faced with the prospect of either staying in that exact same spot or going somewhere else. My life can’t start and end at a desk.
@@ -131,28 +134,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  By associating gaming with a gamepad and keeping it out of sight during work hours, I created just enough friction to resist sneaking into quick gaming sessions when work got challenging. I established a clear boundary: work mode is a keyboard and mouse, and play mode is a gamepad. It's simple, effective, and [keeps me disciplined](https://extra-information.techidaily.com/the-insiders-guide-to-captivating-youtube-headlines/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8  Because I Love My Keyboard and Mouse 
 
 ![Image of Keyboard and Mouse of a Deskpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/image-of-keyboard-and-mouse-of-a-deskpad.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ismar Hrnjicevic / How-To Geek  
 
  This is not as contradictory as it sounds. I cherish my keyboard and mouse for work, which is precisely why I avoid using them for gaming. They're essential tools for my livelihood, and I'd rather keep them safe from the rigors of intense gaming sessions.
@@ -181,8 +166,6 @@ Ismar Hrnjicevic / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,47 +175,15 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-top-10-portable-tools-dominating-video-editing-landscape/"><u>[New] 2024 Approved  Top 10 Portable Tools Dominating Video Editing Landscape</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-high-quality-duo-of-photo-and-sound-capture-software-for-2024/"><u>[New] High-Quality Duo of Photo & Sound Capture Software for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-beginners-roadmap-for-instagram-reels-mastery/"><u>[New] In 2024, A Beginner's Roadmap for Instagram Reels Mastery</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-recorders-handbook-for-film-lovers-for-2024/"><u>[New] The Ultimate Recorder's Handbook for Film Lovers for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-visual-harmony-on-screen-mastering-zooms-edge-magic-for-2024/"><u>[New] Visual Harmony on Screen  Mastering Zoom's Edge Magic for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cut-to-the-chase-8-simple-youtube-thumbnail-builders-for-2024/"><u>[Updated] Cut-to-the-Chase  8 Simple YouTube Thumbnail Builders for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-opening-doors-creating-an-account-on-youtube/"><u>[Updated] Opening Doors  Creating an Account on YouTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-compare-the-best-free-screen-recorders-on-windows-os/"><u>2024 Approved  Compare the Best Free Screen Recorders on Windows OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-defined-essential-language-explained/"><u>Artificial Intelligence Defined: Essential Language Explained</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/benchmark-test-results-the-fastest-and-most-secure-wi-fi-router-asus-rt-ac68u/"><u>Benchmark Test Results: The Fastest and Most Secure Wi-Fi Router - Asus RT-AC68U</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-fujitsu-scansnap-ix1600-analysis-top-of-the-line-desktop-document-scanner/"><u>Comprehensive Fujitsu ScanSnap iX1600 Analysis: Top-of-the-Line Desktop Document Scanner</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-flexispot-theodore-standing-desk-a-sleek-choice-for-contemporary-offices/"><u>Comprehensive Review of the Flexispot Theodore Standing Desk - A Sleek Choice for Contemporary Offices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/d-link-powerline-kit-unveiled-swift-installation-rapid-file-sharing-insights/"><u>D-Link Powerline Kit Unveiled: Swift Installation, Rapid File Sharing Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-gaming-experience-with-samsungs-q60r-smart-qled-4k-television-a-detailed-overview/"><u>Discover the Ultimate Gaming Experience with Samsung's Q60R Smart QLED 4K Television: A Detailed Overview</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/diving-into-dying-lights-co-op-world-a-thrilling-combination-of-first-person-action-parkour-skills-and-tactical-teamwork-reviewed/"><u>Diving Into Dying Light's Co-Op World: A Thrilling Combination of First-Person Action, Parkour Skills, and Tactical Teamwork Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/economical-ear-clips-that-deliver-senso-reviewed/"><u>Economical Ear Clips That Deliver: Senso Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/efficient-heat-dissipation-with-a-cheap-laptop-tray-the-topmate-c302-breakdown/"><u>Efficient Heat Dissipation with a Cheap Laptop Tray: The TopMate C302 Breakdown</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-graphics-and-fps-with-the-latest-geforce-rtx-2080-ti-driver-updates/"><u>Enhance Graphics & FPS with the Latest GeForce RTX 2080 Ti Driver Updates</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-why-the-samsung-qn55q6f-is-a-top-contender-in-4k-hdr-smart-tvs/"><u>Expert Analysis: Why the Samsung QN55Q6F Is a Top Contender in 4K HDR Smart TVs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-best-features-of-the-stylish-and-smart-withings-move-watch/"><u>Exploring the Best Features of the Stylish and Smart Withings Move Watch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-features-and-benefits-of-the-netgear-nighthawk-c7000-wireless-networking-solution/"><u>Exploring the Features and Benefits of the Netgear Nighthawk C7000 Wireless Networking Solution</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-gt-neo-5-by-drfone-android/"><u>Full Guide to Unlock Your Realme GT Neo 5</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/high-definition-creation-with-the-huion-kamvas-gt-191-an-extensive-tablet-review/"><u>High Definition Creation with The Huion Kamvas GT-191 - An Extensive Tablet Review</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-c12-plus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia C12 Plus Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nubia-z50s-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nubia Z50S Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-14-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 14 with 3 Methods</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-top-20-trending-memes-reddit-vs-twitter/"><u>In 2024, Top 20 Trending Memes  Reddit Vs. Twitter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-the-budget-friendly-mobvoi-ticwatch-e2-truly-value-for-money-our-review-says/"><u>Is the Budget-Friendly Mobvoi TicWatch E2 Truly Value for Money? Our Review Says...</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lenovos-2020-tab-m10-fhdplus-delivers-rich-visuals-without-breaking-the-bank-detailed-analysis-inside/"><u>Lenovo's 2020 Tab M10 FHD+ Delivers Rich Visuals without Breaking the Bank - Detailed Analysis Inside</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/petcube-budget-smart-hd-pets-camera-review-quality-meets-affordability/"><u>Petcube Budget-Smart HD Pets Camera Review: Quality Meets Affordability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/portable-moko-compact-bluetooth-keyboard-perfect-for-travel/"><u>Portable MoKo Compact Bluetooth Keyboard - Perfect for Travel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-audio-problems-getting-your-microphone-back-on-track/"><u>Resolving Windows 10 Audio Problems: Getting Your Microphone Back on Track</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionize-your-photography-with-lightzone-top-darkroom-app-for-pcs-and-macs/"><u>Revolutionize Your Photography with LightZone - Top Darkroom App for PCs & Macs!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-microsoft-office-alternatives-ranked/"><u>The Ultimate Guide to Microsoft Office Alternatives - Ranked</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner/"><u>The Ultimate Guide to the Garmin Forerunner</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-understanding-the-fitbit-charge-6-expert-review-inside/"><u>The Ultimate Guide to Understanding the Fitbit Charge 6 - Expert Review Inside</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-viber-out-review-what-you-need-to-know-before-calling/"><u>The Ultimate Viber Out Review: What You Need to Know Before Calling</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-10-recommended-sites-for-online-course-learning-experiences/"><u>Top 10 Recommended Sites for Online Course Learning Experiences</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-7-optimal-cell-phone-contracts-for-seniors/"><u>Top 7 Optimal Cell Phone Contracts for Seniors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/toshiba-55-inch-fire-tv-edition-lcd-tv-review-a-perfect-choice-for-amazon-prime-subscribers/"><u>Toshiba 55-Inch Fire TV Edition LCD TV Review: A Perfect Choice for Amazon Prime Subscribers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-toughness-a-thorough-assessment-of-the-top-race-remote-control-rock-climber/"><u>Unveiling Toughness: A Thorough Assessment of the Top Race Remote Control Rock Climber</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-art-of-increasing-indoor-ambiance-via-sunlight/"><u>[Updated] In 2024, The Art of Increasing Indoor Ambiance via Sunlight</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-shegames-legends-youtubes-number-one-ten/"><u>[Updated] SheGames Legends YouTube's Number One Ten</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/emoji-essentials-for-iphone-users-from-basic-to-advanced-techniques/"><u>Emoji Essentials for iPhone Users: From Basic to Advanced Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-epicurean-envoys-the-best-food-vloggers-to-watch/"><u>In 2024, Epicurean Envoys The Best Food Vloggers to Watch</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-15-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 15</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-best-ergonomic-keyboard-wrist-pads-for-optimal-typing-comfort-2024-edition/"><u>The Ultimate Selection: Best Ergonomic Keyboard Wrist Pads for Optimal Typing Comfort - 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/twelve-south-compass-pro-evaluation-expertly-engineered-for-ultimate-precision/"><u>Twelve South Compass Pro Evaluation: Expertly Engineered for Ultimate Precision</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-thermaltake-massive-tm-premium-pc-cooler-with-a-hefty-cost/"><u>Ultimate Guide to the Thermaltake Massive TM: Premium PC Cooler with a Hefty Cost</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlock-better-engagement-on-instagram-with-video-loops-for-2024/"><u>Unlock Better Engagement on Instagram With Video Loops for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-midland-gxt1000vp4-a-revolution-in-clear-radio-conversations/"><u>Unveiling the Midland GXT1000VP4: A Revolution in Clear Radio Conversations</u></a></li>
 </ul></div>
+

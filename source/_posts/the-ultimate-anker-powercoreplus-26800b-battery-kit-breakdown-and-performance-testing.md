@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Anker PowerCore+ 26800B Battery Kit Breakdown and Performance Testing
-date: 2024-08-09T00:38:54.288Z
-updated: 2024-08-10T00:38:54.288Z
+date: 2024-09-12T10:16:17.799Z
+updated: 2024-09-15T10:14:31.043Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Anker PowerCore+ 26800B Battery Kit Breakdown and Performance Testing
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/xomn4fOwspGABiC-og6gHsRlGnE=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/EJl3EcpC1pj4FEXukKPZt82BlKk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
@@ -44,14 +41,8 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Garmin Vivosmart 4
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
 
 Lifewire / Erika Rawes
@@ -76,9 +67,6 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -113,11 +101,15 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: Garmin Connect App**
 
  The Vivosmart 4 doesn’t have any hard buttons, but rather a monotone touchscreen that you double-tap on the bottom portion to awaken. You scroll up and down to navigate through the various functions. I’m not in love with the interface, which isn’t particularly intuitive or feature-rich. Although companion apps are important to any good fitness tracker, the Vivosmart 4 relies too heavily on its app. It doesn’t have built-in GPS either, so it’s more tethered to your phone than some other fitness trackers on the market.
@@ -131,13 +123,24 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery: May last a full seven days**
 
  The battery is supposed to last for up to seven days, but the battery life depends largely on the features you use and how frequently you use the tracker. If you’re only passively tracking a few metrics, your battery might last a full week. If you’re constantly checking your heart rate, pulse ox, stress levels, sleep, and counting reps several times a day, your battery will not last that long. I got three and a half days of battery life when taking full advantage of the fitness tracker’s features.
 
  The battery charges using a clip-on charger. It took an average of 90 minutes to reach a full charge (from about 10% full).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Reasonable**
 
@@ -153,9 +156,6 @@ Lifewire / Erika Rawes
 
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Vivosmart 4
@@ -181,14 +181,11 @@ Lifewire / Erika Rawes
 * Other features  training, planning and analysis, heart rate, running, cycling, swimming, kids activity tracking
 * What’s included  Vívosmart 4 smart activity tracker, Charging/data cable, Manuals
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -196,3 +193,21 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/asterclass-in-length-management-youtube-vids-for-2024/"><u>[New] Masterclass in Length Management YouTube Vids for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-valheim-keeps-freezing-and-stuttering-on-pc/"><u>[SOLVED] Valheim Keeps Freezing and Stuttering on PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-golivebeam-simplified-method-to-broadcast-a-podcast-live/"><u>[Updated] 2024 Approved GoLiveBeam Simplified Method to Broadcast a Podcast Live</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-2023-quick-share-tweeted-videos-for-whatsapp/"><u>[Updated] In 2024, 2023 Quick Share Tweeted Videos for WhatsApp</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-your-hand-on-the-latest-50-youtube-promo-banners/"><u>[Updated] In 2024, Get Your Hand on the Latest 50 YouTube Promo Banners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximize-your-iphone-x-10-proven-strategies/"><u>2024 Approved Maximize Your iPhone X 10 Proven Strategies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-reliability-and-functionality-of-the-sea-tech-blu-ray-external-drive-for-usb-connectivity/"><u>Evaluating the Reliability and Functionality of the Sea Tech Blu-Ray External Drive for USB Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-the-high-quality-byb-e430-led-lamps-with-adjustable-arms/"><u>Expert Evaluation of the High-Quality BYB E430 LED Lamps with Adjustable Arms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mophie-powerstation-ac-examined-a-tale-of-luxury-and-convenience-in-charging-technology/"><u>Mophie Powerstation AC Examined: A Tale of Luxury and Convenience in Charging Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-viewing-with-the-samsung-qn55q6f-the-ultimate-4k-hdr-smart-tv-review/"><u>Revolutionize Your Viewing with the Samsung QN55Q6F - The Ultimate 4K HDR Smart TV Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-originality-of-knack-amidst-a-game-lacking-innovation/"><u>Unveiling the Originality of Knack Amidst a Game Lacking Innovation</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Smart Strategies: Managing & Reducing Your Monthly Streaming Service Costs"
-date: 2024-09-04T16:15:11.278Z
-updated: 2024-09-05T16:15:11.278Z
+date: 2024-09-10T18:02:08.973Z
+updated: 2024-09-14T17:54:54.478Z
 tags:
   - games
   - tv
@@ -47,12 +47,6 @@ Jordan Gloor / How-To Geek
 
 ![Screenshot of the homepage on Kanopy's website on a desktop computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/kanopy-homepage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Two apps allow you to stream free movies and shows with no ads whatsoever, all thanks to a system of public libraries and universities. The first is called Kanopy. This free streaming service offers classic films, indie favorites, and documentaries. If you’re a fan of A24, you’ll find a wide selection of their movies through Kanopy alongside classes from The Great Courses.
 
  To access Kanopy, you’ll need to log in with an account from a participating library or university. You can [check to see if your library participates with Kanopy](http://www.kanopy.com/en/signup).
@@ -66,11 +60,18 @@ Jordan Gloor / How-To Geek
  Hoopla also offers BingePasses, which are week-long periods to access additional streaming services like CuriosityStream and Hallmark Movies Now. You can easily [see if your library participates with Hoopla](http://www.hoopladigital.com/register).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Rotate Streaming Services
 
  Another way I keep my streaming service bills in check is by rotating my streaming services. Seriously, you don’t need to sign up for everything at once.
@@ -97,12 +98,6 @@ Jordan Gloor / How-To Geek
 
 ![The Disney Bundle promotional page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/799bad5a-5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Disney
 
  A growing number of streaming services offer “bundle” options. This consolidates multiple services into one bill that is also lower in cost than if you were to purchase the services separately. I've gotten bundles through my cell phone provider, Verizon, which has helped me cut back on expenses.
@@ -117,12 +112,6 @@ Disney
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  Despite a switch to a digital signal, this is something that hasn’t changed since the dawn of television. You can still [plug an antenna into a TV and watch local channels for free](https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-steelseries-arctis-pro-microphone-complete-solution/). The rollout of NextGen TV also means you can get nifty new features like the ability [to pause and rewind certain over-the-air channels](https://instagram-clips.techidaily.com/updated-unleash-a-flood-of-supporters-attain-a-million-ish-on-ig-each-month-for-2024/).
@@ -130,27 +119,29 @@ Corbin Davenport / How-To Geek
  With an antenna, I get dozens of local channels like CBS, FOX, ABC, and NBC, all without paying anything. For comparison, the cheapest live TV streaming service to include the big four broadcasters is YouTube TV, which costs $73 a month. Plus, with an over-the-air DVR like the ones from Tablo and AirTV. I've been able to record shows and cast them on other devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Refer Friends and Get Bill Credits
 
 ![Screenshot of a form on Fubo's website where you can invite friends to get $30 off your bill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/fubo-refer-a-friend.png) 
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you subscribe to certain live TV services like YouTube TV or Fubo, you can save some money by referring friends and family. If you share your referral code with someone else and they enter it when checking out, you’ll both get a bill credit. So it’s a win-win! I've gotten some huge discounts on YouTube TV this way.
 
 ---
@@ -163,8 +154,6 @@ Corbin Davenport / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,51 +163,18 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/free-download-official-hp-spectre-x360-windows-driver-software/"><u>[Free Download] Official HP Spectre X360 Windows Driver Software</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-navigating-the-process-of-embedding-vimeo-media-in-ppts/"><u>[New] 2024 Approved  Navigating the Process of Embedding Vimeo Media in PPTs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-best-translation-devices-to-subtitle-videos/"><u>[New] Best Translation Devices to Subtitle Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-text-tilt-treasures/"><u>[New] In 2024, Top Text Tilt Treasures</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-laughing-moments-crafting-with-adobe/"><u>[Updated] 2024 Approved  Laughing Moments  Crafting with Adobe</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-vsco-photo-workflow-analysis/"><u>[Updated] The Ultimate VSCO Photo Workflow Analysis</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-analyzing-video-success-self-vs-rivals-in-the-youtube-arena/"><u>2024 Approved  Analyzing Video Success  Self Vs. Rivals in the YouTube Arena</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-downloading-youtube-playlists-made-simple-and-easy/"><u>2024 Approved  Downloading YouTube Playlists Made Simple & Easy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-most-effective-mobile-signal-amplifiers-your-comprehensive-guide/"><u>2024'S Most Effective Mobile Signal Amplifiers: Your Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-top-netgear-routers-ranked-find-your-perfect-home-wifi-solution-today/"><u>2024'S Top Netgear Routers Ranked: Find Your Perfect Home WiFi Solution Today!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/acurites-model-01036m-weather-station-reviewed-hassle-free-installation-and-reliable-construction-insights/"><u>AcuRite's Model 01036M Weather Station Reviewed: Hassle-Free Installation & Reliable Construction Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-vision-pro-assessment-are-its-features-worth-it/"><u>Apple Vision Pro Assessment: Are Its Features Worth It?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/asus-zephyrus-g14-analysis-ultimate-performance-meets-portability/"><u>Asus Zephyrus G14 Analysis: Ultimate Performance Meets Portability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/caixuns-value-proposition-delving-into-its-75-inch-4k-capable-android-tv-for-cost-conscious-buyers/"><u>Caixun's Value Proposition: Delving Into Its 75-Inch, 4K Capable Android TV for Cost-Conscious Buyers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-test-of-the-poweradd-pilot-pro2-the-ultimate-battery-bank-for-your-tech-devices/"><u>Comprehensive Test of the POWERADD Pilot Pro2: The Ultimate Battery Bank for Your Tech Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-top-performing-bluetooth-phones-of-2024/"><u>Discover the Top Performing Bluetooth Phones of 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/eero-pro-router-range-review-achieving-impeccable-internet-access-throughout-your-residence/"><u>Eero Pro Router Range Review: Achieving Impeccable Internet Access Throughout Your Residence</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-cutting-edge-technology-without-overspending-on-an-lg-24lh4830-smart-tv/"><u>Experience Cutting-Edge Technology Without Overspending on an LG 24LH4830 Smart TV</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-elite-linkedin-learning-courses-curated-success/"><u>Explore Elite LinkedIn Learning Courses Curated Success</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hands-on-experience-with-top-notch-dell-monitor-premium-anc-earphones-and-high-definition-camera/"><u>Hands-On Experience with Top-Notch Dell Monitor, Premium ANC Earphones, & High Definition Camera</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/head-to-head-showdown-apple-tv-4k-stacked-against-roku-ultra/"><u>Head-to-Head Showdown: Apple TV 4K Stacked Against Roku Ultra</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-lava-yuva-3-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Yuva 3 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-to-review-and-edit-web-pages-pre-upload-for-a-flawless-launch/"><u>How To Review and Edit Web Pages Pre-Upload for a Flawless Launch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-the-glossary-of-virtual-worlds/"><u>In 2024, Grasping the Glossary of Virtual Worlds</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 6</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-vivo-s18e-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo S18e Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-hp-stream-14-economical-windows-notebook-and-its-limitations/"><u>In Depth Look at the HP Stream 14 - Economical Windows Notebook & Its Limitations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s5e-premium-features-at-your-fingertips/"><u>In-Depth Analysis of the Samsung Galaxy Tab S5e: Premium Features at Your Fingertips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inexpensive-camera-photo-quality-vs-frustrating-nikon-a10-ui/"><u>Inexpensive Camera - Photo Quality Vs. Frustrating Nikon A10 UI</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-long-range-routers-discover-the-most-efficient-models-on-the-market/"><u>Mastering Long-Range Routers : Discover the Most Efficient Models on the Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/neighborville-showdown-a-hilarious-critique-of-plants-vs-zombies/"><u>Neighborville Showdown: A Hilarious Critique of Plants Vs. Zombies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/photography-made-simple-with-the-prime-amazon-basics-tripod/"><u>Photography Made Simple with the Prime Amazon Basics Tripod</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/premium-face-off-comparing-the-ipad-air-n-4-and-samsung-galaxy-tab-s7plus/"><u>Premium Face-Off: Comparing the iPad Air N 4 and Samsung Galaxy Tab S7+</u></a></li>
-<li><a href="https://windows11.techidaily.com/quickly-restart-print-spool-in-windows/"><u>Quickly Restart Print Spool in Windows</u></a></li>
-<li><a href="https://techidaily.com/remove-honor-lock-screen-without-password-honor-play-40c-by-drfone-android-unlock-android-unlock/"><u>Remove Honor Lock Screen without Password(Honor Play 40C)</u></a></li>
-<li><a href="https://techidaily.com/remove-p40-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove P40 unlock screen</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-the-elder-scrolls-v-skyrim-why-its-a-must-have-for-switch-gamers/"><u>Review of The Elder Scrolls V: Skyrim - Why It's a Must-Have for Switch Gamers</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-waiting-start-typing-smoothly-solve-keyboard-lag-in-windows-10/"><u>Stop Waiting, Start Typing Smoothly - Solve Keyboard Lag in Windows 10!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sunbritetvs-indestructible-55-inch-4k-ultra-hd-for-your-outdoor-entertainment-space-vivid-visuals-superior-durability/"><u>SunBriteTV's Indestructible 55-Inch 4K Ultra HD for Your Outdoor Entertainment Space: Vivid Visuals, Superior Durability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/taking-e-readers-to-the-next-level-expert-insights-on-amazons-2018-kindle-paperwhite/"><u>Taking E-Readers to the Next Level: Expert Insights on Amazon's 2018 Kindle Paperwhite</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-lost-and-found-chronicles-totan-banerjees-guide-to-data-recovery-at-stellar/"><u>The Lost & Found Chronicles: Totan Banerjee’s Guide to Data Recovery at Stellar</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/top-ranking-ipad-file-organizers-transfer-files-with-ease/"><u>Top-Ranking iPad File Organizers: Transfer Files with Ease</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-singing-machine-sml385btbk-hands-free-user-friendly-karaoke-experience/"><u>Ultimate Guide to Singing Machine SML385BTBK: Hands-Free, User-Friendly Karaoke Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/user-guide-and-expert-insight-on-maximizing-your-investment-with-a-185-wh50k-mah-power-bank-from-maxoak/"><u>User Guide and Expert Insight on Maximizing Your Investment with a 185 Wh/50k mAh Power Bank From MaxOak</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leveraging-vocal-charisma-to-enrich-ppt-storytelling/"><u>[New] Leveraging Vocal Charisma to Enrich PPT Storytelling</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-secrets-to-compelling-instagram-video-descriptions/"><u>[New] The Secrets to Compelling Instagram Video Descriptions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevating-live-play-with-professional-gear-lists/"><u>[Updated] In 2024, Elevating Live Play with Professional Gear Lists</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-investigating-fb-video-shape-variance/"><u>[Updated] In 2024, Investigating FB Video Shape Variance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-impressive-srt-converters-for-mac-and-windows/"><u>[Updated] Top 10 Impressive SRT Converters for Mac and Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-action-cameras-with-a-front-facing-screen-for-2024/"><u>Best Action Cameras with A Front Facing Screen for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-power-of-affordable-innovation-with-oneplus-nord-n10-5g/"><u>Experience the Power of Affordable Innovation with OnePlus Nord N10 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-amazon-fire-hd-10-your-one-stop-media-tablet-solution/"><u>Expert Insights on the Amazon Fire HD 10: Your One-Stop Media Tablet Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-advanced-features-of-xp-pen-artist-16-pro-a-top-choice-for-illustrators/"><u>Expert Review on the Advanced Features of XP-Pen Artist 16 Pro - A Top Choice for Illustrators</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-managing-your-pets-diet-with-the-petsafe-healthy-pet-automatic-feeder/"><u>Expert Review: Managing Your Pet's Diet with the PetSafe Healthy Pet Automatic Feeder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>In 2024, Unleashing the Power of Voice MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-art-of-recording-discord-conversations-in-real-time-for-2024/"><u>Unveiling the Art of Recording Discord Conversations in Real-Time for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-mp4-video-tag-editors/"><u>Updated In 2024, The Ultimate Guide to MP4 Video Tag Editors</u></a></li>
 </ul></div>
+

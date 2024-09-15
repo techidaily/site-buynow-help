@@ -1,7 +1,7 @@
 ---
 title: "Moto G Power Showcases Impressive Energy Efficiency in Its Sleek Design: A Comprehensive Review"
-date: 2024-08-09T00:38:57.760Z
-updated: 2024-08-10T00:38:57.760Z
+date: 2024-09-11T06:34:04.413Z
+updated: 2024-09-14T20:12:51.611Z
 categories:
   - BestProducts
 description: "This Article Describes Moto G Power Showcases Impressive Energy Efficiency in Its Sleek Design: A Comprehensive Review"
@@ -13,14 +13,8 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Clearstream ECLIPSE
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/C1hoQetKMx7bAHqwsQ9gt0Fz_S0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_HeroSquare-79582ad545a44cf1993681dff0c33449.jpg)
 
 Lifewire / Jonno Hill
@@ -44,9 +38,6 @@ Lifewire / Jonno Hill
 
 ## Clearstream ECLIPSE
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/0gXsFyigpZzsnNAEj3tIrKImB8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_HeroSquare-79582ad545a44cf1993681dff0c33449.jpg)
 
 Lifewire / Jonno Hill
@@ -74,16 +65,10 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Inoffensive but unexceptional**
 
  The ClearStream Eclipse Antenna isn’t the most beautiful piece of hardware to ever grace my living room, but it’s inoffensive enough to not really be an issue. The antenna has a thin, flat, disc shape that is black on one side and white on the other. It is designed to be placed directly onto a flat surface, but you will probably be able to get away with a lot of different orientations depending on how close you are to the signal source.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## **Setup: Simple and easy**
 
  The ClearStream Eclipse Antenna has the simplest setup of all the HDTV antennas I’ve tested. There is no mounting hardware, no power adapter, and nothing else to worry about. The antenna comes with a strip of adhesive that can be used to affix it directly to a wall or other preferred surface.
@@ -91,6 +76,13 @@ Lifewire / Jonno Hill
  The ClearStream Eclipse Antenna had the best results of any unpowered antenna, even beating out a few of the powered ones.
 
  Luckily the ClearStream Eclipse Antenna comes with a 12ft coaxial cable, so next simply attach the cable to both the antenna and your TV. Make sure to run a channel scan first for best results.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Above average**
 
@@ -102,14 +94,25 @@ Lifewire / Jonno Hill
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/i57THpEHitQ6h-N5c-bgGLEHwJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_04-6ea1dbbe93374539876c7e76dcebb18e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Not bad for the performance**
 
  The ClearStream Eclipse Antenna lands at an MSRP of $40, putting it towards the high end of the price spectrum, especially where non-powered antennas are concerned. It did do one of the best jobs of supporting as many channels as possible, so the price is somewhat justified. Then again, every single one of the indoor antennas I’ve tested was able to handle the major network channels clearly and without issue, so a high channel number might not mean more than peace of mind in practical terms.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **ClearStream Eclipse Antenna vs Winegard FL5500A FlatWave Antenna**
 
@@ -133,14 +136,11 @@ Lifewire / Jonno Hill
 * Range  35 miles
 * Warranty  Lifetime parts
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,3 +148,20 @@ Lifewire / Jonno Hill
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-how-to-record-multiple-monitors/"><u>[New] In 2024, How to Record Multiple Monitors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-maximize-your-cricket-viewing-with-premium-livestreams/"><u>2024 Approved How to Maximize Your Cricket Viewing with Premium Livestreams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/auditory-enhancement-unlocked-delve-into-freeware-audio-effect-software-for-2024/"><u>Auditory Enhancement Unlocked Delve Into Freeware Audio Effect Software for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-phenomenally-performing-docooler-usb-20-camera-at-12mp-resolution/"><u>Comprehensive Analysis of the Phenomenally Performing Docooler USB 2.0 Camera at 12MP Resolution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-eero-pro-mesh-network-test-run-seamless-wi-fi-connectivity-across-all-homes/"><u>Comprehensive Eero Pro Mesh Network Test Run: Seamless Wi-Fi Connectivity Across All Homes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-quickly-capture-your-screen-on-windows-11-four-steps-inside/"><u>How to Quickly Capture Your Screen on Windows 11 - Four Steps Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pre-purchase-checklist-choosing-the-right-printer-for-you/"><u>Pre-Purchase Checklist: Choosing the Right Printer for You</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-steps-for-when-your-logitech-c920-webcam-stops-working-properly/"><u>Solution Steps for When Your Logitech C920 Webcam Stops Working Properly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-checklist-5-key-points-to-review-before-choosing-a-game-console/"><u>The Essential Checklist: 5 Key Points To Review Before Choosing A Game Console</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-android-photo-tech-tips-and-apps-guide-for-2024/"><u>Top Android Photo-Tech Tips & Apps Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/utilizing-continuous-lights-for-comfortable-filming-for-2024/"><u>Utilizing Continuous Lights for Comfortable Filming for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nokia G42 5G | Dr.fone</u></a></li>
+</ul></div>
+

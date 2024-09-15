@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2024-09-09T04:11:25.174Z
-updated: 2024-09-10T04:11:25.174Z
+date: 2024-09-13T04:15:21.459Z
+updated: 2024-09-15T09:22:07.620Z
 tags:
   - games
   - tv
@@ -11,20 +11,8 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-panel-with-a-tv-displaying-an-image-of-the-2024-paris-olympics-and-an-antenna-on-the-shelf.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Which Channels are Broadcasting the Olympics?](https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/)
@@ -35,12 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The 2024 Summer Olympics are landing in Paris at the end of July, and you don't need cable to access a lot of the action. NBC will broadcast many daytime and primetime events. With the aid of an over-the-air (OTA) antenna, you can watch for free.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Which Channels are Broadcasting the Olympics?
 
  NBCUniversal networks are the home of the 2024 Summer Olympics. During the day, NBC will air [at least nine hours](https://www.peacocktv.com/blog/2024-olympics-events-to-stream-live-on-peacock) of event coverage. If you have a local NBC affiliate in your area (and you almost certainly do), this is where you can [watch a lot of free events with an OTA antenna](https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-steelseries-arctis-pro-microphone-complete-solution/).
@@ -49,18 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to NBC, you will find some Olympics content streaming on the Peacock app, GOLF Channel, USA Network, CNBC, and E!. Telemundo will air Spanish-language coverage. However, Peacock and the extended range of NBCUniversal channels are not accessible via antenna and can get expensive due to price creep.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Do I Watch for Free?
 
  OTA antennae pick up free broadcast frequencies, allowing you to tune into television stations without paid cable. Depending on where you live, you may be able to access a handful of local channels or a wider range of HD networks. You are likely to have access to NBC.
@@ -82,26 +52,28 @@ Jordan Gloor / How-To Geek
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Which Olympic Events I Can Watch for Free?
 
  You will be able to watch NBC Olympics coverage using an antenna in most places. You'll find the [full schedule on the Olympics' official website](https://www.nbcolympics.com/full-schedule). NBC Sports has also [published a schedule](https://www.nbcsports.com/olympics/news/paris-2024-olympic-day-by-day-competition-schedule) adjusted for Eastern Standard Time in the United States (six hours behind Paris).
 
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Watch 2024 Olympic Gymnastics
 
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
 
@@ -117,8 +89,6 @@ Jordan Gloor / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,39 +98,17 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-prime-7-cameras-elevating-virtual-event-coverage-and-vlogging/"><u>[New] 2024 Approved  Prime 7 Cameras Elevating Virtual Event Coverage and Vlogging</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-boosting-revenue-through-effective-facebook-video-marketing-for-2024/"><u>[New] Boosting Revenue Through Effective Facebook Video Marketing for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ecure-online-methods-convert-youtube-audio-to-mp3-effortlessly-and-safely/"><u>[New] Secure Online Methods  Convert YouTube Audio to MP3 Effortlessly & Safely</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-srt-to-txt-guide-for-time-saving/"><u>[New] Transformative SRT to TXT Guide for Time-Saving</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hustle-humor-fast-track-funny-with-kapwing/"><u>[Updated] Hustle Humor  Fast-Track Funny with Kapwing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-guide-testing-mycam-recording-capabilities/"><u>[Updated] Ultimate Guide  Testing MyCam Recording Capabilities</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-guide-to-slow-motion-video-capturing-with-gopro-hero-10/"><u>2024 Approved  Expert Guide to Slow Motion Video Capturing with GoPro Hero 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-cinema-scenes-to-speaking-scenes-discovering-the-top-32-tools-for-video-translation/"><u>2024 Approved  From Cinema Scenes to Speaking Scenes  Discovering the Top 32 Tools for Video Translation</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-13-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 13 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-gamers-delight-in-depth-review-of-the-fellowes-microban-wired-keyboard/"><u>Budget-Friendly Gamer's Delight: In-Depth Review of the Fellowes Microban Wired Keyboard</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-of-the-economical-z-edge-z3plus-a-dashboard-essential/"><u>Comprehensive Assessment of the Economical Z-Edge Z3+: A Dashboard Essential</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-gotrax-gxl-v2-your-ideal-speed-optimized-city-scooter/"><u>Comprehensive Evaluation of the Gotrax GXL V2 - Your Ideal Speed-Optimized City Scooter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-quality-of-docoolers-12-megapixel-usb-20-an-honest-review-for-photography-enthusiasts/"><u>Evaluating the Quality of Docooler's 12 Megapixel USB 2.0: An Honest Review for Photography Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-latest-google-wireless-nest-video-doorbells-battery-edition/"><u>Expert Analysis of the Latest Google Wireless Nest Video Doorbells - Battery Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-the-samsung-galaxy-tab-s7plus-a-deep-dive-into-an-opulent-powerful-tablet/"><u>Experts Weigh in on the Samsung Galaxy Tab S7+: A Deep-Dive Into an Opulent, Powerful Tablet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fitbit-sense-the-ultimate-health-and-wellbeing-companion-vs-apple-watch/"><u>Fitbit Sense: The Ultimate Health and Wellbeing Companion Vs. Apple Watch</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-scenes-of-eco-friendly-visual-tricks-in-media/"><u>In 2024, Behind the Scenes of Eco-Friendly Visual Tricks in Media</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-note-13-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi Note 13 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-tecno-pop-8-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Tecno Pop 8 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-improve-real-time-periscope-performance/"><u>In 2024, Improve Real-Time Periscope Performance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-the-stanley-j5c09-a-combination-of-large-capacity-and-reliable-use/"><u>In-Depth Review: The Stanley J5C09 - A Combination of Large Capacity and Reliable Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-trick-tutorial-customizing-folder-colors-with-ease/"><u>Mac Trick Tutorial: Customizing Folder Colors with Ease</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-wi-fi-performance-with-the-netgear-nighthawk-ax8-the-best-mesh-range-extender-supporting-wi-fi-6-technology/"><u>Maximizing Wi-Fi Performance with the Netgear Nighthawk AX8 - The Best Mesh Range Extender Supporting Wi-Fi 6 Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oneplus-6t-analysis-exceptional-speed-and-value/"><u>OnePlus 6T Analysis: Exceptional Speed and Value</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active-an-in-depth-analysis-for-the-modern-health-enthusiasts-smartwatch/"><u>Samsung Galaxy Watch Active - An In-Depth Analysis for the Modern Health Enthusiast's Smartwatch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-considerations-for-buying-the-perfect-printer-what-you-need-to-know-first/"><u>Smart Considerations for Buying the Perfect Printer: What You Need to Know First</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-all-in-one-workstation-showdown-evaluating-the-microsoft-surface-studio-evolution/"><u>The All-in-One Workstation Showdown: Evaluating the Microsoft Surface Studio Evolution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-benefits-of-choosing-fitbit-versa-lite-for-affordable-and-effective-fitness-tracking-solutions/"><u>The Benefits of Choosing Fitbit Versa Lite for Affordable and Effective Fitness Tracking Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-future-of-audio-sonys-3d-wireless/"><u>The Future of Audio - Sony's 3D Wireless</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-surprising-potential-of-the-minuscule-giant-a-complete-look-at-apples-iphone-12-mini/"><u>The Surprising Potential of the Minuscule Giant: A Complete Look at Apple's iPhone 12 Mini</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-linkedin-courses-to-boost-your-career/"><u>Ultimate Selection of Premium LinkedIn Courses to Boost Your Career</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-vertical-computer-mice-for-the-year-2024/"><u>Ultimate Selection of Premium Vertical Computer Mice for the Year 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-asus-rog-gt-ac5300-a-top-choice-for-gamers-and-hardcore-techies/"><u>Unveiling the Power of Asus ROG GT-AC5300: A Top Choice for Gamers and Hardcore Techies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-top-4-advanced-ai-narratives-generators/"><u>Unveiling Top 4 Advanced AI Narratives Generators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-how-to-use-story-remix-to-edit-a-video-in-windows-10-photos/"><u>[New] How to Use Story Remix to Edit a Video in Windows 10 Photos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-sign-up-intermission-explained-when-are-new-slots-expected-to-resume/"><u>ChatGPT Sign-Up Intermission Explained – When Are New Slots Expected to Resume?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/implementing-effective-privacy-rules-for-youth-on-facebook/"><u>Implementing Effective Privacy Rules for Youth on Facebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A05</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo V27 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-with-the-apple-watch-s-eries-9-assessment/"><u>Ultimate Guide to Choosing with the Apple Watch S ^Eries 9 Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-mini-marvel-a-comprehensive-look-at-the-xbox-series-ss-incredible-tech/"><u>Unboxing the Mini Marvel: A Comprehensive Look at the Xbox Series S's Incredible Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unihertz-atom-xl-assessment-compact-durability-meets-mighty-performance/"><u>Unihertz Atom XL Assessment: Compact Durability Meets Mighty Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-insights-into-google-wireless-nest-doorbells-with-built-in-batteries/"><u>Unveiling Insights Into Google Wireless Nest Doorbells with Built-In Batteries</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-gen-2-of-googles-nest-hub-an-in-depth-analysis-and-the-case-for-adding-a-camera/"><u>Unveiling the Gen 2 of Google's Nest Hub: An In-Depth Analysis and the Case for Adding a Camera</u></a></li>
 </ul></div>
+

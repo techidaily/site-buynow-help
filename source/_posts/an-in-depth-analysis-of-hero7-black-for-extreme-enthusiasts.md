@@ -1,7 +1,7 @@
 ---
 title: An In-Depth Analysis of HERO7 Black for Extreme Enthusiasts.
-date: 2024-08-09T00:38:55.077Z
-updated: 2024-08-10T00:38:55.077Z
+date: 2024-09-12T03:44:08.935Z
+updated: 2024-09-15T06:49:19.229Z
 categories:
   - BestProducts
 description: This Article Describes An In-Depth Analysis of HERO7 Black for Extreme Enthusiasts.
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/kX3LwjwQxlhqUHDBJfq2I2wIMm0=/400x300/fi
 
 ## Microsoft Xbox One Elite Series 2 Controller
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/425lsqo6i1_7Vzb3ebrBxtVPgfM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
 
 Lifewire / Zach Sweat
@@ -42,9 +39,6 @@ Lifewire / Zach Sweat
 
 ## Microsoft Xbox One Elite Series 2 Controller
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
 
 Lifewire / Zach Sweat
@@ -74,9 +68,6 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Dark, sturdy, and feature-packed**
 
  The general format of the Elite Series 2 takes the basic XB1 controller and builds upon that excellent design by adding in tons of extras and features. However, unlike the first Elite controller, this version uses the newer One S model controller as its basis. This means there is no more two-piece design where the top and bottom shells of the controller are separate. The build is less flashy perhaps, no longer sporting a two-tone finish, but it makes it feel much more solid and creates a sleeker look.
@@ -101,9 +92,6 @@ Lifewire / Zach Sweat
 
  Inside the case, the material has also been swapped from grey to black to continue the darker theme of the Series 2\. You’ll also notice the foam pad is no longer here, as that’s where the dock sits. This dock can be removed or used inside the case and attaches with a strong magnet. The last two parts of the case are unchanged from Series 1, with a mesh cradle for accessories on the top and a foam organizer to hold all the swappable thumbsticks and paddles when not in use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
  Lifewire / Zach Sweat
@@ -120,16 +108,17 @@ Lifewire / Zach Sweat
 
  The only real issue some users may see as a downside of this controller is that it’s quite a hefty device. The controller weighs 348 grams with all attachments, so it might take some getting used to compared to the 210 gram S controller. I personally love the bulk, as it feels premium, but it might not be for everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
 
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process and Software: Bluetooth, at long last**
 
  One of our biggest gripes with the original Elite controller was that it lacked Bluetooth functionality despite its premium price tag. Seeing how the much cheaper ONE S variant included this, it was even more frustrating. Thankfully, Microsoft listened to our collective rants and added Bluetooth to the Series 2, which drastically improves the number of devices it can be used with.
@@ -151,6 +140,13 @@ Lifewire / Zach Sweat
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
 
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance/Durability: Enhanced performance and durability**
 
@@ -174,6 +170,13 @@ Lifewire / Zach Sweat
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -182,9 +185,6 @@ Lifewire / Zach Sweat
 
  The argument could be made that considering you get a Bluetooth controller capable of working on XB1 and PC, a charging dock and a nice little case to keep it all together, the cost isn’t awful. But if you want all of those things for less, you can grab an S controller, dock and case for far, far less.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
  Lifewire / Zach Sweat
@@ -203,9 +203,6 @@ Lifewire / Zach Sweat
 
  Everything we disliked about the original Elite controller has been improved with the second iteration, making it the best first-party controller you can get for XB1 or PC. However, the steep price point might be a hard pill to swallow for users who don’t like to splurge.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Xbox One Elite Series 2 Controller
@@ -223,14 +220,11 @@ Lifewire / Zach Sweat
 * Warranty  90-day warranty
 * Compatibility  All Xbox One Consoles, Windows 10 PCs, Bluetooth devices
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -238,3 +232,19 @@ Lifewire / Zach Sweat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-the-transition-moving-your-snapchat-savings-home/"><u>[New] 2024 Approved Mastering the Transition Moving Your Snapchat Savings Home</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-blazing-lanes-at-sochi-2022-games/"><u>[New] Blazing Lanes at Sochi 2022 Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-visual-storytelling-key-shot-techniques-for-beginners/"><u>[New] Mastering Visual Storytelling Key Shot Techniques for Beginners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>[New] Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-closer-look-the-robust-and-user-friendly-design-of-the-acurite-pro-01036m-weather-station-reviewed/"><u>A Closer Look: The Robust & User-Friendly Design of the AcuRite Pro 01036M Weather Station Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sleepy-screenplays-for-nights-end-for-2024/"><u>Sleepy Screenplays for Night's End for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-balance-between-cost-and-capability-in-the-alienware-aurora-r7-review/"><u>The Balance Between Cost and Capability in the Alienware Aurora R7 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-audio-delight-with-the-sandisk-clip-jam/"><u>Unleashing Audio Delight with the SanDisk Clip Jam</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-of-the-philips-hf3505-alarm-clock-with-natural-wake-up-light-technology/"><u>Unveiling the Benefits of the Philips HF3505 Alarm Clock with Natural Wake-Up Light Technology</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063612923-upgrade-your-wired-headset-today-easily/"><u>Upgrade Your Wired Headset Today, Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-distrust-in-artificial-intelligence-isnt-extreme/"><u>Why Distrust in Artificial Intelligence Isn't Extreme</u></a></li>
+</ul></div>
+

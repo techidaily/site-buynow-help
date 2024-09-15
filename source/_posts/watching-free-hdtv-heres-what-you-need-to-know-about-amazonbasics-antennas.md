@@ -1,7 +1,7 @@
 ---
 title: Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas!
-date: 2024-08-09T00:38:58.552Z
-updated: 2024-08-10T00:38:58.552Z
+date: 2024-09-13T23:56:50.672Z
+updated: 2024-09-14T16:25:28.911Z
 categories:
   - BestProducts
 description: This Article Describes Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas!
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/G6NVZKElOp84uFm7QUmSmpoSQ4s=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AmazonBasics Ultra-Thin Antenna
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/rS-RQyeAxU8gdzYheTg1qi5PFEY=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
@@ -65,10 +62,6 @@ Lifewire / Erika Rawes
 
  Indoor TV antennas, like the AmazonBasics Indoor Flat TV Antenna, can provide you with free broadcast TV channels. Once you pay the upfront cost for the antenna you’re not stuck with any monthly fees for your local channels. The[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) are nothing like the bunny ear style antennas from back in the day. The picture quality is comparable to what you’d get from the cable company or streaming service—or it's supposed to be. I tested the ultra-affordable AmazonBasics Indoor Flat TV Antenna for a week to see if its design, setup, and performance make it a viable option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## **Design: It’s all in the name (basic)**
 
  The AmazonBasics Antenna has a slim design—it’s about as thin as card stock at approximately one-tenth of an inch in thickness. It’s constructed of sturdy plastic, with a reversible black and white side to help it fit better with your home’s decor. It’s not the most attractive antenna, and the backboards smudge and show grease and fingerprints.
@@ -78,8 +71,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup: Relatively easy**
 
  Setting up the antenna is pretty straightforward. You start by plugging one end of the coaxial cable into the antenna, and then the other end to the coaxial/antenna-in connector to your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) .
@@ -88,16 +91,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Next, you change your TV to the correct input (usually TV, antenna, or Coax). Then, go to your TV’s menus and start the auto-programming process, which[scans for available channels](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) . The process takes a few minutes, and sometimes your TV won’t start to locate channels until about halfway through the auto-programming process.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Almost two dozen channels (in a rural area)**
 
  So many things[affect an antenna’s performance](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) —location, household electronics, tree cover, tower location, and more. The antenna displays channels of high quality. However, sometimes the channels would take a few seconds to load, and other times, I’d see a pixelated effect when I first changed the channel that would clear up after a few seconds. Once the picture was fully loaded, it was in clear high definition. The antenna is capable of displaying a clear HD picture, so I couldn’t tell the difference between the antenna’s picture and the picture from streaming services like Hulu or Netflix.
@@ -106,9 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Range: 35 miles**
 
  The AmazonBasics antenna has a 35-mile range, which isn’t very far considering 50 plus miles is becoming more common. It is omnidirectional, however, so you don’t need to point it in a specific direction. It supports UHF/VHF, so I was able to get a decent selection of channels.
@@ -117,17 +111,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Super affordable**
 
  The AmazonBasics Flat TV antenna sells in used condition on Amazon for only $13\. In new condition, it sells for $20, which is still a great deal. However, you can find other affordable antennas for between $20 and $50 that provide a much longer range, and many offer additional features, like a longer cable. With the AmazonBasics model, you can return the unit within 30 days if it doesn’t work in your area.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/MN6DSsu9Myyo6CdrSW5MJTjHoug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-4-fd9968307cb44c9d9e824750413e0028.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **AmazonBasics Indoor TV Antenna vs. Antop AT-127 Antenna**
 
  The Antop AT-127 (see[online](https://www.lowes.com/pd/ANTOP-Omni-Directional-Indoor-HD-UHF-VHF-TV-Antenna/1000503257?) ) is a 40-mile range antenna that sells for around $35\. It’s one of the better-looking antennas I’ve seen, as it’s reversible with faux light wood and dark wood sides. Unlike the AmazonBasics antenna, the Antop comes with a stand, and it has an easy-push connector for faster setup. These features go some ways towards justifying the Antop's higher price tag.
@@ -154,14 +159,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Ports  Coax
 * Cable length  10-foot Coax Cable
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,3 +171,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-exceptional-14-visual-text-motion-examples/"><u>[New] Exceptional 14 Visual Text Motion Examples</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-no-more-watermarks-iphones-and-tiktok-downloads/"><u>2024 Approved No More Watermarks IPhones and TikTok Downloads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effective-strategies-for-managing-a-bursting-steam-game-collection/"><u>Effective Strategies for Managing a Bursting Steam Game Collection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/emulate-and-enjoy-a-step-by-step-tutorial-for-adding-classic-games-to-steam-deck-with-emudeck-tools/"><u>Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-decreasing-quality-of-complimentary-offerings-at-the-epic-games-store/"><u>Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/five-years-on-the-critical-functions-yet-to-be-added-to-apple-tvplus/"><u>Five Years On: The Critical Functions Yet To Be Added To Apple TV+</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-smart-8-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Smart 8 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-6-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 6 in 5 Easy Ways | Dr.fone</u></a></li>
+</ul></div>
+

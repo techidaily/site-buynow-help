@@ -1,7 +1,7 @@
 ---
 title: Top Score! Unveiling Our Xbox One Elite Series 2 Controller Evaluation - A Masterpiece Among Gamepads
-date: 2024-08-09T00:38:55.602Z
-updated: 2024-08-10T00:38:55.602Z
+date: 2024-09-11T04:24:50.618Z
+updated: 2024-09-15T06:56:28.516Z
 categories:
   - BestProducts
 description: This Article Describes Top Score! Unveiling Our Xbox One Elite Series 2 Controller Evaluation - A Masterpiece Among Gamepads
@@ -68,9 +68,6 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Dark, sturdy, and feature-packed**
 
  The general format of the Elite Series 2 takes the basic XB1 controller and builds upon that excellent design by adding in tons of extras and features. However, unlike the first Elite controller, this version uses the newer One S model controller as its basis. This means there is no more two-piece design where the top and bottom shells of the controller are separate. The build is less flashy perhaps, no longer sporting a two-tone finish, but it makes it feel much more solid and creates a sleeker look.
@@ -95,10 +92,6 @@ Lifewire / Zach Sweat
 
  Inside the case, the material has also been swapped from grey to black to continue the darker theme of the Series 2\. You’ll also notice the foam pad is no longer here, as that’s where the dock sits. This dock can be removed or used inside the case and attaches with a strong magnet. The last two parts of the case are unchanged from Series 1, with a mesh cradle for accessories on the top and a foam organizer to hold all the swappable thumbsticks and paddles when not in use.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
  Lifewire / Zach Sweat
@@ -115,10 +108,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  The only real issue some users may see as a downside of this controller is that it’s quite a hefty device. The controller weighs 348 grams with all attachments, so it might take some getting used to compared to the 210 gram S controller. I personally love the bulk, as it feels premium, but it might not be for everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
 
  Lifewire / Zach Sweat
@@ -141,16 +130,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you plan to buy this controller to use with other electronics that support Bluetooth devices, make sure you do some research before committing to it, as it doesn’t always work with everything. That said, we did manage to pair the controller with a couple other devices that weren’t officially supported.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance/Durability: Enhanced performance and durability**
 
  To test the performance of the new Elite Series 2 controller, I put this device through several hours of gaming on both PC and Xbox One platforms running a number of games and layouts. The results were promising, so let’s take a closer look.
@@ -173,18 +170,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -193,11 +178,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The argument could be made that considering you get a Bluetooth controller capable of working on XB1 and PC, a charging dock and a nice little case to keep it all together, the cost isn’t awful. But if you want all of those things for less, you can grab an S controller, dock and case for far, far less.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -215,9 +203,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Everything we disliked about the original Elite controller has been improved with the second iteration, making it the best first-party controller you can get for XB1 or PC. However, the steep price point might be a hard pill to swallow for users who don’t like to splurge.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Xbox One Elite Series 2 Controller
@@ -235,14 +220,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Warranty  90-day warranty
 * Compatibility  All Xbox One Consoles, Windows 10 PCs, Bluetooth devices
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -250,3 +232,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-commanders-crusade-revealing-the-best-of-7-total-war-sagas/"><u>[Updated] Commanders' Crusade Revealing the Best of 7 Total War Sagas</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-aeuisy-portable-photovoltaic-generator-ideal-for-delicate-medical-equipment-operation/"><u>Comprehensive Guide to the AEUISY Portable Photovoltaic Generator: Ideal for Delicate Medical Equipment Operation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-power-of-tp-link-deco-p9-a-streamlined-approach-to-mesh-networking/"><u>Discover the Power of TP-Link Deco P9 - A Streamlined Approach to Mesh Networking</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-ultimate-tech-in-samsung-galaxy-tab-s6-dual-s-pen-dex-functionality-revealed/"><u>Exploring the Ultimate Tech in Samsung Galaxy Tab S6: Dual S Pen, DeX Functionality Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gpu-powered-winxvideo-ai-ultra-fast-conversion-of-videos-and-audios/"><u>GPU-Powered Winxvideo AI: Ultra-Fast Conversion of Videos & Audios</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-se-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone SE Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-wireless-charging-problems-using-our-7-tips-and-tricks/"><u>Troubleshoot Your iPhone's Wireless Charging Problems Using Our 7 Tips & Tricks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win1011-troubleshoot-missing-logitech-receptor/"><u>Win10/11 Troubleshoot: Missing Logitech Receptor</u></a></li>
+</ul></div>
+

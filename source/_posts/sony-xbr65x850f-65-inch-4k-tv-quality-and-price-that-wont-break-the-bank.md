@@ -1,7 +1,7 @@
 ---
 title: "Sony XBR65X850F (65-Inch) 4K TV: Quality & Price That Won't Break The Bank!"
-date: 2024-08-27T06:47:37.679Z
-updated: 2024-08-28T06:47:37.679Z
+date: 2024-09-13T23:43:07.231Z
+updated: 2024-09-14T16:16:13.363Z
 categories:
   - BestProducts
 description: "This Article Describes Sony XBR65X850F (65-Inch) 4K TV: Quality & Price That Won't Break The Bank!"
@@ -85,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
@@ -92,8 +99,12 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
  Sony has done a solid job here of making the setup process simple, or maybe we should be thanking Google for that, as this is an Android TV. All you need to do is follow along with the on-screen instructions and complete them as necessary. Using the remote, you’ll be prompted to choose a language, location, internet connection, sign into accounts, etc. Just stick to the guide.
@@ -101,8 +112,12 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
 
  This section is perhaps the most important for a TV, and while the XBR65X850F performs pretty well in some aspects here, it also has a few weak points.
@@ -111,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/r5reh9LkA7QvieX1JzBg5J8qNjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-5-00a73edbf91c48c6aa2718ab211f2e5d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
  However, IPS panels are notoriously bad for black uniformity and backlight bleed, which can cause clouding around the edges. We found this to be the case on our XBR65X850F, and while not unusable, it’s probably not the best option for viewing in dark environments because of this. The TV does have solid gray uniformity however, with no dirty screen effect. This is a huge boon if you’re a big sports fan.
@@ -130,10 +141,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
 ## **Audio Quality: Loud, but distorted**
@@ -156,9 +169,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Not bad for the size, but not the cheapest**
 
  The X850F series come in a range of sizes, from 65 to 85 inches, so the prices can vary considerably depending on which one you go with. Any TV in this size range is going to cost a good bit of coin, no matter the manufacturer, but Sony isn’t too bad here.
@@ -185,10 +195,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  The X850F series is far from perfect, but the Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV and its family are more than capable of providing a pleasurable viewing experience for most people. Despite this, there are probably better options out there that can be had for even less.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
@@ -203,14 +209,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * Speakers  2 full range, 2ch
 * Connectivity Options  4 HDMI
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -221,38 +224,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-mac-capture-software-excluding-traditional-bandicam/"><u>[New] 2024 Approved  Best Mac Capture Software Excluding Traditional Bandicam</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-dive-into-the-digital-ocean-unveiling-facebooks-video-depth-for-2024/"><u>[Updated] Dive Into the Digital Ocean  Unveiling Facebook's Video Depth for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-fb-ad-revenue-mastery-of-animation-for-higher-roi/"><u>[Updated] Elevate FB Ad Revenue  Mastery of Animation for Higher ROI</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-transforming-archived-content-for-livestream-audiences-on-facebook/"><u>[Updated] Transforming Archived Content for Livestream Audiences on Facebook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/combining-elegance-with-effective-signal-capture-a-review-of-the-clearstreams-2v-all-encompassing-hdtv-antenna/"><u>Combining Elegance with Effective Signal Capture: A Review of the ClearStream's 2V All-Encompassing HDTV Antenna</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-oneplus-section-1-understanding-rlc-loading-effects-on-power-systems/"><u>Comprehensive Analysis of the OnePlus # Section 1: Understanding RLC Loading Effects on Power Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-samsung-galaxy-watch-brilliant-design-and-features/"><u>Comprehensive Evaluation of Samsung Galaxy Watch: Brilliant Design & Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-unveiling-the-potential-of-rcas-innovative-home-security-camera/"><u>Comprehensive Guide: Unveiling the Potential of RCA's Innovative Home Security Camera</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cost-conscious-consumers-look-at-the-2econd-amazon-kindle-a-2019-value-assessment/"><u>Cost-Conscious Consumer's Look at the 2Econd Amazon Kindle: A 2019 Value Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-edge-wearable-tech-best-smart-goggles-for-visionaries/"><u>Cutting-Edge Wearable Tech: Best Smart Goggles for Visionaries</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-8-premier-mobile-video-game-titles-you-cant-miss/"><u>Discover The 8 Premier Mobile Video Game Titles You Can't Miss</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-pleasure-and-excitement-a-journey-through-pokemon-brilliant-diamond-and-shining-pearl/"><u>Discovering Pleasure and Excitement: A Journey Through 'Pokemon Brilliant Diamond' And 'Shining Pearl'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722897748885-do-you-really-need-a-dac-in-your-audio-setup-lets-find-out/"><u>Do You Really Need a DAC in Your Audio Setup? Let's Find Out</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-lightning-fast-internet-with-the-netgear-nighthawk-ac3200-a-complete-review-for-families-seeking-speed-and-safety/"><u>Experience Lightning-Fast Internet with the Netgear Nighthawk AC3200 - A Complete Review for Families Seeking Speed and Safety</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-lightweight-lenovo-thinkpad-x1-nano-laptop-review/"><u>Expert Analysis of the Lightweight Lenovo ThinkPad X1 Nano Laptop Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/explore-meme-land-top-9-tools-to-make-your-creative-mark-with-gifs/"><u>Explore Meme Land  Top 9 Tools to Make Your Creative Mark with GIFs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/galaxy-vs-ford-trucks-downsized-to-rc-glory-who-reigns-supreme/"><u>Galaxy vs Ford Trucks Downsized to RC Glory: Who Reigns Supreme?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-lava-blaze-curve-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Lava Blaze Curve 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hunt-for-the-best-price-drops-on-roku-during-prime-deals-weekend/"><u>Hunt for the Best Price Drops on Roku During Prime Deals Weekend!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-to-device-direct-and-indirect-video-transfers/"><u>In 2024, Instagram to Device  Direct and Indirect Video Transfers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-ring-video-doorbell-pro-unmatched-intelligence-in-home-security/"><u>In-Depth Analysis of the Ring Video Doorbell Pro: Unmatched Intelligence in Home Security</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-features-of-the-brainy-yet-stylish-tcl-32s325-led-tv-with-built-in-roku-a-detailed-examination/"><u>Navigating the Features of the Brainy Yet Stylish TCL 32S325 LED TV with Built-In Roku - A Detailed Examination</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-advanced-hardware-solutions-at-toms-electronics-guide/"><u>Navigating Through Advanced Hardware Solutions at Tom's Electronics Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-escort-ix-the-smart-gps-jammer-with-adaptive-learning-technology/"><u>Review of Escort iX: The Smart GPS Jammer with Adaptive Learning Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/standing-strong-and-steady-ergohead-mat-test-a-guide-to-all-day-comfort/"><u>Standing Strong and Steady: Ergohead Mat Test - A Guide to All-Day Comfort</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-journey-from-standard-windows-10-to-64-bit-powerhouse/"><u>The Journey From Standard Windows 10, To 64-Bit Powerhouse</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-galaxys-giant-a-review-of-the-ford-f-150-rc-vehicle-masterpiece/"><u>The Ultimate Guide to Galaxy's Giant: A Review of the Ford F-150 RC Vehicle Masterpiece</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-tablets-face-off-which-fits-you-better-the-versatile-amazon-fire-or-the-iconic-ipad/"><u>Top Tablets Face-Off: Which Fits You Better, the Versatile Amazon Fire or the Iconic iPad?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-best-free-green-screen-apps-for-mobile/"><u>Unleash Your Creativity Best Free Green Screen Apps for Mobile</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleashing-ultimate-gaming-experience-with-asus-vg2-the-ultimate-choice-for-console-gamers/"><u>Unleashing Ultimate Gaming Experience with Asus VG2# - The Ultimate Choice for Console Gamers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/what-to-weigh-choosing-the-right-televisions/"><u>What To Weigh: Choosing the Right Televisions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-the-xiaomi-mi-smart-band-e-is-a-standout-affordable-fitness-tracker-full-evaluation/"><u>Why the Xiaomi Mi Smart Band E Is a Standout Affordable Fitness Tracker - Full Evaluation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-transforming-vimeo-streams-into-reusable-mp3-audio/"><u>2024 Approved Transforming Vimeo Streams Into Reusable MP3 Audio</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-elite-selection-of-key-finders-reviewed/"><u>2024'S Elite Selection of Key Finders Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-lg-gram-17-blending-slim-design-with-top-tier-efficiency/"><u>A Closer Look at LG Gram 17 – Blending Slim Design with Top-Tier Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-critical-eye-on-cosmic-conspiracies-by-aminy/"><u>A Critical Eye on Cosmic Conspiracies by Aminy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/acer-aspire-e-15-review/"><u>Acer Aspire E 15 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/all-inclusive-evaluation-of-the-amazon-fire-hd/"><u>All-Inclusive Evaluation of the Amazon Fire HD</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic 5 Quickly | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-y28-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Y28 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-top-revenue-making-youtube-visionary/"><u>In 2024, Top Revenue-Making YouTube Visionary</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cting-youtube-videos-with-angle-rotation-mastery/"><u>Perfecting YouTube Videos with Angle Rotation Mastery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-missing-audio-in-discord-screen-shares-step-by-step-solutions/"><u>Resolving Missing Audio in Discord Screen Shares - Step-by-Step Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/transform-your-avi-images-from-video-to-graphics-using-filmora-for-2024/"><u>Transform Your AVI Images From Video To Graphics Using Filmora for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wireless-audio-on-a-budget-meet-activbuds/"><u>Wireless Audio on a Budget - Meet ActivBuds</u></a></li>
 </ul></div>
+

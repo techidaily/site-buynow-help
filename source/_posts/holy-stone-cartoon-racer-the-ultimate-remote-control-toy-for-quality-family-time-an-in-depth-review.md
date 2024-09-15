@@ -1,7 +1,7 @@
 ---
 title: "Holy Stone Cartoon Racer: The Ultimate Remote Control Toy for Quality Family Time - An In-Depth Review"
-date: 2024-08-09T00:38:54.088Z
-updated: 2024-08-10T00:38:54.088Z
+date: 2024-09-08T06:22:34.663Z
+updated: 2024-09-15T06:26:56.374Z
 categories:
   - BestProducts
 description: "This Article Describes Holy Stone Cartoon Racer: The Ultimate Remote Control Toy for Quality Family Time - An In-Depth Review"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 
 1.4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Docooler USB 2.0 12 Megapixel
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/9tSqTK9OEckACvQEhU5iBbHvMfM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_HERO_1LW4065141_7_Final_Square-bd507bc5d1d646f9a0d8d7466601f569.jpg)
@@ -41,9 +38,6 @@ Lifewire / James Huenink
 
 1.4
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Docooler USB 2.0 12 Megapixel
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/23qFdg2CyjsEX1uFEK5ESBb8kO0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_HERO_1LW4065141_7_Final_Square-bd507bc5d1d646f9a0d8d7466601f569.jpg)
@@ -73,23 +67,6 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## **Design: Flimsy and difficult to use**
 
  The first thing we noticed about the Docooler USB 2.0 12 Megapixel is how cheap it feels. The camera itself has a plastic, silver housing with a shiny silver focus ring on the end. It feels like it could break at any moment. The base is made of a transparent plastic, which is also available in blue and black. The plastic is so rigid that we expect it to break under regular use. Every time we adjusted the camera, the plastic creaked like a rusty door in a haunted house. Even in our short testing period, the joints started getting loose. We had to check several times just to make sure it wasn’t broken.
@@ -116,11 +93,15 @@ Key features:
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance: Underwhelming performance in video and audio**
 
  We used[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test out the video and audio performance using the webcam for recording and[conference calls](https://www.lifewire.com/top-free-web-conferencing-tools-2377241) . It was difficult to position the Docooler USB 2.0 12 Megapixel correctly, because by the time we clipped it on and sat down, the camera had slipped out of position. This happened several times before we finally resigned ourselves to using a tilted camera in our calls.
@@ -134,15 +115,29 @@ Key features:
  The audio performance of the Docooler USB 2.0 12 Megapixel was also lackluster. The built-in microphone produced poor quality sound, and when we tested it on Skype, voices were both muffled and echoey. People on the other end could understand what we were saying, but it was an unpleasant experience.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Cheap price, even cheaper webcam**
 
  The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Falls short**
 
 **_Logitech C270_ :** The Logitech C270 is a low-cost webcam that goes for $40 MSRP, though you can frequently find it for approximately $20\. For $10 more than the Docooler, you get a big upgrade. It has 720p video calling and takes photos at 3MP. The microphone filters out background noise, so it shouldn’t have the same echo effects as the Docooler Web Cam. Even though it’s twice the price, you get a lot more camera for your ten bucks.
@@ -157,9 +152,6 @@ Key features:
 
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  USB 2.0 12 Megapixel
@@ -177,14 +169,11 @@ Key features:
 * Frame rate  30fps
 * What’s Included  Docooler USB 2.0 12 Megapixel, Quick Start Guide
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,3 +181,17 @@ Key features:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capturing-your-screen-apowersoft-and-others-for-2024/"><u>[New] Capturing Your Screen Apowersoft and Others for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-zero-clutter-max-impact-professional-tips-for-striking-virtual-presence-for-2024/"><u>[New] Zero Clutter, Max Impact Professional Tips for Striking Virtual Presence for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-cut-the-clutter-convert-videos-discover-the-best-alternatives-for-flv-to-yt/"><u>[Updated] Cut the Clutter, Convert Videos Discover the Best Alternatives for Flv to YT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-vivobook-11-review/"><u>Asus Vivobook 11 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fintie-protective-case-for-macbook-pro-13-review-durability-and-value/"><u>Fintie Protective Case for MacBook Pro 13 Review: Durability and Value</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y17s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y17s Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-modern-innovation-insights-and-analysis-for-rings-best-in-class-doorbell-plus/"><u>Mastering Modern Innovation: Insights and Analysis for Ring's Best-in-Class Doorbell +</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-logitech-g203-driver-setup-free-download-for-windows-users-on-latest-versions/"><u>Ultimate Logitech G203 Driver Setup - Free Download for Windows Users on Latest Versions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-of-the-maisto-rc-rock-crawler-your-go-to-car-for-family-bonding/"><u>Unveiling the Benefits of the Maisto RC Rock Crawler – Your Go-To Car for Family Bonding</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Efficient and Comfy Reading Anywhere with the Kobo Clara HD – Bookworm's Guide & Review
-date: 2024-08-09T00:38:55.867Z
-updated: 2024-08-10T00:38:55.867Z
+date: 2024-09-09T02:18:29.192Z
+updated: 2024-09-15T01:52:09.040Z
 categories:
   - BestProducts
 description: This Article Describes Efficient and Comfy Reading Anywhere with the Kobo Clara HD – Bookworm's Guide & Review
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/7ev2-TfiM509XHStrVAhMqwnGY4=/400x300/fi
 
 ## Fellowes Microban Split Design Keyboard
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/WDbYK32TR0KZYkaW6A8K51jQSpU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
 
 Lifewire / Emily Isaacs
@@ -46,9 +43,6 @@ Lifewire / Emily Isaacs
 
 ## Fellowes Microban Split Design Keyboard
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
 
 Lifewire / Emily Isaacs
@@ -72,9 +66,6 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is one of several Fellowes’ products geared towards businesses, thanks to its comfortable, ergonomic design and budget-friendly pricing. The inclusion of Microban antimicrobial protection technology, designed to prolong the life of your computer hardware by preventing damaging microbes from building up over time and causing deterioration, is an added bonus for the price. We tested this keyboard for over a week so read on to see what we discovered.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## **Design: Cleaner than the rest**
 
  Ergonomic keyboards are designed to encourage natural, neutral movements that put less strain on wrists and shoulders,[preventing repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) over time. This is especially important for people who spend large portions of their day in a home or office setting tethered to their computer.
@@ -91,16 +82,10 @@ Lifewire / Emily Isaacs
 
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## **Setup Process: Plug and play**
 
  The keyboard doesn’t arrive with much. It comes in a mid-size box with the keyboard itself and an accessory pamphlet that addresses some frequently asked questions regarding Microban technology. Setting up is quite easy. It’s a plug and play device, which means that when the keyboard is connected to the computer, the computer will recognize the device is there and you can begin using it immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
 
  Lifewire / Emily Isaacs
@@ -115,23 +100,43 @@ Lifewire / Emily Isaacs
 
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: A budget-friendly ergonomic keyboard**
 
  Ergonomic keyboards tend to retail anywhere from $50-$200\. The Fellowes Microban Split Wired Keyboard tends to retail for around $50, which puts this well at the budget end. Its low price point makes it a great introductory ergonomic keyboard, particularly if you’re unsure of what you want and are experimenting with different design choices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Fellowes Microban Split Design Wired Keyboard vs. Microsoft Sculpt Ergonomic Keyboard**
 
  The Fellowes keyboard faces stiff competition from other companies, notably Microsoft, which has been in the computer game for decades. Here, the Microsoft Sculpt Ergonomic Keyboard is the main competition. Generally retailing for around $80, nearly double the price of the Fellowes, the Sculpt follows a unique design akin to that of a manta ray. The two halves of the keyboard swoop upward, rising toward the middle, but not quite meeting thanks to an unfilled space between them. It looks strange, but it’s quite comfortable, especially thanks to its fabric wrist pad for extra comfort.
 
 [Microsoft Sculpt Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-sculpt-ergonomic-keyboard-review-4780274)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/9Ei30bgFst4sw8SynCxgEI_b-9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_04-eff22d3b32274568890dd291e56daab5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -149,6 +154,13 @@ Lifewire / Emily Isaacs
 
  The Fellowes Microban Split Design Wired Keyboard is a good, albeit bulky, ergonomic keyboard designed to last. Its antimicrobial protection not only keeps germs, fungi, and bacteria at bay, but ensures the keyboard won’t deteriorate over time. While it may not be our first pick for home use, it’s a great choice if you’re on a budget or are an office working facing down cold and flu season.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Microban Split Design Keyboard
@@ -161,14 +173,11 @@ Lifewire / Emily Isaacs
 * Compatibility  As plug-and-play device with Windows OS
 * Warranty  3-year limited warranty
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,3 +185,23 @@ Lifewire / Emily Isaacs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-uncovering-secrets-in-instagram-story-watchers/"><u>[New] 2024 Approved Uncovering Secrets in Instagram Story Watchers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-stepwise-quietening-routine-for-mixes-for-2024/"><u>[Updated] Stepwise Quietening Routine for Mixes for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-power-of-asmr-discovering-its-advantages/"><u>2024 Approved The Power of ASMR Discovering Its Advantages</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/at-lp120xusb-a-vinyl-enthusiasts-dream-digitalizer/"><u>AT-LP120XUSB: A Vinyl Enthusiast’s Dream Digitalizer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/banishing-bulky-buffered-broadcasts-windows-android-tips/"><u>Banishing Bulky Buffered Broadcasts Windows, Android Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-stylish-and-mighty-apple-imac-4k-desktop-reviews-and-insights/"><u>Comprehensive Guide to the Stylish & Mighty Apple iMac 4K Desktop - Reviews and Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722940798974-dive-into-the-world-of-yakuza-like-a-dragon-a-captivating-jrpg-you-ought-to-play-now/"><u>Dive Into the World of Yakuza: Like a Dragon - A Captivating JRPG You Ought to Play Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-conversion-of-dall-e-3s-webp-images-to-desired-jpeg-or-png-files/"><u>Effortless Conversion of DALL-E 3'S WebP Images to Desired JPEG or PNG Files</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-unveiling-the-power-of-playstation-4-pros-ultra-hd-capabilities/"><u>Expert Analysis: Unveiling the Power of PlayStation 4 Pro's Ultra HD Capabilities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-implemented-nier-automata-remaster-now-fully-functional-on-startup/"><u>Fixes Implemented! NieR Automata Remaster Now Fully Functional on Startup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-gb150-wireless-headphones-the-best-sound-quality-for-your-budget-on-amazon-306-characters/"><u>In-Depth Review: GB150 Wireless Headphones – The Best Sound Quality for Your Budget on Amazon! (306 Characters)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/michael-kors-access-gen-5e-the-ultimate-guide-reviews-features-and-style/"><u>Michael Kors Access Gen 5E: The Ultimate Guide - Reviews, Features & Style</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-sites-for-digital-metallic-text-with-a-golden-twist-for-2024/"><u>Top Sites for Digital Metallic Text with a Golden Twist for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-unsuccessful-csgo-startup/"><u>Troubleshooting Steps for Unsuccessful CS:GO Startup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-latest-samsung-galaxy-s21-model-trimming-down-for-innovation/"><u>Unveiling the Features of the Latest Samsung Galaxy S21 Model: Trimming Down for Innovation</u></a></li>
+</ul></div>
+

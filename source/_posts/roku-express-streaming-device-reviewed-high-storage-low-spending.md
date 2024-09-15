@@ -1,7 +1,7 @@
 ---
 title: "Roku Express Streaming Device Reviewed: High Storage, Low Spending"
-date: 2024-08-09T00:38:57.190Z
-updated: 2024-08-10T00:38:57.190Z
+date: 2024-09-12T02:44:37.246Z
+updated: 2024-09-14T18:43:43.101Z
 categories:
   - BestProducts
 description: "This Article Describes Roku Express Streaming Device Reviewed: High Storage, Low Spending"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Microsoft Xbox One Elite Series 2 Controller
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/425lsqo6i1_7Vzb3ebrBxtVPgfM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
@@ -40,14 +37,8 @@ Lifewire / Zach Sweat
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Xbox One Elite Series 2 Controller
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
 
 Lifewire / Zach Sweat
@@ -73,9 +64,6 @@ Lifewire / Zach Sweat
 
  We reviewed the original $150 Elite controller when it debuted years ago and loved nearly every aspect of it, but it wasn’t flawless suffering from the lack of a few key features and some durability issues. This is where the newly updated Elite Series 2 controller comes in. Listening to feedback provided by gamers on the weaknesses of Series 1, Microsoft has put out what is likely to be the last iteration of the[Xbox One controller,](https://www.lifewire.com/xbox-one-consoles-4156250) and it’s pretty much perfect—provided you’re willing to pay the hefty price tag.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/t8wI_yN2s_uIQ1leo87MmOnXxb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-5-0c39ec4e89eb45b094471681efec0e7d.jpg)
 
  Lifewire / Zach Sweat
@@ -104,9 +92,6 @@ Lifewire / Zach Sweat
 
  Inside the case, the material has also been swapped from grey to black to continue the darker theme of the Series 2\. You’ll also notice the foam pad is no longer here, as that’s where the dock sits. This dock can be removed or used inside the case and attaches with a strong magnet. The last two parts of the case are unchanged from Series 1, with a mesh cradle for accessories on the top and a foam organizer to hold all the swappable thumbsticks and paddles when not in use.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
  Lifewire / Zach Sweat
@@ -127,9 +112,6 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process and Software: Bluetooth, at long last**
 
  One of our biggest gripes with the original Elite controller was that it lacked Bluetooth functionality despite its premium price tag. Seeing how the much cheaper ONE S variant included this, it was even more frustrating. Thankfully, Microsoft listened to our collective rants and added Bluetooth to the Series 2, which drastically improves the number of devices it can be used with.
@@ -148,12 +130,29 @@ Lifewire / Zach Sweat
 
  If you plan to buy this controller to use with other electronics that support Bluetooth devices, make sure you do some research before committing to it, as it doesn’t always work with everything. That said, we did manage to pair the controller with a couple other devices that weren’t officially supported.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance/Durability: Enhanced performance and durability**
 
@@ -187,11 +186,15 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
 
  Since the Elite controller really is in a league of its own, the biggest competitor to it is the first generation, which can still be purchased from a number of retailers. We’re going to quickly compare the two to see which might be best for you.
@@ -223,14 +226,11 @@ Lifewire / Zach Sweat
 * Warranty  90-day warranty
 * Compatibility  All Xbox One Consoles, Windows 10 PCs, Bluetooth devices
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -238,3 +238,17 @@ Lifewire / Zach Sweat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-exploring-free-screen-capture-tools/"><u>[Updated] 2024 Approved Exploring Free Screen Capture Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-premier-5-ios-photo-background-swap-apps/"><u>[Updated] 2024 Approved The Premier 5 iOS Photo Background Swap Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-full-potential-of-garmin-vivosmart-4-insight-into-energy-level-tracking-and-stress-monitoring-tech/"><u>Exploring the Full Potential of Garmin Vivosmart 4: Insight Into Energy Level Tracking and Stress Monitoring Tech</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-play-7t-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor Play 7T FRP Locks</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-and-windows-11-compatibility-solving-the-crash-problem/"><u>MapleStory and Windows 11 Compatibility: Solving the Crash Problem</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/marvels-spider-man-miles-morales-review/"><u>Marvel’s Spider-Man: Miles Morales Review</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-use-zoom-in-google/"><u>New In 2024, How to Use Zoom in Google</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/perfect-picks-gadgets-to-elevate-your-journey/"><u>Perfect Picks: Gadgets to Elevate Your Journey</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-sea-tech-blu-ray-writer-with-usb-interface-a-review-of-its-reliability-and-functionality/"><u>Unpacking the Sea Tech Blu-Ray Writer with USB Interface: A Review of Its Reliability & Functionality</u></a></li>
+</ul></div>
+

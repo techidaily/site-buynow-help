@@ -1,7 +1,7 @@
 ---
 title: "Uniden R3 Radar Detector Assessment: Durable Construction & Extended Detection Capabilities"
-date: 2024-08-09T00:38:56.730Z
-updated: 2024-08-10T00:38:56.730Z
+date: 2024-09-11T19:31:25.775Z
+updated: 2024-09-14T23:37:19.993Z
 categories:
   - BestProducts
 description: "This Article Describes Uniden R3 Radar Detector Assessment: Durable Construction & Extended Detection Capabilities"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## TopMate C302 Laptop Cooling Pad
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/aiCouzmBGM4njr9Ovpa0MfLae4E=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_HeroSquare-53c92cb3074b41d9b696fd9f6fa1a64e.jpg)
@@ -40,9 +37,6 @@ Lifewire / Andrew Hayward
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## TopMate C302 Laptop Cooling Pad
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Um5K58ex8qVMnW5PlEtqzPi9c-4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_HeroSquare-53c92cb3074b41d9b696fd9f6fa1a64e.jpg)
@@ -69,9 +63,6 @@ Lifewire / Andrew Hayward
 
  The TopMate C302 is a strong example of the latter. It’s affordable and solidly effective, but the plastic design feels a bit flimsy. I wouldn’t bet on it lasting for the long haul without gentle handling, but given the price, you might not worry about it too much.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Design: Light and a little flimsy
 
  The C302 measures just over 14 inches wide and is designed for laptops with screens up to 15.6 inches diagonal. It’s primarily made of lightweight plastic, with a thin metal grate on the top above the two 4.9-inch fans to help dissipate heat.
@@ -99,8 +90,12 @@ Lifewire / Andrew Hayward
 Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Performance: It makes a difference
 
  I tested the C302 using the[Razer Blade 15 (2019) gaming laptop](https://www.lifewire.com/razer-blade-15-review-4845229) , which is equipped with an Intel Core i7-9750H processor and 16GB RAM, as well as a NVIDIA GeForce GTX 1660 Ti GPU (6GB).
@@ -113,10 +108,14 @@ Lifewire / Andrew Hayward
 
  In Dirt 5’s built-in benchmark test, the Razer Blade 15 hit 184 degrees internally and 117° externally, and those figures dropped to 175 degrees internally and 100 degrees externally with the cooling pad. There was no significant performance difference in the Dirt 5 benchmark when using the cooling pad: The average FPS mark was within one frame with or without the pad in use.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Xs71AyeThjZwy-vZJ9LfxIhuXJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_04-eadbaf270b874af9bb8843b95efe8ca7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -128,10 +127,14 @@ Lifewire / Andrew Hayward
 
  At $30, this is one of the most affordable laptop cooling pads on the market right now. While results varied across multiple tests and games/apps, the C302 was pretty well in line with some of the pricier options I tested. It feels a little flimsy and doesn’t have any premium features, but the C302 is a very good entry-level option.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3hXx9Tb9omnQS0YyIXmv97Lunr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_02-8fc1ac2169044c0a82b61a80f63ef089.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -151,9 +154,6 @@ Lifewire / Andrew Hayward
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [North Face Pivoter Backpack](https://www.lifewire.com/north-face-pivoter-backpack-review-4690198)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  C302 Laptop Cooling Pad
@@ -167,14 +167,11 @@ Lifewire / Andrew Hayward
 * Ports  USB-A
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,3 +179,19 @@ Lifewire / Andrew Hayward
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-securing-gaming-triumphs-record-save-and-archive-ps4-games/"><u>[New] 2024 Approved Securing Gaming Triumphs Record, Save & Archive PS4 Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-boosting-clarity-in-web-exhibits-and-presentations/"><u>[New] Boosting Clarity in Web Exhibits and Presentations</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-expert-insights-into-youtube-thumbnail-design/"><u>[Updated] 2024 Approved Expert Insights Into YouTube Thumbnail Design</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-master-your-most-watched-videos-on-fb-today-and-beyond-2023/"><u>[Updated] 2024 Approved Master Your Most-Watched Videos on FB Today & Beyond 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-tech-what-is-virtual-reality-gear/"><u>2024 Approved Inside the Tech What Is Virtual Reality Gear?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-honor-x50iplus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor X50i+ FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-network-reach-premier-range-extender-picks/"><u>Enhance Your Network Reach: Premier Range Extender Picks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streaming-profitably-understanding-youtube-updates/"><u>In 2024, Streaming Profitably Understanding YouTube Updates</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-the-unbeatable-performance-of-the-elite-series-ebox-one-controller/"><u>In-Depth Analysis: The Unbeatable Performance of the Elite Series Ebox One Controller.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-samsung-galaxy-s10-where-elegance-meets-performance/"><u>In-Depth Look at the Samsung Galaxy S10 - Where Elegance Meets Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-jackery-energy-station-evaluating-its-integrated-ac-receptacle-functionality/"><u>The Ultimate Guide to the Jackery Energy Station - Evaluating Its Integrated AC Receptacle Functionality</u></a></li>
+</ul></div>
+

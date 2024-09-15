@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Checklist: What to Know When Shopping for a Used iPad"
-date: 2024-08-09T00:38:58.482Z
-updated: 2024-08-10T00:38:58.482Z
+date: 2024-09-10T02:48:44.573Z
+updated: 2024-09-14T17:22:54.835Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Checklist: What to Know When Shopping for a Used iPad"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
 
 4.3
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## TP-Link Archer A9 AC1900 Smart Wireless Router
 
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/XgwH32_lE2sH33pwMoFmXM_LaGg=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_HeroSquare-05a827c48b274d8e9ccd0070e770f4d4.jpg)
@@ -42,14 +39,8 @@ Lifewire / Erika Rawes
 
 4.3
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## TP-Link Archer A9 AC1900 Smart Wireless Router
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/aMRk3dxCpK74Zcn9NCYLlSncVTA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_HeroSquare-05a827c48b274d8e9ccd0070e770f4d4.jpg)
 
 Lifewire / Erika Rawes
@@ -84,9 +75,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Connectivity: Dual Band AC1900**
 
  The Archer A9 is a[dual-band](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) AC1900 router, so speeds max out at 1300 Mbps over the 5Ghz band and 600 Mbps over the 2.4 Ghz band. Setting up the networks was fast and easy, and I had my 5 Ghz and my 2.4 Ghz networks set up within five minutes using the companion app.
@@ -106,13 +94,24 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network Performance: Not bad**
 
  I live in a suburb about 20 miles outside of Raleigh, NC, and I have Spectrum (a Charter company) as my internet service provider. Internet speeds in my home max out at 400 Mbps.
 
  In the same room as the router, speeds were excellent (naturally), getting up to 352 Mbps on the 5 Ghz band and 76 Mbps on the 2.4 Ghz band. I traveled upstairs, and speeds clocked in at a respectable 124 Mbps on the 5Ghz band and 36 Mbps over 2.4 Ghz. The signal remained strong almost everywhere in my two-level home, even in areas like closets, and many other places that could conceivably be Wi-Fi dead zones. However, I experienced a few slow zones in my garage, and in a guest room located on the opposite side of the home. I also experienced a spotty connection in the yard. The signal degraded significantly around the home’s exterior, so if you like to use your devices outside, you’ll want to invest in a[Wi-Fi extender](https://www.lifewire.com/best-wifi-extenders-4043312) , or go with a different router entirely.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Range: Around 2,000 square feet (give or take)**
 
@@ -123,8 +122,18 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Tether app**
 
  The TP-Link Tether app is one of my favorite router companion apps. It’s super easy to set up your networks, as well as create a guest network, which is nice for when guests visit, so you have a Wi-Fi network ready to go without compromising your network security.
@@ -135,9 +144,6 @@ Lifewire / Erika Rawes
 
  You can say things like, “Alexa, ask TP-Link to enable guest network” or “Alexa, ask TP-Link to prioritize gaming.”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Under $100**
 
  The Archer A9 sells on Amazon for under $100\. For a router with its feature set, this is an exceptional value.
@@ -145,6 +151,13 @@ Lifewire / Erika Rawes
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/OshgKkDe7GvQPFAb_AgVDAYTF_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_04-65a3ae04454e40c3865f1d426bcb36db.jpg)
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **TP-Link Archer A9 vs. Netgear AC2300 Nighthawk Smart Wi-Fi Router**
 
@@ -156,9 +169,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer A9 is an ideal router for a household with an average number of devices, but homes full of gamers or home office workers may want something a little more robust.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Archer A9 AC1900 Smart Wireless Router
@@ -179,14 +189,11 @@ Lifewire / Erika Rawes
 * Range  Long range
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,3 +201,22 @@ Lifewire / Erika Rawes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-fourfold-precision-in-color-capture-with-blade-cameras/"><u>[New] Fourfold Precision in Color Capture with Blade Cameras</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-insta-money-potential-with-our-top-7-list/"><u>[New] In 2024, Unlock Insta Money Potential with Our Top 7 List</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-sharing-is-caring-but-not-without-copyright-checks-tiktok-for-2024/"><u>[New] Sharing Is Caring - But Not Without Copyright Checks (TikTok) for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-youtube-lives-image-language/"><u>2024 Approved Understanding YouTube Live's Image Language</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/earn-extra-engage-in-openais-software-flaw-identification-mission/"><u>Earn Extra: Engage in OpenAI's Software Flaw Identification Mission</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c12-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nokia C12 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-k70-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi K70 Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-investment-on-netflix-top-7-strategies-for-optimal-enjoyment/"><u>Maximizing Your Investment on Netflix: Top 7 Strategies for Optimal Enjoyment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/microsoft-announces-closure-of-xbox-360-marketplace-in-current-month/"><u>Microsoft Announces Closure of Xbox 360 Marketplace in Current Month</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/multicolor-3d-printing-a-step-by-step-guide/"><u>Multicolor 3D Printing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paramountplus-announces-another-round-of-price-hikes-a-predictable-pattern/"><u>Paramount+ Announces Another Round of Price Hikes: A Predictable Pattern</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/play-classic-games-anywhere-retroarch-compatible-with-ios-devices-and-apple-tv/"><u>Play Classic Games Anywhere: RetroArch Compatible with iOS Devices & Apple TV</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-12-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme 12 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-integrating-codegpt-into-your-vs-code-workspace/"><u>Ultimate Tutorial on Integrating CodeGPT Into Your VS Code Workspace</u></a></li>
+</ul></div>
+
