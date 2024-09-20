@@ -1,7 +1,7 @@
 ---
 title: "Nixplay's X15D: A Revolution in Digital Frame Technology & Photo Display"
-date: 2024-09-08T08:56:25.645Z
-updated: 2024-09-14T17:22:03.132Z
+date: 2024-09-17T04:23:29.536Z
+updated: 2024-09-19T22:21:24.478Z
 categories:
   - BestProducts
 description: "This Article Describes Nixplay's X15D: A Revolution in Digital Frame Technology & Photo Display"
@@ -79,13 +79,6 @@ Lifewire / Rebecca Isaacs
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Plot: Open world horror sandbox**
 
  When you first begin gameplay, it takes about 20 seconds for it to boot up, and then you’re gasping, holding your bare hands out before you, drinking in the landscape of one of five biomes: snow, forest, desert, wasteland, and burnt.
@@ -99,13 +92,6 @@ Lifewire / Rebecca Isaacs
  The other, titular part of the plot: every seven days, a zombie horde descends upon you. They know your location. They will find you and claw their way to you, and you have to fend yourself and your base from them. As the 7 days pass, they get harder to defeat. Our understanding is that the end goal of 7 Days is to add a story, but right now they’re focused on honing in general gameplay. We hope that the story will be optional since as a survival horror sandbox, it works very well.
 
 ![7 Days to Die](https://www.lifewire.com/thmb/U2XChOqkiQvFhP69V0cQ5mYcYME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-3-d19d9b4d19734cffb022d6e0db90382e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -130,19 +116,25 @@ Lifewire / Rebecca Isaacs
 ![7 Days to Die](https://www.lifewire.com/thmb/O0do2JbbpgP_VF7azi5OhENnDpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-5-13eba1dcdd7d45b48c0c3d07711686e6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Graphics: Outdated, but detailed on optimal**
@@ -153,6 +145,13 @@ Lifewire / Rebecca Isaacs
 
  Because the graphics are a rather mixed bag, the frames per second (fps) can vary dramatically. We experienced drops as low as 18 fps when playing. When surrounded by a horde, that can cost you your life.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Platform: It’s complicated**
 
  7 Days to Die runs on many platforms:[PC](https://www.lifewire.com/what-is-a-mac-4155662) ,[PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) , and[Xbox 360](https://www.lifewire.com/xbox-360-buyers-guide-3562451) . We played 7 Days on PC, and at the time of writing, they released a teaser for the Alpha 18 update which would roll out to the PC version of the game.
@@ -162,6 +161,19 @@ Lifewire / Rebecca Isaacs
 ## **Price: Average for an alpha game**
 
  At around $25, 7 Days isn’t the most expensive zombie game on the market. However, it is the most expensive alpha zombie game out there. Because you can purchase it on[Steam](https://www.lifewire.com/what-is-steam-4177380) or Humble Bumble, we recommend waiting for a Steam sale and getting it for a discount, especially since it’s still in progress. This way, if you decide you don’t like it in the future, you aren’t out the full price.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Other sandbox shooters**
 
@@ -208,19 +220,14 @@ Lifewire / Rebecca Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-action-captured-top-choice-in-recorders-explored-for-2024/"><u>[New] Action Captured Top Choice in Recorders Explored for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-effortless-photo-transformations-using-instagrams-green-screen-for-2024/"><u>[New] Effortless Photo Transformations Using Instagram's Green Screen for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid/"><u>[New] In 2024, Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-avoiding-the-crowd-stand-out-with-unique-youtube-persona/"><u>[Updated] 2024 Approved Avoiding the Crowd Stand Out with Unique YouTube Persona</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-approach-to-stream-flawless-events-with-zoom-on-youtube/"><u>[Updated] Step-by-Step Approach to Stream Flawless Events with Zoom on YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/giggle-galaxy-most-shared-content-on-both-platforms-for-2024/"><u>Giggle Galaxy Most Shared Content on Both Platforms for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-6-premier-antivirus-programs-to-secure-your-iphone-against-threats/"><u>The 6 Premier Antivirus Programs to Secure Your iPhone Against Threats</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-review-of-samsung-galaxy-s20-fe-5g-captivating-all-who-love-5g-technology/"><u>The Definitive Review of Samsung Galaxy S20 FE 5G - Captivating All Who Love 5G Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-for-budget-minded-traffic-alert-devices-uncover-escortpassports-insightful-s55-examination/"><u>The Ultimate Guide for Budget-Minded Traffic Alert Devices - Uncover EscortPassport’s Insightful S55 Examination.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-tablet-spotlight-on-the-2021-samsung-galaxy-tab-s7-for-android-lovers/"><u>The Ultimate Guide to Choosing a Tablet: Spotlight on the 2021 Samsung Galaxy Tab S7 for Android Lovers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-best-in-class-open-source-routers-spotlight-on-linksys-wrt3200acm/"><u>The Ultimate Guide to the Best in Class Open Source Routers: Spotlight on Linksys WRT3200ACM</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-reliable-and-rechargeable-romer-illuminator-a-bright-companastern-for-outdoor-enthusiasts/"><u>The Ultimate Guide to the Reliable and Rechargeable Romer Illuminator: A Bright Companastern for Outdoor Enthusiasts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-tecno-spark-20-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Tecno Spark 20 Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-comedy-in-a-click-best-funny-short-video-suggestions-for-youtubers/"><u>[New] 2024 Approved Comedy in a Click Best Funny Short Video Suggestions for YouTubers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-the-perfect-day-for-podcast-release/"><u>[New] Crafting the Perfect Day for Podcast Release</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-inside-the-innovative-world-of-kinemaster-your-android-game-companion/"><u>[Updated] 2024 Approved Inside the Innovative World of KineMaster - Your Android Game Companion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/artistic-compendium-for-perfect-paste-ups-for-2024/"><u>Artistic Compendium for Perfect Paste-Ups for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-impact-of-machine-learning-on-imaginative-drafts/"><u>Unpacking the Impact of Machine Learning on Imaginative Drafts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-your-reading-experience-with-the-nook-glowlight-4/"><u>Unveiling the Potential of Your Reading Experience with the Nook Glowlight 4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/urban-planning-mastery-a-comprehensive-cities-skylines-game-guide/"><u>Urban Planning Mastery: A Comprehensive Cities: Skylines Game Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/win-back-control-successful-remedies-for-troublesome-steam-game-starts-in-windows-10/"><u>Win Back Control: Successful Remedies for Troublesome Steam Game Starts in Windows 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/withings-move-assessment-the-perfect-blend-of-analog-charm-and-intelligent-functionality/"><u>Withings Move Assessment: The Perfect Blend of Analog Charm and Intelligent Functionality</u></a></li>
 </ul></div>
 

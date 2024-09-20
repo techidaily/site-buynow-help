@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Latest Computer with These Spectacular Retro Game Challenges!
-date: 2024-09-08T19:33:55.955Z
-updated: 2024-09-15T02:44:48.387Z
+date: 2024-09-19T03:36:33.526Z
+updated: 2024-09-20T03:23:18.013Z
 tags:
   - games
   - tv
@@ -60,13 +60,6 @@ Remedy Entertainment
 
 ![Witcher 3 classic official screenshot showing the back of the witcher with two swords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/witcher-3-classic-official-screenshot-showing-the-back-of-the-witcher-with-two-swords.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 CD Projekt RED
 
  While I've loved the [_Witcher_](https://store.steampowered.com/sub/124923/) games since the original PC-only release, it wasn't until the third installment that the game series received widespread mainstream acclaim. Now it's a media empire, with TV shows, and the original Polish novels making inroads into the English-speaking world.
@@ -79,13 +72,6 @@ CD Projekt RED
 
 ![Red Dead Redemption 2 official screenshot showing two coqboys riding through a field](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/red-dead-redemption-2-official-screenshot-showing-two-coqboys-riding-through-a-field.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Rockstar
 
  I loved the first _Red Dead Redemption,_ but wasn't a fan of _[Red Dead Redemption 2](https://store.steampowered.com/app/1174180/Red%5FDead%5FRedemption%5F2/)_, with its focus on "realism" and snore-inducing pace, and lack of gameplay. However, even I can't deny that this game is a visual triumph, even on PlayStation 4, where I played it first. You'd think that a game ported from the PS4 would be no problem for any modern PC, but the PC version of the game can scale to heights no console can reach.
@@ -96,19 +82,39 @@ Rockstar
 
 ![A Plague Tale Innocence official screenshot showig two characters standing among buildings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-plague-tale-innocence-official-screenshot-showig-two-characters-standing-among-buildings.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Asobo
 
  Released in 2019 for PC, Asobo's [_A Plague Tale: Innocence_](https://store.steampowered.com/app/752590/A%5FPlague%5FTale%5FInnocence/) was an absolute widowmaker of a game. If you wanted to play at anything faster than 30fps, you needed a truly beefy system. Thanks to the "flood of rats" mechanic, this is quite a workout for CPUs as well. Play this on a decent modern computer and the game's potential really shines.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  The Tomb Raider Survivor Trilogy 
 
 ![Shadow of the Tomb Raider official screenshot showing Lara Croft about to backstab an enemy soldier.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shadow-of-the-tomb-raider.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Crystal Dyamics
@@ -120,10 +126,10 @@ Crystal Dyamics
 ![GTA V official screenshot showing a police car chase](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gta-v-official-screenshot-showing-a-police-car-chase.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Rockstar
@@ -134,19 +140,6 @@ Rockstar
 
 ![Quake II RTX official screenshot showing materials and global lighting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/quake-ii-rtx-official-screenshot-showing-materials-and-global-lighting.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lightspeed Studios
 
  This is a bit of a strange one on the list, I'll admit. This version of Quake II was overhauled to show off the potential of ray-traced graphics, and it was also something I first played on my RTX 2060\. Despite being a new lick of paint on a very old game, _[Quake II RTX](https://store.steampowered.com/app/1089130/Quake%5FII%5FRTX/)_ is gob-smackingly pretty to look at. On that old 2060 GPU, I had to really crank the upscaling slider, and fine-tune the RTX options, but on a good modern card you can have it all with only a touch of upscaling to keep those frame rates above 60.
@@ -156,6 +149,19 @@ Lightspeed Studios
 ## 10  Batman: Arkham Knight 
 
 ![Batman Arkham Knight official image showing Batman approaching bad guys in the rain.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/batman-arkham-knight-official-image-showing-batman-approaching-bad-guys-in-the-rain.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Rocksteady Studios
 
@@ -176,18 +182,16 @@ Rocksteady Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-animation-dynamic-bouncy-text-techniques/"><u>[New] 2024 Approved Crafting Animation Dynamic, Bouncy Text Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-4-ways-to-record-ps3-gameplay/"><u>[Updated] In 2024, 4 Ways to Record PS3 Gameplay</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-reno-9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Reno 9A Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-savvy-users-guide-to-mobile-banking-with-abbyy-solutions-ebook/"><u>Digital Savvy User's Guide to Mobile Banking with ABBYY Solutions Ebook</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-15-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 15 Plus Without Apple ID Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-v30t-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme V30T To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overhauling-amd-radeon-r9-driver-stability-in-w10/"><u>Overhauling AMD Radeon R9 Driver Stability in W10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reinventing-mobile-working-space-dive-into-the-features-of-the-msi-pro-mp161-e2-portable-display/"><u>Reinventing Mobile Working Space: Dive Into the Features of the MSI PRO MP161 E2 Portable Display</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reviewing-excellence-in-android-tablets-discover-what-makes-the-samsung-galaxy-tab-s7-shine/"><u>Reviewing Excellence in Android Tablets - Discover What Makes the Samsung Galaxy Tab S7 Shine</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/simplifying-connectivity-a-complete-review-of-google-wifi-your-essential-mesh-router-companion/"><u>Simplifying Connectivity: A Complete Review of Google WiFi, Your Essential Mesh Router Companion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-setup-for-the-ultimate-protection-with-blinks-outdoor-cameras/"><u>Step-by-Step Setup for the Ultimate Protection with Blink's Outdoor Cameras</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-advanced-tech-tools-for-tranquil-slumber/"><u>The Ultimate Guide to Advanced Tech Tools for Tranquil Slumber</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-blueear-bluetooth-headgear-fashionable-earmuffs-with-a-promising-audio-experience/"><u>The Ultimate Guide to BlueEar Bluetooth Headgear: Fashionable Earmuffs with a Promising Audio Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-your-ppt-with-professional-recording/"><u>[New] In 2024, Unlocking the Potential of Your PPT with Professional Recording</u></a></li>
+<li><a href="https://solve-help.techidaily.com/windows-10202/"><u>【最新ガイド】Windows 10用完全無料で動画再生！202</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-cinema-the-vr-impact/"><u>2024 Approved Future Cinema The VR Impact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-giants-gemini-and-chatgpt-unite/"><u>Comparing Giants: Gemini and ChatGPT Unite</u></a></li>
+<li><a href="https://article-files.techidaily.com/converting-live-images-to-continuous-recordings/"><u>Converting Live Images to Continuous Recordings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-edge-40-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nubia-z50s-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nubia Z50S Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-the-most-exceptional-mouse-models-of-2nwn4/"><u>Ultimate List: The Most Exceptional Mouse Models of 2Nwn4!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-highly-ranked-11-ipad-air-sleeves-for-2econd-2024-edition/"><u>Ultimate Selection of Highly-Ranked 11 iPad Air Sleeves for 2Econd, 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-intelligent-light-switch-upgrades-for-2n23/"><u>Ultimate Selection of Intelligent Light Switch Upgrades for 2N23</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-2024s-highest-quality-ipad-pro-13-cases-reviewed-and-rated/"><u>Ultimate Selection: 2024'S Highest Quality iPad Pro 13 Cases Reviewed and Rated!</u></a></li>
 </ul></div>
 

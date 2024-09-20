@@ -1,7 +1,7 @@
 ---
 title: Why the Lack of Achievements on The Switch Could Be a Positive Thing
-date: 2024-09-08T16:34:52.046Z
-updated: 2024-09-15T01:41:04.947Z
+date: 2024-09-15T07:19:00.018Z
+updated: 2024-09-20T00:48:47.537Z
 tags:
   - games
   - tv
@@ -34,10 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Likewise, game developers who design their games with achievements in mind have a [perverse incentive](https://en.wikipedia.org/wiki/Perverse%5Fincentive) to use achievements to drive engagement, or stuff the game with filler to push up play time numbers, or even maximize the chances that players will use [microtransactions](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/). Since achievements can be used to influence player behavior, it's possible to use them in ways that aren't great for players in terms of enjoyment.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Individual Switch Games Have Their Own Achievement Systems
@@ -49,10 +49,16 @@ _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Swit
  In light of the lack of achievements on the Switch, some developers have simply opted to build their own achievements into their games. For example, in Fire Emblem Engage there's an achievement list within the game to keep track of your progress. Even better, you get in-game currency when you unlock an achievement, so they are more than just window dressing. This isn't rare either, as this [list of Switch games with in-game achievements](https://www.reddit.com/r/NintendoSwitch/comments/xl00ju/list%5Fof%5Fswitch%5Fgames%5Fwith%5Fingame%5Fachievements%5Fin/) from Reddit shows.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Switch 2 Simply Doesn’t Need Them to Succeed
@@ -78,18 +84,16 @@ _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Swit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-spotify-campaigns-a-compreran-guide/"><u>[New] Crafting Compelling Spotify Campaigns A Compreran Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-harnessing-instagrams-power-for-financial-gain/"><u>[New] Harnessing Instagram's Power for Financial Gain</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>[New] Prime Pick Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-from-dungeon-crawlers-to-complex-gameplay/"><u>[Updated] 2024 Approved From Dungeon Crawlers to Complex Gameplay</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/156-characters-of-fun-best-instant-cams-100-2024/"><u>156 Characters of Fun: Best Instant Cams, $100! - 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bespoke-chatbot-through-gpt-development-journey/"><u>Bespoke Chatbot Through GPT Development Journey</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722993812984-elevate-your-mac-experience-with-the-chic-and-functional-blue-freestyle2-case-reviewed-here/"><u>Elevate Your Mac Experience with the Chic and Functional Blue Freestyle2 Case Reviewed Here!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-effortless-instagram-media-export-top-20-free-mp4-converters-online/"><u>In 2024, Effortless Instagram Media Export Top 20 Free MP4 Converters Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-new-horizons-a-guide-to-top-6-nft-innovators/"><u>In 2024, Exploring New Horizons A Guide to Top 6 NFT Innovators</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-14-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone 14 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-latest-nickwatch-us-debut-at-the-iconic-kids-choice-awards/"><u>Unveiling the Latest NickWatch - US Debut at the Iconic Kids' Choice Awards</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-strengths-of-sonys-latest-console-the-playstation-5/"><u>Unveiling the Strengths of Sony's Latest Console: The PlayStation 5</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-efficient-meeting-management-with-slack-and-filmora-tools/"><u>[New] 2024 Approved Efficient Meeting Management with Slack & Filmora Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-guide-to-recording-gotomeet-sessions-for-2024/"><u>[Updated] Essential Guide to Recording GoToMeet Sessions for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-most-effective-mobile-signal-amplifiers-your-comprehensive-guide/"><u>2024'S Most Effective Mobile Signal Amplifiers: Your Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-top-netgear-routers-ranked-find-your-perfect-home-wifi-solution-today/"><u>2024'S Top Netgear Routers Ranked: Find Your Perfect Home WiFi Solution Today!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-zephyrus-g14-analysis-ultimate-performance-meets-portability/"><u>Asus Zephyrus G14 Analysis: Ultimate Performance Meets Portability</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-poco-m6-pro-4g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco M6 Pro 4G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-scoop-on-google-tv-streaming-box-anticipated-cost-launch-timeline-and-latest-tech-details/"><u>Insider Scoop on Google TV Streaming Box - Anticipated Cost, Launch Timeline & Latest Tech Details</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tream-platform-push-facebook-vs-youtube-and-periscope-for-2024/"><u>Livestream Platform Push Facebook Vs. YouTube & Periscope for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-long-range-routers-discover-the-most-efficient-models-on-the-market/"><u>Mastering Long-Range Routers : Discover the Most Efficient Models on the Market</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-smooth-video-playback-top-webm-to-mp4-converters/"><u>New 2024 Approved Unlock Smooth Video Playback Top WebM to MP4 Converters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/photography-made-simple-with-the-prime-amazon-basics-tripod/"><u>Photography Made Simple with the Prime Amazon Basics Tripod</u></a></li>
 </ul></div>
 

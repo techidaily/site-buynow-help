@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at the Huawei MediaPad M5 – Where Clarity Meets Quality Sound
-date: 2024-09-12T23:43:08.641Z
-updated: 2024-09-15T00:56:44.010Z
+date: 2024-09-13T22:27:30.624Z
+updated: 2024-09-19T22:58:15.098Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Look at the Huawei MediaPad M5 – Where Clarity Meets Quality Sound
@@ -88,33 +88,26 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Qualcomm 855**
 
  The Tab S6 has the Qualcomm 855 processor, which is a pretty solid mobile CPU. It comes in two versions: one version with 128GB of storage and 6 GB of RAM, and one version with 256 GB of storage and 8 GB of RAM. I tested the former version. On PCMark Work 2.0, the lower level Tab S6 scored a 9022\. On Geekbench 5, the Tab S6 scored a single core score of 747 and a multi-core score of 2,518\. It’s multi-core scores come in very close to the A12 Bionic chip in the iPad (2019).
 
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/TIUmjQSMgpAJw4W3I6fcgiYY1BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_06-cc64b6b41e8f4420b9fe38d223541b52.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Productivity: S Pen included, keyboard case sold separately**
 
@@ -126,24 +119,18 @@ Lifewire / Erika Rawes
 
  After about a week, the S Pen became like an extra appendage for me.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Audio: Dolby Atmos**
 
  The Galaxy Tab S6 has four speakers—two on the bottom and two on the top. The speakers are AKG tuned, and they even support Dolby Atmos. You can enable Dolby Atmos in the tablet’s sound settings. Overall, the speakers sound exceptional for a mobile device. I was impressed by the immersive sound quality when watching movies and shows. For music, the bass isn’t as punchy as it could be, but it sounds better than most tablets I’ve encountered.
 
  I do wish the Galaxy Tab S6 had a headphone jack. I was able to purchase a USB-C to 3.5 mm adapter on Amazon for about $10, but it would have been nice to have a 3.5 mm jack available.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network: No Wi-Fi 6**
 
@@ -155,37 +142,24 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Camera: Dual rear cameras**
 
  The Tab S6 has dual rear cameras, and a single front-facing camera. It has a 13 MP camera and a 5 MP camera on the back, and an 8 MP camera on the front. For a tablet, the camera quality is actually pretty good. It’s not as good as your typical flagship phone, but it’s better than you’d expect on a hybrid tablet. Photos are surprisingly clean and detailed, so you could absolutely get a good group pic at the office, or snap a clear pic of a document you need to send.
 
  The Tab S6 can take UHD video (3840x2160) at 30 FPS with the rear camera and FHD (1920x1080) at 30 FPS with the front cam, and it has a few cool software features like a food mode, pro mode, night mode, and hyperlapse. You can also create an AR emoji and take advantage of additional features like Bixby Vision.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Battery: Worse than the Tab S4**
 
  The Tab S6 has a serviceable battery capacity. The 7040 mAh battery lasts for up to 15 hours play time. The S Pen does take some of the Tab’s battery, but it doesn’t affect the battery life to a noticeable degree. I was able to use the S6 on and off for most of the day, and I still had some battery leftover for the next day. The Galaxy Tab S4 had a slightly better 7300 mAh battery that lasted for up to 16 hours of play time. I was surprised to see that the Tab S6 had less battery capacity than its predecessor.
 
  I was able to use the S6 on and off for most of the day, and I still had some battery leftover for the next day.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Now on Android 10**
 
@@ -196,6 +170,13 @@ Lifewire / Erika Rawes
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/C7-02cY18jujcl8-9vfJim9_H_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_05-2f0768554c044e18bedec871758e51ef.jpg)
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: On the high end**
 
@@ -210,6 +191,13 @@ Lifewire / Erika Rawes
 **An attractive tablet that hits almost every mark.**
 
  The Galaxy Tab S6 is one of the better 10-inch tablets available.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -244,20 +232,14 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-snips-on-mac-top-5-picks-unveiled/"><u>[New] In 2024, Mastering Snips on Mac Top 5 Picks Unveiled</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-tech-tutorial-saving-screen-movies-from-your-gadgets-for-2024/"><u>[New] Tech Tutorial Saving Screen Movies From Your Gadgets for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2023-top-8-facebook-movie-downloaders/"><u>[Updated] 2023 | Top 8 Facebook Movie Downloaders</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-direct-engagement-tweeting-successfully-to-fb-for-2024/"><u>[Updated] Direct Engagement Tweeting Successfully to FB for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-zooms-best-audio-fixes-clear-sounds-and-hearing-improvement/"><u>2024 Approved Zoom's Best Audio Fixes Clear Sounds & Hearing Improvement</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-in-rapid-charging-with-ankers-superspeed-usb-30-hub-in-depth-review-and-insights/"><u>Discover the Ultimate in Rapid Charging with Anker's SuperSpeed USB 3.0 Hub – In-Depth Review and Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/effortless-mealtime-with-arfs-auto-feed-dog-and-cat-food-dispenser/"><u>Effortless Mealtime with Arf's Auto-Feed Dog and Cat Food Dispenser</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-a-fresh-perspective-with-the-latest-echo-dot-reviewed-here/"><u>Experience a Fresh Perspective with the Latest Echo Dot Reviewed Here!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-unmatched-portability-with-our-comprehensive-review-of-the-samsung-galaxy-chromebook-2-for-ultra-productive-users/"><u>Experience Unmatched Portability with Our Comprehensive Review of the Samsung Galaxy Chromebook 2 for Ultra-Productive Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-evaluation-kootek-laptop-cooler-the-ultimate-heat-protection-solution/"><u>Expert Evaluation: Kootek Laptop Cooler - The Ultimate Heat Protection Solution!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-productivity-with-the-portable-samsung-galaxy-chromebook-2/"><u>Expert Insights on Productivity with the Portable Samsung Galaxy Chromebook 2</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-the-ultimate-support-of-cumuluspro-mats-for-active-workstations-a-detailed-review/"><u>Explore the Ultimate Support of CumulusPRO Mats for Active Workstations: A Detailed Review</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-issue-of-a-missing-wpcpdll-file-a-step-by-step-guide/"><u>Resolving the Issue of a Missing WPCP.DLL File: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-5-prime-fb-video-extractor-guide/"><u>[New] 2024 Approved 5 Prime FB Video Extractor Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-complete-breakdown-inside-google-podcasts-application/"><u>[New] 2024 Approved Complete Breakdown Inside Google Podcasts Application</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-advanced-tactics-for-maximizing-the-use-of-virtual-boards-during-zoom-sessions-desktopiosandroid/"><u>[New] Advanced Tactics for Maximizing the Use of Virtual Boards During Zoom Sessions (Desktop/iOS/Android)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-of-apple-watch-sleep-enhancing-apps/"><u>Discover the Ultimate Selection of Apple Watch Sleep-Enhancing Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-lg-k92-5g-phones-new-connectivity-feature-enough-reason-to-purchase/"><u>Is the LG K92 5G Phone's New Connectivity Feature Enough Reason to Purchase?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kobo-forma-review/"><u>Kobo Forma Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-device-connections-with-amazonbasics-a-critical-look-at-the-7-port-usb-30-hub/"><u>Maximizing Device Connections with AmazonBasics - A Critical Look at the 7-Port USB 3.0 Hub</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vr-cinematic-experiences-the-next-wave/"><u>VR Cinematic Experiences The Next Wave</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/weighing-up-your-llm-choices-local-edition/"><u>Weighing Up Your LLM Choices – Local Edition</u></a></li>
 </ul></div>
 

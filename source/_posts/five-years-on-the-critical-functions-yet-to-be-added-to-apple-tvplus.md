@@ -1,7 +1,7 @@
 ---
 title: "Five Years On: The Critical Functions Yet To Be Added To Apple TV+"
-date: 2024-09-10T21:28:20.171Z
-updated: 2024-09-15T08:55:29.563Z
+date: 2024-09-16T12:16:58.226Z
+updated: 2024-09-19T19:57:24.575Z
 tags:
   - games
   - tv
@@ -52,15 +52,22 @@ Apple
 ![Up Next on Apple TV+ in a web browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/up-next-on-apple-tv-in-a-web-browser.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The issue comes when you want to mark something you're interested in so you can easily find it later. There's no separate watchlist, like there is on Netflix or Prime Video. Instead, you can only add it to your Up Next, which means that list quickly becomes a mess of things you're currently watching and what you want to watch.
 
  Having at least two lists, one to track current viewing and another for things to watch later, would solve this.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Robust and Reliable Search
 
@@ -69,13 +76,6 @@ Apple
  You can browse by a handful of categories, like "Drama Series" and "Feature Films", but there's no way to pair these with more specific filters (like if you only want 90-minute movies).
 
 ![Searching on Apple TV+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/searching-on-apple-tv.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The search functionality itself is also unreliable. A search for "kids" includes the likes of adult-orientated _The Tragedy of Macbeth_. You'll also get different results depending on whether you search "kids" and then select "Movies", or just search "kids movies".
 
@@ -100,18 +100,17 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-premiere-edition-selective-sierra-video-editors/"><u>[New] Premiere Edition Selective Sierra Video Editors</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audio-ambition-realized-cutting-edge-recording-methods-for-minecraft-players/"><u>[Updated] In 2024, Audio Ambition Realized Cutting-Edge Recording Methods for Minecraft Players</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/advanced-techniques-for-live-action-sims-playback-for-2024/"><u>Advanced Techniques for Live-Action Sims Playback for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-garmin-gpsmap-navigational-companion/"><u>Expert Analysis of the Garmin GPSMAP Navigational Companion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-halo-bolt-jump-starter-and-portable-charger-the-ultimate-car-battery-savior/"><u>Expert Analysis of the Halo Bolt Jump Starter & Portable Charger - The Ultimate Car Battery Savior</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-picks-the-most-efficient-ups-battery-systems-available/"><u>Expert Picks: The Most Efficient UPS Battery Systems Available</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-on-apples-compact-music-hub-the-homepod-mini-with-siri-integration/"><u>Expert Review on Apple's Compact Music Hub – The HomePod Mini with Siri Integration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expertly-curated-selections-find-your-perfect-tv-with-these-6-prime-online-retailers/"><u>Expertly Curated Selections: Find Your Perfect TV with These 6 Prime Online Retailers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/exploring-significance-and-usage-of-a-blue-emoji-on-messenger/"><u>Exploring Significance and Usage of a Blue Emoji on Messenger</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-racing-wheels-driver-installation-guide-windows-users/"><u>Logitech Racing Wheels Driver Installation Guide – Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-art-gpt-powered-image-creation/"><u>Mastering AI Art: GPT-Powered Image Creation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mi-11-tech-specs-unveiled-with-advanced-screen-capture/"><u>Mi 11 Tech Specs Unveiled with Advanced Screen Capture</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a34-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A34 5G FRP</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dial-back-your-playlist-quick-steps-to-reverse-order/"><u>[Updated] In 2024, Dial Back Your Playlist Quick Steps to Reverse Order</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-voice-recording-access-review-and-evaluate/"><u>[Updated] Voice Recording Access, Review & Evaluate</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-music-players-software-for-windows/"><u>2024 Approved Best Music Players Software for Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-infographic-efficient-video-marketing-for-smalls/"><u>2024 Approved Infographic Efficient Video Marketing for Smalls</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-cameras-reviewed-best-of-2024/"><u>Affordable Cameras Reviewed: Best of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-expensive-samsung-un65nu8000fxza-average-features-at-a-premium-cost/"><u>Comprehensive Review of the Expensive Samsung UN65NU8000FXZA: Average Features at a Premium Cost</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202678606-get-bitraser-drive-eraser-now-securely-wipe-usb-data/"><u>Get BitRaser Drive Eraser Now – Securely Wipe USB Data!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-photo-transformation-apps-for-2024/"><u>Mastering the Art of Photo Transformation Apps for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pivot-from-srt-to-professional-audio-standards-with-confidence/"><u>Pivot From SRT to Professional Audio Standards with Confidence</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/y-transformation-from-pixels-to-polished-youtube-thumbnails-for-2024/"><u>Speedy Transformation From Pixels to Polished YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-toshiba-55lf711u20-fire-edition-the-perfect-match-for-prime-video-fans/"><u>Unveiling the Toshiba 55LF711U20 Fire Edition: The Perfect Match for Prime Video Fans</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows-for-2024/"><u>Updated Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows for 2024</u></a></li>
 </ul></div>
 

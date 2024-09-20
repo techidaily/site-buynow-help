@@ -1,7 +1,7 @@
 ---
 title: "Beyond Discord: Why Gaming Communities Are Calling for an Upgrade with Modern Alternatives"
-date: 2024-09-11T08:46:33.827Z
-updated: 2024-09-15T08:37:29.185Z
+date: 2024-09-17T16:53:04.341Z
+updated: 2024-09-20T06:23:13.453Z
 tags:
   - games
   - tv
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 
  That's how I found my first local _World of Warcraft_ community. A special shout-out goes to the in-game overlay, which supports all the same features to ensure you can organize a new session without leaving the game.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Universal Game Time Tracker
 
  The Xfire feature I miss the most is game time tracking. Xfire tracked how much time you had spent in any game, and it'd show the hours spent on your account on the website. The time spent in a game was a badge of honor in my local community—the more hours you had, the cooler you were. Some gamers were so obsessed with racking up hours played that they'd leave their PCs on overnight just to record more game hours.
@@ -57,22 +64,15 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 
  There are some universal game time tracking solutions available, but none of them are particularly popular. Remember, Xfire was used by tens of millions of gamers. The only app that could pull off a universal game tracker that people care about is Discord, but Discord doesn't even have proper account pages at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Game Server Browsers Need to Make a Comeback
 
 ![Photo showing a stack of servers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/shutterstock_43367116.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[Shutterstock.com/Eugene Kouzmenok](https://www.shutterstock.com/image-photo/servers-stack-hard-drives-datacenter-43367116)_
@@ -100,17 +100,19 @@ _[Shutterstock.com/Eugene Kouzmenok](https://www.shutterstock.com/image-photo/se
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-tutorial-embedding-srt-into-mp4-content/"><u>[New] Advanced Tutorial Embedding SRT Into MP4 Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-leading-tools-for-instantaneous-gif-to-video-transformation-for-2024/"><u>[Updated] Leading Tools for Instantaneous GIF to Video Transformation for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cyberpower-backup-units-face-fire-risk-users-warn/"><u>CyberPower Backup Units Face Fire Risk, Users Warn</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/driving-smart-with-sound-the-economical-truckers-wireless-earpiece-guide/"><u>Driving Smart with Sound: The Economical Truckers' Wireless Earpiece Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722955305014-elgato-hd60-driver-glitches-fast-and-straightforward-repair-methods-inside/"><u>Elgato HD60 Driver Glitches? Fast and Straightforward Repair Methods Inside!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-bending-words-in-media-landscapes/"><u>In 2024, Bending Words in Media Landscapes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-an-m3-macbook-air-worth-it-3-reasons-why-you-should-buy-one/"><u>Is an M3 MacBook Air Worth It? 3 Reasons Why You Should Buy One</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-pc-sound-card-picks-for-the-ultimate-gaming-and-recording-experience/"><u>Leading PC Sound Card Picks for the Ultimate Gaming and Recording Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-device-lifespan-with-poweradd-pilot-pro2-a-detailed-overview-of-its-charging-performance/"><u>Maximizing Device Lifespan with POWERADD Pilot Pro2: A Detailed Overview of Its Charging Performance</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-final-cut-pro-voice-over-hacks-get-professional-results-fast-for-2024/"><u>New Final Cut Pro Voice Over Hacks Get Professional Results Fast for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-handbrake-failures-in-movie-transcoding-understanding-the-issues-and-finding-remedies/"><u>Troubleshooting HandBrake Failures in Movie Transcoding: Understanding the Issues and Finding Remedies</u></a></li>
-<li><a href="https://win-forum.techidaily.com/winning-strategies-for-forcefully-exiting-stuck-applications-in-windows-nix-11-devices/"><u>Winning Strategies for Forcefully Exiting Stuck Applications in Windows Nix 11 Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cutting-edge-capture-8-latency-free-tools/"><u>[New] Cutting-Edge Capture 8 Latency-Free Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-use-screencastify-recorder-for-2024/"><u>[New] How to Use Screencastify Recorder for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-step-by-step-guide-on-stopping-youtubes-automatic-previews/"><u>[Updated] 2024 Approved Step-By-Step Guide on Stopping YouTube's Automatic Previews</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-device-friendly-tutorial-inserting-your-shorts-into-youtube-for-2024/"><u>[Updated] Device-Friendly Tutorial Inserting Your Shorts Into YouTube for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-value-and-high-performance-gaming-mini-computers-reviewed/"><u>Best Value and High-Performance Gaming Mini Computers Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-uninterrupted-speed-with-d-link-powerline-2000-a-user-friendly-setup-guide/"><u>Experience Uninterrupted Speed with D-Link Powerline 2000: A User-Friendly Setup Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-a-closer-look-at-the-revolutionary-samsung-galaxy-s24-ultra/"><u>Exploring the Features: A Closer Look at the Revolutionary Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-t2-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo T2 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-budget-friendly-camera-guide-best-bargains/"><u>In 2024, Budget-Friendly Camera Guide Best Bargains</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/industry-leaders-top-10-free-lut-resource-list/"><u>Industry Leaders’ Top 10 FREE LUT Resource List</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-25-cute-memes-to-make-you-feel-better-for-2024/"><u>New 25 Cute Memes to Make You Feel Better for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/power-under-glass-the-ultimate-list-of-processor-optimized-tablets-evaluated/"><u>Power Under Glass: The Ultimate List of Processor-Optimized Tablets Evaluated</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-truth-about-amazon-luna-is-it-the-ultimate-in-effortless-gaming-experience/"><u>The Truth About Amazon Luna: Is It the Ultimate in Effortless Gaming Experience</u></a></li>
 </ul></div>
 

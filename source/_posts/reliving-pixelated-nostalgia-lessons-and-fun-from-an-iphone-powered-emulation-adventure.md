@@ -1,7 +1,7 @@
 ---
 title: "Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure"
-date: 2024-09-08T21:04:28.237Z
-updated: 2024-09-14T22:53:00.377Z
+date: 2024-09-14T14:50:11.509Z
+updated: 2024-09-20T07:24:40.223Z
 tags:
   - games
   - tv
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
  Emulation is powered by well-known cores like [Snes9x](https://github.com/snes9xgit/snes9x) and [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), open-source projects that ensure excellent compatibility with game libraries. The experience may not be pixel-perfect (you’ll need original hardware or an [FPGA-based device like the MiSTeR for that](https://visual-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-captures-top-10-online-video-recorders/)), but with an emulator like Delta you get bonuses like save states, fast forward, and the ability to use cheat codes if you want.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The iPhone Is the Worst Part
@@ -95,43 +95,30 @@ Jason Montoya / How-To Geek
 ![Apple's default Gaming Focus mode trigger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/wireless_trigger_focus.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  First, launch Shortcuts and create a new shortcut. Find the “Set Focus” action and change “Turn” to “Toggle” and “Do Not Disturb” to “Gaming” and save it (giving it a suitable name). Now head to the Automation tab, create a new Automation, and use “App” as the Trigger. Choose Delta, select both “is Opened” and “is Closed”, pick “Run Immediately”, and then choose the Shortcut you just made as the action.
 
 ![An iPhone automation that triggers a shortcut to toggle a Focus mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/shortcuts_delta.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now whenever you open Delta, you’ll see a notification to let you know that the “Gaming” Focus has been enabled. When you close the app, Gaming will be disabled. This can massively cut down the number of notifications and unwanted communication you receive when you’re playing games.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatively, Buy a Handheld PC (Like the Steam Deck)
 
  The [Steam Deck](https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual/) might just be the best handheld emulator on the market, and it can play a huge number of modern Steam games too. You might not consider buying a Steam Deck purely for emulation purposes, but the dedicated form factor, excellent ergonomics, and always-improving software support make it a compelling choice.
 
 ![A Steam Deck with a low-profile keyboard in front of it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/here-s-how-to-pick-a-keyboard-for-your-steam-deck.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Goran Damnjanovic / How-To Geek
 
@@ -142,6 +129,13 @@ Goran Damnjanovic / How-To Geek
  You have other options like the [ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), but these Windows-based machines are all more expensive than Valve’s handheld. They can use the full gamut of emulators available for the Windows platform, but buying a handheld like this purely for emulation purposes feels like overkill.
 
  There are also [portable retro handhelds from Retroid and Anbernic](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/). These devices are inexpensive and come in all manner of form factors, without relying on touchscreen controls. Just make sure you [avoid the cheapest, nastiest knock-offs](https://screen-recording.techidaily.com/updated-2024-approved-top-tier-tools-transforming-remote-discussions/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Give It a Try
 
@@ -164,18 +158,18 @@ Goran Damnjanovic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-art-of-profile-video-attraction/"><u>[Updated] In 2024, Mastering the Art of Profile Video Attraction</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/50-video-doorbell-showdown-see-how-the-iseebell-stacks-up/"><u>$50 Video Doorbell Showdown: See How the ISeeBell Stacks Up!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-build-haha-images/"><u>2024 Approved Build Haha Images</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-beginners-roadmap-for-testing-pages-online-before-making-them-publicly-accessible/"><u>A Beginner’s Roadmap for Testing Pages Online Before Making Them Publicly Accessible</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/acer-aspire-c27-streamlined-design-meets-complete-functionality-in-one/"><u>Acer Aspire C27: Streamlined Design Meets Complete Functionality in One</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-elegance-motorola-one-vs-iphone-a-comparative-review/"><u>Affordable Elegance: Motorola One Vs. IPhone - A Comparative Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-ipad-pro-2018-11-inch-review/"><u>Apple iPad Pro 2018 (11-Inch) Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-upgrade-to-iris-gma520-sdk/"><u>Efficient Upgrade to Iris GMA520 SDK</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/insider-secrets-smooth-videophoto-transfer-to-windows-11/"><u>Insider Secrets Smooth Video/Photo Transfer to Windows 11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/navigating-the-nuances-of-streaming-and-saving-on-facebook-for-2024/"><u>Navigating the Nuances of Streaming and Saving on Facebook for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-webcam-solutions-for-audio-professionals-for-2024/"><u>Optimal Webcam Solutions for Audio Professionals for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-destiny-2-graphic-hitch-a-step-by-step-troubleshooting-guide/"><u>Solved Destiny 2 Graphic Hitch - A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-picks-cost-effective-remobell-video-doorbells-for-your-home/"><u>Top Picks: Cost-Effective RemoBell Video Doorbells for Your Home</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-fbx-filming-made-simple-a-step-by-step-approach-for-2024/"><u>[Updated] FBX Filming Made Simple A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-innovative-strategies-for-displaying-your-screen-in-google-meet/"><u>[Updated] Innovative Strategies for Displaying Your Screen in Google Meet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficiently-uninstall-microsoft-copilot-from-your-windows-11-device-an-easy-guide/"><u>Efficiently Uninstall Microsoft Copilot From Your Windows 11 Device: An Easy Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Without Passcode Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-the-way-we-see-toolwiz-apps-full-review-2023/"><u>Revolutionizing the Way We See Toolwiz App's Full Review, 2023</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tired-of-lame-youtube-recommendations-master-these-strategies-for-top-notch-video-suggestions/"><u>Tired of Lame YouTube Recommendations? Master These Strategies for Top-Notch Video Suggestions!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-5-potential-hazards-of-using-a-3d-printer-prevention-tips/"><u>Top 5 Potential Hazards of Using a 3D Printer: Prevention Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-gaming-experience-with-a-sweeping-ultra-wide-display/"><u>Transforming Gaming Experience with a Sweeping Ultra-Wide Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-resolve-contacts-app-issues-on-your-iphone/"><u>Troubleshooting: How to Resolve Contacts App Issues on Your iPhone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/understanding-jit-the-impact-of-apples-legal-framework-on-ios-gaming-emulation/"><u>Understanding JIT: The Impact of Apples Legal Framework on iOS Gaming Emulation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/universal-playtime-why-every-gamer-should-utilize-key-accessibility-settings/"><u>Universal Playtime: Why Every Gamer Should Utilize Key Accessibility Settings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unofficially-run-old-school-video-games-on-your-iphone-no-hacking-needed/"><u>Unofficially Run Old-School Video Games on Your iPhone - No Hacking Needed!</u></a></li>
 </ul></div>
 

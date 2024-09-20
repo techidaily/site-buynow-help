@@ -1,7 +1,7 @@
 ---
 title: Unveiling My Favorite Reason to Choose Paddle Controls in Gaming Adventures
-date: 2024-09-08T07:29:21.508Z
-updated: 2024-09-15T02:52:59.872Z
+date: 2024-09-14T19:46:10.370Z
+updated: 2024-09-19T22:20:16.901Z
 tags:
   - games
   - tv
@@ -42,19 +42,6 @@ Valve
 
  Considering that I have medium-sized hands, I found that using paddles is much more convenient than having to reach for bumpers. Nowadays, I use paddles instead of bumpers in most games I play. If you have small hands, I reckon back paddles could massively improve your gaming experience, especially on devices like the Steam Deck, which is not very friendly to gamers with small hands.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Rear Paddles Make Some Control Schemes Easier to Use
 
  But that’s not all. The two buttons I hate using on every controller are the thumbstick clicks, also known as L3 or LS and R3 or RS. They are hard to press on most controllers, yet you end up accidentally pressing them in high-tension moments, usually right when you don't want to. The most egregious example of a game with annoying L3/R3 mappings I’ve found to date is _Everspace 2_. A highly enjoyable spaceship shooter but, as those usually go, a game with a highly convoluted control scheme.
@@ -68,6 +55,13 @@ Hannah Stryker / How-To Geek
  The solution is to remap L3 and R3 to the paddles, and the result is glorious. I can’t explain just how delightful it is not to have to press and hold the thumbsticks and instead use easy-to-reach and easy-to-press paddle buttons. Because of this, I even forgo using one of the two paddle buttons on my ROG Ally as a modifier in _Everspace 2_.
 
  Paddle buttons also allowed me to finally try playing racing games with manual transmission. I just can’t bother using manual on a regular controller because it’s either mapped to the bumpers, which are hard to reach, or face buttons, which leads to me pressing the wrong button in tense moments. Now, I can finally enjoy driving cars with manual shifting without needing a wheel, which is great considering [I much prefer gaming on my handhelds](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) than on my PC.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Paddle Controller Gives Me an Edge in Multiplayer Games
 
@@ -86,16 +80,10 @@ Hannah Stryker / How-To Geek
 ![Sony's DualSense Edge controller rear paddles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dualsense_paddles.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sony
@@ -121,21 +109,20 @@ Sony
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-best-gear-for-comprehensively-filmed-action/"><u>[Updated] In 2024, Best Gear for Comprehensively Filmed Action</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-harmonizing-your-device-importing-to-inshot-app/"><u>[Updated] In 2024, Harmonizing Your Device Importing to InShot App</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-11-audio-capture-devices-for-live-broadcasts/"><u>[Updated] Top 11 Audio Capture Devices for Live Broadcasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-the-directors-cut-edition-the-thrilling-world-of-wasteland-2-revisited/"><u>A Comprehensive Review of the Director's Cut Edition: The Thrilling World of Wasteland 2 Revisited</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-guide-to-creative-use-of-supplementary-footage-b-roll-for-2024/"><u>A Guide to Creative Use of Supplementary Footage (B-Roll) for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-elite-vr-with-the-new-oculus-quest-2-an-in-depth-review/"><u>Affordable Elite VR with the New Oculus Quest 2 – An In-Depth Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y27-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y27 5G FRP Bypass</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-reno-11-pro-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo Reno 11 Pro 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-whats-cooking-10-viral-food-scenes-on-tiktok/"><u>In 2024, What's Cooking? 10 Viral Food Scenes on TikTok</u></a></li>
-<li><a href="https://common-error.techidaily.com/set-your-origin-games-right-fixing-configuration-hitches-easily/"><u>Set Your Origin Games Right: Fixing Configuration Hitches Easily</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-considerations-for-high-quality-tv-purchases/"><u>Top Considerations for High-Quality TV Purchases</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-running-gear-unveiled-the-garmin-forerunner-45-exposed/"><u>Top Running Gear Unveiled: The Garmin Forerunner 45 Exposed!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tp-link-tl-wr902ac-ac750-travel-router-review/"><u>TP-Link TL-WR902AC AC750 Travel Router Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-strategy-for-placing-your-ps4-camera-effectively/"><u>Ultimate Strategy for Placing Your PS4 Camera Effectively</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/watching-free-hdtv-heres-what-you-need-to-know-about-amazonbasics-antennas/"><u>Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-chronological-displacement-effects/"><u>[New] Crafting Chronological Displacement Effects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-tips-for-seamlessly-screening-instagram-stories-for-2024/"><u>[New] Tips for Seamlessly Screening Instagram Stories for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-creating-memorable-beginnings-imovie-tips-for-youtube-videos-for-2024/"><u>[Updated] Creating Memorable Beginnings IMovie Tips for YouTube Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-11-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme 11 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engineer-meme-creation-in-adobe/"><u>Engineer Meme Creation in Adobe</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exclusive-list-best-free-videos-for-pc-macos-for-2024/"><u>Exclusive List Best Free Videos for PC, MacOS for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/precision-and-durability-in-every-detail-reviewing-the-stable-masterpiece-that-is-the-twelve-south-compass-pro/"><u>Precision and Durability in Every Detail: Reviewing the Stable Masterpiece That Is the Twelve South Compass Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-obs-recording-guide-for-gaming-enthusiasts-for-2024/"><u>The Ultimate OBS Recording Guide for Gaming Enthusiasts for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-memory-cards-for-digital-cameras/"><u>Top Rated Memory Cards for Digital Cameras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-strategies-for-testing-video-games-before-purchasing-save-time-and-money/"><u>Top Strategies for Testing Video Games Before Purchasing: Save Time and Money</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-reason-behind-ps-ones-shaky-visual-experience/"><u>Uncovering the Reason Behind PS One's Shaky Visual Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/understanding-asset-flipped-games-do-they-hurt-the-gaming-industry/"><u>Understanding Asset-Flipped Games – Do They Hurt the Gaming Industry?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-the-dream-experience-baldurs-gate-3-with-david-attenborough-using-advanced-voice-mod-technology/"><u>Unlock the Dream: Experience Baldur's Gate 3 with David Attenborough Using Advanced Voice Mod Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-savings-discover-how-to-enjoy-more-with-apple-tvplus-in-just-five-strategies/"><u>Unlocking Savings: Discover How to Enjoy More with Apple TV+ in Just Five Strategies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/weekly-insights-on-upcoming-devices-from-google-and-samsung/"><u>Weekly Insights on Upcoming Devices From Google & Samsung</u></a></li>
 </ul></div>
 

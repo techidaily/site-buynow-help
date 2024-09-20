@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2024-09-09T03:42:07.414Z
-updated: 2024-09-14T16:21:04.268Z
+date: 2024-09-16T06:13:54.595Z
+updated: 2024-09-20T11:40:53.129Z
 tags:
   - games
   - tv
@@ -78,16 +78,10 @@ _GIGABYTE_
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Buy an 8GB GPU in 2024?
@@ -113,20 +107,17 @@ _GIGABYTE_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-motion-perception-systems/"><u>[New] Navigating Through Motion Perception Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-podcasting-tech-updates-unveiled/"><u>[Updated] Podcasting Tech Updates Unveiled</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-7-hd-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 7 HD to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/identifying-and-eliminating-the-hxtsrexe-file-on-your-windows-e10-machine-expert-advice/"><u>Identifying & Eliminating the HxTsr.exe File on Your Windows E10 Machine - Expert Advice</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-nubia-z50s-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Nubia Z50S Pro FRP Bypass</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-web-development-and-coding-bootcamps-online-2024-edition/"><u>Leading Web Development and Coding Bootcamps Online - 2024 Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/legitimate-methods-for-finding-a-persons-email-in-the-digital-age/"><u>Legitimate Methods for Finding a Person’s Email in the Digital Age</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/logitech-c920-pro-hd-webcam-review/"><u>Logitech C920 Pro HD Webcam Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/molecular-research-may-uncover-biomarkers-for-predicting-treatment-response-and-identifying-patients-at-risk-for-severe-complications-from-cancer-induced-bo109/"><u>Molecular Research May Uncover Biomarkers for Predicting Treatment Response and Identifying Patients at Risk for Severe Complications From Cancer-Induced Bone Disease.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-tablet-shopping-consider-these-8-important-tips-first/"><u>Navigating Tablet Shopping? Consider These 8 Important Tips First!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-split-your-videos-with-ease-top-5-free-mpeg-splitters/"><u>New 2024 Approved Split Your Videos with Ease Top 5 Free MPEG Splitters</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pet-cube-reveals-how-to-keep-families-together-anywhere/"><u>Pet Cube Reveals How to Keep Families Together Anywhere</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/practical-insights-on-msis-pro-mp161-e2-mobile-display-unit/"><u>Practical Insights on MSI's Pro MP161 E2 Mobile Display Unit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/redefining-ai-assessment-post-turing-paradigms/"><u>Redefining AI Assessment: Post-Turing Paradigms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-practices-for-nocturnal-photography-success-for-2024/"><u>[New] Best Practices for Nocturnal Photography Success for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-tenfold-video-recording-tricks-on-your-windows-11-system/"><u>[New] In 2024, Tenfold Video Recording Tricks on Your Windows 11 System</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>[Updated] In 2024, The Ultimate VR Player Guide Unveiling the Best PC Streamers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-the-world-of-instagram-puzzles-for-peak-performance-for-2024/"><u>[Updated] Navigating the World of Instagram Puzzles for Peak Performance for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-edge-2023-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Edge 2023 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/boost-engagement-posting-twitter-videos-on-snapchat/"><u>Boost Engagement Posting Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-garmin-vivosmart-e-review-features-battery-and-stress-tracking/"><u>Comprehensive Garmin Vivosmart E Review – Features Battery & Stress Tracking</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-what-to-do-when-your-sennheiser-gaming-mic-wont-work-anymore/"><u>Expert Advice: What to Do When Your Sennheiser Gaming Mic Won't Work Anymore</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidance-for-overcoming-indexer-service-start-up-issues/"><u>Guidance for Overcoming Indexer Service Start-Up Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-unpacking-the-power-and-mobility-of-the-new-samsung-galaxy-chromebook/"><u>In Depth Review: Unpacking the Power & Mobility of the New Samsung Galaxy Chromebook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-huawei-mediapad-m5-where-clarity-meets-quality-sound/"><u>In-Depth Look at the Huawei MediaPad M5 – Where Clarity Meets Quality Sound</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-the-garmin-venu-a-complete-review-for-nonstop-fitness-and-health-management/"><u>Unveiling the Power of the Garmin Venu: A Complete Review for Nonstop Fitness and Health Management</u></a></li>
 </ul></div>
 

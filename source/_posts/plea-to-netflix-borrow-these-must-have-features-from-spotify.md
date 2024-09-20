@@ -1,7 +1,7 @@
 ---
 title: "Plea to Netflix: Borrow These Must-Have Features From Spotify"
-date: 2024-09-09T06:31:11.609Z
-updated: 2024-09-15T08:05:19.199Z
+date: 2024-09-16T03:11:52.485Z
+updated: 2024-09-20T07:02:41.209Z
 tags:
   - games
   - tv
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Access to More Data For a Richer Experience
@@ -57,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
@@ -84,19 +90,20 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-direct-lineup-for-iphone-images-flawless-snapchat-backup/"><u>[Updated] 2024 Approved Direct Lineup for iPhone Images Flawless Snapchat Backup</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-level-perfection-iphone-xs-photographic-breakthroughs/"><u>[Updated] Pro-Level Perfection IPhone X's Photographic Breakthroughs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-cover-pics-made-easy-top-5-free-downloader-lists-for-2024/"><u>[Updated] YouTube Cover Pics Made Easy – Top 5 Free Downloader Lists for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024s-top-choices-for-innovative-visual-voice-mail-apps/"><u>2024'S Top Choices for Innovative Visual Voice Mail Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-system-unveiling-best-apps-of-the-year/"><u>Elevate Your System: Unveiling Best Apps of the Year</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-12-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 12 Pro Max/Windows/Mac</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/by-step-for-quick-chromakey-application-for-2024/"><u>Step-by-Step for Quick Chromakey Application for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-x-fold-2-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo X Fold 2 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-alluring-power-of-apples-latest-the-215-inch-4k-imac-reviewed-for-style-and-performance/"><u>The Alluring Power of Apple's Latest: The 21.5 Inch 4K iMac Reviewed for Style and Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-asus-chromebook-c202-saga-a-sturdy-companion-for-students-and-children/"><u>The Asus Chromebook C202 Saga: A Sturdy Companion for Students and Children</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-battle-of-sony-consoles-analyzing-ps5-and-ps5-slim-features/"><u>The Battle of Sony Consoles: Analyzing PS5 and PS5 Slim Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-essential-guide-to-using-and-understanding-the-garmin-gpsmap-64st-handheld-gps/"><u>The Essential Guide to Using and Understanding the Garmin GPSMAP 64St Handheld GPS</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-secret-image-editor-built-into-your-mac-preview-uncovered/"><u>The Ultimate Guide to the Secret Image Editor Built Into Your Mac: Preview Uncovered</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-kootek-portable-pc-chiller-the-perfect-cooling-solution/"><u>Ultimate Guide to the Kootek Portable PC Chiller - The Perfect Cooling Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-free-to-paid-transitioning-your-channel-via-partnership/"><u>[New] In 2024, From Free to Paid Transitioning Your Channel via Partnership</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-iphone-video-tips-trim-to-size-with-precision-cutting/"><u>2024 Approved IPhone Video Tips Trim to Size with Precision Cutting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-gopro-hero5-black-batteries-with-certified-chargers/"><u>2024 Approved Premier GoPro Hero5 Black Batteries with Certified Chargers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-cumuluspro-anti-fatigue-mat-assessment-for-enhanced-standing-desks/"><u>Comprehensive CumulusPRO Anti-Fatigue Mat Assessment for Enhanced Standing Desks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-analysis-of-kooteks-notebook-airflow-solution-the-best-all-in-one-for-your-device/"><u>Detailed Analysis of Kootek's Notebook Airflow Solution: The Best All-in-One for Your Device?</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-gaming-monitors-with-peak-refresh-rates/"><u>Economical Gaming Monitors With Peak Refresh Rates</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-does-the-samsung-55-4k-ru7300-smart-tv-hold-up-a-comprehensive-analysis/"><u>How Does the Samsung 55'' 4K RU7300 Smart TV Hold Up: A Comprehensive Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immersive-entertainment-unleashed-discover-the-ultimate-picture-quality-of-lg-65-inch-c9-led-oled-set/"><u>Immersive Entertainment Unleashed: Discover the Ultimate Picture Quality of LG 65-Inch C9 LED OLED Set</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-exploration-of-morphvox-for-precise-sound-alteration/"><u>In 2024, In-Depth Exploration of MorphVOX for Precise Sound Alteration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-streamlined-techniques-for-transforming-vids-on-pinterest-to-mp3s/"><u>In 2024, Streamlined Techniques for Transforming Vids on Pinterest to MP3s</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-netgears-nighthawk-x6-the-ultimate-guide-to-wi-fi-mesh-technology/"><u>In-Depth Analysis of Netgear's Nighthawk X6 - The Ultimate Guide to Wi-Fi Mesh Technology</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/learn-the-best-practices-for-capturing-instagram-live-feeds/"><u>Learn the Best Practices for Capturing Instagram Live Feeds</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-the-unchallenged-online-kingpin/"><u>Meta: The Unchallenged Online Kingpin</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/on-the-move-wi-fi-with-tp-links-compact-tl-wr9eb-the-ideal-travel-router/"><u>On-the-Move Wi-Fi with TP-Link's Compact TL-WR9eb: The Ideal Travel Router</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sony-playstation-cuisine-savoring-technological-advancements-in-ps5-console/"><u>Sony PlayStation Cuisine: Savoring Technological Advancements in PS5 Console</u></a></li>
 </ul></div>
 

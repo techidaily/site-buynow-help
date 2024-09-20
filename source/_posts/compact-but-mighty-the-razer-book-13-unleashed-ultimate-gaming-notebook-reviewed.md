@@ -1,7 +1,7 @@
 ---
 title: "Compact but Mighty: The Razer Book 13 Unleashed - Ultimate Gaming Notebook Reviewed"
-date: 2024-08-27T06:46:51.072Z
-updated: 2024-08-28T06:46:51.072Z
+date: 2024-09-13T02:56:12.616Z
+updated: 2024-09-20T12:27:02.367Z
 categories:
   - BestProducts
 description: "This Article Describes Compact but Mighty: The Razer Book 13 Unleashed - Ultimate Gaming Notebook Reviewed"
@@ -99,13 +99,17 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Just follow the directions**
 
  There's little reason to worry about getting the LG Gram 15.6-inch laptop up and running quickly. It has Windows 10 pre-installed, so you'll simply follow the onscreen prompts to enter your Wi-Fi info, check for updates, select a few options, and ultimately find yourself ready to roll on the desktop. It shouldn't take more than a handful of minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## **Display: Large and capable enough**
 
  The LG Gram's 15.6-inch screen is good, but not great. It's certainly large: the widescreen panel stretches out longer than the 13-inch screens seen on a lot of ultraportable computers, and the extra real estate is absolutely noticeable. It gives you enough extra space to comfortably multitask, such as having a web browser and a document side-by-side, or a Slack window in full view to distract you from whatever you're supposed to be doing for work.
@@ -119,8 +123,18 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Solid power for everyday tasks**
 
  With an 8th-gen Intel Core i5-8250U at 1.6Ghz and 8GB RAM onboard, the 2018 LG Gram runs on the same chipset as the Surface Laptop 2 and Dell XPS 13\. It provides solid power for everyday tasks, and we didn't run into any noticeable slowdown while moving around Windows 10, surfing the web, typing up documents, and loading up apps. It's not a powerhouse CPU, however, and creative professionals looking for a machine for photo or video editing, for example, will surely want more processing power and RAM to play with.
@@ -133,9 +147,6 @@ Lifewire / Andrew Hayward
 
  As an aside, while the LG Gram often runs near-silently, there are extended periods of time in which there's an audible hum coming from the back. It's not the typical, very loud fan noise that pops up while gaming or heavy multitasking from some computers, but it can be a bit grating. We noticed it while charging the computer, but also while running on the battery—with no consistency on that front. It's a mild annoyance, but it's one we noticed whenever it emerged.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## **Audio: It makes an impression**
 
  You won't see the speakers when the LG Gram is standing up as normal, but you'll hear them loud and clear. The stereo speakers are tucked underneath the laptop at the left and right edges near where your wrists rest, and thanks to the slight elevation from the rubbery feet on the bottom of the laptop, they're given enough space for the output to shine. Audio playback sounds robust and clear—not quite to the level of Apple's current MacBook Air and MacBook Pro, but very close. We were pleased with it.
@@ -151,8 +162,12 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery: Seriously amazing**
 
  The battery is undoubtedly one of the key highlights of the LG Gram 15.6-inch (2018) experience. This massive 72Wh cell is estimated to provide upwards of 19 hours of uptime, according to LG—but as is usually the case with[laptops](https://www.lifewire.com/best-laptops-to-buy-4043650) , that estimate isn't reflective of typical use cases. Even so, with max brightness, the fact that we could get about half that amount still makes for a long-lasting experience.
@@ -161,15 +176,19 @@ Lifewire / Andrew Hayward
 
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100% brightness.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Hello, Windows (but no Windows Hello)**
 
  The LG Gram 15.6-inch comes with Windows 10 Home preinstalled, and if you've used Windows over the years, then you should be pretty comfortable here. Windows 10 has lightly evolved the PC operating system with feature enhancements and tweaks without losing the classic, familiar DNA within, and it's the OS of choice for computer gaming and apps of all shapes and sizes. It's easy to use and understand, and runs well with the Intel Core i5 and an SSD onboard.
 
  Unfortunately, this entry-level model of the LG Gram 15.6-inch isn't able to take advantage of Windows Hello biometric security, as the camera above the display doesn't have the needed sensors for scanning your face. We missed the near-instantaneous facial recognition of the Surface Laptop 2, and having to type in a PIN number each time we opened up the lid. Pricier models of the laptop offer a fingerprint scanner, however.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Solidly priced, considering its strengths**
 
  Originally priced at $1,249, the entry-level LG Gram 15.6-inch (2018) can now be found for about $999 as of this writing. LG has rolled out newer 2019 versions that look identical and have the same core features, but upgrade to the latest generation of Intel Core processors. You should see a little bit more speed in benchmark testing, although it's unclear whether there's any noticeable difference during regular usage.
@@ -178,14 +197,15 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/5yzhAkphyYfWOMofqawuktHJlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-v.-Surface-comparison-4946178bf2e94230820d2b19d2fb7197.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **LG Gram 15.6-inch (2018) vs. Microsoft Surface Laptop 2: Better than Microsoft's own?**
 
  The LG Gram 15.6-inch and Microsoft Surface Laptop 2 are similarly equipped, in terms of having the same processor and integrated graphics chip, although they vary quite a bit from there. As noted, the LG Gram's claim to fame comes with the resilient battery and large screen for such a lightweight computer.
@@ -217,14 +237,11 @@ Lifewire / Andrew Hayward
 * Battery Capacity  72 Wh
 * Ports  1x USB-C, 3x USB-3, HDMI, microSD, 3.5mm headphone port
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -235,36 +252,18 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-increase-followers-on-facebook-10-effective-ways/"><u>[New] 2024 Approved  How to Increase Followers on Facebook (10 Effective Ways )</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-crime-consortium-top-titles-echoing-gta-v/"><u>[Updated] 2024 Approved  Crime Consortium  Top Titles Echoing GTA V</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-androids-technique-for-retroactive-viewing/"><u>[Updated] Android's Technique for Retroactive Viewing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-direct-youtube-to-dazzling-gif-creation-with-no-downloads/"><u>[Updated] Direct YouTube to Dazzling Gif Creation with No Downloads</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-sizing-up-best-practices-for-instagram-videos-in-2eary-2023-for-2024/"><u>[Updated] Sizing Up  Best Practices for Instagram Videos in 2Eary 2023 for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-quick-cash-on-reddit-here-are-13-ways-for-new-users/"><u>2024 Approved  Quick Cash on Reddit? Here Are 13 Ways for New Users</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-turn-daily-life-into-a-comedy-meme/"><u>2024 Approved  Turn Daily Life Into a Comedy Meme</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/all-ages-guide-to-mastering-off-road-fun-with-the-maisto-remote-control-rock-climber-detailed-overview-and-insights/"><u>All-Ages Guide to Mastering Off-Road Fun with the Maisto Remote Control Rock Climber - Detailed Overview and Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessing-the-performance-why-you-might-still-want-a-samsung-galaxy-tab-s3/"><u>Assessing the Performance: Why You Might Still Want a Samsung Galaxy Tab S3</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bisphosphonates-target-the-mevalonate-pathway-to-inhibit-osteoclast-function-while-denosumab-blocks-rankl-directly/"><u>Bisphosphonates Target the Mevalonate Pathway to Inhibit Osteoclast Function, While Denosumab Blocks RANKL Directly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-linksys-wrt1900acs-an-open-source-router-analysis/"><u>Comprehensive Evaluation of the Linksys WRT1900ACS - An Open Source Router Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-tp-link-re200-ac750-wifi-signal-booster-a-cost-effective-choice/"><u>Comprehensive Evaluation of TP-Link RE200 AC750 WiFi Signal Booster - A Cost-Effective Choice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-space-empires-in-stellaris/"><u>Comprehensive Guide to the Space Empires in Stellaris</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-top-race-rc-rock-crawler-for-unbeatable-off-road-performance/"><u>Comprehensive Review of the Top Race RC Rock Crawler for Unbeatable Off-Road Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-b550-xt-revolutionary-voice-management/"><u>Discovering B550-XT: Revolutionary Voice Management</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-mini-marvel-a-comprehensive-samsung-galaxy-s10e-evaluation/"><u>Discovering the Mini Marvel: A Comprehensive Samsung Galaxy S10e Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/effortless-accuracy-and-enduring-connections-the-sabrent-mini-travel-wireless-mouse-experience/"><u>Effortless Accuracy & Enduring Connections: The Sabrent Mini Travel Wireless Mouse Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enthralling-examination-and-replacement-ideas/"><u>Enthralling Examination & Replacement Ideas</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ergodriven-topo-mat-assessment-a-must-have-anti-fatigue-standing-pad-for-office-productivity/"><u>Ergodriven Topo Mat Assessment: A Must-Have Anti-Fatigue Standing Pad for Office Productivity</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tips-for-astro-driver-optimization-in-windows/"><u>Essential Tips for Astro Driver Optimization in Windows</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-comfort-with-the-ergodriven-topo-the-anti-fatigue-mat-for-effortless-long-stands-at-your-desk/"><u>Experience Comfort with the Ergodriven Topo - The Anti-Fatigue Mat for Effortless Long Stands at Your Desk</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-assessment-the-combination-of-quality-and-efficiency-in-the-huion-inspiroy-g10t-art-pad/"><u>Expert Assessment: The Combination of Quality and Efficiency in the Huion Inspiroy G10T Art Pad</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-unveiling-the-features-of-jackerys-portable-power-bar-with-ac-output/"><u>Expert Review: Unveiling the Features of Jackery's Portable Power Bar with AC Output</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-bouncie-connect-an-easy-and-economical-choice-for-gps-trackers/"><u>Exploring Bouncie Connect - An Easy & Economical Choice for GPS Trackers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fossil-sports-watches-review-achieving-luxury-at-a-cost-youll-love/"><u>Fossil Sports Watches Review: Achieving Luxury at a Cost You'll Love</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/google-pixel-4a-review-just-enough-smartphone-for-most/"><u>Google Pixel 4a Review: Just Enough Smartphone for Most</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-does-the-amazonbasics-12-sheet-security-micro-cut-shredder-stack-up-detailed-examination-and-user-satisfaction-review/"><u>How Does the AmazonBasics 12-Sheet Security Micro-Cut Shredder Stack Up? - Detailed Examination and User Satisfaction Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/immerse-yourself-in-the-elder-scrolls-v-skyrim-nintendo-switch-edition-reviewed/"><u>Immerse Yourself in The Elder Scrolls V: Skyrim - Nintendo Switch Edition Reviewed!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-boosting-your-presence-on-fb-with-virality-techniques/"><u>In 2024, Boosting Your Presence on FB with Virality Techniques</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-70-lite-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 70 Lite 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-a14-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy A14 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-becoming-a-trendsetter-youtube-video-tactics/"><u>[New] 2024 Approved Becoming a Trendsetter YouTube Video Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-chrome-os-talk-modifiers-selecting-the-top-5-cloud-speech-services/"><u>[New] Chrome OS Talk Modifiers Selecting the Top 5 Cloud Speech Services</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-iphone-ios-vr-games-you-should-try/"><u>[New] Top Iphone iOS VR Games You Should Try</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/critical-considerations-before-investing-in-a-new-dash-cam-device/"><u>Critical Considerations Before Investing in a New Dash Cam Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-multifaceted-acer-aspire-c27-the-ultimate-low-profile-computer-solution/"><u>Discover the Multifaceted Acer Aspire C27: The Ultimate Low Profile Computer Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-storm-tracker-applications-to-keep-you-safe/"><u>Essential Storm Tracker Applications to Keep You Safe</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-premium-gopro-hero9-black-edition/"><u>Evaluating the Premium GoPro HERO9 Black Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insight-on-the-samsung-ru7300-is-its-design-a-game-changer-for-your-viewing-experience/"><u>Expert Insight on the Samsung RU7300 - Is Its Design a Game-Changer for Your Viewing Experience?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-newly-launched-samsung-galaxy-tab-s4-a-true-android-powerhouse/"><u>Expert Insights on the Newly Launched Samsung Galaxy Tab S4: A True Android Powerhouse</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-benefits-asus-ax6000-rt-ax88u-router-unveiled-the-premier-choice-in-wi-fi-6-technology-and-efficiency/"><u>Exploring the Benefits: Asus AX6000 (RT-AX88U) Router Unveiled - The Premier Choice in Wi-Fi 6 Technology and Efficiency</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-14-pro-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 14 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://extra-support.techidaily.com/scrutinizing-if-opinions-on-items-are-paid-for-for-2024/"><u>Scrutinizing if Opinions on Items Are Paid For for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-users-ultimate-guide-to-intel-optane-driver-installation-and-update-processes/"><u>Windows User's Ultimate Guide to Intel Optane Driver Installation & Update Processes</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "DIY Live TV Success: Ditching Streaming Giants for Personal Setup"
-date: 2024-09-07T21:13:05.678Z
-updated: 2024-09-14T18:34:53.777Z
+date: 2024-09-18T06:50:27.841Z
+updated: 2024-09-19T18:29:12.725Z
 tags:
   - games
   - tv
@@ -54,10 +54,10 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
  Once I got the NAS, though, I learned that a Jellyfin server is difficult to move. There's no built-in function for it at all. There are scripts you can find online that are meant to partially automate it for you, but they still require some technical knowledge to use and aren't guaranteed to work. I ultimately decided figuring it all out wasn't worth my time, so I started a new Jellyfin instance on my NAS and copied over all my movies and shows. That was a much simpler, albeit slow, process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Was It All Worth It?
@@ -81,17 +81,18 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-digital-cutting-edge-streamlined-strategies-for-editing-videos-on-vimeo-for-2024/"><u>[New] Digital Cutting Edge Streamlined Strategies for Editing Videos on Vimeo for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/anthropics-smart-photo-editor-comprehensive-app-evaluation/"><u>Anthropics Smart Photo Editor: Comprehensive App Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/approach-recall-the-definitions-and-symptoms-of-reversible-and-irreversible-pulpitis/"><u>Approach: Recall the Definitions and Symptoms of Reversible and Irreversible Pulpitis.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessing-the-vive-cosmos-a-robust-entry-in-a-crowded-vr-headset-battlefield/"><u>Assessing the Vive Cosmos - A Robust Entry in a Crowded VR Headset Battlefield</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/byb-e4nce-reviews-the-pinnacle-of-led-lamps-with-superior-swing-arm-functionality/"><u>BYB E4nce Reviews: The Pinnacle of LED Lamps with Superior Swing Arm Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choose-your-e-reader-a-detailed-look-at-the-ipad-vs-kindle-vs-nook/"><u>Choose Your E-Reader: A Detailed Look at the iPad Vs. Kindle Vs. NOOK</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-a15-5g-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy A15 5G?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-honor-x50-gt-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Honor X50 GT without App | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-picture-perfect-strategies-to-tackle-and-fix-pixelated-views/"><u>Outriders Picture Perfect: Strategies to Tackle and Fix Pixelated Views</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-barnes-and-noble-nook-glowlight-cuhrtine-edition-review-why-it-shines-at-night/"><u>The Ultimate Barnes & Noble Nook GlowLight Cuhrtine Edition Review - Why It Shines at Night!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-fixing-the-stop-0x0000007b-bsod-error-on-windows-pcs/"><u>Troubleshooting and Fixing the STOP 0X0000007B BSOD Error on Windows PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-2022s-golden-age-for-ice-dancing-showcases/"><u>[Updated] 2022'S Golden Age for Ice Dancing Showcases</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cheerful-media-extractor-analysis/"><u>[Updated] Cheerful Media Extractor Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-ultimate-selection-of-compact-and-portable-tv-screens-for-on-the-go-viewing-experience/"><u>2024'S Ultimate Selection of Compact and Portable TV Screens for On-the-Go Viewing Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/advanced-techniques-to-leverage-windows-11-pro-for-2024/"><u>Advanced Techniques to Leverage Windows 11 Pro for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazons-ultimate-prime-day-offers-for-202n-save-big-and-find-the-best-bargains/"><u>Amazon's Ultimate Prime Day Offers for 202N: Save Big and Find the Best Bargains!</u></a></li>
+<li><a href="https://article-files.techidaily.com/chuckle-cheat-sheet-perfectly-timed-memes-for-2024/"><u>Chuckle Cheat Sheet Perfectly Timed Memes for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oppo-a56s-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo A56s 5G Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-iphone-landscape-photography-excellence/"><u>In 2024, The Ultimate Guide to iPhone Landscape Photography Excellence</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-getting-tekken-8-up-and-running-on-a-windowsmac-system/"><u>Solution Guide: Getting Tekken 8 Up and Running on a Windows/Mac System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-letdown-of-ps2-on-ps5-master-the-art-of-gaming-with-pcsx2-instead/"><u>The Letdown of PS2 on PS5: Master the Art of Gaming with PCSX2 Instead!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-5-longing-feelings-why-face-to-face-gaming-with-pals-beats-virtual-battles/"><u>Top 5 Longing Feelings: Why Face-to-Face Gaming with Pals Beats Virtual Battles</u></a></li>
 </ul></div>
 

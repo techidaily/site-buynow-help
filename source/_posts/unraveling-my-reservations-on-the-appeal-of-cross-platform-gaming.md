@@ -1,7 +1,7 @@
 ---
 title: Unraveling My Reservations on the Appeal of Cross-Platform Gaming
-date: 2024-09-11T06:46:41.850Z
-updated: 2024-09-14T22:45:34.478Z
+date: 2024-09-16T12:06:14.345Z
+updated: 2024-09-19T23:37:04.321Z
 tags:
   - games
   - tv
@@ -41,13 +41,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  A few games offer "controller matching" to avoid this issue, allowing players to match with other players who are using the same hardware. This would be a better feature if more games included it, but sadly, it's not seen on a lot of cross-platform titles. This is only an issue when you're playing competitive PVP titles, however. Co-op titles don't need any adjusting for this metric.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Mouse-and-Keyboard vs. Controller War
 
 ![An Xbox wireless controller on top of a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_2395089811-1.jpg) 
@@ -68,15 +61,22 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
 ![A Razer Firefly V2 Pro gaming mouse on a light-up mouse pad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/gaming-mouse-on-therazer-firefly-v2-pro_53678776130_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -86,6 +86,13 @@ Jerome Thomas / How-To Geek
  Granted, a person can sometimes set up a keyboard and mouse for use with an [Xbox](https://on-screen-recording.techidaily.com/new-in-2024-go-pro-capturing-ps4-games-in-hd-via-obs-studio-tutorial/) or a [PS5](https://instagram-video-recordings.techidaily.com/updated-unlocking-verified-status-essential-strategies-for-increasing-instagram-popularity/), but why would you want to do that when it's a step back in terms of comfort? The accuracy boost just isn't worth it when it comes to long gaming sessions. Console players will always be more comfortable for long sessions than PC gamers locked into a keyboard and mouse.
 
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Few Other Considerations
 
@@ -98,13 +105,6 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
  Gameplay in cross-platform titles requires a bit more work on the developer's part. The reason so many games traditionally lacked this functionality is because of how much work goes into porting games between hardware, including testing for compatibility across platforms. It's very likely updates may cause a game to become unplayable on one platform or another.
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Can Always Turn Off Cross-Play
 
@@ -127,14 +127,18 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/discounted-price-alert-high-resolution-8k-phrozen-sonic-mini-s-resin-3d-printer-for-325-only/"><u>Discounted Price Alert: High-Resolution 8K Phrozen Sonic Mini S Resin 3D Printer for $325 Only</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embracing-change-celebrating-ten-years-at-mondly/"><u>Embracing Change, Celebrating Ten Years at Mondly</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722968628267-find-the-best-source-download-driver-software-for-your-ricoh-mp-c3003-printer-today/"><u>Find the Best Source: Download Driver Software for Your Ricoh MP C3003 Printer Today!</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m14-4g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M14 4G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-spark-10c-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Spark 10C to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-assassin-saga-completed-an-honest-take-on-hitman-3/"><u>The Assassin Saga Completed - An Honest Take on Hitman 3</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-breakdown-of-amazfits-helio-ring-release-timing-cost-analysis-and-core-features-revealed/"><u>The Complete Breakdown of Amazfit's Helio Ring: Release Timing, Cost Analysis, and Core Features Revealed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-cropping-and-editing-music-in-canva/"><u>The Ultimate Guide Cropping & Editing Music in Canva</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-nest-audio-why-this-is-the-smart-choice-for-serious-music-lovers/"><u>The Ultimate Guide to Nest Audio: Why This Is the Smart Choice for Serious Music Lovers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-circumventing-virtual-classroom-videos-without-hesitation/"><u>[New] Circumventing Virtual Classroom Videos Without Hesitation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-freedom-from-popups-discover-the-top-7-android-adblock-apps/"><u>[New] Freedom From Popups? Discover the Top 7 Android AdBlock Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pioneering-visual-effects-strategic-use-of-luts-in-adobe-projects/"><u>[New] Pioneering Visual Effects Strategic Use of LUTs in Adobe Projects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-tips-for-saving-the-world-with-a-smile/"><u>[New] Quick Tips for Saving the World with a Smile</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-ideal-video-maker-apps-for-novice-iphone-and-android-users/"><u>[Updated] 2024 Approved Ideal Video Maker Apps for Novice iPhone and Android Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-audio-aesthetics-high-quality-dj-template-videos-downloaded/"><u>[Updated] Audio Aesthetics High-Quality DJ Template Videos Downloaded</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-tech-marvels-unveiled-the-complete-oneplus-nord-n100-review/"><u>Affordable Tech Marvels Unveiled - The Complete OnePlus Nord N100 Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g24-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G24 Fingerprint Lock</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-rebel-t6-examined/"><u>Budget-Friendly Rebel T6 Examined</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016343201-mac-no-sound-dilemma-heres-how-to-get-the-audio-working-again/"><u>Mac No Sound Dilemma? Here's How to Get the Audio Working Again!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/xiaomi-mi-smart-band-4-a-budget-friendly-fitness-tracker-that-exceeds-expectations-in-depth-review/"><u>Xiaomi Mi Smart Band 4: A Budget-Friendly Fitness Tracker That Exceeds Expectations - In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/your-essential-walkthrough-to-crafting-a-nintendo-3ds-account-on-nintendo-network/"><u>Your Essential Walkthrough to Crafting a Nintendo 3DS Account on Nintendo Network</u></a></li>
 </ul></div>
 

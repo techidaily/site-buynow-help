@@ -1,7 +1,7 @@
 ---
 title: Inside My Adventure in 3D-Printed LEGO Creations – Surprising Outcomes Revealed
-date: 2024-09-14T01:16:11.449Z
-updated: 2024-09-15T09:48:41.186Z
+date: 2024-09-18T23:18:43.894Z
+updated: 2024-09-20T09:21:17.616Z
 tags:
   - games
   - tv
@@ -31,11 +31,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you have the talent and the time, nothing's stopping you from firing up your favorite CAD program and whipping up your own LEGO, but luckily plenty of people have already done the hard work for us. In this case I used FaronMentink's [LEGO compatible bricks](https://www.thingiverse.com/thing:5447694/files) found on Thingiverse, but if those don't work for you, there are numerous other options on Thingiverse and other websites that host files for 3D printing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Printer, Setup, Material, & Settings
 
  For my test I used a [Creality K1 Max](https://www.amazon.com/Creality-K1-Max-High-Speed-11-8x11-8x11-8in/dp/B0C5RFGNDH/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002223&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-tried-3d-printing-lego-and-this-is-what-happened%2F&asc%5Fcampaign=Evergreen), which is Creality's flagship next-generation 3D printer. I printed it at both 0.2mm and 0.1mm resolutions to see if there was a resolution threshold, and I used the high quality preset for this printer in particular, without tweaking. The material I used is PLA. While real LEGO is injection-molded using ABS plastic, I don't really work with ABS and many people who print their own bricks use PLA, which isn't as UV sensitive and doesn't have the toxicity issues that ABS does. As always, you can choose whichever material you like and that's compatible with your printer. Results are likely to vary slightly depending on the properties of each material.
 
  As far as possible, I try to avoid using supports for my prints, because they leave markers on the model that require cleaning later. So I've printed these bricks in place, right-way-up to ensure there are no overhangs that would fail. However, some more exotic brick types might need supports, which you'll have to generate using your 3D printing software.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Results
 
@@ -46,13 +60,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Two 3D-printed LEGO-compatible bricks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/bad-blocks.jpeg) 
 
 Sydney Louw Butler/How-To Geek
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Testing Compatibility With Real LEGO
 
@@ -65,13 +72,6 @@ Sydney Louw Butler/How-To Geek
 Sydney Louw Butler/How-To Geek
 
  After printing out two test blocks, I got a pretty decent fit with real LEGO, but an incredible fit between the 3D-printed blocks themselves. In fact, they may be a little _too_ tight-fitting because them to come apart is much harder than with real LEGO. I can however, see myself printing out enough bricks to complete a build using this particular set, knowing that it won't fall apart.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Printed LEGO Rabbit Hole
 
@@ -96,18 +96,18 @@ Sydney Louw Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/oost-your-videos-impact-with-top-ranking-software-solutions-for-2024/"><u>[New] Boost Your Videos' Impact with Top-Ranking Software Solutions for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-editors-full-report-on-videocraft-suite-new-horizons-in-editing/"><u>[New] Editor's Full Report on VideoCraft Suite - New Horizons in Editing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-streamlining-your-technique-for-better-home-recordings/"><u>[New] Streamlining Your Technique for Better Home Recordings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-best-photo-background-blur-apps-for-iphone-and-android/"><u>2024 Approved Best Photo Background Blur Apps for iPhone and Android</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-dji-mavic-air-2s-top-quadcopter-unveiled/"><u>Comprehensive Guide to the DJI Mavic Air 2S – Top Quadcopter Unveiled!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-heimvision-sunrise-alarm-clock-a8/"><u>Comprehensive Review of HeimVision Sunrise Alarm Clock A8</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/contrasting-top-tier-devices-comparative-analysis-of-ipad-air-4-and-galaxy-tab-s7plus/"><u>Contrasting Top-Tier Devices: Comparative Analysis of iPad Air 4 and Galaxy Tab S7+</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-everything-about-the-new-apple-m4-processor-release-timeline-and-features-revealed/"><u>Discover Everything About the New Apple M4 Processor – Release Timeline & Features Revealed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-samsung-evo-960-drivers-for-smooth-performance-in-windows-environments/"><u>Get the Newest Samsung Evo 960 Drivers for Smooth Performance in Windows Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hp-laptop-webcam-glitches-in-windows-11-effective-solutions/"><u>Overcoming HP Laptop Webcam Glitches in Windows 11: Effective Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-for-repairing-lenovos-usb-communication-faults-quickly-and-effectively/"><u>Step-by-Step Tutorial for Repairing Lenovo's USB Communication Faults Quickly and Effectively</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-future-of-smartwatches-a-detailed-analysis-of-the-mobvoi-ticwatch-pros-4g-capabilities/"><u>The Future of Smartwatches: A Detailed Analysis of the Mobvoi Ticwatch Pro's 4G Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-overcoming-ai-assistant-chatgpts-server-troubles-and-usual-error-snags/"><u>Troubleshooting: Overcoming AI Assistant ChatGPT's Server Troubles and Usual Error Snags</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-pathway-start-your-sports-youtube-chain-on-macos/"><u>[New] 2024 Approved Beginner's Pathway Start Your Sports YouTube Chain on macOS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1-unlock-streaming-success-set-up-your-own-plex-media-center-during-prime-day-sales/"><u>1. Unlock Streaming Success: Set Up Your Own Plex Media Center During Prime Day Sales</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/10-essential-uses-of-your-google-tv-maximizing-its-potential/"><u>10 Essential Uses of Your Google TV: Maximizing Its Potential</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-easy-steps-to-screen-record-on-macbook-air/"><u>2024 Approved Easy Steps to Screen Record on Macbook Air</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-deal-on-the-market-high-quality-portable-gaming-system-below-100/"><u>Best Deal on the Market - High-Quality Portable Gaming System Below $100</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beyond-hype-steam-decks-revolutionary-impact-on-gaming/"><u>Beyond Hype: Steam Deck's Revolutionary Impact on Gaming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-the-ideal-display-features-best-screen-size-resolution-and-refresh-rate-for-your-gaming-laptop/"><u>Choosing the Ideal Display Features: Best Screen Size, Resolution, and Refresh Rate for Your Gaming Laptop</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g84-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Moto G84 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-step-by-step-approach-to-zooming-success/"><u>In 2024, A Step-by-Step Approach to Zooming Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-cutting-edge-videography-top-cameras/"><u>In 2024, Cutting-Edge Videography Top Cameras</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-outlook-app-shutdowns-a-step-by-step-guide/"><u>Resolving Frequent Outlook App Shutdowns - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

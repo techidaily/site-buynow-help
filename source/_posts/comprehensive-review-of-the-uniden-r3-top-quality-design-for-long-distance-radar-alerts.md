@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of the Uniden R3 - Top-Quality Design for Long Distance Radar Alerts
-date: 2024-09-07T16:14:46.309Z
-updated: 2024-09-15T09:21:12.037Z
+date: 2024-09-14T06:31:51.922Z
+updated: 2024-09-19T17:47:14.345Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Review of the Uniden R3 - Top-Quality Design for Long Distance Radar Alerts
@@ -70,10 +70,10 @@ Lifewire / Jonno Hill
  The ClearStream Eclipse Antenna isn’t the most beautiful piece of hardware to ever grace my living room, but it’s inoffensive enough to not really be an issue. The antenna has a thin, flat, disc shape that is black on one side and white on the other. It is designed to be placed directly onto a flat surface, but you will probably be able to get away with a lot of different orientations depending on how close you are to the signal source.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup: Simple and easy**
@@ -88,27 +88,20 @@ Lifewire / Jonno Hill
 
  I’ve tested a lot of similar antennas recently, and the ClearStream Eclipse Antenna had the best results of any unpowered antenna, even beating out a few of the powered ones. From my apartment, I was able to get acquire an average of 65 channels across all my tests. For reference, the worst-performing antenna found just 47, and the best, 76\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Range: Fair to middling**
 
  Antenna’s Direct rates the ClearStream Eclipse Antenna for up to 35 miles of range, although I’ve seen reports of people getting good results from further, or having trouble from much closer. My apartment is well within the supported range, so my sentiments reflect its use in city settings more than suburbs or exurbs.
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/i57THpEHitQ6h-N5c-bgGLEHwJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_04-6ea1dbbe93374539876c7e76dcebb18e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Not bad for the performance**
 
@@ -123,6 +116,13 @@ Lifewire / Jonno Hill
 **The best unpowered indoor antenna.**
 
  The ClearStream Eclipse is one of the best options for buyers looking for a new indoor antenna. It performed better than a lot of the competition, despite being far simpler. Budget shoppers have other cheaper options to consider, but this one is perhaps the best combination of price, performance, and ease-of-use.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -151,17 +151,20 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-inexpensive-gear-mics-for-content-creators-on-a-dime/"><u>[New] 2024 Approved Inexpensive Gear Mics for Content Creators on a Dime</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-spice-up-viewers-innovative-cooking-channel-naming-tips/"><u>[New] Spice Up Viewers Innovative Cooking Channel Naming Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/10-futuristic-ai-applications-to-consider-instead-of-gpt-mobile/"><u>10 Futuristic AI Applications to Consider Instead of GPT Mobile</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-ps5-intermittent-connection-issues/"><u>Combatting PS5 Intermittent Connection Issues</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/converti-i-tuoi-dvd-in-formato-mp4-h264hevc-in-meno-di-5-minuti-con-winx-dvd-ripper-platinum-edizione-ufficiale/"><u>Converti I Tuoi DVD in Formato MP4 (H.264/HEVC) in Meno Di 5 Minuti Con WinX DVD Ripper Platinum - Edizione Ufficiale</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ergonomic-moko-compact-bluetooth-keyboard-ultimate-portability-and-universal-connectivity/"><u>Ergonomic MoKo Compact Bluetooth Keyboard: Ultimate Portability & Universal Connectivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-netgear-c3700-as-a-primary-modem-solution/"><u>Evaluating the Netgear C3700 as a Primary Modem Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-next-level-efficiency-with-the-2020-macbook-pro-13-inch-powered-by-m1-chip-a-review/"><u>Experience Next-Level Efficiency with the 2020 MacBook Pro 13-Inch Powered by M1 Chip - A Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-premium-picture-with-the-affordable-hisence-50-inch-4k-hdr-smart-tv-a-complete-review/"><u>Experience Premium Picture with the Affordable Hisence 50-Inch 4K HDR Smart TV: A Complete Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-dbpower-unichargers-robust-portable-design-and-extraordinary-mains-charging-speed-expert-insights/"><u>Exploring the DBPOWER UniCharger's Robust, Portable Design & Extraordinary Mains Charging Speed - Expert Insights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/fixing-the-facial-flaws-in-iphone-xs-security-feature-for-2024/"><u>Fixing the Facial Flaws in iPhone X's Security Feature for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-lut-basics-for-enhanced-visual-effects-in-ae/"><u>In 2024, LUT Basics for Enhanced Visual Effects in AE</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-comprehensive-guide-to-fisheye-panoramas/"><u>[Updated] In 2024, Comprehensive Guide to Fisheye Panoramas</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-perfecting-the-art-of-filming-and-post-production-with-adobe-connects-features/"><u>[Updated] Perfecting the Art of Filming & Post-Production with Adobe Connect's Features</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/alan-wake-2-update-delayed-discover-easy-fixes-here/"><u>Alan Wake 2 Update Delayed? Discover Easy Fixes Here!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/essential-8-backdrops-a-guide-to-personalize-macbook/"><u>Essential 8 Backdrops A Guide to Personalize MacBook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/finding-the-right-time-to-switch-phones/"><u>Finding the Right Time to Switch Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-google-nest-hello-revolutionizes-your-doorbell-experience-in-depth-review-on-facial-recognition-package-detection-and-enhanced-connectivity/"><u>How Google Nest Hello Revolutionizes Your Doorbell Experience: In-Depth Review on Facial Recognition, Package Detection, and Enhanced Connectivity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y55s-5g-2023-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo Y55s 5G (2023) Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-the-pros-and-cons-of-apple-books-app/"><u>In-Depth Analysis: The Pros and Cons of Apple Books App</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-why-the-amazonbasics-12-sheet-security-shredder-is-a-must-have-for-document-safety/"><u>In-Depth Analysis: Why the AmazonBasics 12-Sheet Security Shredder Is a Must-Have for Document Safety</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-your-ipad-behind-the-times-a-modern-tech-dilemma/"><u>Is Your iPad Behind the Times - A Modern Tech Dilemma</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-trackers-for-marathoners-the-ultimate-guide/"><u>Leading Trackers for Marathoners: The Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-not-charging-despite-being-connected-your-ultimate-guide-for-windows-surfaces/"><u>Resolving 'Not Charging Despite Being Connected', Your Ultimate Guide for Windows Surfaces</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tp-link-wireless-adapter-80211ac-drivers-for-win1087-newest-version-available/"><u>TP-Link Wireless Adapter (802.11Ac) Drivers for Win10/8/7 - Newest Version Available</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2021-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2021 File Error</u></a></li>
 </ul></div>
 

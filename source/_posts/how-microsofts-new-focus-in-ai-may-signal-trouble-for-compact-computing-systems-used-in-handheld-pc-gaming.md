@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
-date: 2024-09-10T01:36:23.649Z
-updated: 2024-09-14T19:33:05.091Z
+date: 2024-09-12T20:01:04.054Z
+updated: 2024-09-20T13:57:08.464Z
 tags:
   - games
   - tv
@@ -66,10 +66,10 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
@@ -83,10 +83,10 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -120,21 +120,17 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-minecraft-ultimate-recording-techniques/"><u>[Updated] 2024 Approved Mastering Minecraft Ultimate Recording Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-android-deluxe-playtime-top-gb-games-on-your-phone-for-2024/"><u>[Updated] Android Deluxe Playtime Top GB Games on Your Phone for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-technical-journey-to-capture-snapchat-on-mobile/"><u>[Updated] In 2024, The Technical Journey to Capture Snapchat On Mobile</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/amazon-echo-show-5-generation-4-redesign-and-features-explored-in-review/"><u>Amazon Echo Show 5 - Generation 4 Redesign & Features Explored in Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/an-in-depth-look-at-demons-souls-revamp-brilliant-graphics-with-timeless-gameplay/"><u>An In-Depth Look at Demon's Souls Revamp: Brilliant Graphics with Timeless Gameplay</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-airpods-max-review-headphones-at-a-hefty-price/"><u>Apple Airpods Max Review: Headphones at a Hefty Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boosting-audio-fidelity-on-the-road/"><u>Boosting Audio Fidelity on the Road</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/browse-your-best-photos-in-a-premium-frame/"><u>Browse Your Best Photos in a Premium Frame</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-google-pixel-6-expert-insights-and-conclusions/"><u>Comprehensive Analysis of the Google Pixel 6 - Expert Insights and Conclusions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-moto-g-stylus-excellent-performance-and-adequate-power-longeperture/"><u>Comprehensive Analysis of the Moto G Stylus - Excellent Performance & Adequate Power Longeperture</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-glion-dolly-e-scooter-assessment-high-end-features-meet-swift-performance/"><u>Comprehensive Glion Dolly E-Scooter Assessment: High-End Features Meet Swift Performance</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-gionee-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Gionee</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-aimp-pro-streaming-enhancer-without-wmsp/"><u>In 2024, AIMP Pro Streaming Enhancer Without WMSP</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/protect-and-accelerate-torrenting-with-top-tier-vpn-solutions-anywhere-anytime/"><u>Protect and Accelerate Torrenting with Top-Tier VPN Solutions Anywhere, Anytime</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/step-into-a-world-of-magic-expert-led-guide-to-snapchat-edits-for-2024/"><u>Step Into a World of Magic Expert-Led Guide to Snapchat Edits for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-charm-with-charisma-animate-your-instagram-story-texts-for-2024/"><u>[New] Charm with Charisma Animate Your Instagram Story Texts for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-snapads-a-business-strategy-guide/"><u>[New] Navigating SnapAds A Business Strategy Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-incarceration-to-insightfulness-ranking-funniest-jailmates-on-social-media/"><u>[Updated] 2024 Approved Incarceration to Insightfulness Ranking Funniest Jailmates on Social Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-neon-borders-on-youtube-thumbnails-step-by-step-guide/"><u>[Updated] Neon Borders on YouTube Thumbnails Step by Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-strategies-building-time-lapses-using-samsung-cameras/"><u>[Updated] Proven Strategies Building Time-Lapses Using Samsung Cameras</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-solutions-for-machine-check-exceptions-on-windows-10/"><u>Fixing the Blue Screen of Death: Solutions for Machine Check Exceptions on Windows 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-poco-x6-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Poco X6</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tune-your-visual-storytelling-in-videoleap-footage/"><u>In 2024, Fine-Tune Your Visual Storytelling in Videoleap Footage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-collectibles-the-impact-of-3d-printing-on-the-nerf-community/"><u>Revolutionizing Collectibles: The Impact of 3D Printing on the Nerf Community</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/temporarily-suspended-insights-into-venus-interruption-of-sporting-event-online-coverage/"><u>Temporarily Suspended: Insights Into Venu's Interruption of Sporting Event Online Coverage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-steam-deck-alternatives-a-comprehensive-guide/"><u>Top-Rated Steam Deck Alternatives : A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-f54-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy F54 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

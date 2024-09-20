@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Steam Link Woes! Uncover Powerful Open-Source Streamers Like Moonlight & Sunshine.
-date: 2024-09-11T16:20:21.878Z
-updated: 2024-09-14T23:15:01.589Z
+date: 2024-09-17T11:42:15.053Z
+updated: 2024-09-19T21:18:15.986Z
 tags:
   - games
   - tv
@@ -40,10 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Local streaming [is the main way](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) I play PC games on my ROG Ally these days, which means I’m using the Moonlight and Sunshine combo daily. I can report that this works perfectly, even on my older Wi-Fi 5 router. I can recommend Sunshine over NVIDIA GameStream to every NVIDIA GPU owner, with Sunshine's only downside being a bit more complex setup procedure. If you own an AMD or Intel GPU, I can recommend Moonlight and Sunshine over the Steam Link and Steam Remote Play combination any day of the week.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use Moonlight and Sunshine
@@ -53,6 +53,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The initial step is visiting the [Sunshine GitHub page](https://github.com/LizardByte/Sunshine) and downloading the appropriate installation package. I chose the Windows installation file.
 
 ![Sunshine executable files listed for download.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-17.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you download the Sunshine installation file, run it and enable the “Launch on Startup” option during the installation.
 
@@ -71,10 +78,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![After you access Sunshine UI, go to the Configuration tab, find the Sunshine Name option and pick a name for the Sunshine process that will show in Moonlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-19.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Visit the [Moonlight website](https://moonlight-stream.org/), scroll down until you reach the download section, and download the appropriate version.
@@ -83,22 +90,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Once you open Moonlight you should see a PC icon with a lock over it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-09.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the locked PC icon, and Moonlight will provide you with the PIN you have to enter into the Sunshine web UI.
 
 ![After you click the locked PC icon in Moonlight, the app should serve you with a four-digit PIN](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Open the Sunshine web UI, click the “PIN” tab, and enter the provided PIN. That’s it!
@@ -124,10 +124,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Sunshine web UI video options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-02.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And here are my Moonlight options:
@@ -163,15 +169,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-digital-draw-dance-windows-and-mac-cartoony-creators-guide-for-2024/"><u>[New] Digital Draw-Dance Windows & Mac Cartoony Creator's Guide for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-innovative-youtube-monikers-for-vloggers-and-filmmakers-up-to-156-characters-for-2024/"><u>[Updated] Innovative Youtube Monikers for Vloggers & Filmmakers (Up to 156 Characters) for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-breezing-through-igtv-acquisition-on-smartphones-and-tablets/"><u>2024 Approved Breezing Through IGTV Acquisition on Smartphones and Tablets</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-hal-initialization-failed-issues-on-windows-11-step-by-step-tutorial/"><u>Fixing 'HAL Initialization Failed' Issues on Windows 11 - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-deciphering-your-youtube-viewership-stats/"><u>In 2024, Deciphering Your YouTube Viewership Stats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719258042287-reclaiming-chrome-in-w11-easy-to-follow-remediation-tips/"><u>Reclaiming Chrome in W11 - Easy-to-Follow Remediation Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-8-must-play-titles-exclusive-to-google-play-pass-unlock-gaming-bliss/"><u>Top 8 Must-Play Titles Exclusive to Google Play Pass - Unlock Gaming Bliss!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-performing-portable-storage-options-usb-drives-to-watch/"><u>Top-Performing Portable Storage Options: USB Drives to Watch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/trade-in-tactics-apples-smartphone-upgrade-program/"><u>Trade-In Tactics: Apple’s Smartphone Upgrade Program</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-buyers-guide-selecting-the-perfect-tablet-by-dimensions-and-mass/"><u>Ultimate Buyer's Guide: Selecting the Perfect Tablet by Dimensions & Mass</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-revolutionizing-gift-reveal-innovative-ideas-for-2024/"><u>[New] Revolutionizing Gift Reveal Innovative Ideas for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-snippet-filmmaker-pro/"><u>[New] Snippet Filmmaker Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-srt-to-sub-guide-practical-conversion-methods/"><u>[Updated] In 2024, SRT to SUB Guide Practical Conversion Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quick-guide-to-planning-google-meet-sessions/"><u>[Updated] Quick Guide to Planning Google Meet Sessions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2023s-elite-heart-beat-gadgets-a-comprehensive-guide-to-choosing-the-right-fitness-tracker/"><u>2023'S Elite Heart Beat Gadgets: A Comprehensive Guide to Choosing the Right Fitness Tracker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2023s-elite-selection-of-iphone-15-pro-max-skins-and-cases-reviewed-and-ranked/"><u>2023'S Elite Selection of iPhone 15 Pro Max Skins & Cases Reviewed and Ranked</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/antelope-valley-state-recreation-area-ft-kanzler-campgrounds/"><u>Antelope Valley State Recreation Area - Ft. Kanzler Campgrounds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-12-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 12 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/audiophiles-guide-to-selecting-superior-wireless-speakers-of-2024/"><u>Audiophile's Guide to Selecting Superior Wireless Speakers of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/buffalo-park-conservation-education-center/"><u>Buffalo Park Conservation Education Center</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-most-popular-online-music-subscription-services-this-year/"><u>Discover the Most Popular Online Music Subscription Services This Year</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>How to Bypass FRP from Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-action-to-archive-a-guide-to-top-screen-recording-tools/"><u>In 2024, Action to Archive A Guide to Top Screen Recording Tools</u></a></li>
 </ul></div>
 

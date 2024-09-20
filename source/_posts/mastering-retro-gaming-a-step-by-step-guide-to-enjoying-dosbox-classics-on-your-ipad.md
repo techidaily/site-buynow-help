@@ -1,7 +1,7 @@
 ---
 title: "Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad"
-date: 2024-09-13T22:19:06.489Z
-updated: 2024-09-14T21:41:28.493Z
+date: 2024-09-15T09:16:00.258Z
+updated: 2024-09-20T13:08:56.653Z
 tags:
   - games
   - tv
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  As to how you can get the files on your iPad, the options are endless. You can AirDrop it from your Mac, transfer the files using a USB flash drive, email them to yourself, use iCloud. It doesn't matter where you choose to save the game files, as long as you remember it for later.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Running Your Game
@@ -51,19 +51,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![iDOS 3 in portrait mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/idos-3-in-portrait-mode.PNG) 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some DOS games need to be installed off a CD, but in this case we just want to mount the folder as a drive. So tap on the floppy drive and select "Folder."
 
 ![The floppy drive menu in iDOS 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-floppy-drive-menu-in-idos-3.PNG) 
@@ -71,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  Now navigate to the folder where you saved your DOS game files, and select "Open."
 
 ![The iDOS 3 file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-file-browser.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll see a message that the game folder has been mounted as a virtual drive in iDOS. So next we want to change to that drive. Type "D:" using the on-screen keyboard and then tap on the Enter button.
 
@@ -84,34 +78,13 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![Jazz Jackrabbit running on iDOS 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/jazz-jackrabbit-running-on-idos-3.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In portrait mode, you can use the virtual keyboard to control your game, and if you tap the little gamepad button you'll have an on-screen gamepad with buttons that are bound to certain keyboard keys.
 
 ![The iDOS 3 virtual gamepad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-virtual-gamepad.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you put the iPad into landscape mode, you'll see a little bar with options pop up at the top.
 
 ![The iDOS 3 quick bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use the little pin icon to make it stay, but you can just tap the top edge of the screen to make it appear. Here you can tap on buttons to see a virtual mouse, keyboard, or gamepad appear on-screen.
 
@@ -123,13 +96,34 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 quick bar with blutooth icon highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar-with-blutooth-icon-highlighted.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hold the button on the controller you want to rebind, and then press the corresponding key on the virtual keyboard.
 
 ![The iDOS 3 gamepad configuration screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-gamepad-configuration-screen.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some DOS games supported joysticks or gamepads, and if you want to use your gamepad as a true controller with these games, tap on the settings gear in the iDOS 3 quick bar and choose "Settings."
 
 ![The iDOS 3 settings button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-settings-button.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then under "optional inputs" enable the gamepad option. Just remember that you'll have to set up the joystick or gamepad in the game itself, since back then games calibrated these peripherals on an individual basis.
 
@@ -154,21 +148,19 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-cashing-in-on-creativity-the-vimeo-income-playbook-for-2024/"><u>[New] Cashing in on Creativity The Vimeo Income Playbook for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-step-by-step-adding-subsections-and-chapters-to-your-youtube-tutorials/"><u>[Updated] In 2024, Step-by-Step Adding Subsections and Chapters to Your YouTube Tutorials</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-unveiling-the-art-of-reshaping-your-tiktok-avatar-for-2024/"><u>[Updated] Unveiling the Art of Reshaping Your TikTok Avatar for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/an-honest-appraisal-of-the-bdr-xd05b-blu-ray-burner-by-pioneer-noticing-design-challenges/"><u>An Honest Appraisal of the BDR-XD05B Blu-Ray Burner by Pioneer: Noticing Design Challenges</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 6s Plus? | Stellar</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/laughter-layouts-design-meme-magic-on-kapwing-for-2024/"><u>Laughter Layouts Design Meme Magic on Kapwing for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-art-of-focusing-on-roblox-elements-closeup-for-2024/"><u>The Art of Focusing on Roblox Elements Closeup for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-x-chair-x4-ergonomic-leader-in-corporate-comfort/"><u>The Ultimate Guide to the X-Chair X4 Ergonomic Leader in Corporate Comfort</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranking-soccer-video-games-how-fifa-19-sets-the-bar-in-e-sports-entertainment/"><u>Top Ranking Soccer Video Games: How FIFA 19 Sets the Bar in E-Sports Entertainment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-review-of-the-jackery-powerbar-convenient-charging-via-built-in-wall-plug-examined/"><u>Ultimate Review of the Jackery PowerBar - Convenient Charging via Built-In Wall Plug Examined</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-effectiveness-of-blue-light-blocking-prescription-eyewear-by-lensdirect/"><u>Unveiling the Effectiveness of Blue Light-Blocking Prescription Eyewear by LensDirect</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-secrets-of-the-extollo-lansocket-1500-fast-connectivity-and-uninterrupted-power-pass-through/"><u>Unveiling the Performance Secrets of the Extollo LANSocket 1500: Fast Connectivity & Uninterrupted Power Pass-Through</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-voice-personalization-on-iphones-a-beginners-primer-for-using-voicechange-pro/"><u>Updated In 2024, Voice Personalization on iPhones A Beginners Primer for Using VoiceChange Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/vonage-review-voip-service-provider/"><u>Vonage Review: VoIP Service Provider</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-does-my-iphones-display-stay-on-too-long-solutions-inside/"><u>Why Does My iPhone's Display Stay On Too Long? Solutions Inside</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-slow-motion-canvas-detailed-slomo-app-analysis-2024/"><u>[New] Unveiling the Slow Motion Canvas Detailed SloMo App Analysis, 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/crafting-an-irresistible-brand-image-on-your-fb-page/"><u>Crafting an Irresistible Brand Image on Your FB Page</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-advanced-features-of-dells-alienware-aurora-r9-a-modern-marvel-for-gamers/"><u>Exploring the Advanced Features of Dell’s Alienware Aurora R9: A Modern Marvel for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-error-23-issue-in-apex-legends-detailed-steps-inside/"><u>How to Fix the 'Error 23' Issue in Apex Legends – Detailed Steps Inside</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-efficient-tactics-for-recording-vimeo-media/"><u>In 2024, Efficient Tactics for Recording Vimeo Media</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-6-plus-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 6 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-s17t-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo S17t? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-look-analyzing-androids-photoshop-substitute-lightroom-for-2024/"><u>Inside Look Analyzing Android's Photoshop Substitute, Lightroom for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/key-factors-contributing-to-wii-us-remarkable-success-story/"><u>Key Factors Contributing to Wii U's Remarkable Success Story</u></a></li>
+<li><a href="https://video-capture.techidaily.com/music-lovers-club-listen-save-analyze-tunes-for-2024/"><u>Music Lovers Club Listen, Save, Analyze Tunes for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-home-entertainment-inside-review-of-the-amazon-fire-tv-cube-speedster/"><u>Revolutionize Your Home Entertainment - Inside Review of the Amazon Fire TV Cube Speedster</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-mornings-in-depth-analysis-of-the-ihome-zenergy-sleep-support-gadget/"><u>Revolutionize Your Mornings: In-Depth Analysis of the IHome Zenergy Sleep Support Gadget.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-startup-woes-these-tips-will-help-you-launch-the-game-smoothly/"><u>Team Fortress 2 Startup Woes? These Tips Will Help You Launch the Game Smoothly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-finding-quality-phones-at-unbeatable-prices/"><u>Ultimate Guide to Finding Quality Phones at Unbeatable Prices</u></a></li>
 </ul></div>
 

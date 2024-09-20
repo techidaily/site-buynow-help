@@ -1,7 +1,7 @@
 ---
 title: "Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective"
-date: 2024-09-12T19:12:57.394Z
-updated: 2024-09-14T17:38:07.748Z
+date: 2024-09-17T05:29:50.520Z
+updated: 2024-09-19T17:52:07.819Z
 tags:
   - games
   - tv
@@ -43,23 +43,9 @@ Tim Brookes / How-To Geek
 
  These consoles had GPUs that had no problems giving us a consistent 30fps experience in most cases, but their CPUs were essentially weak power-efficient laptop components that really struggled to go beyond the 30fps mark. This is why when the PlayStation 4 Pro and Xbox One X consoles were released with significantly upgraded GPUs, developers could only increase graphical fidelity, but not frame rate. Even with a mild increase in clock speed, the CPUs in the half-generation refreshed consoles just couldn't muster faster frames.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pushing for Nicer Screenshots
 
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -73,9 +59,23 @@ Cianna Garrison / How-To Geek
 
  According to a wonderful [deep dive by Modern Vintage Gamer](https://www.youtube.com/watch?v=%5FPiiXM51oBo) the PS2's "Emotion Engine" had an architecture well-optimised, with sub-processors specialized in accelerating different aspects of rendering which, in turn, could feed that Graphics Synthesizer quickly and efficiently. In other words, developers would hit the "spatial" detail limit before hitting the "temporal" limit. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  An Apathetic Customer Base
 
  Apart from a few vocal people on gaming forums and platforms like X (formerly Twitter), it's not clear that the typical console gamer really cares about frame rate at all. While a cool-looking trailer or screenshots will impress prospective buyers, 60fps gameplay doesn't seem to move the needle much. With the current generation of consoles, console gamers do seem a little more aware of 60fps and its benefits, but quite a few games have 60fps modes that compromise the visuals far too much to actually play them that way.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  We’re Back to 30FPS Again.
 
@@ -96,14 +96,15 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-siege-showdowns-top-10-royale-arena-fighters/"><u>[New] 2024 Approved Siege Showdowns Top 10 Royale Arena Fighters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immersive-beginnings-secrets-to-successful-podcast-intros/"><u>[Updated] Immersive Beginnings Secrets to Successful Podcast Intros</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-key-to-successful-video-engagement-adding-interactive-elements-via-youtube-annotations/"><u>[Updated] In 2024, The Key to Successful Video Engagement Adding Interactive Elements via YouTube Annotations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-kobo-nia-ebook-display-assessment-daring-to-rival-amazon-kindle/"><u>Comprehensive Kobo Nia Ebook Display Assessment: Daring to Rival Amazon Kindle?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-pioneer-bdr-xs06-blu-ray-disc-burner-evaluation-emphasizing-mobility-and-speed/"><u>Comprehensive Pioneer BDR-XS06 Blu-Ray Disc Burner Evaluation: Emphasizing Mobility & Speed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cost-effective-speed-unpacking-the-features-of-the-tp-link-archer-c50/"><u>Cost-Effective Speed: Unpacking the Features of the TP-Link Archer C50</u></a></li>
-<li><a href="https://win11.techidaily.com/counteracting-console-collapse-avoiding-sudden-df-closures/"><u>Counteracting Console Collapse: Avoiding Sudden DF Closures</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-creating-continuous-viewing-pleasure-on-television/"><u>In 2024, Creating Continuous Viewing Pleasure on Television</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-virtual-landscape-of-xbox-zoom/"><u>Navigating the Virtual Landscape of Xbox Zoom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-access-best-free-youtube-subtitle-extractors-for-2024/"><u>[Updated] Easy Access Best Free YouTube Subtitle Extractors for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-transformation-editors-that-impress/"><u>[Updated] Instagram Transformation Editors That Impress</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-70-lite-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor 70 Lite 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/embracing-the-digital-shift-how-i-became-dependent-on-my-ereader-instead-of-hardcover-hits/"><u>Embracing the Digital Shift: How I Became Dependent on My eReader Instead of Hardcover Hits.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enlarge-images-pixel-perfect-preservation/"><u>Enlarge Images Pixel-Perfect Preservation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-cinema-a-curated-list-of-10-must-watch-movies-for-ultimate-viewing-pleasure-on-an-oled-screen/"><u>Essential Cinema: A Curated List of 10 Must-Watch Movies for Ultimate Viewing Pleasure on an OLED Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-real-value-do-you-truly-benefit-from-having-a-personalized-arcade-system/"><u>Evaluating the Real Value: Do You Truly Benefit From Having a Personalized Arcade System?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-positive-side-of-engaging-with-asmr-for-2024/"><u>Exploring The Positive Side of Engaging with ASMR for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-abletons-pathway-to-harmonious-declines/"><u>In 2024, Ableton's Pathway to Harmonious Declines</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-6-plus-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 6 Plus</u></a></li>
 </ul></div>
 

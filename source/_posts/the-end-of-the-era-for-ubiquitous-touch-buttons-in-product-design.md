@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-09-11T20:31:24.293Z
-updated: 2024-09-15T06:13:31.711Z
+date: 2024-09-16T17:53:08.034Z
+updated: 2024-09-19T23:28:41.426Z
 tags:
   - games
   - tv
@@ -55,19 +55,6 @@ Tim Brookes / How-To Geek
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  But this logic doesn’t extend to every device. Though the argument for longevity is a valid one, did we trade usability for reliability? And is that trade-off worth it?
@@ -84,6 +71,13 @@ Tim Brookes / How-To Geek
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Occasionally the PS4 would turn itself on randomly, for seemingly no reason. Worse still, the console could randomly turn itself off or eject the disc for no reason. Add to this the constant threat of curious dog and cat noses that are perfect for triggering capacitive touch buttons, and the fact that it was way too easy to trigger these buttons when cleaning or simply walking past.
@@ -93,10 +87,10 @@ Tim Brookes / How-To Geek
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
@@ -118,18 +112,13 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-efficient-use-of-telegram-browser-interface/"><u>[Updated] In 2024, Efficient Use of Telegram Browser Interface</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-remove-distractions-in-webcam-captures-for-2024/"><u>[Updated] Remove Distractions in Webcam Captures for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/charting-the-course-for-unmatched-cloud-storage-for-2024/"><u>Charting the Course for Unmatched Cloud Storage for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18e-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo S18e Phone Without Password?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-13t-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 13T Pro Phone FRP Lock</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-leading-digital-image-grabbers/"><u>In 2024, Leading Digital Image Grabbers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-by-step-instruction-loading-windows-movie-maker-60-for-2024/"><u>Step-by-Step Instruction Loading Windows Movie Maker 6.0 for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-amazon-basics-tablet-support-compact-design-for-on-the-go-use/"><u>Top Rated Amazon Basics Tablet Support: Compact Design for On-the-Go Use</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tp-link-av1300-powerline-wireless-repeater-assessment-lesser-than-expected-performance/"><u>TP-Link AV1300 Powerline Wireless Repeater Assessment: Lesser Than Expected Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/transforming-zombies-into-a-gameplay-delight-in-depth-analysis-of-7-days-to-die-on-sandbox-platforms/"><u>Transforming Zombies Into a Gameplay Delight: In-Depth Analysis of '7 Days to Die' On Sandbox Platforms</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-analysis-xbox-one-x-leading-the-charge-in-gaming-consoles/"><u>Ultimate Analysis: Xbox One X - Leading the Charge in Gaming Consoles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-list-the-best-tv-streaming-platforms-of-the-year-2024/"><u>Ultimate List: The Best TV Streaming Platforms of the Year 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleashing-power-and-savings-with-the-hp-omen-obelisk-desktop-reviewed/"><u>Unleashing Power and Savings with the HP OMEN Obelisk Desktop Reviewed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unlocking-the-potential-of-video-game-vlogging/"><u>[New] In 2024, Unlocking the Potential of Video Game Vlogging</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-crafting-visual-narratives-with-the-leading-frames/"><u>[Updated] 2024 Approved Crafting Visual Narratives with the Leading Frames</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-roku-and-fire-tv-stick-a-comprehensive-buyers-guide/"><u>Choosing Between Roku and Fire TV Stick: A Comprehensive Buyer's Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-mohu-leaf-30-antenna-best-balance-of-cost-and-efficiency/"><u>Evaluating the Mohu Leaf 30 Antenna: Best Balance of Cost and Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-immersive-world-of-cinematic-brilliance-with-the-lg-smart-tv-oled-c9-review/"><u>Exploring the Immersive World of Cinematic Brilliance with the LG Smart TV - OLED C9 Review.</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-enhance-real-time-broadcasts-our-picks-for-9-prime-filters/"><u>In 2024, Enhance Real-Time Broadcasts Our Picks for 9 Prime Filters</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/screen-capturing-on-snapchat-a-guide-for-smartphones/"><u>Screen Capturing on Snapchat - A Guide for Smartphones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-refresh-your-lenovo-laptops-factory-defaults/"><u>The Complete Guide to Refresh Your Lenovo Laptop's Factory Defaults</u></a></li>
 </ul></div>
 

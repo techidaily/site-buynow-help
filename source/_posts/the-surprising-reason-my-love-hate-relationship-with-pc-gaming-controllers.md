@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers"
-date: 2024-09-13T19:49:24.508Z
-updated: 2024-09-14T19:04:16.729Z
+date: 2024-09-17T01:40:30.796Z
+updated: 2024-09-20T00:31:15.496Z
 tags:
   - games
   - tv
@@ -53,19 +53,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  Don't get me wrong, I've spent countless hours enjoying RTS games like _Warcraft 3_ and _Starcraft 2_ with a keyboard and mouse. I understand their strengths for certain genres. However, with the decline of RTS games and my waning interest in FPS titles, I find controllers better suited for the types of games I enjoy most these days.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3  A Poor Choice for Emulation 
 
  While I'm not the greatest fan of [emulators](https://some-guidance.techidaily.com/new-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/), I know many who are and they unanimously vote against the use of keyboards and mice for emulated games.
@@ -73,6 +60,13 @@ Dibakar Ghosh / How-To Geek | Midjourney
  It makes sense when you think about it. When emulating a game, you're recreating an experience originally designed for specific input devices, namely gamepads. It's only logical that using a controller would offer the most authentic and enjoyable experience.
 
  If you're interested in emulation, there are various [gamepads better suited for different types of emulated systems](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-by-drfone-ios/). That said, most emulators allow you to remap buttons, so you can adapt a single gamepad to mimic different controller layouts.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  A Lack of Vibration Feedback 
 
@@ -84,16 +78,16 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  This is to say nothing of the modern haptic feedback seen on the PS5 DualSense controller with its adaptive triggers, and the rumble feedback that Xbox Core controllers feature in the triggers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5  Not Ideal for Local Co-op or PvP 
 
 ![illustration of two people awkwardly trying to share a single keyboard and mouse setup for gaming.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/illustration-of-two-people-awkwardly-trying-to-share-a-single-keyboard-and-mouse-setup-for-gaming.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -105,19 +99,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  I've experienced this first-hand with _EA Sports FC 24_, my current go-to game for local multiplayer. But it translates to other titles like _Street Fighter_, _It Takes Two_, or _Overcooked_. Trust me, you don't want to play _Overcooked_ with one person on a gamepad and another fumbling with a keyboard.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  I’m Tied to My Desk 
 
  Picture this: I've spent hours sitting at my desk, working away. When it's finally time to unwind with some games, I'm faced with the prospect of either staying in that exact same spot or going somewhere else. My life can’t start and end at a desk.
@@ -125,6 +106,13 @@ Dibakar Ghosh / How-To Geek | Midjourney
  What I really want is the freedom to scoot over to my comfy beanbag or sprawl out on the sofa and play my games, like [that afforded by a handheld like the Steam Deck](https://screen-mirroring-recording.techidaily.com/updated-the-performers-playbook-avoiding-common-mistakes-in-ppt-voiceovers/). But with a keyboard and mouse setup, that's just not an option. Playing games while balancing a keyboard on your knees and a mouse in front of the sofa doesn't sound like a great time.
 
  This is the main reason I decided to get a gamepad. I can easily grab my controller, plop down anywhere in my room, and start gaming.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  Breaks My Work Discipline 
 
@@ -175,15 +163,21 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-art-of-increasing-indoor-ambiance-via-sunlight/"><u>[Updated] In 2024, The Art of Increasing Indoor Ambiance via Sunlight</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-shegames-legends-youtubes-number-one-ten/"><u>[Updated] SheGames Legends YouTube's Number One Ten</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/emoji-essentials-for-iphone-users-from-basic-to-advanced-techniques/"><u>Emoji Essentials for iPhone Users: From Basic to Advanced Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-epicurean-envoys-the-best-food-vloggers-to-watch/"><u>In 2024, Epicurean Envoys The Best Food Vloggers to Watch</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-15-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 15</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-best-ergonomic-keyboard-wrist-pads-for-optimal-typing-comfort-2024-edition/"><u>The Ultimate Selection: Best Ergonomic Keyboard Wrist Pads for Optimal Typing Comfort - 2024 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/twelve-south-compass-pro-evaluation-expertly-engineered-for-ultimate-precision/"><u>Twelve South Compass Pro Evaluation: Expertly Engineered for Ultimate Precision</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-thermaltake-massive-tm-premium-pc-cooler-with-a-hefty-cost/"><u>Ultimate Guide to the Thermaltake Massive TM: Premium PC Cooler with a Hefty Cost</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlock-better-engagement-on-instagram-with-video-loops-for-2024/"><u>Unlock Better Engagement on Instagram With Video Loops for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-midland-gxt1000vp4-a-revolution-in-clear-radio-conversations/"><u>Unveiling the Midland GXT1000VP4: A Revolution in Clear Radio Conversations</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-making-the-most-of-siri-voice-interactions-for-tiktok-content/"><u>[New] 2024 Approved Making the Most of Siri Voice Interactions for TikTok Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-prime-video-performance-tracer-in-youtube-landscape/"><u>[New] 2024 Approved Prime Video Performance Tracer in YouTube Landscape</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-affordable-techniques-to-enhance-written-content-with-media/"><u>[New] In 2024, Affordable Techniques to Enhance Written Content with Media</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>[Updated] 2024 Approved 2023|How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-income-average-creator-revenue-from-adverts-on-youtube-in-2024/"><u>[Updated] Exploring Income Average Creator Revenue From Adverts on YouTube, In 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amds-newest-ryzen-driver-pack-free-download-and-installation-tutorial/"><u>AMD's Newest Ryzen Driver Pack: Free Download and Installation Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-gionee-f3-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Gionee F3 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-techniques-to-achieve-crystal-clear-youtube-soundtracks/"><u>In 2024, Techniques to Achieve Crystal-Clear YouTube Soundtracks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/section-2c-increasingly-complex-questions-with-solutions/"><u>Section 2C: Increasingly Complex Questions with Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-strategies-managing-and-reducing-your-monthly-streaming-service-costs/"><u>Smart Strategies: Managing & Reducing Your Monthly Streaming Service Costs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/spotifys-jam-collaboration-function-a-rarely-explored-opportunity-for-music-makers/"><u>Spotify's Jam Collaboration Function: A Rarely Explored Opportunity for Music Makers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stream-live-nbawnba-matches-all-you-need-to-know-about-upcoming-platforms/"><u>Stream Live NBA/WNBA Matches: All You Need To Know About Upcoming Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/summer-bundle-alert-disneyplus-hulu-and-max-coming-together-in-exclusive-media-deal/"><u>Summer Bundle Alert: Disney+, Hulu & Max Coming Together in Exclusive Media Deal</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-nostalgic-appeal-exploring-six-key-reasons-why-gamers-miss-classic-loading-screens-today/"><u>The Nostalgic Appeal: Exploring Six Key Reasons Why Gamers Miss Classic Loading Screens Today</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-top-5-amazing-benefits-of-rediscovering-classic-video-games-a-guide/"><u>The Top 5 Amazing Benefits of Rediscovering Classic Video Games – A Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-os-with-intel-management-engine/"><u>Update OS with Intel Management Engine</u></a></li>
 </ul></div>
 

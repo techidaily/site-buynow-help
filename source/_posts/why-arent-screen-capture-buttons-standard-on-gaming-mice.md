@@ -1,7 +1,7 @@
 ---
 title: Why Aren't Screen Capture Buttons Standard on Gaming Mice?
-date: 2024-09-09T07:04:38.550Z
-updated: 2024-09-14T21:47:57.171Z
+date: 2024-09-18T08:50:50.479Z
+updated: 2024-09-20T11:59:13.227Z
 tags:
   - games
   - tv
@@ -73,13 +73,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you don't have a Logitech mouse, the steps you'll need to take will be different but ultimately the process should be similar: create a new macro, record keystrokes, then save and assign it to a button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Sacrificing a Button to Take Screenshots Is Far From Ideal
 
  Taking screenshots with a single mouse button is a much better and more elegant solution than using your keyboard. For example, you can grab screenshots during intense in-game moments quickly, even when you’re shooting or aiming down sights instead of taking your hand off the mouse to hit the Win+PrtSc combo.
@@ -87,6 +80,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  This allows you to grab some cool, action-heavy screen grabs. Just look at this awesome screenshot I took in _Hellblade II_. I managed to snag the screenshot while avoiding the enemy’s attack, which I couldn’t pull off if I had used the keyboard:
 
 ![Hellblade II screenshot captured with a mouse button macro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-1319.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Goran Damnjanovic / How-To Geek
 
@@ -99,16 +99,10 @@ Goran Damnjanovic / How-To Geek
  That said, there’s a chance you own a mouse with lots of extra buttons, such as an MMO mouse like the [Razer Naga](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2004276&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fpc%2Fgaming-mice%2Fnaga-line), or a rodent with a bunch of extra buttons, such as the [Logitech G502](https://some-skills.techidaily.com/master-iphone-cams-with-these-hacks-for-2024/), [Logitech G903](https://www.logitechg.com/en-us/products/gaming-mice/g903-hero-wireless-gaming-mouse.910-005670.html), or the [Razer Basilisk V3 Pro](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2004276&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fgaming-mice%2Frazer-basilisk-v3-pro). In that case, reserving one of the buttons for taking screenshots shouldn’t be a big deal.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  We Need Mice with Dedicated Screenshot Buttons
@@ -138,19 +132,19 @@ Goran Damnjanovic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-merge-movie-content-into-watchlist-for-2024/"><u>[New] Merge Movie Content Into Watchlist for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-dark-realm-explorations-dos-and-donts-of-nocturnal-shooting-for-2024/"><u>[Updated] Dark Realm Explorations Do's & Don'ts of Nocturnal Shooting for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-youtube-channel-art-make-banners-icons-and-thumbnails/"><u>2024 Approved YouTube Channel Art - Make Banners, Icons, and Thumbnails</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bring-the-arena-to-your-living-room-with-nba-2k19-elite-sports-entertainment/"><u>Bring the Arena to Your Living Room With NBA 2K19: Elite Sports Entertainment</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-v29e-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-highly-advanced-ring-video-doorbell-pro/"><u>Comprehensive Evaluation of the Highly Advanced Ring Video Doorbell Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dont-miss-out-the-finest-acer-steals-and-savings-of-the-2024-prime-day-extravaganza/"><u>Don't Miss Out: The Finest Acer Steals & Savings of the 2024 Prime Day Extravaganza</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/effortless-style-meets-productivity-introducing-the-low-profile-well-equipped-acer-aspire-c27-workstation/"><u>Effortless Style Meets Productivity: Introducing the Low-Profile, Well-Equipped Acer Aspire C27 Workstation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-if-a-new-iphone-separates-you-from-old/"><u>Evaluating If a New iPhone Separates You From Old</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-gaomon-pd1560-artistic-touchpad-a-comprehensive-look-at-this-versatile-pen-display/"><u>Evaluating the Gaomon PD1560 Artistic Touchpad: A Comprehensive Look at This Versatile Pen Display</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-full-potential-the-laptop-recording-manual/"><u>In 2024, Unlocking Full Potential The Laptop Recording Manual</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/obtain-updated-canon-mg3022-driver-software-here/"><u>Obtain Updated Canon MG3022 Driver Software Here!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-rated-no-cost-dvd-copying-software-for-windows-complete-free-download-and-user-manual/"><u>Top Rated No-Cost DVD Copying Software for Windows - Complete Free Download and User Manual</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-simultaneous-scheduling-on-iphoneandroid-with-zoom-desktop-timeline/"><u>[New] 2024 Approved Simultaneous Scheduling on iPhone/Android with Zoom Desktop Timeline</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-5-best-snipping-tools-for-mac/"><u>[New] In 2024, 5 Best Snipping Tools for Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-creative-commons-legalities-explained-simply/"><u>[Updated] In 2024, Creative Commons Legalities Explained Simply</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-windows-11-wallpaper-transitions/"><u>[Updated] Perfect Windows 11 Wallpaper Transitions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-gaming-excellence-a-guide-to-top-consoles/"><u>Discovering Gaming Excellence - A Guide to Top Consoles</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-realme-note-50-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Realme Note 50</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-hewlett-packards-affordable-amd-notebook-does-it-deliver-on-performance/"><u>Evaluating Hewlett-Packard's Affordable AMD Notebook: Does It Deliver on Performance?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-lihan-lhfm1039-the-ultimate-guide-to-using-a-wireless-bluetooth-fm-transmitter-in-vehicles/"><u>Expert Analysis: LIHAN LHFM1039 - The Ultimate Guide to Using a Wireless Bluetooth FM Transmitter in Vehicles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-fashionable-swagtron-e-scooter-transforming-city-journeys/"><u>Expert Review: The Fashionable Swagtron E-Scooter Transforming City Journeys</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-the-samsung-galaxy-watch-active-a-fitness-and-well-being-review/"><u>Exploring the Features of the Samsung Galaxy Watch Active: A Fitness and Well-Being Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-scenes-of-successful-onestream-livestreams/"><u>In 2024, Behind-the-Scenes of Successful OneStream Livestreams</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-users-guide-to-retrieving-lost-iphone-memories-photo-and-video-restoration-app-with-contact-support/"><u>Mac Users' Guide to Retrieving Lost iPhone Memories: Photo and Video Restoration App with Contact Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-ccleaner-performance-in-win11/"><u>Reviving CCleaner Performance in Win11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-resolving-heroes-and-monsters-iii-pc-instability-issues/"><u>Troubleshooting Steps for Resolving Heroes and Monsters III PC Instability Issues</u></a></li>
 </ul></div>
 

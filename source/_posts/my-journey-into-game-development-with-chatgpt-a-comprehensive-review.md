@@ -1,7 +1,7 @@
 ---
 title: "My Journey Into Game Development with ChatGPT: A Comprehensive Review"
-date: 2024-09-08T23:06:01.181Z
-updated: 2024-09-14T20:27:49.385Z
+date: 2024-09-13T15:07:29.005Z
+updated: 2024-09-19T17:35:31.011Z
 tags:
   - games
   - tv
@@ -74,18 +74,24 @@ public class Projectile : MonoBehaviour
     
  Notably, it gave me well-commented code so I could follow along as a beginner programmer. Many places suggest that you could [learn to code using AI](https://learntocodewith.me/resources/ai-coding/), and the inclusion of well-commented code is part of that. You won't have to worry if there are errors in your code if you can trace them comment by comment. However, when using GPT to build a game, I encountered several issues that would defeat a newcomer to game development.
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  ChatGPT Is Far From Perfect
 
  LLMs are only as good (or as bad) as the prompts the user gives them. For example, a user could easily [generate anime-type characters with MidJourney](https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/) by including a few words to clarify the prompt's end result. However, when building a game with ChatGPT, I found that there were times when the engine simply didn't pick up what I was putting down.
 
 ![An error happens that I can't seem to figure out, so I ask GPT for help](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-wild-unexpected-behavior-appears.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In this example, I encountered an issue with spawning my projectiles, with all the "bullets" being deflected when the player moves. While this could create some interesting play patterns, I decided to ask it to fix the problem, and it suggested a fix. Unfortunately, the fix didn't work.
 
@@ -98,16 +104,10 @@ public class Projectile : MonoBehaviour
  I eventually put together the game using a few suggestions from GPT about the persistent score as well as the random generation algorithm and scrolling for the game background. You can [play the final game here](https://zandoliearts.itch.io/the-unfriendly-skies).
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Does It Work With Other Game Engines?
@@ -133,10 +133,10 @@ GPT's Godot Problem
 ![Screenshot of My Game's Title Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-1-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Game development is a complex field, but thanks to engines like those mentioned above, it is much more approachable for the general public. A skilled developer could spend a few hours putting together a game that works and has all the things they want in it.
@@ -169,16 +169,18 @@ GPT's Godot Problem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-utilizing-azure-speech-to-text-api/"><u>[New] Utilizing Azure Speech-to-Text API</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-originality-concerns-a-deep-dive-into-its-information-pool/"><u>ChatGPT and Originality Concerns: A Deep Dive Into Its Information Pool</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-12-mini-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 12 mini When You Forget the Passcode?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-add-stickers-to-instagram/"><u>How to Add Stickers to Instagram?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/keeping-hyperx-headsets-up-to-date-with-new-driver-implementations/"><u>Keeping HyperX Headsets Up To Date with New Driver Implementations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/play-together-on-ps5-a-step-by-step-guide-to-sharing-games-and-content/"><u>Play Together on PS5: A Step-by-Step Guide to Sharing Games and Content</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/spotlight-on-slimness-exploring-the-key-differences-between-ipad-and-ipad-air-models/"><u>Spotlight on Slimness: Exploring the Key Differences Between iPad and iPad Air Models</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-setting-up-your-nintendo-3ds-network-id/"><u>Step-by-Step Guide: Setting Up Your Nintendo 3DS Network ID</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-cheap-tablet-dive-into-our-in-depth-review-of-the-lenovo-tab-m10-hd-2020/"><u>The Best Cheap Tablet? Dive Into Our In-Depth Review of the Lenovo Tab M10 HD (2020)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-for-gadget-enthusiasts-a-deep-dive-into-toms-hardware-selection/"><u>Top Picks for Gadget Enthusiasts: A Deep Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-and-following-leading-biz-channels-online/"><u>[New] 2024 Approved Finding and Following Leading Biz Channels Online</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-comprehensive-list-of-vimeo-downloader-utilities/"><u>[Updated] Comprehensive List of Vimeo Downloader Utilities</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-launchpad-gear-your-youtube-channels-first-steps/"><u>[Updated] Launchpad Gear Your YouTube Channel's First Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-revolutionize-your-music-playback-with-these-high-quality-free-audio-splits/"><u>[Updated] Revolutionize Your Music Playback with These High-Quality Free Audio Splits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-a-captivated-audience-with-strategic-voiceovers/"><u>Crafting a Captivated Audience with Strategic Voiceovers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-mastering-the-art-of-tiktok-elements/"><u>In 2024, Mastering the Art of TikTok Elements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/master-pc-gameplay-by-seamlessly-integrating-controller-and-mouse/"><u>Master PC Gameplay by Seamlessly Integrating Controller and Mouse</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-fun-with-zero-costs-discover-fantastic-free-to-play-gaming-events/"><u>Maximize Your Fun with Zero Costs: Discover Fantastic Free-to-Play Gaming Events!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-order-frequency-with-the-latest-update-on-doordashs-dashpass-perk/"><u>Maximize Your Order Frequency with the Latest Update on DoorDash's DashPass Perk!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-investment-on-netflix-top-7-strategies-for-optimal-enjoyment/"><u>Maximizing Your Investment on Netflix: Top 7 Strategies for Optimal Enjoyment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/microsoft-announces-closure-of-xbox-360-marketplace-in-current-month/"><u>Microsoft Announces Closure of Xbox 360 Marketplace in Current Month</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/strategic-rollout-partner-mothersboards-release-bios-revisions-to-correct-infamous-logo-failure-problems-for-amd-cpus/"><u>Strategic Rollout: Partner Mothersboards Release BIOS Revisions to Correct Infamous Logo Failure Problems for AMD CPUs</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-cannot-reach-server-error-in-win-10-and-11-for-mb/"><u>Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB</u></a></li>
 </ul></div>
 

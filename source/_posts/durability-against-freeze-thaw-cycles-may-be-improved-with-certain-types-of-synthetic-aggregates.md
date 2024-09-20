@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2024-09-09T09:50:05.914Z
-updated: 2024-09-15T09:38:48.202Z
+date: 2024-09-17T16:53:46.403Z
+updated: 2024-09-20T14:06:43.091Z
 tags:
   - games
   - tv
@@ -114,34 +114,15 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -154,6 +135,13 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
@@ -164,16 +152,16 @@ Jerome Thomas / How-To Geek
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -206,20 +194,17 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-how-to-navigate-the-treasure-trove-of-pexels-picture-paradise/"><u>[New] How to Navigate the Treasure Trove of Pexels' Picture Paradise</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-outsmarting-video-based-home-schooling-effortlessly/"><u>[New] In 2024, Outsmarting Video-Based Home Schooling Effortlessly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-premier-choices-the-5-foremost-webcams-for-live-gamers/"><u>[New] Premier Choices The 5 Foremost Webcams for Live Gamers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-immortalize-gameplay-glories-with-samsung-devices/"><u>[Updated] 2024 Approved Immortalize Gameplay Glories with Samsung Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-alter-your-tone-effectively/"><u>[Updated] Mastering Instagram Alter Your Tone Effectively</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-of-gimp-the-ultimate-free-cross-platform-graphics-editing-solution/"><u>Expert Review of GIMP: The Ultimate Free, Cross-Platform Graphics Editing Solution</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro with/without SIM Card</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-picks-for-high-quality-outdoor-audio-archives/"><u>New In 2024, Top Picks for High-Quality Outdoor Audio Archives</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-flac-files-to-m4a-format-using-windows-tools-and-web-services/"><u>Step-by-Step Guide: Converting FLAC Files to M4A Format Using Windows Tools & Web Services</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-arlo-video-doorbells-evaluated-seamless-integration-of-surveillance-and-intrusion-notifications/"><u>Top Arlo Video Doorbells Evaluated: Seamless Integration of Surveillance and Intrusion Notifications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-samsung-electronics-bargains-during-prime-shopping-event/"><u>Top Samsung Electronics Bargains During Prime Shopping Event</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-giant-a-thorough-review-and-assessment-of-the-iphone-12-pro-max/"><u>Unboxing the Giant: A Thorough Review and Assessment of the iPhone 12 Pro Max</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wi-fi-mesh-is-its-value-clear/"><u>Wi-Fi Mesh: Is Its Value Clear?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wifi-router-faceoff-can-tp-link-archer-ax6000-outshine-nighthawk-ax12-in-depth-review-analysis/"><u>WiFi Router Faceoff: Can TP-Link Archer AX6000 Outshine Nighthawk AX12? In-Depth Review Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/zte-blade-a3y-on-a-budget-comprehensive-handset-evaluation-and-insights/"><u>ZTE Blade A3Y on a Budget: Comprehensive Handset Evaluation & Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-comparing-magix-audio-tools/"><u>[New] 2024 Approved Comparing MAGIX Audio Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-clickbait-crafting-secrets-to-facebooks-favorites-for-2024/"><u>[New] Clickbait Crafting Secrets to Facebook's Favorites for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-lenovo-p11-pro-great-aspects-and-small-flaws-uncovered/"><u>Comprehensive Evaluation of the Lenovo P11 Pro: Great Aspects and Small Flaws Uncovered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-performance-apples-iphone-15-pro-vs-pro-max-battle-royale/"><u>Decoding Performance: Apple's iPhone 15 Pro Vs. Pro Max Battle Royale</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-monochrome-to-masterpiece-pro-photo-hue-harmony/"><u>In 2024, From Monochrome to Masterpiece Pro Photo Hue Harmony</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-successful-uploads-on-google-podcast/"><u>In 2024, Step-by-Step Successful Uploads on Google Podcast</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-swagtron-swagboard-t1-a-flexible-choice-with-a-hefty-price-tag/"><u>In-Depth Analysis of the Swagtron Swagboard T1: A Flexible Choice with a Hefty Price Tag</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-updates-a-comprehensive-guide-to-fixing-the-0x800705b4-error-for-good/"><u>Mastering Windows 10 Updates: A Comprehensive Guide to Fixing the 0X800705b4 Error for Good</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-fixed-power-settings-on-windows-11/"><u>Solutions for Fixed Power Settings on Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723011927097-top-rated-z3plus-dash-camera-the-perfect-blend-of-value-and-simplicity-unveiled/"><u>Top Rated Z3+ Dash Camera: The Perfect Blend of Value and Simplicity Unveiled</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-video-editing-software-for-mac-similar-to-pinnacle-studio/"><u>Updated In 2024, Best Video Editing Software for Mac Similar to Pinnacle Studio</u></a></li>
 </ul></div>
 

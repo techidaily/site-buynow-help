@@ -1,7 +1,7 @@
 ---
 title: Microsoft Announces Closure of Xbox 360 Marketplace in Current Month
-date: 2024-09-08T06:14:44.030Z
-updated: 2024-09-14T23:30:23.285Z
+date: 2024-09-13T07:03:56.143Z
+updated: 2024-09-20T06:21:19.580Z
 tags:
   - games
   - tv
@@ -44,10 +44,10 @@ Tim Brookes / How-To Geek
 [Delisted Games](https://delistedgames.com/xbox-360-marketplace-resources/) has a list of 47 titles that never saw release anywhere else (not even the PlayStation 3), that will officially be “lost forever” on July 29\. Most of these are obscure indie titles, but there are some big names in there like _Fruit Ninja Kinect_, Xbox Live Arcade exclusive two _South Park_ games, and forgettable arcade port _Double Dragon II: Wander of the Dragons_.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Online Play and Updates Are Unaffected
@@ -58,16 +58,16 @@ Tim Brookes / How-To Geek
 
 ![Xbox Live Gold vs Game Pass Core compared.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-04-at-10-39-08.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Xbox
 
  Microsoft still requires a premium subscription to play online on the Xbox 360\. This was once called Xbox Live Gold but is now known as [Game Pass Core](https://www.xbox.com/en-US/xbox-game-pass/core). It’ll set you back $9.99/month, just like Xbox Live Gold once did. If you [have a Game Pass subscription](https://fox-info.techidaily.com/2024-approved-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/) for another console (like the Xbox One, or Series X|S), you can play on your Xbox 360 simply by signing in.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The End of an Era
 
@@ -90,16 +90,18 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-instant-appeal-in-photos-embrace-these-top-10-composition-strategies/"><u>[New] In 2024, Instant Appeal in Photos Embrace These Top 10 Composition Strategies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/childproof-cams-for-wet-world-adventures-and-snaps/"><u>Childproof Cams for Wet World Adventures & Snaps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-google-pixel-6-a-critical-perspective/"><u>Comprehensive Analysis of the Google Pixel 6: A Critical Perspective</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-on-d-link-powerline-adapter-speed-test-swift-installation-and-excellent-throughput/"><u>Comprehensive Guide on D-Link Powerline Adapter Speed Test: Swift Installation & Excellent Throughput</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-finest-apple-airtag-tracking-device-for-iphones/"><u>Comprehensive Guide to the Finest Apple AirTag Tracking Device for iPhones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-ring-video-doorbell-2-evaluation-unsurpassed-in-quality/"><u>Comprehensive Ring Video Doorbell 2 Evaluation - Unsurpassed in Quality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-streamlining-color-grading-incorenasive-guide-to-lut-integration-in-obs/"><u>In 2024, Streamlining Color Grading Incorenasive Guide to LUT Integration in OBS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-how-to-ensure-the-latest-version-of-zoom-on-your-computer/"><u>The Ultimate Walkthrough: How to Ensure the Latest Version of Zoom on Your Computer</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-visual-quest-examining-the-power-of-lgs-digital-cinema-31mu97-b-for-2024/"><u>The Visual Quest - Examining the Power of LG’s Digital Cinema 31MU97-B for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/shing-creativity-in-education-making-amazing-videography-a-reality-on-youtube/"><u>Unleashing Creativity in Education Making Amazing Videography a Reality on YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-11-user-guide-how-to-deactivate-live-updates-and-news-tiles/"><u>Windows 11 User Guide: How to Deactivate Live Updates and News Tiles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725284745883-mp4/"><u>最適なMP4圧縮ツールランキング:ソフトウェア不要の速やかなデータ圧縮方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006996233-bring-rainbow-six-siege-back-to-life-overcome-launch-challenges-with-these-effective-fixes/"><u>Bring Rainbow Six Siege Back to Life - Overcome Launch Challenges with These Effective Fixes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-premier-samsung-galaxy-s23-phone-case-selections-the-consumers-handbook/"><u>Discover Premier Samsung Galaxy S23 Phone Case Selections : The Consumer's Handbook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essentialists-guide-to-professional-photo-bag-selection-2024/"><u>Essentialist's Guide to Professional Photo Bag Selection /2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-lenovo-chromebook-duet-a-steal-at-a-bargain-price-for-hybrid-devices/"><u>Evaluating the Lenovo Chromebook Duet: A Steal at a Bargain Price for Hybrid Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-next-level-wireless-performance-with-netgears-elite-c7000-modem-a-thorough-assessment/"><u>Experience Next-Level Wireless Performance with Netgear's Elite C7000 Modem - A Thorough Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-most-effective-resistance-bands-of-2024-for-fitness-enthusiasts/"><u>Explore the Most Effective Resistance Bands of 2024 for Fitness Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-leading-nas-systems-features-reviews-and-buying-tips/"><u>Exploring the Leading NAS Systems : Features, Reviews, and Buying Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/free-protection-excellence-leading-antivirus-solutions-without-the-price-tag/"><u>Free Protection Excellence: Leading Antivirus Solutions Without the Price Tag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-canon-mf8500c-printer-drivers-for-windows-operating-systems/"><u>How to Get the Latest Canon MF8500C Printer Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-13c-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi 13C 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-insert-song-into-imovie-media-library-for-2024/"><u>Updated Insert Song Into iMovie Media Library for 2024</u></a></li>
 </ul></div>
 

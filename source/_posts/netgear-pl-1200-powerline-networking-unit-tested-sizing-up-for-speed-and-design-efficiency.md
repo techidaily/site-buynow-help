@@ -1,7 +1,7 @@
 ---
 title: Netgear PL-1200 Powerline Networking Unit Tested - Sizing Up for Speed and Design Efficiency
-date: 2024-09-09T20:01:45.207Z
-updated: 2024-09-15T00:04:22.161Z
+date: 2024-09-14T12:29:29.580Z
+updated: 2024-09-19T16:47:21.180Z
 categories:
   - BestProducts
 description: This Article Describes Netgear PL-1200 Powerline Networking Unit Tested - Sizing Up for Speed and Design Efficiency
@@ -96,6 +96,13 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Comfort: Hefty, but darn comfy**
 
  The original Elite was perhaps the most comfortable controller I’ve ever used, so with the Series 2, I had high hopes in this department. Thanks to some clever but subtle changes by the Microsoft team, this controller is even better.
@@ -109,13 +116,6 @@ Lifewire / Zach Sweat
  The only real issue some users may see as a downside of this controller is that it’s quite a hefty device. The controller weighs 348 grams with all attachments, so it might take some getting used to compared to the 210 gram S controller. I personally love the bulk, as it feels premium, but it might not be for everyone.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -138,19 +138,6 @@ Lifewire / Zach Sweat
  If you plan to buy this controller to use with other electronics that support Bluetooth devices, make sure you do some research before committing to it, as it doesn’t always work with everything. That said, we did manage to pair the controller with a couple other devices that weren’t officially supported.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -176,13 +163,6 @@ Lifewire / Zach Sweat
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -192,6 +172,13 @@ Lifewire / Zach Sweat
  The argument could be made that considering you get a Bluetooth controller capable of working on XB1 and PC, a charging dock and a nice little case to keep it all together, the cost isn’t awful. But if you want all of those things for less, you can grab an S controller, dock and case for far, far less.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -208,6 +195,13 @@ Lifewire / Zach Sweat
  **A truly awesome controller with a steep price point.**
 
  Everything we disliked about the original Elite controller has been improved with the second iteration, making it the best first-party controller you can get for XB1 or PC. However, the steep price point might be a hard pill to swallow for users who don’t like to splurge.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -241,18 +235,14 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-propel-your-productivity-mastering-marketing-in-the-telegram-world/"><u>[Updated] Propel Your Productivity Mastering Marketing in the Telegram World</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-orbis-tri-band-wi-fi-6-mesh-networking-solution-for-enhanced-speed-and-coverage-at-home/"><u>Comprehensive Review of Orbi's Tri-Band Wi-Fi 6 Mesh Networking Solution for Enhanced Speed and Coverage at Home</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dbpower-600a-peak-charger-18000mah-top-notch-performance-for-on-the-go-charging-a-review/"><u>DBPower 600A Peak Charger 18000mAh - Top Notch Performance for On-the-Go Charging: A Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/deciphering-amazon-halo-an-intriguingly-detailed-guide-to-its-unconventional-activity-monitoring/"><u>Deciphering Amazon Halo: An Intriguingly Detailed Guide to Its Unconventional Activity Monitoring</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhance-mobile-communication-elite-signal-booster-picks-to-maximize-range-2024-edition/"><u>Enhance Mobile Communication: Elite Signal Booster Picks to Maximize Range - 2024 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/examining-the-asus-bw-16d1x-u-a-modern-chic-blu-ray-drive-with-a-few-surprising-idiosyncrasies/"><u>Examining the Asus BW-16D1X-U - A Modern, Chic Blu-Ray Drive with a Few Surprising Idiosyncrasies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-new-territories-in-depth-analysis-of-watch-dogs-legions-unique-environment/"><u>Exploring New Territories: In-Depth Analysis of Watch Dogs: Legion's Unique Environment</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-nokia-150-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Nokia 150 (2023) Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-play-40c-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor Play 40C online without jailbreak</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-10-online-video-rotation-solutions-to-elevate-your-content-for-2024/"><u>New 10 Online Video Rotation Solutions to Elevate Your Content for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-unlocking-your-androids-potential-with-kingoroot/"><u>Step-by-Step Guide: Unlocking Your Android's Potential with KingoRoot</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-discover-the-best-vsdc-video-editor-alternatives-for-mac-computers-for-2024/"><u>Updated Discover the Best VSDC Video Editor Alternatives for Mac Computers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funimate-login-and-sign-up-guide/"><u>[Updated] Funimate Login and Sign Up Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-10-best-agricultural-games-for-group-fun/"><u>2024 Approved 10 Best Agricultural Games for Group Fun</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-value-of-a-solid-budget-choice-the-hisense-h5590f-40-smart-television-review/"><u>Evaluating the Value of a Solid Budget Choice: The Hisense H5590F 40 Smart Television Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-samsung-galaxy-a51-with-5g-superior-performance-meets-affordability/"><u>Expert Review of Samsung Galaxy A51 with 5G: Superior Performance Meets Affordability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-the-best-value-for-an-amplified-tv-signal-the-1byone-digital-indoor-antenna/"><u>Experts Weigh In on the Best Value for an Amplified TV Signal: The 1byOne Digital Indoor Antenna</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-familiar-with-the-ultimate-arlo-defense-for-homes/"><u>Get Familiar With the Ultimate Arlo Defense for Homes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-premium-hd-screensnap-tools/"><u>In 2024, Premium HD Screensnap Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-guide-transforming-vitalsource-digital-textbooks-into-downloadable-pdf-files/"><u>Quick Guide: Transforming VitalSource Digital Textbooks Into Downloadable PDF Files</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-samsung-galaxy-watch-active-examined-a-tracker-dedicated-to-your-health-and-fitness-goals/"><u>The Samsung Galaxy Watch Active Examined - A Tracker Dedicated to Your Health and Fitness Goals</u></a></li>
 </ul></div>
 

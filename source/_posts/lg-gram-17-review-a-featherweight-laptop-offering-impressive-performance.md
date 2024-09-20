@@ -1,7 +1,7 @@
 ---
 title: "LG Gram 17 Review: A Featherweight Laptop Offering Impressive Performance"
-date: 2024-08-09T00:38:59.507Z
-updated: 2024-08-10T00:38:59.507Z
+date: 2024-09-18T09:08:17.064Z
+updated: 2024-09-19T17:32:31.814Z
 categories:
   - BestProducts
 description: "This Article Describes LG Gram 17 Review: A Featherweight Laptop Offering Impressive Performance"
@@ -13,14 +13,8 @@ thumbnail: https://thmb.techidaily.com/fe76b6185e26f2c7036c1e782f8aa4282a912d0cf
 
 4.3
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router (R8000)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/hov7MSNSt061CRmYtUqLocuVn_Y=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-1-f33fb4d851884e8982d54d6ff07d5ae7.jpg)
 
 Lifewire / Yoona Wagener
@@ -45,15 +39,8 @@ Lifewire / Yoona Wagener
 
 4.3
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router (R8000)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/svytmcXYUcatZ6Kem2-kQisPZks=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-1-f33fb4d851884e8982d54d6ff07d5ae7.jpg)
 
 Lifewire / Yoona Wagener
@@ -84,9 +71,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: A little flashy**
 
  The Nighthawk X6 router is aptly named for its six antennas that are fixed to both sides of the face of the device. While you can easily fold these antennas flat, for easy moving to and from one spot to another, you’ll need to place them upright in order to maximize the signal strength.
@@ -113,11 +97,22 @@ Lifewire / Yoona Wagener
 
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/kHfwPJF-cpnSAITo_i4moZ2Jnw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-4-1d3586d798cf44a9b219c9fd885069b3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Connectivity: Focused on the most innovative technology**
 
  This is an 802.11ac tri-band router, meaning it supports three frequencies: one 2.4GHz and two 5GHz channels on the[802.11ac wireless standard](https://www.lifewire.com/802-11ac-in-wireless-networking-818284) . The advantage here is that unlike older single- or[dual-band routers](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) that operate on older Wi-Fi standards or even newer dual-band options functioning on the most current Wi-Fi 5 standard, there’s additional support for more devices and less competition over bandwidth.
@@ -128,9 +123,6 @@ Lifewire / Yoona Wagener
 
  The Nighthawk X6 R8000 also comes with Dynamic Quality of Service (QoS) technology, which is another tool for managing bandwidth by allocating signals in specific directions and based on your priorities. Netgear says that users who like to game and stream video (and have combined download and upload speeds of less than 300Mbps) could garner enhanced performance by enabling this feature, which you can do from the web interface—but not the app.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Network Performance: Fast, but sometimes underwhelming**
 
  Using the Nighthawk app’s built-in speed test feature, which uses the Ookla SpeedTest technology, the best download speed registered at 95Mbps right after we set up the router. More typically, the output was around 88-95Mbps at varying points in the day.
@@ -142,6 +134,13 @@ Lifewire / Yoona Wagener
  Though we were unable to test the full range of this router, we had no issues in our 1,100-square-foot space. The manufacturer does say that this device can serve very large homes and there are six antennas that help boost this coverage, but the actual range—just like speed—will depend on factors like the thickness of your walls, router placement, and interference from other signals and devices.
 
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/qDgf4s6CZg8XEea_CVo6DMwg5lg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-5-733eda7f890a4105b5bc94ddf8169c81.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -161,18 +160,6 @@ Lifewire / Yoona Wagener
 
  The Nighthawk X6 R8000 has a list price of $270, which certainly places it in the high-end tier of wireless routers. And while it’s not the most expensive tri-band router on the market, your decision to make this investment could come down to factors like how large your home is, how many devices you’re working with, and how fast your internet service plan is. The tri-band Wi-Fi technology is impressive, and there are many attractive features: an intuitive and low-effort app, built-in security with Netgear Armor, as well as a detailed level of control over managing how everyone in the family spends their screen time, but there are equally capable as less expensive options on the market.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Netgear Nighthawk X6 AC3200 vs. Asus RT-AC3200**
 
  One of the strengths of the Nighthawk X6 R800 is how fast and simple it is to set up for even those who are tech-shy. But if you’re willing or interested in diving in deeper technically, paying less, and still obtaining impressive Wi-Fi performance, the Asus RT-AC3200 retails for $200 and overlaps with the Nighthawk X6 in a number of ways. Both feature three bands, six antennas, QoS and beamforming technologies, VPN and Time Machine support, and peace of mind with respective built-in security platforms.
@@ -204,14 +191,11 @@ Lifewire / Yoona Wagener
 * Range  Very large homes
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -219,3 +203,17 @@ Lifewire / Yoona Wagener
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-stepwise-guide-backing-up-and-exporting-mobile-camera-images-for-social-media/"><u>[New] Stepwise Guide Backing Up & Exporting Mobile Camera Images for Social Media</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-insider-guide-for-seamless-video-sharing-on-instagram-tv-for-2024/"><u>[New] The Insider Guide for Seamless Video Sharing on Instagram TV for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-look-at-the-new-microsoft-surface-pro-7-steady-upgrade-with-minor-tweaks/"><u>A Comprehensive Look at the New Microsoft Surface Pro 7 - Steady Upgrade with Minor Tweaks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-deep-dive-into-the-directors-cut-why-wasteland-2-is-a-must-play-turn-based-rpg/"><u>A Deep Dive Into the Director's Cut: Why Wasteland 2 Is a Must-Play Turn-Based RPG</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ace-your-skills-with-the-top-picks-from-linkedin-learnings-2024-catalog/"><u>Ace Your Skills with the Top Picks From LinkedIn Learning's 2024 Catalog</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cambiar-imagenes-de-raf-a-formato-png-sin-coste-alguno-online-guia-completa-con-movavi/"><u>Cambiar Imágenes De RAF a Formato PNG Sin Coste Alguno Online - Guía Completa Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/code-31-in-windows-explained-quick-solutions-to-keep-you-running-smoothly/"><u>Code 31 in Windows Explained: Quick Solutions to Keep You Running Smoothly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lg-printerdevice-drivers-not-working-in-win-1187-a-step-by-step-fix-guide/"><u>LG Printer/Device Drivers Not Working in Win 11/8/7: A Step-by-Step Fix Guide</u></a></li>
+</ul></div>
+

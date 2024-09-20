@@ -1,7 +1,7 @@
 ---
 title: Evaluating The Google Pixelbook Go - A Masterfully Designed Chromebook with a Premium Price Tag
-date: 2024-08-09T00:38:59.355Z
-updated: 2024-08-10T00:38:59.355Z
+date: 2024-09-14T12:28:08.770Z
+updated: 2024-09-19T16:51:10.832Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating The Google Pixelbook Go - A Masterfully Designed Chromebook with a Premium Price Tag
@@ -13,14 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/0yDblaYwZ465JJvYBijqDsGcpXs=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Antop AT-127
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/6eJwPC0xPwMxCh4aQhG73X9dkzU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
 
 Lifewire / Erika Rawes
@@ -76,14 +70,16 @@ Lifewire / Erika Rawes
 
  The antenna comes with a stand for placement on a desk or entertainment center. It also comes with double-sided adhesives, so you can hang it on a wall or window. The adhesives are extremely sticky—when I pulled the antenna off of my wall, the paint came off along with it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup: Easier than most**
 
@@ -99,16 +95,10 @@ The powerful video editing program for your Windows PC</a>
 
  The attached coax cable isn’t as long as I’ve seen on other similarly-priced antennas, but it is long enough (10 feet) to place the antenna up high without an extender.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -121,16 +111,24 @@ The powerful video editing program for your Windows PC</a>
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
  You can find indoor antennas for less than $15 (view on[Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845583%7Cna0f30cabffec4337b279a8df3e4c99b015%7C) ). The[AmazonBasics](https://www.lifewire.com/amazonbasics-flat-tv-antenna-review-4845569) 35-mile range antenna is a good example, though it doesn’t come with a stand or have the easy-push connector. Aesth etically, the AmazonBasics antenna doesn’t hold a candle to the Antop antenna, but it does cost significantly less.
@@ -157,14 +155,11 @@ The powerful video editing program for your Windows PC</a>
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,3 +167,21 @@ The powerful video editing program for your Windows PC</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-firefoxvidrecorder-plugins/"><u>[New] In 2024, FirefoxVidRecorder Plugins</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-recording-your-iphoneipad-whats-new/"><u>[New] Recording Your iPhone/iPad What's New</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-craft-compelling-content-essential-youtube-short-video-edits/"><u>[Updated] Craft Compelling Content Essential Youtube Short Video Edits</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-exploring-legal-restrictions-for-broadcasting-content-online/"><u>[Updated] Exploring Legal Restrictions for Broadcasting Content Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideas-on-boosting-gopro-energy-retention/"><u>[Updated] Ideas on Boosting GoPro Energy Retention</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expand-your-online-realm-harnessing-youtube-insights-powerfully/"><u>[Updated] In 2024, Expand Your Online Realm Harnessing YouTube Insights Powerfully</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rediscovering-a-gaming-icon-a-fresh-take-on-ratchet-and-clank/"><u>Rediscovering a Gaming Icon: A Fresh Take on Ratchet & Clank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliable-six-course-feeding-cycle-with-the-petsafe-automatic-pet-feeder/"><u>Reliable Six-Course Feeding Cycle with the PetSafe Automatic Pet Feeder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sizzling-success-an-in-depth-look-at-the-deliciously-maddening-world-of-overcooked-2/"><u>Sizzling Success: An In-Depth Look at the Deliciously Maddening World of Overcooked! 2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sony-xperia-5-assessment-compact-size-with-premium-pricing/"><u>Sony Xperia 5 Assessment: Compact Size with Premium Pricing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/studiofxs-bright-kit-reviewed-for-durability-and-efficiency/"><u>StudioFX's Bright Kit Reviewed for Durability & Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-of-both-worlds-powerful-performance-and-value-in-the-samsung-galaxy-a5n-5g/"><u>The Best of Both Worlds: Powerful Performance and Value in the Samsung Galaxy A5n 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-realme-11-proplus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Realme 11 Pro+.</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Discovering the World with Canon's Elegant PowerShot G9 X II Review
-date: 2024-08-09T00:39:02.453Z
-updated: 2024-08-10T00:39:02.453Z
+date: 2024-09-12T21:25:10.448Z
+updated: 2024-09-19T21:30:38.787Z
 categories:
   - BestProducts
 description: This Article Describes Discovering the World with Canon's Elegant PowerShot G9 X II Review
@@ -55,9 +55,6 @@ thumbnail: https://www.lifewire.com/thmb/DvYNnDCYMwyc7l_zhwtQrC02LcM=/400x300/fi
 
  With the ubiquity of[smart TVs](https://www.lifewire.com/best-smart-tvs-4135681) preloaded with premium streaming apps, what’s the purpose of[streaming devices](https://www.lifewire.com/best-devices-to-buy-for-streaming-tv-4061016) like the Roku Express? When you tune in to the Express, you get access to thousands of free and premium shows you may never have discovered on the choice few apps of your smart TV, or on the same reruns that show up on your cable subscription. If you’re afraid of leaving cable, know that many primetime shows are on some streaming platform out there, and for much less money. You can get started with a $30 streaming device and a $10 subscription.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Roku Express](https://www.lifewire.com/thmb/5BliKk_HCRh9uM25VqPW6CH1Aeo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Roku_HeroHoriz-d20f17de8595463eb5e4bdf55a2f3387.jpg)
 
  Lifewire/Emily Ramirez
@@ -76,9 +73,6 @@ thumbnail: https://www.lifewire.com/thmb/DvYNnDCYMwyc7l_zhwtQrC02LcM=/400x300/fi
 
  The exceptionally cheap price tag is also reflected in the quality of the other extras. The HDMI cable is incredibly flimsy, as are the micro USB cable. However, if they seldom move, they shouldn’t break and they’ll get the job done. Besides, I have to give credit to Roku for including any cables at all for a budget product.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Fast and simple to get started**
 
  Roku’s included guide is great. It’s full of diagrams and photos to answer any basic questions you may have about positioning or connection. The actual setup process is similarly simple. Use the micro USB cable to power your Express box, connect the box to an open HDMI port on your TV, and make sure your TV’s on the right output.
@@ -88,8 +82,12 @@ thumbnail: https://www.lifewire.com/thmb/DvYNnDCYMwyc7l_zhwtQrC02LcM=/400x300/fi
  If you want to restrict the ability to download apps or make purchases on the Express, it’s easy to do so. Roku lets you set up a PIN that you’ll need to enter every time you try to download or buy something, which should deter your children or pets from buying anything without your permission.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Streaming Performance: Solid 1080p content, but long buffer times**
 
  For $30, the Roku Express delivers[1080p content](https://www.lifewire.com/720p-1080i-1080p-explained-3276378) to your TV. The 2019 model has the same specs as the 2018 model, but it consumes less power (so little that you can power it from your TV directly).
@@ -102,10 +100,6 @@ thumbnail: https://www.lifewire.com/thmb/DvYNnDCYMwyc7l_zhwtQrC02LcM=/400x300/fi
 
  Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## **Software: One of the easiest to navigate**
 
  Roku Express runs with the same Roku interface as its more expensive cousins, and it’s well-loved for a reason. Compared to Fire TV, Chromecast, and[Apple TV](https://www.lifewire.com/what-is-apple-tv-1994193) , Roku has the widest selection of apps available, and it doesn’t favor one streaming service over another.
@@ -119,18 +113,32 @@ thumbnail: https://www.lifewire.com/thmb/DvYNnDCYMwyc7l_zhwtQrC02LcM=/400x300/fi
  An interesting software perk from Roku that its competition doesn’t offer is its mobile app. You can use it as a remote for your Roku device, and that’s great, but more interestingly, you can also plug in your headphones and have the audio stream to your phone. If you like to stay up late and watch TV while your spouse sleeps, this is a great feature to have on hand.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Highly affordable**
 
  The Roku Express is only $30, but it’s easy to find it for even cheaper in physical stores and even online during sales seasons. It’s not hard to nab it for $25 or less.
 
  For only $10 to $20 more, you get a faster experience and more functionality out of Roku’s other offerings, so if you can afford it, the Premiere and Streaming Stick+ are the better value. As we move forward,[4K](https://www.lifewire.com/4k-resolution-overview-and-perspective-1846842) streaming is becoming the new standard, so it’s worth it to upgrade from the Express’s 1080p resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Roku Express](https://www.lifewire.com/thmb/xRjJqzIOYJAHEemk7NGlxVNl6wg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Roku_03-1b5930c20109404082b05511fae6aa5c.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire/Emily Ramirez
 
@@ -160,14 +168,11 @@ thumbnail: https://www.lifewire.com/thmb/DvYNnDCYMwyc7l_zhwtQrC02LcM=/400x300/fi
 * Resolution  1920x1080
 * Ports  HDMI, micro-USB
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,3 +180,21 @@ thumbnail: https://www.lifewire.com/thmb/DvYNnDCYMwyc7l_zhwtQrC02LcM=/400x300/fi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-screen-youtube-video-creation-made-simple/"><u>[New] 2024 Approved From Script to Screen YouTube Video Creation Made Simple</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-picpinch-recorder-assessment-and-comments-for-2024/"><u>[Updated] PicPinch Recorder Assessment & Comments for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-cheat-sheet-pro-instagram-photo-enhancements/"><u>[Updated] The Ultimate Cheat Sheet Pro Instagram Photo Enhancements</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-5-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic 5 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-mini-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 mini to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synergy-of-software-high-quality-text-plugins-reviewed/"><u>In 2024, Synergy of Software High-Quality Text Plugins Reviewed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/madden-nfl-19-evaluation-engaging-features-overshadowed-by-familiarity/"><u>Madden NFL '19 Evaluation: Engaging Features Overshadowed by Familiarity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliving-classic-arcade-fun-an-expert-take-on-super-mario-bros-game-and-watch-adventure/"><u>Reliving Classic Arcade Fun: An Expert Take on Super Mario Bros.' Game & Watch Adventure</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sb210-soundbot-unveiled-high-quality-audio-experience-amidst-minor-glitches/"><u>SB210 Soundbot Unveiled: High-Quality Audio Experience Amidst Minor Glitches</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stream-smarter-evaluating-chromecast-and-roku-to-find-the-best-fit/"><u>Stream Smarter: Evaluating Chromecast and Roku to Find the Best Fit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-budget-friendly-phone-exploring-the-features-of-samsung-galaxy-s10e/"><u>The Best Budget-Friendly Phone? Exploring the Features of Samsung Galaxy S10e</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/understanding-the-pros-and-cons-of-lenovos-economical-tab-4-tablet/"><u>Understanding the Pros and Cons of Lenovo's Economical Tab 4 Tablet</u></a></li>
+</ul></div>
+

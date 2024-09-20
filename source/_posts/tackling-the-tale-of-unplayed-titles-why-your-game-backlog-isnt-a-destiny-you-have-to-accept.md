@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept"
-date: 2024-09-07T18:43:35.230Z
-updated: 2024-09-15T07:24:05.885Z
+date: 2024-09-17T00:12:21.700Z
+updated: 2024-09-20T01:52:16.794Z
 tags:
   - games
   - tv
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You Don’t Have to Finish All Your Games
@@ -51,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Did I waste my time playing them? No! They were fun while they lasted, and I enjoyed my time with them, but just like any healthy relationship, you need to know when the right time is to walk away.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don’t Let the Sunk Cost Fallacy Stop Your Fun
@@ -88,20 +82,17 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-expert-guide-to-screen-zooming-on-microsoft-teams-for-2024/"><u>[New] Expert Guide to Screen Zooming on Microsoft Teams for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-avoid-a-snapbreak-ways-to-maintain-your-snapstreaks/"><u>[Updated] Avoid a Snapbreak Ways to Maintain Your Snapstreaks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-boosting-profitability-in-the-world-of-youtube-shorts/"><u>[Updated] Boosting Profitability in the World of Youtube Shorts</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-learn-how-to-craft-engaging-tiktok-captions-quickly/"><u>[Updated] Learn How to Craft Engaging TikTok Captions Quickly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-accelerate-document-creation-learning-ms-words-speech-feature/"><u>2024 Approved Accelerate Document Creation Learning MS Word's Speech Feature</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-9-free-video-channel-logomakers-showcase-reviewed/"><u>2024 Approved Top 9 Free Video Channel Logomakers Showcase Reviewed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-easy-steps-to-register-for-chatgpts-latest-plugin-extensions/"><u>Guide: Easy Steps to Register for ChatGPT’s Latest Plugin Extensions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-warranty-and-lifespan-higher-quality-led-systems-may-come-with-a-higher-upfront-price-but-can-offer-longer-lifespans-and-better-performance-which-sh/"><u>In 2024, __Warranty and Lifespan Higher Quality LED Systems May Come with a Higher Upfront Price but Can Offer Longer Lifespans and Better Performance, Which Should Be Considered in the Overall Cost Evaluation.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-apples-ebook-reader-a-comprehensive-review/"><u>In-Depth Analysis: Apple's eBook Reader - A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-eero-pro-mesh-network-ensuring-uninterrupted-internet-throughout-your-house/"><u>In-Depth Review of the Eero Pro Mesh Network – Ensuring Uninterrupted Internet Throughout Your House</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ipad-versus-ipad-air-understanding-their-unique-traits/"><u>IPad Versus iPad Air – Understanding Their Unique Traits</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/jumpstart-your-pc-how-to-move-from-win-8-to-win-11/"><u>Jumpstart Your PC: How to Move From Win 8 to Win 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/master-your-images-with-lightzone-exceptional-photo-editing-on-windows-mac-and-linux/"><u>Master Your Images with LightZone: Exceptional Photo Editing on Windows, Mac & Linux.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-the-art-of-preview-on-mac-a-hidden-gem-in-image-editing/"><u>Mastering the Art of Preview on Mac: A Hidden Gem in Image Editing</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-when-the-steam-shop-wont-load-a-comprehensive-guide/"><u>Resolving Issues When The Steam Shop Won't Load: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-sound-with-these-asmr-apps/"><u>[Updated] 2024 Approved Elevate Sound with These ASMR Apps</u></a></li>
+<li><a href="https://win-great.techidaily.com/wmamp38/"><u>最新WMAファイルを効率的にMP3に変換する自由ソフト8選のリスト</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-g310-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia G310 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-google-nest-hub-max-advanced-face-id-features-and-smart-package-alerts/"><u>Comprehensive Evaluation of the Google Nest Hub Max: Advanced Face ID Features & Smart Package Alerts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-anthropics-cutting-edge-smart-photo-editor-features-and-performance/"><u>Expert Analysis on Anthropics' Cutting-Edge Smart Photo Editor Features and Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-conversation-to-completion-who-leads/"><u>From Conversation to Completion: Who Leads?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-compact-apple-iphone-12-mini-defies-expectations-with-impressive-features/"><u>How the Compact Apple iPhone 12 Mini Defies Expectations with Impressive Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-accuracy-audit-a-vll-driven-review/"><u>In 2024, Accuracy Audit A VLL-Driven Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kodak-pixpro-friendly-zoom-fz53-review-a-great-point-and-shoot-camera-for-the-budget-conscious/"><u>Kodak PIXPRO Friendly Zoom FZ53 Review: A Great Point and Shoot Camera for the Budget Conscious</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nfpa-standards-provide-guidelines-on-detector-coverage-areas-and-installation-distances-to-prevent-blind-spots/"><u>NFPA Standards Provide Guidelines on Detector Coverage Areas and Installation Distances to Prevent Blind Spots.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uncover-your-missing-wi-fi-adapter-choices-in-windows-11-now-solved/"><u>Uncover Your Missing Wi-Fi Adapter Choices in Windows 11 - Now Solved</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-poco-c65-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Poco C65? | Dr.fone</u></a></li>
 </ul></div>
 

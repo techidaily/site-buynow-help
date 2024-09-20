@@ -1,7 +1,7 @@
 ---
 title: "Review of ZTE Blade A3Y: Quality Performance Meets Budget Pricing"
-date: 2024-09-11T17:49:18.329Z
-updated: 2024-09-15T05:45:23.348Z
+date: 2024-09-19T05:35:26.930Z
+updated: 2024-09-20T04:17:06.598Z
 categories:
   - BestProducts
 description: "This Article Describes Review of ZTE Blade A3Y: Quality Performance Meets Budget Pricing"
@@ -84,6 +84,13 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: You’ll have to figure a lot of stuff out for yourself**
 
  The user manual included with the Apeman C450 isn’t particularly useful, and though its written in English, the language is full of confusing phrases that feel like poor translations. The features are not fully explained and there are key omissions in the instructions that make understanding and using this dashcam much harder.
@@ -98,6 +105,13 @@ Lifewire / Danny Chadwick
 
  Your first time using the Apeman C450, you also have the option to set up a time and date stamp as well as a car identification number on your videos. This is a nice option to keep track of when a video was recorded, and which car it was recorded from if you have more than one camera in different vehicles.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Camera Quality: Acceptable for a budget device**
 
  You can set this dashcam to capture video in 1080p, 720p, and VGA resolution. That’s impressive for a camera this size, and Apeman puts 1080p Full HD front and center in their marketing materials. While it provides a good level of detail and clarity in the video, it’s worth noting that other dashcams out there can record in resolutions up to 1440p.
@@ -105,13 +119,6 @@ Lifewire / Danny Chadwick
  The camera also has the ability to record audio, but it’s an internal mic and not very directional so it picks up everything. When we tested it, we heard a lot of engine and wind noise while driving. Voices came through alright, but it’s not a high-quality recording and didn’t pick up anything happening outside the vehicle.
 
 ![Apeman C540 Dashcam](https://www.lifewire.com/thmb/Hp7FvJ_BMgl0S2-Dsd-hd2qiQ7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4062264_04-82d0af63043344a6b7b44863790050d7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
 
@@ -139,13 +146,6 @@ Lifewire / Danny Chadwick
 
  The defects of this dashcam can be forgiven pretty easily considering that it costs less than $50\. If you’re looking for a very inexpensive device, the Apeman C450 is a decent if somewhat flawed solution—it’s definitely not built as solidly and lacks the high resolution of its more expensive competitors, but if you are comfortable working around those shortcomings, this dashcam performs pretty well for the price.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Competition: Apeman C450 vs. Z-Edge Z3 Plus**
 
  We tested the Apeman C450 side by side with the Z-Edge Z3 Plus dashcam. The Z3 Plus is considerably more expensive, and while we found these two devices to be generally similar in form and function, we ultimately favored the Z3 Plus because it lacks the small annoyances that made the Apeman C450 frustrating.
@@ -161,10 +161,10 @@ Lifewire / Danny Chadwick
  Despite a poor-quality build and some design quirks, the Apeman C450 does its job as a dashcam. It has a discreet design, captures pretty good-quality video, and has important extra features like collision detection and a surveillance mode. If you can get past some of its foibles, it's definitely worth the price tag.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -204,18 +204,16 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>[New] In 2024, Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-reimagining-audio-editing-the-impact-of-magix-music-maker-2024/"><u>[New] Reimagining Audio Editing The Impact of Magix Music Maker 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-prime-screen-snaps-on-apple-devices-max-length-156/"><u>[Updated] 2024 Approved Prime Screen Snaps on Apple Devices (Max Length 156)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-microsoft-teams-sessions-recording/"><u>[Updated] In 2024, Microsoft Teams Sessions Recording</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-moto-g13-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola Moto G13</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722149717168-cleared-twitter-of-checkmarks-linuss-revelations-trojan-analysis-and-ai-shortcom-writes/"><u>Cleared Twitter of Checkmarks, Linus’s Revelations, Trojan Analysis, & AI Shortcom Writes.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/doggie-diaries-live-capturing-puppy-playtime/"><u>Doggie Diaries Live: Capturing Puppy Playtime</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevating-your-videography-through-audio-storytelling/"><u>Elevating Your Videography Through Audio Storytelling</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-motorola-edgeplus-does-it-match-top-tier-standards/"><u>Evaluating Motorola Edge+: Does It Match Top-Tier Standards?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-owc-mercury-pro-cutting-edge-drive-innovation-and-peak-performance-capabilities/"><u>Evaluating the OWC Mercury Pro: Cutting-Edge Drive Innovation and Peak Performance Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-performance-and-features-of-a-battery-operated-google-nest-doorbell/"><u>Evaluating the Performance and Features of a Battery Operated Google Nest Doorbell</u></a></li>
-<li><a href="https://driver-install.techidaily.com/logitech-hd-webcam-c270-driver-download-for-windows-1011/"><u>Logitech HD Webcam C270 Driver Download for Windows 10/11</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v30-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pixel-perfect-recorder-for-pcs/"><u>[Updated] Pixel Perfect Recorder for PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-a1-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo A1 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-building-stellar-instagram-photo-covers-for-your-highlights/"><u>2024 Approved Building Stellar Instagram Photo Covers for Your Highlights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-embrace-the-season-ideal-winter-backgrounds-for-yt/"><u>2024 Approved Embrace the Season Ideal Winter Backgrounds for YT</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-6s-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 6s or iPad?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini with/without SIM Card</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-instructions-for-coding-smarter-using-the-codegpt-plugin-in-visual-studio-ide/"><u>In-Depth Instructions for Coding Smarter Using the CodeGPT Plugin in Visual Studio IDE</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-speech-recognition-software-choices/"><u>Leading Speech Recognition Software Choices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-wireless-pointing-devices-reviewed-2024-edition/"><u>Leading Wireless Pointing Devices Reviewed: 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-tab-m10-fhd-plus-2020-review/"><u>Lenovo Tab M10 FHD Plus (2020) Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/up-to-date-how-to-acquiring-and-installing-the-newest-intel-hd-graphics-55500-driver-setup/"><u>Up-to-Date How-To: Acquiring & Installing the Newest Intel HD Graphics ^5^5500 Driver Setup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story"
-date: 2024-09-09T20:09:31.036Z
-updated: 2024-09-15T07:24:36.440Z
+date: 2024-09-18T13:06:36.694Z
+updated: 2024-09-19T20:25:46.252Z
 tags:
   - games
   - tv
@@ -74,13 +74,6 @@ public class Projectile : MonoBehaviour
     
  Notably, it gave me well-commented code so I could follow along as a beginner programmer. Many places suggest that you could [learn to code using AI](https://learntocodewith.me/resources/ai-coding/), and the inclusion of well-commented code is part of that. You won't have to worry if there are errors in your code if you can trace them comment by comment. However, when using GPT to build a game, I encountered several issues that would defeat a newcomer to game development.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  ChatGPT Is Far From Perfect
 
  LLMs are only as good (or as bad) as the prompts the user gives them. For example, a user could easily [generate anime-type characters with MidJourney](https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/) by including a few words to clarify the prompt's end result. However, when building a game with ChatGPT, I found that there were times when the engine simply didn't pick up what I was putting down.
@@ -95,6 +88,13 @@ public class Projectile : MonoBehaviour
 
 ![A Do-it-Yourself Fix For The Programming Problem](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/diy-fix.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I eventually put together the game using a few suggestions from GPT about the persistent score as well as the random generation algorithm and scrolling for the game background. You can [play the final game here](https://zandoliearts.itch.io/the-unfriendly-skies).
 
 ##  Does It Work With Other Game Engines?
@@ -103,16 +103,16 @@ public class Projectile : MonoBehaviour
 
 ![GPT gives me a piece of code that is outdated because of GPT's limitations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gpt-s-godot-problem-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 GPT's Godot Problem
 
  For those who use Godot regularly, the issue is immediately obvious. ChatGPT stopped learning in 2021 or thereabouts (at least for the free version). The script GPT gave me was based on its knowledge of Godot 2.x, which is a heavily outdated version of the current 4.x version. The glaring problem is the use of KinematicBody2D, which was replaced by CharacterBody2D in later iterations of the language.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Much Skill Do You Need to Code a Game With ChatGPT?
 
@@ -127,10 +127,10 @@ GPT's Godot Problem
 ![Screenshot of My Game's Title Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-1-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Game development is a complex field, but thanks to engines like those mentioned above, it is much more approachable for the general public. A skilled developer could spend a few hours putting together a game that works and has all the things they want in it.
@@ -163,20 +163,20 @@ GPT's Godot Problem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-using-vlc-for-mp4-and-format-shifting/"><u>[New] The Ultimate Guide to Using VLC for MP4 & Format Shifting</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-the-mystery-of-storing-instagram-videos-pc-and-mac-users-guide/"><u>[Updated] 2024 Approved Unlocking the Mystery of Storing Instagram Videos (PC & Mac Users Guide)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-ace-the-game-crafting-a-pro-gaming-channels-success-story/"><u>[Updated] Ace the Game Crafting a Pro Gaming Channels Success Story</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-pick-a-preferred-screen-recorder-app/"><u>[Updated] In 2024, How to Pick a Preferred Screen Recorder App</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts/"><u>[Updated] In 2024, Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-social-media-roi-with-judicious-facebook-hash-usage/"><u>[Updated] Maximizing Social Media ROI with Judicious Facebook Hash Usage</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/dare-to-be-noteworthy-top-30-innovative-tiktok-usernames/"><u>Dare to Be Noteworthy Top 30 Innovative TikTok Usernames</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-if-an-enhanced-apple-watch-is-essential-for-my-life/"><u>Exploring if an Enhanced Apple Watch Is Essential for My Life</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/functionality-at-its-best-unveiling-the-features-of-the-acer-xfa2/"><u>Functionality at Its Best: Unveiling the Features of the Acer XFA2</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/get-up-close-with-msis-high-quality-portable-monitor-model-mp1-161e2/"><u>Get Up Close with MSI's High-Quality Portable Monitor, Model MP1 161E2</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/google-tv-chromecast-unveiled-is-it-time-to-replace-your-firestick/"><u>Google TV Chromecast Unveiled: Is It Time to Replace Your Firestick?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/initiating-wet-world-photo-fun-kid-safe-camera-sets/"><u>Initiating Wet World Photo Fun: Kid-Safe Camera Sets</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-smart-spectacles-expert-picks/"><u>Leading Smart Spectacles: Expert Picks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/no-cost-audio-nirvana-with-oneplus-buds-unveiled/"><u>No-Cost Audio Nirvana with OnePlus Buds Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-startup-hurdles-for-photoshop-on-windows-1011/"><u>Overcoming Startup Hurdles for Photoshop on Windows 10/11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-detailed-look-logitechs-elite-4k-webcam-review/"><u>[New] In 2024, Detailed Look Logitech’s Elite 4K Webcam Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-harness-the-power-of-puzzles-for-your-instagram-presence/"><u>[New] In 2024, How to Harness the Power of Puzzles for Your Instagram Presence</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovative-approach-to-enhance-mp4s-with-srt/"><u>[New] Innovative Approach to Enhance MP4s with SRT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-luxury-on-wheels-a-compre-written-in-the-stars/"><u>[Updated] Luxury on Wheels - A Compre Written in the Stars</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/d-link-powerline-kit-unveiled-swift-installation-rapid-file-sharing-insights/"><u>D-Link Powerline Kit Unveiled: Swift Installation, Rapid File Sharing Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/efficient-heat-dissipation-with-a-cheap-laptop-tray-the-topmate-c302-breakdown/"><u>Efficient Heat Dissipation with a Cheap Laptop Tray: The TopMate C302 Breakdown</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/high-definition-creation-with-the-huion-kamvas-gt-191-an-extensive-tablet-review/"><u>High Definition Creation with The Huion Kamvas GT-191 - An Extensive Tablet Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-learn-to-leverage-kinemasters-features-for-maximum-gaming-fun-then-compare/"><u>In 2024, Learn to Leverage KineMaster's Features for Maximum Gaming Fun, Then Compare</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/les-jours-de-la-semaine-en-francais/"><u>Les Jours De La Semaine en Français</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/petcube-budget-smart-hd-pets-camera-review-quality-meets-affordability/"><u>Petcube Budget-Smart HD Pets Camera Review: Quality Meets Affordability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-windows-10-lacks-wireless-card-detection/"><u>Resolved: Windows 10 Lacks Wireless Card Detection</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-lenovo-bluetooth-driver-downloads-and-updates-compatible-with-windows-7-and-10/"><u>Secure Lenovo Bluetooth Driver Downloads & Updates Compatible with Windows 7 and 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner/"><u>The Ultimate Guide to the Garmin Forerunner</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-understanding-the-fitbit-charge-6-expert-review-inside/"><u>The Ultimate Guide to Understanding the Fitbit Charge 6 - Expert Review Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-10-recommended-sites-for-online-course-learning-experiences/"><u>Top 10 Recommended Sites for Online Course Learning Experiences</u></a></li>
 </ul></div>
 

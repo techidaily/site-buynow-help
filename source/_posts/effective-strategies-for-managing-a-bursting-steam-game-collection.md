@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing a Bursting Steam Game Collection
-date: 2024-09-11T18:28:09.690Z
-updated: 2024-09-14T18:57:46.244Z
+date: 2024-09-15T06:59:02.687Z
+updated: 2024-09-20T04:58:48.155Z
 tags:
   - games
   - tv
@@ -39,6 +39,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  But what about the longer games? Well, I will be honest; some longer games also made it to the top of the list. Here are the criteria I used to judge them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Heavyweights: Judging Which Long Games Are Worth My Time
 
  With the shortest fifteen games at the top of my list, I had a few month's worth of gaming time sorted. But there was an entire section of my games catalog I hadn't touched yet: longer games and those with continual progression. One of those two categories of games is just not something I could manage, and the MMOs immediately went out the window, as did the seasonal games like _Path of Exile_.
@@ -49,13 +56,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Games making up my steam library before I prioritized them by what I needed to play first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/my-library-before-prioritizing.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, for the longer games, I implemented a strict playtime window. A long game had exactly one hour of playtime to hook me. If I wasn't interested in the game, the characters, or the plot at the end of that playtime, I would drop it. This is where my subjectivity came in since I knew that some of these games already had weak plotlines (or none at all).
 
  Despite [being a success story as far as a recovery arc goes](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review), _No Man's Sky_ had to take the drop because it was just too much for me to even think about doing. The lack of a solid plot of the game made the experience one I could afford to avoid altogether.
@@ -65,10 +65,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After going through this process, I whittled down the 200+ games in my inventory to a little over 25 titles, all of which appealed to me and which I was looking forward to playing. I still have the other 175+ games in my library, but I'm not really as interested in playing them. Maybe when I'm bored, I'll install something and give it a go, but the priority games have already been decided.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  My Methodology Isn't Perfect
@@ -100,14 +100,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-your-fb-video-game-11-winning-strategies-for-2024/"><u>[Updated] Elevate Your FB Video Game 11 Winning Strategies for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-the-process-for-claiming-facebooks-top-tier-marker/"><u>[Updated] Unlocking the Process for Claiming Facebook’s Top-Tier Marker</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-enhanced-security-with-ring-doorbell-proplus/"><u>Comprehensive Evaluation of Enhanced Security with Ring Doorbell Pro+</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-maxoak-185wh-50000mah-power-bank-the-ultimate-all-rounder/"><u>Comprehensive Evaluation of MaxOak 185Wh / 50,000mAh Power Bank - The Ultimate All-Rounder</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-yoga-a940-laptop-analysis-and-evaluation/"><u>Comprehensive Lenovo Yoga A940 Laptop Analysis and Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-spacious-acer-chromebook-15-an-overview-for-potential-buyers/"><u>Comprehensive Review of the Spacious Acer Chromebook 15: An Overview for Potential Buyers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-best-affordable-flying-tech-today/"><u>In 2024, Best Affordable Flying Tech Today</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-foundations-of-building-your-twitter-profile/"><u>In 2024, The Foundations of Building Your Twitter Profile</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/kingdom-clashers-elite-battle-royale-games-for-2024/"><u>Kingdom Clashers Elite Battle Royale Games for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-effortless-twitpic-integration-a-video-guide/"><u>[New] 2024 Approved Effortless Twitpic Integration A Video Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-perfecting-your-snap-with-snapchats-inbuilt-editing-tools/"><u>[New] In 2024, Perfecting Your Snap with Snapchat's Inbuilt Editing Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-rules-of-engagement-on-youtube-for-2024/"><u>[Updated] Essential Rules of Engagement on YouTube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-long-does-a-20mb-video-last-for-2024/"><u>[Updated] How Long Does a 20MB Video Last for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/champions-blueprint-managing-soccer-legends-at-no-cost/"><u>Champion's Blueprint: Managing Soccer Legends at No Cost!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-uniden-r3-top-quality-design-for-long-distance-radar-alerts/"><u>Comprehensive Review of the Uniden R3 - Top-Quality Design for Long Distance Radar Alerts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-amazon-essentials-tablet-stand-a-perfect-travel-companion/"><u>Evaluating the Amazon Essentials Tablet Stand: A Perfect Travel Companion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/masterclass-on-samsungs-galaxy-note-9-a-pinnacle-achievement-for-high-resolution-big-screen-devices/"><u>Masterclass on Samsung's Galaxy Note 9: A Pinnacle Achievement for High-Resolution Big Screen Devices</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-updated-10-best-2d-animation-software-freepaid/"><u>New In 2024, Updated 10 Best 2D Animation Software Free/Paid</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/space-saga-with-a-twist-uncover-the-entertaining-story-in-the-outer-worlds/"><u>Space Saga with a Twist: Uncover the Entertaining Story in 'The Outer Worlds'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-enhance-your-iphones-cellular-connectivity-top-10-tips/"><u>Troubleshoot and Enhance Your iPhone’s Cellular Connectivity – Top 10 Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/value-meets-quality-in-the-zte-blade-a3y-an-in-depth-review-of-performance/"><u>Value Meets Quality in the ZTE Blade A^3Y - An In-Depth Review of Performance</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y28 5G? | Dr.fone</u></a></li>
 </ul></div>
 

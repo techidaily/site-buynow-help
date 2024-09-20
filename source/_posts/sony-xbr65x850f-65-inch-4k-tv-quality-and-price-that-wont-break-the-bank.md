@@ -1,7 +1,7 @@
 ---
 title: "Sony XBR65X850F (65-Inch) 4K TV: Quality & Price That Won't Break The Bank!"
-date: 2024-09-13T23:43:07.231Z
-updated: 2024-09-14T16:16:13.363Z
+date: 2024-09-15T06:36:31.493Z
+updated: 2024-09-20T10:36:32.921Z
 categories:
   - BestProducts
 description: "This Article Describes Sony XBR65X850F (65-Inch) 4K TV: Quality & Price That Won't Break The Bank!"
@@ -86,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Stick to the on-screen instructions**
@@ -99,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
@@ -110,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
  Sony has done a solid job here of making the setup process simple, or maybe we should be thanking Google for that, as this is an Android TV. All you need to do is follow along with the on-screen instructions and complete them as necessary. Using the remote, you’ll be prompted to choose a language, location, internet connection, sign into accounts, etc. Just stick to the guide.
 
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
 
@@ -140,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
 ## **Audio Quality: Loud, but distorted**
@@ -154,6 +140,19 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
  Built-in speakers are never going to be great, but they’re nice to have if you’re lacking an[external sound system](https://www.lifewire.com/connect-tv-to-external-audio-system-1846816) like a soundbar. While we’d recommend getting an external setup for the best experience, let’s take a quick look at what the XBR65X850F has to offer with the included setup.
 
  Right off the bat, this TV can get quite loud and you shouldn’t run into any volume issues. That being said, the overall experience is mediocre at best. The louder you turn it up, the more distortion is added. These speakers should suffice in quiet environments if you’re primarily looking for nice clear dialogue with treble and mid, but the bass is not so good.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: A bit sluggish but good enough**
 
@@ -176,6 +175,13 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
  On Sony’s website, the 65-inch model we tested here is listed at $1,300, the 75 at $2,300, and the 85 at a whopping $4,000\. Now these prices aren’t exactly accurate, especially since these are an older series. Typically you can find the 65-inch for about $1,100 or so. The other models are also heavily discounted depending on where you look, so definitely shop around. It’s likely that you can snag them for even less during sales.
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
@@ -224,18 +230,20 @@ thumbnail: https://thmb.techidaily.com/4e0785a6bbb7f888bb5d221bb92cd0cb4855dc6ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-transforming-vimeo-streams-into-reusable-mp3-audio/"><u>2024 Approved Transforming Vimeo Streams Into Reusable MP3 Audio</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-elite-selection-of-key-finders-reviewed/"><u>2024'S Elite Selection of Key Finders Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-lg-gram-17-blending-slim-design-with-top-tier-efficiency/"><u>A Closer Look at LG Gram 17 – Blending Slim Design with Top-Tier Efficiency</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-critical-eye-on-cosmic-conspiracies-by-aminy/"><u>A Critical Eye on Cosmic Conspiracies by Aminy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/acer-aspire-e-15-review/"><u>Acer Aspire E 15 Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/all-inclusive-evaluation-of-the-amazon-fire-hd/"><u>All-Inclusive Evaluation of the Amazon Fire HD</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic 5 Quickly | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-y28-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Y28 5G using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-top-revenue-making-youtube-visionary/"><u>In 2024, Top Revenue-Making YouTube Visionary</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cting-youtube-videos-with-angle-rotation-mastery/"><u>Perfecting YouTube Videos with Angle Rotation Mastery</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-missing-audio-in-discord-screen-shares-step-by-step-solutions/"><u>Resolving Missing Audio in Discord Screen Shares - Step-by-Step Solutions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/transform-your-avi-images-from-video-to-graphics-using-filmora-for-2024/"><u>Transform Your AVI Images From Video To Graphics Using Filmora for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wireless-audio-on-a-budget-meet-activbuds/"><u>Wireless Audio on a Budget - Meet ActivBuds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-download-your-instagram-masterpieces-easily/"><u>[Updated] Download Your Instagram Masterpieces Easily</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-hitting-1080p-quality-with-facebook-broadcasting-for-2024/"><u>[Updated] Hitting 1080P Quality with Facebook Broadcasting for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/4k-dolby-vision-enhances-the-viewing-experience-at-paris-olympics-unfortunately-peacock-is-not-on-board/"><u>4K Dolby Vision Enhances the Viewing Experience at Paris Olympics; Unfortunately, Peacock Is Not on Board</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/an-in-depth-assessment-of-the-chic-compact-anker-powercoreplus-26800-battery-setup/"><u>An In-Depth Assessment of the Chic, Compact Anker PowerCore+ 26800 Battery Setup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/blueears-trendsetting-wireless-beanie-a-fusion-of-modern-audio-tech-and-fashion-featured-review/"><u>Blueear's Trendsetting Wireless Beanie: A Fusion of Modern Audio Tech and Fashion, Featured Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-hc-v770-premium-tech-inclusion/"><u>Budget HC-V770: Premium Tech Inclusion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bybs-leading-quality-e430-led-swing-arm-light-examined-an-in-depth-review/"><u>BYB's Leading Quality E430 LED Swing Arm Light Examined: An In-Depth Review</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-camon-20-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Camon 20 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-netgear-orbi-rbs50y-ideal-outdoor-wireless-solution/"><u>Comprehensive Analysis of the Netgear Orbi RBS50Y - Ideal Outdoor Wireless Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-is-the-microsoft-sculpt-keyboard-a-smart-cost-effective-choice/"><u>Comprehensive Review: Is the Microsoft Sculpt Keyboard a Smart, Cost-Effective Choice?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/guide-to-efficiently-retrieve-youtubes-srt-files/"><u>Guide to Efficiently Retrieve YouTube's SRT Files</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-13-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 13 in the Best Ways</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solving-iphone-video-playback-issues-top-fixes-for-iphone-11-video-troubleshooting/"><u>Solving iPhone Video Playback Issues: Top Fixes for iPhone 11 Video Troubleshooting</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-g24-power-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola G24 Power Location | Dr.fone</u></a></li>
 </ul></div>
 

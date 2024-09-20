@@ -1,7 +1,7 @@
 ---
 title: "Exploring Enjoyment in 'Pokémon Diamond & Pokémon Pearl': A Guide"
-date: 2024-08-27T06:47:17.915Z
-updated: 2024-08-28T06:47:17.915Z
+date: 2024-09-19T12:18:26.596Z
+updated: 2024-09-20T02:39:03.157Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring Enjoyment in 'Pokémon Diamond & Pokémon Pearl': A Guide"
@@ -58,18 +58,12 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
  This whole introduction is slow moving and boring, and getting through it is rough. But even past this, things don’t necessarily pick up and get more interesting. The game has such a heavy hand with its narration, telling you the game’s visuals even though you can see them right there on your screen. The whole game reads like someone wrote a novel, couldn’t publish it, and then decided making a[video game](https://www.lifewire.com/best-gaming-consoles-4154610) was a better idea, and instead of trimming the fat, they left every unnecessary description and detail in the game’s prompt.
@@ -79,8 +73,12 @@ Lifewire / Kelsey Simon
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Gameplay: Dialogue prompts and effort**
 
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
@@ -110,9 +108,20 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -122,9 +131,6 @@ Lifewire / Kelsey Simon
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Competition: Other story focused RPGs**
 
  There are quite a few other games available that are story-focused RPGs besides Tides of Numenera. Wasteland 2 (view on[Amazon](https://www.amazon.com/Wasteland-2-Directors-Cut-PlayStation-4/dp/B013CQHQFU/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7C) ) is a very similar game, as it is made by the same developers, but where Numenera falls flat with its heavy-handed storytelling, Wasteland 2 stands apart with a fun, tactical combat system.
@@ -137,14 +143,6 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Torment: Tides of Numenera
@@ -153,14 +151,11 @@ Lifewire / Kelsey Simon
 * ESRB Rating  M for Mature
 * Available Platforms  PC, MaxOS,Xbox One, PlayStation 4
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -171,47 +166,20 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-quick-video-pace-adjustments-on-youtube/"><u>[New] 2024 Approved  Mastering Quick Video Pace Adjustments on YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-enhancing-images-through-automated-dynamic-range-adjustments/"><u>[New] In 2024, Enhancing Images Through Automated Dynamic Range Adjustments</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-uniting-voices-in-a-tiktok-duo/"><u>[New] Uniting Voices in a TikTok Duo</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-conquer-backward-motion-in-snapchat-videos-quickly-for-2024/"><u>[Updated] Conquer Backward Motion in Snapchat Videos Quickly for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-podcast-journey-from-creation-to-google-submission/"><u>[Updated] Seamless Podcast Journey  From Creation to Google Submission</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-subtle-sound-shifts-in-garageband-productions/"><u>2024 Approved  Subtle Sound Shifts in Garageband Productions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-excellence-the-arcshell-ar-5-user-guide-and-in-depth-assessment/"><u>Affordable Excellence: The ArcShell AR-5 User Guide & In-Depth Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/asus-vivobook-11-assessment-compact-budget-friendly-multipurpose-notebook-evaluation/"><u>Asus Vivobook 11 Assessment: Compact, Budget-Friendly, Multipurpose Notebook Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-indoor-antennas-showdown-how-the-1byone-digital-tv-signal-booster-outperforms-its-competitors-on-a-shoestring-budget/"><u>Best Indoor Antennas Showdown: How the 1BYONE Digital TV Signal Booster Outperforms Its Competitors on a Shoestring Budget</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boost-your-pcs-display-quality-by-changing-the-gpu/"><u>Boost Your PC's Display Quality by Changing the GPU</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dive-into-our-nook-glowlight-plus-review-with-barnes-and-noble-how-bigger-is-better-for-reading-devices/"><u>Dive Into Our Nook GlowLight Plus Review with Barnes & Noble: How Bigger Is Better for Reading Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-opinion-unveiling-the-elegance-and-flexibility-of-the-dell-xps-13-7390-ultrabook-review/"><u>Expert Opinion: Unveiling the Elegance and Flexibility of the Dell XPS 13 (7390) Ultrabook Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-audio-glitches-within-the-game-resident-evil-village-guide/"><u>Fixing Audio Glitches Within the Game: Resident Evil Village Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-realme-narzo-60-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme Narzo 60 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hp-stream-11-laptop-ultimate-essential-computing-on-the-go/"><u>HP Stream 11 Laptop - Ultimate Essential Computing on the Go</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/huion-inspiroy-g10t-tablet-an-ultimate-guide-to-its-exceptional-durability-and-superior-drawing-capabilities/"><u>Huion Inspiroy G10T Tablet: An Ultimate Guide to Its Exceptional Durability & Superior Drawing Capabilities</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oppo-f25-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Oppo F25 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nokia-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nokia Device SIM</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-10t-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme 10T 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-poco-c55-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Poco C55 Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-opting-for-applecareplus-coverage-worth-your-money-in-the-long-run-lets-find-out/"><u>Is Opting for AppleCare+ Coverage Worth Your Money in the Long Run? Let's Find Out</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/motorola-edgeplus-assessment-not-quite-the-pinnacle-of-premium-phones/"><u>Motorola Edge+ Assessment: Not Quite the Pinnacle of Premium Phones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-tamriel-in-the-elder-scrolls-v-skyrim-a-comprehensive-review-for-console-gamers/"><u>Navigating Tamriel in The Elder Scrolls V Skyrim - A Comprehensive Review for Console Gamers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-cutthroat-world-of-offworld-trading-tips-techniques-and-triumphs/"><u>Navigating the Cutthroat World of Offworld Trading: Tips, Techniques, and Triumphs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netatmos-smart-weather-solution-review-a-sleek-and-efficient-system-for-app-dependent-consumers/"><u>Netatmo's Smart Weather Solution Review: A Sleek and Efficient System for App-Dependent Consumers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-level-immersive-gaming-without-breaking-the-bank-exploring-the-oculus-quest-2s-worth/"><u>Next-Level Immersive Gaming without Breaking the Bank - Exploring the Oculus Quest 2'S Worth</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-obsolescence-six-ways-to-shine-in-an-ai-world/"><u>Overcoming Obsolescence: Six Ways to Shine in an AI World</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revving-up-entertainment-with-the-holy-stone-cartoon-race-car-a-thorough-review/"><u>Revving up Entertainment with the Holy Stone Cartoon Race Car - A Thorough Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sandisk-clip-jam-mp3-player-review/"><u>SanDisk Clip Jam MP3 Player Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-restoring-your-lost-connection-to-the-overwatch-server/"><u>Solution Steps: Restoring Your Lost Connection to the Overwatch Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-plugged-in-not-charging-issue-on-your-windows-surface/"><u>Solving the Plugged In, Not Charging Issue on Your Windows Surface</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/stellaris-review-a-game-of-space-exploration-empire-and-conquest/"><u>Stellaris Review: A Game of Space Exploration, Empire, and Conquest</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tech-savvy-on-a-shoestring-discover-our-in-depth-look-at-the-oneplus-nord-n1-groovy/"><u>Tech Savvy on a Shoestring? Discover Our In-Depth Look at the OnePlus Nord N1 Groovy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-value-in-smart-surveillance-an-in-depth-review-of-vuebells-economy-video-doorbells/"><u>The Best Value in Smart Surveillance: An In-Depth Review of VueBell's Economy Video Doorbells</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-microsoft-surface-pro-7-uncovered-dependable-output-with-a-few-tweak-ups/"><u>The Microsoft Surface Pro 7 Uncovered: Dependable Output with a Few Tweak-Ups</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-harmony-of-smart-tech-and-premium-sound-nest-audio-reviewed/"><u>The Perfect Harmony of Smart Tech & Premium Sound - Nest Audio Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-premium-karaoke-equipment/"><u>The Ultimate Guide to Premium Karaoke Equipment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-uninterruptible-power-supply-ups-units/"><u>Top-Rated Uninterruptible Power Supply (UPS) Units</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-twelve-south-compass-pros-ingenious-creation-for-optimal-balance/"><u>Ultimate Guide: Twelve South Compass Pro's Ingenious Creation for Optimal Balance</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-techniques-for-creating-full-sphere-photos/"><u>Ultimate Techniques for Creating Full-Sphere Photos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-apc-back-ups-pro-1500va-superior-power-protection-and-easy-battery-management-for-optimal-performance/"><u>Unlocking the Potential of APC Back-UPS Pro 1500VA - Superior Power Protection & Easy Battery Management for Optimal Performance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-ecological-architecture-merging-nature-and-city-planning/"><u>[New] 2024 Approved Ecological Architecture Merging Nature and City Planning</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-blur-out-not-your-photos-top-10-edits-to-fix-fuzziness/"><u>[New] Blur Out, Not Your Photos! Top 10 Edits to Fix Fuzziness</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-breathe-life-into-your-visual-narrative-free-text-animation/"><u>[New] Breathe Life Into Your Visual Narrative Free Text Animation</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-90-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor 90 Quickly | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-make-a-youtube-trailer/"><u>How To Make a YouTube Trailer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-the-lingo-three-steps-to-deciphering-your-youtube-earning-statements/"><u>Learn the Lingo Three Steps to Deciphering Your YouTube Earning Statements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgear-c3000-cable-modem-router-review-dated-tech/"><u>Netgear C3000 Cable Modem Router Review: Dated Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-gen-console-showdown-impressive-specs-packed-into-an-amazingly-small-xbox-series-s/"><u>Next-Gen Console Showdown: Impressive Specs Packed Into an Amazingly Small Xbox Series S</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1721467467002-no-need-for-itunes-heres-how-you-can-bring-your-iphone-back-from-the-dead/"><u>No Need for iTunes? Here's How You Can Bring Your iPhone Back From the Dead</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nvidia-shield-tv-pro-review-a-powerful-streaming-device-for-gamers/"><u>Nvidia Shield TV Pro Review: A Powerful Streaming Device for Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rediscover-android-excellence-through-the-lens-of-google-pixel-3s-detailed-evaluation/"><u>Rediscover Android Excellence Through the Lens of Google Pixel 3'S Detailed Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revealing-the-apeman-c450-review-the-premier-choice-in-budget-dashcams/"><u>Revealing the Apeman C450 Review - The Premier Choice in Budget Dashcams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/roav-dashcam-c1-by-anker-features-performance-and-benefits-unveiled/"><u>Roav DashCam C1 by Anker: Features, Performance & Benefits Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-ultimate-ebook-reader-seamlessly-converts-and-unlocks-ebook-content-everywhere/"><u>Top Picks: Ultimate eBook Reader - Seamlessly Converts and Unlocks eBook Content Everywhere!</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Affordability and Performance: The Samsung Galaxy A20's Place Among Budget Android Phones"
-date: 2024-08-27T06:46:43.705Z
-updated: 2024-08-28T06:46:43.705Z
+date: 2024-09-18T13:36:43.890Z
+updated: 2024-09-19T22:12:00.215Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring Affordability and Performance: The Samsung Galaxy A20's Place Among Budget Android Phones"
@@ -64,10 +64,6 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## **Design:** **Flexible, foldable design**
 
  The Logitech C615 is a compact webcam. The whole device folds up into a very small package, just 2.5” wide, 1.25” tall, and 1.5” wide, so you can tuck it into a pocket. When you open it up, the flexible design is simple to position. Unfolded, the webcam has three pieces: the base, neck, and[camera](https://www.lifewire.com/best-digital-cameras-under-100-3897833) . The base is the heaviest part, which means that the camera stays upright even if you don’t perfectly balance everything. The top is made out of a soft, rubbery plastic, and the bottom has a rubbery dot that keeps the base from sliding around. The dot comes off the base to reveal a tripod post, so this camera is compatible with a standard tripod. The only problem is that the dot comes off completely when the tripod post is exposed. If you're prone to losing things, this may be an issue.
@@ -83,8 +79,18 @@ Lifewire / James Huenink
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Camera Quality: Quality camera with some autofocus troubles**
 
  The camera takes 1080p video and has a 2 MP sensor. We tested the webcam’s photo capabilities by taking a picture of some packaging. Color was well represented, but the autofocus was just a bit off. The image was just a bit blurry, and we couldn’t read the smaller words at all. This wasn’t a problem close up, but it made a bigger difference when people were far away.
@@ -97,11 +103,22 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/Bko9Uk1HIIMt9aNgtBf9ATCy0AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_14_Final_Horiz-4f1b9fe91b8c4229b17dbbe6afb81b8c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Decent sound quality for a small mic**
 
  We used both[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test the performance of the C615\. It was very easy to position the camera exactly the way we wanted it, though the USB cable occasionally gave us problems. We’d swivel the camera and then the pull of the USB cable would turn the whole base so the camera pointed back at the same spot where it started.
@@ -112,16 +129,10 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Inexpensive HD camera**
 
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Competition: Acquits itself well against the competition**
 
 **_Docooler USB 2.0 12 Megapixel_ :** The Docooler USB 2.0 12 Megapixel is one of the cheapest cameras on the market, going for between $8 and $15\. But there's a reason it retails so cheaply; it's a nightmare to use, the audio quality is torturous, and the camera doesn't approach the advertised 12 MP. Despite being nearly $60 more expensive, the C615 is the obvious winner here.
@@ -138,9 +149,6 @@ Lifewire / James Huenink
 
  The Logitech C615 Webcam strikes the perfect balance between performance and affordability. The quality design, high definition video, and quality sound make this an excellent webcam for most tasks at a great price.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  C615 HD Laptop Webcam
@@ -164,8 +172,6 @@ Lifewire / James Huenink
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,46 +181,20 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-games-like-ghost-of-tsushima-you-must-try/"><u>[New] In 2024, Top 10 Games Like Ghost of Tsushima You Must Try</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-monetizing-video-content-8-essentials-for-novices/"><u>[Updated] Monetizing Video Content - 8 Essentials for Novices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-securing-the-title-top-5-hmds-for-drone-pilots/"><u>[Updated] Securing the Title  Top 5 HMDs for Drone Pilots</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-complete-how-to-for-free-countdown-timers/"><u>[Updated] The Complete How-To for Free Countdown Timers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-easy-to-follow-guide-recording-non-root-android-sounds/"><u>2024 Approved  Easy-to-Follow Guide  Recording Non-Root Android Sounds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-gopro-timelapses-top-editing-techniques/"><u>2024 Approved  Mastering GoPro Timelapses  Top Editing Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-close-look-at-why-the-m3-macbook-air-shines/"><u>A Close Look at Why the M3 MacBook Air Shines</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-apple-iphone-12-pro-max-bigger-dimensions-enhanced-performance/"><u>A Closer Look at Apple iPhone 12 Pro Max: Bigger Dimensions, Enhanced Performance?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-fresh-perspective-on-watch-dogs-evaluating-the-innovative-environment-of-legion/"><u>A Fresh Perspective on Watch Dogs: Evaluating the Innovative Environment of Legion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/anticipate-the-future-new-images-of-ai-enhanced-dell-xps-and-inspiron-laptops-with-snapdragon-processors-emerge-arriving-s-third-quarter/"><u>Anticipate the Future: New Images of AI-Enhanced Dell XPS & Inspiron Laptops with Snapdragon Processors Emerge - Arriving 'S Third Quarter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/asus-bw-16d1x-u-blu-ray-player-assessment-elegant-design-and-notable-features/"><u>Asus BW-16D1X-U Blu-Ray Player Assessment: Elegant Design and Notable Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breakdown-of-the-best-in-home-safety-a-deep-dive-into-the-arlo-video-doorbells-video-monitoring-and-alarm-capabilities/"><u>Breakdown of the Best in Home Safety: A Deep Dive Into the Arlo Video Doorbell's Video Monitoring & Alarm Capabilities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-realme-c67-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Realme C67 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-adventures-a-close-look-at-panasonics-hx-a1-for-2024/"><u>Capturing Adventures  A Close Look at Panasonic's HX-A1 for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-asus-x441ba-review-a-look-at-what-you-gain-and-lose-with-a-larger-portable-computer/"><u>Comprehensive Asus X441BA Review - A Look at What You Gain and Lose with a Larger Portable Computer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-newest-m1-chip-in-the-2021-apple-macbook-pro-16-inch/"><u>Comprehensive Evaluation of the Newest M1 Chip in the 2021 Apple MacBook Pro 16-Inch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-poweradd-pilot-pro2-multi-device-charger-is-it-worth-the-hype/"><u>Comprehensive Evaluation of the POWERADD Pilot Pro2 Multi-Device Charger - Is It Worth The Hype?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-economical-effective-rexing-v1-dash-cam/"><u>Comprehensive Review of the Economical, Effective Rexing V1 Dash Cam</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-withings-move-smartwatch-evaluation-timeless-design-meets-modern-tech/"><u>Comprehensive Withings Move Smartwatch Evaluation – Timeless Design Meets Modern Tech</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-action-cameras-clash-gopro-hero5-black-against-yi-4k-update/"><u>In 2024, Action Cameras Clash  GoPro Hero5 Black Against Yi 4K Update</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-c55-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme C55 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nintendos-console-companion-the-switch-lite-reviewed-for-gaming-on-the-go/"><u>Nintendo’s Console Companion – The Switch Lite Reviewed for Gaming On-the-Go</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oneplus-nord-n100-reviewed-a-value-packed-phone-without-breaking-the-bank/"><u>OnePlus Nord N100 Reviewed - A Value-Packed Phone Without Breaking the Bank</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/preserving-gh-meetings-live-for-2024/"><u>Preserving GH Meetings Live for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/priorities-in-picking-an-immersive-vr-device/"><u>Priorities in Picking an Immersive VR Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/razers-game-changer-a-comprehensive-review-of-the-portable-and-potent-book-n-13-laptop/"><u>Razer's Game Changer: A Comprehensive Review of the Portable and Potent Book N 13 Laptop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/redefining-audio-quality-with-samsung-galaxy-buds-pro/"><u>Redefining Audio Quality with Samsung Galaxy Buds Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/stylish-and-trendy-ride-expert-evaluation-of-the-swagtron-swagger-electric-scooter-for-urban-commuters/"><u>Stylish & Trendy Ride: Expert Evaluation of the Swagtron Swagger Electric Scooter for Urban Commuters</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-6-best-antivirus-apps-for-iphones/"><u>The 6 Best Antivirus Apps for iPhones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-hp-stream-14-unveiled-a-look-at-its-compromises-for-a-low-price-tag/"><u>The HP Stream 14 Unveiled: A Look at Its Compromises for a Low Price Tag</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-most-accurate-domestic-meteorological-devices-of-the-year-2erryson/"><u>The Most Accurate Domestic Meteorological Devices of the Year 2Erryson!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-8-mirrorless-cameras-for-vloggers-for-2024/"><u>The Ultimate Guide to 8 Mirrorless Cameras for Vloggers for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-nest-audio-sound-experience-the-ultimate-choice-for-avid-music-enthusiasts/"><u>Top Nest Audio Sound Experience: The Ultimate Choice for Avid Music Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tough-to-handle-introducing-the-nikon-w100/"><u>Tough to Handle: Introducing the Nikon W100</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-seamless-internet-access-in-the-garden-with-the-netgear-orbi-rbs50y-a-detailed-insight/"><u>Unlocking Seamless Internet Access in the Garden with the Netgear Orbi RBS50Y: A Detailed Insight</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-asus-rog-gt-ac5300-ultimate-router-for-gamers-and-tech-enthusiasts-review/"><u>Unveiling the Asus ROG GT-AC5300 - Ultimate Router for Gamers & Tech Enthusiasts Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-lenovo-tab-m10-fhd-plus-2020-top-notch-display-meets-wallet-friendly-price/"><u>Unveiling the Lenovo Tab M10 FHD Plus (2020): Top-Notch Display Meets Wallet-Friendly Price!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-potential-hands-on-review-of-ampaqs-newest-andes-1500-portable-generator/"><u>Unveiling the Power Potential: Hands-On Review of Ampaq's Newest Andes 1500 Portable Generator</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/user-friendly-guide-choosing-the-best-battery-google-wireless-nest-doorbell-model/"><u>User-Friendly Guide: Choosing the Best Battery Google Wireless Nest Doorbell Model</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-audiovisual-quality-its-significance-in-video-ranking-for-2024/"><u>[New] Audiovisual Quality Its Significance in Video Ranking for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-premiere-visionary-film-glimpses-for-2024/"><u>[New] Premiere Visionary Film Glimpses for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-premier-automatic-text-creators-from-videos/"><u>[Updated] Premier Automatic Text Creators From Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/critical-analysis-the-innovations-in-dji-phantom-3-professional/"><u>Critical Analysis The Innovations in DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-resumed-in-hp-all-in-one-after-network-fix/"><u>Printing Resumed in HP All-in-One After Network Fix</u></a></li>
+<li><a href="https://win-hot.techidaily.com/the-best-techniques-to-transform-ts-videos-into-mp4-on-pc-mac-and-via-web-services/"><u>The Best Techniques to Transform .TS Videos Into MP4 on PC, Mac and Via Web Services</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-how-the-serious-reader-can-benefit-from-kobo-formas-advanced-features/"><u>The Ultimate Review: How the Serious Reader Can Benefit From Kobo Forma's Advanced Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unobtrusive-and-cost-effective-rexing-v1-a-complete-dashcam-evaluation/"><u>The Unobtrusive and Cost-Effective Rexing V1 - A Complete DashCam Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/theodore-by-flexispot-a-chic-and-contemporary-stand-up-workspace-evaluation/"><u>Theodore by Flexispot: A Chic & Contemporary Stand-Up Workspace Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-most-advanced-voice-controlled-speakers/"><u>Ultimate Guide to the Most Advanced Voice Controlled Speakers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-high-quality-display-for-less-2020-lenovo-tab-m10-fhd-plus-reviewed/"><u>Unlocking High-Quality Display for Less: 2020 Lenovo Tab M10 FHD Plus Reviewed!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlocking-the-secrets-of-zoom-communication-practical-advice-for-successful-meetings/"><u>Unlocking the Secrets of Zoom Communication Practical Advice for Successful Meetings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-1200mbps-netgear-powerline-adapter-a-look-at-how-form-impacts-function/"><u>Unpacking the 1200Mbps Netgear Powerline Adapter: A Look at How Form Impacts Function</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-a-comprehensive-look-at-the-resilient-high-performing-unihertz-atom-xl/"><u>Unveiling the Potential: A Comprehensive Look at the Resilient, High-Performing Unihertz Atom XL</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-to-expect-from-googles-ambitious-project-gemini-in-cutting-edge-ai-research/"><u>What to Expect From Google's Ambitious Project Gemini in Cutting-Edge AI Research</u></a></li>
 </ul></div>
+

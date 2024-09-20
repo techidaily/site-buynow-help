@@ -1,7 +1,7 @@
 ---
 title: Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store
-date: 2024-09-09T02:36:49.891Z
-updated: 2024-09-15T00:35:52.613Z
+date: 2024-09-12T16:40:06.565Z
+updated: 2024-09-19T22:09:20.703Z
 tags:
   - games
   - tv
@@ -39,6 +39,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The biggest issue I've had with Epic's free games offering is how limited it is compared to competitors. Other outlets like Steam and GOG have free games and massively discounted gems spanning dozens of genres. There's something to be said when a game's price tag is free, and it still can't compete with a classic like _Celeste_ at $1.99, courtesy of [Steam's amazing sales](https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/).
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Game Saturation, or Having Too Much To Play
 
 ![8BitDo Ultimate Controller with 2.4GHz wireless.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-ultimate-c-2-4g.jpg) 
@@ -52,10 +59,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  More Marketing, Less Promise
@@ -72,13 +79,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The EGS has a long way to go before becoming as usable as storefronts like Steam. But the approach of offering weekly free games is paying off in some ways.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  There Are Some Benefits to This Approach
 
  Despite the criticisms, the strategy of offering free games has helped EGS build a significant user base. The increased number of users is good for Epic since it means that they can get more eyes on their products. What's more, offering free games seems to be working out by keeping their existing audience engaged.
@@ -89,16 +89,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The downside is that no one on Epic's side seems to check the quality of these games. While none of them are outright shovelware, a few titles make a gamer raise their eyebrows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Keep Collecting Epic's Free Games?
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
 
@@ -119,12 +119,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-easy-steps-to-transform-iphone-7-into-a-recorder/"><u>[New] 2024 Approved Easy Steps to Transform iPhone 7 Into a Recorder</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-efficient-screen-saving-solutions-in-windows-8-edition/"><u>[New] Efficient Screen Saving Solutions in Windows 8 Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-most-effective-wi-fi-extenders-on-the-market-this-year/"><u>Discover the Most Effective Wi-Fi Extenders on the Market This Year</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/embracing-enthusiasm-with-pokemon-shining-pearl-tips-for-a-rewarding-experience/"><u>Embracing Enthusiasm with Pokémon Shining Pearl - Tips for a Rewarding Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-google-stadias-features-and-opportuneby-for-growth/"><u>Evaluating Google Stadia’s Features and Opportuneby for Growth</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-deep-dive-into-effective-animoji-utilization-on-iphone-x/"><u>[Updated] A Deep Dive Into Effective Animoji Utilization on iPhone X</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-step-by-step-grab-facebook-videos-on-both-oses-for-2024/"><u>[Updated] Step-by-Step Grab Facebook Videos on Both OSes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-role-of-alternate-footage/"><u>2024 Approved Mastering the Role of Alternate Footage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-command-skills-essential-online-training/"><u>AI Command Skills: Essential Online Training</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-modules-installation-and-usage-tutorials-for-optimized-performance/"><u>ChatGPT Modules Installation & Usage Tutorials for Optimized Performance</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cookiebot-enabled-optimize-your-sites-user-experience/"><u>Cookiebot-Enabled: Optimize Your Site's User Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-breakdown-and-overview-of-the-acclaimed-anker-portable-charger-plus-26800mah-pair-review/"><u>Detailed Breakdown and Overview of the Acclaimed Anker Portable Charger + 26800mAh Pair Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-zte-blade-a3y-quality-performance-meets-budget-pricing/"><u>Review of ZTE Blade A3Y: Quality Performance Meets Budget Pricing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ricoh-theta-sc2-handhraning-360-degree-exploration/"><u>Ricoh Theta SC2: Handhraning 360-Degree Exploration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/scouring-deals-low-priced-gopro-cameras-for-2024/"><u>Scouring Deals Low-Priced GoPro Cameras for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964308084-update-or-install-zebra-printer-drivers-for-windows-latest-versions-available-now/"><u>Update or Install Zebra Printer Drivers for Windows - Latest Versions Available Now</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-online-tools-for-creating-fake-faces-for-2024/"><u>Updated Top Online Tools for Creating Fake Faces for 2024</u></a></li>
 </ul></div>
 

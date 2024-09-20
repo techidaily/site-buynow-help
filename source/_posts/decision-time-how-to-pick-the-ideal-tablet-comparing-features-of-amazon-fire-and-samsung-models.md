@@ -1,7 +1,7 @@
 ---
 title: "Decision Time: How to Pick the Ideal Tablet – Comparing Features of Amazon Fire and Samsung Models"
-date: 2024-09-14T05:47:35.861Z
-updated: 2024-09-14T20:22:59.870Z
+date: 2024-09-16T02:33:42.669Z
+updated: 2024-09-20T03:32:00.383Z
 categories:
   - BestProducts
 description: "This Article Describes Decision Time: How to Pick the Ideal Tablet – Comparing Features of Amazon Fire and Samsung Models"
@@ -91,13 +91,6 @@ Lifewire / Yoona Wagener
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Performance: Constantly monitoring movement, not performance
 
  While this streamlined device doesn’t log detailed workout metrics, the Halo has the upper hand when it comes to continuously monitoring movement—and sedentary stints throughout the day. Whether you’re sitting at a desk or venture out for an errand, the Halo will capture that and pretty accurately categorize it. It consistently registered walking and running activities, though the readout wasn’t very accurate for the latter. Truthfully, I don’t get the impression that that’s the point of the Halo.
@@ -105,6 +98,13 @@ Lifewire / Yoona Wagener
  Instead, the Halo presents all activity data through a convenient point-tracking system. The weekly goal is 150, which converts to 150 minutes of cardiovascular activity, as recommended by the American Heart Association. Periods of movement and exercise count toward this point goal, while periods of non-movement subtract from points earned. It’s a digestible system that offers a new twist on the steps or movement alert functions you’ll find in fitness trackers and[smartwatches](https://www.lifewire.com/an-introduction-to-smart-watches-3441381) from Samsung, Garmin, Fitbit, and others. This system was an encouraging reset from those reminders that sometimes feel more annoying than motivating.
 
 ![Amazon Halo](https://www.lifewire.com/thmb/FjdFyV6Y4mTXNsqccZ4aEBJNpV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_05-e671ee9f77cc4cee8e2580a2dba449d5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener.
 
@@ -126,13 +126,6 @@ Lifewire / Yoona Wagener
 
  The app makes everything from the initial setup to body scanning and voice tracking straightforward.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Battery: Enough juice to last nearly a week
 
  Amazon says that with tone tracking enabled, the band should last up to seven days on a single charge. There are two options for tracking tone: one for more accuracy and one to optimize battery life. I chose the latter and found that the band lasted for six days, which comes close to the manufacturer’s claims. I also noticed that by manually muting the mic, the battery drained far less quickly than when I left it on to listen at all times.
@@ -141,25 +134,18 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Amazon Halo vs. WHOOP Strap 3
 
@@ -173,11 +159,25 @@ Lifewire / Yoona Wagener
 
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -210,14 +210,21 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-streamlining-your-youtube-earnings-post-monetization-processes/"><u>[New] Streamlining Your YouTube Earnings Post-Monetization Processes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-revolutionize-your-income-with-these-13-reddit-tactics/"><u>[Updated] 2024 Approved Revolutionize Your Income with These 13 Reddit Tactics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/illuminating-your-android-videos-a-quick-guide-for-2024/"><u>Illuminating Your Android Videos A Quick Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-tv-essentials-step-by-step-upload-guide-for-2024/"><u>Instagram TV Essentials Step-by-Step Upload Guide for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oculus-quest-2-review-easy-excellent-vr-at-an-amazing-price/"><u>Oculus Quest 2 Review: Easy, Excellent VR at an Amazing Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/panasonics-value-videoplusfeatures-marriage/"><u>Panasonic's Value: Video+Features Marriage</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/prime-car-power-rescue-kits-2024-edition/"><u>Prime Car Power Rescue Kits 2024 Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/tomtoms-newest-bold-camera-the-bandit-2023-for-2024/"><u>TomTom's Newest Bold Camera, The Bandit 2023 for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-fixing-issues-with-realtek-rtl873b-drivers-on-your-pc/"><u>Troubleshooting Guide: Fixing Issues with Realtek RTL87#3B Drivers on Your PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-instantaneous-window-imaging-technique/"><u>[Updated] In 2024, Instantaneous Window Imaging Technique</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-economical-path-to-skype-calls-as-mp3-files/"><u>[Updated] The Economical Path to Skype Calls as MP3 Files</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-a78-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo A78 5G FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-13-pro-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 13 Pro Before the Plan Expires</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/lego-star-wars-pc-game-troubleshooting-for-skywalker-saga-update/"><u>Lego Star Wars PC Game Troubleshooting for Skywalker Saga Update</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-how-to-make-a-valentines-day-video-for-the-person-you-love/"><u>New How to Make a Valentines Day Video for the Person You Love?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-connection-errors-with-unidentified-usb-ports/"><u>Resolving Connection Errors with Unidentified USB Ports</u></a></li>
+<li><a href="https://fox-http.techidaily.com/share-and-smile-discovering-the-best-meme-designs-10/"><u>Share & Smile Discovering the Best Meme Designs #10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/skagen-falster-2-assessment-the-sophisticated-alternative-to-apple-devices/"><u>Skagen Falster 2 Assessment: The Sophisticated Alternative To Apple Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/testing-the-radpower-radcity-5plus-a-study-of-efficiency-and-its-notably-bulky-nature/"><u>Testing the RadPower RadCity 5+: A Study of Efficiency and Its Notably Bulky Nature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-cutting-edge-of-virtual-economics-a-review-of-offworld-trading-companys-empire-building-mechanics/"><u>The Cutting Edge of Virtual Economics: A Review of Offworld Trading Company's Empire-Building Mechanics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-understanding-mac-os-x-versus-windows-operating-systems/"><u>The Definitive Guide to Understanding Mac OS X Versus Windows Operating Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-endurance-challenge-for-jabra-audio-devices/"><u>The Endurance Challenge for Jabra Audio Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-of-microsoft-flight-simulator-x-gold-edition-still-soaring-high/"><u>The Ultimate Review of Microsoft Flight Simulator X: Gold Edition - Still Soaring High</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-of-symas-affordable-x5c-remote-controlled-quadcopter-for-newbies/"><u>The Ultimate Review of SYMA's Affordable X5C Remote Controlled Quadcopter for Newbies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-7-premium-mobile-plans-for-seniors-in-2n4-a-comprehensive-guide/"><u>Top 7 Premium Mobile Plans for Seniors in 2N4: A Comprehensive Guide</u></a></li>
 </ul></div>
 

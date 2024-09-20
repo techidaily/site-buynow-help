@@ -1,7 +1,7 @@
 ---
 title: "Revitalizing Disney+: Top Six Enhancements Required for Growth"
-date: 2024-09-14T03:58:44.071Z
-updated: 2024-09-14T17:09:43.890Z
+date: 2024-09-15T09:29:43.345Z
+updated: 2024-09-20T11:58:53.530Z
 tags:
   - games
   - tv
@@ -45,39 +45,32 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
 
 ![The 'Continue Watching' row on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-continue-watching-row-on-disney.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Have you ever started watching something, decided it's not for you, and then found it sticks around in your Continue Watching row for seemingly ever? Or even that shows and movies you did watch all the way through randomly reappear? You're not alone.
 
  The problem is, Disney+ has no easy way to remove something from Continue Watching. You have to skip near the end of the movie or the show's last ever episode, let it play for a bit, and then hope it disappears—a tedious and unreliable method. All it needs is a simple "Remove from row" button like Netflix.
 
  And would it be too much to ask to keep the row pinned to the top for quick access, rather than buried beneath others? Moving it around presumably helps push you into watching something new, but it's inconvenient.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4  Add More Search Filters 
 
 ![Searching on Disney+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/searching-on-disney.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you know exactly what you're looking for on Disney+, it's easy to find. You can search by title, character, genre, and actor. There are even curated collections, like "Adult Animation" and "Animals and Nature."
 
  This is all great, but it could be better. For example, you can't search by release year, duration, or age rating. If you want to combine parameters, like to find only TV shows with Mickey Mouse in, you can't do that either. The best you can do is go to the movies or series page and filter by genre, with no further search functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  Stop Releasing Episodes Weekly 
@@ -85,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
 [It's acceptable to binge-watch TV](https://os-tips.techidaily.com/how-to-retrieve-lost-viber-calls-from-your-iphone-without-a-backup-a-three-step-guide/), so it's a shame that many of Disney+'s shows release episodes weekly. While that schedule does help pace the conversation and build suspense, it also means you need to subscribe for longer if you want to keep up. Sure, you can wait until all episodes have dropped and then binge, but that requires patience.
 
  Instead, it'd be great if Disney+ released all episodes at once, and then it's entirely up to you how you watch. In fairness, this does happen for some shows like _Echo_ and _Renegade Nell_, but others like _Loki_ and _The Mandalorian_ are firmly weekly affairs.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  Rely Less on Star Wars and Marvel 
 
@@ -117,18 +117,21 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-vlc-video-record-a-critique/"><u>[New] In 2024, VLC Video Record A Critique</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-pixelpatchwork-android-and-ios-instagram-collage/"><u>[Updated] 2024 Approved PixelPatchwork Android & iOS Instagram Collage</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-audiextractoreview-free-audio-tools-new-horizon/"><u>[Updated] AudiExtractoReview Free Audio Tool's New Horizon</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-diving-deep-into-vidmas-screen-recording-features/"><u>[Updated] In 2024, Diving Deep Into Vidma's Screen Recording Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apples-latest-generational-leap-in-ipads-a-detailed-look-at-the-affordable-8th-gen-model/"><u>Apple's Latest Generational Leap in iPads: A Detailed Look at the Affordable 8Th Gen Model</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/barnes-and-noble-nook-glowlight-3-assessment-an-exceptional-device-for-reading-at-night/"><u>Barnes & Noble Nook Glowlight 3 Assessment: An Exceptional Device for Reading at Night</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/canon-sx740-hs-the-small-camera-that-does-big/"><u>Canon SX740 HS - The Small Camera That Does Big</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-kobo-clara-colour-ebook-reader-assessment-and-insights/"><u>Comprehensive Kobo Clara Colour Ebook Reader Assessment and Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-microsoft-surface-duo-expensive-yet-bug-ridden/"><u>Comprehensive Review of Microsoft Surface Duo - Expensive yet Bug-Ridden</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-lg-stylo-6-elegant-appearance-and-superior-writing-tool/"><u>Comprehensive Review of the LG Stylo 6 – Elegant Appearance and Superior Writing Tool</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-superior-ringtones-roundup-elite-download-hubs/"><u>In 2024, Superior Ringtones Roundup Elite Download Hubs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-issue-of-a-missing-wpcpdll-file-a-step-by-step-guide/"><u>Resolving the Issue of a Missing WPCP.DLL File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-join-the-fun-best-gratuitous-meme-tools-available/"><u>[New] 2024 Approved Join the Fun Best Gratuitous Meme Tools Available</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/est-camera-lenses-for-youtube-for-2024/"><u>[New] Best Camera Lenses for YouTube for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-creating-a-memorable-podcast-niche-top-ai-name-generators/"><u>[New] Creating a Memorable Podcast Niche – Top AI Name Generators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-income-monetization-through-youtube-sponsored-videos-in-2024/"><u>[New] Discovering Income Monetization Through YouTube Sponsored Videos, In 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-secrets-to-skyrocketing-your-subscriber-count/"><u>[New] Secrets to Skyrocketing Your Subscriber Count</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y27s-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-the-newest-echo-generation-see-how-it-stacks-up/"><u>A Comprehensive Review of the Newest Echo Generation - See How It Stacks Up!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-15-pro-max-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 15 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-unveiling-the-capabilities-of-garmin-vivosmart-4s-health-monitoring-tools/"><u>In-Depth Analysis: Unveiling the Capabilities of Garmin Vivosmart 4'S Health Monitoring Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/outstanding-performance-unleashed-motorola-one-5g-ace-with-lightning-fast-connectivity-and-powerful-battery/"><u>Outstanding Performance Unleashed - Motorola One 5G Ace with Lightning-Fast Connectivity & Powerful Battery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/photoscape-software-assessment-the-ultimate-guide-to-free-image-manipulation/"><u>PhotoScape Software Assessment: The Ultimate Guide to Free Image Manipulation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/soundbot-sb210-appraisal-stellar-sonic-performance-when-running-smoothly-this-winter/"><u>Soundbot SB210 Appraisal: Stellar Sonic Performance when Running Smoothly This Winter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-topmate-c32-an-unbeatable-combination-of-affordability-and-excellence-in-laptop-cooling-solutions/"><u>The TopMate C3ˈ2 - An Unbeatable Combination of Affordability and Excellence in Laptop Cooling Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-magic-6-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor Magic 6 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-discounted-offers-on-oneplus-during-prime-day-bonanza/"><u>Top Discounted Offers on OnePlus During Prime Day Bonanza</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-review-ring-doorbell-pro-plus-performance/"><u>Ultimate Review: Ring Doorbell Pro Plus Performance</u></a></li>
 </ul></div>
 
