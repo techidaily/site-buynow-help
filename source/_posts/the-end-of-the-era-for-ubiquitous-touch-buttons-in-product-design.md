@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-09-16T17:53:08.034Z
-updated: 2024-09-19T23:28:41.426Z
+date: 2024-09-25T16:36:03.149Z
+updated: 2024-09-26T16:16:33.053Z
 tags:
   - games
   - tv
@@ -31,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Capacitive Touch Buttons Are Everywhere
 
  There was a period in the late 2010s when touch buttons seemed to appear on almost everything, whether their use was justified or not. Though some manufacturers have moved away from the practice, others seem to be shoehorning capacitive panels into anything and everything.
@@ -40,6 +47,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Have you tried to buy a washing machine recently? Touch buttons are seemingly everywhere. It can be hard to find a model that _doesn’t_ use some sort of touch interface the last time I checked. Depending on where you do your laundry, humid air and wet hands will play havoc with the basic human desire for clean clothes.
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -54,6 +68,13 @@ Tim Brookes / How-To Geek
  The iPhone 7 skirted many potential problems with clever use of haptic feedback and a tactile design. Muscle memory plays a big part in an established design too, since existing iPhone users already knew where the Home button was so the user experience was identical.
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -72,10 +93,10 @@ Tim Brookes / How-To Geek
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -85,13 +106,6 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -110,5 +124,23 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-complete-guide-to-setting-up-streamlabs-obs/"><u>[New] In 2024, The Complete Guide to Setting Up Streamlabs OBS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-and-resolve-a-nonworking-or-stuck-pclaptop-keyboard-one-step-at-a-time-article-title-detailed-steps-included409-chars/"><u>How To Troubleshoot and Resolve a Nonworking or Stuck PC/Laptop Keyboard, One Step at A Time (Article Title) – Detailed Steps Included!—409 Chars</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-14-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone 14 Pro Max Stuck On Activation Lock?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-youtube-video-process-with-faster-techniques/"><u>In 2024, Streamline Your YouTube Video Process with Faster Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-15-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 15 Pro Max? How to Fix</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-diy-robot-building-in-depth-review-of-makeblocks-mbot-learning-system/"><u>Mastering DIY Robot Building: In-Depth Review of Makeblock's mBot Learning System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/microsoft-surface-pro-7-analysis-efficient-update-with-minor-enhancements/"><u>Microsoft Surface Pro 7 Analysis: Efficient Update with Minor Enhancements</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigate-roblox-error-277-successfully-expert-tips-for-players-using-pcs-updated/"><u>Navigate Roblox Error 277 Successfully: Expert Tips for Players Using PCs (Updated )</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgears-nighthawk-x4-unveiled-an-in-depth-look-at-its-efficient-wi-fi-extending-powers/"><u>Netgear's Nighthawk X4 Unveiled: An In-Depth Look at Its Efficient Wi-Fi Extending Powers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-4k-video-editing-software/"><u>New 2024 Approved Top 4K Video Editing Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/purewave-analysis-depth-resistant-audio-clarity/"><u>PureWave Analysis: Depth-Resistant Audio Clarity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-the-perfect-blend-of-elegance-and-performance-in-the-apple-imac-215/"><u>Review: The Perfect Blend of Elegance and Performance in the Apple iMac 21.5</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sabrent-compact-mouse-with-advanced-precision-a-perfect-blend-of-efficiency-and-convenience/"><u>Sabrent Compact Mouse with Advanced Precision: A Perfect Blend of Efficiency & Convenience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sing-your-favorite-songs-anywhere-a-comprehensive-guide-to-the-colorful-plug-and-play-sml38ebtbk-singing-machine/"><u>Sing Your Favorite Songs Anywhere: A Comprehensive Guide to the Colorful, Plug & Play SML38ebtbk Singing Machine</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-finding-the-password-of-your-wi-fi-connection-on-pcs-running-windows-11/"><u>Step-by-Step Instructions for Finding the Password of Your Wi-Fi Connection on PCs Running Windows 11</u></a></li>
+</ul></div>
 

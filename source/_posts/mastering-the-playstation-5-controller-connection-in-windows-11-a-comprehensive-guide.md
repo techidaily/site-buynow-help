@@ -1,7 +1,7 @@
 ---
 title: "Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide"
-date: 2024-09-17T23:38:51.535Z
-updated: 2024-09-19T18:56:52.716Z
+date: 2024-09-20T16:18:50.220Z
+updated: 2024-09-26T16:19:53.449Z
 tags:
   - games
   - tv
@@ -59,7 +59,21 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Pairing and Configuring a PS5 Controller for Steam
 
@@ -68,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  To begin, open the Steam app, click the icon in the upper-left corner, and choose "Settings."
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
@@ -85,29 +92,49 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
@@ -135,5 +162,22 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-signal-profileshots-guide-dimensions-file-type-minutes/"><u>[New] 2024 Approved Signal Profileshots Guide Dimensions, File Type, Minutes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-artists-companion-a-curated-list-of-8-premier-iphone-drawing-tools-for-2024/"><u>[New] The Artist's Companion A Curated List of 8 Premier iPhone Drawing Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/disabling-facebook-video-ad-pop-ups-quickly/"><u>Disabling Facebook Video Ad Pop-Ups Quickly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hitman-3-evaluation-the-ultimate-conclusion/"><u>Hitman 3 Evaluation: The Ultimate Conclusion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-really-measures-your-contents-popularity-for-2024/"><u>How YouTube Really Measures Your Content's Popularity for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huawei-p20-pro-review/"><u>Huawei P20 Pro Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-acurite-pro-weather-station-01036m-evaluation-user-friendly-installation-and-durable-construction/"><u>In-Depth AcuRite Pro Weather Station 01036M Evaluation: User-Friendly Installation and Durable Construction</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/indispayer-concerns-in-refurbished-electronics-purchase/"><u>Indispayer Concerns in Refurbished Electronics Purchase</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-it-worth-getting-a-new-apple-tv/"><u>Is It Worth Getting a New Apple TV?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-lg-k92-smartphone-a-justifiable-purchase-for-5g-users/"><u>Is The LG K92 Smartphone A Justifiable Purchase For 5G Users?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/jackery-powerbar-battery-pack-review-built-in-ac-outlet/"><u>Jackery PowerBar Battery Pack Review: Built-In AC Outlet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-reviving-a-broken-rec-room-microphone-in-your-pc-a-step-by-step-guide-to-success/"><u>Mastering the Fix: Reviving a Broken Rec Room Microphone in Your PC - A Step-by-Step Guide to Success!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-5-mejores-reproductores-de-video-en-4k-uhd-para-computadoras-y-macs/"><u>Top 5 Mejores Reproductores De Video en 4K UHD Para Computadoras Y Macs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-reliable-substitutes-for-safe-keepvid-pro-enabling-simple-and-secure-video-downloads/"><u>Top Reliable Substitutes for Safe KeepVid Pro Enabling Simple and Secure Video Downloads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-pro-ultimate-dvd-copying-and-conversion-tool-compatible-with-windows-10/"><u>WinX DVD Ripper Pro: Ultimate DVD Copying and Conversion Tool Compatible with Windows 10</u></a></li>
+</ul></div>
 

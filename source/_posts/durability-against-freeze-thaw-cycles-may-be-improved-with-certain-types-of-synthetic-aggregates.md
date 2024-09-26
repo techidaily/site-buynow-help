@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2024-09-17T16:53:46.403Z
-updated: 2024-09-20T14:06:43.091Z
+date: 2024-09-20T16:32:21.008Z
+updated: 2024-09-26T16:31:16.153Z
 tags:
   - games
   - tv
@@ -94,6 +94,13 @@ Jerome Thomas / How-To Geek
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
@@ -118,13 +125,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -135,28 +135,28 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Anker Nebula Capsule 3?
@@ -170,6 +170,13 @@ Jerome Thomas / How-To Geek
  But if you don’t mind hunting for the shadowy corners of a room during the day or waiting until nightfall, then there’s not much to dislike about what this projector can do. It’s a solid value from a reputable brand with modern software onboard.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -192,5 +199,20 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harness-the-power-of-insights-a-curated-list-of-instagram-performance-trackers/"><u>[New] In 2024, Harness the Power of Insights A Curated List of Instagram Performance Trackers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-auditory-alteration-on-the-go-the-top-7-mobile-voice-modification-apps/"><u>[Updated] 2024 Approved Auditory Alteration on the Go The Top 7 Mobile Voice Modification Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-polishing-up-your-past-looking-back-in-style-for-2024/"><u>[Updated] Polishing Up Your Past Looking Back in Style for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-kootek-laptop-cooler-evaluation-an-excellent-choice-for-thermal-management/"><u>Comprehensive Kootek Laptop Cooler Evaluation: An Excellent Choice for Thermal Management</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-offworld-trading-company-analysis-mastering-the-ruthless-business-game/"><u>Comprehensive Offworld Trading Company Analysis - Mastering the Ruthless Business Game</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/conquer-your-favorite-games-on-an-asus-vg245h-the-console-gamers-dream-screen/"><u>Conquer Your Favorite Games on an Asus VG245H - The Console Gamer's Dream Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-edge-connectivity-a-detailed-examination-of-the-linksys-wrt1900acs-modified-by-open-source-technology/"><u>Cutting Edge Connectivity: A Detailed Examination of the Linksys WRT1900ACS Modified by Open Source Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-elegance-a-skagen-falster-2-and-apple-comparison/"><u>Discovering the Elegance: A Skagen Falster 2 and Apple Comparison</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-smartphone-showdown-why-the-samsung-galaxy-s21-ultra-reigns-supreme-among-android-options/"><u>Elite Smartphone Showdown: Why the Samsung Galaxy S2^1 Ultra Reigns Supreme Among Android Options</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/historys-high-scorers-on-reddit-top-10-list/"><u>History's High Scorers on Reddit - Top 10 List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-glimpse-into-the-digital-frontier-todays-vr/"><u>In 2024, A Glimpse Into the Digital Frontier Today's VR</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-exceptional-7-cameras-elevating-online-educational-vlogs/"><u>In 2024, Exceptional 7 Cameras Elevating Online Educational Vlogs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/selecting-the-best-screen-recorders-of-todays-market/"><u>Selecting the Best Screen Recorders of Today's Market</u></a></li>
+</ul></div>
 

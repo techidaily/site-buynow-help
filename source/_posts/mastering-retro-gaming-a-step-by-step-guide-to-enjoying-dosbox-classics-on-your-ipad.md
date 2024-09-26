@@ -1,7 +1,7 @@
 ---
 title: "Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad"
-date: 2024-09-15T09:16:00.258Z
-updated: 2024-09-20T13:08:56.653Z
+date: 2024-09-25T16:15:00.316Z
+updated: 2024-09-26T16:00:05.128Z
 tags:
   - games
   - tv
@@ -34,16 +34,16 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The context menu to show the contents of a macOS app package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-12-46-23-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this case the .exe file was in Content > Resources > Game, so I copied the entire contents of the "game" folder to my iPad in a folder named "Jazz."
 
  As to how you can get the files on your iPad, the options are endless. You can AirDrop it from your Mac, transfer the files using a USB flash drive, email them to yourself, use iCloud. It doesn't matter where you choose to save the game files, as long as you remember it for later.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Running Your Game
 
@@ -60,15 +60,22 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![The iDOS 3 file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-file-browser.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll see a message that the game folder has been mounted as a virtual drive in iDOS. So next we want to change to that drive. Type "D:" using the on-screen keyboard and then tap on the Enter button.
 
 ![The iDOS 3 interface showing that a folder had been mounted and the drive changed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-interface-showing-that-a-folder-had-been-mounted-and-the-drive-changed.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now we've changed to drive D, and all you have to do is type the name of the executable, and then press enter. In this case, that's "Jazz.exe" but it depends on the specific game, of course.
 
@@ -86,7 +93,21 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 quick bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use the little pin icon to make it stay, but you can just tap the top edge of the screen to make it appear. Here you can tap on buttons to see a virtual mouse, keyboard, or gamepad appear on-screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Configuring Peripherals
 
@@ -96,33 +117,19 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 quick bar with blutooth icon highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar-with-blutooth-icon-highlighted.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hold the button on the controller you want to rebind, and then press the corresponding key on the virtual keyboard.
 
 ![The iDOS 3 gamepad configuration screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-gamepad-configuration-screen.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some DOS games supported joysticks or gamepads, and if you want to use your gamepad as a true controller with these games, tap on the settings gear in the iDOS 3 quick bar and choose "Settings."
 
 ![The iDOS 3 settings button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-settings-button.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then under "optional inputs" enable the gamepad option. Just remember that you'll have to set up the joystick or gamepad in the game itself, since back then games calibrated these peripherals on an individual basis.
@@ -146,5 +153,22 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oppo-a59-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Oppo A59 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ace-your-pcs-stability-addressing-and-solving-the-vcruntime140dll-error-problem/"><u>Ace Your PC's Stability: Addressing and Solving the VCRUNTIME140.dll Error Problem</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-y100-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo Y100 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-strategies-to-capture-dynamic-audio-in-video-projects/"><u>Cutting-Edge Strategies to Capture Dynamic Audio in Video Projects</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-setup-epson-xp-430-windows-drivers-a-comprehensive-tutorial/"><u>Download and Setup Epson XP-430 Windows Drivers: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-tips-for-erasing-with-photoshop/"><u>Essential Tips for Erasing with Photoshop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-power-of-affordable-innovation-with-oneplus-nord-n10-5g/"><u>Experience the Power of Affordable Innovation with OnePlus Nord N10 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-amazon-fire-hd-10-your-one-stop-media-tablet-solution/"><u>Expert Insights on the Amazon Fire HD 10: Your One-Stop Media Tablet Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-advanced-features-of-xp-pen-artist-16-pro-a-top-choice-for-illustrators/"><u>Expert Review on the Advanced Features of XP-Pen Artist 16 Pro - A Top Choice for Illustrators</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-managing-your-pets-diet-with-the-petsafe-healthy-pet-automatic-feeder/"><u>Expert Review: Managing Your Pet's Diet with the PetSafe Healthy Pet Automatic Feeder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-razer-blade-stealth-13-pioneering-ultrabook-speed-and-efficiency/"><u>Exploring the Razer Blade Stealth 13: Pioneering Ultrabook Speed and Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-timeless-appeal-of-lgs-smartwatch-with-wear-os-20-technology-reviewed/"><u>Exploring the Timeless Appeal of LG's Smartwatch with Wear OS 2.0 Technology Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/first-in-line-hefty-camera-support-examination/"><u>First-in-Line, Hefty Camera Support Examination</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-v-purse-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor V Purse</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-z-flip-5-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy Z Flip 5 Phone Hassle-Free</u></a></li>
+</ul></div>
 

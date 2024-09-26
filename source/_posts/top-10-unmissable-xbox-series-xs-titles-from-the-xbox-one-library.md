@@ -1,7 +1,7 @@
 ---
 title: Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library
-date: 2024-09-17T11:57:18.308Z
-updated: 2024-09-20T01:22:34.052Z
+date: 2024-09-24T16:01:55.054Z
+updated: 2024-09-26T16:33:01.099Z
 tags:
   - games
   - tv
@@ -28,6 +28,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Brand-new games arrive on Xbox all the time, so it's easy to forget about the many older Xbox One titles. But there are a ton of last-generation games that are worth playing again on the latest hardward thanks to some big upgrades that overhaul performance, visuals, and even features.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 _Halo: The Master Chief Collection_ 
 
 ![The campaign selection screen in Halo: The Master Chief Collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/halo-mcc.png) 
@@ -48,23 +61,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 _The Witcher 3_ is one of the highest-selling games of all time for good reason. It has been upgraded for the Series X|S with many graphical improvements such as ray-tracing and higher-resolution textures. The latest release also includes all DLC and even has some extra main game content compared to the Xbox One release.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 _DOOM Eternal_ 
 
 ![Gameplay from DOOM Eternal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/doom-eternal.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Bethesda Softworks
 
@@ -75,6 +74,13 @@ Bethesda Softworks
 ## 4 _Star Wars Jedi: Fallen Order_ 
 
 ![A cutscene from Star Wars Jedi: Fallen Order.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fallen-order.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Electronic Arts
 
@@ -96,22 +102,29 @@ Electronic Arts
 
 ![The main menu for Hellblade: Senua's Sacrifice.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hellblade.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Hellblade: Senua's Sacrifice_ is not a game that everyone is going to enjoy. Some people think it's like _Dark Souls_, but it's not really. You spend a lot of time walking around, listening to voices in your head and trying to figure out challenging puzzles. Occasionally, you get to fight some nightmarish foes, but it's not really an action game.
 
  To me, it's more of an artistic experience. _Hellblade_ is a beautiful game that delves into Norse mythology, particularly aspects of the afterlife. It's like walking through a Norse nightmare that's both eerily beautiful and terrifying. If you love games that focus on an intriguing narrative and gorgeous visuals more than anything else, you'll probably enjoy _Hellblade_.
 
  Moreover, the sequel, _Hellblade 2_, arrived in 2024\. Now is a great time to play the original game. On the Series X|S, the game is even more visually incredible, thanks to [the inclusion of ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) and other graphical upgrades.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 _Mortal Shell_ 
 
 ![Gameplay from Mortal Shell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mortal-shell.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Playstack
 
@@ -121,22 +134,29 @@ Playstack
 
 _Mortal Shell_ has an enhanced edition for the Series X|S, improving its graphical fidelity. If you're looking for a quick but rewarding Souls-like experience, give _Mortal Shell_ a shot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8 _Stellaris: Console Edition_ 
 
 ![Gameplay from Stellaris: Console Edition.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/stellaris.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Paradox Interactive
 
 [4X strategy games](https://screen-sharing-recording.techidaily.com/streamlined-strategies-for-powerpoint-recordings-for-2024/) are usually the domain of the PC gamer, but in recent years, more titles have been coming to consoles, optimized for play with a controller. Stellaris is a great example of one such game, where you'll take control of a civilization that has just reached the space age. Explore the galaxy, grow your civilization, and do pretty much whatever you want.
 
  Destroy entire worlds, conquer other empires, take over the galaxy as a sentient fungal hivemind horror: you name it, _Stellaris_ probably lets you do it. I can personally attest that _Stellaris_ plays very intuitively with a controller, which many 4X games on console can't claim. Being a strategy game, graphics aren't _that_ important, but a performance-optimized version for the X|S does exist now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9 _Cyberpunk 2077_ 
 
@@ -149,10 +169,10 @@ CD Projekt Red
  The good news is that this critically acclaimed title is in a much better state today, and it has a Series X|S version optimized for the newer hardware. It looks better, runs better, plays better, and there's a big DLC expansion available too. So if you avoided [playing _Cyberpunk 2077_](https://some-approaches.techidaily.com/updated-top-10-impressive-srt-converters-for-mac-and-windows/) due to its rough launch, now would be a great time to give it a shot on the Series X|S.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10 _Sea of Thieves_ 
@@ -182,5 +202,20 @@ Microsoft Studios
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-compreranse-google-meets-board-features-for-compelling-remote-collaboration-on-all-platforms/"><u>[New] Compreranse Google Meet's Board Features for Compelling Remote Collaboration on All Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-preferred-applications-vtubers-sonic-transformation-journey/"><u>2024 Approved Guide to Preferred Applications Vtuber's Sonic Transformation Journey</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-mice-compatible-with-ipads-a-comprehensive-review/"><u>Best Mice Compatible with IPads – A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/book-lovers-guide-to-portable-e-readers-unveiling-the-kobo-clara-hd/"><u>Book Lovers' Guide to Portable E-Readers: Unveiling the Kobo Clara HD</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canon-powershot-sx530-a-budget-friendly-starter/"><u>Canon PowerShot SX530 - A Budget-Friendly Starter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canuck-communicators-speak-up-a-critical-review-of-fongo-voip-in-canada/"><u>Canuck Communicators Speak Up: A Critical Review of Fongo VoIP in Canada</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-synology-rt2-2600ac-a-dual-function-router-with-extended-coverage-and-advanced-family-safety/"><u>Comprehensive Analysis of Synology RT2 2600Ac – A Dual-Function Router with Extended Coverage & Advanced Family Safety</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-overcoming-common-problems-on-the-facetime-platform/"><u>Expert Tips for Overcoming Common Problems on the FaceTime Platform</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-itel-a60s-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Itel A60s Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g42-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia G42 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-spanish-while-chatting-in-virtual-reality-social-spaces/"><u>Master Spanish While Chatting in Virtual Reality Social Spaces</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-calling-out-custom-gpts-in-conversations-with-chatgpt/"><u>Mastering the Art of Calling Out Custom GPTs in Conversations with ChatGPT</u></a></li>
+<li><a href="https://article-tips.techidaily.com/reviving-rare-memories-turning-photos-into-engaging-videos/"><u>Reviving Rare Memories Turning Photos Into Engaging Videos</u></a></li>
+</ul></div>
 

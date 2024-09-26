@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept"
-date: 2024-09-17T00:12:21.700Z
-updated: 2024-09-20T01:52:16.794Z
+date: 2024-09-19T16:15:45.801Z
+updated: 2024-09-26T16:23:27.539Z
 tags:
   - games
   - tv
@@ -21,11 +21,25 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
  Have you got backlog dread? Do you stare at your pile of games forlornly as you swipe your credit card once again to put even more on the pile? I'm here to tell you that your "backlog" shouldn't be weighing you down.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What’s This “Backlog” Stuff?
 
  The word "backlog" implies a couple of things, but the most pertinent things that pop into my head are "work" and "obligation." You might have a backlog of reports to work through, or a backlog of videos to edit. It's something you are obligated to do, and you're behind! So you can't really ever rest until that backlog is cleared. Applying that concept to your collection of video games feels fundamentally wrong.
 
  Games are entertainment, not an obligation. So it might be better psychologically-speaking, to stop thinking of your video game collection as a "backlog" in the first place!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Backlogs Are a Rainy-Day Blessing
 
@@ -38,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You Don’t Have to Finish All Your Games
@@ -51,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Did I waste my time playing them? No! They were fun while they lasted, and I enjoyed my time with them, but just like any healthy relationship, you need to know when the right time is to walk away.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don’t Let the Sunk Cost Fallacy Stop Your Fun
@@ -80,5 +94,24 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-quick-guide-incorporating-more-photos-into-your-instagram-story/"><u>[Updated] In 2024, Quick Guide Incorporating More Photos Into Your Instagram Story</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1-unlocking-secure-vaults-a-guide-to-activating-bitwardens-master-password-prompt-feature/"><u>1. Unlocking Secure Vaults: A Guide to Activating Bitwarden's Master Password Prompt Feature</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-foremost-pick-premium-audio-ringtone-artisans/"><u>2024 Approved Foremost Pick Premium Audio Ringtone Artisans</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-the-directors-cut-edition-the-thrilling-world-of-wasteland-2-revisited/"><u>A Comprehensive Review of the Director's Cut Edition: The Thrilling World of Wasteland 2 Revisited</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-elite-vr-with-the-new-oculus-quest-2-an-in-depth-review/"><u>Affordable Elite VR with the New Oculus Quest 2 – An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-security-alerts-with-iseebell-top-under-50-video-doorbells-comparison/"><u>Affordable Security Alerts with ISeeBell - Top Under $50 Video Doorbells Comparison</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/archer-c50-by-tp-link-balancing-price-and-performance-in-a-wifi-router/"><u>Archer C50 by TP-Link: Balancing Price and Performance in a WiFi Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-samsung-galaxy-tab-s3-is-it-a-continued-worthy-choice-for-consumers/"><u>Assessing the Samsung Galaxy Tab S3: Is It a Continued Worthy Choice for Consumers?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/blog-promotion-strategies-how-buyselladscom-can-help-you-profit/"><u>Blog Promotion Strategies: How buySellAds.com Can Help You Profit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-wi-fi-booster-an-experts-take-on-the-tp-link-re200-ac750/"><u>Budget-Friendly Wi-Fi Booster: An Expert's Take on the TP-Link RE200 Ac750</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-10-drone-fleet-capturing-visuals-in-new-light/"><u>Elite 10-Drone Fleet Capturing Visuals in New Light</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-memory-error-12707-in-call-of-duty-modern-warfare-3/"><u>How to Resolve Memory Error 12707 in Call of Duty: Modern Warfare 3</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-lameencdll-compatibility-errors-in-mp3-encoding-software-audacity/"><u>Overcoming lame_enc.dll Compatibility Errors in MP3 Encoding Software (Audacity)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-13t-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi 13T Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-to-enhanced-widget-display-interface-in-windows-11/"><u>Transitioning to Enhanced Widget Display Interface in Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/watching-free-hdtv-heres-what-you-need-to-know-about-amazonbasics-antennas/"><u>Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+</ul></div>
 

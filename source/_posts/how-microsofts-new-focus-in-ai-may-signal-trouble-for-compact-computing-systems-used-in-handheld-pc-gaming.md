@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
-date: 2024-09-12T20:01:04.054Z
-updated: 2024-09-20T13:57:08.464Z
+date: 2024-09-25T16:12:19.102Z
+updated: 2024-09-26T16:21:27.068Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
 
  By far the most popular chips powering the current generation of [handheld gaming PCs](https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-devices-by-toms-authority-in-hardware/) are AMD’s [APUs](https://youtube-videos.techidaily.com/diy-split-screen-video-tutorials-for-youtube-enthusiasts-for-2024/), which combine a powerful mobile [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) with a potent [integrated](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/) [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/), allowing these handheld devices to run the latest and greatest games.
@@ -30,6 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The result is that even the most powerful APUs out there, such as the Z1 Extreme found in the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), have a sizably lower memory bandwidth compared to modern discrete GPUs, even the bottom-of-the-barrel models such as the AMD Radeon RX 6400\. As an example, the maximum memory bandwidth of the ROG Ally is 51.20GB/s, while the RX 6400 has a maximum bandwidth of 128.0GB/s.
 
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _AMD_
 
@@ -66,10 +80,10 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
@@ -83,10 +97,10 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -118,5 +132,17 @@ Qualcomm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-synthesizing-elements-crafting-a-captivating-youtube-video-start/"><u>[Updated] Synthesizing Elements Crafting a Captivating YouTube Video Start</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unveiling-the-power-of-vsco-color-grading/"><u>[Updated] Unveiling the Power of VSCO Color Grading</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-solving-lost-ark-startup-issues-latest-fixes-for-2eruary-2024/"><u>Comprehensive Guide: Solving Lost Ark Startup Issues – Latest Fixes for 2Eruary 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/youtube-end-screen-templates-plushow-tos-for-2024/"><u>Free YouTube End Screen Templates [+How-Tos] for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/learning-to-capture-virtual-conferences-without-costs-for-2024/"><u>Learning to Capture Virtual Conferences Without Costs for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/localize-ai-art-creation-with-stable-diffusion-on-your-personal-computer/"><u>Localize AI Art Creation with Stable Diffusion on Your Personal Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/spk10-037-kit-a-bright-idea-versatranexity-comes-packaged-in-light/"><u>SPK10-037 Kit - A Bright Idea, Versatranexity Comes Packaged in Light</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stay-fit-with-the-new-generation-tracker-the-fitbit-versa-3-packed-with-inbuilt-gps-and-health-apps/"><u>Stay Fit with the New Generation Tracker - The Fitbit Versa 3, Packed with Inbuilt GPS & Health Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-asus-bw-16d1x-u-in-focus-reviewing-its-chic-design-and-distinctive-quirks/"><u>The Asus BW-16D1X-U in Focus: Reviewing Its Chic Design and Distinctive Quirks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-home-theater-pcs-of-2024/"><u>The Best Home Theater PCs of 2024</u></a></li>
+</ul></div>
 

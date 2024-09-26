@@ -1,7 +1,7 @@
 ---
 title: Inside My Adventure in 3D-Printed LEGO Creations – Surprising Outcomes Revealed
-date: 2024-09-18T23:18:43.894Z
-updated: 2024-09-20T09:21:17.616Z
+date: 2024-09-24T16:18:34.347Z
+updated: 2024-09-26T16:34:10.093Z
 tags:
   - games
   - tv
@@ -27,16 +27,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Not that LEGO let this happen without a fight, its failed legal battles with companies like Mega Blocks make for [fascinating reading](https://www.nytimes.com/2005/02/02/business/worldbusiness/building-a-legal-case-block-by-block.html). For our purposes here, all you need to know is that regular folks making LEGO models for 3D printing is fine, as long as they don't pretend to be real LEGO or use the company's trademarks.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Where to Find Brick Model Files
 
  If you have the talent and the time, nothing's stopping you from firing up your favorite CAD program and whipping up your own LEGO, but luckily plenty of people have already done the hard work for us. In this case I used FaronMentink's [LEGO compatible bricks](https://www.thingiverse.com/thing:5447694/files) found on Thingiverse, but if those don't work for you, there are numerous other options on Thingiverse and other websites that host files for 3D printing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Printer, Setup, Material, & Settings
 
@@ -45,10 +45,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  As far as possible, I try to avoid using supports for my prints, because they leave markers on the model that require cleaning later. So I've printed these bricks in place, right-way-up to ensure there are no overhangs that would fail. However, some more exotic brick types might need supports, which you'll have to generate using your 3D printing software.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Results
@@ -58,6 +64,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  My second print, with glue properly applied, went through without a hitch. I used black satin PLA, and although the layer lines are apparent, overall the bricks look pretty good!
 
 ![Two 3D-printed LEGO-compatible bricks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/bad-blocks.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek
 
@@ -72,6 +85,13 @@ Sydney Louw Butler/How-To Geek
 Sydney Louw Butler/How-To Geek
 
  After printing out two test blocks, I got a pretty decent fit with real LEGO, but an incredible fit between the 3D-printed blocks themselves. In fact, they may be a little _too_ tight-fitting because them to come apart is much harder than with real LEGO. I can however, see myself printing out enough bricks to complete a build using this particular set, knowing that it won't fall apart.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Printed LEGO Rabbit Hole
 
@@ -94,5 +114,17 @@ Sydney Louw Butler/How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-digital-directors-diary-an-in-depth-look-at-capturing-live-tv-on-windows-pc/"><u>[New] Digital Director's Diary An In-Depth Look at Capturing Live TV on Windows PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-blueprint-for-seamless-integration-of-instagram-and-tiktok/"><u>[New] In 2024, Blueprint for Seamless Integration of Instagram and TikTok</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movmp4hevcmkv4kwinxdvd/"><u>最新動画プレイヤーソリューション：MOV、MP4、HEVC、MKVファイルと4Kコンテンツを効率良く再生するWinXDVDのヒント</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-the-free-and-professional-ui-kit-from-creative-tim-with-bootstrap-4/"><u>Discover the Free & Professional UI Kit From Creative Tim with Bootstrap 4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-sheet-tasks-through-ai-integration/"><u>Streamlining Sheet Tasks Through AI Integration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-cut-and-cover-method-is-most-suitable-for-shallow-tunnels-but-can-be-very-disruptive-due-to-the-surface-excavation-required/"><u>The Cut-and-Cover Method Is Most Suitable for Shallow Tunnels but Can Be Very Disruptive Due to the Surface Excavation Required.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-free-clip-art-licenses-for-2024/"><u>The Ultimate Guide to Free Clip Art Licenses for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-of-premium-smart-speakers-for-a-smarter-home-2024-edition/"><u>The Ultimate Selection of Premium Smart Speakers for a Smarter Home, 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/trustworthy-and-powerful-an-in-depth-look-at-the-m-mooc-1000a-peak-capacity-car-jump-starter/"><u>Trustworthy & Powerful: An In-Depth Look at the M MOOC 1000A Peak Capacity Car Jump Starter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-capabilities-of-the-orbi-whole-home-wi-fi-system-a-detailed-review-on-performance-and-reliability/"><u>Uncovering the Capabilities of the Orbi Whole Home Wi-Fi System - A Detailed Review on Performance and Reliability</u></a></li>
+</ul></div>
 

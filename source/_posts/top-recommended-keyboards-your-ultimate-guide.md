@@ -1,7 +1,7 @@
 ---
 title: "Top Recommended Keyboards : Your Ultimate Guide"
-date: 2024-09-15T17:40:54.552Z
-updated: 2024-09-19T23:00:29.469Z
+date: 2024-09-22T16:19:56.774Z
+updated: 2024-09-26T16:28:45.598Z
 tags:
   - buying-guides
 categories:
@@ -76,13 +76,40 @@ Best Mac Keyboard
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Best Keyboard Overall: [Keychron Q6](https://www.amazon.com/Keychron-Mechanical-Programmable-Hot-swappable-Compatible/dp/B09MMXSFR2?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Keychron-Mechanical-Programmable-Hot-swappable-Compatible/dp/B09MMXSFR2?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
 
 [![Keychron Q6 closeup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Keychron-Q6.jpg) Keychron](https://www.amazon.com/Keychron-Mechanical-Programmable-Hot-swappable-Compatible/dp/B09MMXSFR2?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [](https://www.amazon.com/Keychron-Mechanical-Programmable-Hot-swappable-Compatible/dp/B09MMXSFR2?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
@@ -156,25 +183,11 @@ Looking to save some money? You can grab Logitech's basic keyboard and mouse com
 
 [$26 at Amazon](https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) [Walmart](https://www.walmart.com/ip/Logitech-Wireless-Keyboard-Mouse-Combo-Windows-2-4-GHz-Wireless-Compact-Mouse-8-Multimedia-Shortcut-Keys-2-Year-Battery-Life-PC-Laptop/605403536) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Wired Gaming Keyboard: [Wooting 60HE](https://next.wooting.io/wooting-60he) 
 
 [](https://next.wooting.io/wooting-60he)
 
 [![Wooting 60HE graphic](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Wooting-60HE.jpg) Wooting](https://next.wooting.io/wooting-60he)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://next.wooting.io/wooting-60he) 
 
@@ -211,6 +224,13 @@ Best Wired Gaming Keyboard
 The Wooting 60HE is the best gaming keyboard on the market thanks to its analog Hall Effect switches, excellent software that comes with plethora of customization options, high-end PBT keycaps, superb build quality, factory lubed stabilizers, and a universal tray mount that supports various custom 60% keyboard housings.
 
 [See at Wooting](https://next.wooting.io/wooting-60he) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Best Wireless Gaming Keyboard: [Logitech G915 TKL](https://www.amazon.com/Logitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC/dp/B085RFFC9Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
@@ -267,6 +287,13 @@ The Logitech K380 on a white desk.
 
 ![logitech K380](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/logitech-k380.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best Bluetooth Keyboard
@@ -278,6 +305,13 @@ $27 $40 Save $13
 If you can live with its small size, the Logitech K380 is a great Bluetooth keyboard that supports three simultaneous connections.  
   
 [$27 at Amazon](https://www.amazon.com/Logitech-K380-Multi-Device-Bluetooth-Keyboard/dp/B0148NPH9I?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Best Ergonomic Keyboard: [Logitech ERGO K860 Wireless Ergonomic Keyboard](https://www.amazon.com/Logitech-Wireless-Ergonomic-Keyboard-Wrist/dp/B07ZWK2TQT?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
@@ -315,13 +349,6 @@ The Logitech ERGO K860 is a highly adjustable, features a split keyframe design,
 [](https://www.amazon.com/Logitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC/dp/B085RFFC9Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
 
 [![Logitech TKL on black and blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/best-keyboards-logitech-tkl.jpg) Logitech](https://www.amazon.com/Logitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC/dp/B085RFFC9Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://www.amazon.com/Logitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC/dp/B085RFFC9Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
@@ -387,6 +414,13 @@ Looking to save a little space on your desk, but don't want to give up too many 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best 60% Keyboard
 
 #####  Wooting 60HE
@@ -400,19 +434,6 @@ Aside from being the best gaming keyboard around, the Wooting 60HE is also an im
 [](https://www.amazon.com/Apple-Magic-Keyboard-English-Silver/dp/B09BRDXB7N?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
 
 [![Apple Mage Keyboard on yellow background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/best-keyboards-apple-magic-keyboard.jpg) Apple](https://www.amazon.com/Apple-Magic-Keyboard-English-Silver/dp/B09BRDXB7N?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://www.amazon.com/Apple-Magic-Keyboard-English-Silver/dp/B09BRDXB7N?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) 
 
@@ -434,6 +455,13 @@ Aside from being the best gaming keyboard around, the Wooting 60HE is also an im
 
 ![Apple Magic Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-magic-keyboard.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best Mac Keyboard
@@ -445,13 +473,6 @@ If you're a Mac user, you will probably want to stick with Apple accessories, an
 [$99 at Amazon](https://www.amazon.com/Apple-Magic-Keyboard-English-Silver/dp/B09BRDXB7N?tag=hotoge-20&ascsubtag=UUhtgUeUpU209412&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F739984%2Fbest-keyboard%2F&asc%5Fcampaign=Commerce) [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple__magic_keyboar%2F6474573.p%3FskuId%3D6474573) [Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.target.com%2Fp%2Fapple%255Fmagic%255Fkeyboard%2F-%2FA-84097821) 
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is the keyboard shortcut for undo?
 
@@ -503,5 +524,26 @@ If you're a Mac user, you will probably want to stick with Apple accessories, an
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-cutting-edge-image-vault-websites/"><u>[New] 2024 Approved Cutting-Edge Image Vault Websites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-exclusive-screen-time-delight-with-these-top-offline-games-for-2024/"><u>[Updated] Exclusive Screen Time Delight with These Top Offline Games for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mac-high-quality-video-and-audible-recording/"><u>[Updated] In 2024, Mac High-Quality Video & Audible Recording</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-beat-exploring-sandisk-clip-jams-features/"><u>Budget Beat: Exploring SanDisk Clip Jam's Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-redmi-note-13-pro-5g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Redmi Note 13 Pro 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-switch-to-a-free-community-based-dns-server-your-complete-resource/"><u>How to Switch to a Free Community-Based DNS Server - Your Complete Resource</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-f23-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo F23 5G Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-12-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi 12 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-art-of-preview-on-mac-a-hidden-gem-in-image-editing/"><u>Mastering the Art of Preview on Mac: A Hidden Gem in Image Editing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/microsoft-surface-pro-7-examined-reliable-upgrade-with-familiar-features/"><u>Microsoft Surface Pro 7 Examined: Reliable Upgrade with Familiar Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-city-fast-with-gotraxs-gxl-v2-electric-scooter-our-comprehensive-guide/"><u>Navigating the City Fast with Gotrax's GXL V2 Electric Scooter – Our Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-playing-field-embrace-the-philips-evnias-49-oled-curved-monitor/"><u>Next-Level Playing Field: Embrace the Philips Evnia's 49 OLED Curved Monitor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/owc-mercury-pro-assessed-top-tier-performance-in-solid-state-drives/"><u>OWC Mercury Pro Assessed: Top-Tier Performance in Solid State Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/partner-with-local-organizations-for-community-projects-that-align-with-your-corporate-social-responsibility-goals-and-can-improve-the-lives-of-those-affect14/"><u>Partner with Local Organizations for Community Projects that Align with Your Corporate Social Responsibility Goals and Can Improve the Lives of Those Affected by Environmental Issues.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/portable-performance-showdown-a-closer-look-at-the-razer-blade-pro-17/"><u>Portable Performance Showdown: A Closer Look at the Razer Blade Pro 17</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retracing-digital-footprints-your-comprehensive-guide-to-the-wayback-machine/"><u>Retracing Digital Footprints: Your Comprehensive Guide to the Wayback Machine</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-viewing-experience-with-the-202n-apple-tv-4k-an-in-depth-review/"><u>Revolutionize Your Viewing Experience With The 202N Apple TV 4K - An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-urban-transit-the-gotrax-gxl-v2-e-scooters-performance-and-review/"><u>Revolutionizing Urban Transit: The Gotrax GXL V2 E-Scooter's Performance and Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ricohs-theta-sc2-explores-new-dimensions/"><u>Ricoh's Theta SC2 Explores New Dimensions</u></a></li>
+</ul></div>
 

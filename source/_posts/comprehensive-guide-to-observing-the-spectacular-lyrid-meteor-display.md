@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Observing the Spectacular Lyrid Meteor Display
-date: 2024-09-12T22:36:38.355Z
-updated: 2024-09-20T06:28:50.509Z
+date: 2024-09-19T16:22:44.813Z
+updated: 2024-09-26T16:03:00.154Z
 tags:
   - games
   - tv
@@ -19,6 +19,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Watch the Lyrid Meteor Shower](https://desktop-recording.techidaily.com/updated-unleashing-creativity-how-to-master-io-screen-capture-for-2024/)
 * [How to Photograph the Lyrid Meteor Shower](https://facebook-video-share.techidaily.com/2024-approved-youtube-fixed-shorts-are-now-easily-accessible/)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Lyrid meteor shower occurs annually from April 14-30, peaking on April 22-23.
@@ -27,21 +40,47 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While January to March offers some of the darkest skies for stargazing in the Northern Hemisphere, it's when meteor showers are at their quietest. That's why we're really excited about the upcoming Lyrid meteor shower. Let's look at what it is, how you can see it, and how to capture it on camera.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What and Where Is the Lyrid Meteor Shower?
 
  The Lyrid meteor shower is caused by small pieces of debris falling from and trailing behind the C/1861 G1 (Thatcher) comet, which was discovered by amateur astronomer A. E. Thatcher in 1861\. As the Earth passes through Thatcher's solar orbit, the trailing debris collides with our atmosphere to create a stunning meteor display. It's called the Lyrid meteor shower because the shoots of light appear to originate near the [Lyra constellation](https://en.wikipedia.org/wiki/Lyra), but in fact, the shower has nothing to do with Lyra other than this apparent positional coherence.
 
  Our planet passes through Thatcher's trail once a year in April. More specifically, it lasts from April 14-30, peaking on the night of April 22-23\. The Lyra constellation is best viewable in Northern-Hemisphere skies, and the Lyrid meteor shower's radiant point is far north on the sky's dome. While you might see some meteors if you're in Cape Town or Canberra, you're more likely to appreciate its spectacle in Montreal, Memphis, and Manchester.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Watch the Lyrid Meteor Shower
 
 ![The Cygnus constellation, with Deneb and Albireo highlighted, and the Lyra constellation, with Vega highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cygnus-constellation-2711349.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 BBC Sky at Night
@@ -57,13 +96,6 @@ BBC Sky at Night
  Once you've located a safe spot, grab a mug of something hot, set a blanket on the ground, and simply look upwards. Be warned: blink, and you might miss one. You might even have to wait an hour before witnessing this astronomical spectacle—meteor showers are frustratingly unpredictable—but if you're patient (and lucky), you can expect to see between 10 and 30 an hour in the right conditions. Your eyes will need to take time to adjust to the darkness, anyway, so waiting around for a while won't do any harm.
 
  The biggest final obstacles to shooting star success are things you can't control. First, the moon will be in its waxing gibbous phase as the meteor shower hits its peak (the full moon is on April 24th), so you can expect some unwanted light to obscure your view of the faintest meteors. Try to plan your time between the setting of the moon and the rising of the sun (between 5 am and 6 am on April 23rd) for the darkest skies. Second, clouds—the biggest thorn in any stargazer's side. But remember, all things being well, you'll catch some shooting stars at some point between April 14-30 if you find the right conditions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Photograph the Lyrid Meteor Shower
 
@@ -90,5 +122,21 @@ BBC Sky at Night
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-assemble-and-build-your-own-google-vr-viewing-device/"><u>[New] 2024 Approved Assemble and Build Your Own Google VR Viewing Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-seamless-integration-of-snap-camera-in-video-conferencing-tools/"><u>[New] In 2024, Seamless Integration of Snap Camera in Video Conferencing Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-secrets-unveiled-the-top-10-for-dominating-in-tiktok-marketing/"><u>[Updated] In 2024, Secrets Unveiled The Top 10 for Dominating in TikTok Marketing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quick-steps-to-document-your-youtube-creations-for-2024/"><u>[Updated] Quick Steps to Document Your YouTube Creations for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/laugh-out-loud-meme-making-techniques-for-2024/"><u>Laugh Out Loud Meme-Making Techniques for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/molecular-research-may-uncover-biomarkers-for-predicting-treatment-response-and-identifying-patients-at-risk-for-severe-complications-from-cancer-induced-bo109/"><u>Molecular Research May Uncover Biomarkers for Predicting Treatment Response and Identifying Patients at Risk for Severe Complications From Cancer-Induced Bone Disease.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-tablet-shopping-consider-these-8-important-tips-first/"><u>Navigating Tablet Shopping? Consider These 8 Important Tips First!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/nights-tale-videos-critical-take-for-2024/"><u>Night's Tale Videos Critical Take for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-panning-top-techniques-for-cricket-live-views/"><u>Perfect Panning Top Techniques for Cricket Live Views</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pet-cube-reveals-how-to-keep-families-together-anywhere/"><u>Pet Cube Reveals How to Keep Families Together Anywhere</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/practical-insights-on-msis-pro-mp161-e2-mobile-display-unit/"><u>Practical Insights on MSI's Pro MP161 E2 Mobile Display Unit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-evaluation-of-the-xp-pen-artist-16-pro-sketchpad/"><u>Professional Evaluation of the XP-Pen Artist 16 Pro Sketchpad</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-gif-creation-journey-unveiling-the-ultimate-9-tools-of-memetic-ingenuity-for-2024/"><u>The GIF Creation Journey Unveiling the Ultimate 9 Tools of Memetic Ingenuity for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-fix-swtor-wont-start-up/"><u>Troubleshooting: How to Fix 'SWTOR Won't Start Up'</u></a></li>
+</ul></div>
 

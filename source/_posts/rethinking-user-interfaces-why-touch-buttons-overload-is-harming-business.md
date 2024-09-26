@@ -1,7 +1,7 @@
 ---
 title: "Rethinking User Interfaces: Why Touch Buttons Overload Is Harming Business"
-date: 2024-09-15T23:00:37.913Z
-updated: 2024-09-19T17:28:12.397Z
+date: 2024-09-20T16:14:09.986Z
+updated: 2024-09-26T16:09:51.348Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Problem With Capacitive Touch Buttons
 
  Two things around the house routinely make me reach for the swear jar: cables and touch buttons. Cables are an unavoidable fact of life, the bane of [anyone who appreciates a nice clean setup](https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-profile-video-attraction/). But touch buttons are a deliberate choice.
@@ -30,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
  If you’ve got wet hands, forget about it. If your hands are slightly damp, you’re rolling the dice on a 50-50 chance of success. If the button gets wet, who knows what will happen? Sometimes you don’t need moisture for these buttons to behave erratically, they just go haywire.
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
 
@@ -55,13 +75,6 @@ Tim Brookes / How-To Geek
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  But this logic doesn’t extend to every device. Though the argument for longevity is a valid one, did we trade usability for reliability? And is that trade-off worth it?
@@ -78,6 +91,13 @@ Tim Brookes / How-To Geek
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Occasionally the PS4 would turn itself on randomly, for seemingly no reason. Worse still, the console could randomly turn itself off or eject the disc for no reason. Add to this the constant threat of curious dog and cat noses that are perfect for triggering capacitive touch buttons, and the fact that it was way too easy to trigger these buttons when cleaning or simply walking past.
@@ -87,10 +107,10 @@ Tim Brookes / How-To Geek
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
@@ -110,5 +130,19 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-blueprint-for-a-viral-solitary-audio-experience/"><u>[New] Blueprint for a Viral Solitary Audio Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-clearer-horizons-the-ultimate-tweet-video-viewing-guide/"><u>[New] In 2024, Clearer Horizons The Ultimate Tweet Video Viewing Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-sidestep-the-norm-alternatives-to-vidma-screen-record/"><u>[New] In 2024, Sidestep the Norm Alternatives to Vidma Screen Record</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tips-for-capturing-high-quality-gaming-sessions/"><u>[Updated] 2024 Approved Tips for Capturing High-Quality Gaming Sessions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-guide-to-the-lg-bp350-visual-experience/"><u>2024 Approved Ultimate Guide to the LG BP350 Visual Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easeful-correction-unused-nvidia-monitor/"><u>Easeful Correction: Unused NVIDIA Monitor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/genetic-regulatory-networks-controlling-sporulation-are-complex-and-involve-multiple-feedback-loops-and-signaling-pathways/"><u>Genetic Regulatory Networks Controlling Sporulation Are Complex and Involve Multiple Feedback Loops and Signaling Pathways.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/harnessing-sunlight-safely-comprehensive-analysis-of-pure-sine-wave-generator-by-aeiusy-tailored-for-critical-medical-appliances/"><u>Harnessing Sunlight Safely: Comprehensive Analysis of Pure Sine Wave Generator by Aeiusy, Tailored for Critical Medical Appliances</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-topmate-c302-cools-your-laptop-without-breaking-the-bank-in-depth-review/"><u>How the TopMate C302 Cools Your Laptop Without Breaking the Bank: In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-select-the-ideal-iphone-for-serious-gamers-top-picks-revealed/"><u>How to Select the Ideal iPhone for Serious Gamers - Top Picks Revealed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-asus-rog-phone-8-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Asus ROG Phone 8 Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-smart-tv-app-malfunction-diagnosis-and-solutions/"><u>Samsung Smart TV App Malfunction: Diagnosis and Solutions</u></a></li>
+</ul></div>
 

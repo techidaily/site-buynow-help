@@ -1,7 +1,7 @@
 ---
 title: Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store
-date: 2024-09-12T16:40:06.565Z
-updated: 2024-09-19T22:09:20.703Z
+date: 2024-09-20T16:31:37.850Z
+updated: 2024-09-26T16:38:01.124Z
 tags:
   - games
   - tv
@@ -29,9 +29,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  A steady drip of niche, free games continued through 2023 and into 2024\. This year, we've seen some dismal free offerings, including in-game items to try to get more people interested in games they already don't care about.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Epic's Free Games Are Repetitive and Lack Variety
 
 ![Screenshot of Epic Games Store browsing page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/156005c5-5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As someone open to new gaming experiences, I'm always willing to try out something new, assuming it falls into one of the genres I enjoy. Many recent free games fall into this category, like indie puzzlers or management simulators, which do not necessarily appeal to all gamers. While some of them appeal to me, there can be too much of a good thing.
 
@@ -40,10 +54,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The biggest issue I've had with Epic's free games offering is how limited it is compared to competitors. Other outlets like Steam and GOG have free games and massively discounted gems spanning dozens of genres. There's something to be said when a game's price tag is free, and it still can't compete with a classic like _Celeste_ at $1.99, courtesy of [Steam's amazing sales](https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Game Saturation, or Having Too Much To Play
@@ -57,13 +71,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This backlog can significantly impact user engagement. With so many unplayed games, users become less inclined to download new ones, even free ones. The novelty wears off, and the incentive to log into the store regularly diminishes. I only remember to log in to EGS when the notification reminds me to.
 
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  More Marketing, Less Promise
 
@@ -94,10 +101,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
@@ -117,5 +124,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-revamping-screens-recording-the-future-on-spring/"><u>[New] In 2024, Revamping Screens Recording The Future on Spring</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-recording-reviewers-circle-downloads-for-critique/"><u>[Updated] In 2024, Recording Reviewers Circle Downloads for Critique</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-capabilities-upgrading-to-macos-sierra/"><u>[Updated] Maximizing Capabilities Upgrading to macOS Sierra</u></a></li>
+<li><a href="https://facebook.techidaily.com/develop-a-strong-brand-voice-through-engaging-video-content-for-facebook/"><u>Develop a Strong Brand Voice Through Engaging Video Content for Facebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-g22-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia G22 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-the-most-common-icloud-challenges-for-iphone-and-ipad-users-fix-them-here/"><u>Tackling the Most Common iCloud Challenges for iPhone and iPad Users – Fix Them Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steam-solutions-for-helldivers-2-failure-to-start/"><u>Troubleshooting Steam: Solutions for Helldivers 2 Failure to Start</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-the-elite-selection-of-smartwatches/"><u>Ultimate Guide: The Elite Selection of Smartwatches</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-value-the-alcatel-joy-tab-2-lte-tablet-for-cost-conscious-buyers-a-detailed-assessment/"><u>Unlocking Value: The Alcatel Joy Tab 2 LTE Tablet for Cost-Conscious Buyers – A Detailed Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-apples-2021-macbook-pro-an-in-depth-review-of-the-16-inch-model-featuring-the-revolutionary-m1-chip/"><u>Unveiling Apple's 2021 MacBook Pro: An In-Depth Review of the 16-Inch Model Featuring the Revolutionary M1 Chip</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-of-acer-aspire-e-15-the-ultimate-savings-without-compromise-in-laptops/"><u>Unveiling the Benefits of Acer Aspire E 15 – The Ultimate Savings Without Compromise in Laptops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-huawei-mediapad-m5-a-masterpiece-for-enthusiasts-in-visual-and-auditory-pleasure/"><u>Unveiling the Features of the Huawei MediaPad M5 - A Masterpiece for Enthusiasts in Visual and Auditory Pleasure</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-king-of-modern-consoles-an-in-depth-look-at-xbox-one-x/"><u>Unveiling the King of Modern Consoles: An In-Depth Look at Xbox One X</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-new-imac-m1-a-revolution-in-computing-efficiency-and-design/"><u>Unveiling the New iMac M1: A Revolution in Computing Efficiency & Design</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles"
-date: 2024-09-18T00:40:16.101Z
-updated: 2024-09-20T05:12:22.994Z
+date: 2024-09-25T16:02:22.276Z
+updated: 2024-09-26T16:03:16.073Z
 tags:
   - games
   - tv
@@ -25,13 +25,34 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 
  So, if a video game score doesn't help you figure out where to spend your money, is there another way?
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Find a Reviewer Who Likes Games You Already Like
 
  Reviews are subjective, and attaching a score to them without a clear and consistent rubric might not be that smart to begin with. There are plenty of incredibly high-scoring games that I think are boring (Breath of the Wild) or barely games (Red Dead Redemption 2), which would make me an iconoclast in some cases. However, tehre are reviewers who have similar tastes to mine, so instead of worrying about an average score on Metacritic or what mainstream reviewers think of a game, try to find a reviewer who has given good scores to games you already love. Then look for games they've reviewed well to get an idea of what you should play next.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Read the Reviews, Not the Scores
 
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -41,28 +62,15 @@ Cianna Garrison / How-To Geek
 
  If you're reading reviews by other players, rather than professional reviewers, it's also worth looking at circumstantial information to get some context on their reviews. Did they post a gushing review five hours into a 100 hour game? Are they [console warring](https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-phone-and-remove-locked-screen-by-drfone-android/) in the review? Again, the substance of the review matters as well as some of what's between the lines.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Watch YouTube Gameplay
 
  There are tons of third-party gameplay videos of just about every game on YouTube. You may even prefer to watch clips with no commentary at all, so you can get an idea of what the minute-to-minute experience is like, without someone's opinion affecting you. Just be careful not to spoil the game for yourself. You may want to look for footage that's specifically labeled as spoiler-free, or that doesn't contain story content. It may also be a good idea to look at footage of the first hour of gameplay only, if you don't want any spoilers.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Try a Demo or Play on a Subscription Service
@@ -88,5 +96,19 @@ Cianna Garrison / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-the-power-of-symbolism-in-crafting-effective-podcast-logos/"><u>[New] The Power of Symbolism in Crafting Effective Podcast Logos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-remedying-unexpected-oneself-display-during-online-interactions/"><u>[Updated] In 2024, Remedying Unexpected Oneself Display During Online Interactions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-flaunt-your-funny-side-the-art-of-using-cartoon-snaps-on-snapchat/"><u>2024 Approved Flaunt Your Funny Side The Art of Using Cartoon Snaps on Snapchat</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-value-of-a-million-viewing-spree-on-youtube/"><u>2024 Approved The Value of a Million-Viewing Spree on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-solution-for-neros-advrcntr2dll-file-missing-problem/"><u>Complete Solution for Nero's advrcntr2.dll File Missing Problem</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/decoding-the-mystery-of-facebook-data-a-novices-handbook-for-2024/"><u>Decoding the Mystery of Facebook Data A Novice’s Handbook for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preparing-to-purchase-9-critical-queries-every-prospective-ev-owner-should-contemplate/"><u>Preparing to Purchase: 9 Critical Queries Every Prospective EV Owner Should Contemplate</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/resolving-poor-image-quality-on-facebook-live-feeds/"><u>Resolving Poor Image Quality on Facebook Live Feeds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-overview-dynamic-team-based-shooter-with-unparalleled-fun-factor/"><u>Top Overview: Dynamic Team-Based Shooter with Unparalleled Fun Factor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-notch-sleep-technology-the-perfect-way-to-unwind/"><u>Top-Notch Sleep Technology: The Perfect Way to Unwind</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/topmost-free-substitutes-for-microsoft-office/"><u>Topmost Free Substitutes for Microsoft Office</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-paperwork-the-ultimate-review-of-fujitsu-scansnap-ix1400-for-personal-and-sme-use/"><u>Transforming Paperwork: The Ultimate Review of Fujitsu ScanSnap iX1400 for Personal & SME Use</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2024-09-15T20:48:51.884Z
-updated: 2024-09-19T20:30:55.257Z
+date: 2024-09-24T16:08:10.034Z
+updated: 2024-09-26T16:00:45.037Z
 tags:
   - games
   - tv
@@ -37,11 +37,31 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
 
  Once you're happy with the settings, your photo will appear as a lithophane model in the slicer just like any other 3D model.
 
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
 
@@ -50,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Printing Your Lithophane
@@ -69,10 +89,10 @@ Close
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -92,5 +112,21 @@ Sydney Louw Butler / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-television-innovation-integrating-fb-live-experiences-for-2024/"><u>[New] Television Innovation Integrating FB Live Experiences for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-funny-frenzy-top-10-tweets/"><u>[Updated] In 2024, Funny Frenzy Top 10 Tweets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[Updated] Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-tta/"><u>免費網路版Movavi TTA模擬器 - 線上直接下載</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/re-engage-withprinter-online-troubleshooting-steps/"><u>Re-Engage Withprinter: Online Troubleshooting Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-asus-vg2nh-s-gaming-display-perfectly-tailored-for-console-players/"><u>The Ultimate Asus VG2nh-S Gaming Display: Perfectly Tailored for Console Players</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-links-archer-c80-unleashed-the-best-sub-100-router-on-the-market-today/"><u>TP-Link's Archer C80 Unleashed: The Best Sub-$100 Router on the Market Today!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-face-off-discover-how-the-new-samsung-galaxy-s24-ultra-stacks-up-against-the-s23-ultra/"><u>Ultimate Face-Off: Discover How the New Samsung Galaxy S24 Ultra Stacks Up Against the S23 Ultra</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-a-new-world-in-depth-insights-into-watch-dogs-legion-gameplay-and-setting-changeover/"><u>Unpacking a New World: In-Depth Insights Into Watch Dogs: Legion Gameplay and Setting Changeover</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-logitech-c615-a-review-focused-on-performance-and-budget-friendly-pricing/"><u>Unveiling the Logitech C615: A Review Focused on Performance and Budget-Friendly Pricing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-a-detailed-analysis-of-apples-newest-macbook-pro-m1-2021-top-notch-performance-in-every-way/"><u>Unveiling the Powerhouse: A Detailed Analysis of Apple’s Newest MacBook Pro (M1, 2021) - Top Notch Performance in Every Way</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-charting-the-best-affordable-virtual-studio-technology-enhancers-for-todays-producers/"><u>Updated 2024 Approved Charting the Best Affordable Virtual Studio Technology Enhancers for Todays Producers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-revolutionize-your-content-10-top-rated-animated-text-generators-for-2024/"><u>Updated Revolutionize Your Content 10 Top-Rated Animated Text Generators for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mvmp4-movavi/"><u>オンラインで無料になるアニメMVファイルMP4形式の変換 - Movavi</u></a></li>
+</ul></div>
 

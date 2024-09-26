@@ -1,7 +1,7 @@
 ---
 title: "Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure"
-date: 2024-09-14T14:50:11.509Z
-updated: 2024-09-20T07:24:40.223Z
+date: 2024-09-21T16:11:06.620Z
+updated: 2024-09-26T16:31:26.993Z
 tags:
   - games
   - tv
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 * Enhance your emulator experience with a physical controller, by managing notifications, and keeping your battery topped up. Alternatively, explore handheld PC options like the Steam Deck.
 
  You can now turn your iPhone into a retro gaming machine, no jailbreak required. But just because you can, doesn’t necessarily mean you should. Here’s what I’ve learned so far.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Emulators on _My_ iPhone?
 
@@ -46,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 ![Brain Age for Nintendo DS running on an iPhone with Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/brain_age_delta.jpg) 
 
  Emulation is powered by well-known cores like [Snes9x](https://github.com/snes9xgit/snes9x) and [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), open-source projects that ensure excellent compatibility with game libraries. The experience may not be pixel-perfect (you’ll need original hardware or an [FPGA-based device like the MiSTeR for that](https://visual-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-captures-top-10-online-video-recorders/)), but with an emulator like Delta you get bonuses like save states, fast forward, and the ability to use cheat codes if you want.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The iPhone Is the Worst Part
 
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
 ![Backbone One with no phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/backbone-one-no-phone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jason Montoya / How-To Geek
 
  To quell concerns about battery life, you can invest in a [quality fast-charging USB battery pack](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/) to top up on the go. If your iPhone supports MagSafe, a [clip-on wireless charger](https://screen-sharing-recording.techidaily.com/updated-pinnacle-7-action-shooter-games/) might also be a good idea.
@@ -95,10 +102,16 @@ Jason Montoya / How-To Geek
 ![Apple's default Gaming Focus mode trigger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/wireless_trigger_focus.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  First, launch Shortcuts and create a new shortcut. Find the “Set Focus” action and change “Turn” to “Toggle” and “Do Not Disturb” to “Gaming” and save it (giving it a suitable name). Now head to the Automation tab, create a new Automation, and use “App” as the Trigger. Choose Delta, select both “is Opened” and “is Closed”, pick “Run Immediately”, and then choose the Shortcut you just made as the action.
@@ -107,18 +120,18 @@ Jason Montoya / How-To Geek
 
  Now whenever you open Delta, you’ll see a notification to let you know that the “Gaming” Focus has been enabled. When you close the app, Gaming will be disabled. This can massively cut down the number of notifications and unwanted communication you receive when you’re playing games.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alternatively, Buy a Handheld PC (Like the Steam Deck)
 
  The [Steam Deck](https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual/) might just be the best handheld emulator on the market, and it can play a huge number of modern Steam games too. You might not consider buying a Steam Deck purely for emulation purposes, but the dedicated form factor, excellent ergonomics, and always-improving software support make it a compelling choice.
 
 ![A Steam Deck with a low-profile keyboard in front of it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/here-s-how-to-pick-a-keyboard-for-your-steam-deck.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Goran Damnjanovic / How-To Geek
 
@@ -131,10 +144,10 @@ Goran Damnjanovic / How-To Geek
  There are also [portable retro handhelds from Retroid and Anbernic](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/). These devices are inexpensive and come in all manner of form factors, without relying on touchscreen controls. Just make sure you [avoid the cheapest, nastiest knock-offs](https://screen-recording.techidaily.com/updated-2024-approved-top-tier-tools-transforming-remote-discussions/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Give It a Try
@@ -156,5 +169,22 @@ Goran Damnjanovic / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-engaging-facebook-video-ads/"><u>[New] 2024 Approved Mastering the Art of Engaging Facebook Video Ads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-building-a-vimeo-portfolio-from-the-ground-up/"><u>[New] In 2024, Building a Vimeo Portfolio From the Ground Up</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-resolving-partially-silenced-facebook-media/"><u>[Updated] In 2024, Resolving Partially Silenced Facebook Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-applications-to-elevate-your-vtubers-sound-identity/"><u>2024 Approved Ideal Applications to Elevate Your Vtuber's Sound Identity</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-l3150-printer-driver-download-and-upgrade-guide-for-windows-1087/"><u>Epson L3150 Printer Driver Download and Upgrade Guide for Windows 10/8/7</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-amazonbasics-affordable-and-reliable-6-sheets-cross-cut-paper-shredder/"><u>In-Depth Look at AmazonBasics' Affordable and Reliable 6-Sheets Cross-Cut Paper Shredder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-auto-gps-devices-ranked-for-excellence/"><u>Innovative Auto GPS Devices Ranked for Excellence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insight-into-asus-bw-16d1x-u-blu-ray-device-elegant-appearance-with-a-hitch-or-two/"><u>Insight Into Asus' BW-16D1X-U Blu-Ray Device: Elegant Appearance with a Hitch or Two</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insights-on-the-upcoming-google-pixel-phase-anticipated-cost-and-release-timeline/"><u>Insights on the Upcoming Google Pixel Phase: Anticipated Cost & Release Timeline</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/iphone-or-samsung-a-comprehensive-guide-to-making-the-best-purchase-decision/"><u>IPhone or Samsung? A Comprehensive Guide to Making the Best Purchase Decision</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-cost-effective-to-fix-apple-gadgets-power/"><u>Is Cost-Effective to Fix Apple Gadgets' Power?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/m1-powerhouse-unveiled-in-depth-look-at-the-apple-macbook-pro-13-2020-revolutionary-laptop/"><u>M1 Powerhouse Unveiled: In-Depth Look at the Apple MacBook Pro 13 (2020) Revolutionary Laptop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-initialization-problems-in-monster-hunter-stories-curosity-and-a-drive-for-continuous-improvement-with-your-help-i-aim-to-provide-valuable-insigh399/"><u>Overcoming Initialization Problems in Monster Hunter Stories Curosity, and a Drive for Continuous Improvement. With Your Help, I Aim to Provide Valuable Insights Into Tech Topics.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-breakdown-hassle-free-ios-device-recordings/"><u>Step-by-Step Breakdown Hassle-Free iOS Device Recordings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-a1x-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo A1x 5G for Streaming | Dr.fone</u></a></li>
+</ul></div>
 

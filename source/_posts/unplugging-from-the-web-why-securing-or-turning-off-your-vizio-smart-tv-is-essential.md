@@ -1,7 +1,7 @@
 ---
 title: "Unplugging From the Web: Why Securing or Turning Off Your Vizio Smart TV Is Essential"
-date: 2024-09-13T13:47:44.007Z
-updated: 2024-09-20T14:19:33.933Z
+date: 2024-09-23T16:10:01.421Z
+updated: 2024-09-26T16:11:42.970Z
 tags:
   - games
   - tv
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 
  This all sounds pretty scary, and to some degree, _it is_, but that doesn't mean you should jump to assuming it's as invasive as it sounds. The information collected is overwhelmingly used for ads. Boring as that may be, you shouldn't allow it to happen.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Walmart Now Owns Vizio and Its User Data
 
  Smart TVs spying on their viewers is sadly not a new thing, but what is a more recent development is who now owns a large chunk of this data. in February 2024, [Walmart purchased Vizio for $2.3 billion](https://solve-news.techidaily.com/cookiebot-enabled-optimize-your-site-with-advanced-analytics/), and it was largely done to enhance Walmart's advertising business.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
  As of October 2021, Vizio had [more than 18 million ACR-enabled smart TVs in the market](https://www.businesswire.com/news/home/20211006005066/en/VideoAmp-and-VIZIO-Announce-Renewed-Partnership). Vizio is the third largest TV brand in the U.S. It accomplished that by selling TVs at a loss and then making it back through ads. In [Q3 2023](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001835591/758c28ca-0bee-4ede-bd39-8056692f9ce5.pdf), Vizio posted a loss of $3.3 million in hardware sales but had a massive $97 million in gross profit.
 
  Clearly, there's big business in collecting data from your TV usage habits. Walmart was already selling Vizio TVs, but now it can also bolster its own ads platform—[called "Walmart Connect"](https://corporate.walmart.com/news/2024/02/20/walmart-agrees-to-acquire-vizio-holding-corp-to-facilitate-accelerated-growth-of-walmart-connect-through-vizio-s-smartcast-operating-system)—with all of that user data. Plus, with Vizio's SmartCast platform, Walmart could ditch Roku and Google TV for its Onn-branded smart TVs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Disconnecting From the Internet is the Easiest Solution
 
@@ -54,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
  Now, this does mean you'll lose some of the functionality of your smart TV's software. If you were only using the TV as a "dumb" display for other devices, like a gaming console, that's not a problem. However, if you were using the TV's stock software for launching Netflix, Hulu, and other streaming services, we'll share a better way to go about that below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Turn off Tracking on Vizio TVs
@@ -85,10 +99,10 @@ Vizio
 5. Press the right arrow to change the setting to "Off."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use a Secondary Streaming Device Instead
@@ -114,5 +128,22 @@ Vizio
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-crafting-viral-videos-how-to-excel-in-youtubers-music-reactions/"><u>[New] 2024 Approved Crafting Viral Videos How to Excel in Youtubers' Music Reactions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-tempo-a-guide-to-instagram-story-adjustments/"><u>[Updated] 2024 Approved Mastering Tempo A Guide to Instagram Story Adjustments</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-instagrams-repost-policy-for-2024/"><u>[Updated] Navigating Instagram's Repost Policy for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-securely-installing-apple-podcasts-episodes/"><u>[Updated] Securely Installing Apple Podcasts Episodes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-initiate-your-facebook-analysis-journey/"><u>2024 Approved Initiate Your Facebook Analysis Journey</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/achieve-optimal-pet-nutrition-with-our-in-depth-look-at-the-petsafe-auto-feeder-review/"><u>Achieve Optimal Pet Nutrition with Our In-Depth Look at the PetSafe Auto Feeder Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/correcting-failed-video-delivery-on-mobile-platforms-social-network-apps-for-2024/"><u>Correcting Failed Video Delivery on Mobile Platform's Social Network Apps for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-the-hype-around-truthgpt-coin-justified-or-is-it-fraudulent/"><u>Is the Hype Around TruthGPT Coin Justified or Is It Fraudulent?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-and-assessment-of-the-lenovo-ideapad-3-the-new-contender-in-line-with-yoga-a940s-legacy/"><u>Ultimate Guide & Assessment of the Lenovo IdeaPad 3: The New Contender in Line with Yoga A940's Legacy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-best-laptop-battery-packs-of-2024/"><u>Ultimate Guide to the Best Laptop Battery Packs of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unbeatable-prime-day-offers-shop-benq-monitor-specials/"><u>Unbeatable Prime Day Offers: Shop BenQ Monitor Specials</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unmasking-the-significance-of-snapchat-emojis-for-2024/"><u>Unmasking the Significance of Snapchat Emojis for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unraveling-the-features-and-performance-of-the-new-dji-phantom-4-pro-v2-nearly-flawless-drone-tech/"><u>Unraveling the Features and Performance of the New DJI Phantom 4 Pro V.2 - Nearly Flawless Drone Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vintage-vibes-unleashed-a-thorough-examination-of-the-super-mario-games-on-nintendos-game-and-watch-collection/"><u>Vintage Vibes Unleashed: A Thorough Examination of the Super Mario Games on Nintendo's Game & Watch Collection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/which-voice-assistant-should-you-choose-comparing-alexa-and-google-assistant/"><u>Which Voice Assistant Should You Choose?: Comparing Alexa and Google Assistant</u></a></li>
+</ul></div>
 

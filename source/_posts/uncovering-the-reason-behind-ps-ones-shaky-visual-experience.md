@@ -1,7 +1,7 @@
 ---
 title: Uncovering the Reason Behind PS One's Shaky Visual Experience
-date: 2024-09-18T03:57:39.310Z
-updated: 2024-09-20T14:27:09.838Z
+date: 2024-09-21T16:24:15.156Z
+updated: 2024-09-26T16:37:47.832Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they're still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn't find in the competition, so what gives?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It’s All About Floating Points
 
  Modern GPU performance is often measured ([controversially](https://hardware-help.techidaily.com/brother-hl-2280dw-driver-package-universal-download-for-windows-11-windows-10-windows-8-and-7-users/)) in FLOPs or FLoating Point Operations. This is simply math involving floating point numbers, which in turn are simply whole numbers with a decimal point. The PlayStation's graphics processor had zero FLOPs, because it lacked an FPU or Floating Point Unit. Instead, it uses fixed-point integers to calculate the positions of vertices.
@@ -29,11 +36,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Since you can only use integers, any position for a vertice that's not an integer will simply be skipped over. So you'll see polygons "snap" between positions with certain types of motion. For example, a character that's standing still and has a subtle idle animation will look like they're jittering a little.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Z-Buffer Not Found
 
  Apart from the lack of an FPU, the PlayStation also lacked a hardware Z-buffer. You might remember XYZ coordinates from school, where you can describe any point within a 3D space using three numbers. The PlayStation lacked a hardware buffer to store depth or Z-axis values, sorted in order of how far away something is from the "camera."
 
  This meant that game developers had to create their own in-house Z-buffering solution, and since it was not done in hardware, they had to be economical with their depth-sorting algorithms. This led to a common situation in PS1 games where small sorting errors were made and polygons that should have been hidden from view pop in and out of sight.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Affine Texture Mapping Is Not So Fine After All
 
@@ -42,10 +69,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what's known as affine texture warping.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Fast, Cheap, or Complex: Pick Two
@@ -59,19 +86,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ##  Emulators Can Correct This (But Should You?)
 
 ![An iPad running G-Police next a  physical original copy of the game and a PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg) 
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -94,5 +108,20 @@ Sydney Louw Butler / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-access-government-recorded-content-for-free-online/"><u>[Updated] How to Access Government-Recorded Content for Free Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-cutting-edge-guide-master-adobe-captivates-screen-capture-feature/"><u>[Updated] In 2024, Cutting-Edge Guide Master Adobe Captivate's Screen Capture Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-photo-enhancing-apps-for-smartphones-with-overlays-top-10/"><u>Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10)</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciding-on-your-facebook-echo-show/"><u>Deciding on Your Facebook Echo Show</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-12-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi 12 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-moto-g84-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Moto G84 5G Phone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/panasonic-fz80-a-versatile-budget-friendly-pro/"><u>Panasonic FZ80: A Versatile, Budget-Friendly Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/protect-your-apple-device-with-our-selection-of-the-greatest-6-antivirus-apps/"><u>Protect Your Apple Device with Our Selection of the Greatest 6 Antivirus Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/save-big-during-prime-day-exclusive-offers-on-benq-screens-and-visual-tech/"><u>Save Big During Prime Day: Exclusive Offers on BenQ Screens and Visual Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/seamless-switch-windows-7-to-11-progression/"><u>Seamless Switch: Windows 7 to 11 Progression</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/should-i-opt-for-windows-11s-modern-features-and-performance/"><u>Should I Opt for Windows 11'S Modern Features and Performance?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sonys-nw-ws623-examined-for-style-and-functionality/"><u>Sony's NW-WS623 Examined for Style and Functionality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tools-for-timely-subtitle-conversion-win-and-mac-edition-best-8-srtr-creators-from-sub/"><u>Top Tools for Timely Subtitle Conversion - Win & Mac Edition Best 8 SRTR Creators From SUB</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers"
-date: 2024-09-17T01:40:30.796Z
-updated: 2024-09-20T00:31:15.496Z
+date: 2024-09-25T16:36:29.767Z
+updated: 2024-09-26T16:29:10.978Z
 tags:
   - games
   - tv
@@ -27,9 +27,23 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 
  I love gaming on my PC because there’s a wider selection of games, and I have a desktop that is more powerful than any console on the market. Despite this, I exclusively play games using a controller and avoid using my keyboard and mouse. That may sound blasphemous, but I have some good reasoning.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  The Pinky Problem 
 
 ![Fingers in awkward position on a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/fingers-in-awkward-position-on-a-keyboard.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
 
@@ -62,10 +76,16 @@ Dibakar Ghosh / How-To Geek | Midjourney
  If you're interested in emulation, there are various [gamepads better suited for different types of emulated systems](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-by-drfone-ios/). That said, most emulators allow you to remap buttons, so you can adapt a single gamepad to mimic different controller layouts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  A Lack of Vibration Feedback 
@@ -78,16 +98,16 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  This is to say nothing of the modern haptic feedback seen on the PS5 DualSense controller with its adaptive triggers, and the rumble feedback that Xbox Core controllers feature in the triggers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5  Not Ideal for Local Co-op or PvP 
 
 ![illustration of two people awkwardly trying to share a single keyboard and mouse setup for gaming.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/illustration-of-two-people-awkwardly-trying-to-share-a-single-keyboard-and-mouse-setup-for-gaming.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -107,13 +127,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  This is the main reason I decided to get a gamepad. I can easily grab my controller, plop down anywhere in my room, and start gaming.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7  Breaks My Work Discipline 
 
  Most of us don't have a gaming PC _and_ an office PC, all we have is a PC. On this system, we do our work and we play our games, which is just a recipe for procrastination. I can't count how many times I jumped into a gaming session because I had to do some work that was boring or tiring. I thought a quick gaming session would clear my mind, but all it did was tick away an hour or two of the workday.
@@ -121,6 +134,13 @@ Dibakar Ghosh / How-To Geek | Midjourney
  I'm not blaming the keyboard and mouse entirely, though it did seem like the call of a siren sometimes. However, after switching to a gamepad for gaming (and gradually preferring it over a keyboard and mouse), I noticed a boost in my productivity.
 
  By associating gaming with a gamepad and keeping it out of sight during work hours, I created just enough friction to resist sneaking into quick gaming sessions when work got challenging. I established a clear boundary: work mode is a keyboard and mouse, and play mode is a gamepad. It's simple, effective, and [keeps me disciplined](https://extra-information.techidaily.com/the-insiders-guide-to-captivating-youtube-headlines/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8  Because I Love My Keyboard and Mouse 
 
@@ -161,5 +181,26 @@ Ismar Hrnjicevic / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-free-video-editing-apps-for-iphonesipads/"><u>[New] In 2024, Essential Free Video Editing Apps for iPhones/iPads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-superior-online-sound-devices-ranked-for-recording-2023/"><u>[New] In 2024, Superior Online Sound Devices Ranked for Recording 2023</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-marketing-unboxed-approaches/"><u>[Updated] In 2024, Marketing Unboxed Approaches</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-facebook-hashtags-for-strategic-marketing-for-2024/"><u>[Updated] Mastering Facebook Hashtags for Strategic Marketing for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oneplus-ace-2-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your OnePlus Ace 2 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-guide-correcting-260nci-wi-fi-adapters-usb-connection-error/"><u>Expert Guide: Correcting 260nCi Wi-Fi Adapter's USB Connection Error</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-play-the-philips-evonia-a-giant-leap-in-49-inch-gaming-monitors/"><u>Maximize Your Play: The Philips Evonia - A Giant Leap in 49-Inch Gaming Monitors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-productivity-with-onetastic-add-in-an-expert-review-for-microsoft-onenote/"><u>Maximizing Productivity with Onetastic Add-In - An Expert Review for Microsoft OneNote</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mkv-mjpeg-t1726233819816329/"><u>MKV를 MJPEG으로 자유성 간소화: 원활한 온라인 변환 방법</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-literature-with-apple-books-a-users-guide/"><u>Navigating Literature with Apple Books - A User's Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgear-nighthawk-x6-mesh-extender-a-detailed-review-on-its-cutting-edge-functionality/"><u>Netgear Nighthawk X6 Mesh Extender - A Detailed Review on Its Cutting-Edge Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-gaming-experience-with-the-asus-rog-rapture-gt-ax11000-an-in-depth-performance-evaluation/"><u>Next-Level Gaming Experience with the Asus ROG Rapture GT-AX11000: An In-Depth Performance Evaluation</u></a></li>
+<li><a href="https://facebook.techidaily.com/nine-methods-to-reset-and-secure-fb-password/"><u>Nine Methods to Reset and Secure Fb Password</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionary-value-how-the-caixun-75-4k-android-tv-delivers-quality-entertainment-at-a-bargain-price/"><u>Revolutionary Value: How the Caixun 75 4K Android TV Delivers Quality Entertainment at a Bargain Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-readers-habits-with-the-high-quality-kobo-forma-tablet/"><u>Revolutionizing Readers' Habits with the High-Quality Kobo Forma Tablet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/screenshoting-made-easy-leveraging-ezvid-video-maker/"><u>Screenshoting Made Easy Leveraging Ezvid Video Maker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/status-bt-assessment-economical-and-accessible-but-not-without-hitches/"><u>Status BT Assessment: Economical and Accessible but Not Without Hitches</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-in-class-unveiling-the-brilliance-of-the-samsung-qn55q6f-4k-hdr-tv-set/"><u>The Best in Class: Unveiling the Brilliance of the Samsung QN55Q6F 4K HDR TV Set</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-fraudulent-chatgpt-clones-that-threaten-to-hijack-your-information/"><u>Unveiling the Fraudulent ChatGPT Clones That Threaten to Hijack Your Information</u></a></li>
+</ul></div>
 

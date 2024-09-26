@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2024-09-16T06:13:54.595Z
-updated: 2024-09-20T11:40:53.129Z
+date: 2024-09-20T16:22:28.462Z
+updated: 2024-09-26T16:27:43.098Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The latest and greatest AAA games can use a boatload of video memory when you crank the visuals to high or ultra. With such an insatiable appetite for VRAM, is an 8GB GPU enough to play the latest games in 2024? I've got an 8GB GPU, and here's what I've learned.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8GB of Memory Is Plenty for Indie, eSports, and Older Games
 
  Gamers who play less demanding indie titles, eSports multiplayer games, and older AAA games (released in 2020 and earlier) shouldn’t worry about their 8GB GPUs. I have yet to have any issues playing these types of games, even at my monitor's native 1440p ultrawide resolution (3440x1440).
@@ -38,6 +45,13 @@ Cianna Garrison / How-To Geek
  On the other hand, enabling ray-traced lighting really starts to stress the 8GB memory buffer on my RTX 3070, even at 1080p, when [streaming the game to a ROG Ally](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/).
 
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Things Get Complicated With Newer AAA Games
 
@@ -73,15 +87,28 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Buy an 8GB GPU in 2024?
@@ -105,5 +132,17 @@ _GIGABYTE_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-masterful-ad-blocking-select-from-these-top-7-android-apps/"><u>[New] Masterful Ad Blocking Select From These Top 7 Android Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-televising-fb-live-top-methods-explored-for-2024/"><u>[New] Televising FB Live Top Methods Explored for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accelerated-norsk-knowledge-daily-dash/"><u>Accelerated Norsk Knowledge - Daily Dash</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-x9b-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor X9b? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-review-unveiling-the-secrets-behind-amds-radeon-xt-series-rx-7800-7700/"><u>Expert Review: Unveiling the Secrets Behind AMD's Radeon XT Series (RX 7800, 7700)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-new-territories-in-depth-analysis-of-watch-dogs-legions-unique-environment/"><u>Exploring New Territories: In-Depth Analysis of Watch Dogs: Legion's Unique Environment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-huawei-mediapad-m5-an-ode-to-outstanding-visuals-and-acoustics/"><u>Exploring the Huawei MediaPad M5: An Ode to Outstanding Visuals and Acoustics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/feast-your-eyes-on-this-uncovering-the-flavors-and-fun-of-overcooked-2/"><u>Feast Your Eyes on This: Uncovering the Flavors & Fun of 'Overcooked! 2'</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-your-hands-on-hot-deals-for-top-tier-samsung-electronics-limited-time-offer/"><u>Get Your Hands On Hot Deals For Top-Tier Samsung Electronics - Limited Time Offer!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/meme-master-tracking-jake-pauls-youtube-evolution-for-2024/"><u>Meme Master Tracking Jake Paul's YouTube Evolution for 2024</u></a></li>
+</ul></div>
 
