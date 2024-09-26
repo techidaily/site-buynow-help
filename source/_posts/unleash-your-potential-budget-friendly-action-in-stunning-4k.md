@@ -170,18 +170,5 @@ Harran is a whole different city at night.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-top-picks-for-home-yoga-practice-online/"><u>[Updated] Top Picks for Home Yoga Practice Online</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-students-guide-to-historical-channels-1-10-for-2024/"><u>[Updated] Ultimate Students' Guide to Historical Channels #1-10 for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/busting-the-launch-blockers-ensuring-a-smooth-run-for-robocop-rogue-city-in-windows-environment/"><u>Busting the Launch Blockers: Ensuring a Smooth Run for 'RoboCop: Rogue City' In Windows Environment</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/curriculum-capturers-selection-defining-the-most-effective-recorders-for-2024/"><u>Curriculum Capturer's Selection Defining the Most Effective Recorders for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-the-innovative-features-of-mods-newest-easyside-carrier-ebike-model/"><u>Explore the Innovative Features of Mod's Newest EasySide Carrier eBike Model</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-a-comprehensive-guide-to-use-youtube-movie-maker/"><u>In 2024, A Comprehensive Guide to Use YouTube Movie Maker</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-social-media-live-services-showdown-facebook-vs-youtube-vs-twitter-spaces/"><u>In 2024, Social Media Live Services Showdown Facebook Vs. YouTube Vs. Twitter Spaces</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionary-convertible-laptop-revealed-the-dell-xps-13-7390-with-exceptional-performance-and-style/"><u>Revolutionary Convertible Laptop Revealed - The Dell XPS 13 7390 with Exceptional Performance and Style</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-paperwork-the-dawn-of-smart-document-handling/"><u>Revolutionizing Paperwork: The Dawn of Smart Document Handling</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/standing-desk-pad-review-for-ergohead-users-seeking-long-duration-support/"><u>Standing Desk Pad Review for Ergohead Users Seeking Long-Duration Support</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-languages-anywhere-the-ultimate-list-of-6-highly-effective-offline-translator-programs/"><u>Unlock Languages Anywhere: The Ultimate List of 6 Highly Effective Offline Translator Programs</u></a></li>
-</ul></div>
+
 

@@ -182,15 +182,5 @@ Harran is a whole different city at night.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-cutting-edge-methods-for-fast-srt-to-text-file-conversion/"><u>[Updated] 2024 Approved Cutting-Edge Methods for Fast SRT to Text File Conversion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/digital-camera-bargains-of-2024-unveiled/"><u>Digital Camera Bargains of 2024 Unveiled</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-edge-webcams-insiders-choice-in-windows-11/"><u>In 2024, Leading Edge Webcams Insider's Choice in Windows 11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-clip-composition-blending-modes-techniques/"><u>Mastering Clip Composition Blending Modes Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-flight-photography-with-the-best-drone-a-dji-air-1s-review/"><u>Mastering Flight Photography with the Best Drone: A DJI Air 1S Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pioneering-portable-cd-devices-of-the-year-2024/"><u>Pioneering Portable CD Devices of the Year 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unveiling-the-next-big-thing-in-tech-hands-on-with-apples-latest-artificial-intelligence-feature/"><u>Unveiling the Next Big Thing in Tech: Hands-On with Apple's Latest Artificial Intelligence Feature</u></a></li>
-</ul></div>
+
 
