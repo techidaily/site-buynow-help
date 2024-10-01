@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2024-09-20T16:32:21.008Z
-updated: 2024-09-26T16:31:16.153Z
+date: 2024-09-25T17:04:10.349Z
+updated: 2024-10-01T18:51:34.082Z
 tags:
   - games
   - tv
@@ -94,13 +94,6 @@ Jerome Thomas / How-To Geek
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
@@ -121,6 +114,13 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
@@ -135,6 +135,13 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
@@ -142,26 +149,32 @@ Jerome Thomas / How-To Geek
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -170,13 +183,6 @@ Jerome Thomas / How-To Geek
  But if you don’t mind hunting for the shadowy corners of a room during the day or waiting until nightfall, then there’s not much to dislike about what this projector can do. It’s a solid value from a reputable brand with modern software onboard.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -201,18 +207,24 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harness-the-power-of-insights-a-curated-list-of-instagram-performance-trackers/"><u>[New] In 2024, Harness the Power of Insights A Curated List of Instagram Performance Trackers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-auditory-alteration-on-the-go-the-top-7-mobile-voice-modification-apps/"><u>[Updated] 2024 Approved Auditory Alteration on the Go The Top 7 Mobile Voice Modification Apps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-polishing-up-your-past-looking-back-in-style-for-2024/"><u>[Updated] Polishing Up Your Past Looking Back in Style for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-kootek-laptop-cooler-evaluation-an-excellent-choice-for-thermal-management/"><u>Comprehensive Kootek Laptop Cooler Evaluation: An Excellent Choice for Thermal Management</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-offworld-trading-company-analysis-mastering-the-ruthless-business-game/"><u>Comprehensive Offworld Trading Company Analysis - Mastering the Ruthless Business Game</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/conquer-your-favorite-games-on-an-asus-vg245h-the-console-gamers-dream-screen/"><u>Conquer Your Favorite Games on an Asus VG245H - The Console Gamer's Dream Screen</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-edge-connectivity-a-detailed-examination-of-the-linksys-wrt1900acs-modified-by-open-source-technology/"><u>Cutting Edge Connectivity: A Detailed Examination of the Linksys WRT1900ACS Modified by Open Source Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-elegance-a-skagen-falster-2-and-apple-comparison/"><u>Discovering the Elegance: A Skagen Falster 2 and Apple Comparison</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-smartphone-showdown-why-the-samsung-galaxy-s21-ultra-reigns-supreme-among-android-options/"><u>Elite Smartphone Showdown: Why the Samsung Galaxy S2^1 Ultra Reigns Supreme Among Android Options</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/historys-high-scorers-on-reddit-top-10-list/"><u>History's High Scorers on Reddit - Top 10 List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-glimpse-into-the-digital-frontier-todays-vr/"><u>In 2024, A Glimpse Into the Digital Frontier Today's VR</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-exceptional-7-cameras-elevating-online-educational-vlogs/"><u>In 2024, Exceptional 7 Cameras Elevating Online Educational Vlogs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/selecting-the-best-screen-recorders-of-todays-market/"><u>Selecting the Best Screen Recorders of Today's Market</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-free-skype-mp3-logger-101-guide/"><u>[New] In 2024, Free Skype Mp3 Logger 101 Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-maximum-video-sizes-in-instagram-upload-for-2024/"><u>[New] Unlocking Maximum Video Sizes in Instagram Upload for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-discover-the-most-effective-5-screen-capturing-tools-for-chromebook/"><u>[Updated] 2024 Approved Discover the Most Effective 5 Screen Capturing Tools for Chromebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-avoiding-content-id-alerts-strategies-on-youtube-for-2024/"><u>[Updated] Avoiding Content ID Alerts Strategies on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instantly-accessorizing-ios-and-android-with-whatsapp-ringtones/"><u>2024 Approved Instantly Accessorizing iOS and Android with WhatsApp Ringtones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-cameras-reviewed-best-of-2024/"><u>Affordable Cameras Reviewed: Best of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-expensive-samsung-un65nu8000fxza-average-features-at-a-premium-cost/"><u>Comprehensive Review of the Expensive Samsung UN65NU8000FXZA: Average Features at a Premium Cost</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-breakdown-and-overview-of-the-acclaimed-anker-portable-charger-plus-26800mah-pair-review/"><u>Detailed Breakdown and Overview of the Acclaimed Anker Portable Charger + 26800mAh Pair Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-oppo-k11x-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Oppo K11x</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-quadro-rtx-6000-drivers/"><u>Download: Quadro RTX 6000 Drivers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-elite-premium-protection-options-for-ipad-10gen-models/"><u>Exploring the Elite: Premium Protection Options for iPad 10Gen Models</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 5G Phone without PIN</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovos-budget-friendly-tablet-with-stunning-full-hd-plus-screen-a-comprehensive-2020-review/"><u>Lenovo's Budget-Friendly Tablet with Stunning Full HD Plus Screen - A Comprehensive 2020 Review</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nook-glowlight-plus-review-barnes-and-nobles-largest-screen/"><u>Nook GlowLight Plus Review: Barnes & Noble’s Largest Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-zte-blade-a3y-quality-performance-meets-budget-pricing/"><u>Review of ZTE Blade A3Y: Quality Performance Meets Budget Pricing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-workout-routine-with-the-stylish-and-sleek-garmin-vivomove-hr-watch/"><u>Revolutionize Your Workout Routine with the Stylish and Sleek Garmin Vivomove HR Watch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ricoh-theta-sc2-handhraning-360-degree-exploration/"><u>Ricoh Theta SC2: Handhraning 360-Degree Exploration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-sony-xbr65x850f-65-in-4k-smart-led-a-budget-friendly-high-quality-viewing-experience-unveiled/"><u>The Sony XBR65X850F (65 in) 4K Smart LED: A Budget-Friendly, High-Quality Viewing Experience Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-toshiba-55lf711u20-fire-edition-the-perfect-match-for-prime-video-fans/"><u>Unveiling the Toshiba 55LF711U20 Fire Edition: The Perfect Match for Prime Video Fans</u></a></li>
 </ul></div>
 

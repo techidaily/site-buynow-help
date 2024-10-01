@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Selection: 2024'S Highest Quality iPad Pro 13 Cases Reviewed and Rated!"
-date: 2024-09-25T16:23:07.698Z
-updated: 2024-09-26T16:05:29.185Z
+date: 2024-09-29T18:29:44.356Z
+updated: 2024-10-01T16:32:32.545Z
 tags:
   - buying-guides
 categories:
@@ -99,7 +99,21 @@ Spigen
 
 ![Spigen Rugged Armor Pro TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/spigen-rugged-armor-pro-tag.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Best iPad Pro 13-Inch Case Overall
 
@@ -114,6 +128,13 @@ The Spigen Rugged Armor Pro offers a premium quality build at an affordable pric
 ##  Best Budget iPad Pro 13-Inch Case: [ProCase for iPad Pro 13-Inch](https://www.amazon.com/ProCase-Smart-Folio-Stand-13-inch/dp/B0CZ9F587X?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003471&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-pro-13-inch-cases%2F&asc%5Fcampaign=Commerce) 
 
 ![ProCase for iPad 13 inch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/procase-for-ipad-13-inch.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ProCase
 
@@ -133,13 +154,6 @@ ProCase
 
 ![ProCase for iPad 13 inch TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/procase-for-ipad-13-inch-tag.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Budget iPad Pro 13-Inch Case
@@ -153,6 +167,13 @@ Costing less than $10, the ProCase for the 13-inch iPad Pro is one of the best w
 ##  Best iPad Pro 13-Inch Apple Pencil Holder: [ESR for iPad Pro 13-Inch](https://www.amazon.com/ESR-Removable-Magnetic-Vertical-Supports/dp/B0CSSQ57D2?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003471&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-pro-13-inch-cases%2F&asc%5Fcampaign=Commerce) 
 
 ![ESR for iPad Pro 13-inch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/esr-for-ipad-pro-13-inch.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ESR
 
@@ -173,13 +194,6 @@ ESR
 ![ESR for iPad Pro 13-inch TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/esr-for-ipad-pro-13-inch-tag.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Best iPad Pro 13-Inch Case With Apple Pencil Holder
 
@@ -214,19 +228,25 @@ Logitech
 ![Logitech Combo Touch TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/logitech-combo-touch-tag.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Best iPad Pro 13-Inch Keyboard Case
@@ -236,19 +256,6 @@ Best iPad Pro 13-Inch Keyboard Case
 With the Logitech Combo Touch, you can enjoy a premium typing experience with your iPad Pro, and customize it to suit your needs.
 
 [See at Logitech](https://www.logitech.com/en-us/products/ipad-keyboards/combo-touch-ipad-pro.920-012658.html) 
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Best Rugged iPad Pro 13-Inch Case: [Urban Armor Gear UAG Case](https://www.amazon.com/URBAN-ARMOR-GEAR-Adjustable-Multi-Angle/dp/B0CW6B1FT4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003471&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-pro-13-inch-cases%2F&asc%5Fcampaign=Commerce) 
 
@@ -288,13 +295,6 @@ If you're looking for rugged protection, you can't go wrong with the Urban Armor
 
 ![ESR for iPad Pro Clear](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/esr-for-ipad-pro-clear.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ESR
 
 | Pros                                  | Cons                                  |
@@ -325,6 +325,13 @@ Maintain your iPad Pro's sleek aesthetic with the ESR Clear Case. Armed with ant
 
 [$15 at Amazon](https://www.amazon.com/ESR-Lightweight-Protection-Yellowing-Resistant/dp/B0CRHHH8P3?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003471&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-pro-13-inch-cases%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best Premium iPad Pro 13-Inch Case: [Apple Smart Folio](https://www.amazon.com/Apple-Smart-Folio-iPad-13-inch/dp/B0D3J7739F?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003471&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-pro-13-inch-cases%2F&asc%5Fcampaign=Commerce) 
 
 ![Apple Folio](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-folio.png) 
@@ -347,13 +354,6 @@ Apple
 
 ![Apple Folio TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-folio-tag.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Premium iPad Pro 13-Inch Case
@@ -369,10 +369,10 @@ For Apple enthusiasts, the Apple Smart Folio is the best premium case for your i
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Can I use my old iPad Pro case with the new Pro model?
@@ -412,24 +412,22 @@ For Apple enthusiasts, the Apple Smart Folio is the best premium case for your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplify-your-youtubes-interaction-with-emojis/"><u>[New] In 2024, Amplify Your Youtubes' Interaction with Emojis</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweeting-to-whatsapp-direct-video-distribution-for-2024/"><u>[New] Tweeting to WhatsApp Direct Video Distribution for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-editing-excellence-sports-videos-that-stand-out/"><u>[Updated] In 2024, Editing Excellence Sports Videos That Stand Out</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-harmony-and-rhythm-discover-the-best-15-youtube-educational-videos/"><u>[Updated] In 2024, Harmony & Rhythm Discover the Best 15 YouTube Educational Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-using-dism-on-win11/"><u>A Step-by-Step Guide to Using Dism on Win11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-fifa-21-from-crashing-on-windows-expert-fixes-and-tips/"><u>How to Stop FIFA 21 From Crashing on Windows - Expert Fixes and Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-smaller-inexpensive-asus-vivobook-11-all-rounder-pc-for-everyone/"><u>In-Depth Look at the Smaller, Inexpensive Asus VivoBook 11 – All-Rounder PC for Everyone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-the-apple-m4-processor-release-schedule-and-detailed-specs-revealed/"><u>Inside the Apple M4 Processor: Release Schedule and Detailed Specs Revealed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/iphone-face-off-detailed-analysis-of-iphone-15-plus-versus-pro-max-specifications/"><u>IPhone Face-Off: Detailed Analysis of iPhone 15 Plus Versus Pro Max Specifications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-the-fitbit-charge-3-a-worthy-contender-in-todays-fitness-tracker-market/"><u>Is the Fitbit Charge 3 a Worthy Contender in Today's Fitness Tracker Market?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/low-cost-lenovo-chromebook-duet-unveiled-in-our-comprehensive-product-evaluation-the-perfect-compact-hybrid/"><u>Low-Cost Lenovo Chromebook Duet Unveiled in Our Comprehensive Product Evaluation - The Perfect Compact Hybrid</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/low-profile-powerhouse-unveiling-the-versatile-acer-aspire-c27-desktop/"><u>Low-Profile Powerhouse: Unveiling the Versatile Acer Aspire C27 Desktop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-monster-mayhem-inside-look-at-challenging-creatures-in-monster-hunter-world/"><u>Mastering Monster Mayhem: Inside Look at Challenging Creatures in Monster Hunter: World</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mophie-powerstation-ac-unit-testing-expensive-yet-highly-practical-charging-solution/"><u>Mophie Powerstation AC Unit Testing: Expensive Yet Highly Practical Charging Solution</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-detach-audio-in-premiere-pro-step-by-step-guide-for-2024/"><u>New How to Detach Audio in Premiere Pro? Step by Step Guide for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nixplays-visual-showcase-celebrating-features-acknowledging-shortcomings/"><u>Nixplay's Visual Showcase: Celebrating Features, Acknowledging Shortcomings</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-scanning-experience-with-updated-drivers-for-your-epson-machine-free-download/"><u>Seamless Scanning Experience with Updated Drivers for Your Epson Machine - Free Download!</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-brightness-control-restoration-tips-and-solutions/"><u>Windows 10 Brightness Control Restoration Tips and Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-pathway-to-prominence-on-social-media/"><u>[New] 2024 Approved The Pathway to Prominence on Social Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[Updated] Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-restoring-windows-photo-viewer-in-windows-10-step-by-step-guide/"><u>[Updated] Restoring Windows Photo Viewer in Windows 10 Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/benefits-and-drawbacks-a-comprehensive-analysis-of-pidgin-im/"><u>Benefits and Drawbacks: A Comprehensive Analysis of Pidgin IM</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-the-easy-anti-cheat-not-installed-problem-for-smooth-eac-operations-solved/"><u>Eliminating the Easy Anti-Cheat Not Installed Problem for Smooth EAC Operations - Solved!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-affordability-and-quality-in-49-lg-um7300-4k-tv-a-consumer-review/"><u>Exploring Affordability and Quality in 49 LG UM7300 4K TV - A Consumer Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-narzo-60-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme Narzo 60 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immerse-yourself-in-cosmic-warfare-with-a-critical-review-of-star-wars-squadrons/"><u>Immerse Yourself in Cosmic Warfare with a Critical Review of 'Star Wars: Squadrons'</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Smart 7 HD</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-honor-x8b-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Honor X8b to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-gb150-wireless-headphones-the-best-sound-quality-for-your-budget-on-amazon-306-characters/"><u>In-Depth Review: GB150 Wireless Headphones – The Best Sound Quality for Your Budget on Amazon! (306 Characters)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/master-the-skies-an-authoritative-review-on-why-djis-mavic-air-drone-reigns-supreme/"><u>Master the Skies: An Authoritative Review on Why DJI's Mavic Air ^ Drone Reigns Supreme</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/streamline-your-photography-journey-the-power-of-nixplay-iris/"><u>Streamline Your Photography Journey: The Power of Nixplay Iris</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-vivo-y100-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y100 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/us-debut-of-new-nickelodeon-kid-favorite-at-the-annual-kids-choice-ceremony/"><u>U.S. Debut of New Nickelodeon Kid Favorite at the Annual Kids' Choice Ceremony</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-value-of-the-new-apple-watch-se-model/"><u>Unveiling the Value of the New Apple Watch SE Model</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-microsoft-needs-to-reintroduce-metro-ui-to-revolutionize-portable-console-gaming/"><u>Why Microsoft Needs to Reintroduce Metro UI to Revolutionize Portable Console Gaming</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Persistent Appeal of DVDs in the Era of Streaming Dominance
-date: 2024-09-15T19:20:15.433Z
-updated: 2024-09-20T06:44:28.538Z
+date: 2024-09-24T16:00:11.483Z
+updated: 2024-10-01T17:27:18.182Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  It’s a weird time for physical media. While big companies have gone all-in on streaming, regular movie lovers have other plans. Maybe you’re like me and have kept buying discs (even if you might have slowed down), or maybe you’re coming back or even discovering the benefits of collecting for the first time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  We've Seen This Before
 
  It’s not the first major shift in viewing habits and media ownership we’ve seen in the home video market. For those of us around, we may have bought and amassed collections of VHS tapes back in the 80s and 90s, but most of us just rented them from their local video store, where our choices were limited to what was available and pan-and-scan transfers were the norm. That started to change with the introduction of LaserDisc, which both improved picture quality and added special features like commentary tracks, but things really shifted when DVDs hit the market.
@@ -31,9 +38,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Then streaming came along.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Streaming’s Conveniences Come With Growing Compromises
 
 ![Click streaming channels on the Roku home screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/roku-home-screen-open-on-a-tv-streaming.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While it didn’t happen overnight, it’s not hard to see why streaming would soon vastly overtake physical media. Even the most die-hard collectors among us can't deny the convenience, and while audio and video quality may still come up short—especially compared to 4K UHD discs—those trade-offs haven’t been dealbreakers for most people.
 
@@ -42,10 +63,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  But you don’t have to dig too deep to find growing dissatisfaction with streaming in general. Prices keep going up, more services are introducing ads, and viewers have to deal with movies and TV shows [shifting](https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-105-classic-devices-by-drfone-android/) from one service to another (or sometimes find a favorite show pulled from streaming altogether). Some of those drawbacks may be different to the days of video store rentals, but they’re similarly opened up an opportunity for folks to consider (or reconsider) the [benefits](https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a78-drfone-by-drfone-virtual-android/) of [physical media ownership](https://fox-http.techidaily.com/crafting-stunning-slideshows-on-iphone-series-13-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  New Players and a New Focus For Physical Media
@@ -57,13 +78,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Boutique disc labels like Shout Factory, Arrow, Vinegar Syndrome, and Criterion itself are all putting out releases that take full advantage of the benefits of physical media and finding an eager audience. Just look no further than Criterion’s regular 50% off sales on its website and at Barnes & Noble, which have become major events for collectors, or at the number of YouTube channels devoted to reviews of new releases and physical media in general.
 
  In many cases, those labels are also now able to license titles the studios otherwise would have kept for themselves, and give some movies a level of attention they’ve never gotten. For many collectors, it’s not just the idea of owning a physical copy of a movie that appeals to them, but owning the best possible edition of it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  An Uncertain Future
 
@@ -86,5 +100,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-confirming-correct-youtube-ad-revenue-allocation/"><u>[New] In 2024, Confirming Correct YouTube Ad Revenue Allocation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-practices-in-upgrading-to-a-high-end-4k-camera-lens/"><u>[Updated] Best Practices in Upgrading to a High-End 4K Camera Lens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-uncompromised-zoom-audio-two-key-techniques-revealed/"><u>[Updated] In 2024, Uncompromised Zoom Audio Two Key Techniques Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-live-stream-struggle-picking-your-platform-obs-or-twitch/"><u>2024 Approved Live Stream Struggle Picking Your Platform – OBS or Twitch?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-x-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone X?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-6s-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 6s</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovation-meets-artistry-with-brookstone-frames/"><u>Innovation Meets Artistry with Brookstone Frames</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interactive-showcase-premium-dell-monitor-elite-noise-cancelling-headphones-superior-clarity-web-camera/"><u>Interactive Showcase: Premium Dell Monitor, Elite Noise Cancelling Headphones, Superior Clarity Web Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ipad-pro-vs-surface-pro-face-off-deciding-on-the-better-tablet-experience/"><u>IPad Pro Vs. Surface Pro Face-Off: Deciding on the Better Tablet Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kootek-notebook-thermoregulator-examination-an-impressive-whole-spectrum-gadget/"><u>Kootek Notebook Thermoregulator Examination - An Impressive Whole-Spectrum Gadget</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-utorrent-unresponsive-problems-with-these-7-reliable-methods/"><u>Solving 'UTorrent Unresponsive' Problems with These 7 Reliable Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-official-viewing-order-for-all-star-trek-movies-an-essential-watchlist/"><u>The Official Viewing Order for All Star Trek Movies: An Essential Watchlist</u></a></li>
+</ul></div>
 

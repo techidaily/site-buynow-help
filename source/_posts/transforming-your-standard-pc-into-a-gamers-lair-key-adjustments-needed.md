@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Standard PC Into a Gamers' Lair: Key Adjustments Needed"
-date: 2024-09-12T20:37:59.551Z
-updated: 2024-09-20T14:46:57.440Z
+date: 2024-09-30T16:29:38.387Z
+updated: 2024-10-01T16:26:16.182Z
 tags:
   - games
   - tv
@@ -21,11 +21,25 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
  You don't need a gaming laptop to play games, you just need to make some sensible decisions, careful tweaks, and perhaps a few inexpensive additional purchases. If you're determined enough you can turn even the most boring work laptop into a gaming machine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Games You Play Will Determine Your Gaming Experience
 
  Before we start looking for problems to fix within the laptop itself, let’s get a baseline reading of your hardware requirements and see how your current or prospective laptop stacks up.
 
 ![EA SPORTS FC24 promotional picture.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ea-sports-fc24-promotional-picture.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 EA
 
@@ -51,6 +65,13 @@ EA
 
 ![A Razer eGPU enclosure on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/https___hybrismediaprod-blob-core-windows-net_sys-master-phoenix-images-container_h57_h88_9084458041374_razer-core-x-gallery-hero.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Razer
 
  Another area laptop gamers should turn their attention is RAM. This acts as your PC’s short-term memory, recalling information as soon as it’s needed. Most standard laptops are equipped with only 8GB of RAM, which is widely considered the bare minimum for gaming.
@@ -73,13 +94,6 @@ Jerome Thomas / How-To Geek
 
  If your laptop doesn’t support storage expansion, you can always turn to [cloud gaming platforms](https://facebook-video-recording.techidaily.com/2024-approved-biography-breakthroughs-101-expert-tips-and-tricks-for-facebook-biographers/) like Amazon Luna and NVIDIA GeForce Now. If cloud gaming isn’t your thing or isn't available in your area, you can purchase an [external solid state drive](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/) to free up some space. It's worth noting, though, that you’ll likely have a better experience [building one yourself](https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-14-activation-lock-by-drfone-ios/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Boost Your Setup With Peripherals and Accessories
 
  A staple piece of any laptop gaming setup should be [a USB-C docking station](https://extra-lessons.techidaily.com/unraveling-the-mysteries-of-av1-vs-vp9/) which offers more connectivity options. Some docks also allow for pass-through charging.
@@ -99,10 +113,10 @@ Hannah Stryker / How-To Geek
 ![An RGB-lit keyboard, gaming headset, mouse, and controller on a desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/shutterstock_1487069789.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/gamer-work-space-concept-top-view-1487069789)_
@@ -128,5 +142,21 @@ _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-beginners-guide-to-quantum-hdr-systems/"><u>[New] A Beginner’s Guide to Quantum HDR Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems/"><u>[Updated] 2024 Approved Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-vectors-alternatives-to-the-classic-acid-pro/"><u>[Updated] 2024 Approved Top Vectors Alternatives to the Classic ACID Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-3-freezing-problems-discover-5-key-solutions-to-keep-your-game-running-smoothly/"><u>Arma 3 Freezing Problems? Discover 5 Key Solutions to Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chortle-creator-suite-for-2024/"><u>Chortle Creator Suite for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-elegance-and-efficiency-of-aukeys-no-nonsense-usb-30-hub-package/"><u>Exploring the Elegance & Efficiency of Aukey's No-Nonsense USB 3.0 Hub Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-escort-max-360-high-tech-radar-detection-meets-accurate-gps-navigation/"><u>Exploring the Features of Escort Max 360: High-Tech Radar Detection Meets Accurate GPS Navigation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fast-and-reliable-or-just-ugly-evaluating-tp-links-av2000-powerline-adapter/"><u>Fast and Reliable or Just Ugly? - Evaluating TP-Link's AV2000 Powerline Adapter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-2018-amazon-kindle-paperwhite-revolutionized-reading/"><u>How the 2018 Amazon Kindle Paperwhite Revolutionized Reading</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-hp-stream-14-affordable-performance-with-notable-tradeoffs/"><u>In-Depth Analysis of the HP Stream 14: Affordable Performance with Notable Tradeoffs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-apple-watch-series-6-elevates-yet-remains-unrivaled-in-its-class/"><u>In-Depth Analysis: How the Apple Watch Series 6 Elevates Yet Remains Unrivaled in Its Class</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-perfect-blend-combining-6-effective-video-genres/"><u>The Perfect Blend Combining 6 Effective Video Genres</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-royale-arenas-of-thrill-for-2024/"><u>Top 10 Royale Arenas of Thrill for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oppo-reno-8t-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Oppo Reno 8T Phones</u></a></li>
+</ul></div>
 

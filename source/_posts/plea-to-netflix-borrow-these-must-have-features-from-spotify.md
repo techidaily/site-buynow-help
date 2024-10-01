@@ -1,7 +1,7 @@
 ---
 title: "Plea to Netflix: Borrow These Must-Have Features From Spotify"
-date: 2024-09-24T16:10:34.860Z
-updated: 2024-09-26T16:27:06.082Z
+date: 2024-09-27T17:49:20.441Z
+updated: 2024-10-01T16:06:44.065Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  The best TV binges are the ones with all hits and no skips. Netflix, you’re the king of queues, so let me create my own playlists with individual episodes from shows on your service. While we’re on the topic of new features, I’ve got some other ideas too.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Video Playlists Would Be Great for Better Binging
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Dear reader, I can see the skeptical wheels turning in your brain, thinking, “But content gets removed and added to Netflix all the time, what happens then?” That's easy. If shows or movies become unavailable, then they’re just grayed out from playlists. The same thing happens with songs on Spotify. Artists remove songs and albums all the time for various reasons. The playlist skips unavailable tracks and moves on. To spin this into a positive thing, Netflix could always use this info to ping you when a show or movie returns.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Add Back That Shuffle Button!
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Access to More Data For a Richer Experience
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
@@ -98,24 +98,15 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-complete-selection-of-free-online-meeting-applications-for-2024/"><u>[New] The Complete Selection of FREE Online Meeting Applications for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-complete-video-revenue-playbook-dm-vs-yo-edition/"><u>[New] The Complete Video Revenue Playbook Dm Vs. Yo Edition</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-step-into-stardom-building-starry-eyed-tiktok-dances-on-macos/"><u>[Updated] Step Into Stardom Building Starry-Eyed TikTok Dances on MacOS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-how-adobes-enterprise-level-ai-feature-transforms-team-collaboration-insights-from-zdnet/"><u>1. How Adobe's Enterprise-Level AI Feature Transforms Team Collaboration: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977706551-download-dell-wi-fi-and-ethernet-drivers-for-windows-7/"><u>Download Dell Wi-Fi and Ethernet Drivers for Windows 7</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-buying-guide-premium-paper-and-image-scanners-dominating-the-market-in-2034/"><u>Essential Buying Guide: Premium Paper & Image Scanners Dominating the Market in 20^34</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-superiority-of-netgears-nighthawk-c7000-wireless-router-a-must-have-gadget-reviewed/"><u>Expert Insights on the Superiority of Netgear's Nighthawk C7000 Wireless Router - A Must-Have Gadget Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-budget-options-in-4k-a-detailed-look-at-the-lg-um7300-television/"><u>Exploring Budget Options in 4K: A Detailed Look at The LG UM7300 Television</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-imo-chat-apps-functionality-an-extensive-review-on-usability/"><u>Exploring Imo Chat App's Functionality - An Extensive Review on Usability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/find-your-ideal-replacement-top-5-non-microsoft-suite-apps-reviewed/"><u>Find Your Ideal Replacement: Top 5 Non-Microsoft Suite Apps Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/flexible-travel-ally-patek-fly-12-tripod-reviewed/"><u>Flexible Travel Ally - Patek Fly 12 Tripod Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-burned-pasta-to-flavorful-fun-an-engaging-overcooked-2-reaction/"><u>From Burned Pasta to Flavorful Fun: An Engaging Overcooked! 2 Reaction</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/futureproof-choices-the-creme-de-la-creme-of-body-cams/"><u>Futureproof Choices: The Crème De La Crème of Body Cams</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/futureproofing-your-home-with-premium-cordless-phones-of-2024-what-to-buy-now/"><u>Futureproofing Your Home with Premium Cordless Phones of 2024: What to Buy Now</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-your-first-zoom-webinar-with-ease-for-2024/"><u>Mastering Your First Zoom Webinar with Ease for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-magic-5-lite-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Magic 5 Lite</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/talking-head-techniques-diy-filming-made-simple-for-2024/"><u>Talking Head Techniques DIY Filming Made Simple for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-7-no-cost-dvd-players-compatible-with-windows-10-and-11-enjoy-movies-free/"><u>Top 7 No-Cost DVD Players Compatible with Windows 10 & 11: Enjoy Movies FREE!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-your-media-with-these-top-asf-video-conversion-software-options/"><u>Transform Your Media with These Top ASF Video Conversion Software Options</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-tomorrows-examination-innovative-approaches/"><u>2024 Approved Tomorrow’s Examination Innovative Approaches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>2024 Approved Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-it-steps-for-dealing-with-a-non-working-airpod/"><u>How To Fix It: Steps For Dealing With A Non-Working AirPod</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pioneer-bdr-xd05b-blu-ray-burner-review/"><u>Pioneer BDR-XD05B Blu-Ray Burner Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-and-easy-moveavis-web-based-wmamov-format-converter-zero-cost-upgrade-for-your-video-files/"><u>Quick and Easy: Moveavi's Web-Based WMA/MOV Format Converter - Zero Cost Upgrade for Your Video Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-photo-to-sketch-conversion-techniques-unveiled/"><u>Seamless Photo-to-Sketch Conversion Techniques Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-nokia-72-critique-a-flagship-contender-in-the-affordable-phone-arena/"><u>The Nokia 7.2 Critique: A Flagship Contender in the Affordable Phone Arena</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y100a-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y100A Phone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-amazonbasics-shredder-a-look-at-its-12-sheets-and-cutting-edge-safety-features/"><u>Top AmazonBasics Shredder: A Look at Its 12 Sheets and Cutting-Edge Safety Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-picks-review-lgs-impressive-oled-c9-65-inch-4k-set-a-must-have-for-serious-tv-buffs/"><u>Top Picks Review: LG's Impressive OLED C9 65-Inch 4K Set - A Must-Have for Serious TV Buffs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Gamer's Delight: In-Depth Review of the Fellowes Microban Wired Keyboard"
-date: 2024-08-27T06:45:06.619Z
-updated: 2024-08-28T06:45:06.619Z
+date: 2024-09-30T16:22:43.456Z
+updated: 2024-10-01T18:11:57.201Z
 categories:
   - BestProducts
 description: "This Article Describes Budget-Friendly Gamer's Delight: In-Depth Review of the Fellowes Microban Wired Keyboard"
@@ -73,6 +73,13 @@ Lifewire / Jeremy Laukkonen
 
 ![HP Notebook 15](https://www.lifewire.com/thmb/ByP4cHLIz7Vshzf3Ac-DIXvvdQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW4043278-HP-Notebook-15-2-32edd74fefa149f3addd156e886ab4c2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
 ## **Design: Premium looks at a budget price**
@@ -85,11 +92,25 @@ Lifewire / Jeremy Laukkonen
 
  The laptop is less than an inch thick at the rear, and it slopes down to an even thinner profile at the front. It does weigh in at over four and a half pounds, which cuts down on portability somewhat, but the short battery life means you won’t be carrying this one with you everywhere anyway.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Generally straightforward, but bloatware can extend the initial setup**
 
  The HP Notebook 15 is a[Windows 10](https://www.lifewire.com/windows-10-2626217) laptop, and the setup process isn’t anything out of the ordinary for a laptop like this. We timed the initial setup, and it took less than 15 minutes from plugging it in and turning it on to hitting the desktop for the first time. HP does ask for some information (including your email address) during the signup process, but most OEMs have a similar process for setting up support and warranty information.
 
  It does come with a[Microsoft 365](https://www.lifewire.com/how-to-install-office-365-4589808) trial and about ten utilities and apps from HP that most users won’t want or need. Removing all of the bloatware extends the initial setup time significantly, especially since this isn’t the fastest laptop to begin with, but uninstalling what you don’t need does free up some space and help the laptop run a little faster.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Display: Unremarkable, and not HD**
 
@@ -99,14 +120,8 @@ Lifewire / Jeremy Laukkonen
 
 ![HP Notebook 15](https://www.lifewire.com/thmb/UzcvGMOLjjUMq7266i_u0-aS_d0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW4043278-HP-Notebook-15-3-ebd4f88f5f364fda82cb320e14a5690f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Outperformed by Intel HP Notebooks with similar specs**
 
  The HP Notebook 15 suffers in the performance department due to its AMD A6-9225 and 4GB of[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) . It’s perfectly capable of performing basic productivity tasks like word processing, web browsing, email, and even spreadsheets, but comparable models with even slightly better processors and additional RAM beat it in every important benchmark.
@@ -137,9 +152,6 @@ Lifewire / Jeremy Laukkonen
 
  The sound quality is great for a laptop in this category, and we didn’t notice any distortion when listening to music or watching movie trailers on YouTube. It’s also sufficiently loud, although the speakers lack the bass response necessary to really fill a room.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Network: Decent speeds, but no 802.11ac**
 
  The wireless card is another place where HP cut corners on the Notebook 15\. Speeds are decent enough when connected to a 2.4 GHz Wi-Fi network, but the lack of 802.11ac support means you don’t have the option to connect to a 5 GHz network.
@@ -150,35 +162,19 @@ Lifewire / Jeremy Laukkonen
 
 ![HP Notebook 15](https://www.lifewire.com/thmb/QJf5J5Be4RdHKzylG4pIFs6FBo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5LW4043278-HP-Notebook-15-1-f27ddc931d944435bb93ac8febfa88a9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## **Camera: Just an unimpressive 720p webcam**
 
  The HP Notebook 15 includes a 720p webcam that works well enough for video chat, but it’s a little blurry and washed out for use in professional teleconferencing. It’s there if you need it, but it isn’t anything special.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery: Mediocre battery life requires frequent charging**
 
  The HP Notebook 15 has a three-cell 41Wh battery according to its specific sheet, and that matches what we found in our testing. Our readings showed a 41,040 mWh design capacity and a 41,040 full charge capacity. Unfortunately, that just isn’t enough battery to support this laptop.
@@ -187,6 +183,13 @@ Key features:
 
  In our testing, we found that the HP Notebook 15 battery holds up for about four and a half hours of constant use. That’s enough for light use, but isn’t enough to hold you over for a full day of work or school without plugging the charger in at some point. With very light use and the Wi-Fi turned off, the battery lasts a couple hours longer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Excessive bloatware clogs up the works**
 
  The HP Notebook 15 comes equipped with Windows 10 and free trials of McAfee antivirus and Microsoft 365\. It also has a handful of basic Windows apps installed by default, and a lot of bloatware from HP — there are about ten different apps, including HP JumpStart and HP Audio Switch, that we think most users will want to uninstall.
@@ -194,6 +197,13 @@ Key features:
 ## **Price: Attractive price for what you get**
 
  The HP Notebook 15 won’t win any awards for performance or battery life, but it’s a classic example of the old maxim that “you get what you pay for.” The MSRP is just $299, so if you’re in the market for an ultra-budget laptop, then it’s worth a look.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: For a little more money, you can get a whole lot more**
 
@@ -212,17 +222,18 @@ Key features:
  The lower-resolution display, unimpressive battery, and weak internals make anything beyond basic tasks a struggle for the HP Notebook 15\. But if you just need a laptop for web browsing, email, and word processing — and plan to keep it near an outlet — then the HP Notebook 15 fits the bill for an incredibly low price.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [HP Pavilion Laptop 15z Touch](https://www.lifewire.com/hp-pavilion-laptop-15z-touch-review-4686745)
 * [Lenovo Ideapad 320](https://www.lifewire.com/lenovo-ideapad-320-review-4686723)
 * [Asus Chromebook C202SA](https://www.lifewire.com/asus-chromebook-c202sa-review-4589359)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Notebook 15
@@ -238,14 +249,11 @@ Key features:
 * Camera  720p webcam
 * Ports  2x USB 3.1, 1x USB 2.0, HDMI, Ethernet, headphone jack
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -254,4 +262,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-seamless-video-editing-in-windows-10-without-expensive-software-for-2024/"><u>[New] Seamless Video Editing in Windows 10 Without Expensive Software for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-using-luts-in-spark-ar-and-download-free-luts/"><u>[New] Using LUTs in Spark AR & Download Free LUTs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expressive-commentary-utilizing-emojis-on-youtube/"><u>[Updated] In 2024, Expressive Commentary Utilizing Emojis on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-increase-engagement-on-igtv-with-top-notch-titles-and-summaries/"><u>[Updated] In 2024, Increase Engagement on IGTV with Top-Notch Titles and Summaries</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unveiling-instagrams-filters-a-comprehensive-guide-to-enhance-your-posts/"><u>[Updated] In 2024, Unveiling Instagram's Filters A Comprehensive Guide to Enhance Your Posts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-are-paid-reviews-common-amongst-online-reviewers/"><u>2024 Approved Are Paid Reviews Common Amongst Online Reviewers?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-measuring-movie-gb-usage-over-a-day/"><u>2024 Approved Measuring Movie GB Usage Over a Day</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-action-discover-7-innovative-ways-its-being-utilized-today/"><u>ChatGPT in Action: Discover 7 Innovative Ways It's Being Utilized Today</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-superior-microsoft-office-substitutes-for-2amid-year-2024/"><u>Exploring Superior Microsoft Office Substitutes for 2Amid-Year 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/highly-rated-commuter-e-scooter-gotrax-gxl-v2-review-fast-sleek-and-perfect-for-city-life/"><u>Highly Rated Commuter E-Scooter Gotrax GXL V2 Review - Fast, Sleek, and Perfect for City Life</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-style-meets-utility-in-the-fitbit-charge-4-wearable/"><u>In-Depth Review: How Style Meets Utility in the Fitbit Charge 4 Wearable</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigate-through-2024s-top-computer-brand-landscapes/"><u>Navigate Through 2024'S Top Computer Brand Landscapes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smartphone-showdown-iphone-15-pro-max-versus-samsung-s2roundup-of-the-latest-tech-specs/"><u>Smartphone Showdown: IPhone 15 Pro Max Versus Samsung S2^[Roundup of the Latest Tech Specs]</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-up-your-internet-game-with-netgear-nighthawk-rax80-a-complete-guide-to-its-features-and-performance/"><u>Step Up Your Internet Game with Netgear Nighthawk RAX80 - A Complete Guide to Its Features and Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unihertz-atom-xl-small-in-size-but-mighty-in-features-and-reliability/"><u>The Unihertz Atom XL: Small in Size but Mighty in Features and Reliability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-bose-soundsport-wires-sturdy-quality-confirmed/"><u>Unboxing Bose SoundSport Wires - Sturdy Quality Confirmed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-the-full-experience-what-to-do-when-mass-effect-legendary-wont-open/"><u>Unlocking the Full Experience: What to Do When Mass Effect Legendary Won't Open</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/willful-m98-review-an-affordable-bluetooth-headset-for-truckers/"><u>Willful M98 Review: An Affordable Bluetooth Headset For Truckers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full Potential: The Benefits of Equipping Every Controller with Custom Thumbstick Covers"
-date: 2024-09-16T07:20:08.679Z
-updated: 2024-09-19T19:02:07.427Z
+date: 2024-09-30T17:43:36.358Z
+updated: 2024-10-01T18:02:32.044Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 
  For years, I used controllers with naked analog sticks. But after I dressed up my first pair of thumbsticks with some removable thumbstick covers, I never looked back. Here’s why.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Thumbstick Grips Prevent Joystick Rubber Degradation
 
  I got my first wireless controller in 2013\. It wasn’t a high-end model, but I remember it was touted as a pretty solid budget option. Less than a year later, in early 2014, I remember playing _South Park: The Stick of Truth_ with the left thumbstick completely naked, its plastic skeleton exposed because the rubber coating had completely worn away.
@@ -29,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 
 ![A pair of thumbsticks with degraded rubber covering the plastic body.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-02.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By then, I had heard about thumbstick covers and decided to slip them on said controller. The result was phenomenal. I used the controller until mid-2022 before it died, with the sticks staying the same as they were the moment I put the thumbstick covers on. There was no further rubber degradation after almost half a decade of heavy use.
 
  Impressed by the results on my Xbox controller, I equipped my [Nintendo Switch Lite](https://win11.techidaily.com/1719355296197-dimming-windows-11-brightness-simple-fixes-unveiled/) with thumbstick covers on day one. As you can see below, its analog sticks still look pristine even though I’ve enjoyed the tiny console for hundreds, if not a thousand-plus hours. I did the same with my two PS4 controllers, and those, too, looked pristine when I sold the console in 2021.
@@ -36,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 ![The left analog stick on a Nintendo Switch Lite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-01.jpg) 
 
  If you’re not someone who likes to collect controllers and instead only use one or two gamepads, thumbstick covers will prevent thumbstick rubber degradation many controllers suffer from. But that’s not the only thing they’re good at.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Covers Massively Improve Thumbstick Grip
 
@@ -52,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 ![A pair of tall thumbstick covers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-03.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  They’re Cheap and You Can Buy Them Anywhere
@@ -79,5 +100,26 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-wi-fi-option-not-showing-up/"><u>[SOLVED] Windows 11 Wi-Fi Option Not Showing Up</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-harness-the-power-of-storytelling-making-captivating-reels-on-facebook/"><u>[Updated] 2024 Approved Harness the Power of Storytelling Making Captivating Reels on Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-buys-detailed-analysis-of-top-6-hdmi-monitors/"><u>[Updated] Best Buys Detailed Analysis of Top 6 HDMI Monitors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-high-quality-tiktok-videos-the-zoom-method/"><u>Achieving High-Quality TikTok Videos The Zoom Method</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/action-screen-capture-mastery-comprehensive-guide-and-video-lessons/"><u>Action! Screen Capture Mastery: Comprehensive Guide & Video Lessons</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-nokia-c22-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Nokia C22 Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-impact-reddit-post-best-practices-unveiled/"><u>Maximizing Impact Reddit Post Best Practices Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netatmo-weather-station-unveiled-a-high-tech-solution-for-smart-home-devotees/"><u>Netatmo Weather Station Unveiled: A High-Tech Solution for Smart Home Devotees</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/picture-perfect-presentation-carvers-digital-frame-review/"><u>Picture Perfect Presentation - Carver's Digital Frame Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-fix-solutions-for-when-its-unplugged/"><u>Realtek HD Audio Fix: Solutions for When It's Unplugged</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/spotty-results-with-seatechs-blu-ray-writer-on-usb-a-detailed-product-performance-review/"><u>Spotty Results with SeaTech's Blu-Ray Writer on USB - A Detailed Product Performance Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-5-best-key-finder-devices-for-quick-recovery-in-2/"><u>The 5 Best Key Finder Devices for Quick Recovery in 2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-value-for-money-our-review-of-the-samsung-galaxy-a51-with-5g-capabilities/"><u>The Best Value for Money: Our Review of the Samsung Galaxy A51 with 5G Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-future-of-home-cinema-in-depth-review-of-apple-tv-4ks-2021-release-exceptional-clarity-and-intuitive-siri-interactions-await/"><u>The Future of Home Cinema: In-Depth Review of Apple TV 4K's 2021 Release - Exceptional Clarity and Intuitive Siri Interactions Await</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-great-debate-unveiling-differences-between-ipad-pro-and-macbook-pro-models/"><u>The Great Debate: Unveiling Differences Between IPad Pro & MacBook Pro Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lg-gram-156-inch-laptop-2018-breakdown-a-weightless-powerhouse-with-remarkable-battery-life/"><u>The LG Gram 15.6-Inch Laptop (2018) Breakdown – A Weightless Powerhouse with Remarkable Battery Life</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-sleek-space-saving-acer-aspire-c2-7-your-ideal-all-in-one-pc/"><u>The Sleek, Space-Saving Acer Aspire C2 7 – Your Ideal All-In-One PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-essentials-of-microsofts-regular-software-updates-known-as-patch-tuesday/"><u>Unveiling The Essentials Of Microsoft's Regular Software Updates – Known As Patch Tuesday</u></a></li>
+</ul></div>
 

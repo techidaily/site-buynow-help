@@ -1,7 +1,7 @@
 ---
 title: Expert Reveal on Twelve South's Compass Pro Gear for Optimal Balance & Control
-date: 2024-09-17T20:53:09.481Z
-updated: 2024-09-20T09:01:46.407Z
+date: 2024-09-27T17:44:17.894Z
+updated: 2024-10-01T18:02:11.715Z
 categories:
   - BestProducts
 description: This Article Describes Expert Reveal on Twelve South's Compass Pro Gear for Optimal Balance & Control
@@ -36,6 +36,13 @@ Lifewire / Jonno Hill
 [View On Amazon $85](https://www.amazon.com/dp/B00PGTOX26?tag=lifewire-onsite-prod-20&ascsubtag=4686829%7Cned26b5ddc861462ea8962bb31e85883020%7CB00PGTOX26) [View On B&H Photo Video $85](https://www.bhphotovideo.com/c/product/1101196-REG/yongnuo%5Fyn%5F560iv%5Fyn560%5Fiv%5Fspeedlite.html)
 
 4.2
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
@@ -96,10 +103,10 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup: A lot of reading before use**
@@ -116,18 +123,18 @@ Lifewire / Jonno Hill
 
  Overall, the YN560 IV gives you a lot of functionality and control, but definitely requires some reading and troubleshooting before you can master the device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Significant savings for manual users**
 
  Buyers that need a lot of manual control for complex flash setups will be very pleased with what the get for the approximately $60 the YN560 IV costs. It sits at a price that’s a fraction of its TTL-enabled Canon and Nikon counterparts, but twice that of even simpler options. Do you need all the functionality that the YN560 IV offers? Are you willing to troubleshoot a bit with returns to make sure you get good, non-defective units? If the answer to those questions is yes, this is definitely the flash for you.
 
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Yongnuo YN560 IV Wireless Flash Speedlite Master vs Neewer TT560 Flash Speedlite**
 
@@ -142,6 +149,13 @@ Lifewire / Jonno Hill
 **Full featured manual flash**
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master may not be a very simple flash, but it packs enough functionality to make a very versatile platform for more aspirational photographers. Buyers that want full manual control and radio transmission without paying an arm and a leg will be more than pleased with what they get.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -179,5 +193,21 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-peer-reviewed-best-action-replay-tech/"><u>[New] Peer-Reviewed Best Action Replay Tech</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-6-unique-sources-for-premium-youtube-imagery/"><u>[Updated] 2024 Approved Top 6 Unique Sources for Premium YouTube Imagery</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-crafting-authenticity-in-client-testimonial-videos/"><u>[Updated] In 2024, Crafting Authenticity in Client Testimonial Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unleash-marketing-potential-through-strategy-boxing/"><u>2024 Approved Unleash Marketing Potential Through Strategy Boxing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-assistant-or-alexa-which-voice-ai-should-be-your-preferred-companer/"><u>Google Assistant or Alexa: Which Voice AI Should Be Your Preferred Companer?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-pin-someone-on-snapchat-all-you-need-to-know/"><u>How to Pin Someone on Snapchat All You Need to Know</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-exploring-ustream-and-its-counterparts/"><u>In 2024, Exploring Ustream & Its Counterparts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-enhanced-e-reader-experience-with-barnes-and-nobles-giant-display-the-nook-glowlight-plus/"><u>In-Depth Look at the Enhanced E-Reader Experience with Barnes & Noble's Giant Display - The Nook GlowLight Plus</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-testing-the-features-of-samsung-galaxy-budsplus/"><u>In-Depth Review: Testing the Features of Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-vids-for-cash-comparing-dm-and-yo-strategies-for-2024/"><u>Maximizing Vids for Cash Comparing Dm & Yo Strategies for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/portable-moko-compact-folding-keyboard-with-bluetooth-connectivity/"><u>Portable MoKo Compact Folding Keyboard with Bluetooth Connectivity</u></a></li>
+<li><a href="https://facebook.techidaily.com/telegrams-stellar-performance-amidst-a-social-media-pause/"><u>Telegram's Stellar Performance Amidst a Social Media Pause</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-a-wifi-mesh-network-is-google-wifi-the-best-option/"><u>Ultimate Guide to Choosing a WiFi Mesh Network: Is Google WiFi the Best Option?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-evaluating-the-samsung-galaxy-s21-ultra-a-leader-in-android-devices/"><u>Unboxing and Evaluating the Samsung Galaxy S21 Ultra – A Leader in Android Devices</u></a></li>
+</ul></div>
 

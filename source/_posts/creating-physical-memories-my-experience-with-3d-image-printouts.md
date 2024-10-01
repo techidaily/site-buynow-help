@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2024-09-24T16:08:10.034Z
-updated: 2024-09-26T16:00:45.037Z
+date: 2024-09-27T18:27:11.950Z
+updated: 2024-10-01T16:44:50.235Z
 tags:
   - games
   - tv
@@ -21,11 +21,31 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
  Photos are 2D, and so surely you'd only want to print them using a normal everyday 2D printer? However, it turns out you can create a "lithophane" from a photo and turn your snaps into actual plastic models.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is a Lithophane Exactly?
 
  True lithophanes are porcelain pieces that have designs pressed into them when the porcelain is soft. Then, when held up to a light, the image becomes visible. The different thicknesses of the porcelain let through different amounts of light, and you effectively have a grayscale image.
 
  While working with porcelain isn't something you can do at home typically, if you have a 3D printer you can emulate the same effect and make a lithophane by printing it. When you hold the lithophane up to the light, your original image appears. It's a neat effect and, thanks to the flexibility of 3D printing, you can make all sorts of interesting decorations using this method.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Converting an Image to a Lithophane
 
@@ -57,10 +77,16 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
@@ -68,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Printing Your Lithophane
 
@@ -87,13 +106,6 @@ Close
  The problem is that a thin vertical panel is basically impossible to print, so you need to support your lithophane in some way. You can manually add supports to it using a CAD program, for example, but this is where a lithophane maker app comes into its own. For example, It's Litho has a number of pre-made stands and mounts as I mentioned before. You can add integrated frames too, there's plenty of customization. With such an integrated frame, you can print your litho vertically with confidence and get a significantly better end result.
 
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -114,19 +126,20 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-television-innovation-integrating-fb-live-experiences-for-2024/"><u>[New] Television Innovation Integrating FB Live Experiences for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-funny-frenzy-top-10-tweets/"><u>[Updated] In 2024, Funny Frenzy Top 10 Tweets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[Updated] Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-tta/"><u>免費網路版Movavi TTA模擬器 - 線上直接下載</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/re-engage-withprinter-online-troubleshooting-steps/"><u>Re-Engage Withprinter: Online Troubleshooting Steps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-asus-vg2nh-s-gaming-display-perfectly-tailored-for-console-players/"><u>The Ultimate Asus VG2nh-S Gaming Display: Perfectly Tailored for Console Players</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tp-links-archer-c80-unleashed-the-best-sub-100-router-on-the-market-today/"><u>TP-Link's Archer C80 Unleashed: The Best Sub-$100 Router on the Market Today!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-face-off-discover-how-the-new-samsung-galaxy-s24-ultra-stacks-up-against-the-s23-ultra/"><u>Ultimate Face-Off: Discover How the New Samsung Galaxy S24 Ultra Stacks Up Against the S23 Ultra</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-a-new-world-in-depth-insights-into-watch-dogs-legion-gameplay-and-setting-changeover/"><u>Unpacking a New World: In-Depth Insights Into Watch Dogs: Legion Gameplay and Setting Changeover</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-logitech-c615-a-review-focused-on-performance-and-budget-friendly-pricing/"><u>Unveiling the Logitech C615: A Review Focused on Performance and Budget-Friendly Pricing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-a-detailed-analysis-of-apples-newest-macbook-pro-m1-2021-top-notch-performance-in-every-way/"><u>Unveiling the Powerhouse: A Detailed Analysis of Apple’s Newest MacBook Pro (M1, 2021) - Top Notch Performance in Every Way</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-charting-the-best-affordable-virtual-studio-technology-enhancers-for-todays-producers/"><u>Updated 2024 Approved Charting the Best Affordable Virtual Studio Technology Enhancers for Todays Producers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-revolutionize-your-content-10-top-rated-animated-text-generators-for-2024/"><u>Updated Revolutionize Your Content 10 Top-Rated Animated Text Generators for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mvmp4-movavi/"><u>オンラインで無料になるアニメMVファイルMP4形式の変換 - Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-secret-sauce-of-successful-pixlr-editing/"><u>[New] 2024 Approved The Secret Sauce of Successful Pixlr Editing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unleash-music-without-spending-a-penny/"><u>[New] In 2024, Unleash Music, Without Spending a Penny</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-guide-to-profit-sharing-for-creators-of-video-clips-for-2024/"><u>[Updated] A Guide to Profit Sharing for Creators of Video Clips for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-iphone-memory-save-a-thon-effortlessly-recover-deleted-media-and-contact-info-with-mac-software/"><u>Complete iPhone Memory Save-a-Thon: Effortlessly Recover Deleted Media and Contact Info with Mac Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/examining-the-sony-xperia-5-portable-size-premium-cost/"><u>Examining the Sony Xperia 5: Portable Size, Premium Cost</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-advanced-features-and-stylish-look-of-the-dell-alienware-aurora-r9-system-review/"><u>Exploring the Advanced Features and Stylish Look of the Dell Alienware Aurora R9 System Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-close-up-to-faraway-the-nikon-coolpix-p1000-saga/"><u>From Close-Up to Faraway – The Nikon COOLPIX P1000 Saga</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862669669-get-an-in-depth-performance-breakdown-of-the-cutting-edge-asus-zenbook-s16-with-amds-top-of-the-line-ryzen-ai-echnology-the-ryzen-ai-9-hx-370/"><u>Get an In-Depth Performance Breakdown of the Cutting-Edge Asus Zenbook S16 with AMD's Top-of-the-Line Ryzen AI Echnology: The Ryzen AI 9 HX 370</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-snip-and-save-from-youtube-the-ultimate-guide-for-2024/"><u>How to Snip and Save From YouTube The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-lite-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor 90 Lite Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Lava Blaze Curve 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-lightweight-lenovo-thinkpad-x1-nano-the-new-powerhouse-in-a-featherlight-frame/"><u>In-Depth Analysis of the Lightweight Lenovo ThinkPad X1 Nano – The New Powerhouse in a Featherlight Frame</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-storm-tracking-mobile-applications/"><u>Top-Rated Storm Tracking Mobile Applications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-minecraft-top-reviews-for-multi-generational-building-fun/"><u>Ultimate Guide to Minecraft: Top Reviews for Multi-Generational Building Fun</u></a></li>
 </ul></div>
 

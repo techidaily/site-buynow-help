@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2024-09-23T16:37:13.938Z
-updated: 2024-09-26T16:03:22.201Z
+date: 2024-09-24T16:17:13.940Z
+updated: 2024-10-01T18:52:25.527Z
 tags:
   - games
   - tv
@@ -27,13 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Thanks to AI, we're seeing some truly out-there mods for games, and one of the most impressive might be one that swaps out the Baldur's Gate 3 narrator for a voice that almost (but not quite) sounds like Sir David Attenborough. Here's how to try it for yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What You Need
 
  Apart from owning a PC copy of Baldur's Gate 3, you also need three pieces of software:
@@ -56,40 +49,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 2: Import the Mod Fixer
 
  The mod fixer is necessary for many mods to work in the game, since it forces the game to recompile the campaign data, without which some mods would not work. To install it, Select File>Import Mod in the mod manager.
 
 ![BG3 mod importing menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-importing-menu-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Navigate to the folder where the mod fixer's zipped file is, select it and then select "Open." You should see "ModFixer" listed under "Overrides."
 
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 4: Export Mod Order
 
@@ -98,17 +84,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![BG3 export mod order menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-export-mod-order-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should see a green message pop up at the bottom of the window in the mod manager.
 
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This means we're ready to go!
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 5: Test the Game
 
@@ -147,22 +147,17 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-from-audience-to-advocate-strategies-for-powerful-fb-covers/"><u>[New] 2024 Approved From Audience to Advocate Strategies for Powerful FB Covers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-conference-room-to-youtube-google-meet-broadcasting-for-2024/"><u>[Updated] From Conference Room to Youtube Google Meet Broadcasting for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-art-of-recording-your-online-fb-conversations/"><u>[Updated] In 2024, The Art of Recording Your Online FB Conversations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/50-video-doorbell-showdown-see-how-the-iseebell-stacks-up/"><u>$50 Video Doorbell Showdown: See How the ISeeBell Stacks Up!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-core-elements-of-zd-soft-recording-features/"><u>2024 Approved The Core Elements of ZD Soft Recording Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-beginners-roadmap-for-testing-pages-online-before-making-them-publicly-accessible/"><u>A Beginner’s Roadmap for Testing Pages Online Before Making Them Publicly Accessible</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/acer-aspire-c27-streamlined-design-meets-complete-functionality-in-one/"><u>Acer Aspire C27: Streamlined Design Meets Complete Functionality in One</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-ai-mastery-with-no-cost-the-copilot-advantage-in-turbo/"><u>Effortless AI Mastery with No Cost: The Copilot Advantage in Turbo</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-trail-of-imagery-the-complete-user-manual-for-inverted-scans-in-instagram/"><u>In 2024, Trail of Imagery The Complete User Manual for Inverted Scans in Instagram</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-logitech-unifying-receiver-drivers-for-windows-systems-free-of-charge/"><u>Installing Logitech Unifying Receiver Drivers for Windows Systems Free of Charge</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723061237622-lgs-latest-marvel-the-c9-smart-tv-a-dream-vision-for-tech-addicts-and-cinema-buffs/"><u>LG's Latest Marvel: The C9 Smart TV – A Dream Vision for Tech Addicts and Cinema Buffs!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-home-theater-computers-a-comprehensive-guide/"><u>Top-Rated Home Theater Computers : A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-best.techidaily.com/transforma-videos-y-audios-con-velocidad-acelerada-usando-la-inteligencia-artificial-de-winxvideo/"><u>Transforma Videos Y Audios Con Velocidad Acelerada Usando La Inteligencia Artificial De Winxvideo</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-camera-app-eradicating-error-a00f425d/"><u>Troubleshooting Windows 11 Camera App: Eradicating Error A00F425D</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-distinctions-ipad-vs-ipad-air-a-comprehensive-guide/"><u>Unveiling the Distinctions: IPad Vs. IPad Air – A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-fun-in-depth-look-at-the-maisto-rc-rock-crawler-perfect-for-families/"><u>Unveiling the Fun - In-Depth Look at the Maisto RC Rock Crawler, Perfect for Families</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-nokia-7/"><u>Unveiling the Nokia 7.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-amplify-your-sounds-mac-studio-guide-for-2024/"><u>[New] Amplify Your Sounds Mac Studio Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-the-perfect-tiktok-unbox-video-a-viewership-guide/"><u>[New] Crafting the Perfect TikTok Unbox Video A Viewership Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-filmmakers-choice-top-8-free-and-paid-app-list/"><u>[New] IPhone Filmmakers' Choice Top 8 Free & Paid App List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-strategies-to-purge-youtubes-video-buffer-list/"><u>[Updated] 2024 Approved Strategies to Purge YouTube's Video Buffer List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adding-chronological-markers-to-youtube-media-for-2024/"><u>Adding Chronological Markers to YouTube Media for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-esports-rig-an-expert-review-of-an-advanced-apc-uninterruptible-power-supply/"><u>Elevate Your Esports Rig: An Expert Review of an Advanced APC Uninterruptible Power Supply</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-the-ultimate-guide-to-the-high-performance-xbox-series-x/"><u>Expert Analysis: The Ultimate Guide to the High-Performance Xbox Series X</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-claude-2-its-features-and-how-they-benefit-users/"><u>Exploring Claude 2 - Its Features & How They Benefit Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y100i-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y100i Lock Screen Password?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-oneplus-8t-a-speedy-phenomenon-or-hindered-by-patchy-photography-an-in-depth-review/"><u>Is the OnePlus 8T a Speedy Phenomenon or Hindered by Patchy Photography? An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/things-to-consider-before-buying-a-video-capture-device/"><u>Things to Consider Before Buying a Video Capture Device</u></a></li>
 </ul></div>
 

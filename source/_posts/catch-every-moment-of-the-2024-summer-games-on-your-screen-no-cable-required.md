@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2024-09-20T16:35:28.561Z
-updated: 2024-09-26T16:34:27.190Z
+date: 2024-09-28T18:23:48.332Z
+updated: 2024-10-01T16:56:06.029Z
 tags:
   - games
   - tv
@@ -23,6 +23,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The 2024 Summer Olympics are landing in Paris at the end of July, and you don't need cable to access a lot of the action. NBC will broadcast many daytime and primetime events. With the aid of an over-the-air (OTA) antenna, you can watch for free.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Which Channels are Broadcasting the Olympics?
 
  NBCUniversal networks are the home of the 2024 Summer Olympics. During the day, NBC will air [at least nine hours](https://www.peacocktv.com/blog/2024-olympics-events-to-stream-live-on-peacock) of event coverage. If you have a local NBC affiliate in your area (and you almost certainly do), this is where you can [watch a lot of free events with an OTA antenna](https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-steelseries-arctis-pro-microphone-complete-solution/).
@@ -30,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once daytime coverage concludes, the network will use the primetime hours to show highlights of the day's events.
 
  In addition to NBC, you will find some Olympics content streaming on the Peacock app, GOLF Channel, USA Network, CNBC, and E!. Telemundo will air Spanish-language coverage. However, Peacock and the extended range of NBCUniversal channels are not accessible via antenna and can get expensive due to price creep.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Do I Watch for Free?
 
@@ -51,16 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
@@ -78,10 +72,10 @@ Jordan Gloor / How-To Geek
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Watch 2024 Olympic Gymnastics
@@ -89,10 +83,10 @@ Jordan Gloor / How-To Geek
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
@@ -118,22 +112,22 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-summit-masterpiece-lab-check/"><u>[New] 2024 Approved Summit Masterpiece Lab Check</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-cut-to-the-chase-newest-method-for-idevice-screen-recordings-2023/"><u>[New] Cut-to-the-Chase Newest Method for iDevice Screen Recordings, 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gratis-design-elements-for-youtube-channel-for-2024/"><u>[New] Gratis Design Elements for YouTube Channel for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-masterclass-in-using-zoom-for-youtube-live-streams/"><u>[New] Masterclass in Using Zoom for YouTube Live Streams</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/85-jabra-evolve2-review-superior-workplace-sound-clarity/"><u>85 Jabra Evolve2 Review: Superior Workplace Sound Clarity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-critical-look-at-the-pioneer-bdr-xd05b-burner-discover-design-shortcomings-for-better-usage/"><u>A Critical Look at the Pioneer BDR-XD05B Burner - Discover Design Shortcomings for Better Usage</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723059054722-apple-macbook-pro-m1-2e-16-inch-laptop-review-why-its-the-ultimate-choice-for-professionals/"><u>Apple MacBook Pro (M1, 2E) 16-Inch Laptop Review: Why It's The Ultimate Choice for Professionals</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apples-portable-computers-face-off-exploring-what-sets-macbook-air-and-pro-apart/"><u>Apple's Portable Computers Face-Off: Exploring What Sets MacBook Air & Pro Apart</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessing-moto-g-power-a-blend-of-robust-functionality-and-extended-battery-capacity/"><u>Assessing Moto G Power: A Blend of Robust Functionality and Extended Battery Capacity</u></a></li>
-<li><a href="https://games-able.techidaily.com/audio-equipment-review-top-gaming-iem-picks/"><u>Audio Equipment Review: Top Gaming IEM Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-handle-msvcr70dll-missing-or-undetected-problems/"><u>How to Correctly Handle MSVCR70.dll Missing or Undetected Problems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-18-online-camera-recording-apps-ranked/"><u>In 2024, Best 18 Online Camera Recording Apps Ranked</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ready-for-victory-try-this-top-ranked-free-voice-alteration-software-now/"><u>In 2024, Ready for Victory? Try This Top-Ranked Free Voice Alteration Software Now</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-efficient-airdrop-transfers-fixes-for-all-apple-gadgets/"><u>Unlock Efficient AirDrop Transfers - Fixes for All Apple Gadgets</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-an-insightful-evaluation-of-the-stylishly-engineered-samsung-galaxy-watch/"><u>Unveiling the Features: An Insightful Evaluation of the Stylishly Engineered Samsung Galaxy Watch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-motorola-one-hyper-a-dynamic-entry-in-the-mid-range-smartphone-market-review/"><u>Unveiling the Potential of Motorola One Hyper – A Dynamic Entry in the Mid-Range Smartphone Market Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-subscribe-to-kindle-unlimited-exploring-the-four-key-benefits/"><u>Why Subscribe to Kindle Unlimited? Exploring the Four Key Benefits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-all-you-need-to-know-about-google-docs-audio-to-text-functionality/"><u>[Updated] All You Need to Know About Google Docs Audio-to-Text Functionality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-find-the-top-8-video-communication-apps-for-android-groups-for-2024/"><u>[Updated] Find the Top 8 Video Communication Apps for Android Groups for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-users-perspective-review-and-recommendations-for-the-anthropics-smart-photo-editor/"><u>A User’s Perspective: Review and Recommendations for the Anthropics Smart Photo Editor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-rumored-tesla-cell-phone-projections-on-cost-launch-date-and-specs/"><u>All You Need to Know About the Rumored Tesla Cell Phone: Projections on Cost, Launch Date & Specs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-but-mighty-the-razer-book-13-unleashed-ultimate-gaming-notebook-reviewed/"><u>Compact but Mighty: The Razer Book 13 Unleashed - Ultimate Gaming Notebook Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-eero-pro-mesh-network-review-ultimate-wireless-solution-for-whole-house-connectivity/"><u>Comprehensive Eero Pro Mesh Network Review: Ultimate Wireless Solution for Whole House Connectivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-el-mejor-convertidor-wmv-a-wma-gratuito-en-linea-con-movavi/"><u>Descargar El Mejor Convertidor WMV a WMA Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-analog-bliss-with-at-lp60xbt/"><u>Discovering Analog Bliss with AT-LP60XBT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-eero-pro-mesh-setup-the-ultimate-router-choice-for-extensive-home-coverage/"><u>Expert Insights on Eero Pro Mesh Setup: The Ultimate Router Choice for Extensive Home Coverage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expertly-selected-spots-for-high-quality-smartphone-acquisitions/"><u>Expertly Selected Spots for High-Quality Smartphone Acquisitions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-your-window-world-8-customization-strategies-by-winbubble/"><u>Redefine Your Window World: 8 Customization Strategies by WinBubble</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/should-you-opt-for-chatgpt-plus-here-are-five-compelling-reasons-why/"><u>Should You Opt for ChatGPT Plus? Here Are Five Compelling Reasons Why!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/stepwise-approach-to-unleash-creativity-with-your-logitech-webcam-for-2024/"><u>Stepwise Approach to Unleash Creativity with Your Logitech Webcam for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-of-ergodrivens-topo-anti-fatigue-mat-a-comprehensive-review-for-standing-desks-enthusiasts/"><u>Unveiling the Benefits of ErgoDriven's Topo Anti-Fatigue Mat - A Comprehensive Review for Standing Desks Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-the-fitbit-versa-2-a-wearable-that-elevates-your-health-game-and-offers-cutting-edge-smartwatch-extras/"><u>Unveiling the Power of the Fitbit Versa 2 - A Wearable that Elevates Your Health Game and Offers Cutting-Edge Smartwatch Extras</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-motion-detection-apps-for-mobile-devices/"><u>Updated In 2024, Top Motion Detection Apps for Mobile Devices</u></a></li>
 </ul></div>
 

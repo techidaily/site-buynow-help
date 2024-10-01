@@ -1,7 +1,7 @@
 ---
 title: Coming Soon! The PSVR2 for PCs - Key Reasons to Think Twice Before Buying
-date: 2024-09-14T16:19:21.737Z
-updated: 2024-09-20T10:31:42.186Z
+date: 2024-09-26T17:11:28.871Z
+updated: 2024-10-01T16:13:25.514Z
 tags:
   - games
   - tv
@@ -27,6 +27,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The PSVR2 PC adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/cfa8b40a906572604df269e3048d488f01a1d56c.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sony
 
  The adapter will sell for around $60, which isn't a lot in the greater scheme of things, but it does seem rather pricey to convert a $500-ish headset to work with a PC. Also, while this might change closer to launch, it doesn't seem that those of us who do have the right USB-C ports can skip the adapter. For example, many gaming laptops have a USB-C port that natively supports DisplayPort. If Sony let us use this port without the adapter, that would certainly make the whole thing more palatable, where the adapter is only a necessary evil for those without the right hardware. Right now it feels like I'll have to pay $60 for something I technically should not need.
@@ -37,21 +44,22 @@ Sony
 
  Eye tracking has numerous benefits in VR, including acting as an extra input type (e.g. the game knows what you're looking at) and can help performance by only rendering what you're looking at in the highest detail. A method known as "[foveated rendering](https://some-knowledge.techidaily.com/gopro-hero5-black-vs-hero5-session-for-2024/).' While I did not expect PC VR games to take advantage of this immediately, for now it seems Sony is shutting the door on PC developers using this feature at all.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  There’s No HDR
 
  The PSVR 2 uses exceptional OLED screen technology, one of the major losses Quest owners mourned moving from the original Quest to its sequels. If you use the PSVR2 with a PC, you'll still get the many benefits of OLED, but not the amazing level of HDR the PSVR 2 is capable of. When I play _Gran Turismo 7_ in VR on my PS5, the sunlight can literally blind you. It's one of the biggest reasons the visuals are so convincing, and knowing you have the hardware, but not the software support, when using it on a PC feels more than a little tragic.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Foveated Rendering Is Limited, No Fancy Haptics
@@ -60,16 +68,16 @@ Sony
 
  To add insult to injury, [adaptive triggers and the incredible haptics in the controllers are absent as well](https://blog.playstation.com/2024/06/03/playstation-vr2-players-can-access-games-on-pc-with-adapter-starting-on-august-7/). On the PS5, this elevates the immersion and quality of tactile feedback beyond anything on a PC. Having this feature missing is a travesty. It might be related to the limitations of Bluetooth, however. Since if you use Bluetooth with a DualSense controller on a PC, you also don't get any of the fancy haptics. The controller must be connected using USB, and that's clearly impractical for VR controllers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Do Only Existing Owners Need to Apply?
 
 ![PSVR2 shown playing Half-Life Alyx for PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/psvr2-shown-playing-half-life-alyx-for-pc.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sony
 
@@ -90,5 +98,21 @@ Sony
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-tales-of-trial-by-fire-vs-innovative-challenges/"><u>[New] 2024 Approved Tales of Trial by Fire Vs. Innovative Challenges</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-honor-magic-6-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Honor Magic 6 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-reno-11-pro-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-installation-of-netgear-a6200-dongle/"><u>Efficient Installation of Netgear A6200 Dongle</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-s24-ultra-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy S24 Ultra Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-80-pro-straight-screen-edition-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor 80 Pro Straight Screen Edition Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-video-edits-post-upload-techniques/"><u>Mastering Video Edits Post-Upload Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-travelers-best-companion-reviewed-how-the-omnicharge-omni-20-revolutionizes-portable-power-with-wireless-charging-options/"><u>The Traveler's Best Companion Reviewed: How the Omnicharge Omni 20 Revolutionizes Portable Power with Wireless Charging Options</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-enhancing-your-network-with-netgears-ac1200-wi-fi-range-extender-ex6200-a-review/"><u>The Ultimate Guide to Enhancing Your Network with Netgear's AC1200 Wi-Fi Range Extender (EX6200) - A Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-saving-on-phone-bills-top-7-cheap-plans-revealed/"><u>The Ultimate Guide to Saving on Phone Bills : Top 7 Cheap Plans Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-long-range-lens-in-a-small-package-nikon-coolpix-p1000/"><u>The Ultimate Long-Range Lens in a Small Package – Nikon COOLPIX P1000</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-sonic-journey-best-headphones-of-2024/"><u>The Ultimate Sonic Journey - Best Headphones of 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-ranked-ai-enhanced-image-maker/"><u>Top-Ranked AI Enhanced Image Maker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranking-asus-router-models-in-2e24/"><u>Top-Ranking Asus Router Models in 2E24</u></a></li>
+</ul></div>
 

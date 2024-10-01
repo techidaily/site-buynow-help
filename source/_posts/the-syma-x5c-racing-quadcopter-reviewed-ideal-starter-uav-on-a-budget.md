@@ -1,7 +1,7 @@
 ---
 title: The SYMA X5C Racing Quadcopter Reviewed – Ideal Starter UAV on a Budget
-date: 2024-08-27T06:44:50.556Z
-updated: 2024-08-28T06:44:50.556Z
+date: 2024-09-27T17:37:09.850Z
+updated: 2024-10-01T17:45:01.224Z
 categories:
   - BestProducts
 description: This Article Describes The SYMA X5C Racing Quadcopter Reviewed – Ideal Starter UAV on a Budget
@@ -43,6 +43,13 @@ thumbnail: https://www.lifewire.com/thmb/uRyX-yqBs13WVczZZcn9SFh8N4I=/400x300/fi
 
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/7R_IVd_cu2-li0Lw4-mRkmgyF1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Tony Mitera
 
 [View On EBay](https://www.ebay.com/p/563813511)
@@ -67,8 +74,12 @@ thumbnail: https://www.lifewire.com/thmb/uRyX-yqBs13WVczZZcn9SFh8N4I=/400x300/fi
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: A lot of power packed into a small frame**
 
  The Beatit Jump Starter D11’s main unit's effectively a small black brick with red accents. Roughly the size of a small paperback book, the unit's constructed out of durable plastic and features a flashlight at one end. Along one of the long sides there's a small display that shows battery status, the on/off switch, two USB power outputs, and the device’s charging port. On the opposing side a rubber flap covers the jumper cable port; a unique port that the jumper cable accessory plugs in to.
@@ -87,10 +98,6 @@ thumbnail: https://www.lifewire.com/thmb/uRyX-yqBs13WVczZZcn9SFh8N4I=/400x300/fi
 
  If it's your other devices that are having some battery issues, the D11’s two USB ports can be used to charge them up. The 2.1A port provides for faster charging, and while the 1A port also works it really doesn’t provide power in a hurry and should only be used with specific devices that can’t handle the other port's amperage. For most modern phones you’re just going to want to plug it into the 2.1A port and enjoy the faster recharge.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance: Plenty of power for all your needs**
 
  Time and again, the Beatit Jump Starter D11 was able to get a car with a very[depleted battery](https://www.lifewire.com/car-batteries-are-made-to-die-534765) started. Even after repeated testing the unit’s own battery only dropped down to 85% capacity.
@@ -100,8 +107,12 @@ thumbnail: https://www.lifewire.com/thmb/uRyX-yqBs13WVczZZcn9SFh8N4I=/400x300/fi
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Key Features: The flashlight is nice but is basically a spotlight**
 
  There aren’t a ton of other features present with the Beatit Jump Starter D11 but there are some of note, including the unit’s built-in flashlight. It’s a nice addition to have if you must jump start a car in the middle of the night, but it doesn’t put out of a ton of light and the beam is pretty narrow. You can pick the unit up and use it as a large flashlight, though doing so while also trying to get the clamps attached is cumbersome.
@@ -110,9 +121,6 @@ thumbnail: https://www.lifewire.com/thmb/uRyX-yqBs13WVczZZcn9SFh8N4I=/400x300/fi
 
  Lifewire / Tony Mitera
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## **Price: A ton of value for a tiny cost**
 
  The MSRP of the Beatit Jump Starter D11 is $70 which makes it one of the most affordable jump starters on the market. Indeed, at that price, it's the least expensive one we tested, yet no part of it feels like any corners were cut in terms of quality or performance.
@@ -120,9 +128,12 @@ thumbnail: https://www.lifewire.com/thmb/uRyX-yqBs13WVczZZcn9SFh8N4I=/400x300/fi
  At that price point, it packs a ton of value into its diminutive size.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: In the battle of the smallest, this one reigns supreme**
 
 **_DBPOWER 600A Peak 18000mAh Portable Car Jump Starter:_**  When it comes down to it these two units are surprisingly similar, down to the case and overall design of the unit. If you really want the ability to use your jump starter to also charge your laptop the DBPOWER is worth a look. Otherwise, save yourself around $10 and stick with the Beatit BT-D11.
@@ -139,9 +150,6 @@ thumbnail: https://www.lifewire.com/thmb/uRyX-yqBs13WVczZZcn9SFh8N4I=/400x300/fi
 
  In a crowded field, there are few units that are as easy to recommend as the Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter. It has relatively few features when compared to some of its competitors but otherwise excels at what it's designed to do. Charge it up, keep it stashed in your vehicle, and you’ll have a perfect tool to easily provide a jump to whatever vehicle needs it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  800A BT-D11 Car Jump Starter
@@ -164,8 +172,6 @@ thumbnail: https://www.lifewire.com/thmb/uRyX-yqBs13WVczZZcn9SFh8N4I=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +179,26 @@ thumbnail: https://www.lifewire.com/thmb/uRyX-yqBs13WVczZZcn9SFh8N4I=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-payment-for-publishing-consumer-based-merchandise-viewpoints/"><u>[Updated] Payment for Publishing Consumer-Based Merchandise Viewpoints?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289899893-20245/"><u>2024年上半期最新櫻花名曲ベスト5リリース！</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/a-concierge-guide-for-monitoring-facebook-livestreams/"><u>A Concierge Guide for Monitoring Facebook Livestreams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-tp-link-re2n-ac750-wireless-repeater-in-depth-analysis/"><u>Affordable TP-Link RE2n AC750 Wireless Repeater - In-Depth Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/charting-the-best-workout-music-playlists/"><u>Charting the Best Workout Music Playlists</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smartphone-wisely-iphone-or-android/"><u>Choosing Your Smartphone Wisely: IPhone or Android?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-apple-iphone-12-pro-max-is-going-larger-a-game-changer/"><u>Comprehensive Analysis of the Apple iPhone 12 Pro Max - Is Going Larger a Game-Changer?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xperia-10-v-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Xperia 10 V support MOV videos ?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/efficiency-meets-mobility-in-depth-review-of-kensun-tire-air-filler/"><u>Efficiency Meets Mobility: In-Depth Review of Kensun Tire Air Filler</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ce-clips-best-winter-bgs-for-video-warmth/"><u>Enhance Clips Best Winter Bg's for Video Warmth</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-online-conversion-transform-your-wma-files-into-high-quality-flac-format-with-ease-movavi/"><u>Free Online Conversion: Transform Your WMA Files Into High-Quality FLAC Format with Ease - Movavi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-shadows-into-brilliance-the-transcendent-return-of-demons-souls-with-cutting-edge-graphics/"><u>From Shadows Into Brilliance - The Transcendent Return of Demon's Souls with Cutting-Edge Graphics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-xcover-7-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy XCover 7 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-14-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 14 Display? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-redefine-your-digital-world-with-latest-windows-10-gaming-and-apps/"><u>In 2024, Redefine Your Digital World with Latest Windows 10 Gaming & Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interstellar-city-planning-gone-wild-whirlwinds-and-laughter-across-the-red-planet/"><u>Interstellar City Planning Gone Wild: Whirlwinds and Laughter Across the Red Planet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-xltx-documents-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for .xltx documents</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/versatile-glow-spk10-037-softbox-kicking-up-creative-energy/"><u>Versatile Glow: SPK10-037 Softbox Kicking Up Creative Energy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/zte-blade-a3y-reviewed-delivering-high-end-specs-on-a-budget-smartphone/"><u>ZTE Blade A3Y Reviewed: Delivering High-End Specs on a Budget Smartphone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unraveling My Reservations on the Appeal of Cross-Platform Gaming
-date: 2024-09-16T12:06:14.345Z
-updated: 2024-09-19T23:37:04.321Z
+date: 2024-09-28T17:11:43.394Z
+updated: 2024-10-01T18:17:49.211Z
 tags:
   - games
   - tv
@@ -20,6 +20,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * To avoid issues with cross-play, many games allow you to turn it off in the settings if needed.
 
  Remember when cross-platform multiplayer gaming was something we all wanted? Now that we've got it, I don't think it's panned out exactly how I expected. Here's why I'm so far unimpressed by cross-platform gaming.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Cross-Platform Multiplayer Offers Gamers
 
@@ -62,10 +69,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
@@ -73,10 +80,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 ![A Razer Firefly V2 Pro gaming mouse on a light-up mouse pad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/gaming-mouse-on-therazer-firefly-v2-pro_53678776130_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -86,13 +93,6 @@ Jerome Thomas / How-To Geek
  Granted, a person can sometimes set up a keyboard and mouse for use with an [Xbox](https://on-screen-recording.techidaily.com/new-in-2024-go-pro-capturing-ps4-games-in-hd-via-obs-studio-tutorial/) or a [PS5](https://instagram-video-recordings.techidaily.com/updated-unlocking-verified-status-essential-strategies-for-increasing-instagram-popularity/), but why would you want to do that when it's a step back in terms of comfort? The accuracy boost just isn't worth it when it comes to long gaming sessions. Console players will always be more comfortable for long sessions than PC gamers locked into a keyboard and mouse.
 
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  A Few Other Considerations
 
@@ -105,6 +105,13 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
  Gameplay in cross-platform titles requires a bit more work on the developer's part. The reason so many games traditionally lacked this functionality is because of how much work goes into porting games between hardware, including testing for compatibility across platforms. It's very likely updates may cause a game to become unplayable on one platform or another.
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Can Always Turn Off Cross-Play
 
@@ -125,5 +132,21 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-mastering-the-art-of-uploading-srt-text-in-digital-communities/"><u>[New] Mastering the Art of Uploading SRT Text in Digital Communities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-creative-potential-the-artful-application-of-luts-in-premiere-pro/"><u>[New] Unlocking Creative Potential The Artful Application of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-amplify-your-facebook-presence-with-mobile-music-files/"><u>[Updated] 2024 Approved Amplify Your Facebook Presence with Mobile Music Files</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stand-out-with-style-ios-and-androids-best-apps-for-adding-stickers/"><u>2024 Approved Stand Out with Style IOS and Android's Best Apps for Adding Stickers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/efficient-laptop-recording-with-top-screenrec-tools/"><u>Efficient Laptop Recording with Top ScreenRec Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Plus To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g24-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Moto G24 Phone with Broken Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliability-ranking-jabra-steelheadphones-reviewed/"><u>Reliability Ranking: Jabra Steelheadphones Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-virtual-reality-gaming-with-highly-rated-oculus-quest/"><u>Revolutionizing Virtual Reality Gaming with Highly Rated Oculus Quest</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stay-in-shape-and-stay-tuned-with-the-ultimate-garmin-vivoactive-3-music-enabled-tracker/"><u>Stay in Shape & Stay Tuned with the Ultimate Garmin Vivoactive 3 Music-Enabled Tracker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-comparison-chart-for-choosing-a-lightweight-compact-tablet/"><u>The Definitive Comparison Chart for Choosing a Lightweight, Compact Tablet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-eufy-t8200-an-in-depth-analysis-of-the-latest-no-subscription-video-doorbells-on-market/"><u>The Eufy T8200: An In-Depth Analysis of the Latest No-Subscription Video Doorbells on Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-truth-about-googles-pixel-slate-is-chromeos-up-to-the-task/"><u>The Truth About Google's Pixel Slate: Is ChromeOS Up to the Task?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-earbuds-discover-eight-techniques-to-resolve-your-iphones-audio-limitation-problems/"><u>Unstuck From Earbuds: Discover Eight Techniques to Resolve Your iPhone's Audio Limitation Problems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Rethinking User Interfaces: Why Touch Buttons Overload Is Harming Business"
-date: 2024-09-20T16:14:09.986Z
-updated: 2024-09-26T16:09:51.348Z
+date: 2024-09-27T18:13:06.634Z
+updated: 2024-10-01T17:01:56.916Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Problem With Capacitive Touch Buttons
 
  Two things around the house routinely make me reach for the swear jar: cables and touch buttons. Cables are an unavoidable fact of life, the bane of [anyone who appreciates a nice clean setup](https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-profile-video-attraction/). But touch buttons are a deliberate choice.
@@ -37,19 +30,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
  If you’ve got wet hands, forget about it. If your hands are slightly damp, you’re rolling the dice on a 50-50 chance of success. If the button gets wet, who knows what will happen? Sometimes you don’t need moisture for these buttons to behave erratically, they just go haywire.
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
 
@@ -67,6 +47,13 @@ Tim Brookes / How-To Geek
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Are Touch Buttons Used So Much?
 
  When Apple ditched the physical home button in the iPhone 7, the company made the argument that capacitive designs require no moving parts. Unlike the previous Home button, the new design would in theory last much longer. There’s no mechanism, and no gaps for pocket fluff and other gunk to gum up the works.
@@ -83,6 +70,13 @@ Tim Brookes / How-To Geek
 
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Some Manufacturers Ditched Touch for a Reason
 
  Fortunately, not all manufacturers still think touch buttons are a good idea. For some, they fell out of favor several generations ago when lessons were learned about their usefulness.
@@ -92,10 +86,10 @@ Tim Brookes / How-To Geek
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -107,10 +101,16 @@ Tim Brookes / How-To Geek
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
@@ -132,17 +132,17 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-blueprint-for-a-viral-solitary-audio-experience/"><u>[New] Blueprint for a Viral Solitary Audio Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-clearer-horizons-the-ultimate-tweet-video-viewing-guide/"><u>[New] In 2024, Clearer Horizons The Ultimate Tweet Video Viewing Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-sidestep-the-norm-alternatives-to-vidma-screen-record/"><u>[New] In 2024, Sidestep the Norm Alternatives to Vidma Screen Record</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tips-for-capturing-high-quality-gaming-sessions/"><u>[Updated] 2024 Approved Tips for Capturing High-Quality Gaming Sessions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-guide-to-the-lg-bp350-visual-experience/"><u>2024 Approved Ultimate Guide to the LG BP350 Visual Experience</u></a></li>
-<li><a href="https://network-issues.techidaily.com/easeful-correction-unused-nvidia-monitor/"><u>Easeful Correction: Unused NVIDIA Monitor</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/genetic-regulatory-networks-controlling-sporulation-are-complex-and-involve-multiple-feedback-loops-and-signaling-pathways/"><u>Genetic Regulatory Networks Controlling Sporulation Are Complex and Involve Multiple Feedback Loops and Signaling Pathways.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/harnessing-sunlight-safely-comprehensive-analysis-of-pure-sine-wave-generator-by-aeiusy-tailored-for-critical-medical-appliances/"><u>Harnessing Sunlight Safely: Comprehensive Analysis of Pure Sine Wave Generator by Aeiusy, Tailored for Critical Medical Appliances</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-topmate-c302-cools-your-laptop-without-breaking-the-bank-in-depth-review/"><u>How the TopMate C302 Cools Your Laptop Without Breaking the Bank: In-Depth Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-to-select-the-ideal-iphone-for-serious-gamers-top-picks-revealed/"><u>How to Select the Ideal iPhone for Serious Gamers - Top Picks Revealed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-asus-rog-phone-8-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Asus ROG Phone 8 Data? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-smart-tv-app-malfunction-diagnosis-and-solutions/"><u>Samsung Smart TV App Malfunction: Diagnosis and Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-audiovisual-transition-mastery-in-adobe-premiere-for-2024/"><u>[New] Audiovisual Transition Mastery in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-amazon-fire-hd-10-tablet-analysis-the-ultimate-family-entertainment-device/"><u>Comprehensive Amazon Fire HD 10 Tablet Analysis - The Ultimate Family Entertainment Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/converse-with-computers-for-free-for-2024/"><u>Converse with Computers for Free for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-innovation-in-small-form-the-ultimate-iphone-12-mini-assessment/"><u>Discovering Innovation in Small Form: The Ultimate iPhone 12 Mini Assessment</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-role-and-function-of-slug-lines/"><u>In 2024, The Role and Function of Slug Lines</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/re-creativity-brainstorming-for-channels-names-for-2024/"><u>Inspire Creativity Brainstorming for Channels' Names for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/intriguing-insights-into-the-portable-and-economical-samsung-galaxy-s10e/"><u>Intriguing Insights Into the Portable & Economical Samsung Galaxy S10e</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-off-on-channel-titling-tips-from-experienced-filmmakers/"><u>Sounding Off on Channel Titling Tips From Experienced Filmmakers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-guide-to-the-cyberpower-cp685avrg-how-this-simple-ups-can-secure-your-devices-and-data/"><u>The Essential Guide to the CyberPower CP685AVRG: How This Simple UPS Can Secure Your Devices and Data</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-infinix-smart-8-plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Infinix Smart 8 Plus to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-8-leading-computer-manufacturers-to-watch/"><u>Top 8 Leading Computer Manufacturers to Watch</u></a></li>
 </ul></div>
 

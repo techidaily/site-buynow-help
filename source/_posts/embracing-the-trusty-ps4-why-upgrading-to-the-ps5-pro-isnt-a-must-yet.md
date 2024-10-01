@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Trusty PS4: Why Upgrading to the PS5 Pro Isn't a Must Yet"
-date: 2024-09-12T19:13:44.942Z
-updated: 2024-09-19T22:24:29.623Z
+date: 2024-09-30T17:42:12.028Z
+updated: 2024-10-01T17:18:45.919Z
 tags:
   - games
   - tv
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/2b40a723a6077cb6c79bfb5924e552b293609acaf
 
 ![The backside of a DVD disc.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53105419298_22f9e512a8_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  If I want to play a current-gen console game, there's a good chance that I can do so on my PS4 Pro. Plus, there's a decades' worth of games on the PS4 that I never got around to playing. AAA titles that sold for $60 just a few years ago now cost between $5 and $20, even when buying from retailers like GameStop or Walmart. Why spend $400 on a console and $60 on new games when I can buy a stack of cheap classics with pocket change?
@@ -36,6 +43,13 @@ Hannah Stryker / How-To Geek
  I'm willing to play devil's advocate a bit. The standard PS5 is more graphically capable than the PS4 Pro and offers an enhanced experience for my old, cheap PS4 games. Sony will take things to the next level with the PS5 Pro, which is rumored to support DLSS-like AI upscaling and enhanced ray tracing. You could also argue that some new games, like _Cyberpunk 2077_, aren't worth playing on the PS4 due to poor optimization.
 
  But do I care about a minor graphical upgrade? No, and if I did, I'd already own a standard PS5\. As for games like _Cyberpunk 2077_—well, I'll upgrade to a new game console at some point. It's no rush.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The PS5 Pro Rumors Are Boring
 
@@ -47,6 +61,13 @@ Hannah Stryker / How-To Geek
 
 ![The PS5 logo on a PlayStation 5's chassis.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53398531200_04eab5f89c_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Kris Henges / How-To Geek
 
  In retrospect, the PS4 Pro upgrade wasn't a necessity. Only about 3% of U.S. households owned a 4K TV in 2016, and 4K adoption crawled through the remainder of the 2010s (that 3% figure finally reached 50% _last year_). Yeah, you could set the PS4 Pro in "performance mode" for a more consistent frame rate, and it offered some minor graphical improvements in 1080p, but most people would have been just as happy with a PS4 Slim. I couldn't even enjoy the full benefits of my PS4 Pro until a year or two ago (and I was disappointed by the half-baked 4K upscaling in most games).
@@ -56,28 +77,15 @@ Kris Henges / How-To Geek
  Very few people can take advantage of 8K video. An 8K TV currently costs about $2,500, and 8K TVs account for less than 1% of TV sales. So, for most people, the PS5 Pro upgrade is just a frame rate enhancement and a boost in ray tracing quality (though, again, it's up to developers to implement this stuff). I'm sure that the PS5 Pro will encourage 8K TV adoption, but 8K TVs won't be ubiquitous until several years from now. By that time, we may be celebrating the PS6 Pro launch.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  When the Time Comes, I'll Get a Used PS5
 
 ![A PlayStation 5 console on a white table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/52625290774_4a81dec792_o.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -102,5 +110,26 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads/"><u>[New] 2024 Approved Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mirthful-methodology-making-memes-for-free/"><u>[New] 2024 Approved Mirthful Methodology Making Memes for Free</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-blueprint-to-dominate-instagram-with-puzzles/"><u>[Updated] 2024 Approved The Ultimate Blueprint to Dominate Instagram With Puzzles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevating-video-previews-a-compreayer-approach-for-youtube/"><u>[Updated] In 2024, Elevating Video Previews A Compreayer Approach for YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/a-guide-to-profitable-animated-fb-advertising-techniques-for-2024/"><u>A Guide to Profitable, Animated FB Advertising Techniques for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoid-frustration-expert-advice-how-to-keep-maplestory-running-smoothly-on-windows-10-new-tips/"><u>Avoid Frustration! Expert Advice: How To Keep MapleStory Running Smoothly on Windows 10 (New Tips)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-top-e-readers-ipad-kindle-and-nook-head-to-head/"><u>Comparing Top E-Readers: IPad, Kindle, and Nook Head-to-Head</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-sony-xperia-5-v-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Sony Xperia 5 V Without PUK Codes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-wifi-ac-3160-driver-update-fast-and-simple-installation-guide/"><u>Intel WiFi AC 3160 Driver Update: Fast & Simple Installation Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-usb-wi-fi-adapters-on-the-market/"><u>Top Rated USB Wi-Fi Adapters on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-score-in-depth-analysis-of-the-amazfit-bip-the-budget-friendly-smartwatch/"><u>Top Score! In-Depth Analysis of the Amazfit BIP - The Budget-Friendly Smartwatch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-server-rack-systems-and-cabinets-2024-edition/"><u>Top-Rated Server Rack Systems & Cabinets - 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-a-tablet-by-its-chip-performance/"><u>Ultimate Guide to Choosing a Tablet by Its Chip Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-asus-orbi-tri-band-mesh-network-with-wi-fi-6-for-robust-household-internet-coverage/"><u>Ultimate Guide to the Asus Orbi Tri-Band Mesh Network with Wi-Fi 6 for Robust Household Internet Coverage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-review-a-closer-look-at-features-camera-and-more-on-google-pixel-6/"><u>Unboxing & Review: A Closer Look at Features, Camera, and More on Google Pixel 6</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-professional-photo-editing-skills-with-darktables-free-linux-and-macos-raw-processor/"><u>Unleash Professional Photo Editing Skills with Darktable's FREE Linux & macOS RAW Processor.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-budget-friendly-phones-with-a-moto-g-stylus-review/"><u>Unlocking the Potential of Budget-Friendly Phones with a Moto G Stylus Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-strengths-of-nokias-72-a-comprehensive-look-at-a-mid-range-market-disruptor/"><u>Unpacking the Strengths of Nokia's 7.2: A Comprehensive Look at a Mid-Range Market Disruptor</u></a></li>
+</ul></div>
 

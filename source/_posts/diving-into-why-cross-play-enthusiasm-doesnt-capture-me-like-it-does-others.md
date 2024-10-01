@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2024-09-23T16:19:04.443Z
-updated: 2024-09-26T16:06:47.094Z
+date: 2024-09-24T17:13:47.780Z
+updated: 2024-10-01T18:06:11.294Z
 tags:
   - games
   - tv
@@ -29,6 +29,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Controller Mis-Matching and Aim Assist
 
 ![mouse keyboard controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/mouse-keyboard-controller.png) 
@@ -40,19 +53,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  Some games offer an [aim-assist for console players](https://youtube-sure.techidaily.com/approved-transform-video-vendoring-into-virtual-ventures-and-valuables/) to give them a more even footing with PC players. _Call of Duty Warzone_ offers a pretty well-defined aim assist setting for controller players, sometimes making it even better than playing with a mouse and keyboard. However, if you're not a controller owner, it's likely that you'll still have better base accuracy and may dominate in online play.
 
  A few games offer "controller matching" to avoid this issue, allowing players to match with other players who are using the same hardware. This would be a better feature if more games included it, but sadly, it's not seen on a lot of cross-platform titles. This is only an issue when you're playing competitive PVP titles, however. Co-op titles don't need any adjusting for this metric.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Mouse-and-Keyboard vs. Controller War
 
@@ -67,10 +67,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Problems That Impact Competitive Play
@@ -80,6 +80,13 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  PVP play in titles like _War Thunder_ and _Overwatch 2_ requires players to have more-or-less the same footing. Unfortunately, that's not always the case. As someone who's played both of these titles with both control schemes, there's a distinct difference in how they handle that's more than just getting used to the controls.
 
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
@@ -93,16 +100,16 @@ Jerome Thomas / How-To Geek
 
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Few Other Considerations
 
 ![Several electronic devices sharing the same screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/cross-platform-computer-smartphone-gaming.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-illustration-on-theme-cross-platform-1335072044)_
 
@@ -111,13 +118,6 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
  Gameplay in cross-platform titles requires a bit more work on the developer's part. The reason so many games traditionally lacked this functionality is because of how much work goes into porting games between hardware, including testing for compatibility across platforms. It's very likely updates may cause a game to become unplayable on one platform or another.
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Can Always Turn Off Cross-Play
 
@@ -140,22 +140,24 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ownload-youtube-videos-on-android-9-powerful-apps-compared-for-2024/"><u>[New] Download YouTube Videos on Android 9 Powerful Apps Compared for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/asy-steps-how-to-master-the-best-of-9-free-youtube-logomakers/"><u>[New] Easy Steps How to Master the Best of 9 Free YouTube Logomakers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expert-selection-of-10-premium-spotify-soundscape-tools/"><u>[Updated] In 2024, Expert Selection of 10 Premium Spotify Soundscape Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-detailed-analysis-of-grand-quests-in-yokus-island-express-where-surprises-abound/"><u>A Detailed Analysis of Grand Quests in Yoku's Island Express: Where Surprises Abound</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-play-8t-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Play 8T</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/creating-captivating-loops-for-instagram-posts-for-2024/"><u>Creating Captivating Loops for Instagram Posts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-easy-online-downloader-for-your-pin-videos/"><u>In 2024, Free, Easy Online Downloader for Your Pin Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/top-10-best-4k-tvs-for-2024/"><u>Top 10 Best 4K TVs for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994186467-troubleshooting-the-fifa-21-failed-startup-problems-fixed/"><u>Troubleshooting the FIFA 21 Failed Startup Problems - Fixed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-free-floating-earphones-guide-2024-edition/"><u>Ultimate Free-Floating Earphones Guide: 2024 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-potential-with-the-apple-iphone-a-comprehensive-review-for-tech-enthusiasts/"><u>Unlocking Potential with the Apple iPhone 지급처 - A Comprehensive Review for Tech Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-ambient-weather-ws-1002-wifi-thermometer-is-quality-worth-its-price/"><u>Unveiling the Ambient Weather WS-1002 WiFi Thermometer: Is Quality Worth Its Price?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-features-of-the-samsung-galaxy-tab-s7-why-its-perfect-for-tech-savvy-users/"><u>Unveiling the Best Features of the Samsung Galaxy Tab S7 - Why It's Perfect for Tech Savvy Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-a-complete-guide-to-kobo-clara-color/"><u>Unveiling the Features: A Complete Guide to Kobo Clara Color</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-linksys-ea8300-enhancing-your-network-experience/"><u>Unveiling the Potential of Linksys EA8300: Enhancing Your Network Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723025921339-why-apple-users-will-love-the-newly-reviewed-freestyle2-in-sapphire-blue-edition/"><u>Why Apple Users Will Love the Newly-Reviewed Freestyle2 in Sapphire Blue Edition.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unbeatable-prices-for-top-6-action-cams-under-100/"><u>[New] Unbeatable Prices for Top 6 Action Cams Under $100</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-multi-snapping-made-simple-in-snapchat-video-edits/"><u>[Updated] Multi-Snapping Made Simple in Snapchat Video Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-composers-toolkit-for-flawless-image-finishing/"><u>[Updated] The Composer's Toolkit for Flawless Image Finishing</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-90-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor 90 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-uniden-r3-top-quality-design-for-long-distance-radar-alerts/"><u>Comprehensive Review of the Uniden R3 - Top-Quality Design for Long Distance Radar Alerts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-amazon-essentials-tablet-stand-a-perfect-travel-companion/"><u>Evaluating the Amazon Essentials Tablet Stand: A Perfect Travel Companion</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v29-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V29 Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-mp4-to-swf-converter-moveave/"><u>Free Online MP4 to SWF Converter - Moveave</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-ring-video-doorbell-pro-revolutionizes-home-security-a-detailed-review/"><u>How the Ring Video Doorbell Pro Revolutionizes Home Security – A Detailed Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-anticheat-connection-failed-issue-in-escape-from-tarkov/"><u>How to Fix the 'Anticheat Connection Failed' Issue in Escape From Tarkov</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-which-is-superior-ring-or-nest-doorbells/"><u>In Depth Review: Which Is Superior - Ring or Nest Doorbells?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/map-all-nations-with-latin-roots/"><u>Map: All Nations with Latin Roots</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/masterclass-on-samsungs-galaxy-note-9-a-pinnacle-achievement-for-high-resolution-big-screen-devices/"><u>Masterclass on Samsung's Galaxy Note 9: A Pinnacle Achievement for High-Resolution Big Screen Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-chatgpt-moderation-errors/"><u>Solutions for Resolving ChatGPT 'Moderation Errors'</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sony-xbr65x850f-65-inch-4k-tv-quality-and-price-that-wont-break-the-bank/"><u>Sony XBR65X850F (65-Inch) 4K TV: Quality & Price That Won't Break The Bank!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/space-saga-with-a-twist-uncover-the-entertaining-story-in-the-outer-worlds/"><u>Space Saga with a Twist: Uncover the Entertaining Story in 'The Outer Worlds'</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-usb-stick-picks-your-ultimate-guide/"><u>Top-Rated USB Stick Picks : Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/value-meets-quality-in-the-zte-blade-a3y-an-in-depth-review-of-performance/"><u>Value Meets Quality in the ZTE Blade A^3Y - An In-Depth Review of Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
-date: 2024-09-20T16:26:00.258Z
-updated: 2024-09-26T16:35:21.097Z
+date: 2024-09-30T17:25:16.555Z
+updated: 2024-10-01T17:50:10.341Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Steam’s latest clicker game sensation has users trading virtual bananas on the Steam Community Market for hundreds of real-world dollars. Just what is going on?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  This Game Is Bananas
@@ -35,16 +35,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A virtual banana from the Banana game on Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ss_641d6402187d5335b1e345498f0eff293a054f75-1920x1080.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1975636">
+<span id="1993654">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Pony / Sky / AestheticSpartan
@@ -54,10 +54,10 @@ Pony / Sky / AestheticSpartan
  These in-game items may be given out for free, but they can be traded on the Steam Community Market for real money. You can buy and sell bananas from as little as a few cents up to hundreds or thousands of dollars. The rarer the banana, the higher the value the community has assigned to it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Really Going On Here?
@@ -69,10 +69,10 @@ Pony / Sky / AestheticSpartan
 ![The free-to-play Banana game in third place on the Steam charts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-12-at-12-32-52.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’s still a bit of a mystery what’s really going on here. The game makes no claims that in-game items have any inherent value so on the surface, Banana seems innocent enough. The game doesn’t appear to be doing anything in the background (so it’s not a stealthy crypto miner), and you don’t even need to leave it open as long as you open it regularly for a few clicks to collect your fruit.
@@ -102,22 +102,22 @@ Pony / Sky / AestheticSpartan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-acclaimed-top-5-effortless-action-camcorders/"><u>[New] In 2024, Acclaimed Top 5 Effortless Action Camcorders</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-can-youtube-sub4sub-really-enhance-viewing-experience/"><u>[Updated] In 2024, Can YouTube Sub4Sub Really Enhance Viewing Experience?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-screen-recordings-on-windows-10-systems-for-2024/"><u>[Updated] Mastering Screen Recordings on Windows 10 Systems for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-step-by-step-crafting-captivating-haul-videos/"><u>2024 Approved Step-by-Step Crafting Captivating Haul Videos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-audio-elite-choosing-the-best-wires-for-you/"><u>2024'S Audio Elite: Choosing the Best Wires for You</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-lenovo-chromebook-duet-evaluation-a-comprehensive-look-at-the-cost-effective-tabletlaptop-hybrid/"><u>Affordable Lenovo Chromebook Duet Evaluation: A Comprehensive Look at the Cost-Effective Tablet/Laptop Hybrid</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/aminy-ufo-review-looks-can-be-deceiving/"><u>Aminy UFO Review: Looks Can Be Deceiving</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/asian-miniature-villages-in-creative-sphere-of-mc-for-2024/"><u>Asian Miniature Villages in Creative Sphere of MC for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/barnes-and-nobles-nook-glowlight-ereader-review-your-perfect-book-companion-in-the-dark/"><u>Barnes & Noble's Nook GlowLight eReader Review: Your Perfect Book Companion in the Dark</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bt-d11-by-beatit-a-comprehensive-review-of-the-robust-jump-starter/"><u>BT-D11 by Beatit: A Comprehensive Review of the Robust Jump Starter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/capitalize-on-prime-day-savings-top-picks-for-high-performance-benq-tech/"><u>Capitalize on Prime Day Savings: Top Picks for High-Performance BenQ Tech</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-enhanced-security-with-ring-doorbell-proplus/"><u>Comprehensive Evaluation of Enhanced Security with Ring Doorbell Pro+</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-maxoak-185wh-50000mah-power-bank-the-ultimate-all-rounder/"><u>Comprehensive Evaluation of MaxOak 185Wh / 50,000mAh Power Bank - The Ultimate All-Rounder</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-cameras-top-15-picks-innovation/"><u>Cutting-Edge Cameras Top 15 Picks Innovation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-launching-a-graphics-career-strategies-and-steps/"><u>In 2024, Launching a Graphics Career Strategies and Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-free-gaming-fixing-sound-malfunctions-on-laptops-efficiently/"><u>Noise-Free Gaming: Fixing Sound Malfunctions on Laptops Efficiently</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/peering-into-the-discontent-with-nikons-l340-camera/"><u>Peering Into the Discontent with Nikon's L340 Camera</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-quick-thumbnail-tips-for-youtube-success/"><u>[Updated] Quick Thumbnail Tips for YouTube Success</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-cumuluspro-anti-fatigue-mat-assessment-for-enhanced-standing-desks/"><u>Comprehensive CumulusPRO Anti-Fatigue Mat Assessment for Enhanced Standing Desks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-analysis-of-kooteks-notebook-airflow-solution-the-best-all-in-one-for-your-device/"><u>Detailed Analysis of Kootek's Notebook Airflow Solution: The Best All-in-One for Your Device?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266779947-discover-the-secret-behind-successful-web-analytics-powered-by-cookiebot/"><u>Discover the Secret Behind Successful Web Analytics: Powered by Cookiebot!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-telecommunications-quality-on-zoom/"><u>Enhance Telecommunications Quality on Zoom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-for-snagging-superior-pixels-without-spending/"><u>Expert Tips for Snagging Superior Pixels Without Spending</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-does-the-samsung-55-4k-ru7300-smart-tv-hold-up-a-comprehensive-analysis/"><u>How Does the Samsung 55'' 4K RU7300 Smart TV Hold Up: A Comprehensive Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immersive-entertainment-unleashed-discover-the-ultimate-picture-quality-of-lg-65-inch-c9-led-oled-set/"><u>Immersive Entertainment Unleashed: Discover the Ultimate Picture Quality of LG 65-Inch C9 LED OLED Set</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immersive-test-drive-unveiling-the-power-and-potential-of-the-apple-iphone-15-pro/"><u>Immersive Test Drive: Unveiling the Power and Potential of the Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-itel-p40plus-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Itel P40+ Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-decades-guide-to-superior-social-media-management-smm/"><u>In 2024, The Decade's Guide to Superior Social Media Management (SMM)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-xs-max-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone XS Max on MetroPCS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-netgears-nighthawk-x6-the-ultimate-guide-to-wi-fi-mesh-technology/"><u>In-Depth Analysis of Netgear's Nighthawk X6 - The Ultimate Guide to Wi-Fi Mesh Technology</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-an-impression-top-video-invitation-tools-for-ios-and-android/"><u>New 2024 Approved Make an Impression Top Video Invitation Tools for iOS and Android</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/on-the-move-wi-fi-with-tp-links-compact-tl-wr9eb-the-ideal-travel-router/"><u>On-the-Move Wi-Fi with TP-Link's Compact TL-WR9eb: The Ideal Travel Router</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimal-frequency-for-smartphone-upgrades-when-to-get-the-latest-model/"><u>Optimal Frequency for Smartphone Upgrades: When to Get the Latest Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-gen-2-google-nest-hub-the-features-without-a-lens-reviewed/"><u>Unboxing Gen 2 Google Nest Hub: The Features Without a Lens Reviewed!</u></a></li>
 </ul></div>
 
