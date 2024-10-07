@@ -1,7 +1,7 @@
 ---
 title: 45 Review & Features Tailored for the Avid Marathoner
-date: 2024-08-27T06:42:27.250Z
-updated: 2024-08-28T06:42:27.250Z
+date: 2024-10-06T01:55:40.170Z
+updated: 2024-10-07T00:47:53.513Z
 categories:
   - BestProducts
 description: This Article Describes 45 Review & Features Tailored for the Avid Marathoner
@@ -67,6 +67,13 @@ Lifewire / Todd Braylor
 
 ![Garmin Forerunner 45](https://www.lifewire.com/thmb/oA3-JLbM6PIUG83S2eDF63Qprhs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4057119-02-2ae60f7c5a5345ccad8649eadf02637c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Todd Braylor
 
 ## **Setup Process: Charge, sync, and go**
@@ -79,18 +86,6 @@ Lifewire / Todd Braylor
 
 ![Garmin Forerunner 45](https://www.lifewire.com/thmb/dDyZtrCdCkQOgVcBV6cAwVcFi68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4057119-04-2c87d86b2b60411b9ebf6696851a2d3b.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Todd Braylor
 
 ## **Design: Traditional digital watch design with all-day comfort**
@@ -105,12 +100,15 @@ Lifewire / Todd Braylor
 
 ![Garmin Forerunner 45](https://www.lifewire.com/thmb/nHZkcIXB7C8qBgrCAwhmdxoMV0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4057119-03-b3713bbdd0f244b889d434fbe17613b7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## **Performance: Sport modes, sleep tracking, and Garmin Coach**
 
  We tested the Forerunner 45 on a series of daily trail runs plus a long run and were pleased with its functionality. It features an optical heart rate sensor that charts your average and max heart rates plus an estimation of your V02 max⁠ (the maximum amount of oxygen you can uptake during exercise).
@@ -132,8 +130,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Garmin Coach can also adjust itself based on performance metrics like heart rate and V02 max to either push you if you’re improving or dial things back if you're going too hard.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery: Long battery life for days of activity or races**
 
  The Garmin Forerunner 45 has a rechargeable lithium battery that can last up to seven days in normal watch mode and up to 13 hours continuously when in GPS mode.
@@ -142,7 +144,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Garmin Forerunner 45](https://www.lifewire.com/thmb/n0CH4Oi-eCGFGFAbYCvyN1zYh5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4057119-05-60bd2ccaf84c4b588407fb69ec57cf39.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Todd Braylor
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Minimal graphics with widgets in place of apps**
 
@@ -158,9 +174,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  The safety alert is similar, allowing you to send a preset alert message with your location as a follow link to a designated emergency contact. But unlike incident detection, the safety alert is sent manually and designed to be used any time you find yourself in a potentially unsafe situation while out running or biking. Both of these features require that your smartphone is within Bluetooth range.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Training essentials for a decent price**
 
  The Garmin Forerunner 45 carries an MSRP of $199.99, which is a pretty decent deal for a GPS watch with the added Garmin Coach features.
@@ -169,18 +182,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Unless you are specifically looking for other features in a Garmin GPS watch for specific uses, chances are you won't miss them for daily running with the Forerunner 45.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Garmin Forerunner 45 vs. Polar Ignite**
 
  Options abound in the active lifestyle wearables market, and the $200 range is a good benchmark price for getting a full-GPS watch with a variety of training tools.
@@ -201,9 +202,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  The Garmin Forerunner 45 is streamlined to provide all your core training features at a good price. It is definitely geared towards runners and relies pretty heavily on a smartphone connection for its more advanced features. But if you are looking for a reliable GPS watch to help you train—and you don't want to spend too much—the Forerunner 45 is worth considering.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Amazfit Bip](https://www.lifewire.com/amazfit-bip-review-4773112)
@@ -236,8 +234,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +241,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cured-non-appearance-of-tiny-vid-content/"><u>[New] In 2024, Cured Non-Appearance of Tiny Vid Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-hilarity-highway-the-funniest-youtube-videos-on-twitter/"><u>[New] In 2024, Hilarity Highway The Funniest YouTube Videos on Twitter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-the-essentials-of-burst-in-action-shots/"><u>[Updated] Understanding the Essentials of Burst in Action Shots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-editing-harnessing-photoshops-eraser/"><u>2024 Approved Precision Editing Harnessing Photoshop’s Eraser</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-essential-srt-compendium-for-all-levels/"><u>2024 Approved The Essential SRT Compendium for All Levels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-high-performance-cable-modems-for-seamless-connectivity/"><u>Discover High-Performance Cable Modems for Seamless Connectivity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-poco-m6-pro-4g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Poco M6 Pro 4G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-performance-and-convenience-with-the-brand-new-ampace-andes-1500-battery-pack/"><u>Evaluating Performance and Convenience with the Brand-New Ampace Andes 1500 Battery Pack</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-value-of-a-solid-budget-choice-the-hisense-h5590f-40-smart-television-review/"><u>Evaluating the Value of a Solid Budget Choice: The Hisense H5590F 40 Smart Television Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-samsung-galaxy-a51-with-5g-superior-performance-meets-affordability/"><u>Expert Review of Samsung Galaxy A51 with 5G: Superior Performance Meets Affordability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-the-best-value-for-an-amplified-tv-signal-the-1byone-digital-indoor-antenna/"><u>Experts Weigh In on the Best Value for an Amplified TV Signal: The 1byOne Digital Indoor Antenna</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-familiar-with-the-ultimate-arlo-defense-for-homes/"><u>Get Familiar With the Ultimate Arlo Defense for Homes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-effective-is-the-philips-hf35-5-wake-up-light-a-closer-look-at-this-alarm-innovation/"><u>How Effective Is the Philips HF35 5 Wake-Up Light? A Closer Look at This Alarm Innovation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-choose-the-best-low-cost-remobell-video-doorbell-on-amazon/"><u>How to Choose the Best Low-Cost RemoBell Video Doorbell on Amazon</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-lg-k51-assessment-elegant-aesthetics-overshadowed-by-performance-issues/"><u>In-Depth LG K51 Assessment: Elegant Aesthetics Overshadowed by Performance Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/is-it-possible-to-quick-review-on-windows-heres-how-for-2024/"><u>Is It Possible to Quick Review on Windows? Here’s How for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/risks-of-performing-a-factory-reset-on-your-pixel/"><u>Risks of Performing a Factory Reset on Your Pixel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-converting-your-mpeg4-videos-into-advanced-h2n64-compression-standard-quickly-and-effectively/"><u>Step-by-Step Guide: Converting Your MPEG4 Videos Into Advanced H2n64 Compression Standard Quickly and Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-star-citizen-windows-system-crashes-and-game-instability/"><u>Troubleshooting Guide: Fixing Star Citizen Windows System Crashes & Game Instability</u></a></li>
+</ul></div>
 

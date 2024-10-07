@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of the Flexispot Theodore Standing Desk - A Sleek Choice for Contemporary Offices
-date: 2024-08-27T06:44:20.640Z
-updated: 2024-08-28T06:44:20.640Z
+date: 2024-10-05T22:31:15.476Z
+updated: 2024-10-06T17:26:16.062Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Review of the Flexispot Theodore Standing Desk - A Sleek Choice for Contemporary Offices
@@ -81,22 +81,20 @@ Lifewire / Erika Rawes
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## **Performance: Almost two dozen channels (in a rural area)**
 
  So many things[affect an antenna’s performance](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) —location, household electronics, tree cover, tower location, and more. The antenna displays channels of high quality. However, sometimes the channels would take a few seconds to load, and other times, I’d see a pixelated effect when I first changed the channel that would clear up after a few seconds. Once the picture was fully loaded, it was in clear high definition. The antenna is capable of displaying a clear HD picture, so I couldn’t tell the difference between the antenna’s picture and the picture from streaming services like Hulu or Netflix.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/GRXmDZjwX-_X2TyOZoHytHKrjDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-3-70b77c023b7049ef985c61cf6f5064ad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 ## **Range: 35 miles**
@@ -107,20 +105,28 @@ Lifewire / Erika Rawes
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Super affordable**
 
  The AmazonBasics Flat TV antenna sells in used condition on Amazon for only $13\. In new condition, it sells for $20, which is still a great deal. However, you can find other affordable antennas for between $20 and $50 that provide a much longer range, and many offer additional features, like a longer cable. With the AmazonBasics model, you can return the unit within 30 days if it doesn’t work in your area.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/MN6DSsu9Myyo6CdrSW5MJTjHoug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-4-fd9968307cb44c9d9e824750413e0028.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **AmazonBasics Indoor TV Antenna vs. Antop AT-127 Antenna**
 
  The Antop AT-127 (see[online](https://www.lowes.com/pd/ANTOP-Omni-Directional-Indoor-HD-UHF-VHF-TV-Antenna/1000503257?) ) is a 40-mile range antenna that sells for around $35\. It’s one of the better-looking antennas I’ve seen, as it’s reversible with faux light wood and dark wood sides. Unlike the AmazonBasics antenna, the Antop comes with a stand, and it has an easy-push connector for faster setup. These features go some ways towards justifying the Antop's higher price tag.
@@ -132,8 +138,12 @@ Lifewire / Erika Rawes
  The AmazonBasics Antenna is a good option for anyone who wants an ultra-cheap way to get broadcast TV.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Ultra-Thin Antenna
@@ -150,14 +160,11 @@ Lifewire / Erika Rawes
 * Ports  Coax
 * Cable length  10-foot Coax Cable
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +173,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-minds-on-trial-select-escapes-that-challenge-you/"><u>[New] In 2024, Minds on Trial Select Escapes That Challenge You</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/roubleshooting-techniques-for-optimized-video-shorts-for-2024/"><u>[New] Troubleshooting Techniques for Optimized Video Shorts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-leading-video-shaping-tools-in-big-sur-release/"><u>2024 Approved Mac's Leading Video Shaping Tools in Big Sur Release</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-4g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 4G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-capturing-perfection-an-overview-of-the-5-best-cams/"><u>In 2024, Capturing Perfection An Overview of the 5 Best Cams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-electrical-energy-the-best-lipo-for-uavs/"><u>In 2024, Mastering Electrical Energy The Best LiPo for UAVs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/initially-skeptical-of-youtube-music-discover-how-its-unique-features-transformed-my-opinion/"><u>Initially Skeptical of YouTube Music? Discover How Its Unique Features Transformed My Opinion!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-chromebox-mini-the-perfect-toolkit-for-diy-enthusiasts-and-makers/"><u>Lenovo Chromebox Mini: The Perfect Toolkit for DIY Enthusiasts & Makers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/master-pc-gameplay-by-seamlessly-integrating-controller-and-mouse/"><u>Master PC Gameplay by Seamlessly Integrating Controller and Mouse</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-fun-with-zero-costs-discover-fantastic-free-to-play-gaming-events/"><u>Maximize Your Fun with Zero Costs: Discover Fantastic Free-to-Play Gaming Events!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-order-frequency-with-the-latest-update-on-doordashs-dashpass-perk/"><u>Maximize Your Order Frequency with the Latest Update on DoorDash's DashPass Perk!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-investment-on-netflix-top-7-strategies-for-optimal-enjoyment/"><u>Maximizing Your Investment on Netflix: Top 7 Strategies for Optimal Enjoyment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/microsoft-announces-closure-of-xbox-360-marketplace-in-current-month/"><u>Microsoft Announces Closure of Xbox 360 Marketplace in Current Month</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/multicolor-3d-printing-a-step-by-step-guide/"><u>Multicolor 3D Printing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paramountplus-announces-another-round-of-price-hikes-a-predictable-pattern/"><u>Paramount+ Announces Another Round of Price Hikes: A Predictable Pattern</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rt-of-youtube-thumbnails-for-mac-professionals-for-2024/"><u>The Art of YouTube Thumbnails for Mac Professionals for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-youtube-short-video-insights-for-2024/"><u>The Ultimate Guide to YouTube Short Video Insights for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-printing-experience-secure-new-drivers-for-epson-wf-3620-on-windows-1187/"><u>Upgrade Your Printing Experience: Secure New Drivers for Epson WF-3620 on Windows 11/8/7</u></a></li>
+</ul></div>
 

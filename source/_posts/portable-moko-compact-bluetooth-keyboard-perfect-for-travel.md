@@ -1,7 +1,7 @@
 ---
 title: Portable MoKo Compact Bluetooth Keyboard - Perfect for Travel
-date: 2024-08-27T06:44:08.933Z
-updated: 2024-08-28T06:44:08.933Z
+date: 2024-10-05T20:48:45.678Z
+updated: 2024-10-06T18:27:04.227Z
 categories:
   - BestProducts
 description: This Article Describes Portable MoKo Compact Bluetooth Keyboard - Perfect for Travel
@@ -64,8 +64,12 @@ Lifewire / Nick Jaynes
  Lifewire / Nick Jaynes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: All-plastic, but sturdy and subtle**
 
  The Anker PowerDrive 2 might not be the sharpest or most cutting-edge looking in-car USB charger, but what it lacks in visual pizazz, it more than makes up for in sturdiness.
@@ -79,8 +83,12 @@ Lifewire / Nick Jaynes
  Lifewire / Nick Jaynes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Fast charging for demanding devices**
 
  The best part of the Anker PowerDrive 2 is its charging. It has the ability to charge iPads simultaneously without getting overheated thanks to its PowerIQ and VoltageBoost technology. Each USB port can output a maximum 5V/2.4A, for a total of 24W. That’s in line with other car[chargers](https://www.lifewire.com/best-wireless-phone-chargers-4138571) we tested, but the PowerIQ technology can help identify device and deliver the fastest possible charge. This also gives you some overvoltage protection to make sure something like a smartwatch doesn’t fry when you plug it in.
@@ -92,8 +100,12 @@ Lifewire / Nick Jaynes
  One thing to note is that the PowerDrive 2 includes a micro USB cable, in case you don’t want to carry your device’s cable everywhere with you. That’s a nice touch we didn’t get with other chargers we tested.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Middle of the pack**
 
  The list price of $14.99 is positioned in the mid-range of the USB charger market, which ranges from just a few dollars to upwards of $50 for some fancier chargers. However, Anker PowerDrive 2 can be had for a discounted price on some websites. Considering the fact that the Anker PowerDrive 2 includes both the fast-charger and a 3-foot micro USB cable, it is well priced for the marketplace.
@@ -101,8 +113,12 @@ Lifewire / Nick Jaynes
  Lifewire / Nick Jaynes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: A handful of rivals**
 
  The RAVPower 24W charger is one of Anker’s main rivals. It has a metal exterior, a lower price tag, and theoretically identical power output. However, its construction is far less robust. In fact, its metal outside easily separates from the internal components easily making Anker a better pick for longevity.
@@ -117,10 +133,6 @@ Lifewire / Nick Jaynes
 
  The price is fair, the charging is fast, and the design is unobtrusive. It’s hard to ask for much more.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  PowerDrive 2 24W Dual USB Car Charger
@@ -138,8 +150,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +157,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-techniques-for-implementing-luts-in-creative-suite/"><u>[New] Advanced Techniques for Implementing LUTs in Creative Suite</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-expert-video-capture-maximizing-performance-with-logitech-webcam-tech/"><u>[New] In 2024, Expert Video Capture Maximizing Performance with Logitech Webcam Tech</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-art-of-making-dormant-facebook-vids-pop-up-again/"><u>[New] Mastering the Art of Making Dormant Facebook Vids Pop Up Again</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-edge-2023-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Edge 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-thor-vs-darth-vader-desktop-screen-by-china-dazzling-deal-at-just-139/"><u>Affordable 'Thor vs Darth Vader' Desktop Screen by China - Dazzling Deal at Just $139!</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-could-reels-elevate-over-tiktok-struggles/"><u>Facebook, Could Reels Elevate over TikTok Struggles?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-constant-freezing-and-crashes-on-world-of-tanks-blitz-game/"><u>How to Fix Constant Freezing and Crashes on World of Tanks Blitz Game</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/movavi-tutoriel-pour-convertir-des-videos-flv-en-fichiers-audio-aiff-gratuitement-sur-internet/"><u>Movavi: Tutoriel Pour Convertir Des Vidéos FLV en Fichiers Audio AIFF Gratuitement Sur Internet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-a18-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo A18</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stream-live-nbawnba-matches-all-you-need-to-know-about-upcoming-platforms/"><u>Stream Live NBA/WNBA Matches: All You Need To Know About Upcoming Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/summer-bundle-alert-disneyplus-hulu-and-max-coming-together-in-exclusive-media-deal/"><u>Summer Bundle Alert: Disney+, Hulu & Max Coming Together in Exclusive Media Deal</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-nostalgic-appeal-exploring-six-key-reasons-why-gamers-miss-classic-loading-screens-today/"><u>The Nostalgic Appeal: Exploring Six Key Reasons Why Gamers Miss Classic Loading Screens Today</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-surprising-reason-my-love-hate-relationship-with-pc-gaming-controllers/"><u>The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-top-5-amazing-benefits-of-rediscovering-classic-video-games-a-guide/"><u>The Top 5 Amazing Benefits of Rediscovering Classic Video Games – A Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-5-reasons-to-choose-a-kobo-tablet-instead-of-a-kindle-e-reader/"><u>Top 5 Reasons to Choose a Kobo Tablet Instead of a Kindle E-Reader</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-pick-sbcs-the-most-advanced-and-versatile-microcomputers/"><u>Top Pick SBCs: The Most Advanced and Versatile Microcomputers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transform-your-mobile-gaming-with-razer-kishi-ultra-a-high-end-controller-for-your-smartphone/"><u>Transform Your Mobile Gaming with Razer Kishi Ultra: A High-End Controller for Your Smartphone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-your-gaming-clutter-strategies-beyond-the-mountain-of-missed-opportunities/"><u>Transforming Your Gaming Clutter: Strategies Beyond the 'Mountain of Missed Opportunities'</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-online-video-editing-top-tools-for-flipping-clips/"><u>Updated 2024 Approved Online Video Editing Top Tools for Flipping Clips</u></a></li>
+</ul></div>
 

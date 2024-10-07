@@ -1,7 +1,7 @@
 ---
 title: Is the Budget-Friendly Mobvoi TicWatch E2 Truly Value for Money? Our Review Says...
-date: 2024-08-27T06:44:10.170Z
-updated: 2024-08-28T06:44:10.170Z
+date: 2024-10-03T17:58:13.152Z
+updated: 2024-10-07T01:10:19.391Z
 categories:
   - BestProducts
 description: This Article Describes Is the Budget-Friendly Mobvoi TicWatch E2 Truly Value for Money? Our Review Says...
@@ -39,9 +39,23 @@ thumbnail: https://www.lifewire.com/thmb/SOwSLoX8KnFe1-pYnuKfflhGBCs=/400x300/fi
 
 2.7
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mobvoi TicWatch E2
 
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/m6uN8BF7na_BgK7uG5tlTXJUVGE=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4048042_HeroSquare-7e25ae1c0a8f461dbfc03047ae303254.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -71,9 +85,6 @@ thumbnail: https://www.lifewire.com/thmb/SOwSLoX8KnFe1-pYnuKfflhGBCs=/400x300/fi
 
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design and Comfort: Nondescript, but the screen is great**
 
  The TicWatch E2 is a big, beefy smartwatch, with a 1.39-inch circular display surrounded by a black plastic bezel. There's a bit of detail in there, including a circular pattern on the fixed bezel and some slope to the lugs that attach to the bands, but it's all the same color and matte texture. Physically, the TicWatch E2 just doesn't stand out very much at all.
@@ -91,8 +102,12 @@ Lifewire / Andrew Hayward
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/t4sUe11h-gHM3ay_lmy4BHeuPcM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4048042_04-850d439e303b49fda5c69c166f5035de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 ## **Performance: Sometimes fine, sometimes not**
@@ -107,9 +122,6 @@ Lifewire / Andrew Hayward
 
  Frustratingly, the phone also lost its connection to our phone (the Samsung Galaxy S10) on a semi-regular basis. We would try to access the Google Assistant and get an error message at times, as it couldn't connect to Google, or get a chunk of late-arriving notifications after the watch reconnected.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Battery: Solid uptime, but watch out for charging hitches**
 
  Mobvoi advertises 48-hour battery life, but that needs an asterisk next to it: you'll only come close to that mark if the always-on screen is disabled and you're not heavily using the GPS for fitness tracking. The always-on screen saps a fair bit of battery life, and you probably won't get deep into a second day on a single charge. With modest usage and the screen off when you're not looking at it, however, you should safely be able to skip the charger every other night.
@@ -120,9 +132,6 @@ Lifewire / Andrew Hayward
 
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/qqjgkoPMGLDcHiZ42FTOqRzF8qk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4048042_02-53f95b3090b84e4f8d439ed6e82d9adf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 ## **Software and Key Features: The budget feature set**
@@ -145,9 +154,6 @@ Lifewire / Andrew Hayward
 
 ![Mobvoi TicWatch E2](https://www.lifewire.com/thmb/9AwcHkOXajzxG-qrrj2oxg7pXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mobvoi-vs-FitbitVersa-Comparison-e61e0b7a3458412994b974ef05f13a17-cd600ab4f2934bef80fbe7323ff63495.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
 ## **TicWatch E2 vs. Fitbit Versa**
@@ -164,6 +170,13 @@ Lifewire / Andrew Hayward
 
  The Ticwatch E2 runs fluidly some of the time, the screen looks great, and the no-nonsense design is totally solid. It also works well as a fitness tracker, when you want it to. However, it frequently got bogged down during our testing, turning the simple act of bringing up apps or triggering the Google Assistant into an exercise in frustration. Add in the semi-regular disconnects from our phone and the charger debacle, and it just isn’t worth the price. Put your money towards a smartwatch that doesn't feel so compromised.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Samsung Galaxy Fit](https://www.lifewire.com/samsung-galaxy-fit-review-4766867)
@@ -171,9 +184,12 @@ Lifewire / Andrew Hayward
 * [Fitbit Versa 2](https://www.lifewire.com/fitbit-versa-2-review-4797556)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  TicWatch E2
@@ -189,14 +205,11 @@ Lifewire / Andrew Hayward
 * Storage  4GB
 * Waterproof  5ATM
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -205,4 +218,24 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-high-definition-spectrum-selecting-best-screen-recorders/"><u>[New] 2024 Approved High Definition Spectrum Selecting Best Screen Recorders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-explore-the-best-instagram-video-editors-for-android-devices/"><u>[New] Explore the Best Instagram Video Editors for Android Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-windows-photo-reader-pro/"><u>[New] Prime Windows Photo Reader Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/awaken-refreshed-ihome-zenity-sleep-solution-evaluation-your-guide-to-a-vibrant-morning/"><u>Awaken Refreshed: IHome Zenity Sleep Solution Evaluation - Your Guide to a Vibrant Morning</u></a></li>
+<li><a href="https://video-capture.techidaily.com/bts-dvdand/"><u>BTS DVD全収録のコピー術：最もスピーディー&清潔に辿り着くための究極テクニック</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/different-editions-of-windows-film-editor-software/"><u>Different Editions of Windows Film Editor Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/garmin-vivomove-hr-watch-review-a-chic-fitness-companion-for-active-lifestyles/"><u>Garmin Vivomove HR Watch Review – A Chic Fitness Companion For Active Lifestyles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/my-journey-into-game-development-with-chatgpt-a-comprehensive-review/"><u>My Journey Into Game Development with ChatGPT: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/new-fallout-fans-embrace-your-inner-survivor-time-to-delve-into-the-wasteland-saga/"><u>New 'Fallout' Fans, Embrace Your Inner Survivor: Time to Delve Into the Wasteland Saga!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/new-in-kodi-unveiling-version-205-with-exciting-enhancements/"><u>New in Kodi: Unveiling Version 20.5 with Exciting Enhancements!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliving-pixelated-nostalgia-lessons-and-fun-from-an-iphone-powered-emulation-adventure/"><u>Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviving-the-random-joy-of-tv-a-guide-to-replicating-netflixs-missing-shuffle-feature/"><u>Reviving the Random Joy of TV: A Guide to Replicating Netflix's Missing Shuffle Feature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/section-2c-increasingly-complex-questions-with-solutions/"><u>Section 2C: Increasingly Complex Questions with Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-strategies-managing-and-reducing-your-monthly-streaming-service-costs/"><u>Smart Strategies: Managing & Reducing Your Monthly Streaming Service Costs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/spotifys-jam-collaboration-function-a-rarely-explored-opportunity-for-music-makers/"><u>Spotify's Jam Collaboration Function: A Rarely Explored Opportunity for Music Makers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-installing-updated-drivers-on-your-surface-book-2/"><u>Step by Step Tutorial: Installing Updated Drivers on Your Surface Book 2</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-5-mac-superior-bandicam-alternates-for-2024/"><u>Top 5 Mac Superior Bandicam Alternates for 2024</u></a></li>
+</ul></div>
 
