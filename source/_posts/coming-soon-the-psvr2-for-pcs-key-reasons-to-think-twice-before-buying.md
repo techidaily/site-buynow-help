@@ -1,7 +1,7 @@
 ---
 title: Coming Soon! The PSVR2 for PCs - Key Reasons to Think Twice Before Buying
-date: 2024-09-26T17:11:28.871Z
-updated: 2024-10-01T16:13:25.514Z
+date: 2024-10-09T18:34:53.307Z
+updated: 2024-10-12T16:49:22.964Z
 tags:
   - games
   - tv
@@ -21,22 +21,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Sony is making its PSVR 2 VR headset compatible with PCs, but while this is something that we and many others had hoped for, it seems the reality of the PSVR 2 on PC might not be quite worth it after all.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It Needs an Expensive Breakout Box
 
  In order to use the [PSVR 2 with a PC](https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/), you'll have to purchase an adapter from Sony. The main reason for this is that most people don't have USB-C ports on their desktop PCs that support [DisplayPort over USB-C](https://www.displayport.org/displayport-over-usb-c/). This allows for uncompressed video to be sent over the USB-C cable just as if it were a DisPlayport cable. In contrast, a [Meta Quest](https://vp-tips.techidaily.com/updated-in-2024-top-oculus-vr-ultimate-player-reviews/) headset can work with any sufficiently fast USB port because it does not use a display protocol like HDMI or DisPlayport. Instead, it's compressing video on the computer and streaming it to the headset, where the Quest's onboard processors rapidly decompress it. This leads to a dip in image quality, but one that most people won't notice.
 
 ![The PSVR2 PC adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/cfa8b40a906572604df269e3048d488f01a1d56c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sony
 
  The adapter will sell for around $60, which isn't a lot in the greater scheme of things, but it does seem rather pricey to convert a $500-ish headset to work with a PC. Also, while this might change closer to launch, it doesn't seem that those of us who do have the right USB-C ports can skip the adapter. For example, many gaming laptops have a USB-C port that natively supports DisplayPort. If Sony let us use this port without the adapter, that would certainly make the whole thing more palatable, where the adapter is only a necessary evil for those without the right hardware. Right now it feels like I'll have to pay $60 for something I technically should not need.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  There’s No Eye Tracking
 
@@ -44,23 +51,9 @@ Sony
 
  Eye tracking has numerous benefits in VR, including acting as an extra input type (e.g. the game knows what you're looking at) and can help performance by only rendering what you're looking at in the highest detail. A method known as "[foveated rendering](https://some-knowledge.techidaily.com/gopro-hero5-black-vs-hero5-session-for-2024/).' While I did not expect PC VR games to take advantage of this immediately, for now it seems Sony is shutting the door on PC developers using this feature at all.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  There’s No HDR
 
  The PSVR 2 uses exceptional OLED screen technology, one of the major losses Quest owners mourned moving from the original Quest to its sequels. If you use the PSVR2 with a PC, you'll still get the many benefits of OLED, but not the amazing level of HDR the PSVR 2 is capable of. When I play _Gran Turismo 7_ in VR on my PS5, the sunlight can literally blind you. It's one of the biggest reasons the visuals are so convincing, and knowing you have the hardware, but not the software support, when using it on a PC feels more than a little tragic.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Foveated Rendering Is Limited, No Fancy Haptics
 
@@ -69,15 +62,22 @@ Sony
  To add insult to injury, [adaptive triggers and the incredible haptics in the controllers are absent as well](https://blog.playstation.com/2024/06/03/playstation-vr2-players-can-access-games-on-pc-with-adapter-starting-on-august-7/). On the PS5, this elevates the immersion and quality of tactile feedback beyond anything on a PC. Having this feature missing is a travesty. It might be related to the limitations of Bluetooth, however. Since if you use Bluetooth with a DualSense controller on a PC, you also don't get any of the fancy haptics. The controller must be connected using USB, and that's clearly impractical for VR controllers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Do Only Existing Owners Need to Apply?
 
 ![PSVR2 shown playing Half-Life Alyx for PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/psvr2-shown-playing-half-life-alyx-for-pc.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sony
 
@@ -100,19 +100,21 @@ Sony
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-tales-of-trial-by-fire-vs-innovative-challenges/"><u>[New] 2024 Approved Tales of Trial by Fire Vs. Innovative Challenges</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-honor-magic-6-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Honor Magic 6 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-reno-11-pro-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-installation-of-netgear-a6200-dongle/"><u>Efficient Installation of Netgear A6200 Dongle</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-s24-ultra-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy S24 Ultra Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-80-pro-straight-screen-edition-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor 80 Pro Straight Screen Edition Device</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-video-edits-post-upload-techniques/"><u>Mastering Video Edits Post-Upload Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-travelers-best-companion-reviewed-how-the-omnicharge-omni-20-revolutionizes-portable-power-with-wireless-charging-options/"><u>The Traveler's Best Companion Reviewed: How the Omnicharge Omni 20 Revolutionizes Portable Power with Wireless Charging Options</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-enhancing-your-network-with-netgears-ac1200-wi-fi-range-extender-ex6200-a-review/"><u>The Ultimate Guide to Enhancing Your Network with Netgear's AC1200 Wi-Fi Range Extender (EX6200) - A Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-saving-on-phone-bills-top-7-cheap-plans-revealed/"><u>The Ultimate Guide to Saving on Phone Bills : Top 7 Cheap Plans Revealed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-long-range-lens-in-a-small-package-nikon-coolpix-p1000/"><u>The Ultimate Long-Range Lens in a Small Package – Nikon COOLPIX P1000</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-sonic-journey-best-headphones-of-2024/"><u>The Ultimate Sonic Journey - Best Headphones of 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-ranked-ai-enhanced-image-maker/"><u>Top-Ranked AI Enhanced Image Maker</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranking-asus-router-models-in-2e24/"><u>Top-Ranking Asus Router Models in 2E24</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-premium-10-audio-enhancers-for-multiple-systems/"><u>[New] In 2024, Premium 10 Audio Enhancers for Multiple Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-recordingease-minimalistic-win-11-screen-captures/"><u>[Updated] In 2024, RecordingEase Minimalistic Win 11 Screen Captures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-win10-screen-grabbing-top-quality-captures/"><u>2024 Approved Win10 Screen Grabbing - Top Quality Captures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-the-samsung-galaxy-a71-5g-the-smart-and-affordable-choice-for-tech-enthusiasts/"><u>A Comprehensive Review of the Samsung Galaxy A71 5G - The Smart and Affordable Choice for Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boosting-revenue-from-your-blog-through-advertisements-on-buyselladscom/"><u>Boosting Revenue From Your Blog Through Advertisements on BuySellAds.com</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-asus-rt-ac68u-top-notch-performance-and-robust-security-for-your-home-network/"><u>Expert Review on the Asus RT-AC68U: Top-Notch Performance and Robust Security for Your Home Network</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-13-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 13 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-oneplus-nord-n10-5g-a-must-read-assessment/"><u>In-Depth Evaluation of OnePlus Nord N10 5G - A Must-Read Assessment!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-star-wars-squadrons-the-ultimate-galactic-fighting-adventure/"><u>In-Depth Review of Star Wars: Squadrons - The Ultimate Galactic Fighting Adventure</u></a></li>
+<li><a href="https://win-forum.techidaily.com/scopri-i-migliori-7-stili-animati-per-il-tuo-prossimo-progetto-creativo/"><u>Scopri I Migliori 7 Stili Animati per Il Tuo Prossimo Progetto Creativo</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-narzo-60-pro-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme Narzo 60 Pro 5G without backup.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unconventional-journey-a-yokus-island-express-gameplay-evaluation/"><u>Unconventional Journey: A Yoku's Island Express Gameplay Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-endless-motivation-with-fitbit-versa-3s-inbuilt-navigation-and-health-monitoring-features/"><u>Unleash Endless Motivation with Fitbit Versa 3'S Inbuilt Navigation & Health Monitoring Features</u></a></li>
+<li><a href="https://win-web.techidaily.com/windows-windows-10/"><u>Windows 지원 파일의 Windows 10에서 액세스를 위해 어떻게 대비해야 합니까?</u></a></li>
 </ul></div>
 

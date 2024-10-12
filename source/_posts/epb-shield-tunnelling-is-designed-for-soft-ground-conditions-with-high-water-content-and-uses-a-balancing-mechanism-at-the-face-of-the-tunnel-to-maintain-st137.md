@@ -1,7 +1,7 @@
 ---
 title: EPB Shield Tunnelling Is Designed for Soft Ground Conditions with High Water Content and Uses a Balancing Mechanism at the Face of the Tunnel to Maintain Stability.
-date: 2024-08-22T13:13:53.449Z
-updated: 2024-08-23T13:13:53.449Z
+date: 2024-10-05T18:35:49.055Z
+updated: 2024-10-12T16:47:07.812Z
 categories:
   - BestProducts
 description: This Article Describes EPB Shield Tunnelling Is Designed for Soft Ground Conditions with High Water Content and Uses a Balancing Mechanism at the Face of the Tunnel to Maintain Stability.
@@ -42,9 +42,23 @@ Andy Zahn / Lifewire
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Cyberpunk 2077
 
 ![Cyberpunk 2077](https://www.lifewire.com/thmb/sG6odS-sTBDQKNtpoev0kWtdSGg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Cyberpunk-2077-1-d90f62b5a126437681da9916c0360527.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
 
@@ -77,15 +91,6 @@ Andy Zahn / Lifewire
 
 Andy Zahn / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Story: Engaging and well written
 
  You start out by choosing from one of several different life paths, each of which features a different intro, as well as unique dialogue options throughout the game. The Nomad starts in the wastelands, the Street Kid in the inner city, and the Corpo in what else but the heart of a mega corporation.
@@ -134,9 +139,6 @@ Andy Zahn / Lifewire
 
  Driving out of a garage for the first time into a canyon of towering sci-fi skyscrapers bedecked in holograms and neon is one of those awe-inspiring moments that come only fleetingly in video games.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Customization: Lots to tinker with
 
  There is a deep level of character customization possible in Cyberpunk 2077, and you can sink a lot of time into creating the perfect character. Of course, you can always just pick a preset, but where's the fun in that? I tried to craft a likeness of Snake Plissken from Escape from Los Angeles, but couldn’t get it quite right, so I made a rough approximation of Basil Fawlty instead.
@@ -146,8 +148,12 @@ Andy Zahn / Lifewire
 ![Cyberpunk 2077](https://www.lifewire.com/thmb/Uqy4AEm6VMUR3LFH9U2FK5UDvo0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cyberpunk-2077-3-28901c5bd3564eeea8e98bc9dbb8ae07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Andy Zahn / Lifewire
 
  Another area of customization is your cybernetic implants. These can affect everything from your netrunning skills to giving you swords and rocket launchers that pop out of your arms. You’ll need to visit a Ripperdoc to buy and install them, and they cost a pretty penny, so you’ll need to pull off a few jobs to afford them.
@@ -158,9 +164,6 @@ Andy Zahn / Lifewire
 
 At launch, Cyberpunk 2077 is something of a bug-riddled mess.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bugs: Welcome to Glitch City
 
  At launch Cyberpunk 2077 is something of a bug-riddled mess. Even a few months and a few patches later it’s very noticeably in need of major fixes. Right out of the gate I found a collectible card that can only be picked up during the intro, but the game refused to allow me to pick it up, so I was forced to leave it sitting there forlornly, forever gnawing at the completionist streak in me.
@@ -173,11 +176,15 @@ At launch, Cyberpunk 2077 is something of a bug-riddled mess.
 
 ![Cyberpunk 2077](https://www.lifewire.com/thmb/JM3cD1pX6maee1yiQYZnSgc-9pw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cyberpunk-2077-4-624da4fa8225434eb59ba999a53dafd6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Andy Zahn / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mature content: Pushing the boundaries
 
  It must be mentioned that Cyberpunk 2077 earns its mature rating. Parents and players alike would do well to head the descriptors of that rating, as all of them are well deserved. There are options to ameliorate this in some respects, but only to a limited extent. The fact is that Cyberpunk 2077 is an imagining of a dark and disturbing future, and the game forces players to confront the consequences should humanity go down such a road.
@@ -198,13 +205,6 @@ Andy Zahn / Lifewire
 
 ![Cyberpunk 2077](https://www.lifewire.com/thmb/toUXDFSRFZjol-BOgnhnVEyJTYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cyberpunk-2077-8-7b54b824c3bc4dcfb04234f69204d2f6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 Andy Zahn / Lifewire
 
  If you don’t have a ray tracing enabled card, you may want to think twice about Cyberpunk 2077 until you’re able to upgrade. It’s playable on older cards, but the incredible visuals of this game running on high-end hardware are such an integral part of the experience that it’s hard to recommend running in a reduced capacity. The same goes for last-gen consoles ([PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) ,[Xbox One](https://www.lifewire.com/xbox-one-buyers-guide-3562291) ), where the experience is also greatly impacted by reduced processing power. Players are reporting the worst issues on these older consoles, where Cyberpunk appears to be almost unplayable for many.
@@ -212,6 +212,13 @@ Andy Zahn / Lifewire
  The[PS5](https://www.lifewire.com/sony-playstation-5-review-5088394) and[Xbox Series X](https://www.lifewire.com/microsoft-xbox-series-x-review-one-power-packed-4k-console-5088039) may offer a more consistent experience (though not equivalent to high-end PC), but like 30 series Nvidia GPUs these devices are in high demand and short supply, and you won’t be free of bugs, glitches, and performance issues even there.
 
  An alternative worth considering if you have a robust high-speed internet connection is streaming the game on[Google Stadia](https://www.lifewire.com/google-stadia-review-4788032) . This will allow you to experience the game at its best without having to invest in a two thousand dollar PC. However, it does leave your ability to play the game at the mercy of your ability to access a strong internet connection.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Graphics: Ahead of its time
 
@@ -232,8 +239,18 @@ Andy Zahn / Lifewire
 ![Cyberpunk 2077](https://www.lifewire.com/thmb/o42yZx4igr8SBsJoS2Nc52n6m3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cyberpunk-2077-6-1b41a87ba1244122adf280147c09e5f1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Andy Zahn / Lifewire
 
 ## Multiplayer: Absent for the moment
@@ -245,8 +262,12 @@ Andy Zahn / Lifewire
  At $60 with no extra monetization at launch, Cyberpunk 2077 is something of a bargain. Take this with a grain of salt though, as this situation could change dramatically once the multiplayer mode is released.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Cyberpunk 2077 vs. Assassin’s Creed: Valhalla
 
  Though very different in setting, tone, and gameplay perspective,[Assassin’s Creed: Valhalla](https://www.lifewire.com/assassin-s-creed-valhalla-review-an-epic-viking-adventure-across-the-medieval-world-5086782) is a similarly vast open-world that launched not long before Cyberpunk 2077, and gamers may be split on which to dump a hundred or more hours of time into. At the time of writing, Valhalla is a much more polished and complete experience. Also, whereas the dystopia of Night City can be an oppressive environment to spend many hours exploring, the green hills of England in Assassin's Creed: Valhalla offer an escapist experience.
@@ -270,14 +291,11 @@ Andy Zahn / Lifewire
 * Platforms  PC, Xbox Series X, Xbox One, PlayStation 5, PlayStation 4, Stadia
 * Rating  M
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -286,4 +304,17 @@ Andy Zahn / Lifewire
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-7-key-techniques-to-make-your-instagram-unboxing-videos-shine/"><u>[Updated] In 2024, 7 Key Techniques to Make Your Instagram Unboxing Videos Shine</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/are-you-still-using-an-ipad-could-it-be-time-for-a-tech-upgrade/"><u>Are You Still Using an iPad? Could It Be Time for a Tech Upgrade?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capture-and-save-windows-11-screens-effortlessly-for-2024/"><u>Capture & Save Windows 11 Screens Effortlessly for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-your-journey-with-goku-the-definitive-guide-to-watching-dragon-ball-in-order/"><u>Complete Your Journey with Goku: The Definitive Guide to Watching Dragon Ball in Order</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/digital-picture-frames-analysis-showcasing-and-sharing-aesthetic-images/"><u>Digital Picture Frames Analysis: Showcasing & Sharing Aesthetic Images</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tiny-tech-giant-revealed-in-depth-look-at-the-razer-book-13-powerhouse-notebook/"><u>Tiny Tech Giant Revealed: In-Depth Look at the Razer Book 13 Powerhouse Notebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-data-hunting-with-top-tier-perplexity-ai/"><u>Transform Your Data Hunting with Top-Tier Perplexity AI</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-testing-the-hisense-40h5590f-the-best-economical-smart-tv-on-the-market/"><u>Unboxing and Testing the Hisense 40H5590F: The Best Economical Smart TV on the Market?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-viewing-experience-top-rated-vr-video-conversion-software/"><u>Updated Elevate Your Viewing Experience Top-Rated VR Video Conversion Software</u></a></li>
+</ul></div>
 

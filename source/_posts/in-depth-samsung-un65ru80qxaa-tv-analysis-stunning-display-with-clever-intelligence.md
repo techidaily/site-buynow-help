@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Samsung UN65RU80QXAA TV Analysis: Stunning Display with Clever Intelligence"
-date: 2024-08-22T13:06:32.385Z
-updated: 2024-08-23T13:06:32.385Z
+date: 2024-10-06T16:11:41.875Z
+updated: 2024-10-12T16:15:35.094Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Samsung UN65RU80QXAA TV Analysis: Stunning Display with Clever Intelligence"
@@ -72,10 +72,14 @@ Lifewire / Erika Rawes
 
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup: Easier than most**
 
@@ -86,8 +90,12 @@ Lifewire / Erika Rawes
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
@@ -96,9 +104,6 @@ Lifewire / Erika Rawes
 
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 ## **Range: Could be better**
@@ -110,8 +115,12 @@ Lifewire / Erika Rawes
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
@@ -120,9 +129,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
  You can find indoor antennas for less than $15 (view on[Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845583%7Cna0f30cabffec4337b279a8df3e4c99b015%7C) ). The[AmazonBasics](https://www.lifewire.com/amazonbasics-flat-tv-antenna-review-4845569) 35-mile range antenna is a good example, though it doesn’t come with a stand or have the easy-push connector. Aesth etically, the AmazonBasics antenna doesn’t hold a candle to the Antop antenna, but it does cost significantly less.
@@ -134,8 +140,12 @@ Lifewire / Erika Rawes
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  AT-127
@@ -152,14 +162,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +175,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-crafting-coolest-mini-houses-in-mc-world/"><u>[New] 2024 Approved Crafting Coolest Mini-Houses in MC World</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-keep-your-identity-under-wraps-while-livestreaming/"><u>[Updated] In 2024, Keep Your Identity Under Wraps While Livestreaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-m34-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy M34 without App | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-reading-joy-in-depth-look-at-the-2019-basic-amazon-kindle-model/"><u>Affordable Reading Joy: In-Depth Look at The 2019 Basic Amazon Kindle Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-ipad-air-4-vs-samsung-galaxy-tab-s7plus-two-premium-tablets-without-compromise/"><u>Apple iPad Air 4 Vs. Samsung Galaxy Tab S7+: Two Premium Tablets Without Compromise</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beat-the-doldrums-10-must-play-games-for-entertainment/"><u>Beat the Doldrums: 10 Must-Play Games for Entertainment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/breaking-down-the-lenovo-thinkpad-x1-nano-a-revolutionary-thin-and-light-solution/"><u>Breaking Down the Lenovo ThinkPad X1 Nano – A Revolutionary Thin & Light Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/capturing-the-unreachable-the-magic-of-nikon-coolpix-p1000-superzoom/"><u>Capturing the Unreachable: The Magic of Nikon COOLPIX P1000 Superzoom</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-nintendo-switch-leading-contender-in-handheld-gaming/"><u>Comprehensive Analysis of the Nintendo Switch - Leading Contender in Handheld Gaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-full-screen-recorder-reviews-pcmac-edition-for-2024/"><u>Essential Full-Screen Recorder Reviews PC/Mac Edition for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-crafted-workspace-thrones-the-ultimate-chair-selection-for-2cuary/"><u>Expertly Crafted Workspace Thrones: The Ultimate Chair Selection for 2Cuary</u></a></li>
+<li><a href="https://facebook.techidaily.com/friendly-directions-share-on-facebook-messenger/"><u>Friendly Directions: Share on Facebook Messenger</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boost-brand-awareness-with-selective-marketing-vernacular/"><u>In 2024, Boost Brand Awareness with Selective Marketing Vernacular</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-the-world-of-youtube-channel-naming-innovative-ideas-for-vloggers-and-filmmakers-no-more-than-156-characters/"><u>In 2024, Exploring the World of YouTube Channel Naming Innovative Ideas For Vloggers & Filmmakers (No More than 156 Characters)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone SE (2020)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-zero-cost-video-editing-the-best-online-options-for-2024/"><u>New Zero-Cost Video Editing The Best Online Options for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-photography-essentials-discover-the-leading-tripods-on-the-market-2023-edition/"><u>Professional Photography Essentials: Discover the Leading Tripods on the Market - 2023 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-protective-covers-for-google-pixel-8-pro-your-ultimate-guide/"><u>Top Protective Covers for Google Pixel 8 Pro: Your Ultimate Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-edit-videos-for-free-top-software-for-32-bit-windows-systems/"><u>Updated 2024 Approved Edit Videos for Free Top Software for 32-Bit Windows Systems</u></a></li>
+</ul></div>
 

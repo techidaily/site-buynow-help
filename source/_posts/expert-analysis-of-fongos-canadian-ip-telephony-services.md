@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of Fongo's Canadian IP Telephony Services
-date: 2024-08-22T13:08:57.488Z
-updated: 2024-08-23T13:08:57.488Z
+date: 2024-10-11T19:18:11.646Z
+updated: 2024-10-12T17:26:14.742Z
 categories:
   - BestProducts
 description: This Article Describes Expert Analysis of Fongo's Canadian IP Telephony Services
@@ -42,6 +42,13 @@ thumbnail: https://www.lifewire.com/thmb/ix8RIK_HPlG7IYBPNAPch-D3SuQ=/400x300/fi
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -86,17 +93,18 @@ thumbnail: https://www.lifewire.com/thmb/ix8RIK_HPlG7IYBPNAPch-D3SuQ=/400x300/fi
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
  Sony has done a solid job here of making the setup process simple, or maybe we should be thanking Google for that, as this is an Android TV. All you need to do is follow along with the on-screen instructions and complete them as necessary. Using the remote, you’ll be prompted to choose a language, location, internet connection, sign into accounts, etc. Just stick to the guide.
@@ -104,8 +112,12 @@ thumbnail: https://www.lifewire.com/thmb/ix8RIK_HPlG7IYBPNAPch-D3SuQ=/400x300/fi
  With the initial process done, you will likely need to run a quick update check. This should automatically pop up, but check under the settings tab if it doesn’t. An update to the firmware should improve things considerably, especially if you need to upgrade to the latest version of Android TV. Updating takes a bit of time to do, so maybe go watch some TV while…oh right. Well, whatever you do during this process, just remember not to unplug the power while it’s running through updates.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Image Quality: Impressive 4K for IPS with some shortcomings**
 
  This section is perhaps the most important for a TV, and while the XBR65X850F performs pretty well in some aspects here, it also has a few weak points.
@@ -115,8 +127,12 @@ thumbnail: https://www.lifewire.com/thmb/ix8RIK_HPlG7IYBPNAPch-D3SuQ=/400x300/fi
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/r5reh9LkA7QvieX1JzBg5J8qNjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-5-00a73edbf91c48c6aa2718ab211f2e5d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
  However, IPS panels are notoriously bad for black uniformity and backlight bleed, which can cause clouding around the edges. We found this to be the case on our XBR65X850F, and while not unusable, it’s probably not the best option for viewing in dark environments because of this. The TV does have solid gray uniformity however, with no dirty screen effect. This is a huge boon if you’re a big sports fan.
@@ -133,9 +149,6 @@ thumbnail: https://www.lifewire.com/thmb/ix8RIK_HPlG7IYBPNAPch-D3SuQ=/400x300/fi
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Audio Quality: Loud, but distorted**
 
  Built-in speakers are never going to be great, but they’re nice to have if you’re lacking an[external sound system](https://www.lifewire.com/connect-tv-to-external-audio-system-1846816) like a soundbar. While we’d recommend getting an external setup for the best experience, let’s take a quick look at what the XBR65X850F has to offer with the included setup.
@@ -156,6 +169,13 @@ thumbnail: https://www.lifewire.com/thmb/ix8RIK_HPlG7IYBPNAPch-D3SuQ=/400x300/fi
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Not bad for the size, but not the cheapest**
 
  The X850F series come in a range of sizes, from 65 to 85 inches, so the prices can vary considerably depending on which one you go with. Any TV in this size range is going to cost a good bit of coin, no matter the manufacturer, but Sony isn’t too bad here.
@@ -164,9 +184,6 @@ thumbnail: https://www.lifewire.com/thmb/ix8RIK_HPlG7IYBPNAPch-D3SuQ=/400x300/fi
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
  Now there are a ton of comparable 4K TVs out there stacked up against the Sony XBR65X850F, but Samsung is a similarly reputable brand, so let’s compare their UN65RU8000 (view on[Amazon](https://www.amazon.com/Samsung-UN65RU8000-Ultimate-SurgePro-6-Outlet/dp/B07Q6VCCLF?tag=lifewire-onsite-prod-20&ascsubtag=4796693%7Cn899f0376278d4881a5af76b596b54aa000%7C) ).
@@ -199,14 +216,11 @@ thumbnail: https://www.lifewire.com/thmb/ix8RIK_HPlG7IYBPNAPch-D3SuQ=/400x300/fi
 * Speakers  2 full range, 2ch
 * Connectivity Options  4 HDMI
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -215,4 +229,22 @@ thumbnail: https://www.lifewire.com/thmb/ix8RIK_HPlG7IYBPNAPch-D3SuQ=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-budget-gaming-hardware-the-ultimate-keyboard-list-for-2024/"><u>[Updated] Essential Budget Gaming Hardware The Ultimate Keyboard List for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-chuckles-in-single-photos/"><u>[Updated] The Essence of Chuckles in Single Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-optimal-configuration-windows-11-and-pc-manager/"><u>Achieving Optimal Configuration: Windows 11 & PC Manager</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-amazon-fire-hd-10-tablet-analysis-the-ultimate-family-entertainment-device/"><u>Comprehensive Amazon Fire HD 10 Tablet Analysis - The Ultimate Family Entertainment Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-edge-television-unleashed-an-insightful-review-of-the-sony-xbr49x900fs-4k-display-and-smart-capabilities/"><u>Cutting-Edge Television Unleashed: An Insightful Review of the Sony XBR49X900F's 4K Display and Smart Capabilities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amplify-your-youtube-audience-three-livestream-strategies/"><u>In 2024, Amplify Your YouTube Audience Three Livestream Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/intriguing-insights-into-the-portable-and-economical-samsung-galaxy-s10e/"><u>Intriguing Insights Into the Portable & Economical Samsung Galaxy S10e</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/st-sound-transformation-ultimate-10-youtube-tools-for-2024/"><u>No-Cost Sound Transformation Ultimate 10 YouTube Tools for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-apple-watch-series-6-evaluation-refined-not-revolutionary-yet-still-unrivaled-in-quality/"><u>The Apple Watch Series 6 Evaluation - Refined, Not Revolutionary, Yet Still Unrivaled in Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-guide-to-the-cyberpower-cp685avrg-how-this-simple-ups-can-secure-your-devices-and-data/"><u>The Essential Guide to the CyberPower CP685AVRG: How This Simple UPS Can Secure Your Devices and Data</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-8-leading-computer-manufacturers-to-watch/"><u>Top 8 Leading Computer Manufacturers to Watch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gpts-personalized-guidance-feature-usage-exploration/"><u>Unveiling GPT's Personalized Guidance Feature: Usage Exploration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971435571-windows-10-webcam-troubles-learn-how-to-update-the-drivers-easily/"><u>Windows 10 Webcam Troubles? Learn How to Update the Drivers Easily</u></a></li>
+</ul></div>
 

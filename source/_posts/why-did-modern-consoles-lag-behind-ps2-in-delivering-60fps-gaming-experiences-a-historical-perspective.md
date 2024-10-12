@@ -1,7 +1,7 @@
 ---
 title: "Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective"
-date: 2024-09-30T17:11:25.997Z
-updated: 2024-10-01T18:04:41.423Z
+date: 2024-10-08T18:06:01.083Z
+updated: 2024-10-12T17:35:06.935Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
  The PlayStation 2 had no shortage of games that ran at a smooth 60fps, but for the console generations that followed, this performance figure became rather scarce. Why did hitting that magic 60fps mark become so difficult and rare?
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The HD Era
 
  The PlayStation 3 and Xbox 360 heralded the era of 720p and 1080p games. Taking advantage of a new generation of TVs, the amount of detail in games shot up dramatically. Unfortunately, the more pixels you have, the more GPU memory and bandwidth you need, and rendering each frame takes much more processing power even without all the new eye-candy.
@@ -35,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 ![Sony PlayStation 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Sony-PlayStation-3-large.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Sony_
@@ -49,6 +42,13 @@ _Sony_
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Most people think of GPU performance when it comes to frame rates, but the CPU plays an equally important role. It handles all the game mechanics under the hood, and the GPU depends on the results of physics calculations, or information about what the AI characters are doing in order to render the scene. If the CPU can't provide that information fast enough to draw 60 frames a second, then it doesn't matter how fast the GPU is.
@@ -57,22 +57,15 @@ Tim Brookes / How-To Geek
 
  These consoles had GPUs that had no problems giving us a consistent 30fps experience in most cases, but their CPUs were essentially weak power-efficient laptop components that really struggled to go beyond the 30fps mark. This is why when the PlayStation 4 Pro and Xbox One X consoles were released with significantly upgraded GPUs, developers could only increase graphical fidelity, but not frame rate. Even with a mild increase in clock speed, the CPUs in the half-generation refreshed consoles just couldn't muster faster frames.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pushing for Nicer Screenshots
 
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -86,6 +79,13 @@ Cianna Garrison / How-To Geek
  Wait, didn't this affect the PS2? Well, it did to an extent, but the architecture of the PlayStation 2 was such that you couldn't push the complexity of a given scene any further, but you could render that scene at fast rates. The PS2's "Graphics Synthesizer" has an incredibly fast fill rate, capable of pushing an enormous number of polygons in a second. 
 
  According to a wonderful [deep dive by Modern Vintage Gamer](https://www.youtube.com/watch?v=%5FPiiXM51oBo) the PS2's "Emotion Engine" had an architecture well-optimised, with sub-processors specialized in accelerating different aspects of rendering which, in turn, could feed that Graphics Synthesizer quickly and efficiently. In other words, developers would hit the "spatial" detail limit before hitting the "temporal" limit. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  An Apathetic Customer Base
 
@@ -110,20 +110,21 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exciting-auto-play-hits-for-children/"><u>[New] In 2024, Exciting Auto-Play Hits for Children</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/hat-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos/"><u>[New] What Are YouTube Tags and How Can You Find Great Tags For Your Videos?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exploring-imovies-default-cropping-behavior/"><u>[Updated] In 2024, Exploring iMovie's Default Cropping Behavior</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-guides-to-choosing-perfect-hardware-by-toms-experts/"><u>Expert Guides to Choosing Perfect Hardware by Tom's Experts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/harness-the-power-of-open-source-photo-processing-darktable-editor-for-macos-and-linux/"><u>Harness the Power of Open Source Photo Processing: Darktable Editor for macOS & Linux</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-huion-inspiroy-g10t-art-pen-tablet-exceptional-craftsmanship-and-superior-functionality/"><u>In-Depth Analysis of Huion Inspiroy G10T Art Pen Tablet: Exceptional Craftsmanship & Superior Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-accessory-alert-the-essential-elite-strap-battery-boost-and-secure-travel-case-for-oculus-quest-2-scrutinized/"><u>Innovative Accessory Alert: The Essential Elite Strap, Battery Boost and Secure Travel Case for Oculus Quest 2 Scrutinized</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/introducing-the-amazon-halo-the-cutting-edge-gadget-for-an-intimate-wellness-experience/"><u>Introducing the Amazon Halo – The Cutting-Edge Gadget for an Intimate Wellness Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-netflixs-price-tag-justified-heres-why-it-might-be/"><u>Is Netflix's Price Tag Justified? Here’s Why It Might Be</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-the-extra-cost-justified-a-thorough-review-of-the-mighty-alienware-aurora-r7/"><u>Is the Extra Cost Justified? A Thorough Review of the Mighty Alienware Aurora R7.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lightweight-and-robust-internet-defense-unveiled-in-expressvpns-aircove-pro-appraisal/"><u>Lightweight & Robust Internet Defense Unveiled in ExpressVPN's Aircove Pro Appraisal</u></a></li>
-<li><a href="https://common-error.techidaily.com/nba-2k21-green-error-patched-and-solutions-unveiled/"><u>NBA 2K21 Green Error Patched and Solutions Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-listing-high-performing-15-camcorders-for-2024/"><u>Premium Listing High-Performing 15 Camcorders for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/strategic-use-of-visual-media-in-classroom-teaching/"><u>Strategic Use of Visual Media in Classroom Teaching</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-art-of-editing-decoded-a-deep-dive-into-magix-vpx/"><u>The Art of Editing Decoded A Deep Dive Into Magix VPX</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-effective-screenrecording-practices-for-professionals/"><u>[Updated] 2024 Approved Effective ScreenRecording Practices for Professionals</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-cutting-edge-the-top-8-digital-photomixer/"><u>[Updated] Cutting-Edge The Top 8 Digital Photomixer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-beat-bringers-sourcing-premium-dj-visuals/"><u>2024 Approved Beat Bringers Sourcing Premium DJ Visuals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208186141-effortless-solution-for-resolving-the-error-0x887a0006-issue/"><u>Effortless Solution for Resolving the 'Error 0X887A0006' Issue!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/epic-top-22-free-thanksgiving-films-for-your-holiday-binge-watching/"><u>Epic Top 22 Free Thanksgiving Films for Your Holiday Binge-Watching</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-birds-eye-briefing-critique/"><u>In 2024, Bird's Eye Briefing Critique</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-how-to-create-funny-talking-avatars-using-oddcast-text-to-speech/"><u>In 2024, How to Create Funny Talking Avatars Using Oddcast Text to Speech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-market-ranking-the-top-six-destinations-for-purchasing-laptops/"><u>Navigating the Market: Ranking the Top ^Six Destinations for Purchasing Laptops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/no-nonsense-affordable-protection-in-depth-review-of-the-procase-macbook-pro-13-bag/"><u>No-Nonsense, Affordable Protection: In-Depth Review of the ProCase MacBook Pro 13 Bag</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nokia-71-analysis-exceptional-visuals-photography-and-cost-effective-smartphone-selection/"><u>Nokia 7.1 Analysis: Exceptional Visuals, Photography, and Cost-Effective Smartphone Selection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-and-discussion-how-campfire-tales-enhances-your-minecraft-experience-with-unique-skins/"><u>Review and Discussion: How Campfire Tales Enhances Your Minecraft Experience with Unique Skins</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ring-versus-nest-a-head-to-head-comparison-of-smart-doorbells/"><u>Ring versus Nest: A Head-to-Head Comparison of Smart Doorbells</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/softbox-lights-guide-leading-brands-of-2024/"><u>SoftBox Lights Guide - Leading Brands of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-bose-qc35-ii-excellence-review-silent-bliss-awaits/"><u>The Bose QC35 II Excellence Review - Silent Bliss Awaits</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-slow-chrome-performance-with-these-effective-fixes/"><u>Troubleshoot Slow Chrome Performance with These Effective Fixes!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-latest-in-computing-with-toms-hardware-guides/"><u>Unveiling the Latest in Computing with Tom's Hardware Guides</u></a></li>
 </ul></div>
 

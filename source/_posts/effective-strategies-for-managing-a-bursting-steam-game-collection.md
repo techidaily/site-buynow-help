@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing a Bursting Steam Game Collection
-date: 2024-09-23T16:08:38.733Z
-updated: 2024-09-26T16:34:38.332Z
+date: 2024-10-08T16:17:43.070Z
+updated: 2024-10-12T18:50:23.156Z
 tags:
   - games
   - tv
@@ -20,13 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * A strict one-hour playtime limit for longer games can help decide whether the full game is worth the time investment before getting in too deep.
 
  After collecting games from sales, bundles, and elsewhere, I have over 200 games in my Steam library and not enough time to play them all. This called for some prioritization. Here's how I prioritized the games that are worth my time.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What's In My Game Library: The Assessment Step
 
@@ -47,10 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  But what about the longer games? Well, I will be honest; some longer games also made it to the top of the list. Here are the criteria I used to judge them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Heavyweights: Judging Which Long Games Are Worth My Time
@@ -72,10 +65,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After going through this process, I whittled down the 200+ games in my inventory to a little over 25 titles, all of which appealed to me and which I was looking forward to playing. I still have the other 175+ games in my library, but I'm not really as interested in playing them. Maybe when I'm bored, I'll install something and give it a go, but the priority games have already been decided.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  My Methodology Isn't Perfect
@@ -87,13 +86,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![How Long to Beat entry for Elden Ring.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-20-at-08-18-46.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Arguably the biggest issue that someone attempting to copy my method will have is categorizing their games into games that can be completed relatively easily and those that will take a lot more time. Judging average playtime using a website like [How Long to Beat](https://howlongtobeat.com) for a game isn't a solid metric, and it's usually better to look at the reviews and comments on the game to get a better feel for that.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Clean Steam Library Is a Happy Steam Library
 
@@ -114,20 +120,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-simplify-your-meetings-using-zoom-to-upgrade-skype/"><u>[New] 2024 Approved Simplify Your Meetings Using Zoom to Upgrade Skype</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-treasure-of-free-macos-transcription-tools/"><u>2024 Approved Hidden Treasure of Free macOS Transcription Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-knowledge-trivia-video-channels/"><u>2024 Approved Premier Knowledge Trivia Video Channels</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-mozilla-thunderbirds-new-release-version-52-is-here-now/"><u>Discover Mozilla Thunderbird's New Release - Version 52 Is Here Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/holy-stone-hs170s-predator-quadcopter-the-ultimate-budget-friendly-rc-helicopter-guide/"><u>Holy Stone HS1,70's Predator Quadcopter: The Ultimate Budget-Friendly RC Helicopter Guide!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-lava-blaze-2-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Lava Blaze 2 Phone Screen?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-12-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi 12 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-m14-4g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy M14 4G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-dell-alienware-aurora-r9-a-cutting-edge-gamers-dream/"><u>In-Depth Analysis of Dell Alienware Aurora R9: A Cutting-Edge Gamer's Dream</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-top-tier-garmin-forerunner-745-multisport-watch/"><u>In-Depth Analysis of the Top-Tier Garmin Forerunner 745 Multisport Watch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-motorola-one-5g-ace-excellent-5g-speeds-meet-unbeatable-battery-endurance/"><u>In-Depth Review of the Motorola One 5G Ace: Excellent 5G Speeds Meet Unbeatable Battery Endurance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-cleansing-companion-the-dreame-bot-l1amooring-and-sweeping-robot-powered-by-lidar-technology-reviewed/"><u>Innovative Cleansing Companion: The Dreame Bot L1amooring and Sweeping Robot Powered by LiDAR Technology Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ix-escort-advanced-radar-detector-smart-learning-tech-for-safer-driving/"><u>IX Escort Advanced Radar Detector - Smart Learning Tech for Safer Driving</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kobo-clara-hd-review-a-convenient-reading-accessory-for-bookworms-on-the-move/"><u>Kobo Clara HD Review: A Convenient Reading Accessory for Bookworms on the Move</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-accelerating-or-slowing-down-youtube-videos-playback/"><u>[Updated] In 2024, Accelerating or Slowing Down YouTube Videos Playback</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cultivate-creativity-20plus-inspiring-youtube-concepts/"><u>[Updated] In 2024, Cultivate Creativity 20+ Inspiring YouTube Concepts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-solve-invisible-buffer-problems-in-video-games/"><u>2024 Approved Solve Invisible Buffer Problems in Video Games</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-reno-10-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Reno 10 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-fcpx-essentials-how-to-add-a-countdown-timer-in-3-easy-steps/"><u>New In 2024, FCPX Essentials How to Add a Countdown Timer in 3 Easy Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oneplus-6t-review/"><u>OnePlus 6T Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliability-ranking-jabra-steelheadphones-reviewed/"><u>Reliability Ranking: Jabra Steelheadphones Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-virtual-reality-gaming-with-highly-rated-oculus-quest/"><u>Revolutionizing Virtual Reality Gaming with Highly Rated Oculus Quest</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stay-in-shape-and-stay-tuned-with-the-ultimate-garmin-vivoactive-3-music-enabled-tracker/"><u>Stay in Shape & Stay Tuned with the Ultimate Garmin Vivoactive 3 Music-Enabled Tracker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-comparison-chart-for-choosing-a-lightweight-compact-tablet/"><u>The Definitive Comparison Chart for Choosing a Lightweight, Compact Tablet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-quest-for-immersion-reviewing-benqs-ultra-hd-sw320/"><u>The Quest for Immersion Reviewing BenQ's Ultra HD SW320</u></a></li>
 </ul></div>
 

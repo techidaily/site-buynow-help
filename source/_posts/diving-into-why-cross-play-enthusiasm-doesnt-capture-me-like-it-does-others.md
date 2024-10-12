@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2024-09-24T17:13:47.780Z
-updated: 2024-10-01T18:06:11.294Z
+date: 2024-10-07T17:53:47.322Z
+updated: 2024-10-12T16:31:39.832Z
 tags:
   - games
   - tv
@@ -30,16 +30,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Controller Mis-Matching and Aim Assist
@@ -54,9 +54,29 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  A few games offer "controller matching" to avoid this issue, allowing players to match with other players who are using the same hardware. This would be a better feature if more games included it, but sadly, it's not seen on a lot of cross-platform titles. This is only an issue when you're playing competitive PVP titles, however. Co-op titles don't need any adjusting for this metric.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Mouse-and-Keyboard vs. Controller War
 
 ![An Xbox wireless controller on top of a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_2395089811-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [FabrikaSimf/Shutterstock.com](https://www.shutterstock.com/image-photo/headphones-joystick-computer-keyboard-on-black-2395089811)
 
@@ -66,13 +86,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Problems That Impact Competitive Play
 
  For friendly, co-op games, having latency issues or control scheme bias isn't such a huge issue. However, for other games that have a healthy competitive scene, this could be a terrible thing to deal with.
@@ -80,13 +93,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  PVP play in titles like _War Thunder_ and _Overwatch 2_ requires players to have more-or-less the same footing. Unfortunately, that's not always the case. As someone who's played both of these titles with both control schemes, there's a distinct difference in how they handle that's more than just getting used to the controls.
 
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
@@ -100,16 +106,22 @@ Jerome Thomas / How-To Geek
 
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Few Other Considerations
 
 ![Several electronic devices sharing the same screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/cross-platform-computer-smartphone-gaming.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-illustration-on-theme-cross-platform-1335072044)_
 
@@ -140,24 +152,22 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unbeatable-prices-for-top-6-action-cams-under-100/"><u>[New] Unbeatable Prices for Top 6 Action Cams Under $100</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-multi-snapping-made-simple-in-snapchat-video-edits/"><u>[Updated] Multi-Snapping Made Simple in Snapchat Video Edits</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-composers-toolkit-for-flawless-image-finishing/"><u>[Updated] The Composer's Toolkit for Flawless Image Finishing</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-90-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor 90 Pro Phone When You Forget the Password</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-uniden-r3-top-quality-design-for-long-distance-radar-alerts/"><u>Comprehensive Review of the Uniden R3 - Top-Quality Design for Long Distance Radar Alerts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-amazon-essentials-tablet-stand-a-perfect-travel-companion/"><u>Evaluating the Amazon Essentials Tablet Stand: A Perfect Travel Companion</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v29-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V29 Quickly | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-online-mp4-to-swf-converter-moveave/"><u>Free Online MP4 to SWF Converter - Moveave</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-ring-video-doorbell-pro-revolutionizes-home-security-a-detailed-review/"><u>How the Ring Video Doorbell Pro Revolutionizes Home Security – A Detailed Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-anticheat-connection-failed-issue-in-escape-from-tarkov/"><u>How to Fix the 'Anticheat Connection Failed' Issue in Escape From Tarkov</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-which-is-superior-ring-or-nest-doorbells/"><u>In Depth Review: Which Is Superior - Ring or Nest Doorbells?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/map-all-nations-with-latin-roots/"><u>Map: All Nations with Latin Roots</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/masterclass-on-samsungs-galaxy-note-9-a-pinnacle-achievement-for-high-resolution-big-screen-devices/"><u>Masterclass on Samsung's Galaxy Note 9: A Pinnacle Achievement for High-Resolution Big Screen Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-chatgpt-moderation-errors/"><u>Solutions for Resolving ChatGPT 'Moderation Errors'</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sony-xbr65x850f-65-inch-4k-tv-quality-and-price-that-wont-break-the-bank/"><u>Sony XBR65X850F (65-Inch) 4K TV: Quality & Price That Won't Break The Bank!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/space-saga-with-a-twist-uncover-the-entertaining-story-in-the-outer-worlds/"><u>Space Saga with a Twist: Uncover the Entertaining Story in 'The Outer Worlds'</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-usb-stick-picks-your-ultimate-guide/"><u>Top-Rated USB Stick Picks : Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/value-meets-quality-in-the-zte-blade-a3y-an-in-depth-review-of-performance/"><u>Value Meets Quality in the ZTE Blade A^3Y - An In-Depth Review of Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-assessing-effectiveness-of-reduced-shaking-in-adobe-photos/"><u>[Updated] Assessing Effectiveness of Reduced Shaking in Adobe Photos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-demystifying-youtube-analytics-views-subscriptions-and-profits-for-2024/"><u>[Updated] Demystifying YouTube Analytics Views, Subscriptions & Profits for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-free-top-8-best-apps-to-get-likes-on-instagram/"><u>[Updated] FREE Top 8 Best Apps to Get Likes on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unveiling-the-virtual-essence-metaphysical-metaverse-adages/"><u>[Updated] In 2024, Unveiling the Virtual Essence Metaphysical Metaverse Adages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/11-pro-tips-to-leverage-chatgpt-in-character-creation-success/"><u>11 Pro Tips to Leverage ChatGPT in Character Creation Success</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-13-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 13 5G PC | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/delving-into-the-elite-an-insiders-review-of-huions-inspiroy-g10t-tablet-excellence-in-craftsmanship-and-capability/"><u>Delving Into the Elite: An Insider's Review of Huion's Inspiroy G10T Tablet - Excellence in Craftsmanship & Capability</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-an-apple-airpod-connection-issue-with-your-iphone/"><u>How to Troubleshoot an Apple AirPod Connection Issue with Your iPhone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-mobile-class-a-comprehensive-review-of-the-premium-samsung-galaxy-s1-0/"><u>Mastering Mobile Class: A Comprehensive Review of the Premium Samsung Galaxy S1 0</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-productivity-with-the-updated-ipad-pro-unveiling-changes-in-the-latest-7th-generation-model/"><u>Mastering Productivity with the Updated iPad Pro - Unveiling Changes in the Latest 7Th Generation Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-pros-and-cons-of-the-anker-roav-dashcam-c1-a-full-featured-review/"><u>Navigating the Pros and Cons of the Anker Roav Dashcam C1 – A Full-Featured Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-nightmares-in-bloodborne-insights-and-impressions/"><u>Navigating Through Nightmares in Bloodborne: Insights and Impressions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-wearables-is-fitbits-charge-3-still-your-best-fitness-tracking-option/"><u>Navigating Through Wearables: Is Fitbit's Charge 3 Still Your Best Fitness Tracking Option?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-wet-pages-afloat-unveiling-the-secrets-of-the-waterproof-kobo-libra-h2o-e-reader/"><u>Navigating Wet Pages Afloat: Unveiling the Secrets of the Waterproof Kobo Libra H2O E-Reader</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nikon-coolpix-a10-an-inexpensive-camera-that-takes-great-photos-but-is-hamstrung-by-a-frustrating-user-experience/"><u>Nikon COOLPIX A10: An Inexpensive Camera That Takes Great Photos But Is Hamstrung by a Frustrating User Experience.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/not-ideal-for-high-viscosity-or-abrasive-materials-without-proper-design-considerations/"><u>Not Ideal for High Viscosity or Abrasive Materials without Proper Design Considerations.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win10-hands-free-screen-adjustment/"><u>Win10: Hands-Free Screen Adjustment</u></a></li>
 </ul></div>
 

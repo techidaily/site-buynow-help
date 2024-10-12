@@ -1,7 +1,7 @@
 ---
 title: Experience a Perfect Harmony of Style and Functionality in the Skagen Falster 3 - An In-Depth Review
-date: 2024-08-22T13:09:59.365Z
-updated: 2024-08-23T13:09:59.365Z
+date: 2024-10-07T19:06:35.518Z
+updated: 2024-10-12T17:15:29.074Z
 categories:
   - BestProducts
 description: This Article Describes Experience a Perfect Harmony of Style and Functionality in the Skagen Falster 3 - An In-Depth Review
@@ -37,6 +37,13 @@ Lifewire / Jonno Hill
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mohu Leaf 30
 
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/xXK31GRLX2h6w0vFc9K2Ps_ufqk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
@@ -64,6 +71,13 @@ Lifewire / Jonno Hill
 
  Mohu might not be breaking new ground with this antenna, but it’s more than sufficient for most city dwellers and perhaps even a few buyers in the suburbs with a relatively unobstructed path to the broadcast source.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Basic but effective**
 
  You can find a dozen identical versions of this unpowered antenna by doing a quick search for TV antennas online, and not for no reason. It’s a very uncomplicated design, doesn’t take up too much space, and doesn’t have a lot of points of failure. The 9x11.5-inch rectangular antenna surface is thin, pliable, and features two small punch-holes towards the top which can be used to pin the antenna to an appropriate surface.
@@ -71,41 +85,32 @@ Lifewire / Jonno Hill
  The matte surface is white on one side and black on the other, which could be useful for helping blend the device in with your surroundings. The Mohu Leaf 30 TV Antenna is neither the thickest or the thinnest version of this design that we’ve seen. Some are closer to paper thin and extremely flexible, and others were more rigid. If you need to be able to bend the antenna quite a bit to fit it where you need to, this might not be the right one for you.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup: Dead simple**
 
  Setup of the Mohu Leaf 30 TV Antenna is as easy as it gets with antennas. Since there is no external power to connect, you only need to worry about connecting the included coaxial cable to the device and to your TV and using the included pins or adhesive tabs to affix the device to a surface. Ease of setup is one of the benefits of a non-amplified antenna such as the Mohu Leaf.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **Performance: Acceptable but not incredible**
 
  The Mohu Leaf 30 TV Antenna wasn’t the highest performing antenna that I tested, even among similar unpowered antennas. In my channel acquisition test, the Leaf picked up 56 channels on average across all the iterations performed.
 
  My apartment is located within city limits and doesn’t provide too much of a challenge for antennas, but I was able to reliably get as many as 76 channels from other devices. Nonetheless, the Leaf still provided a clear picture of all the major network stations without any issue. The only channels that I couldn’t pick up with the Leaf were pretty obscure, such as an audio-only station from a Korean Christian church. I think I’ll be okay without that one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Range: Fairly limited**
 
  The Mohu Leaf 30 TV Antenna is rated, as its name implies, for up to 30 miles of range. This is about what I would expect from an unpowered antenna. This device is clearly designed for buyers who live within close proximity to their local TV broadcast source, and not for those further out into the suburbs and beyond.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Excellent for the performance**
 
  The Mohu Leaf 30 TV Antenna has a 90-day rolling average price of $29 on Amazon, which puts it on the more affordable end of the spectrum. The price definitely feels appropriate for the performance and feature set, but it’s not an all-out bargain.
 
  Buyers probably wouldn’t be wise to spend more money unless they live a bit further from their signal source and have had trouble with similar antennas in the past. I think that for most people living in cities, the Mohu Leaf 30 TV Antenna should be more than enough.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Mohu Leaf 30 TV Antenna vs Mohu Blade TV Antenna**
 
  Mohu also makes the[Mohu Blade](https://www.lifewire.com/mohu-blade-tv-antenna-review-4843106) , a powered antenna with a slightly more unique design for a minor premium of $40\. This antenna managed to reliably acquire an average of 69 channels in my tests, a big leap from the performance of the Mohu Leaf 30 TV Antenna. That having been said, the Blade does require a power source, and installation is slightly more cumbersome than that of the Leaf. If I wasn’t having any trouble getting the channels I watch with the Leaf, I probably wouldn’t upgrade to the Blade personally.
@@ -116,8 +121,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The Mohu Leaf 30 TV Antenna is a great entry point into the TV antenna space, providing a nice mix of performance and value in a dead-simple package that won’t burden buyers during setup. It might not be powerful enough to suit the needs of suburban users and beyond, but if you’re close enough to the signal source, it’s a nice option.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Leaf 30
@@ -130,14 +139,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Range  30 miles
 * Warranty  One year
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +152,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/hannel-upgrade-how-reaching-500-viewers-propelts-monetization/"><u>[New] Channel Upgrade How Reaching 500 Viewers Propelts Monetization</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-comprehensively-capturing-your-messenger-conversations-for-2024/"><u>[New] Comprehensively Capturing Your Messenger Conversations for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-crafting-powerful-instagram-content-top-strategies-for-video-marketing/"><u>[New] Crafting Powerful Instagram Content Top Strategies for Video Marketing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-from-feeds-to-filters-connecting-instagram-and-tiktok/"><u>[Updated] 2024 Approved From Feeds to Filters Connecting Instagram and TikTok</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-owc-mercury-pro-drives-speed-quality-and-best-results/"><u>A Comprehensive Guide to OWC Mercury Pro Drives - Speed, Quality & Best Results</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-cmd-commands-every-user-should-master/"><u>Essential CMD Commands Every User Should Master</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/horizon-hours-the-ultimate-guide-to-automotive-engineering-books-and-blogs-edition-in-new-york-city-book-five-of-fourth-series/"><u>Horizon Hours - The Ultimate Guide to Automotive Engineering Books & Blogs Edition in New York City, Book Five of Fourth Series</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailored-tips-for-maximizing-vlc-playback-potential/"><u>In 2024, Tailored Tips for Maximizing VLC Playback Potential</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-core-elements-in-asmr-visual-media/"><u>In 2024, The Core Elements in ASMR Visual Media</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-thinkpad-x1-nano-evaluation-your-ideal-portable-laptop-choice/"><u>Lenovo ThinkPad X1 Nano Evaluation: Your Ideal Portable Laptop Choice</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-se-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone SE</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-manfrotto-befree-carbon-fiber-high-quality/"><u>Professional Manfrotto Befree Carbon Fiber: High Quality</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/stepwise-guide-for-discovering-recent-watch-history-on-fb-for-2024/"><u>Stepwise Guide for Discovering Recent Watch History on FB for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-6-retailers-for-finding-and-buying-premium-laptops-online/"><u>The Best 6 Retailers for Finding and Buying Premium Laptops Online</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-latest-in-voice-assistants-a-comprehensive-review-of-the-amazon-echo-show-10-gen-3-with-room-to-room-movement/"><u>The Latest in Voice Assistants: A Comprehensive Review of the Amazon Echo Show 10 (Gen 3) with Room-to-Room Movement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-2024-mesh-wi-fi-solutions-your-ultimate-guide/"><u>Top 2024 Mesh Wi-Fi Solutions - Your Ultimate Guide</u></a></li>
+</ul></div>
 

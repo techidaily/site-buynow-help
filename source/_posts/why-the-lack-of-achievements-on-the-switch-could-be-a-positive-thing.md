@@ -1,7 +1,7 @@
 ---
 title: Why the Lack of Achievements on The Switch Could Be a Positive Thing
-date: 2024-10-01T17:28:40.926Z
-updated: 2024-10-06T16:05:41.882Z
+date: 2024-10-05T16:08:07.566Z
+updated: 2024-10-12T17:39:35.306Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Nintendo is the only console maker of the big three without an integrated achievement system for its consoles. Achievements are immensely popular, and many people want them on the Switch, but I think a lack of achievements is an overlooked unique selling point for Nintendo.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  No Achievements Means Pure Gaming On Switch
 
  Achievements are a "meta" aspect of video games. They aren't actually part of the game itself, but more like commentary on what you did. Commentary that you can show your friends—if you're into that sort of thing. Some people love it when a little achievement pops up during a game to let them know they've completed the requirements for some or other task, but for me, they're an annoying distraction.
@@ -35,10 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now, the first thing everyone says to this is "you can just [disable the notifications](https://extra-skills.techidaily.com/2024-approved-mastering-high-dynamic-range-with-image-curving/)", but the way that Xbox and PlayStation achievements are designed means they are always in sight at some point. They clutter up the screen when you're browsing your games, litter your profile page, and try to get your eyes on them wherever possible. If Nintendo implemented a truly optional achievement system, I'd be less fussed about it, but their competition only offers half-measures, and that's not good enough for me. My Switch is currently the only place where I can play video games and only have to think about the game itself.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Achievements Can Make Gaming Worse
@@ -47,15 +40,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Likewise, game developers who design their games with achievements in mind have a [perverse incentive](https://en.wikipedia.org/wiki/Perverse%5Fincentive) to use achievements to drive engagement, or stuff the game with filler to push up play time numbers, or even maximize the chances that players will use [microtransactions](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/). Since achievements can be used to influence player behavior, it's possible to use them in ways that aren't great for players in terms of enjoyment.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Individual Switch Games Have Their Own Achievement Systems
 
 ![The box art for Fire Emblem Engage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/b5827e3b.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Switch/dp/B0BF1W7K23/ref=sr%5F1%5F1%5Fsspa?crid=14DNO0YJ12XXC&keywords=fire+emblem+engage&qid=1674073683&sprefix=fire+emblem+engage%2Caps%2C522&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaM1cxNDBNMjBTSDcmZW5jcnlwdGVkSWQ9QTA2MzM3NjkxQjRIWFVaRUxNVU1LJmVuY3J5cHRlZEFkSWQ9QTA4MDc2NjYxWFU2Q0FCRkRHVDdLJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)_
@@ -63,10 +63,10 @@ _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Swit
  In light of the lack of achievements on the Switch, some developers have simply opted to build their own achievements into their games. For example, in Fire Emblem Engage there's an achievement list within the game to keep track of your progress. Even better, you get in-game currency when you unlock an achievement, so they are more than just window dressing. This isn't rare either, as this [list of Switch games with in-game achievements](https://www.reddit.com/r/NintendoSwitch/comments/xl00ju/list%5Fof%5Fswitch%5Fgames%5Fwith%5Fingame%5Fachievements%5Fin/) from Reddit shows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Switch 2 Simply Doesn’t Need Them to Succeed
@@ -92,24 +92,22 @@ _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Swit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-efficient-video-broadcasting-across-twit-and-tumble/"><u>[Updated] Efficient Video Broadcasting Across Twit & Tumble</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-unusual-upward-turning-of-ig-video-images/"><u>2024 Approved The Unusual Upward Turning of IG Video Images</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-ultimate-guide-to-choosing-leading-storm-prediction-apps/"><u>2024'S Ultimate Guide to Choosing Leading Storm Prediction Apps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elevating-virtual-meetings-using-zoom-proficiently-on-win11/"><u>Elevating Virtual Meetings Using Zoom Proficiently on Win11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exclusive-deals-acers-finest-bargains-for-prime-day-shopping-extravaganza-2e4/"><u>Exclusive Deals: Acer's Finest Bargains for Prime Day Shopping Extravaganza 2E4</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-rating-of-the-oneplus-6t-outstanding-functionality-at-an-incredible-cost/"><u>Expert Rating of the OnePlus 6T: Outstanding Functionality at an Incredible Cost</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/exploring-ini-settings-within-windows-file-management-interface/"><u>Exploring INI Settings Within Windows File Management Interface</u></a></li>
-<li><a href="https://discover-community.techidaily.com/get-your-free-ultra-hd-media-player-enjoy-high-definition-on-any-pc/"><u>Get Your Free Ultra-HD Media Player: Enjoy High Definition on Any PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-heimvision-sunrise-simulator-alarm-clock-model-a8/"><u>In-Depth Analysis of the HeimVision Sunrise Simulator Alarm Clock, Model A8</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovation-in-action-top-video-editing-strategies/"><u>Innovation in Action Top Video Editing Strategies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-the-world-of-ibuypower-gamers-a-comprehensive-rig-evaluation/"><u>Inside the World of IBuypower Gamers: A Comprehensive Rig Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sound-without-cords-the-efficacy-of-m06-headphones/"><u>Sound Without Cords: The Efficacy of M06 Headphones</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-15-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-most-comfortable-extended-desk-mats-for-gamers/"><u>The Most Comfortable Extended Desk Mats for Gamers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-lava-blaze-2-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Lava Blaze 2 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-appeal-in-depth-look-at-the-apple-iphone-ses-smart-value-proposition-2020-edition/"><u>Unboxing the Appeal: In-Depth Look at the Apple iPhone SE's Smart Value Proposition - 2020 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/vintage-gaming-showdown-nintendos-super-mario-bros-on-the-game-and-watch-in-depth-analysis/"><u>Vintage Gaming Showdown: Nintendo's Super Mario Bros. On the Game & Watch - In-Depth Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-you-need-to-know-about-the-monthly-security-fix-day-known-as-patch-tuesday/"><u>What You Need to Know About the Monthly Security Fix Day Known as Patch Tuesday</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-in-class-video-production-smooth-editing-skills/"><u>[New] 2024 Approved In-Class Video Production Smooth Editing Skills</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-securing-your-snapchat-footage-a-step-by-step-process/"><u>[New] 2024 Approved Securing Your Snapchat Footage A Step-by-Step Process</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/outube-mastering-the-use-of-tags-for-maximum-reach/"><u>[New] YouTube Mastering the Use of Tags for Maximum Reach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-firefox-pip-a-complete-users-manual/"><u>2024 Approved Firefox PIP A Complete User's Manual</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-unveils-new-media-player-software-as-itunes-bids-farewell-on-windows-platform-detailed-coverage-by-zdnet/"><u>Apple Unveils New Media Player Software as iTunes Bids Farewell on Windows Platform - Detailed Coverage by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-lava-yuva-3-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Lava Yuva 3 Location | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-apple-m4-silicon-a-comprehensive-look-at-its-launch-date-and-performance-specifications/"><u>Inside the Apple M4 Silicon: A Comprehensive Look at Its Launch Date and Performance Specifications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/intuitive-use-of-blinks-advanced-wireless-4p-led-floodlight-security-system/"><u>Intuitive Use of Blink’s Advanced Wireless 4P LED Floodlight Security System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-kobo-nia-a-worthy-rival-to-kindle-read-our-in-depth-analysis/"><u>Is Kobo Nia a Worthy Rival to Kindle? Read Our In-Depth Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/keep-ahead-in-games-with-effective-overheating-prevention-the-havit-5-fan-laptop-cooler-unveiled/"><u>Keep Ahead in Games with Effective Overheating Prevention - The HAVIT 5-Fan Laptop Cooler Unveiled</u></a></li>
+<li><a href="https://fox-http.techidaily.com/legacy-in-pixels-iphone-x-memories-photography/"><u>Legacy in Pixels IPhone X Memories Photography</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/masterclass-boosting-windows-10-32-bit-with-a-64-bit-makeover/"><u>Masterclass: Boosting Windows 10 32-Bit with a 64-Bit Makeover</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-play-the-philips-evonia-a-giant-leap-in-49-inch-gaming-monitors/"><u>Maximize Your Play: The Philips Evonia - A Giant Leap in 49-Inch Gaming Monitors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-productivity-with-onetastic-add-in-an-expert-review-for-microsoft-onenote/"><u>Maximizing Productivity with Onetastic Add-In - An Expert Review for Microsoft OneNote</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-literature-with-apple-books-a-users-guide/"><u>Navigating Literature with Apple Books - A User's Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-steps-to-capture-ios-audio-files/"><u>Quick Steps to Capture iOS Audio Files</u></a></li>
 </ul></div>
 

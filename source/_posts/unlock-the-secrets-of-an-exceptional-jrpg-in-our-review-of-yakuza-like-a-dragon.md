@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secrets of an Exceptional JRPG in Our Review of Yakuza: Like A Dragon"
-date: 2024-08-22T13:11:03.678Z
-updated: 2024-08-23T13:11:03.678Z
+date: 2024-10-07T18:27:39.138Z
+updated: 2024-10-12T16:02:56.793Z
 categories:
   - BestProducts
 description: "This Article Describes Unlock the Secrets of an Exceptional JRPG in Our Review of Yakuza: Like A Dragon"
@@ -85,6 +85,19 @@ Lifewire / Jeff Dojillo
 
  While testing the GoPro HERO7 Black we noticed that the body of the device becomes very hot when used for long periods of time. We tested it for a few hours nonstop and noticed it was still very warm even when it was not recording. This can be a big concern if the device is used for long recordings in hot temperatures.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Display: Bright and visible**
 
  The back of the GoPro HERO7 Black has a two-inch touchscreen that is bright and easy to read. While testing the camera, we were able to navigate through the menus with the single touch of a finger, which are intuitive and easy to adjust. Simply tap to select.
@@ -92,8 +105,12 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup: Updates out of the box**
 
  The GoPro HERO7 Black did not have much battery life out of the box. Once we powered it on, we set the date, time, and location. It then prompted us to update the software, which required a blank memory card and fully-charged battery to complete.
@@ -102,10 +119,6 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## **Sensor: Small but mighty**
 
  The GoPro HERO7 Black boasts a 1/2.3-inch 12-megapixel sensor that is built for action. The new and improved image processor now has the ability to stabilize footage through electronic image stabilization technology called HyperSmooth. This feature works by tracking unwanted motion in your videos and algorithmically correcting shake. It makes your footage impressively stable even when filming handheld or while riding on rough terrain.
@@ -114,16 +127,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  It makes your footage impressively stable even when filming handheld or while riding on rough terrain.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Lens: Great for video**
 
  The fixed lens on the GoPro HERO7 Black shoots wide or in SuperView mode, the latter of which is an extra-wide field of view and can sometimes give a kind of distorted fisheye effect to your footage. This distortion can be frustrating, but there are ways to work around it during editing, including using video editing software to correct. And when shooting at a lower resolution, the camera can shoot with a linear field of view which reduces the distortion of the lens. The SuperView is not available when shooting in a 4:3 aspect ratio.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Video Quality: Amazing 4K quality with variable frame rates**
 
  The[4K video](https://www.lifewire.com/4k-resolution-overview-and-perspective-1846842) quality of the GoPro HERO7 Black is gorgeous. Content creators and travel vloggers will absolutely appreciate this camera’s recording capabilities.
@@ -139,8 +153,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Photo Quality: Nothing to brag about**
 
  The photo quality on the GoPro HERO7 Black is average, though it does have the ability to create HDR (High Dynamic Range) images.
@@ -168,13 +186,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Inside the app, there are also options to edit mode settings, change the original set up, review camera info, changed Wi-Fi remotes, as well as monitor the battery level and[SD card](https://www.lifewire.com/how-to-format-sd-card-camera-4587017) capacity. It also makes it easier to review footage and images that the camera captures.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery Life: High-res video drains it quickly**
 
  When recording 4K video at 60 fps, the HERO7 Black’s battery only lasts about 50 minutes, so if you’re going to be shooting all day, it would be smart to have a few extra batteries available.
 
  Another option to extend shooting time would be to connect the GoPro HERO7 Black to an external battery pack via the[USB port.](https://www.lifewire.com/what-is-a-usb-port-818166)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Fairly priced for what you get**
 
@@ -212,9 +241,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * [Canon PowerShot G7 X Mark II](https://www.lifewire.com/canon-powershot-g7-x-mark-ii-review-4706895)
 * [Sony DSC-W800](https://www.lifewire.com/sony-dsc-w800-review-4589510)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  HERO7 Black
@@ -237,8 +263,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +270,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-strategies-for-igtv-on-facebook-integration/"><u>[New] In 2024, Strategies for IGTV on Facebook Integration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strengthening-bonds-networking-tips-for-youtube-content-creators/"><u>2024 Approved Strengthening Bonds Networking Tips for YouTube Content Creators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unmatched-portfolio-boosters-top-free-3d-texts/"><u>2024 Approved Unmatched Portfolio Boosters - Top Free 3D Texts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-true-value-of-applecareplus-for-your-devices/"><u>Assessing the True Value of AppleCare+ for Your Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-kensuns-durable-and-compact-portable-tire-inflator/"><u>Comprehensive Evaluation of Kensun's Durable and Compact Portable Tire Inflator</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/continuous-monitoring-and-health-insights-a-deep-dive-into-the-fitbit-inspire-hr-tracker/"><u>Continuous Monitoring & Health Insights: A Deep Dive Into the Fitbit Inspire HR Tracker</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elegant-architecture-top-6-sleek-mc-houses/"><u>Elegant Architecture Top 6 Sleek MC Houses</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-device-performance-with-latest-win1187-drivers/"><u>Enhance Device Performance with Latest Win11/8/7 Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/finding-the-right-fix-how-to-release-a-stuck-windows-update-on-legacy-systems-updated-tips-and-techniques-for-better-user-experience-edition-helpful-tips-an13/"><u>Finding The Right Fix: How to Release A Stuck Windows Update on Legacy Systems - Updated Tips & Techniques For Better User Experience Edition! (Helpful Tips and Guides.)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-standard-to-spectacular-exploring-the-graphical-leap-in-the-new-playstation/"><u>From Standard to Spectacular: Exploring the Graphical Leap in the New PlayStation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-capable-stanley-5c-series-jaw-crusher-the-j5c09-model/"><u>In-Depth Analysis of the Capable Stanley 5C Series Jaw Crusher - The J5C09 Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-samsung-galaxy-watch-a-fusion-of-style-and-technology/"><u>In-Depth Review of Samsung Galaxy Watch: A Fusion of Style and Technology</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/maximizing-tv-viewership-for-facebook-live-events/"><u>Maximizing TV Viewership for Facebook Live Events</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-reno-10-proplus-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Reno 10 Pro+ 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-next-generation-of-gaming-a-deep-dive-into-the-features-performance-and-stylish-appearance-of-dells-alienware-aurora-rnv/"><u>The Next Generation of Gaming: A Deep Dive Into the Features, Performance & Stylish Appearance of Dell's Alienware Aurora Rnv</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Getting Up Close with the Cutting-Edge Technology in the Apple iPhone 15 Pro
-date: 2024-08-22T13:07:15.469Z
-updated: 2024-08-23T13:07:15.469Z
+date: 2024-10-07T16:39:05.226Z
+updated: 2024-10-12T17:39:53.163Z
 categories:
   - BestProducts
 description: This Article Describes Getting Up Close with the Cutting-Edge Technology in the Apple iPhone 15 Pro
@@ -42,6 +42,13 @@ Jeremy Laukkonen / Lifewire
 
 ![Mac mini](https://www.lifewire.com/thmb/cOYA5qGbCuLx8V2Gpf67_t0Wd4o=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Mac-Mini-M1-2020-Computer-1-c63ec986a9944869ab0f9ff7b7a0b01d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jeremy Laukkonen / Lifewire
 
 [View On Apple $599](https://www.apple.com/shop/buy-mac/mac-mini) [View On B&H Photo Video $479](https://www.bhphotovideo.com/c/product/1604799-REG/apple%5Fmgnr3ll%5Fa%5Fmac%5Fmini.html) [View On Macsales.com](https://eshop.macsales.com/configure-my-mac/UAEI1HS6XXXX5XA?slfpid=3)
@@ -73,11 +80,15 @@ Jeremy Laukkonen / Lifewire
 
 ![Mac mini](https://www.lifewire.com/thmb/aEGPK4B55KCbhrof83878utZpZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-2-16eb4e84f8694bb6a76cf078906add40.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Jeremy Laukkonen / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Same sleek aluminum chassis
 
  The big changes here are all under the hood, as Apple opted to leave the overall design of the Mac mini (M1, 2020) unchanged from the previous model. It’s still a block of milled aluminum with the same rounded corners, satin finish, and shiny Apple logo emblazoned on the top. The top is smooth and unmarked aside from the logo, and the front and sides of the case are completely featureless aside from a small LED on the front that lets you know when the system is powered on.
@@ -94,9 +105,6 @@ Jeremy Laukkonen / Lifewire
 
 ![Mac mini](https://www.lifewire.com/thmb/xpt3pmIvU6FTBUo0tBDpyp3BERE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-3-844f657110aa424db6f1e5bac1b19eda.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Jeremy Laukkonen / Lifewire
 
 ## Setup Process: Fast and painless, but you can’t use a Bluetooth keyboard or mouse
@@ -108,13 +116,12 @@ Jeremy Laukkonen / Lifewire
  For example, I was able to plug in the dongle from my Logitech K400+ Touch Keyboard, and the Mac mini recognized the peripheral immediately. That allowed me to complete the setup process without digging around for wired peripherals.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Performance: Unreal performance with some hiccups
 
  While the Mac mini (M1, 2020) remained mostly unchanged from a design perspective, the internals received a massive overhaul. This is Apple’s first desktop to receive its new M1 chip, and that’s a really big deal. Though one of the M1’s headline features, reduced power use, isn’t as big a deal here as it is in the MacBook Air, this chip is still massively more powerful than anything you’ve ever seen in a Mac before. In fact, the Mac mini has the exact same chip as the MacBook Pro, with one more GPU core than the MacBook Air.
@@ -134,8 +141,12 @@ Jeremy Laukkonen / Lifewire
 ![Mac mini](https://www.lifewire.com/thmb/H6vCqcN2s5HOQG5MJWawrPxairg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-6-cd1693bee2f4429fafd1a57ecffbce81.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Jeremy Laukkonen / Lifewire
 
 ## Gaming: Limited but promising
@@ -170,9 +181,6 @@ Jeremy Laukkonen / Lifewire
 
  Multitasking also works flawlessly, and I was able to juggle an impressive number of browser windows, intensive apps like Photoshop and Handbrake, voice and video chat over Discord, and more without running into any real problems.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Audio: It’s there if you need it
 
  The M1 Mac mini is great in almost every category, but audio isn’t one of them. There’s a speaker inside that sleek aluminum block, but it isn’t one you’ll care to listen to. It’s tinny and hollow, and absolutely a placeholder for more capable external speakers. You’ll want to hook up headphonesor some kind of speakers or soundbar shortly after setting the M1 Mac mini up, because the built-in speaker isn’t really even suitable for watching YouTube videos, let alone listening to music or streaming your favorite shows or movies.
@@ -181,10 +189,20 @@ Jeremy Laukkonen / Lifewire
 
 ![Mac mini](https://www.lifewire.com/thmb/OZrKjTPGUmo00carhaedBa9WhTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-5-bc84da59dfdf440c8d53a096509c232b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Jeremy Laukkonen / Lifewire
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Network: Solid Ethernet and Wi-Fi 6 connectivity
 
@@ -193,6 +211,13 @@ Jeremy Laukkonen / Lifewire
  To test the M1 Mac mini’s network capabilities, I used a gigabit connection from Mediacom that measured just shy of 1Gbps at the modem at the time of testing. First I hooked up to the router via Ethernet and checked the speed using the Speedtest app from Ookla. With the wired connection, the M1 Mac mini turned in an impressive 937Mbps down, which is one of the fastest measurements I’ve seen on this connection. At the same time, it measured an upload speed of 63.7Mbps, which is close to the upper limit of this connection.
 
  I also tested the wireless connection, hooking the M1 Mac mini to my[Eero mesh network](https://www.lifewire.com/eero-pro-mesh-wi-fi-system-review-4797008) . When connected wirelessly, I measured a respectable 284 Mbps down and 54 Mbps up. At the same time, in the same location, my[HP Spectre x360](https://www.lifewire.com/hp-spectre-x360-15t-touch-laptop-review-4773540) measured 254Mbps down and 63Mbps up.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Software: So long, Windows compatibility
 
@@ -212,14 +237,8 @@ Jeremy Laukkonen / Lifewire
 
 ![Mac mini](https://www.lifewire.com/thmb/G2V98ugnO-cdk-GaL11FUP0RWvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mac-Mini-M1-2020-Computer-7-c899b9f13f09448699fee766ab51a2bd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Jeremy Laukkonen / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Mac Mini M1 vs. Mac Mini Intel
 
  This is a bit of an unfair fight, but the fact is that Apple still sells the Intel Mac mini, so it’s a natural comparison to make. The two mini desktops share an identical form factor, with the Intel version coming in Space Gray and the M1 version finished in Silver. The Intel Mac mini has a base price of $1,099 compared to $699 or $899 for the M1 Mac mini.
@@ -239,6 +258,13 @@ Jeremy Laukkonen / Lifewire
  **If all you need is a Mac, the M1 Mac mini is your destination.**
 
  The Apple Mac mini with M1 is a tremendously impressive piece of hardware, offering staggering performance at an affordable price. The only real catch here is that in leaving Intel behind, Apple may have left you in the lurch. If you currently can’t get by without running specific apps through Windows by way of Bootcamp, then the M1 Mac mini just isn’t what you’re looking for. If you can live and work in a world that’s entirely free of Windows, then the M1 Mac mini is ready to welcome you home.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -262,14 +288,11 @@ Jeremy Laukkonen / Lifewire
 * Connectivity  Wi-Fi 6, Ethernet
 * Software  macOS Big Sur
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -278,4 +301,18 @@ Jeremy Laukkonen / Lifewire
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-leading-sites-that-outshine-traditional-twitter-usage/"><u>[Updated] 2024 Approved Leading Sites That Outshine Traditional Twitter Usage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-decoding-apples-leap-comparing-m1-pro-and-m1-max-capabilities/"><u>2024 Approved Decoding Apple's Leap Comparing M1 Pro & M1 Max Capabilities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-elitepixel-recorder-winos-series/"><u>2024 Approved ElitePixel Recorder WinOS Series</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-guide-to-chromes-picture-in-picture-feature/"><u>2024 Approved The Ultimate Guide to Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-spotify-uses-artificer-intelligence-to-create-personalized-listening-experiences-when-discover-falls-short/"><u>How Spotify Uses Artificer Intelligence to Create Personalized Listening Experiences When Discover Falls Short</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immerse-in-stories-on-the-go-with-spotifys-competitively-priced-audiobook-plan-for-only-9eby/"><u>Immerse in Stories on the Go with Spotify's Competitively Priced Audiobook Plan for Only $9.eby</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/improving-the-digital-storefront-enhancing-the-switch-online-shop/"><u>Improving the Digital Storefront: Enhancing The Switch Online Shop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/master-the-art-of-digital-dueling-the-ultimate-reasons-to-engage-in-online-fighting-games-today/"><u>Master the Art of Digital Dueling: The Ultimate Reasons to Engage in Online Fighting Games Today</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-playtime-effective-strategies-to-upgrade-your-xboxs-performance/"><u>Maximizing Playtime: Effective Strategies to Upgrade Your Xbox's Performance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-essential-guide-to-state-of-the-art-screen-recorders-for-2024/"><u>The Essential Guide to State-of-the-Art Screen Recorders for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-metaverse-and-multi-meva-split-an-exploratory-analysis/"><u>The Metaverse & Multi-Meva Split An Exploratory Analysis</u></a></li>
+</ul></div>
 

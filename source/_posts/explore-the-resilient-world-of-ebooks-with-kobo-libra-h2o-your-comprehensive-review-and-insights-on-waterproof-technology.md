@@ -1,7 +1,7 @@
 ---
 title: "Explore the Resilient World of eBooks with Kobo Libra H2O: Your Comprehensive Review and Insights on Waterproof Technology"
-date: 2024-08-22T13:07:26.186Z
-updated: 2024-08-23T13:07:26.186Z
+date: 2024-10-06T16:28:00.646Z
+updated: 2024-10-12T16:52:29.257Z
 categories:
   - BestProducts
 description: "This Article Describes Explore the Resilient World of eBooks with Kobo Libra H2O: Your Comprehensive Review and Insights on Waterproof Technology"
@@ -38,6 +38,19 @@ Lifewire / Yoona Wagener
 [View On Amazon](https://www.amazon.com/dp/B07L7168W9/?tag=lifewire-onsite-prod-20&ascsubtag=4766870%7Cn4d8585d7485f4f72aafd3d2cb40e105b12%7CB07L7168W9) [View On Walmart](https://www.walmart.com/ip/Withings-Move-Activity-Tracker-Black/727305177) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwithings-move-activity-tracker-coral%2F6351601.p%3FskuId%3D6351601)
 
 3.8
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Withings Withings Move Hybrid Smartwatch
 
@@ -89,13 +102,14 @@ Lifewire / Yoona Wagener
 ![Withings Move](https://www.lifewire.com/thmb/Qz1dlsE8jl99mXc7-kQ5LCVoiK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-3-b1e97631284d40829bd5714c59dc5f2a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process** :**As easy as 1-2-3**
 
  Given such a simple and clean design, it’s natural to expect the setup process to be the same. We found that to be the case.
@@ -118,9 +132,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## **Performance: Limited activity tracking**
 
  While hybrid smartwatches like the Withings Move offer ease of use and versatility with your wardrobe and daily wear, they’re limited when it comes to tracking performance. Some activities are automatically recorded: walking, running, hiking, and swimming. With outdoor exercising, you can also track distance and elevation with the connected GPS feature.
@@ -137,9 +148,6 @@ Lifewire / Yoona Wagener
 
 ![Withings Move](https://www.lifewire.com/thmb/vaUmI1isQP98tmL8uIZSghmAWGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-6-259d8034cfb64485be60f9c5754fec79.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Yoona Wagener
 
 ## **Battery: Long-lasting and hassle-free**
@@ -148,11 +156,15 @@ Lifewire / Yoona Wagener
 
 ![Withings Move](https://www.lifewire.com/thmb/02bkMrpkzqBOue1ffhHNfQqaIuk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-4-df866fafd70a44c592e0e06e0ea53ae7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: An emphasis on general wellness**
 
  Though activity data is somewhat limited, the Withings Move does offer some other more in-depth insights. Sleep activity, for example, is automatically detected and doesn’t require any other action besides wearing the watch while sleeping. When you wake in the morning, you’ll be able to view your quality of sleep for the previous night based on the number of interruptions, duration, and even depth of sleep. There is a hiccup with this feature, though—we noticed when we took it off at our desk one morning, it seemed to think we had fallen back asleep and continued reading our sleep quality.
@@ -166,13 +178,24 @@ Lifewire / Yoona Wagener
  There are also a number of other supplemental programs you can sign up for through the Health Connect app in order to up your general wellness. Most of these programs, which are free to join, require a specific type of Withings device, but others, like a meditation and pregnancy tracking program, don’t need any additional equipment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: A bargain for the value**
 
  The Withings Move retails for $69.95, which is an attractive and affordable price for a hybrid smartwatch—most competitors tend to be well above $100\. While these other models, like the Fossil Harper and Fossil Q Commuter, typically come with more functionality like music storage or streaming, notifications, or taking a picture from your phone, there’s also a bigger price associated with those features.
 
  Those looking for a dressier and more substantial watch may find these Fossil models to be better alternatives. Other devices that are comparable in price, like the Fitbit Inspire Fitness Tracker, lack the analog watch qualities and look like designated activity trackers. The Withings Move splits the difference at a modest price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Withings Move vs. Misfit Phase**
 
@@ -187,6 +210,19 @@ Lifewire / Yoona Wagener
 **Best for those who prefer the analog experience.**
 
  The Withings Move is a strong entry-level fitness tracker for the person who wants to track activities without going all-in on a smartwatch. It’s inexpensive, sporty, and subtle, which makes it compelling for those who don’t want to be distracted by notifications and all the hands-on features smartwatches bring to the table.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -206,8 +242,6 @@ Lifewire / Yoona Wagener
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +249,24 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-covert-observers-fb-flashbacks-reader/"><u>[New] 2024 Approved Covert Observers FB Flashbacks Reader</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elite-videochats-enabling-online-meeting-excellence/"><u>[New] 2024 Approved Elite Videochats Enabling Online Meeting Excellence</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-pioneering-profit-navigating-the-path-to-money-making-on-vimeo-for-2024/"><u>[New] Pioneering Profit Navigating the Path to Money-Making on Vimeo for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-id-video-overview-length-aspect-ratio-frame-rate/"><u>2024 Approved Facebook ID Video Overview Length, Aspect Ratio, Frame Rate</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compressive-strength-of-concrete-is-a-measure-of-its-ability-to-withstand-loads-that-tend-to-compress-it/"><u>Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/delicate-volume-modulation-using-lumafusions-features/"><u>Delicate Volume Modulation Using Lumafusion's Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-top-9-streaming-platforms-with-no-cost-trial-periods-available-now/"><u>Discover the Top 9 Streaming Platforms with No-Cost Trial Periods Available Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effective-strategies-for-managing-a-bursting-steam-game-collection/"><u>Effective Strategies for Managing a Bursting Steam Game Collection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/emulate-and-enjoy-a-step-by-step-tutorial-for-adding-classic-games-to-steam-deck-with-emudeck-tools/"><u>Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-decreasing-quality-of-complimentary-offerings-at-the-epic-games-store/"><u>Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/five-years-on-the-critical-functions-yet-to-be-added-to-apple-tvplus/"><u>Five Years On: The Critical Functions Yet To Be Added To Apple TV+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-playlists-to-conversations-spotifys-evolution-into-a-social-networking-site/"><u>From Playlists to Conversations: Spotify's Evolution Into a Social Networking Site</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gaming-on-an-8gb-graphics-card-is-this-adequate-for-modern-titles/"><u>Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-15-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 15 Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-guide-install-asus-z370-e-motherboard-drivers/"><u>Quick Download Guide: [INSTALL] Asus Z370-E Motherboard Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-listeners-online-exploring-the-theory-of-ghostly-interactions-in-cyberspace/"><u>The Hidden Listeners Online: Exploring the Theory of Ghostly Interactions in Cyberspace</u></a></li>
+</ul></div>
 

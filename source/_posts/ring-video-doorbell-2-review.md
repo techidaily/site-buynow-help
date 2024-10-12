@@ -1,7 +1,7 @@
 ---
 title: Ring Video Doorbell 2 Review
-date: 2024-08-22T13:09:57.100Z
-updated: 2024-08-23T13:09:57.100Z
+date: 2024-10-07T16:06:35.810Z
+updated: 2024-10-12T16:12:07.405Z
 categories:
   - BestProducts
 description: This Article Describes Ring Video Doorbell 2 Review
@@ -67,6 +67,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Nostalgia trip**
 
  The Pruveeo F5 gives the immediate impression that it was constructed some time in the previous decade. Anyone who bought a bargain bin MP3 player from the aughts will instantly recognize the cheap plastic shell, the glossy, chintzy buttons, and a screen that screams early 21st century in big neon letters.
@@ -81,9 +88,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process:** **Simple, but poorly described**
 
  Setting up the Pruveeo F5 may not be a particularly complicated process, but it is complicated by the fact that the instruction manual doesn’t really tell you anything about the installation process. You’re mostly left to figure it out on your own.
@@ -97,8 +101,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Camera Quality: Extremely poor**
 
  Every issue associated with a cheap camera is magnified in the Pruveeo F5\. It’s actually hard to know where to begin when describing the serious problems present in the footage this dash cam produces. Artifacting, noise, poor color, and a mushy, unclear appearance make reviewing the video from the Pruveeo F5 an almost painful experience. You won’t be using this to film your vacation.
@@ -110,8 +118,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Lackluster and very basic**
 
  The F5 records video and audio poorly but reliably, and you can loop video so that old video is erased as new video is recorded, and lock important video clips to keep them from being erased by accident. Unlike other dash cams, this locking function must be triggered manually with a button press rather than automatically by collision sensors.
@@ -122,23 +134,14 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## **Connectivity and software: Mysteriously absent**
 
  You will find in your instructions information on using Wi-Fi and a mobile app. However, as pointed out on Pruveeo’s Amazon storefront and on Pruveeo’s website, the feature has been removed from the F5\. This is not a death blow to the camera, but it severely limits its appeal compared to competing products. Without Wi-Fi and the companion app (GoPlus Cam), you can’t use the various features this enables. You can’t use your phone to remotely control the Pruveeo F5, use it as a viewfinder, download files to your phone, or change settings using a less frustrating interface than that built into the camera.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Cheap if below MSRP**
 
  At its MSRP of $70 the Pruveeo F5 faces stiff competition, but fortunately it typically retails for about half that price, and in the $30-$50 range its a bargain. For around $40 it offers decent video capabilities and useful features despite its cheap exterior. Keep in mind that you must consider the price of a microSD card in the total cost, as one is necessary but not included.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **Pruveeo F5 vs. Anker Roav C1**
 
  The Anker Roav C1 offers far superior build quality, Wi-Fi connectivity, and a much better screen than the Pruveeo F5 at a similar MSRP. However, the Pruveeo F5 can be found for steeper discounts, and often retails for about half the price of the Anker C1\. That’s cheap enough that the many deficiencies of the Pruveeo F5 can be forgiven to some extent. Even with such a price difference we would still recommend the Anker C1 as a better value given the glut of flaws in quality and performance hamstringing the F5.
@@ -150,6 +153,13 @@ Lifewire / Andy Zahn
 **Difficult to recommend.**
 
  The only reason not to completely write off the Pruveeo F5 as hot garbage is how frequently it’s on sale, but enough at a discount it’s not a great product. It’s only barely possible, given its limited capabilities, to use this as an aid for insurance claims in case of accidents. For all its faults we did find it to be reliable, and the video it captures marginally acceptable for its purpose, but there are so many better options available for slightly more money.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -168,8 +178,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +185,20 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/free-download-intel-82579v-drivers-quick-and-easy/"><u>[Free Download] Intel 82579V Drivers | Quick & Easy</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-masterful-methods-for-attaching-fb-story-links/"><u>[New] Masterful Methods for Attaching FB Story Links</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-understanding-ars-capabilities-and-limits/"><u>[New] Understanding AR's Capabilities and Limits</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-ideal-tablet-amazon-fire-vs-ipad/"><u>Choosing Your Ideal Tablet: Amazon Fire Vs. IPad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-powerhouse-unveiled-exploring-the-raspberry-pi-400-keyboard-pc/"><u>Compact Powerhouse Unveiled: Exploring the Raspberry Pi 400 Keyboard PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/s-quest-1000plus-game-adventures-unfolded-for-2024/"><u>Gamer's Quest 1,000+ Game Adventures Unfolded for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y36-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y36 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-snap-edit-and-share-spectacularly-on-tiktok-with-themes/"><u>In 2024, Snap, Edit & Share Spectacularly on TikTok with Themes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-acer-chromebook-r-11-elegant-design-meets-portability/"><u>In-Depth Analysis of the Acer Chromebook R 11: Elegant Design Meets Portability</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-the-dji-phantom-3-pro-advantages-for-2024/"><u>Inside the DJI Phantom 3 Pro Advantages for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/razer-laptop-review-the-compact-beast-unleashed/"><u>Razer Laptop Review - The Compact Beast Unleashed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-benq-displays-unmissable-savings-during-prime-shopping-event/"><u>Top-Rated BenQ Displays: Unmissable Savings During Prime Shopping Event</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lg-stylo-6-a-fusion-of-style-and-precision-thanks-to-its-integrated-stylus/"><u>Unveiling the LG Stylo 6: A Fusion of Style and Precision Thanks to Its Integrated Stylus</u></a></li>
+</ul></div>
 

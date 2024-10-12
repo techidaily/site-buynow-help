@@ -1,7 +1,7 @@
 ---
 title: "Five Years On: The Critical Functions Yet To Be Added To Apple TV+"
-date: 2024-09-20T16:06:07.982Z
-updated: 2024-09-26T16:32:01.729Z
+date: 2024-10-08T16:59:56.640Z
+updated: 2024-10-12T18:27:09.500Z
 tags:
   - games
   - tv
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
  However, Apple TV+ falters when it comes to functionality. I don't want it bloated with gimmicks or multiple membership plans, but there are core features missing that competitors like Netflix and Prime Video nailed years ago.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Share Your Subscription Without an Apple Account
 
  You can share your Apple TV+ subscription with up to five other people, thanks to the Family Sharing functionality. It means that everyone can watch whatever they want on their own device. This works even if those people live outside your household, which is one way [Apple TV+ is better than Netflix](https://facebook-record-videos.techidaily.com/updated-unlock-the-magic-of-capturing-youtube-content-the-no-cost-way/).
@@ -43,10 +36,10 @@ Apple
  Another wrinkle is that everyone you invite to Family Sharing needs to create an Apple account. It's free to do that, but it's still an annoying hurdle—especially compared to the likes of Disney+ and Netflix, where you can create extra profiles within seconds from any device.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  An Android App for Phones and Tablets
@@ -57,13 +50,6 @@ Apple
 
 ![Apple TV app on the Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-tv-app-on-the-play-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You're not entirely locked out as an Android user, mind. You can stream Apple TV+ in a web browser on mobile, but it's not as smooth as a native app would be—you may encounter plentiful buffering, for instance, and there's no support for [features like offline viewing](https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-z-fold-5-by-drfone-android/).
 
 ##  Separate Your Watchlist From Up Next
@@ -72,15 +58,22 @@ Apple
 
 ![Up Next on Apple TV+ in a web browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/up-next-on-apple-tv-in-a-web-browser.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The issue comes when you want to mark something you're interested in so you can easily find it later. There's no separate watchlist, like there is on Netflix or Prime Video. Instead, you can only add it to your Up Next, which means that list quickly becomes a mess of things you're currently watching and what you want to watch.
 
  Having at least two lists, one to track current viewing and another for things to watch later, would solve this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Robust and Reliable Search
@@ -90,6 +83,13 @@ Apple
  You can browse by a handful of categories, like "Drama Series" and "Feature Films", but there's no way to pair these with more specific filters (like if you only want 90-minute movies).
 
 ![Searching on Apple TV+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/searching-on-apple-tv.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The search functionality itself is also unreliable. A search for "kids" includes the likes of adult-orientated _The Tragedy of Macbeth_. You'll also get different results depending on whether you search "kids" and then select "Movies", or just search "kids movies".
 
@@ -114,24 +114,24 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-your-yearly-list-prime-free-video-editing-software/"><u>[New] In 2024, Your Yearly List Prime Free Video Editing Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-how-to-share-twitter-videos-on-facebook-in-2024/"><u>[Updated] How to Share Twitter Videos on Facebook, In 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-driving-engagement-and-growth-the-role-of-brand-in-youtube-success/"><u>[Updated] In 2024, Driving Engagement and Growth The Role of Brand in YouTube Success</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-nocturnal-nuances-essential-tips-for-moonlit-portraiture/"><u>[Updated] Nocturnal Nuances Essential Tips for Moonlit Portraiture</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-elite-selection-of-key-finders-reviewed/"><u>2024'S Elite Selection of Key Finders Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-lg-gram-17-blending-slim-design-with-top-tier-efficiency/"><u>A Closer Look at LG Gram 17 – Blending Slim Design with Top-Tier Efficiency</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-critical-eye-on-cosmic-conspiracies-by-aminy/"><u>A Critical Eye on Cosmic Conspiracies by Aminy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/acer-aspire-e-15-review/"><u>Acer Aspire E 15 Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/all-inclusive-evaluation-of-the-amazon-fire-hd/"><u>All-Inclusive Evaluation of the Amazon Fire HD</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/amazingly-capable-connectivity-the-lowdown-on-the-archer-a9-by-tp-link/"><u>Amazingly Capable Connectivity: The Lowdown on the Archer A9 by TP-Link</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/battle-of-giants-iphone-15-pro-meets-pro-max-in-head-to-head-matchup/"><u>Battle of Giants: IPhone 15 Pro Meets Pro Max in Head-to-Head Matchup</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comment-transformer-votre-dvd-physique-en-media-video-numerique-sur-windows-10mac/"><u>Comment Transformer Votre DVD Physique en Média Vidéo Numérique Sur Windows 10/Mac</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-corsair-k70-mouse-software-and-drivers-latest-version/"><u>Download Corsair K70 Mouse Software & Drivers - Latest Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-and-speedy-brother-hl-3170cdw-driver-download/"><u>Secure and Speedy Brother HL-3170cdw Driver Download</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/sidestep-the-norm-alternatives-to-vidma-screen-record-for-2024/"><u>Sidestep the Norm Alternatives to Vidma Screen Record for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/swiftly-updating-fb-personal-data/"><u>Swiftly Updating FB Personal Data</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-se-2022-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone SE (2022) Is Unlocked</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-top-rated-weather-stations-for-homes/"><u>Unveiling the Top-Rated Weather Stations for Homes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wireless-audio-on-a-budget-meet-activbuds/"><u>Wireless Audio on a Budget - Meet ActivBuds</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-expert-recommended-8-filters-for-webcam-sharpening/"><u>[New] 2024 Approved Expert-Recommended 8 Filters for Webcam Sharpening</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-latest-take-on-the-sony-bd-play-s3700-review/"><u>[New] In 2024, The Latest Take on the Sony BD PLAY S3700 Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-in-depth-guide-to-maximizing-your-earnings-with-youtube-and-adsense/"><u>2024 Approved In-Depth Guide to Maximizing Your Earnings with YouTube & AdSense</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases/"><u>2024 Approved Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/after-each-explanation-of-a-technical-process-eg-how-chemotherapy-works-include-an-analogy-that-relates-to-everyday-life/"><u>After Each Explanation of a Technical Process (E.g., How Chemotherapy Works), Include an Analogy that Relates to Everyday Life</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-amazonbasics-12-sheet-super-secure-micro-cut-paper-shredder/"><u>Comprehensive Review of the AmazonBasics 12-Sheet Super Secure Micro Cut Paper Shredder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-discovering-if-apples-iphone-12-pro-max-delivers-on-its-larger-promise/"><u>Comprehensive Review: Discovering if Apple's iPhone 12 Pro Max Delivers on Its Larger Promise</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-how-the-latest-ampace-andes-portable-generator-transforms-energy-on-the-go/"><u>Discover How the Latest Ampace Andes Portable Generator Transforms Energy On-the-Go</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-digital-experience-insider-look-at-the-versatile-features-of-the-samsung-galaxy-tab-s4/"><u>Elevate Your Digital Experience: Insider Look at the Versatile Features of the Samsung Galaxy Tab S4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-audio-sensations-sony-style/"><u>Enhanced Audio Sensations, Sony Style</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-your-workspace-a-detailed-look-at-microsofts-ergonomic-keyboard-excellence/"><u>Enhancing Your Workspace: A Detailed Look at Microsoft's Ergonomic Keyboard Excellence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ethernet-over-power-with-the-tp-link-av200-2017-review-great-speed-lacks-in-aesthetics/"><u>Ethernet Over Power with the TP-Link AV200 2017 Review: Great Speed, Lacks in Aesthetics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-sony-xperia-5-a-slim-marvel-with-a-hefty-cost/"><u>Evaluating the Sony Xperia 5: A Slim Marvel with a Hefty Cost</u></a></li>
+<li><a href="https://facebook.techidaily.com/guidelines-to-label-safe-user-on-fb/"><u>Guidelines to Label Safe User on FB</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x7b-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X7b To Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagrams-music-ownership-standards/"><u>In 2024, Instagram's Music Ownership Standards</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/peek-into-fb-episodes-unseen-for-2024/"><u>Peek Into FB Episodes, Unseen for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-truth-behind-the-lies-debunking-language-learning-myths/"><u>The Truth Behind the Lies: Debunking Language Learning Myths</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-moto-g24-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Moto G24</u></a></li>
 </ul></div>
 

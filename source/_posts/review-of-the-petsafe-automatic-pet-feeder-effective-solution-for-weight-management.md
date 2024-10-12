@@ -1,7 +1,7 @@
 ---
 title: "Review of the PetSafe Automatic Pet Feeder: Effective Solution for Weight Management"
-date: 2024-08-22T13:06:48.310Z
-updated: 2024-08-23T13:06:48.310Z
+date: 2024-10-05T17:58:31.721Z
+updated: 2024-10-12T16:13:43.419Z
 categories:
   - BestProducts
 description: "This Article Describes Review of the PetSafe Automatic Pet Feeder: Effective Solution for Weight Management"
@@ -37,9 +37,23 @@ Lifewire / Fred Meyer
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear AC1200 Wireless WiFi Range Extender (EX6200)
 
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/ypwoGr7PKp9XOfm_EgF2BsvzZkg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-2LW4043312-1-5c924aa1c9e77c0001e11e41.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Fred Meyer
 
@@ -65,10 +79,6 @@ Lifewire / Fred Meyer
 
  We spent a week testing it, evaluating the design, ease of setup, network performance, and software.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## **Design: A router’s aesthetics**
 
  The red-and-black color scheme of the EX6200 makes it look more like something out of Netgear's Nighthawk line rather than their standard series of extenders. It has a more premium feel than most extenders, and it's refreshing compared to the boring white plug-in boxes that house the majority of its peers.
@@ -78,8 +88,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/lHiNdBeYxT8ClO7fv3LwEZqMjWE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4043312-6-5c924b2dc9e77c0001a9278c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Fred Meyer
 
  We also loved the fact that the EX6200 uses a separate AC adapter and cord to supply its power. Other extenders that plug into a socket limit the areas you can deploy them, take up a wall plug, and just are usually an eyesore. On the other hand, the EX6200 is a very attractive piece of equipment that looks sharp sitting on a desk. Also, if you just don't want to show, since it uses a cord you have the freedom to tuck it somewhere out of sight easily.
@@ -87,6 +101,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  One of the best aspects of the EX6200's design and something that sets it apart from the competition is its five[Gigabit Ethernet ports](https://www.lifewire.com/definition-of-gigabit-ethernet-816338) . These are immensely useful for anyone who wants to hardwire game consoles, PCs, smart TVs, set-top boxes and other devices, but don't have the option to run an[Ethernet cord](https://www.lifewire.com/what-is-an-ethernet-cable-817548) to them.
 
  For example, our[router](https://www.lifewire.com/what-is-a-router-2618162) sits in the living room entertainment center against one wall. On the opposite side of the wall sits an entertainment center in our bedroom. Now, we could run an Ethernet cord around the wall, through the bedroom door, and to the entertainment center, which would be around 60 feet or so, or we could drill through the wall and install an Ethernet socket. However, with the EX6200 we didn’t have to do either. Since it's right on the other side of the wall, we can set up the EX6200 and get the full signal to hardwire our TV,[PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) , and Xbox One, which gives better speed and reliability than if we used them with WiFi-only.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: A familiar process**
 
@@ -96,15 +117,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/Lny9pSzLcp1hItabWfQAbx8cAoc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4043312-2-5c924b5846e0fb0001f8d14a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Fred Meyer
 
  Once you've got that taken care of, you'll have to find the best place for your extender's new home. If you're trying to improve the signal or hardwire something 25 feet away from your router or less, just plop it down in the area and you should be good to go. For further distances, you'll need to use a bit more finesse. Place the extender halfway between the router and the area you're trying to extend your Wi-Fi. Then you can check the light on top that shows the status of the connection between the extender and the router. Red is bad, yellow is mediocre, and green is good. If you've got a green, head over to the previously dead Wi-Fi area and check your network.
 
  If you've followed the above steps and your Wi-Fi connection is strong, you're good-to-go and you can start living your life with the Wi-Fi coverage you always knew you deserved. Otherwise, you'll have to shuffle the extender either closer to the dead zone or closer to the router until you find the sweet spot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Netgear magic**
 
  The Netgear EX6200 doesn't require any special software installation. If you need to access the interface, you just need to be connected to it in some manner, either through Wi-Fi or Ethernet, and you can open the control panel in a browser. You can access the extender by either using the local address (<www.mywifiext.net>) or via the device's IP.
@@ -115,14 +140,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/C3GG9BATc7pjzGQZsIXmC4hlBTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4043312-4-5c924c5046e0fb000146ae2c-e8aa858c433c410696d08b615cdee234.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Fred Meyer
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Connectivity: Hardwire everything**
 
  The Netgear AC1200 Wireless WiFi Range Extender (EX6200) has dual-band Wi-Fi, boasting two antennas. It transmits and receives on the 2.4GHz and 5GHz bands and is compatible with Wi-Fi b/g/n/ac devices. The EX6200 is pretty run-of-the-mill when it comes to wireless connectivity, and its AC1200 rating (300Mbps+900Mbps) puts it roughly in the mid-range category. It's not a speed demon, but it's more than adequate for most applications.
@@ -153,9 +172,6 @@ Lifewire / Fred Meyer
 
  At $99.99 (MSRP) the EX6200 isn't exactly cheap. You can get extenders for $30 or lower that get the job done, but that's all they'll do. We found that the EX6200 struck a good balance between price and features, and is an excellent extender for most use cases.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Middle of the road choice**
 
  The EX6200 doesn't feature any mesh networking capabilities or a dedicated backhaul channel, so if you're wanting to deploy multiple extenders or plan on having heavy traffic, you might want to look at a higher-end model or opt for a mesh setup like[Google WiFi](https://www.lifewire.com/google-wifi-review-4589445) (MSRP $299). Though it comes at a much steeper price, it would allow you to cover a wider area through multiple units.
@@ -195,14 +211,11 @@ Lifewire / Fred Meyer
 * Number of Wired Ports  Five
 * Range  85 Feet Maximum
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,4 +224,24 @@ Lifewire / Fred Meyer
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-step-by-step-full-ps4-game-recording-in-obs-studio/"><u>[New] In 2024, Step-by-Step Full PS4 Game Recording in OBS Studio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-search-of-greatness-top-15-timeless-stop-motion-films-for-2024/"><u>[New] In Search of Greatness Top 15 Timeless Stop Motion Films for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-secrets-unlocked-advanced-techniques-to-sculpt-your-igtv-content-size-for-2024/"><u>[New] Secrets Unlocked Advanced Techniques to Sculpt Your IGTV Content Size for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-gopro-and-polaroids-video-editors-for-filmmakers/"><u>[Updated] Comparing GoPro & Polaroid's Video Editors for Filmmakers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-26-metaverse-milestones-a-journey-into-virtual-realms/"><u>2024 Approved 26 Metaverse Milestones A Journey Into Virtual Realms</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/enhance-user-engagement-by-publishing-interactive-archived-helps-online-using-flipbuilder/"><u>Enhance User Engagement by Publishing Interactive Archived Helps Online Using FlipBuilder</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/secure-photos-the-best-apps-decoded/"><u>Secure Photos The Best Apps Decoded</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-practice-of-progressive-audio-suppression-in-fl-studio/"><u>The Practice of Progressive Audio Suppression in FL Studio</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gaming-audio-equipment-ultimate-picks/"><u>Top Rated Gaming Audio Equipment - Ultimate Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-gadgets-and-enhancements/"><u>Top Rated iPad Gadgets and Enhancements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-iphone-15-pro-max-protective-covers-ultimate-shopping-list/"><u>Top Rated iPhone 15 Pro Max Protective Covers - Ultimate Shopping List</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranked-pc-audio-solutions-a-comprehensive-review/"><u>Top-Ranked PC Audio Solutions : A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-apple-airtag-gadgets-and-enhancements/"><u>Top-Rated Apple AirTag Gadgets & Enhancements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-apple-watch-models-a-comprehensive-guide/"><u>Top-Rated Apple Watch Models : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-compact-energy-units-of-2/"><u>Top-Rated Compact Energy Units of 2#</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-case-picks-for-the-new-2023-9th-gen-model-enhance-your-device/"><u>Top-Rated iPad Case Picks for the New 2023 9Th Gen Model: Enhance Your Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-elevating-video-experience-perfecting-the-mix-of-music-and-cinematography/"><u>Updated Elevating Video Experience Perfecting the Mix of Music and Cinematography</u></a></li>
+</ul></div>
 

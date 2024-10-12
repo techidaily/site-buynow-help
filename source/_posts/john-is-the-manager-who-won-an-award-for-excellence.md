@@ -1,7 +1,7 @@
 ---
 title: John Is the Manager Who Won an Award for Excellence
-date: 2024-08-22T13:08:12.125Z
-updated: 2024-08-23T13:08:12.125Z
+date: 2024-10-06T19:07:00.333Z
+updated: 2024-10-12T19:00:28.204Z
 categories:
   - BestProducts
 description: This Article Describes John Is the Manager Who Won an Award for Excellence
@@ -36,9 +36,23 @@ Lifewire / Gannon Burgett
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/hOzU-Ut_6g-s5JwzT08s3wa0tSo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -68,9 +82,6 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## **Design: Beautiful, with room for improvements**
 
  It shouldn’t come as a surprise that the Apple iMac 21.5-inch 4K is a[beautiful machine](https://www.lifewire.com/best-desktop-pcs-4045927) from top to bottom. Before even turning it on, the design of the computer a striking, aluminum-clad body that’s still subtle enough that it will blend in with nearly any office or home environment.
@@ -87,9 +98,6 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## **Setup Process: One plug and you’re good to go**
 
  One of Apple’s core tenets is simplicity, and the 4K iMac is no exception to this rule. Inside the box is the computer itself and a box which contains the Magic Keyboard and Magic Mouse 2\. Additional components include the power connection for the computer, a Lightning cable for charging the mouse and keyboard, and a small package of documentation.
@@ -112,6 +120,13 @@ Lifewire / Gannon Burgett
 
 Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Impressive performance from an all-in-one**
 
  Our particular iMac model for this review was the 3.4GHz quad-core Intel Core i5 iMac with 8GB of RAM and a 1TB Fusion Drive.
@@ -129,9 +144,12 @@ Lifewire / Gannon Burgett
  All-in-all, the iMac seems to punch right at or above its specifications when compared to similar hardware. It’s not going to be pumping out 8K footage, but for basic 4K video editing and image post-processing, the graphics card is more than enough. As for productivity, there’s not much you can throw at the iMac that it can’t handle. The only thing we noticed slowing down the computer was the 8GB of RAM when we had over a dozen applications open, but that can be fixed by upgrading to the 16GB or 32GB model (although it’s not a cheap upgrade).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network: Fast and reliable**
 
  The 21.5-inch 4K iMac features both wired and wireless connectivity for internet access. As previously mentioned, the iMac features a Gigabit Ethernet (RJ-45) port on the rear of the computer for a hardwired internet connection. For Wi-Fi, the iMac uses an 802.11ac network adapter with support for IEEE 802.11a/b/g/n.
@@ -145,14 +163,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/rFu0_k9BjbUxQdoEYOcNGU35LJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-2-a3d2f38b9509480ba41bbb5b33815d1a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## **Software: Everything you need and nothing more**
 
  As with all Apple computers, the 21.5-inch 4K iMac comes with macOS Mojave pre-installed. If you’re used to macOS as a whole, you’ll feel right at home as we did. Compared to past versions of macOS, Mojave improves in a number of areas, including an integrated Dark mode that turns much of the user interface dark grey to spare your eyes. There’s also a feature called “Stacks” that intelligently combines files of the same type on your[desktop](https://www.lifewire.com/best-desktop-pcs-4045927) . Improved[screenshot functionality](https://www.lifewire.com/what-is-a-screenshot-1701742) also makes snapping your screen easier.
@@ -161,9 +179,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Unlike Windows, macOS doesn’t come with any bloatware either. There’s a number of pre-installed apps developed by Apple, including four new ones borrowed from Apple’s mobile operating system, iOS, but most of the pre-installed apps are the standard array of programs you’d expect to see on any modern computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: The Apple tax is real**
 
  The 21.5-inch 4K iMac we tested with the aforementioned specifications retails for $1,499\. Compared to other Windows PCs with similar specifications, the iMac is without pricey for the specs it offers. However, this is par for the course with Apple, so much so that the term “Apple tax” has become a commonly-used phrase. What you’re paying for is the entire package, wrapped up in one of the best-looking frames out there.
@@ -189,8 +204,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The 21.5-inch 4K iMac is a solid all-in-one computer that packs a lot of power into a tiny, well-designed package. It’s not going to blow anyone away on benchmarks and it’s not cheap for the internal components you’re getting, but it has a lot to offer for multimedia and productivity. That’s not to mention the sheer convenience of having everything simply work out of the box.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Microsoft Surface Studio 2](https://www.lifewire.com/microsoft-surface-studio-2-review-4689102)
@@ -213,14 +232,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Connections  3.5 mm headphone jack, SDXC card slot, Four USB 3 ports (compatible with USB 2), Two Thunderbolt 3 (USB-C) ports, 10/100/1000BASE-T Gigabit
 * What’s in the box  21.5‑inch iMac with Retina 4K display Magic Keyboard Magic Mouse 2 Power cord Lightning to USB Cable
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -229,4 +245,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/"><u>[New] 2024 Approved Tranquility Techniques How to Mute and Manage GMeet Distractions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-flexispot-theodore-standing-desk-a-sleek-choice-for-contemporary-offices/"><u>Comprehensive Review of the Flexispot Theodore Standing Desk - A Sleek Choice for Contemporary Offices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-gaming-experience-with-samsungs-q60r-smart-qled-4k-television-a-detailed-overview/"><u>Discover the Ultimate Gaming Experience with Samsung's Q60R Smart QLED 4K Television: A Detailed Overview</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-podcasters-income-streams/"><u>Dissecting Podcasters' Income Streams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-ear-clips-that-deliver-senso-reviewed/"><u>Economical Ear Clips That Deliver: Senso Reviewed</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 Pro 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-eye-catching-youtube-most-followed-channels/"><u>In 2024, Eye-Catching YouTube Most Followed Channels</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-xs-max-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone XS Max online without jailbreak</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-skullduggery-scribbler/"><u>In 2024, Skullduggery Scribbler</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-drone-knowledge-must-know-before-making-a-deal/"><u>In 2024, Unlocking Drone Knowledge Must-Know Before Making a Deal</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-photography-with-lightzone-top-darkroom-app-for-pcs-and-macs/"><u>Revolutionize Your Photography with LightZone - Top Darkroom App for PCs & Macs!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-7-optimal-cell-phone-contracts-for-seniors/"><u>Top 7 Optimal Cell Phone Contracts for Seniors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-toughness-a-thorough-assessment-of-the-top-race-remote-control-rock-climber/"><u>Unveiling Toughness: A Thorough Assessment of the Top Race Remote Control Rock Climber</u></a></li>
+</ul></div>
 

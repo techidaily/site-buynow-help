@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Lenovo 130S Laptop: Constrained Energy but Remarkable Ease of Use"
-date: 2024-08-22T13:11:46.994Z
-updated: 2024-08-23T13:11:46.994Z
+date: 2024-10-08T16:36:01.451Z
+updated: 2024-10-12T16:32:24.178Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Lenovo 130S Laptop: Constrained Energy but Remarkable Ease of Use"
@@ -39,6 +39,13 @@ Lifewire / Andy Zahn
 
 3.9
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Garmin Vivoactive 3 Music
 
 ![Garmin Vivoactive 3 Music](https://www.lifewire.com/thmb/FeCJ-wziP0Qoo9-pmifuFx9oZ7E=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivoactive-3-Music-Smart-Watch-1-a182a2ce6d214080bd38bdb1c85e49a1.jpg)
@@ -67,8 +74,12 @@ Lifewire / Andy Zahn
  Smartwatches are incredible devices, and the Garmin Vivoactive 3 Music is no exception. It’s remarkable how much advanced tech is crammed below the glass of this diminutive device. I ran it through its paces to see if it can stand out in a crowded and competitive niche.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Attractive and minimalistic**
 
  At first glance, you could be forgiven for not realizing that the Garmin Vivoactive 3 Music is a[smartwatch](https://www.lifewire.com/an-introduction-to-smart-watches-3441381) . Its round, modern, minimalist design is attractive but subtle. The face of the watch is made of scratch-resistant Corning Gorilla Glass 3, the case is built of rugged polymer, and the strap is silicone. This rugged construction comes with a waterproofing rating of 5 atmospheres (ATM), which means it’s rated down to 163 feet. However, it’s worth noting that this watch isn’t intended for diving use.
@@ -78,9 +89,12 @@ Lifewire / Andy Zahn
 ![Garmin Vivoactive 3 Music](https://www.lifewire.com/thmb/M4iaS5RgiaubncJH8F-ZLVQQ8Po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivoactive-3-Music-Smart-Watch-2-a0cd2c48cc0d423d85a3dc1f7e677160.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
 ## **Comfort: On the small side**
@@ -105,32 +119,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 The touchscreen interface is responsive, though a bit laggy.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Battery: Variable duration**
 
  How long the battery in the Vivoactive 3 Music lasts depends entirely on how it’s used. If you only use its smartwatch capabilities occasionally then it’s good for a week at a time. However, when I made use of GPS, music, and other power-intensive features, it would run out in less than a full day of use.
 
 ![Garmin Vivoactive 3 Music](https://www.lifewire.com/thmb/NdBt6UHu7uQUfRZfJN5BzwIEad8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivoactive-3-Music-Smart-Watch-3-18b432ab56ac4ef284ba74ffd1ec7f82.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Proprietary ecosystem**
 
  The Vivoactive 3 Music utilizes Garmin’s proprietary operating system and app store. I was impressed by the wide variety of apps available in the Garmin IQ store. There are numerous downloadable watch faces (I particularly loved one with a Star Trek theme), multiple music apps including Spotify and Amazon Music, maps, tools, and games.
@@ -162,8 +165,12 @@ The touchscreen interface is responsive, though a bit laggy.
  There’s a lot to like about the Garmin Vivoactive 3 Music, It’s attractive, packed with features, and provides a deep level of fitness tracking. However, I could never fully enjoy using it due to its less than the optimal interface and laggy operation. This might be a good option if you are already invested in Garmin’s products, but for me it’s hard to ignore the flaws.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Garmin Vivoactive 3 Music
@@ -185,8 +192,6 @@ The touchscreen interface is responsive, though a bit laggy.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +199,20 @@ The touchscreen interface is responsive, though a bit laggy.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-enhancing-remote-communication-with-effective-skype-screen-sharing/"><u>[New] Enhancing Remote Communication with Effective Skype Screen Sharing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs-for-2024/"><u>[New] Unveiling the Secrets of Live Broadcasting on Instagram Through OBS for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-antique-cinematography-in-the-digital-realm/"><u>[Updated] 2024 Approved Antique Cinematography in the Digital Realm</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-critical-review-of-superior-stream-platforms/"><u>[Updated] Critical Review of Superior Stream Platforms</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-perfecting-tiktok-habit-how-to-share-videos-from-macpc/"><u>[Updated] Perfecting TikTok' Habit How to Share Videos From MAC/PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-selecting-excellent-backgrounds-for-video-calls-for-2024/"><u>[Updated] Selecting Excellent Backgrounds for Video Calls for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-bugs-ultimate-tips-to-stop-rocket-league-from-crashing/"><u>Beat the Bugs: Ultimate Tips to Stop Rocket League From Crashing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/edit-like-a-championtop-strategies-for-beginner-youtubers-for-2024/"><u>Edit Like a Champion—Top Strategies for Beginner YouTubers for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-legendary-asus-rt-ac88u-for-gamers-does-it-deliver-on-its-promises/"><u>Evaluating the Legendary Asus RT-AC88U for Gamers: Does It Deliver on Its Promises?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-fastest-and-reliable-cable-modems/"><u>Expert Picks: Fastest and Reliable Cable Modems</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/switching-perspectives-evaluating-the-differences-between-nintendo-switch-lite-and-oled-models/"><u>Switching Perspectives: Evaluating the Differences Between Nintendo Switch Lite & OLED Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-tripod-for-photography-novices-at-amazonbasics/"><u>The Best Tripod for Photography Novices at AmazonBasics</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Steam Link Woes! Uncover Powerful Open-Source Streamers Like Moonlight & Sunshine.
-date: 2024-09-27T17:35:51.497Z
-updated: 2024-10-01T17:09:42.443Z
+date: 2024-10-09T19:32:02.276Z
+updated: 2024-10-12T17:48:11.426Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Do you find that Steam Remote Play and Steam Link isn’t up to your standards? There's an alternative you can try in the form of Moonlight and Sunshine. This open-source streaming combo works great, is easy to set up, and is available on the same platforms as Steam Remote Play.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Are Sunshine and Moonlight?
 
  The Moonlight and Sunshine open-source game streaming combo consists of two apps. The first one is [Sunshine](https://github.com/LizardByte/Sunshine), an open-source, self-hosted game streaming host that works in combination with [Moonlight](https://moonlight-stream.org/), an open-source game streaming client. Together, the two present the best open-source alternative to [Steam Link](https://snapchat-videos.techidaily.com/new-in-2024-unleashing-creativity-quick-lens-building-on-snapchat/).
@@ -46,6 +39,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Local streaming [is the main way](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) I play PC games on my ROG Ally these days, which means I’m using the Moonlight and Sunshine combo daily. I can report that this works perfectly, even on my older Wi-Fi 5 router. I can recommend Sunshine over NVIDIA GameStream to every NVIDIA GPU owner, with Sunshine's only downside being a bit more complex setup procedure. If you own an AMD or Intel GPU, I can recommend Moonlight and Sunshine over the Steam Link and Steam Remote Play combination any day of the week.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use Moonlight and Sunshine
 
  Setting up these streaming tools is pretty straightforward. Let’s cover the Sunshine setup procedure first.
@@ -55,10 +55,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Sunshine executable files listed for download.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-17.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you download the Sunshine installation file, run it and enable the “Launch on Startup” option during the installation.
@@ -69,13 +75,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Sunshine icon on Windows taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will open the Sunshine web UI. Now you have to create a username and password to access the web UI. Don't forget to save the credentials; you’ll need them to use the Sunshine web UI later.
 
  If your browser warns you about trying to access an insecure website, ignore the warning. These warnings usually have a button called “Advanced” that expands the warning and offers a new option you should click to take you to the website in question.
@@ -84,29 +83,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![After you access Sunshine UI, go to the Configuration tab, find the Sunshine Name option and pick a name for the Sunshine process that will show in Moonlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-19.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Visit the [Moonlight website](https://moonlight-stream.org/), scroll down until you reach the download section, and download the appropriate version.
 
  Next, install and launch Moonlight. You should be greeted by a locked PC icon bearing the name you’ve given to your PC in the Sunshine web UI. You will of course need to be on the same wireless network for this to work.
 
 ![Once you open Moonlight you should see a PC icon with a lock over it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-09.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the locked PC icon, and Moonlight will provide you with the PIN you have to enter into the Sunshine web UI.
 
 ![After you click the locked PC icon in Moonlight, the app should serve you with a four-digit PIN](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-10.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open the Sunshine web UI, click the “PIN” tab, and enter the provided PIN. That’s it!
 
@@ -122,6 +114,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Sunshine web UI showing a full path to an application, Steam in this case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tips for Best Results
 
  The next step I recommend is visiting the [Sunshine Tutorials](https://www.youtube.com/playlist?list=PLMYr5%5FxSeuXAbhxYHz86hA1eCDugoxXY0) YouTube playlist. It has a ton of videos that explain how to tweak various settings and get the best possible streaming experience.
@@ -133,6 +132,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  And here are my Moonlight options:
 
 ![Moonlight game streaming options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-05.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For the best possible experience, connect the PC you’re streaming games from to your router with an Ethernet cable. A quality Wi-Fi 5 or better router ought to be enough for a low-latency (below 10ms on average) experience. Also, I recommend selecting the [HEVC](https://win-answers.techidaily.com/understanding-and-resolving-recurrent-breakdowns-in-sovled-warno-application-for-windows-users/) or [AV1 video codec](https://fox-info.techidaily.com/new-2024-approved-foundational-approach-to-gradual-volume-adjustment/), both of which work better than the default (H.264) codec and require less bandwidth to deliver the same image quality.
 
@@ -163,20 +169,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-delving-into-the-world-of-mixed-reality-technology/"><u>[New] In 2024, Delving Into the World of Mixed Reality Technology</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-5-free-pinterest-video-downloader-online/"><u>[Updated] Top 5 Free Pinterest Video Downloader Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/disneydisney-dvd/"><u>解除Disney封鎖及轉儲Disney DVD影碟的方法</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/blissful-tunes-protected-skin-a-look-at-bose-soundsport-frames/"><u>Blissful Tunes, Protected Skin - A Look at Bose SoundSport Frames</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breaking-down-the-release-date-and-specs-of-amazfit-helio-ring-with-price-points/"><u>Breaking Down the Release Date and Specs of Amazfit Helio Ring with Price Points</u></a></li>
-<li><a href="https://discover-best.techidaily.com/can-you-watch-hevc-videos-on-your-iphone-without-conversion/"><u>Can You Watch HEVC Videos on Your iPhone Without Conversion?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/compare-and-contrast-the-battle-between-nintendos-switch-lite-vs-oled-edition/"><u>Compare & Contrast: The Battle Between Nintendo's Switch Lite Vs. OLED Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-dreame-bot-l10-pro-the-advanced-mopping-and-vacuuming-robot/"><u>Comprehensive Review of Dreame Bot L10 Pro: The Advanced Mopping & Vacuuming Robot</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-tp-link-reviews-enhancing-your-network-with-the-re5nfyx/"><u>Comprehensive TP-Link Reviews: Enhancing Your Network with the RE5nfyX</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/creative-labs-sound-blaster-zxr-is-this-the-pinnacle-of-flagship-gaming-audio-in-2er/"><u>Creative Labs' Sound Blaster ZXR - Is This the Pinnacle of Flagship Gaming Audio in 2Er?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/deciding-on-digital-postage-an-in-depth-comparison-of-outlook-vs-gmail/"><u>Deciding on Digital Postage: An In-Depth Comparison of Outlook Vs. Gmail</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/extracting-eroded-exchanges-from-gpt/"><u>Extracting Eroded Exchanges From GPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-integrate-background-tunes-in-instagram-video-content/"><u>How to Integrate Background Tunes in Instagram Video Content</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-asus-rog-phone-8-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Asus ROG Phone 8 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s24-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S24 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-guide-to-understanding-igs-newest-updates/"><u>[New] In 2024, A Guide to Understanding IG's Newest Updates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pixel-powerhouse-expert-review-on-top-8k-tv-models/"><u>[Updated] Pixel Powerhouse Expert Review on Top 8K TV Models</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-s18-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo S18 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-portable-and-inexpensive-asus-vivobook-11/"><u>Comprehensive Analysis of the Portable and Inexpensive ASUS VivoBook 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-7-free-ai-chatgpt-tools-for-effortless-itinerary-creation-on-the-go/"><u>Discover 7 Free AI ChatGPT Tools for Effortless Itinerary Creation on the Go</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-enhanced-reading-with-kobo-forma-our-expert-review-unveiled/"><u>Experience Enhanced Reading with Kobo Forma - Our Expert Review Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-top-rated-1000a-peak-battery-jump-starter-by-m-moock/"><u>Expert Analysis of the Top-Rated 1000A Peak Battery Jump Starter by M Moock</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-apple-iphone-xs-max-unveiling-the-costliest-yet-superior-choice/"><u>Expert Evaluation of Apple iPhone XS Max: Unveiling the Costliest Yet Superior Choice</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-lg-gram-17-unmatched-portability-meets-top-tier-efficiency/"><u>In-Depth Look at the LG Gram 17 - Unmatched Portability Meets Top-Tier Efficiency</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-new-quadro-rtx-drivers/"><u>Installation: New Quadro RTX Drivers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sb210-soundbot-evaluation-exceptional-audio-performance-in-peak-condition/"><u>SB210 Soundbot Evaluation: Exceptional Audio Performance in Peak Condition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/simplify-your-journey-get-acquainted-with-the-latest-features-of-mods-easy-sidecar-electric-bike/"><u>Simplify Your Journey: Get Acquainted with the Latest Features of Mod's Easy Sidecar Electric Bike</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-using-the-high-capacity-maxoak-battery-bank-185wh-with-50000mah-revealed/"><u>The Complete Guide to Using the High-Capacity MaxOak Battery Bank - 185Wh with 50,000mAh Revealed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/two-ways-to-keep-your-insta-reels-accessible-anytime/"><u>Two Ways to Keep Your Insta Reels Accessible Anytime</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unbeatable-apple-sales-during-amazons-biggest-event/"><u>Unbeatable Apple Sales During Amazon's Biggest Event</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Nokia 130 Music? | Dr.fone</u></a></li>
 </ul></div>
 

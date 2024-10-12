@@ -1,7 +1,7 @@
 ---
 title: "Netgear Nighthawk RAX120: A Comprehensive Review of Its Blazing-Fast Speed and Features"
-date: 2024-08-22T13:07:32.386Z
-updated: 2024-08-23T13:07:32.386Z
+date: 2024-10-10T17:36:50.229Z
+updated: 2024-10-12T16:02:49.730Z
 categories:
   - BestProducts
 description: "This Article Describes Netgear Nighthawk RAX120: A Comprehensive Review of Its Blazing-Fast Speed and Features"
@@ -43,6 +43,13 @@ Lifewire / Yoona Wagener
 
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/svytmcXYUcatZ6Kem2-kQisPZks=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-1-f33fb4d851884e8982d54d6ff07d5ae7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 [View On Amazon $230](https://www.amazon.com/dp/B07FL9RGCY?tag=lifewire-onsite-prod-20&ascsubtag=4788257%7Cn5e3a5c8b460f477492928f0d0270130a15%7CB07FL9RGCY) [View On Walmart $275](https://www.walmart.com/ip/37517519) [View On Office Depot $280](https://www.officedepot.com/a/products/184852/NETGEAR-Nighthawk-X6-Smart-WiFi-Router/)
@@ -71,6 +78,13 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: A little flashy**
 
  The Nighthawk X6 router is aptly named for its six antennas that are fixed to both sides of the face of the device. While you can easily fold these antennas flat, for easy moving to and from one spot to another, you’ll need to place them upright in order to maximize the signal strength.
@@ -81,19 +95,14 @@ Lifewire / Yoona Wagener
 
 ![Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router](https://www.lifewire.com/thmb/GsN851fjmzxtWs6ShQfaWQtEPok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NETGEAR-Nighthawk-X6-AC3200-Wi-Fi-Router-2-b6366698f8d14745a5027973d8657745.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: Simple, with a few bumps in the road**
 
@@ -111,10 +120,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## **Connectivity: Focused on the most innovative technology**
 
  This is an 802.11ac tri-band router, meaning it supports three frequencies: one 2.4GHz and two 5GHz channels on the[802.11ac wireless standard](https://www.lifewire.com/802-11ac-in-wireless-networking-818284) . The advantage here is that unlike older single- or[dual-band routers](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) that operate on older Wi-Fi standards or even newer dual-band options functioning on the most current Wi-Fi 5 standard, there’s additional support for more devices and less competition over bandwidth.
@@ -126,8 +131,12 @@ Lifewire / Yoona Wagener
  The Nighthawk X6 R8000 also comes with Dynamic Quality of Service (QoS) technology, which is another tool for managing bandwidth by allocating signals in specific directions and based on your priorities. Netgear says that users who like to game and stream video (and have combined download and upload speeds of less than 300Mbps) could garner enhanced performance by enabling this feature, which you can do from the web interface—but not the app.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network Performance: Fast, but sometimes underwhelming**
 
  Using the Nighthawk app’s built-in speed test feature, which uses the Ookla SpeedTest technology, the best download speed registered at 95Mbps right after we set up the router. More typically, the output was around 88-95Mbps at varying points in the day.
@@ -142,9 +151,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## **Software: User-friendly and intuitive**
 
  Everything is laid out quite cleanly in the Nighthawk app in terms of guided setup and accessing the information most users will probably be interested in—like speed information, devices connected, Wi-Fi settings, and parental controls using the Circle with Disney app to monitor everyone’s screen time and activity. The app also comes with a 30-day trial of Netgear Armor security, which does the work of detecting threats from malware, bots, and any other network vulnerabilities.
@@ -157,12 +163,16 @@ Lifewire / Yoona Wagener
 
  In this respect, the Nighthawk X6 R8000 is equally friendly to the general user who doesn't want to delve into the technical deep end as well as the more tech-savvy customer who does.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## **Price: A bit steep**
 
  The Nighthawk X6 R8000 has a list price of $270, which certainly places it in the high-end tier of wireless routers. And while it’s not the most expensive tri-band router on the market, your decision to make this investment could come down to factors like how large your home is, how many devices you’re working with, and how fast your internet service plan is. The tri-band Wi-Fi technology is impressive, and there are many attractive features: an intuitive and low-effort app, built-in security with Netgear Armor, as well as a detailed level of control over managing how everyone in the family spends their screen time, but there are equally capable as less expensive options on the market.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk X6 AC3200 vs. Asus RT-AC3200**
 
@@ -176,9 +186,6 @@ Lifewire / Yoona Wagener
 
  The Netgear Nighthawk X6 AC3200 Tri-Band Wi-Fi Router is poised to deliver fast and reliable speed to a larger home full of devices. If you’re interested in spending less time with configuration and more time benefiting from the assurance that your network is protected, the Nighthawk X6 can fulfill those wants. You can also easily bring this device into the fold of your smart-home setup and keep a close eye on the online safety and activity of everyone in the family.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Nighthawk X6 AC3200 Tri-Band Wi-Fi Router (R8000)
@@ -198,14 +205,11 @@ Lifewire / Yoona Wagener
 * Range  Very large homes
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,4 +218,18 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-revealing-successful-markets/"><u>[New] 2024 Approved Revealing Successful Markets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-peek-inside-how-do-vr-headsets-connect-for-2024/"><u>[New] Peek Inside How Do VR Headsets Connect for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revamp-your-mac-the-macos-sierra-setup-process/"><u>[New] Revamp Your Mac The macOS Sierra Setup Process</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-listening-experience-spotify-restores-lyric-display-for-non-premium-members/"><u>Enhanced Listening Experience: Spotify Restores Lyric Display for Non-Premium Members</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-your-game-captures-top-6-strategies-for-stunning-photomode-images/"><u>Enhancing Your Game Captures: Top 6 Strategies for Stunning Photomode Images</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enjoy-gaming-together-the-ultimate-list-of-14-best-duo-android-adventures/"><u>Enjoy Gaming Together: The Ultimate List of 14 Best Duo Android Adventures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exceptional-value-collectors-edition-bundles-separate-from-games/"><u>Exceptional Value: Collector's Edition Bundles, Separate From Games</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/excessive-replacement-)-50-of-natural-aggregates-often-results-in-a-decrease-in-concrete-strength/"><u>Excessive Replacement (> 50%) of Natural Aggregates Often Results in a Decrease in Concrete Strength.</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 Pro Location by Number | Dr.fone</u></a></li>
+</ul></div>
 

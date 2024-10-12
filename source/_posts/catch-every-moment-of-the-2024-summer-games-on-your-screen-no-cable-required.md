@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2024-10-06T00:43:52.242Z
-updated: 2024-10-06T22:35:59.101Z
+date: 2024-10-11T16:17:05.248Z
+updated: 2024-10-12T17:29:25.074Z
 tags:
   - games
   - tv
@@ -23,6 +23,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The 2024 Summer Olympics are landing in Paris at the end of July, and you don't need cable to access a lot of the action. NBC will broadcast many daytime and primetime events. With the aid of an over-the-air (OTA) antenna, you can watch for free.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Which Channels are Broadcasting the Olympics?
 
  NBCUniversal networks are the home of the 2024 Summer Olympics. During the day, NBC will air [at least nine hours](https://www.peacocktv.com/blog/2024-olympics-events-to-stream-live-on-peacock) of event coverage. If you have a local NBC affiliate in your area (and you almost certainly do), this is where you can [watch a lot of free events with an OTA antenna](https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-steelseries-arctis-pro-microphone-complete-solution/).
@@ -30,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once daytime coverage concludes, the network will use the primetime hours to show highlights of the day's events.
 
  In addition to NBC, you will find some Olympics content streaming on the Peacock app, GOLF Channel, USA Network, CNBC, and E!. Telemundo will air Spanish-language coverage. However, Peacock and the extended range of NBCUniversal channels are not accessible via antenna and can get expensive due to price creep.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Do I Watch for Free?
 
@@ -46,16 +46,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Most modern televisions have an integrated tuner, meaning they are ready to be connected to an antenna. This makes setting up an antenna to watch the 2024 Olympics a lot easier than it might sound.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Setting Up an Antenna
 
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -66,10 +66,10 @@ Jordan Gloor / How-To Geek
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which Olympic Events I Can Watch for Free?
@@ -78,16 +78,16 @@ Jordan Gloor / How-To Geek
 
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Watch 2024 Olympic Gymnastics
 
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
 
@@ -112,22 +112,24 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-how-to-update-names-in-google-meet-cross-platform/"><u>[New] How to Update Names in Google Meet - Cross Platform</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-reverse-video-order-on-your-ios-gadget/"><u>[New] In 2024, Reverse Video Order on Your iOS Gadget</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-roadmap-to-youtube-fame-essential-steps-for-successful-content/"><u>[New] The Roadmap to YouTube Fame Essential Steps for Successful Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-musical-journey-fbs-lifeline-to-sound/"><u>[Updated] 2024 Approved Musical Journey - FB's Lifeline to Sound</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/chromecast-reimagined-introducing-google-tv-and-outshining-firetv/"><u>Chromecast Reimagined: Introducing Google TV and Outshining FireTV</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-moto-g-play-features-exceptional-battery-endurance-and-respectable-performance-metrics/"><u>Comprehensive Review of Moto G Play Features – Exceptional Battery Endurance and Respectable Performance Metrics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/detailed-assessment-of-viber-out-features-and-user-satisfaction/"><u>Detailed Assessment of Viber Out Features and User Satisfaction</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-value-proposition-in-depth-look-at-the-hp-stream-14-windows-laptop-on-a-shoestring-budget/"><u>Exploring the Value Proposition: In-Depth Look at the HP Stream 14 Windows Laptop on a Shoestring Budget</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nubia-z50-ultra-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nubia Z50 Ultra Phone Network-Ready</u></a></li>
-<li><a href="https://article-tips.techidaily.com/leveraging-viewership-the-mechanics-of-product-sponsored-youtube-videos-for-2024/"><u>Leveraging Viewership The Mechanics of Product-Sponsored YouTube Videos for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-french-salutations-the-ultimate-guide-to-bonjour/"><u>Mastering French Salutations: The Ultimate Guide to 'Bonjour'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-secure-socket-layer-discrepancies-in-microsoft-windows/"><u>Resolving Secure Socket Layer Discrepancies in Microsoft Windows</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-new-apple-tv-4k-3rd-generation/"><u>The Ultimate Guide to the New Apple TV 4K (3Rd Generation)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-off-roaders-compan-cupant-a-detailed-review-of-the-top-race-rc-rock-crawler/"><u>The Ultimate Off-Roader's Compan Cupant: A Detailed Review of the Top Race RC Rock Crawler</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-rechargeable-battery-charger-units-in-2-cups/"><u>Top-Rated Rechargeable Battery Charger Units in 2 Cups</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-5-remote-viewing-recorders/"><u>Ultimate 5 Remote Viewing Recorders</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-excellence-of-soundbots-sb210-model-exceptional-auditory-experience-under-ideal-conditions/"><u>Unpacking the Excellence of Soundbot's SB210 Model: Exceptional Auditory Experience Under Ideal Conditions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/weep-viewers-off-their-feet-templates-that-work-wonders/"><u>[New] Sweep Viewers Off Their Feet Templates That Work Wonders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-quality-without-the-mic-a-practical-guide/"><u>[Updated] 2024 Approved Enhancing Quality without the Mic A Practical Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafty-laughter-your-adobe-guide/"><u>[Updated] Crafty Laughter Your Adobe Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-industry-standards-the-top-5-online-video-devices/"><u>[Updated] In 2024, Industry Standards The Top 5 Online Video Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-virtual-realitys-trailblazers-top-pc-headsets-for-the-year/"><u>2024 Approved Virtual Reality's Trailblazers Top PC Headsets for the Year</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-installation-guide-for-steelseries-gaming-controllers-on-windows-systems/"><u>Comprehensive Installation Guide for SteelSeries Gaming Controllers on Windows Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flying-lotus-unleashed-experience-the-next-gen-battery-powered-all-in-one-pc-seamlessly-merging-laptop-foundations-with-cutting-edge-3d-print-components/"><u>Flying Lotus Unleashed: Experience the Next-Gen Battery-Powered All-in-One PC, Seamlessly Merging Laptop Foundations with Cutting-Edge 3D Print Components</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/get-that-perfect-fit-resize-videos-to-instagram-standards-using-mac-for-2024/"><u>Get That Perfect Fit Resize Videos to Instagram Standards Using Mac for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-get-the-latest-drivers-for-your-brother-mfc-7/"><u>How to Easily Get the Latest Drivers for Your Brother MFC-7</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-personal-tracker-primetrackings-pocket-size-companion-for-peace-of-mind-with-your-belongings/"><u>Innovative Personal Tracker: PrimeTracking's Pocket-Size Companion for Peace of Mind with Your Belongings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-world-of-minecraft-an-engaging-journey-through-an-age-defying-playground/"><u>Inside the World of Minecraft: An Engaging Journey Through an Age-Defying Playground</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-document-management-with-fujitsu-scansnap-ix1600-a-rigorous-desktop-scanner-review/"><u>Mastering Document Management with Fujitsu ScanSnap iX1600 - A Rigorous Desktop Scanner Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-coverage-the-ultimate-guide-to-using-netgear-nighthawk-wi-fi-amplifier/"><u>Maximize Coverage: The Ultimate Guide to Using Netgear Nighthawk Wi-Fi Amplifier</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/michael-kors-gen-5e-mkgo-watch-reviews-fusing-elegance-with-intelligent-features/"><u>Michael Kors Gen 5E MKGO Watch Reviews: Fusing Elegance with Intelligent Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/motorolas-moto-g-power-examined-superior-battery-life-paired-with-robust-performance/"><u>Motorola's Moto G Power Examined: Superior Battery Life Paired with Robust Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netatmo-weather-station-unveiled-a-high-tech-solution-for-smart-home-devotees/"><u>Netatmo Weather Station Unveiled: A High-Tech Solution for Smart Home Devotees</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/picture-perfect-presentation-carvers-digital-frame-review/"><u>Picture Perfect Presentation - Carver's Digital Frame Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/spotty-results-with-seatechs-blu-ray-writer-on-usb-a-detailed-product-performance-review/"><u>Spotty Results with SeaTech's Blu-Ray Writer on USB - A Detailed Product Performance Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

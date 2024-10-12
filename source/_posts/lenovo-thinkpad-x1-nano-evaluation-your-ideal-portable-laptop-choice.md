@@ -1,7 +1,7 @@
 ---
 title: "Lenovo ThinkPad X1 Nano Evaluation: Your Ideal Portable Laptop Choice"
-date: 2024-08-22T13:08:01.756Z
-updated: 2024-08-23T13:08:01.756Z
+date: 2024-10-09T17:22:07.724Z
+updated: 2024-10-12T17:21:40.876Z
 categories:
   - BestProducts
 description: "This Article Describes Lenovo ThinkPad X1 Nano Evaluation: Your Ideal Portable Laptop Choice"
@@ -37,6 +37,13 @@ Lifewire / Andrew Hayward
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TopMate C302 Laptop Cooling Pad
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Um5K58ex8qVMnW5PlEtqzPi9c-4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_HeroSquare-53c92cb3074b41d9b696fd9f6fa1a64e.jpg)
@@ -64,8 +71,12 @@ Lifewire / Andrew Hayward
  The TopMate C302 is a strong example of the latter. It’s affordable and solidly effective, but the plastic design feels a bit flimsy. I wouldn’t bet on it lasting for the long haul without gentle handling, but given the price, you might not worry about it too much.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Design: Light and a little flimsy
 
  The C302 measures just over 14 inches wide and is designed for laptops with screens up to 15.6 inches diagonal. It’s primarily made of lightweight plastic, with a thin metal grate on the top above the two 4.9-inch fans to help dissipate heat.
@@ -74,9 +85,6 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3qjwZzxQ2KVhmQJOdD2R9jBegvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_03-ed7074949b6f4e4794ce30be2d582058.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
  It has two little flip-up stopper nubs at the bottom to hold your laptop in place, and they can be gradually adjusted to avoid having them stick up and press into your wrists while typing. Meanwhile, a pair of feet on the bottom of the pad flip out to elevate your laptop about an inch upward to improve air circulation.
@@ -93,11 +101,22 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/xhFp_B4P4BG8gb4dtJAGBbXPAlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_05-4ce850d84f4a4e1d931588e23f39cb82.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Performance: It makes a difference
 
  I tested the C302 using the[Razer Blade 15 (2019) gaming laptop](https://www.lifewire.com/razer-blade-15-review-4845229) , which is equipped with an Intel Core i7-9750H processor and 16GB RAM, as well as a NVIDIA GeForce GTX 1660 Ti GPU (6GB).
@@ -113,8 +132,12 @@ Lifewire / Andrew Hayward
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Xs71AyeThjZwy-vZJ9LfxIhuXJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_04-eadbaf270b874af9bb8843b95efe8ca7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
  Lastly, UNIGINE’s Heaven Benchmark hit 162 degrees internally and 109 degrees externally on the Razer Blade 15 alone, and dropped to 154 degrees internally and 105 degrees externally when using the C302\. All told, this lightweight and affordable pad delivered solid cooling power that helped cut down on both the internal and external temperature of the laptop while under significant stress.
@@ -129,9 +152,6 @@ Lifewire / Andrew Hayward
 
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## TopMate C302 vs. Kootek Laptop Cooling Pad
 
  At $27, the Kootek Laptop Cooling Pad is a bit more robust. It gives you the ability to power the fans on and off—either the one large fan, or the group of four smaller fans around it—plus it runs a little quieter in use. The unit feels more durable overall, although the Kootek’s height adjustment system feels clunky, as you slide a hanging metal bar into plastic ridges to keep it upright. Kootek’s pad is larger and designed for laptops as large at 17 inches, but if you don’t need the extra size, the TopMate C302 gets the job done for less cash.
@@ -142,9 +162,6 @@ Lifewire / Andrew Hayward
 
  Durability questions aside, the TopMate C302 Laptop Cooling Pad ultimately worked about as well as the other, pricier pads I tested, helping to offset some of the heat generated by a very hot gaming laptop. If you’re concerned about long-term damage or performance degradation from an overheating laptop, the C302 is a cost-efficient way to help keep your notebook from reaching extreme heat peaks.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Flexispot Theodore Standing Desk](https://www.lifewire.com/flexispot-theodore-standing-desk-review-5183806)
@@ -164,14 +181,11 @@ Lifewire / Andrew Hayward
 * Ports  USB-A
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +194,24 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-free-screen-recorder-for-mac/"><u>[Updated] 2024 Approved Free Screen Recorder for Mac</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-yet-ambiguous-a-comprehensive-look-at-the-microsoft-surface-gos-market-positioning/"><u>Affordable yet Ambiguous - A Comprehensive Look at The Microsoft Surface Go's Market Positioning</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/caixuns-budget-75-inch-android-tv-comprehensive-analysis-for-exceptional-performance-and-picture-quality/"><u>Caixun's Budget 75-Inch Android TV: Comprehensive Analysis for Exceptional Performance and Picture Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-roku-and-fire-tv-stick-a-comprehensive-buyers-guide/"><u>Choosing Between Roku and Fire TV Stick: A Comprehensive Buyer's Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/dji-drone-limited-use-color-filters-complimentary/"><u>DJI Drone Limited-Use Color Filters – Complimentary</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-mohu-leaf-30-antenna-best-balance-of-cost-and-efficiency/"><u>Evaluating the Mohu Leaf 30 Antenna: Best Balance of Cost and Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-immersive-world-of-cinematic-brilliance-with-the-lg-smart-tv-oled-c9-review/"><u>Exploring the Immersive World of Cinematic Brilliance with the LG Smart TV - OLED C9 Review.</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-x50-gt-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor X50 GT Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-roblox-pc-error-code-277-a-complete-solution-for-gaming-lovers/"><u>How To Resolve Roblox PC Error Code 277 – A Complete Solution for Gaming Lovers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-15-pro-max-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 15 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-screen-snatching-solution/"><u>In 2024, Screen Snatching Solution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/increased-firepower-unveiling-the-enhanced-gunplay-in-mass-effect-legendary-edition/"><u>Increased Firepower: Unveiling the Enhanced Gunplay in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/jornada-completa-al-cuerpo-de-la-boca-a-los-rinones-en-espanol/"><u>Jornada Completa Al Cuerpo: De La Boca A Los Riñones En Español</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/snap-perfection-but-stumble-on-ui-in-inexpensive-nikon-a10/"><u>Snap Perfection, but Stumble on UI in Inexpensive Nikon A10</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-creme-de-la-creme-of-picture-correction-apps-top-10-selections-for-pc-and-mac-enthusiasts/"><u>The Crème De La Crème of Picture Correction Apps - Top 10 Selections for PC and Mac Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-productivity-with-hp-zbook-firefly-gen-8-the-pinnacle-of-portable-power-solutions/"><u>Unleashing Productivity with HP ZBook Firefly Gen 8 - The Pinnacle of Portable Power Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-performance-vs-price-for-the-tp-link-archer-c50-wireless-router-assessment/"><u>Unveiling Performance Vs. Price for the TP-Link Archer C50 Wireless Router Assessment</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2024-10-05T19:43:10.798Z
-updated: 2024-10-06T18:49:58.956Z
+date: 2024-10-11T18:24:33.763Z
+updated: 2024-10-12T16:02:47.271Z
 tags:
   - games
   - tv
@@ -28,10 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Thanks to AI, we're seeing some truly out-there mods for games, and one of the most impressive might be one that swaps out the Baldur's Gate 3 narrator for a voice that almost (but not quite) sounds like Sir David Attenborough. Here's how to try it for yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What You Need
@@ -57,10 +57,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2: Import the Mod Fixer
@@ -74,21 +74,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 4: Export Mod Order
 
@@ -96,25 +97,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![BG3 export mod order menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-export-mod-order-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You should see a green message pop up at the bottom of the window in the mod manager.
 
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This means we're ready to go!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step 5: Test the Game
 
@@ -153,17 +147,21 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/udget-friendly-bundles-startup-channels-for-newcomers/"><u>[New] Budget-Friendly Bundles Startup Channels for Newcomers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-video-communication-tools-list/"><u>[Updated] In 2024, Essential Video Communication Tools List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-religious-ringtones-for-daily-devotion-and-driving/"><u>[Updated] Religious Ringtones for Daily Devotion and Driving</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-uniden-r3-a-superior-and-durable-long-range-radar-detector/"><u>Comprehensive Analysis of the Uniden R3 - A Superior and Durable Long Range Radar Detector</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/garmin-vivoactive-3-unveiled-elevating-workouts-and-work-tunes-for-optimal-fitness/"><u>Garmin Vivoactive 3 Unveiled: Elevating Workouts and Work Tunes for Optimal Fitness</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-connection-anticheat-failed-error-for-a-smooth-gameplay-in-escape-from-tarkov/"><u>How to Resolve 'Connection Anticheat Failed' Error for a Smooth Gameplay in Escape From Tarkov</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-moto-g14-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Moto G14 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-episodes-your-guide-to-gpodc-mastery/"><u>Prime Episodes Your Guide to GPodC Mastery</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tablet-buying-strategy-balancing-portability-with-performance-in-size-and-weight/"><u>Tablet Buying Strategy: Balancing Portability with Performance in Size and Weight</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-latest-and-greatest-2024s-premier-compact-charger-units-for-your-laptop/"><u>The Latest and Greatest: 2024'S Premier Compact Charger Units for Your Laptop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-rated-indavideo-video-extractor-simple-steps-to-grab-your-favorites/"><u>Top-Rated Indavideo Video Extractor: Simple Steps to Grab Your Favorites</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unbeatable-amazon-prime-day-blowouts-get-your-hands-on-the-best/"><u>Unbeatable Amazon Prime Day Blowouts: Get Your Hands on the Best</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-of-the-best-unlimited-recorders-top12/"><u>[New] 2024 Approved Best of the Best Unlimited Recorders, #Top12</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-photo-color-reversal-techniques/"><u>[New] Mastering Photo Color Reversal Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-what-is-the-best-video-format-for-youtube-in-2024/"><u>[New] What Is the Best Video Format for YouTube, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-mic-matches-for-video-editors/"><u>[Updated] 2024 Approved Best Mic Matches for Video Editors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortlessly-start-google-chrome-with-powershell-or-cmd-on-your-windows-10-pc/"><u>Effortlessly Start Google Chrome with PowerShell or CMD on Your Windows 10 PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-13-mini-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 13 mini iCloud Lock</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/long-hours-at-the-office-discover-how-the-ergohead-mat-enhances-long-term-standing-posture-and-comfort/"><u>Long Hours at the Office? Discover How the Ergohead Mat Enhances Long-Term Standing Posture & Comfort</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-tablet-choices-decoding-importance-of-dimensions-and-mass-for-optimal-use/"><u>Mastering Tablet Choices: Decoding Importance of Dimensions and Mass for Optimal Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nikon-coolpix-b500-promising-wifi-delivering-disappointment/"><u>Nikon COOLPIX B500 - Promising Wifi, Delivering Disappointment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/playstation-5-original-vs-playstation-5-slim-unveiling-their-similarities-and-differences/"><u>PlayStation 5 Original vs PlayStation 5 Slim: Unveiling Their Similarities and Differences</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rca-titanium-foam-ear-protectors-testing/"><u>RCA Titanium Foam Ear Protectors Testing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reality-check-how-effective-is-the-tp-link-avn1300-as-a-wi-fi-signal-amplifier/"><u>Reality Check: How Effective Is the TP-Link AVn1300 as a Wi-Fi Signal Amplifier?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/remobell-under-100-dollars-your-ultimate-guide-to-a-secure-smart-home/"><u>RemoBell Under 100 Dollars: Your Ultimate Guide to a Secure Smart Home</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015582228-revive-your-battlefield-soundscape-quick-troubleshooting-for-bf4-no-audio-faults/"><u>Revive Your Battlefield Soundscape - Quick Troubleshooting for BF4 No Audio Faults.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-platforms-for-digital-interaction-delve-into-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Platforms for Digital Interaction: Delve Into Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
 

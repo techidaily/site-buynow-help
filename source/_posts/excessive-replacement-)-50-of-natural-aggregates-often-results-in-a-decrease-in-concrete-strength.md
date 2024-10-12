@@ -1,7 +1,7 @@
 ---
 title: Excessive Replacement (> 50%%) of Natural Aggregates Often Results in a Decrease in Concrete Strength.
-date: 2024-09-27T16:37:54.828Z
-updated: 2024-10-01T16:58:46.449Z
+date: 2024-10-06T18:00:53.162Z
+updated: 2024-10-12T18:41:24.497Z
 tags:
   - games
   - tv
@@ -85,10 +85,10 @@ Expand
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Capsule 3 Is Ultra-Portable
@@ -104,13 +104,6 @@ Jerome Thomas / How-To Geek
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -128,13 +121,6 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
@@ -149,6 +135,13 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
@@ -159,16 +152,16 @@ Jerome Thomas / How-To Geek
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -177,6 +170,13 @@ Jerome Thomas / How-To Geek
  But if you don’t mind hunting for the shadowy corners of a room during the day or waiting until nightfall, then there’s not much to dislike about what this projector can do. It’s a solid value from a reputable brand with modern software onboard.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -201,22 +201,20 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-enhance-your-game-experience-with-these-5-screen-capture-techniques-for-minecraft-mac/"><u>[New] In 2024, Enhance Your Game Experience with These 5 Screen Capture Techniques for Minecraft (Mac)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-youtube-yielding-the-manual-to-merging-media-with-moolah/"><u>[New] In 2024, YouTube Yielding The Manual to Merging Media with Moolah</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-must-have-3d-model-systems-in-animation/"><u>[Updated] In 2024, Must-Have 3D Model Systems in Animation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y100i-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y100i Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-action-delving-into-the-usability-and-strength-of-the-new-ampage-andes-1500-generator/"><u>In Action: Delving Into the Usability and Strength of The New Ampage Andes 1500 Generator</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-x-chair-x4-executive-chair-is-it-a-top-pick-for-your-workspace/"><u>In-Depth Analysis of the X-Chair X4 Executive Chair: Is It a Top Pick for Your Workspace?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-apple-tv-4k-series-3-evaluation-what-you-need-to-know/"><u>In-Depth Apple TV 4K Series 3 Evaluation: What You Need To Know</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-lenovo-tab-m10-fhd-plus-2020-exceptional-large-screen-experience-for-the-price/"><u>In-Depth Lenovo Tab M10 FHD Plus (2020): Exceptional Large Screen Experience for the Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-budget-friendly-tp-link-archer-c50-wireless-router/"><u>In-Depth Look at the Budget-Friendly TP-Link Archer C50 Wireless Router</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-mohu-leafs-30-tv-antenna-best-value-in-reception-technology/"><u>In-Depth Review of Mohu Leaf's 30 TV Antenna - Best Value in Reception Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-review-of-the-updated-microsoft-surface-pro-7-reliable-performance-amidst-slight-modifications/"><u>Inside Review of the Updated Microsoft Surface Pro 7 – Reliable Performance Amidst Slight Modifications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-paying-for-applecareplus-a-smart-choice-for-iphone-and-ipad-owners/"><u>Is Paying for AppleCare+ a Smart Choice for iPhone and iPad Owners?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/monoprices-feature-packed-drawing-pad-premium-quality-at-low-cost-revealed/"><u>Monoprice's Feature-Packed Drawing Pad - Premium Quality at Low Cost Revealed!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-productivity-4-strategies-with-chatgpt/"><u>Optimizing Productivity: 4 Strategies with ChatGPT</u></a></li>
-<li><a href="https://driver-install.techidaily.com/repercussions-of-a-disrupted-windows-driver-setup/"><u>Repercussions of a Disrupted Windows Driver Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-for-finding-electric-car-power-spots-on-google-maps/"><u>The Ultimate How-To for Finding Electric Car Power Spots on Google Maps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-effortlessly-stream-mp3-to-youtube-with-3-key-steps-for-2024/"><u>[New] Effortlessly Stream MP3 to YouTube with 3 Key Steps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-rapid-or-slowdown-youtubes-playback-adjustments/"><u>[Updated] 2024 Approved Guide to Rapid or Slowdown YouTube's Playback Adjustments</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-macs-as-music-makers-a-look-inside/"><u>[Updated] Macs as Music Makers A Look Inside</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-15-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 15 Plus without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/5-best-e-learning-platforms-for-aspiring-developers-2024-edition/"><u>5 Best E-Learning Platforms for Aspiring Developers - 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/analyzing-the-performance-of-the-netgear-c3000-is-it-time-to-upgrade/"><u>Analyzing the Performance of the Netgear C3000: Is It Time to Upgrade?</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-0x80004005-explained-how-to-fix-the-unspecified-error-on-your-computer/"><u>Error Code 0X80004005 Explained - How to Fix the 'Unspecified Error' On Your Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-new-horizons-a-comprehensive-review-of-visuals-and-features-in-x-plane-global-flight-simulator-version-11/"><u>Explore New Horizons - A Comprehensive Review of Visuals & Features in X-Plane Global Flight Simulator Version 11</u></a></li>
+<li><a href="https://discover-able.techidaily.com/guide-to-obtaining-official-authorization-and-licensing/"><u>Guide to Obtaining Official Authorization and Licensing</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-cable-modem-reviews-and-comparisons-find-the-perfect-one-in-2e4/"><u>Leading Cable Modem Reviews & Comparisons - Find the Perfect One in 2E4</u></a></li>
+<li><a href="https://fox-links.techidaily.com/premier-funny-picture-tinker/"><u>Premier Funny Picture Tinker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-transformative-travel-companion-patekfly-tripod-12/"><u>The Transformative Travel Companion: Patekfly Tripod 12</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-on-samsung-galaxy-tab-s7-best-in-class-for-android-tablet-lovers/"><u>The Ultimate Review on Samsung Galaxy Tab S7: Best in Class for Android Tablet Lovers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-potential-of-the-tp-link-re2-ac750-wifi-enhancer-an-economical-review/"><u>Uncovering the Potential of the TP-Link RE2# AC750 WiFi Enhancer - An Economical Review</u></a></li>
 </ul></div>
 

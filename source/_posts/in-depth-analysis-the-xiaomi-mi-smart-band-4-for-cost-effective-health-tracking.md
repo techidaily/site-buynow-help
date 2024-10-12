@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: The Xiaomi Mi Smart Band 4 for Cost-Effective Health Tracking"
-date: 2024-08-22T13:10:42.431Z
-updated: 2024-08-23T13:10:42.431Z
+date: 2024-10-09T17:03:41.438Z
+updated: 2024-10-12T18:23:30.838Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis: The Xiaomi Mi Smart Band 4 for Cost-Effective Health Tracking"
@@ -68,8 +68,18 @@ Lifewire / Erika Rawes
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -78,9 +88,6 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 ## **Comfort: You’ll forget you’re wearing it**
@@ -88,6 +95,19 @@ Lifewire / Erika Rawes
  The Vivosmart 4 is one of the more comfortable fitness trackers I’ve tested. Most of the time, I’d forget I was even wearing the tracker until it vibrated. The band’s side edges are rounded off, making it feel more comfortable against the skin.
 
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
 
@@ -107,7 +127,21 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Garmin Connect App**
 
@@ -119,30 +153,18 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## **Battery: May last a full seven days**
 
  The battery is supposed to last for up to seven days, but the battery life depends largely on the features you use and how frequently you use the tracker. If you’re only passively tracking a few metrics, your battery might last a full week. If you’re constantly checking your heart rate, pulse ox, stress levels, sleep, and counting reps several times a day, your battery will not last that long. I got three and a half days of battery life when taking full advantage of the fitness tracker’s features.
 
  The battery charges using a clip-on charger. It took an average of 90 minutes to reach a full charge (from about 10% full).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## **Price: Reasonable**
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
  I found the Garmin Vivosmart 4 much more comfortable than the Fitbit Charge 3\. I also like the body battery and stress monitoring features in the Vivosmart 4\. On the other hand, the[Fitbit Charge 3](https://www.lifewire.com/fitbit-charge-3-review-5072527) has a more accurate heart monitor (according to testing). The Fitbit Charge 3 (view on[Amazon](https://www.amazon.com/dp/B07FTN21JL/?tag=lifewire-onsite-prod-20&ascsubtag=5072535%7Cn5f18362fc97d487e830fd6d6cfaf2af211%7C) ) also offers a ton of workouts in its Fitbit app, and slightly more seamless activity tracking for weight training and high-intensity workouts. If you want a day-to-day fitness tracker to track your sleep, stress, and energy levels, the Vivosmart 4 is a great option. If you want a larger screen and easy tracking for activities like weight training and cycling, you may prefer the Fitbit Charge 3.
@@ -152,6 +174,13 @@ Lifewire / Erika Rawes
 **A comfortable band with unique perks.**
 
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -178,14 +207,11 @@ Lifewire / Erika Rawes
 * Other features  training, planning and analysis, heart rate, running, cycling, swimming, kids activity tracking
 * What’s included  Vívosmart 4 smart activity tracker, Charging/data cable, Manuals
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,4 +220,21 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-step-by-step-perfecting-your-lol-recordings/"><u>[New] 2024 Approved Step-by-Step Perfecting Your LOL Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-best-practices-in-updating-your-social-network-backdrop/"><u>[Updated] Best Practices in Updating Your Social Network Backdrop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-cheat-sheet-for-using-movie-maker-on-win11/"><u>[Updated] The Ultimate Cheat Sheet for Using Movie Maker on Win11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-mp4-to-facebook-video-converter-2023-edition-for-2024/"><u>[Updated] Top MP4-to-Facebook Video Converter 2023 Edition for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-ideal-placement-techniques-for-your-ps4-camera/"><u>Discover Ideal Placement Techniques for Your PS4 Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-best-in-budget-tech-a-thorough-review-of-hisenses-40-inch-smart-tv-40h5590f/"><u>Discovering the Best in Budget Tech: A Thorough Review of Hisense's 40-Inch Smart TV (40H5590F)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-stellaris-an-in-depth-guide-to-interstellar-empires-and-alien-encounters/"><u>Exploring Stellaris: An In-Depth Guide to Interstellar Empires and Alien Encounters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722913445268-inside-the-world-of-affordable-tech-beantech-bitwatch-s1-plus-smartwatch-unveiled/"><u>Inside the World of Affordable Tech: Beantech Bitwatch S1 Plus Smartwatch Unveiled!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-comfortable-vertical-gaming-and-office-mice-in-asterisk-2024/"><u>Most Comfortable Vertical Gaming and Office Mice in Asterisk 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/motorola-one-5g-ace-revealed-breakneck-speed-on-5g-networks-and-robust-battery-capacity-reviewed-inside-out/"><u>Motorola One 5G Ace Revealed: Breakneck Speed on 5G Networks & Robust Battery Capacity Reviewed Inside Out</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/raspberry-pi-400-evaluation-compact-computing-power-at-your-fingertips/"><u>Raspberry Pi 400 Evaluation: Compact Computing Power at Your Fingertips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-meizu-21-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Meizu 21 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-video-vanguards-top-10-with-staggering-subscriber-growth-for-2024/"><u>Viral Video Vanguards Top 10 with Staggering Subscriber Growth for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-excels-at-code-an-in-depth-comparison-of-chatgpt-and-gemini/"><u>Which AI Excels at Code? An In-Depth Comparison of ChatGPT and Gemini</u></a></li>
+</ul></div>
 

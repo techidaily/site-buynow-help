@@ -1,7 +1,7 @@
 ---
 title: "Explore the Epic World of 'Yakuza: Like A Dragon': Must-Have JRPG Reviewed"
-date: 2024-08-22T13:12:16.217Z
-updated: 2024-08-23T13:12:16.217Z
+date: 2024-10-11T18:23:43.435Z
+updated: 2024-10-12T18:22:32.719Z
 categories:
   - BestProducts
 description: "This Article Describes Explore the Epic World of 'Yakuza: Like A Dragon': Must-Have JRPG Reviewed"
@@ -64,17 +64,18 @@ Lifewire / Erika Rawes
  The[best PC games](https://www.lifewire.com/best-pc-games-4147292) offer something unique that keeps you coming back for more. Yakuza: Like a Dragon takes the standard Yakuza formula and stands it on its head, moving the fighting system from real-time to turn-based and making this entry to the series feel like a true JRPG. I played Yakuza: Like a Dragon[on PC](https://www.lifewire.com/best-pc-games-4147292) to find out if these changes make this game better or worse. Should you play the new Yakuza or skip it? Read on to check out my full review of Yakuza: Like a Dragon.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Setting and Plot: A very long intro
 
  Yakuza: Like a Dragon places you in the shoes of Ichiban Kasuga, a young Yakuza upstart who was raised as an orphan in a Soap House by the owner and the women who worked there. Kasuga gets into a bit of trouble with a Yakuza family but is saved by Masumi Arakawa, the patriarch of the Arakawa family. Because of this, Kasuga pledges his life to Arakawa, promising to repay the debt.
 
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/Mo4mMH944CddmYJTyCxtMRxK9-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_05-e59c99ba9bd249e7a2241f532dd742dc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 Lifewire / Erika Rawes
 
  A few years later, Kasuga is asked to confess to a murder that was really committed by one of the Captains in the family. Kasuga spends 18 years in prison for the crime, which brings us to modern day. Once out of prison, Kasuga finds he no longer has a place in the family due to some serious changes that have taken place while he was away. Kasuga is shot and left for dead in the Yokohama area of Isezaki Ijincho. From there, the game opens up as you try to rebuild everything that was lost and find out what happened.
@@ -83,9 +84,6 @@ Lifewire / Erika Rawes
 
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/_ksFqEWrm3B3MbfrBujuNtLpcXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_03-37ca82f2a4cd42c4ad65f34e2ca63b68.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Lifewire / Erika Rawes
 
  Once things open up, the story gets going in what can only be described as a true modern-day JRPG. It has many of the common tropes of a JRPG, like a party system that allows you to manage those who fight with you, turn-based combat, and a long sweeping epic filled with plenty of side quests.
@@ -108,6 +106,13 @@ Lifewire / Erika Rawes
 
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/ZvcwNcecc79umImvw53CUJlLvIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_02-6396bcd8866c4a479331a02e160eb890.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
  The moves are creative and fun to use. After selecting the attack, timed button presses may increase the attack’s effectiveness or provide you with bonus damage. When you need a true power attack, you can use your phone to call PoundMates, which is a special “Summoning” move that calls in an ally to do massive damage. There are tons of PoundMates in the game, from a diaper-wearing adult man to a poisonous lobster named Nancy, and calling these special attacks is part of what makes Yakuza fun to play.
@@ -119,8 +124,12 @@ Lifewire / Erika Rawes
  This[PC game](https://www.lifewire.com/pc-gaming-reviews-4689600) plays just like it should, and the controls are top-notch. Everything just works, which is a rare feat these days. You should be able to finish the main story in around 45 to 55 hours, depending on how fast you run through it, but I highly recommend taking your time and enjoying all the wonderful diversions available.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Graphics: Excellent visuals
 
  The graphics and visuals are impressive. Details are accurate and in the right places. Food looks so realistic (and delicious), and there were some moments where I could even see the pores on a person's skin during cinematics.
@@ -134,6 +143,13 @@ Lifewire / Erika Rawes
 ![Yakuza: Like a Dragon](https://www.lifewire.com/thmb/zrV5S3jL3_76G0PVgT1K_Ty6WWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yakuza_LikeADragon_04-e33b82262b344fecae27d668b3c92ba9-55ba8acb6d324eed81fbf5453e770db8.jpg)
 
 Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: The typical $60
 
@@ -151,9 +167,6 @@ Lifewire / Erika Rawes
 
  A well-crafted masterpiece. Yakuza: Like a Dragon falls into the must-play category for anyone who loves a good story, JRPGs, or a wild game that will make you laugh. It’s definitely a departure from the rest of the series, but that contributes to a lot of the fun and uniqueness of the game.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Cyberpunk 2077](https://www.lifewire.com/cyberpunk-2077-review-5113844)
@@ -161,8 +174,18 @@ Lifewire / Erika Rawes
 * [Torment: Tides of Numenera](https://www.lifewire.com/torment-tides-of-numenera-review-5077302)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Yakuza: Like a Dragon
@@ -182,8 +205,6 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +212,21 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-uncover-the-best-android-photo-editor-does-picku-stand-out/"><u>[New] Uncover the Best Android Photo Editor – Does PickU Stand Out?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-transform-your-footage-a-complete-youtube-studio-editing-course/"><u>[Updated] In 2024, Transform Your Footage A Complete YouTube Studio Editing Course</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-snap-instantly-with-iphone-time-lapse-tips/"><u>2024 Approved Snap Instantly with iPhone Time Lapse Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamline-your-social-experience-with-mobile-music-files/"><u>2024 Approved Streamline Your Social Experience with Mobile Music Files</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/charting-the-best-workout-music-playlists/"><u>Charting the Best Workout Music Playlists</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smartphone-wisely-iphone-or-android/"><u>Choosing Your Smartphone Wisely: IPhone or Android?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-apple-iphone-12-pro-max-is-going-larger-a-game-changer/"><u>Comprehensive Analysis of the Apple iPhone 12 Pro Max - Is Going Larger a Game-Changer?</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-12t-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 12T Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-shadows-into-brilliance-the-transcendent-return-of-demons-souls-with-cutting-edge-graphics/"><u>From Shadows Into Brilliance - The Transcendent Return of Demon's Souls with Cutting-Edge Graphics</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-fps-count-apps-to-enhance-your-win-11-gameplay/"><u>Prime FPS Count Apps to Enhance Your Win 11 Gameplay</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-installation-process-for-corsair-void-pro-drivers-on-windows-systems/"><u>Seamless Installation Process for Corsair Void Pro Drivers on Windows Systems!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/syntax-highlighting-features-in-emeditor-a-powerful-text-editing-tool/"><u>Syntax Highlighting Features in EmEditor - A Powerful Text Editing Tool</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/versatile-glow-spk10-037-softbox-kicking-up-creative-energy/"><u>Versatile Glow: SPK10-037 Softbox Kicking Up Creative Energy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/zte-blade-a3y-reviewed-delivering-high-end-specs-on-a-budget-smartphone/"><u>ZTE Blade A3Y Reviewed: Delivering High-End Specs on a Budget Smartphone</u></a></li>
+</ul></div>
 

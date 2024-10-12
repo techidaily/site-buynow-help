@@ -1,7 +1,7 @@
 ---
 title: "On the Road Again Amidst Undead Chaos: A Comprehensive Review of 'Days Gone'"
-date: 2024-08-22T13:07:25.216Z
-updated: 2024-08-23T13:07:25.216Z
+date: 2024-10-05T17:25:00.694Z
+updated: 2024-10-12T19:04:10.431Z
 categories:
   - BestProducts
 description: "This Article Describes On the Road Again Amidst Undead Chaos: A Comprehensive Review of 'Days Gone'"
@@ -38,6 +38,19 @@ Lifewire / Erika Rawes
 [View On Amazon $324](https://www.amazon.com/dp/B07VFFCGBY?tag=lifewire-onsite-prod-20&ascsubtag=5072677%7Cnb09ddd4fc2484a1da2aba73369114b5911%7CB07VFFCGBY) [View On Walmart $420](https://www.walmart.com/ip/SAMSUNG-Galaxy-Tab-S6-10-5-128GB-WiFi-Android-9-0-Tablet-Rose-Blush-S-Pen-SM-T860NZNAXAR/498393884?wmlspartner=wlpa&selectedSellerId=0) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-s6-10-5-256gb-mountain-gray%2F6357008.p%3FskuId%3D6357008%26ref%3D212%26loc%3D1)
 
 4.2
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab S6
 
@@ -76,6 +89,13 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Display: 10.5-inch Super AMOLED**
 
  You can usually rely on Samsung devices to have top-notch display quality, and the Tab S6 is no different. The super AMOLED display is crisp and clear. The text is sharp, and the colors are bright and vivid. The 10.5-inch display feels large enough to watch shows and movies or to use as a hybrid when you connect the keyboard case.
@@ -86,19 +106,27 @@ Lifewire / Erika Rawes
 
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/-pHfCamdNdeJAmfn1IG93dda0i4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_03-ecf977b8c98b41a08872f0605a589246.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Qualcomm 855**
 
  The Tab S6 has the Qualcomm 855 processor, which is a pretty solid mobile CPU. It comes in two versions: one version with 128GB of storage and 6 GB of RAM, and one version with 256 GB of storage and 8 GB of RAM. I tested the former version. On PCMark Work 2.0, the lower level Tab S6 scored a 9022\. On Geekbench 5, the Tab S6 scored a single core score of 747 and a multi-core score of 2,518\. It’s multi-core scores come in very close to the A12 Bionic chip in the iPad (2019).
 
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/TIUmjQSMgpAJw4W3I6fcgiYY1BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_06-cc64b6b41e8f4420b9fe38d223541b52.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -126,11 +154,15 @@ Lifewire / Erika Rawes
 
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/uFYTAOkfm7I2LO-YvrgzbeB-65I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_04-c700338e384c41a1890551005ff31019.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Camera: Dual rear cameras**
 
  The Tab S6 has dual rear cameras, and a single front-facing camera. It has a 13 MP camera and a 5 MP camera on the back, and an 8 MP camera on the front. For a tablet, the camera quality is actually pretty good. It’s not as good as your typical flagship phone, but it’s better than you’d expect on a hybrid tablet. Photos are surprisingly clean and detailed, so you could absolutely get a good group pic at the office, or snap a clear pic of a document you need to send.
@@ -151,27 +183,19 @@ Lifewire / Erika Rawes
 
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/C7-02cY18jujcl8-9vfJim9_H_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_05-2f0768554c044e18bedec871758e51ef.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: On the high end**
 
  The Galaxy Tab S6 sells for $649 for the 128 gig version, which is pricey for an android tablet. But, considering the S Pen is included in the package, the price is a bit more reasonable.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Samsung Galaxy Tab S6 vs. Samsung Galaxy Tab A (2020)**
 
  The Galaxy Tab S6 is designed for productivity, photo editing, drawing, and multipurpose use. It offers fast processing, an optional keyboard case, and features like Samsung DeX to promote even more efficiency.[The Galaxy Tab A](https://www.lifewire.com/samsung-galaxy-tab-a-2020-review-5072672) (view on[Amazon](https://www.amazon.com/dp/B07Q3T2RZF/?tag=lifewire-onsite-prod-20&ascsubtag=5072677%7Cnb09ddd4fc2484a1da2aba73369114b5911%7C) ) is a budget tablet that’s good for communication and on-the-go entertainment. The Tab A works in cellular networks, and it doesn’t provide the processing power or productivity features you get with the Tab S6\. The Tab A is not compatible with the S Pen either.
@@ -182,9 +206,6 @@ Lifewire / Erika Rawes
 
  The Galaxy Tab S6 is one of the better 10-inch tablets available.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Galaxy Tab S6
@@ -209,8 +230,6 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +237,16 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/-deep-dive-into-the-world-of-youtubes-minis/"><u>[New] A Deep Dive Into the World of Youtube's Minis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-whispering-wonders-for-zzzs-choice-vocalists/"><u>[New] In 2024, Whispering Wonders for Zzz's Choice Vocalists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-potential-an-in-depth-look-at-vivocut-editing/"><u>[Updated] Unlocking Potential An In-Depth Look at VivoCut Editing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-tv-vs-android-tv-explained-understanding-key-contrasts-in-streaming-devices/"><u>Google TV Vs. Android TV Explained - Understanding Key Contrasts in Streaming Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fix-persistent-game-crashes-and-bugs-for-ghost-runner-on-windows-11-pcs/"><u>Guide to Fix Persistent Game Crashes and Bugs for Ghost Runner on Windows 11 PCs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hdr-revolutionizes-gaming-with-new-update-on-dolphin-emulator-for-wiigamecube-classics/"><u>HDR Revolutionizes Gaming with New Update on Dolphin Emulator for Wii/GameCube Classics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hidden-insights-20-often-missed-techniques-for-the-ultimate-nintendo-switch-experience/"><u>Hidden Insights: 20 Often-Missed Techniques for the Ultimate Nintendo Switch Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-microsofts-new-focus-in-ai-may-signal-trouble-for-compact-computing-systems-used-in-handheld-pc-gaming/"><u>How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-uav-options-to-maximize-your-gopro-video-potential/"><u>In 2024, Prime UAV Options to Maximize Your GoPro Video Potential</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Experience Efficiency with the Low-Key yet Powerful Acer Aspire C27 Desktop Computer
-date: 2024-08-22T13:07:24.263Z
-updated: 2024-08-23T13:07:24.264Z
+date: 2024-10-07T16:07:46.618Z
+updated: 2024-10-12T19:15:38.389Z
 categories:
   - BestProducts
 description: This Article Describes Experience Efficiency with the Low-Key yet Powerful Acer Aspire C27 Desktop Computer
@@ -63,9 +63,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -74,9 +71,6 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
  Overall, the C80 feels pretty sturdy. There are four antennas, and they don’t feel flimsy or easily breakable. The antennas are exceptionally long—disproportionately so when compared to the router’s body—but the length of the antennas is advantageous for performance. You can move the antennas 90 degrees up and down and roughly 180 degrees side to side, which lets you appropriately adjust them for placement on a wall or table. The Gigabit Ethernet ports (one WAN, four LAN) and power adapter port are located on the back of the device, which is ideal for placement on a flat surface, but not as great for mounting on a wall because the cables come out of the top of the router, and they’re difficult to hide or organize.
@@ -94,8 +88,12 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network Performance: Fast speeds, No USB port**
 
  Although this is a low to mid-tier level device, I was quite impressed with its speed and performance. I live in a suburb about 20 minutes away from Raleigh, NC, and I have Spectrum as my internet service provider. The Wi-Fi speeds in my home max out at 400 Mbps. I have a smart box that sits in a utility closet where the router connects. I mounted the router on the wall in that closet, which has a solid door that acts as an immediate signal obstruction. In spite of the presence of this solid door, I was still able to get between 340 and 350 Mbps all throughout the entire downstairs (on the 5GHz band). On the 2.4GHz band, I could get up to 90Mbps all throughout the first floor and in my garage.
@@ -112,9 +110,6 @@ Lifewire / Erika Rawes
 
  Every closet, bathroom, and bedroom maintained a signal, and I experienced no dead zones whatsoever.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: TP-Link Tether app**
 
  The C80 is a cinch to set up in less than five minutes, with guest networks created and all. The TP-Link Tether app is one of my favorite router companion apps. The interface is super clean, and you can see exactly what devices are on each of your network bands. You can even have the app alert you when a new device signs into your network.
@@ -125,14 +120,32 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
@@ -145,8 +158,12 @@ Lifewire / Erika Rawes
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
@@ -173,8 +190,6 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +197,22 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-monetization-carryminati-ajey-nagar-youtube-income/"><u>[New] YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-breaking-down-2023s-highest-viewed-tweets/"><u>[Updated] 2024 Approved Breaking Down 2023’S Highest-Viewed Tweets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-leading-free-subtitle-tools-online/"><u>[Updated] Explore the Leading Free Subtitle Tools Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-guide-standing-out-in-reddit-discussions-for-2024/"><u>A Comprehensive Guide Standing Out in Reddit Discussions for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-merging-youtube-melodies-in-cinematic-pieces/"><u>In 2024, Merging YouTube Melodies in Cinematic Pieces</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-my-adventure-in-3d-printed-lego-creations-surprising-outcomes-revealed/"><u>Inside My Adventure in 3D-Printed LEGO Creations – Surprising Outcomes Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/last-chance-alert-start-streaming-these-popular-games-before-extinction-hits/"><u>Last Chance Alert! Start Streaming These Popular Games Before Extinction Hits!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-graphics-processor-units-the-ultimate-2024-lineup-guide/"><u>Leading Graphics Processor Units: The Ultimate 2024 Lineup Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos-for-2024/"><u>Maximizing Efficiency Discover the Leading Speech-to-Text Apps for MacOS for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-value-unlocking-the-full-potential-of-your-hulu-subscription/"><u>Maximizing Value: Unlocking the Full Potential of Your Hulu Subscription</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/my-favorite-portable-gaming-device-for-on-the-go-play-beyond-the-joycon/"><u>My Favorite Portable Gaming Device for On-the-Go Play: Beyond the JoyCon</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/my-journey-into-game-development-with-chatgpt-a-comprehensive-review/"><u>My Journey Into Game Development with ChatGPT: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/new-fallout-fans-embrace-your-inner-survivor-time-to-delve-into-the-wasteland-saga/"><u>New 'Fallout' Fans, Embrace Your Inner Survivor: Time to Delve Into the Wasteland Saga!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/optimized-procedures-for-integrating-subtitles-into-live-streams-on-facebook-for-2024/"><u>Optimized Procedures for Integrating Subtitles Into Live Streams on Facebook for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-fractured-screen-captures-techniques-and-tools/"><u>Repairing Fractured Screen Captures: Techniques and Tools</u></a></li>
+</ul></div>
 

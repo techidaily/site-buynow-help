@@ -1,7 +1,7 @@
 ---
 title: Exploring the Benefits and Drawbacks of the Kobo Clara Color Edition
-date: 2024-08-22T13:12:01.935Z
-updated: 2024-08-23T13:12:01.935Z
+date: 2024-10-10T18:43:01.617Z
+updated: 2024-10-12T16:51:58.852Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Benefits and Drawbacks of the Kobo Clara Color Edition
@@ -39,6 +39,13 @@ Lifewire / Rebecca Isaacs
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 Days to Die
 
 ![7 Days to Die](https://www.lifewire.com/thmb/mKaiRcg5xaWaOPRj0Ph1dRjUbSs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4164252-1-e8b8c3eb31dd46e8a63e8e40a5a9d04b.jpg)
@@ -67,6 +74,13 @@ Lifewire / Rebecca Isaacs
 
 ![7 Days to Die](https://www.lifewire.com/thmb/MW5wYA5ujBjG5LdXn-w9bTJd5WQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-2-a59091cd21c04d99a42270199349fc2a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
 ## **Setup Process: Easy thanks to Steam**
@@ -77,19 +91,14 @@ Lifewire / Rebecca Isaacs
 
 ![7 Days to Die](https://www.lifewire.com/thmb/Eq0YCIdbj82yj3lOCWEdZS7jX6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-4-341174c3997543728bd2b024c6e2a309.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Plot: Open world horror sandbox**
 
@@ -105,18 +114,6 @@ Lifewire / Rebecca Isaacs
 
 ![7 Days to Die](https://www.lifewire.com/thmb/U2XChOqkiQvFhP69V0cQ5mYcYME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-3-d19d9b4d19734cffb022d6e0db90382e.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
 ## **Gameplay: Could be better, but solid overall**
@@ -141,9 +138,6 @@ Lifewire / Rebecca Isaacs
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: Outdated, but detailed on optimal**
 
  For a game that was released in 2013 originally, the graphics could be a little better, even if you play on optimal settings. Back in the day, we played on lower settings rather than splurge on a fancy graphics card. If you play on the lower settings, it’s cringeworthy, though not as cringeworthy as the Witcher 3’s lowest settings.
@@ -159,15 +153,16 @@ Lifewire / Rebecca Isaacs
  Last time we checked, the company that owned all console rights, Telltale, went bust, and The Fun Pimps (the developer) were in legal limbo trying to reacquire their own rights. There’s a good chance that there will not be an update in the console versions of the game anytime soon as this issue makes its way through the courts. Therefore, we strongly recommend that you purchase the PC version if you decide this is a game you might like to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Average for an alpha game**
 
  At around $25, 7 Days isn’t the most expensive zombie game on the market. However, it is the most expensive alpha zombie game out there. Because you can purchase it on[Steam](https://www.lifewire.com/what-is-steam-4177380) or Humble Bumble, we recommend waiting for a Steam sale and getting it for a discount, especially since it’s still in progress. This way, if you decide you don’t like it in the future, you aren’t out the full price.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Other sandbox shooters**
 
  It’s hard to compare 7 Days to other sandboxes out there because of the significant focus on crafting and building.[Minecraft](https://www.minecraft.net/en-us/download/) has expansive crafting and arguably good graphics with its classic blocky appearance. Terraria also boasts zombies and crafting and building capabilities, though they’re 2D instead of 3D like in 7 Days. And all of them can guarantee hours of gameplay with fun twists and turns.
@@ -187,8 +182,12 @@ Lifewire / Rebecca Isaacs
 * [Dying Light](https://www.lifewire.com/dying-light-review-4778324)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  7 Days to Die
@@ -201,14 +200,11 @@ Lifewire / Rebecca Isaacs
 * Graphics  1 GB Dedicated Memory
 * Game Updates  Alpha 17.4 out; Alpha 18 Announced
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -217,4 +213,24 @@ Lifewire / Rebecca Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-a-comprehensive-guide-to-using-youtubes-cc-licensing/"><u>[New] A Comprehensive Guide to Using YouTube's CC Licensing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-learn-to-harness-funimates-downloading-power-for-2024/"><u>[New] Learn to Harness Funimate's Downloading Power for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-your-touch-top-8-free-android-recorders/"><u>[Updated] Capturing Your Touch Top 8 Free Android Recorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-double-effect-wonders-for-tiktoks/"><u>[Updated] Step-by-Step Guide Double Effect Wonders for TikToks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-master-techniques-to-dodge-edgenuity-videos-swiftly/"><u>2024 Approved Master Techniques to Dodge Edgenuity Videos Swiftly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boost-your-gaming-sessions-with-the-havit-five-fan-cooling-pad-in-depth-insights-and-benefits/"><u>Boost Your Gaming Sessions with the HAVIT Five-Fan Cooling Pad - In-Depth Insights and Benefits</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-aesthetics-and-hidden-rpg-mechanics-of-mlb-the-show-19/"><u>Exploring the Aesthetics and Hidden RPG Mechanics of MLB The Show 19</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sony-xperia-xz-premium-an-odyssey-into-ultra-hd-phones/"><u>In 2024, Sony Xperia XZ Premium An Odyssey Into Ultra HD Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-google-nest-mini-camera-featuring-facial-id-and-smart-package-alerts/"><u>In-Depth Analysis of the Google Nest Mini Camera: Featuring Facial ID and Smart Package Alerts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-at-samsung-galaxy-tab-s-6-what-to-expect-from-its-cutting-edge-s-pen-and-multi-tasking-dex-mode/"><u>Inside Look at Samsung Galaxy Tab S 6: What to Expect From Its Cutting-Edge S Pen & Multi-Tasking Dex Mode</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/linkedin-premium-unpacked-8-reasons-to-join-for-career-progression/"><u>LinkedIn Premium Unpacked - 8 Reasons to Join for Career Progression</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/skagen-falster-2-assessment-the-sophisticated-competitor-of-iphones/"><u>Skagen Falster 2 Assessment: The Sophisticated Competitor of iPhones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/switched-on-gaming-evaluating-the-pros-and-cons-of-nintendos-lite-and-oled-variants/"><u>Switched On Gaming: Evaluating the Pros and Cons of Nintendo's Lite and OLED Variants</u></a></li>
+<li><a href="https://windows11.techidaily.com/track-down-the-file-where-your-desktop-image-stores/"><u>Track Down the File Where Your Desktop Image Stores</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-modern-entertainment-2019-tcl-s325-smart-led-tv-review-more-than-meets-the-eye/"><u>Unlocking Modern Entertainment: 2019 TCL S325 Smart LED TV Review – More Than Meets The Eye</u></a></li>
+</ul></div>
 

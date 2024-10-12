@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2024-09-20T16:22:28.462Z
-updated: 2024-09-26T16:27:43.098Z
+date: 2024-10-09T18:23:07.033Z
+updated: 2024-10-12T17:31:30.566Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The latest and greatest AAA games can use a boatload of video memory when you crank the visuals to high or ultra. With such an insatiable appetite for VRAM, is an 8GB GPU enough to play the latest games in 2024? I've got an 8GB GPU, and here's what I've learned.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  8GB of Memory Is Plenty for Indie, eSports, and Older Games
@@ -38,6 +38,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A screenshot of a virtual bar from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204942.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
@@ -45,13 +52,6 @@ Cianna Garrison / How-To Geek
  On the other hand, enabling ray-traced lighting really starts to stress the 8GB memory buffer on my RTX 3070, even at 1080p, when [streaming the game to a ROG Ally](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/).
 
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Things Get Complicated With Newer AAA Games
 
@@ -88,16 +88,16 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _GIGABYTE_
@@ -105,10 +105,10 @@ _GIGABYTE_
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Buy an 8GB GPU in 2024?
@@ -134,15 +134,20 @@ _GIGABYTE_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-masterful-ad-blocking-select-from-these-top-7-android-apps/"><u>[New] Masterful Ad Blocking Select From These Top 7 Android Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-televising-fb-live-top-methods-explored-for-2024/"><u>[New] Televising FB Live Top Methods Explored for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/accelerated-norsk-knowledge-daily-dash/"><u>Accelerated Norsk Knowledge - Daily Dash</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-x9b-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor X9b? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-review-unveiling-the-secrets-behind-amds-radeon-xt-series-rx-7800-7700/"><u>Expert Review: Unveiling the Secrets Behind AMD's Radeon XT Series (RX 7800, 7700)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-new-territories-in-depth-analysis-of-watch-dogs-legions-unique-environment/"><u>Exploring New Territories: In-Depth Analysis of Watch Dogs: Legion's Unique Environment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-huawei-mediapad-m5-an-ode-to-outstanding-visuals-and-acoustics/"><u>Exploring the Huawei MediaPad M5: An Ode to Outstanding Visuals and Acoustics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/feast-your-eyes-on-this-uncovering-the-flavors-and-fun-of-overcooked-2/"><u>Feast Your Eyes on This: Uncovering the Flavors & Fun of 'Overcooked! 2'</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/get-your-hands-on-hot-deals-for-top-tier-samsung-electronics-limited-time-offer/"><u>Get Your Hands On Hot Deals For Top-Tier Samsung Electronics - Limited Time Offer!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/meme-master-tracking-jake-pauls-youtube-evolution-for-2024/"><u>Meme Master Tracking Jake Paul's YouTube Evolution for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-solo-strategies-making-your-podcast-sensational/"><u>[New] 2024 Approved Solo Strategies Making Your Podcast Sensational</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-seamless-mp4-to-fb-video-transfer-technology/"><u>[New] In 2024, Seamless MP4-to-FB Video Transfer Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boosting-vividness-in-iphone-videos-three-keys-unveiled/"><u>[Updated] Boosting Vividness in iPhone Videos – Three Keys Unveiled</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-proven-pathway-to-pure-sound/"><u>[Updated] Proven Pathway to Pure Sound</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-usb-c-vision-the-new-standard-in-monitors-hp-envy-27/"><u>2024 Approved USB-C Vision The New Standard in Monitors - HP Envy 27</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/"><u>Exploring Technology with Tom: Your Trusted Source for Hardware Insights and Reviews</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pros-and-cons-of-apples-newest-phones-the-battle-between-iphone-15-and-15-pro-max/"><u>Pros & Cons of Apple's Newest Phones: The Battle Between iPhone 15 and 15 Pro Max</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/retained-earnings-600/"><u>Retained Earnings: $600</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-acer-chromebook-r-n-an-insight-into-its-stylish-build-and-easy-to-carry-design/"><u>Review of Acer Chromebook R N: An Insight Into Its Stylish Build and Easy-to-Carry Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-motorola-one-hyper-an-impressive-value-in-the-mid-range-smartphone-segment/"><u>Review of Motorola One Hyper: An Impressive Value in the Mid-Range Smartphone Segment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revving-up-your-rides-with-the-engaging-ddpai-mini-3-not-just-another-dashcam/"><u>Revving Up Your Rides with the Engaging DDpai Mini 3: Not Just Another Dashcam</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sealoc-coastal-silver-55-inch-4k-outdoor-tv-review/"><u>Sealoc Coastal Silver 55-Inch 4K Outdoor TV Review</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-out-windows-11-memory-dump-files/"><u>Step-by-Step Guide: Clearing Out Windows 11 Memory Dump Files</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unlock-smooth-editing-premiere-pro-system-requirements-explained/"><u>Unlock Smooth Editing Premiere Pro System Requirements Explained</u></a></li>
 </ul></div>
 

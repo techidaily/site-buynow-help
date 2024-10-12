@@ -1,7 +1,7 @@
 ---
 title: "Clearing Space: Ultimate Guide to Expanding Your PS5's Hard Drive Capacity"
-date: 2024-09-25T16:07:56.714Z
-updated: 2024-10-01T18:04:31.216Z
+date: 2024-10-06T16:54:21.240Z
+updated: 2024-10-12T19:06:58.961Z
 tags:
   - games
   - tv
@@ -31,11 +31,31 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
  The PlayStation 5’s internal SSD has 825 GB, but only 667 GB of that is available for you to use. For many gamers, that space can quickly run out. Here’s how you can free up some of it.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Delete Unused Games and Apps
 
  If you’re not playing a particular game, you should consider deleting it to clear space. To do that, highlight the game (don’t launch it) on the home screen and press the Options button on your DualSense controller. Then, select “Delete” in the menu.
 
 ![Deleting a game from the PS5 home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-game-home-screen-ps5.png) 
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Confirm you want to delete it by selecting “Yes” in the prompt.
 
@@ -61,23 +81,9 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
 ![Selecting items to move to an external on a PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-items-to-move-ps5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tick all the games you to move to the external drive and then select “Move” in the bottom right corner of the screen.
 
 ![Moving selected games to an external on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/moving-games-ps5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the prompt, select “OK” to start the moving process.
 
@@ -91,25 +97,18 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
 ![The Save Data screen in a PS5's settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/saved-data-settings-ps5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, select the games you want to delete (they’ll have a checkbox on the right when selected). Afterward, select “Delete” in the bottom right corner of the screen.
 
 ![Deleting selected save data on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/deleting-games-console-storage-ps5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select “OK” in the prompt, and the save data will be removed from your console. Remember that this will effectively reset your progress in a game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Transfer Save Data to Cloud Storage
 
@@ -120,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 ![The option to upload save data to the cloud on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-game-save-cloud-option-ps5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Chifundo Kasiya / How-To Geek
@@ -148,37 +147,30 @@ Chifundo Kasiya / How-To Geek
 
 ![Selecting "Delete" or "Copy to USB Drive" on a PS5 when deleting or moving media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-video-media-gallery-ps5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, confirm your decision by selecting “Delete” or “Copy” in the prompt. You can also delete or transfer several items at once by choosing the “Select Multiple” icon on the left.
 
 ![The "Select Multiple" option in the Media Gallery screen on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ps5-media-gallery-select-multiple.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select the screenshots and videos you want to delete or move (they will have a checkmark on the left when selected). Alternatively, you can choose “Select All” from the menu on the right to select everything. To delete them, select “Delete” in the bottom left.
 
 ![Deleting selected media on a PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/deleting-multiple-video-media-gallery-ps5.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To transfer them, select the three-dot icon below “Delete” and choose “Copy to USB Drive” in the menu.
 
  Once you confirm your decision, the items will be removed or moved from your PS5\. If you want another way to back up these items, you can [transfer the screenshots and videos to your phone](https://extra-skills.techidaily.com/2024-approved-seeking-visual-vintage-free-art-archives-online/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Disable PS5 Auto Capturing for Achievements
@@ -189,9 +181,29 @@ Chifundo Kasiya / How-To Geek
 
 ![The Captures and Broadcasts screen in the PS5 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/captures-and-broadcasts-screen-ps5.png) 
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select “Save Trophy Screenshots” in the Screenshots section and choose “None” in the menu. Do the same for the “Save Trophy Videos” option in the Video Clips section.
 
 ![Disabling autocapturing for trophies on the PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/disabling-autocapture-trophy-captures.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you won’t have trophy screenshots and videos automatically taking up space in your PS5’s storage.
 
@@ -220,22 +232,19 @@ Chifundo Kasiya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-video-previews-a-compreayer-approach-for-youtube/"><u>[Updated] 2024 Approved Elevating Video Previews A Compreayer Approach for YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-free-fx-library-to-enhance-youtube-productions-in-2024/"><u>[Updated] Free FX Library to Enhance YouTube Productions, In 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos-for-2024/"><u>[Updated] Your Video, Their Feast How to Craft GIFs From Vimeo Videos for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-examining-performance-lg-bp350-screen-review/"><u>2024 Approved Examining Performance LG BP350 Screen Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ai-driven-video-title-strategy-for-maximum-impact/"><u>AI-Driven Video Title Strategy for Maximum Impact</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/crucial-aspects-to-think-about-before-investing-in-a-video-game-console/"><u>Crucial Aspects to Think About Before Investing in a Video Game Console</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/economical-ssl-certificate-exploration/"><u>Economical SSL Certificate Exploration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevating-ps3-space-tips-for-hdd-expansion/"><u>Elevating PS3 Space: Tips for HDD Expansion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/embracing-tamriels-wilderness-an-in-depth-review-of-skyrim-on-the-nintendo-switch/"><u>Embracing Tamriel's Wilderness: An In-Depth Review of Skyrim on the Nintendo Switch</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-hot-40i-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Hot 40i</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-evaluation-how-the-tiny-unihertz-atom-xl-outperforms-in-durability-and-power/"><u>Expert Evaluation: How the Tiny Unihertz Atom XL Outperforms in Durability & Power</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-depths-of-narrative-worldbuilding-in-torment-tides-of-numenera-a-sci-fi-crpg-overview/"><u>Exploring the Depths of Narrative Worldbuilding in 'Torment: Tides of Numenera' - A Sci-Fi CRPG Overview</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915233557-exploring-the-giants-of-social-media-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Media - Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-imac-with-m1-stunning-display-and-impressive-performance/"><u>Exploring the iMac with M1: Stunning Display & Impressive Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-sound-spectrum-with-nest-audio-perfect-harmony-for-melody-aficionados/"><u>Exploring the Sound Spectrum with Nest Audio: Perfect Harmony for Melody Aficionados</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/furbo-spotlight-celebrating-the-pinnacle-in-canine-surveillance-technology/"><u>Furbo Spotlight: Celebrating the Pinnacle in Canine Surveillance Technology</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/5-best-wifi-routers-for-on-the-go-connections-reviewed/"><u>5 Best WiFi Routers for On-the-Go Connections Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-isnt-cutting-edge-tech-after-all-exploring-its-historical-foundations-and-maturity/"><u>AI Isn't Cutting-Edge Tech After All: Exploring Its Historical Foundations and Maturity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ctrl-plus-alt-plus-del-not-working-solved/"><u>Ctrl + Alt + Del Not Working [SOLVED]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovations-in-office-layout-for-enhanced-productivity/"><u>In 2024, Innovations in Office Layout for Enhanced Productivity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-shopping-for-tailored-gift-boxes-heres-who-to-hit/"><u>In 2024, Shopping for Tailored Gift Boxes? Here's Who to Hit</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y100i-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y100i Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/premium-performance-unleashed-in-depth-analysis-of-the-microsoft-surface-studio-2/"><u>Premium Performance Unleashed: In-Depth Analysis of the Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-upgrading-broadcom-netlink-gige-driver-on-windows-11-systems/"><u>Step-by-Step Tutorial: Upgrading Broadcom NETLINK GigE Driver on Windows 11 Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taking-wifi-speeds-to-new-heights-the-ultimate-guide-and-assessment-of-the-netgear-nighthawk-x1ad7200-router/"><u>Taking WiFi Speeds to New Heights: The Ultimate Guide and Assessment of the Netgear Nighthawk X1^AD7200 Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-evaluation-of-the-oneplus-nord-n10-5g-device-definitely-worth-your-attention/"><u>The Ultimate Evaluation of the OnePlus Nord N10 5G Device – Definitely Worth Your Attention</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-moto-g34-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola Moto G34 5G without backup.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/universally-compatible-moko-bluetooth-keyboard-with-easy-portability/"><u>Universally Compatible MoKo Bluetooth Keyboard with Easy Portability</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlocking-real-time-sharing-streaming-old-video-to-facebook-audiences/"><u>Unlocking Real-Time Sharing Streaming Old Video to Facebook Audiences</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-that-make-microsofts-ergonomic-keyboard-a-top-notch-choice-for-professionals/"><u>Unveiling the Features that Make Microsoft's Ergonomic Keyboard a Top-Notch Choice for Professionals</u></a></li>
 </ul></div>
 

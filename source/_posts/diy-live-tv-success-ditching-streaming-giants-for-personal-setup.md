@@ -1,7 +1,7 @@
 ---
 title: "DIY Live TV Success: Ditching Streaming Giants for Personal Setup"
-date: 2024-09-25T18:20:21.565Z
-updated: 2024-10-01T17:14:34.521Z
+date: 2024-10-09T18:49:13.227Z
+updated: 2024-10-12T18:28:52.650Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  If you're like me, you're tired of seeing the phrase "price hike" in headlines about the streaming services you're paying for. I got so tired I decided to use my movie collection to build what you might call a personal streaming service. Here's what it involved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Can You Stream Movies Yourself?
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  If you have copies of your movies or shows saved to a computer or [external drive](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/), you can use a media server to organize and stream that content remotely to a TV, phone, or computer. If anyone has given you a login for their [Plex](https://network-issues.techidaily.com/instantly-eradicate-playback-problems/) account, you've seen one of these servers in action. Plex is one of your options, but there are several [Plex alternatives](https://win-answers.techidaily.com/effective-remedies-for-unresponsive-qbittorrent-torrents/) out there. I went with Jellyfin for myself. If you want to avoid having to solve technical issues yourself, though, and don't mind spending a little money for premium features, Plex might be your best bet.
 
  We have resources if you want to [learn more about running Jellyfin](https://extra-approaches.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry-for-2024/) yourself. Instead of retreading that ground, I'm just going to cover some key information about home streaming that I wish I'd known before going in.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Early Hiccups in Building a Streaming Server
 
@@ -43,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 ![An external Blu-ray drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52781571646_3bd529ceb6_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
@@ -56,13 +63,6 @@ Jordan Gloor / How-To Geek
  One regret I had was where I first installed the server: my personal computer. It worked fine until someone wanted to stream something while I was using my computer for anything resource-intensive, like gaming. That led me to finally invest in a [network-attached storage (NAS)](https://fox-access.techidaily.com/new-in-2024-unleashing-potential-in-4k-with-top-gimbals-selection/) device. One of these can hold and run your server as a dedicated device instead of relying on your personal computer. There are several [streaming-capable NAS devices we recommend](https://screen-recording.techidaily.com/updated-2024-approved-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices/), but I chose the Asustor AS5202T.
 
 ![Asustor AS5202T](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/asustor-as5202t.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Asustor AS5202T
 
@@ -75,10 +75,10 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
  Once I got the NAS, though, I learned that a Jellyfin server is difficult to move. There's no built-in function for it at all. There are scripts you can find online that are meant to partially automate it for you, but they still require some technical knowledge to use and aren't guaranteed to work. I ultimately decided figuring it all out wasn't worth my time, so I started a new Jellyfin instance on my NAS and copied over all my movies and shows. That was a much simpler, albeit slow, process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Was It All Worth It?
@@ -102,20 +102,14 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-clandestine-glimpse-at-fb-flashbacks/"><u>[New] In 2024, Clandestine Glimpse at Fb Flashbacks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-legal-steps-for-overcoming-a-youtube-copyright-strike/"><u>[Updated] Legal Steps for Overcoming a YouTube Copyright Strike</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-adventure-awaits-discover-the-best-online-sites-for-boxes/"><u>2024 Approved Adventure Awaits Discover the Best Online Sites for Boxes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-figure-skatings-top-talent-review-of-22-moments/"><u>2024 Approved Figure Skating's Top Talent Review of '22 Moments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-complete-solutions-pour-les-problemes-de-dvd-non-fonctionnels/"><u>Guide Complete: Solutions Pour Les Problèmes De DVD Non Fonctionnels</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-tecno-pova-6-pro-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Tecno Pova 6 Pro 5G Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mini-movie-script-concept/"><u>In 2024, Mini Movie Script Concept</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/narrative-analysis-torment-where-science-meets-fantasy-in-a-world-building-masterpiece/"><u>Narrative Analysis: Torment - Where Science Meets Fantasy in a World Building Masterpiece</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-2024s-top-handheld-gaming-platforms-for-enthusiasts/"><u>Navigating 2024'S Top Handheld Gaming Platforms for Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/optimizing-ps3-swapping-for-bigger-hdd/"><u>Optimizing PS3: Swapping for Bigger HDD</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/philips-hf3505-clock-reviewed-a-staple-alarm-solution-for-your-mornings/"><u>Philips HF3505 Clock Reviewed: A Staple Alarm Solution for Your Mornings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/poweradd-pilot-pro2-analysis-an-in-depth-look-at-its-battery-capacity-for-multiple-device-charging/"><u>POWERADD Pilot Pro2 Analysis: An In-Depth Look at Its Battery Capacity for Multiple Device Charging</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/rca-video-doorbell-camera-review/"><u>RCA Video Doorbell Camera Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revamp-your-workspace-with-style-comprehensive-review-of-the-modern-flexispot-theodore-desk/"><u>Revamp Your Workspace with Style: Comprehensive Review of the Modern Flexispot Theodore Desk</u></a></li>
-<li><a href="https://win-blog.techidaily.com/smooth-gaming-how-to-stop-assassins-creed-odyssey-from-crashing-on-windows-pc/"><u>Smooth Gaming: How to Stop Assassin's Creed Odyssey From Crashing on Windows PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-iphones-voice-memos-with-precision-for-2024/"><u>[Updated] Navigating iPhone's Voice Memos with Precision for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-swift-strategies-for-instagram-reel-success/"><u>2024 Approved Swift Strategies for Instagram Reel Success</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparative-review-nintendo-switch-lite-vs-nintendo-switch-oled-which-one-wins/"><u>Comparative Review: Nintendo Switch Lite Vs. Nintendo Switch OLED - Which One Wins?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-fujitsu-scansnap-ix1400-assessment-the-ideal-solution-for-compact-workspaces-and-smbs/"><u>Comprehensive Fujitsu ScanSnap iX1400 Assessment: The Ideal Solution for Compact Workspaces & SMBs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decoding-the-success-of-the-samsung-galaxy-tab-s7-a-review-catered-to-android-devotees/"><u>Decoding the Success of the Samsung Galaxy Tab S7 - A Review Catered to Android Devotees</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-12-mini-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 12 mini Device from iCloud</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/miniature-homes-6-top-oriental-designs-for-mcers/"><u>Miniature Homes 6 Top Oriental Designs for MCers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/skyrocket-view-counts-with-youtube-short-creation-techniques-for-2024/"><u>Skyrocket View Counts with YouTube Short Creation Techniques for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-gamers-guide-why-investing-in-a-ps5-is-a-smart-move-with-these-four-points/"><u>The Gamer's Guide: Why Investing in a PS5 Is a Smart Move with These Four Points</u></a></li>
 </ul></div>
 

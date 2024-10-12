@@ -1,7 +1,7 @@
 ---
 title: Kobo Clara Colour E-Reader Breakdown - A Detailed Review
-date: 2024-08-22T13:10:46.906Z
-updated: 2024-08-23T13:10:46.906Z
+date: 2024-10-05T17:58:53.115Z
+updated: 2024-10-12T18:58:26.075Z
 categories:
   - BestProducts
 description: This Article Describes Kobo Clara Colour E-Reader Breakdown - A Detailed Review
@@ -37,9 +37,23 @@ Lifewire / Andrew Hayward
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Activision Spyro Reignited Trilogy
 
 ![Spyro Reignited Trilogy](https://www.lifewire.com/thmb/gIxr7TBQJFRJXZlybz9ZXsvP7no=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Spyro-Reignited-Trilogy-Playstation-4-Game-1-c26ee668326743c2959657c3b99be25e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -69,8 +83,12 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Plot: Brave battles ahead**
 
  The original Spyro the Dragon finds the young dragon placed in a perilous situation when the evil Gnasty Gnorc uses his magic to crystalize every other dragon in the kingdom. You’ll travel across the five worlds of the Dragon Kingdom to rescue every dragon by freeing them with your fire breath—and then deal with Gnasty Gnorc once and for all.
@@ -83,9 +101,6 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Gameplay: Blazing, approachable action**
 
  Much of Spyro Reignited Trilogy’s gameplay is established in the first entry, which really sets the tone for the entire trilogy. All three games find players controlling Spyro himself, as you run around the worlds, jump over hazards and between platforms, breathe fire to attack or stun enemies, and charge forward to pummel foes and break through defenses.
@@ -106,11 +121,15 @@ Lifewire / Andrew Hayward
 
 ![Spyro Reignited Trilogy](https://www.lifewire.com/thmb/U1aCdzD7y9wloZO5KOWe2sP65uw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Spyro-Reignited-Trilogy-Playstation-4-Game-2-c085f6135aba41a3adb8125570b9a452.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: Beautifully reimagined**
 
  Spyro Reignited Trilogy is a beautiful-looking game that presents its fantasy worlds with a colorful, cartoonish allure. Each updated game keeps the core of the original experience, with the same level designs and enemy placements, but every single element has been given a visual overhaul. It’s much more than simply a fresh coat of paint, as the original PlayStation console could only produce jagged and very simplistic characters and worlds.
@@ -121,14 +140,8 @@ Lifewire / Andrew Hayward
 
 ![Spyro Reignited Trilogy](https://www.lifewire.com/thmb/p7QRTxTHPk0XUeuXo_6_IyBUlFI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Spyro-Reignited-Trilogy-Playstation-4-Game-7-95c21042cdf4499f97cec3abd9a1fdfb-06e6645f9618430ca169a4ddb91dac21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Kid Appropriate: It’s made for them**
 
  There’s very little to worry about with Spyro Reignited Trilogy. All three of these games were pretty kid-friendly back in the late ‘90s, and that hasn’t changed with the upgraded graphics. It’s an action experience, and Spyro will use his charge and fire attacks to defeat enemies, which quickly disappears from view. It’s all very cartoonish, however, and doesn’t look realistic at all.
@@ -136,8 +149,12 @@ Lifewire / Andrew Hayward
  The ESRB rates Spyro Reignited Trilogy as “Everything 10+” for “Cartoon Violence” and “Comic Mischief,” citing his attacks and also enemy Gnorc soldiers that briefly lift up the back flaps of their uniforms to “moon” Spyro before pointing and laughing. That might sound crude, but in the moment, it’s barely noticeable. We wouldn’t hesitate to give this game to kids under 10.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Three-for-one**
 
  Spyro Reignited Trilogy is a great value, packing in three completely remastered adventures at an MSRP of $40\. They certainly don’t look like old games, even if some newer platform-action games (like Super Mario Odyssey on Nintendo Switch) offer more variety and greater gameplay depth.
@@ -164,14 +181,11 @@ Lifewire / Andrew Hayward
 * Release Date  October 2018
 * Platforms  Nintendo Switch, Sony PlayStation 4, Microsoft Xbox One, Windows PC
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +194,23 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-your-ideal-facial-editor-ios-vs-android/"><u>[New] Finding Your Ideal Facial Editor IOS vs Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exposing-sham-numbers-the-danger-of-fabricated-youtube-views/"><u>[Updated] 2024 Approved Exposing Sham Numbers The Danger of Fabricated YouTube Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-audio-excellence-premium-recording-mics-ranked-for-2024/"><u>[Updated] Audio Excellence Premium Recording Mics Ranked for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beyond-basic-the-advanced-techniques-of-youtube-counts/"><u>[Updated] In 2024, Beyond Basic The Advanced Techniques of YouTube Counts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-safaris-picture-in-picture-settings-simplified/"><u>2024 Approved Safari’s Picture In Picture Settings Simplified</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/4-free-apps-to-record-windows-8-content-for-2024/"><u>4 Free Apps to Record Windows 8 Content for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apples-2020-iphone-se-assessed-the-perfect-blend-of-features-and-value/"><u>Apple's 2020 iPhone SE Assessed: The Perfect Blend of Features and Value</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decoding-wifi-6-does-the-tp-link-archer-ax6000-outperform-the-nighthawk-ax12/"><u>Decoding WiFi 6: Does The TP-Link Archer AX6000 Outperform the Nighthawk AX12?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-disparities-in-cloud-and-offline-windows-updates/"><u>Exploring Disparities in Cloud and Offline Windows Updates</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-beta-to-mainstream-the-current-state-and-future-prospects-of-google-stadia/"><u>From Beta to Mainstream: The Current State & Future Prospects of Google Stadia</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-pro-max-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 Pro Max iOS? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/meet-the-mp3-enthusiasts-choice-agptek-a01/"><u>Meet the MP3 Enthusiast's Choice - AGPTEK A01</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-mesh-wireless-routers-and-setups/"><u>Top Rated Mesh Wireless Routers and Setups</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-mavix-m9-gaming-throne-enduring-coziness-while-gaming/"><u>Ultimate Guide to the Mavix M9 Gaming Throne - Enduring Coziness While Gaming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-contrast-apples-ipad-pro-vs-microsoft-surface-pro-explored/"><u>Unveiling the Contrast: Apple's iPad Pro Vs. Microsoft Surface Pro Explored</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Hidden Insights: 20 Often-Missed Techniques for the Ultimate Nintendo Switch Experience"
-date: 2024-09-25T16:10:32.290Z
-updated: 2024-09-26T16:19:59.631Z
+date: 2024-10-08T16:28:23.590Z
+updated: 2024-10-12T18:54:40.495Z
 tags:
   - games
   - tv
@@ -49,10 +49,10 @@ Robert Griffey / How-To Geek
  But thanks to a small loophole courtesy of Nintendo, you can now access a broader selection of games by going to "System Settings" and simply changing the region under the "System" tab. Launch the eShop and grab whatever you like.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  Check Your Battery Life Anytime 
@@ -60,28 +60,15 @@ Robert Griffey / How-To Geek
  Have you looked up from your "just one quick _Hades_ run" only to realize that darkness has fallen? Double-checking the battery life of your Switch mid-game to avoid lost progress is easier than you'd expect. When you press and hold down the Home button, a quick menu will pop up and display the current battery life alongside other options.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Make Additional Profiles 
 
  You can circumvent the one-save-per-game crisis by creating extra user profiles. Go to System Settings > Users, and then select "Add User." Each profile maintains its own game progress and preferences, allowing you to experience different simultaneous playthroughs of your favorite games. We're looking at you, _Tears of the Kingdom_.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4  Find Hidden Sounds on Unlock Screen 
 
@@ -90,19 +77,6 @@ Robert Griffey / How-To Geek
 ## 5  Ease Eye Strain with Dark Mode 
 
 ![Nintendo Switch in Dark Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dark-mode.png) 
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Robert Griffey / How-To Geek
 
@@ -120,6 +94,13 @@ Robert Griffey / How-To Geek
 
  Did you know Nintendo’s Joy-Cons can also be paired with your trusty smartphone, Mac, or PC? Hold down the sync button on the Joy-Con until the lights start flashing—indicating it's in pairing mode—and connect it through the Bluetooth menu on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9  Use a USB Keyboard 
 
 ![Top view of the Alienware Pro Wireless Keyboard with the caps and switches removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/alienware-pro-wireless-keyboard-top.jpg) 
@@ -128,27 +109,20 @@ Jerome Thomas / How-To Geek
 
  Even with the comfortable size of the Switch's keyboard, touchscreen typing can feel a bit sterile. Thankfully, the Switch allows you to simply plug the keyboard of your choice into one of the USB ports on the dock. The console should be able to read it as a peripheral, and you are set for a more satisfying typing experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10  Find a Lost Joy-Con 
 
  Have you ever woken up after a wild night of caffeinated beverages and _Mario Kart 8 Deluxe_ to find that one of your Joy-Cons has disappeared? Head over to "Controllers" on the home screen and select "Find Controllers." Use the vibration function to help locate the missing controller.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11  Perform a Hard Reset 
 
  It's a rare occasion that a Switch will freeze to a degree that necessitates any action. If the situation arises, a hard reset should resolve most issues. Hold the power button down for about 12 seconds until the console powers off, wait a few moments, and then press the power button again to restart your system.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 12  Adjust Brightness Quickly 
 
@@ -160,31 +134,38 @@ Jerome Thomas / How-To Geek
 
 ![A Nintendo Switch face-down on a white tabletop with joy-cons surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/shutterstock_1154615047.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [saksorn kumjit/Shutterstock.com](https://www.shutterstock.com/image-photo/bangkok-thailand-august-12-2018-nintendo-1154615047)
 
  For all of us who are sent into a fit of rage by an A-mapped jump button, you can [customize your Joy-Con button layout](https://techno-recovery.techidaily.com/the-ultimate-list-5-best-video-editing-software-picks/) by going to System Settings > Controllers and Sensors, and then selecting "Change Button Mapping." From there, you can change the controls to suit your play style.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 14  Save Battery by Changing Sleep Settings 
 
  You can easily extend the battery life of your Switch by setting a shorter duration for sleep mode. Conserve power by going to System Settings > Sleep Mode, and choosing "Auto-Sleep (Playing on Console Screen)" and insulate yourself from the pitfalls of a dead-system surprise.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 15  See How Long You've Played a Game 
 
  Whether you're worried you've spent too much time speed-running _Metroid Dread_ or just need hard proof to win an argument with a significant other, you can check your playtime by selecting your user icon on the home screen and choosing "Profile." This will show you an estimate of the number of hours you've sunk into each game.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 16  Send a Screenshot to Your Phone with a QR Code 
 
@@ -199,6 +180,13 @@ Sydney Butler / How-To Geek
 The ROG Ally next to an OLED Nintendo Switch. Both devices offer impressive screens in their own right.
 
  Upgrading to an OLED Switch? Transfer user and save data to a new Switch by going to System Settings > Users, and then "Transfer Your User and Save Data." Follow the prompts to move data wirelessly between consoles.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 18  Turn on Your TV 
 
@@ -231,20 +219,22 @@ The ROG Ally next to an OLED Nintendo Switch. Both devices offer impressive scre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-adobe-premiere-power-enhancing-your-youtube-presence/"><u>[Updated] Adobe Premiere Power Enhancing Your YouTube Presence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-high-quality-edits-explore-these-9-cloud-apps/"><u>[Updated] In 2024, Free, High-Quality Edits Explore These 9 Cloud Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-world-of-youtube-live-visuals/"><u>2024 Approved Navigating the World of YouTube Live Visuals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/examining-the-huawei-p10-camera-and-display-capabilities/"><u>Examining the Huawei P10 Camera and Display Capabilities</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-resolve-amazon-prime-streaming-service-when-subtitles-fail-to-appear/"><u>How to Resolve Amazon Prime Streaming Service when Subtitles Fail to Appear</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-your-logitech-speaker-drivers-today-download-now-for-win11win7win8-systems/"><u>Install Your Logitech Speaker Drivers Today! Download Now for Win11/Win7/Win8 Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-trials-of-ruling-tropico-6-an-elite-island-management-simulation/"><u>Navigating the Trials of Ruling Tropico 6: An Elite Island Management Simulation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oculus-quest-2-review-easy-excellent-vr-at-an-amazing-price/"><u>Oculus Quest 2 Review: Easy, Excellent VR at an Amazing Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/panasonics-value-videoplusfeatures-marriage/"><u>Panasonic's Value: Video+Features Marriage</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/prime-car-power-rescue-kits-2024-edition/"><u>Prime Car Power Rescue Kits 2024 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sleek-design-smooth-travels-a-detailed-review-of-the-swagtron-swagger-e-scooter-for-modern-commuters/"><u>Sleek Design, Smooth Travels - A Detailed Review of the Swagtron Swagger E-Scooter for Modern Commuters</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/software-tweaks-for-bug-fixes-not-total-reimagining/"><u>Software Tweaks for Bug Fixes, Not Total Reimagining</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sony-wh-1000xm4-review/"><u>Sony WH-1000XM4 Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-potential-on-reddit-essential-post-guidelines-reviewed/"><u>Unleash Potential on Reddit Essential Post Guidelines Reviewed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/what-caused-the-guilty-gear-strive-postponement-insights-and-speculations/"><u>What Caused the Guilty Gear Strive Postponement? Insights & Speculations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-iphones-secret-to-time-extended-videography/"><u>[Updated] 2024 Approved IPhone's Secret to Time-Extended Videography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-download-igtv-videos-on-windows-pcmac-5-ways/"><u>[Updated] How to Download IGTV Videos on Windows PC/Mac? [5 Ways]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-10-best-youtube-makeup-artists-you-should-follow/"><u>[Updated] In 2024, 10 Best YouTube Makeup Artists You Should Follow</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-intimate-perspectives-with-team-zooms/"><u>[Updated] Intimate Perspectives with Team Zooms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-selection-optimal-free-and-paid-bd-players-for-windows-macos/"><u>2024 Approved Prime Selection Optimal Free & Paid BD Players for Windows, macOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-voice-communication-failures-in-cod-vanguard/"><u>Expert Advice on Fixing Voice Communication Failures in COD: Vanguard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-when-your-computer-runs-into-issues-with-windows-10-freezing/"><u>How to Fix When Your Computer Runs Into Issues with Windows 10 Freezing?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-11-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-review-a-closer-look-at-features-camera-and-more-on-google-pixel-6/"><u>Unboxing & Review: A Closer Look at Features, Camera, and More on Google Pixel 6</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-professional-photo-editing-skills-with-darktables-free-linux-and-macos-raw-processor/"><u>Unleash Professional Photo Editing Skills with Darktable's FREE Linux & macOS RAW Processor.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-budget-friendly-phones-with-a-moto-g-stylus-review/"><u>Unlocking the Potential of Budget-Friendly Phones with a Moto G Stylus Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-strengths-of-nokias-72-a-comprehensive-look-at-a-mid-range-market-disruptor/"><u>Unpacking the Strengths of Nokia's 7.2: A Comprehensive Look at a Mid-Range Market Disruptor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-high-performance-capabilities-of-fujitsus-ix1600-document-scanner-desktop-review/"><u>Unveiling the High-Performance Capabilities of Fujitsu's iX1600 Document Scanner - Desktop Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/what-is-elgoog/"><u>What Is elgooG?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wireless-ears-delight-at-economic-prices-senso-buds/"><u>Wireless Ears' Delight at Economic Prices: Senso Buds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/z7-review-nearly-perfect-practically-exceptional-photography/"><u>Z7 Review: Nearly Perfect, Practically Exceptional Photography</u></a></li>
 </ul></div>
 

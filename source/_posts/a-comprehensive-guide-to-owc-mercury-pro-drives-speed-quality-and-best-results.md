@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to OWC Mercury Pro Drives - Speed, Quality & Best Results
-date: 2024-08-22T13:08:00.595Z
-updated: 2024-08-23T13:08:00.595Z
+date: 2024-10-07T16:07:08.698Z
+updated: 2024-10-12T19:18:48.336Z
 categories:
   - BestProducts
 description: This Article Describes A Comprehensive Guide to OWC Mercury Pro Drives - Speed, Quality & Best Results
@@ -64,9 +64,12 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -89,9 +92,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
@@ -99,8 +99,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Reliable, accurate, quick and loud**
 
  When we tested the tire inflator, we took it on a road trip that took us to the states of Nevada, Utah, Idaho, and Wyoming. Along the way, we stopped at rural rest areas and gas stations. In order to use them in the circumstances, they were designed for. Throughout it all, the Kensun Portable Tire Inflator never failed to work when we needed it.
@@ -121,16 +125,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
 
  The Kensun Portable Tire Inflator is similar to the Jaco Digital Tire Inflator, they have similar cord and hose lengths, and can continually run for about half an hour. But the Kensun is more than twice the size of the Jaco, so it can deliver more power to fill your tires faster. Additionally, the Jaco lacks the ability to plug into an AC socket, so you can only use it in your car.
@@ -146,17 +151,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  AC/DC Portable Air Pump Tire Inflator
@@ -173,8 +173,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +180,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-expert-review-dynamic-action-recording-tools/"><u>[New] Expert Review Dynamic Action Recording Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-engaging-audiences-through-vimeo-shares/"><u>[Updated] 2024 Approved Engaging Audiences Through Vimeo Shares</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-12-pro-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 12 Pro 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-with-rich-features-discover-the-value-of-an-lg-24lh4480-smart-tv/"><u>Budget-Friendly with Rich Features: Discover the Value of an LG 24LH4480 Smart TV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/charting-the-course-for-aspiring-pilots-why-microsoft-flight-simulator-x-gold-still-soars-in-reviews/"><u>Charting the Course for Aspiring Pilots: Why Microsoft Flight Simulator X Gold Still Soars in Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-maistos-family-adventure-remote-controlled-rock-crawler-car/"><u>Expert Review of Maisto's Family Adventure Remote-Controlled Rock Crawler Car</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exquisite-choice-over-iphone-discover-why-skagen-falster-2-deserves-your-attention/"><u>Exquisite Choice Over iPhone? Discover Why Skagen Falster 2 Deserves Your Attention</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/galaxy-evolution-benchmarking-s24-ultra-against-its-predecessor-the-s23-ultra/"><u>Galaxy Evolution: Benchmarking S24 Ultra Against Its Predecessor, the S23 Ultra</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-virtual-reality-vr-gaming-accessories/"><u>In 2024, Top 8 Virtual Reality (VR) Gaming Accessories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unleash-your-potential-detailed-guide-for-ps4-recordings-with-obs/"><u>In 2024, Unleash Your Potential Detailed Guide for PS4 Recordings with OBS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722982856458-ios-15-ready-heres-how-to-achieve-it/"><u>IOS 15 Ready? Here's How to Achieve It!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-hugging-face-clarifying-its-essence-and-practical-uses/"><u>Navigating Through Hugging Face - Clarifying Its Essence & Practical Uses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-gen-writing-technology-hixplusgpt-4-duo/"><u>Next-Gen Writing Technology: HIX+GPT-4 Duo</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-using-the-portable-effective-and-sturdy-audew-air-compressor-pump-review-insights/"><u>The Ultimate Guide to Using the Portable, Effective & Sturdy AUDEW Air Compressor Pump - Review Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-low-frame-rate-and-gameplay-hiccups-on-naraka-bladepoint/"><u>Troubleshooting Low Frame Rate & Gameplay Hiccups on Naraka: Bladepoint</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-features-and-controls-on-your-blink-security-camera-hands-on-approach/"><u>Unlocking Features and Controls on Your Blink Security Camera - Hands-On Approach</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/winegards-flatwave-fl5500a-great-signal-high-price-point-in-depth-analysis/"><u>Winegard's FlatWave FL5500A: Great Signal, High Price Point - In-Depth Analysis</u></a></li>
+</ul></div>
 

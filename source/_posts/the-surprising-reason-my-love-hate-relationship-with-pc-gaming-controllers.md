@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers"
-date: 2024-09-25T16:36:29.767Z
-updated: 2024-09-26T16:29:10.978Z
+date: 2024-10-08T18:50:02.495Z
+updated: 2024-10-12T19:22:05.640Z
 tags:
   - games
   - tv
@@ -27,22 +27,15 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 
  I love gaming on my PC because there’s a wider selection of games, and I have a desktop that is more powerful than any console on the market. Despite this, I exclusively play games using a controller and avoid using my keyboard and mouse. That may sound blasphemous, but I have some good reasoning.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  The Pinky Problem 
 
 ![Fingers in awkward position on a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/fingers-in-awkward-position-on-a-keyboard.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
@@ -76,16 +69,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
  If you're interested in emulation, there are various [gamepads better suited for different types of emulated systems](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-by-drfone-ios/). That said, most emulators allow you to remap buttons, so you can adapt a single gamepad to mimic different controller layouts.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  A Lack of Vibration Feedback 
@@ -99,10 +86,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
  This is to say nothing of the modern haptic feedback seen on the PS5 DualSense controller with its adaptive triggers, and the rumble feedback that Xbox Core controllers feature in the triggers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  Not Ideal for Local Co-op or PvP 
@@ -118,6 +105,13 @@ Dibakar Ghosh / How-To Geek | Midjourney
  Then there's the logistical nightmare. If I'm on a keyboard and mouse, I need to be right in front of my PC. So where does my friend sit? Beside me, they're looking at the screen at an awkward angle. Behind me, they're basically watching the back of my head instead of the game. Granted, I have great hair, but that’s not the point.
 
  I've experienced this first-hand with _EA Sports FC 24_, my current go-to game for local multiplayer. But it translates to other titles like _Street Fighter_, _It Takes Two_, or _Overcooked_. Trust me, you don't want to play _Overcooked_ with one person on a gamepad and another fumbling with a keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6  I’m Tied to My Desk 
 
@@ -135,16 +129,22 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  By associating gaming with a gamepad and keeping it out of sight during work hours, I created just enough friction to resist sneaking into quick gaming sessions when work got challenging. I established a clear boundary: work mode is a keyboard and mouse, and play mode is a gamepad. It's simple, effective, and [keeps me disciplined](https://extra-information.techidaily.com/the-insiders-guide-to-captivating-youtube-headlines/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8  Because I Love My Keyboard and Mouse 
 
 ![Image of Keyboard and Mouse of a Deskpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/image-of-keyboard-and-mouse-of-a-deskpad.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek  
 
@@ -183,24 +183,22 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-free-video-editing-apps-for-iphonesipads/"><u>[New] In 2024, Essential Free Video Editing Apps for iPhones/iPads</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-superior-online-sound-devices-ranked-for-recording-2023/"><u>[New] In 2024, Superior Online Sound Devices Ranked for Recording 2023</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-marketing-unboxed-approaches/"><u>[Updated] In 2024, Marketing Unboxed Approaches</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-facebook-hashtags-for-strategic-marketing-for-2024/"><u>[Updated] Mastering Facebook Hashtags for Strategic Marketing for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oneplus-ace-2-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your OnePlus Ace 2 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-guide-correcting-260nci-wi-fi-adapters-usb-connection-error/"><u>Expert Guide: Correcting 260nCi Wi-Fi Adapter's USB Connection Error</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-your-play-the-philips-evonia-a-giant-leap-in-49-inch-gaming-monitors/"><u>Maximize Your Play: The Philips Evonia - A Giant Leap in 49-Inch Gaming Monitors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-productivity-with-onetastic-add-in-an-expert-review-for-microsoft-onenote/"><u>Maximizing Productivity with Onetastic Add-In - An Expert Review for Microsoft OneNote</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mkv-mjpeg-t1726233819816329/"><u>MKV를 MJPEG으로 자유성 간소화: 원활한 온라인 변환 방법</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-literature-with-apple-books-a-users-guide/"><u>Navigating Literature with Apple Books - A User's Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgear-nighthawk-x6-mesh-extender-a-detailed-review-on-its-cutting-edge-functionality/"><u>Netgear Nighthawk X6 Mesh Extender - A Detailed Review on Its Cutting-Edge Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-level-gaming-experience-with-the-asus-rog-rapture-gt-ax11000-an-in-depth-performance-evaluation/"><u>Next-Level Gaming Experience with the Asus ROG Rapture GT-AX11000: An In-Depth Performance Evaluation</u></a></li>
-<li><a href="https://facebook.techidaily.com/nine-methods-to-reset-and-secure-fb-password/"><u>Nine Methods to Reset and Secure Fb Password</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionary-value-how-the-caixun-75-4k-android-tv-delivers-quality-entertainment-at-a-bargain-price/"><u>Revolutionary Value: How the Caixun 75 4K Android TV Delivers Quality Entertainment at a Bargain Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionizing-readers-habits-with-the-high-quality-kobo-forma-tablet/"><u>Revolutionizing Readers' Habits with the High-Quality Kobo Forma Tablet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/screenshoting-made-easy-leveraging-ezvid-video-maker/"><u>Screenshoting Made Easy Leveraging Ezvid Video Maker</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/status-bt-assessment-economical-and-accessible-but-not-without-hitches/"><u>Status BT Assessment: Economical and Accessible but Not Without Hitches</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-in-class-unveiling-the-brilliance-of-the-samsung-qn55q6f-4k-hdr-tv-set/"><u>The Best in Class: Unveiling the Brilliance of the Samsung QN55Q6F 4K HDR TV Set</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-fraudulent-chatgpt-clones-that-threaten-to-hijack-your-information/"><u>Unveiling the Fraudulent ChatGPT Clones That Threaten to Hijack Your Information</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-aperture-authority-picking-the-top-10-camera-lenses/"><u>[New] Aperture Authority Picking the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-achieving-audiovisual-excellence-with-srt-and-mp4-the-ultimate-guide-for-2024/"><u>[Updated] Achieving Audiovisual Excellence with SRT and MP4 - The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-from-clicks-to-coins-mastering-the-art-of-earnings-through-fb-videos-for-2024/"><u>[Updated] From Clicks to Coins Mastering the Art of Earnings Through FB Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-hot-40-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Hot 40 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-restorative-slumber-the-ultimate-ihome-zenergy-bedside-machine-analysis/"><u>Discover Restorative Slumber: The Ultimate IHome Zenergy Bedside Machine Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-affordable-side-of-premium-pet-trackers/"><u>Discover the Affordable Side of Premium Pet Trackers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dissecting-godfall-why-sonys-initial-ps5-gamble-proves-bland/"><u>Dissecting Godfall: Why Sony's Initial PS5 Gamble Proves Bland</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-and-superb-performance-comprehensive-guide-to-fossils-sports-watches/"><u>Economical & Superb Performance - Comprehensive Guide to Fossil's Sports Watches</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/endlich-verstanden-losung-fur-die-langsame-icloud-backup-zeit/"><u>Endlich Verstanden: Lösung Für Die Langsame iCloud-Backup-Zeit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-ultimate-galaxy-at-war-with-star-wars-squadrons-game-analysis-and-review/"><u>Experience the Ultimate Galaxy at War with Star Wars Squadrons – Game Analysis and Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-reviews-top-choices-for-superior-range-wifi-routers-available/"><u>Expert Reviews: Top Choices for Superior Range WiFi Routers Available</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-days-gone-a-motorcyclists-perspective-on-surviving-a-zombie-outbreak/"><u>Exploring 'Days Gone': A Motorcyclist's Perspective on Surviving a Zombie Outbreak</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exploring-techniques-for-photo-based-tileworks/"><u>Exploring Techniques for Photo-Based Tileworks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-joys-and-challenges-in-pokemon-shining-pearl-gameplay/"><u>Exploring the Joys and Challenges in Pokémon Shining Pearl Gameplay</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-awesome-igtv-channels-that-deliver-quality-content/"><u>In 2024, Awesome IGTV Channels That Deliver Quality Content</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/protect-your-family-online-with-these-top-5-safe-web-guardians-including-malwarefox-substitutes/"><u>Protect Your Family Online with These Top 5 Safe Web Guardians, Including MalwareFox Substitutes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-driver-refresh-for-windows-7-and-below/"><u>USB Driver Refresh for Windows 7 & Below</u></a></li>
 </ul></div>
 

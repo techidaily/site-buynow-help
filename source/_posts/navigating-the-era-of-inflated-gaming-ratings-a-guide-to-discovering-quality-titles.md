@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles"
-date: 2024-09-25T16:02:22.276Z
-updated: 2024-09-26T16:03:16.073Z
+date: 2024-10-05T18:17:34.855Z
+updated: 2024-10-12T19:07:31.692Z
 tags:
   - games
   - tv
@@ -26,32 +26,25 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  So, if a video game score doesn't help you figure out where to spend your money, is there another way?
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Find a Reviewer Who Likes Games You Already Like
 
  Reviews are subjective, and attaching a score to them without a clear and consistent rubric might not be that smart to begin with. There are plenty of incredibly high-scoring games that I think are boring (Breath of the Wild) or barely games (Red Dead Redemption 2), which would make me an iconoclast in some cases. However, tehre are reviewers who have similar tastes to mine, so instead of worrying about an average score on Metacritic or what mainstream reviewers think of a game, try to find a reviewer who has given good scores to games you already love. Then look for games they've reviewed well to get an idea of what you should play next.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Read the Reviews, Not the Scores
 
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -62,15 +55,22 @@ Cianna Garrison / How-To Geek
 
  If you're reading reviews by other players, rather than professional reviewers, it's also worth looking at circumstantial information to get some context on their reviews. Did they post a gushing review five hours into a 100 hour game? Are they [console warring](https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-phone-and-remove-locked-screen-by-drfone-android/) in the review? Again, the substance of the review matters as well as some of what's between the lines.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Watch YouTube Gameplay
 
  There are tons of third-party gameplay videos of just about every game on YouTube. You may even prefer to watch clips with no commentary at all, so you can get an idea of what the minute-to-minute experience is like, without someone's opinion affecting you. Just be careful not to spoil the game for yourself. You may want to look for footage that's specifically labeled as spoiler-free, or that doesn't contain story content. It may also be a good idea to look at footage of the first hour of gameplay only, if you don't want any spoilers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Try a Demo or Play on a Subscription Service
@@ -98,17 +98,18 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-the-power-of-symbolism-in-crafting-effective-podcast-logos/"><u>[New] The Power of Symbolism in Crafting Effective Podcast Logos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-remedying-unexpected-oneself-display-during-online-interactions/"><u>[Updated] In 2024, Remedying Unexpected Oneself Display During Online Interactions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-flaunt-your-funny-side-the-art-of-using-cartoon-snaps-on-snapchat/"><u>2024 Approved Flaunt Your Funny Side The Art of Using Cartoon Snaps on Snapchat</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-value-of-a-million-viewing-spree-on-youtube/"><u>2024 Approved The Value of a Million-Viewing Spree on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-solution-for-neros-advrcntr2dll-file-missing-problem/"><u>Complete Solution for Nero's advrcntr2.dll File Missing Problem</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/decoding-the-mystery-of-facebook-data-a-novices-handbook-for-2024/"><u>Decoding the Mystery of Facebook Data A Novice’s Handbook for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/preparing-to-purchase-9-critical-queries-every-prospective-ev-owner-should-contemplate/"><u>Preparing to Purchase: 9 Critical Queries Every Prospective EV Owner Should Contemplate</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/resolving-poor-image-quality-on-facebook-live-feeds/"><u>Resolving Poor Image Quality on Facebook Live Feeds</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-overview-dynamic-team-based-shooter-with-unparalleled-fun-factor/"><u>Top Overview: Dynamic Team-Based Shooter with Unparalleled Fun Factor</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-notch-sleep-technology-the-perfect-way-to-unwind/"><u>Top-Notch Sleep Technology: The Perfect Way to Unwind</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/topmost-free-substitutes-for-microsoft-office/"><u>Topmost Free Substitutes for Microsoft Office</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/transforming-paperwork-the-ultimate-review-of-fujitsu-scansnap-ix1400-for-personal-and-sme-use/"><u>Transforming Paperwork: The Ultimate Review of Fujitsu ScanSnap iX1400 for Personal & SME Use</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-ultimate-guide-achieving-professional-sound-without-a-mic/"><u>[New] 2024 Approved The Ultimate Guide Achieving Professional Sound without a Mic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-premium-gif-software-for-iphone-users/"><u>[Updated] Exploring Premium GIF Software for iPhone Users</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-c53-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-memory-efficiency-with-edge-webview2-fixes/"><u>Enhancing Memory Efficiency with Edge WebView2 Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-gt-3-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme GT 3? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-14-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oneplus-nord-n100-reviewed-a-value-packed-phone-without-breaking-the-bank/"><u>OnePlus Nord N100 Reviewed - A Value-Packed Phone Without Breaking the Bank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/priorities-in-picking-an-immersive-vr-device/"><u>Priorities in Picking an Immersive VR Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/razers-game-changer-a-comprehensive-review-of-the-portable-and-potent-book-n-13-laptop/"><u>Razer's Game Changer: A Comprehensive Review of the Portable and Potent Book N 13 Laptop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/redefining-audio-quality-with-samsung-galaxy-buds-pro/"><u>Redefining Audio Quality with Samsung Galaxy Buds Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-mapping-drives-in-macos/"><u>Step-by-Step Guide: Mapping Drives in macOS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stylish-and-trendy-ride-expert-evaluation-of-the-swagtron-swagger-electric-scooter-for-urban-commuters/"><u>Stylish & Trendy Ride: Expert Evaluation of the Swagtron Swagger Electric Scooter for Urban Commuters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-6-best-antivirus-apps-for-iphones/"><u>The 6 Best Antivirus Apps for iPhones</u></a></li>
 </ul></div>
 

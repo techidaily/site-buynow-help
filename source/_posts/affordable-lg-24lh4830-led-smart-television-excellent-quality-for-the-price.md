@@ -1,7 +1,7 @@
 ---
 title: Affordable LG 24LH4830 LED Smart Television - Excellent Quality for the Price
-date: 2024-08-22T13:09:03.219Z
-updated: 2024-08-23T13:09:03.219Z
+date: 2024-10-05T17:35:30.256Z
+updated: 2024-10-12T17:53:46.592Z
 categories:
   - BestProducts
 description: This Article Describes Affordable LG 24LH4830 LED Smart Television - Excellent Quality for the Price
@@ -37,6 +37,13 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AmazonBasics Ultra-Thin Antenna
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
@@ -62,9 +69,6 @@ Lifewire / Erika Rawes
 
  Indoor TV antennas, like the AmazonBasics Indoor Flat TV Antenna, can provide you with free broadcast TV channels. Once you pay the upfront cost for the antenna you’re not stuck with any monthly fees for your local channels. The[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) are nothing like the bunny ear style antennas from back in the day. The picture quality is comparable to what you’d get from the cable company or streaming service—or it's supposed to be. I tested the ultra-affordable AmazonBasics Indoor Flat TV Antenna for a week to see if its design, setup, and performance make it a viable option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: It’s all in the name (basic)**
 
  The AmazonBasics Antenna has a slim design—it’s about as thin as card stock at approximately one-tenth of an inch in thickness. It’s constructed of sturdy plastic, with a reversible black and white side to help it fit better with your home’s decor. It’s not the most attractive antenna, and the backboards smudge and show grease and fingerprints.
@@ -73,9 +77,6 @@ Lifewire / Erika Rawes
 
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## **Setup: Relatively easy**
 
  Setting up the antenna is pretty straightforward. You start by plugging one end of the coaxial cable into the antenna, and then the other end to the coaxial/antenna-in connector to your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) .
@@ -86,10 +87,14 @@ Lifewire / Erika Rawes
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Almost two dozen channels (in a rural area)**
 
@@ -99,14 +104,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## **Range: 35 miles**
 
  The AmazonBasics antenna has a 35-mile range, which isn’t very far considering 50 plus miles is becoming more common. It is omnidirectional, however, so you don’t need to point it in a specific direction. It supports UHF/VHF, so I was able to get a decent selection of channels.
@@ -116,8 +113,12 @@ Lifewire / Erika Rawes
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Super affordable**
 
  The AmazonBasics Flat TV antenna sells in used condition on Amazon for only $13\. In new condition, it sells for $20, which is still a great deal. However, you can find other affordable antennas for between $20 and $50 that provide a much longer range, and many offer additional features, like a longer cable. With the AmazonBasics model, you can return the unit within 30 days if it doesn’t work in your area.
@@ -127,8 +128,12 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **AmazonBasics Indoor TV Antenna vs. Antop AT-127 Antenna**
 
  The Antop AT-127 (see[online](https://www.lowes.com/pd/ANTOP-Omni-Directional-Indoor-HD-UHF-VHF-TV-Antenna/1000503257?) ) is a 40-mile range antenna that sells for around $35\. It’s one of the better-looking antennas I’ve seen, as it’s reversible with faux light wood and dark wood sides. Unlike the AmazonBasics antenna, the Antop comes with a stand, and it has an easy-push connector for faster setup. These features go some ways towards justifying the Antop's higher price tag.
@@ -155,14 +160,11 @@ Lifewire / Erika Rawes
 * Ports  Coax
 * Cable length  10-foot Coax Cable
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -171,4 +173,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-ultimate-discord-spoiler-tag-reference/"><u>[New] 2024 Approved The Ultimate Discord Spoiler Tag Reference</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-1-ranked-youtube-to-text-online-service/"><u>[Updated] 2024 Approved 1 Ranked YouTube to Text Online Service</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-crafting-compelling-youtube-narratives-with-chapters-and-subsections/"><u>2024 Approved Crafting Compelling YouTube Narratives with Chapters and Subsections</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-the-best-prices-on-vr-headsets-from-china/"><u>2024 Approved Finding the Best Prices on VR Headsets From China</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-the-premier-stylus-tablets-of-202n-features-specs-and-expert-reviews-zettanet/"><u>Comprehensive Guide to the Premier Stylus Tablets of 202N - Features, Specs, and Expert Reviews | ZettaNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-leading-netgear-router-models-for-optimal-performance/"><u>Discover the Leading Netgear Router Models for Optimal Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-full-potential-of-garmin-vivosmart-4-insight-into-energy-level-tracking-and-stress-monitoring-tech/"><u>Exploring the Full Potential of Garmin Vivosmart 4: Insight Into Energy Level Tracking and Stress Monitoring Tech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-novice-to-pro-mastering-lenovos-capture-capabilities/"><u>From Novice to Pro Mastering Lenovo's Capture Capabilities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-gt-5-240w-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme GT 5 (240W) to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-sync-your-android-phone-with-a-windows-pc/"><u>How to Sync Your Android Phone With a Windows PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/jumpstart-on-windows-11-upgrade-from-10-guidebook/"><u>Jumpstart on Windows 11: Upgrade From 10 Guidebook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/marvels-spider-man-miles-morales-review/"><u>Marvel’s Spider-Man: Miles Morales Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/score-big-on-tribit-unbeatable-sale-prices-during-amazons-prime-week-event/"><u>Score Big on Tribit: Unbeatable Sale Prices During Amazon's Prime Week Event</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screen-recorder-showdown-features-and-prices-compared-for-2024/"><u>Screen Recorder Showdown Features and Prices Compared for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-hp-omen-obelisk-reviewed-high-performance-meets-great-affordability-for-serious-gamers/"><u>The HP Omen Obelisk Reviewed – High Performance Meets Great Affordability for Serious Gamers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nfographic-lens-on-2017s-youtube-numerical-truths/"><u>The Infographic Lens on 2017'S Youtube Numerical Truths</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-sx620-hs-a-blend-of-functionality-and-portability/"><u>The SX620 HS: A Blend of Functionality and Portability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tablets-face-off-amazon-fire-tablet-vs-ipad-which-fits-you-best/"><u>Top Tablets Face-Off: Amazon Fire Tablet Vs. IPad – Which Fits You Best?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-sea-tech-blu-ray-writer-with-usb-interface-a-review-of-its-reliability-and-functionality/"><u>Unpacking the Sea Tech Blu-Ray Writer with USB Interface: A Review of Its Reliability & Functionality</u></a></li>
+</ul></div>
 

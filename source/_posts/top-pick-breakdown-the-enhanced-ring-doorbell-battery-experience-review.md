@@ -1,7 +1,7 @@
 ---
 title: "Top Pick Breakdown: The Enhanced Ring Doorbell Battery Experience Review"
-date: 2024-08-22T13:11:45.852Z
-updated: 2024-08-23T13:11:45.852Z
+date: 2024-10-06T16:42:49.595Z
+updated: 2024-10-12T16:30:51.169Z
 categories:
   - BestProducts
 description: "This Article Describes Top Pick Breakdown: The Enhanced Ring Doorbell Battery Experience Review"
@@ -44,6 +44,13 @@ Lifewire / Matthew S. Smith
 
 ![Lenovo ThinkPad X1 Titanium Yoga](https://www.lifewire.com/thmb/ztk5VWzqM5cA2O8UpUWNOxiQOKI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Lenovo-ThinkPad-X1-Titanium-Yoga-1-eed9ce854c7c4e45b1b1312abc4db01e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Matthew S. Smith
 
 [View On Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Flaptops%2Fthinkpad%2Fthinkpad-x1%2FX1-Titanium-G1%2Fp%2F22TP2X1X1T1)
@@ -80,18 +87,6 @@ Lifewire / Matthew S. Smith
 
 ![Lenovo ThinkPad X1 Titanium Yoga](https://www.lifewire.com/thmb/E8GYytfe0kZjbTrwpxN0b8N5aC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-ThinkPad-X1-Titanium-Yoga-6-365b06caa6e14007bf0655d04828722e.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Matthew S. Smith
 
  Unfortunately, titanium doesn’t lead to outstanding rigidity. The material isn’t used throughout the entire chassis. That, along with the 2-in-1’s thin profile, allows noticeable flex when handling the laptop. It’s a disappointing trait in a laptop that sells north of $1,500.
@@ -106,9 +101,6 @@ The X1 Titanium Yoga is the thinnest ThinkPad, ever.
 
 ![Lenovo ThinkPad X1 Titanium Yoga](https://www.lifewire.com/thmb/Rrg_1tXEwECo-FxywmPXf75MNgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-ThinkPad-X1-Titanium-Yoga-4-39b12a29a7294d1ebd963669e3d50cc2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Lifewire / Matthew S. Smith
 
 ## Display: It’s hip to be (almost) square
@@ -119,12 +111,16 @@ Lifewire / Matthew S. Smith
 
 ![Lenovo ThinkPad X1 Titanium Yoga](https://www.lifewire.com/thmb/YsLLj2-yQBwEq2GnyyHBwN5giFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-ThinkPad-X1-Titanium-Yoga-2-f732e0f2d9e24718a3bc28338febae40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 Lifewire / Matthew S. Smith
 
  Aspect ratio aside, the display isn’t remarkable. It’s an IPS touchscreen with 2256x1504 resolution, leading to a mediocre pixel density of 201 pixels per inch. That’s not as sharp as the optional 4K displays found on similarly priced alternatives like[Dell’s XPS 13 2-in-1](https://www.lifewire.com/dell-xps-13-7390-2-in-1-review-5113106) . The display has good color accuracy and a respectable contrast ratio of 1000:1, but the same can be said of nearly every alternative from the XPS 13 2-in-1 to[Apple’s MacBook Pro](https://www.lifewire.com/macbook-pro-13-inch-m1-2020-review-5092658) and HP’s Spectre x360 14\.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance: More than meets the eye
 
@@ -150,9 +146,29 @@ Lifewire / Matthew S. Smith
 
 ![Lenovo ThinkPad X1 Titanium Yoga](https://www.lifewire.com/thmb/GXZFQjT0E2Wwq-MXSfXK1Z-M_bo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-ThinkPad-X1-Titanium-Yoga-3-dad8616d7a0c49818a505ae7ebd963cf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Matthew S. Smith
 
  Lenovo’s Precision Pen is supported and, in some regions, included in the box. If not, it’s sold separately for $60, which is more affordable than most of its competitors. The Precision Pen supports 4,096 levels of pressure sensitivity and feels smooth, but it's not as attractive or balanced as[Apple’s Pencil](https://www.lifewire.com/review-apple-pencil-3887601) or Microsoft’s Surface Pen.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery: A full workday, barely
 
@@ -160,18 +176,12 @@ Lifewire / Matthew S. Smith
 
 ![Lenovo ThinkPad X1 Titanium Yoga](https://www.lifewire.com/thmb/zQoHdGylVNfGuaNw_HuTrG9E_zw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-ThinkPad-X1-Titanium-Yoga-5-2950b0f7d45f40be805a495cf8d2d219.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 Lifewire / Matthew S. Smith
 
  Battery life is extended through a feature called Human Presence Detection. It uses the laptop’s IR camera to detect whether you’re using the laptop and, if not, go into standby to conserve power. The IR camera also supports[Windows Hello facial recognition login](https://www.lifewire.com/what-is-windows-hello-4782168) . This 2-in-1 can detect you, resume from standby, and log you in without touching a single key.
 
  Fast charging is supported, with Lenovo saying that 30 minutes of charging will provide up to 4 hours of battery life. My testing found this was accurate.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Audio: Clear, crisp, and pointed in the right direction
 
  A pair of 2-watt forward-facing speakers serve the ThinkPad X1 Titanium Yoga’s audio. They’re reasonably loud at maximum volume but have trouble overcoming ambient noise, such as a nearby air conditioner or box fan. They provide clear dialogue and reasonably enjoyable music.
@@ -186,6 +196,13 @@ Lifewire / Matthew S. Smith
 
  However, the laptop only hit 25Mbps to 40Mbps in my detached office, which is about 40 feet from a powerful Wi-Fi 6 compatible mesh router node. It’s a disappointing result, as a desktop with a Wi-Fi 5 adapter exceeds 100Mbps in the same location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Camera: Making the most of 720p
 
  Need to make a video call? The ThinkPad X1 Titanium Yoga’s webcam won’t impress with its sharpness, but the camera is better than most at achieving an attractive, well-balanced image. It’s perfectly usable for meetings or chatting with friends on Zoom.
@@ -196,9 +213,6 @@ Lifewire / Matthew S. Smith
 
  Want privacy? The camera has a physical privacy switch that covers the camera. It only covers the 720p webcam, however: the IR sensor remains uncovered and continues to function when the privacy switch is engaged.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Software: No bloat here
 
  All ThinkPad X1 Titanium Yoga models ship with Windows 10 Pro. Microsoft’s operating system.[Windows 10](https://www.lifewire.com/windows-10-2626217) is an exceptional desktop operating system with great built-in multitasking features and the best app compatibility of any operating system available on a 2-in-1\. I doubt most ThinkPad buyers want another operating system even if it were available.
@@ -208,15 +222,23 @@ Lifewire / Matthew S. Smith
  Lenovo bundles a variety of software, such as Lenovo Commercial Vantage and Lenovo Pen Access, to handle proprietary features like Human Presence Detection. The software isn’t obtrusive and can be entirely ignored if you’d like. The 2-in-1 is otherwise free from bloatware including third-party antivirus software.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Price: Secretly competitive
 
  Prices for the Titanium Yoga X1 go from $1,685 and upwards depending on configuration and coupons, but the upgrades provided by these models are limited to a slightly faster Intel Core i7-1160G7 processor and up to 1TB of solid-state storage. My review unit, which was the $3,369 MSRP model with Core i5 processor, 16GB of RAM, and 512GB solid-state drive, should work for most buyers. At the time of this writing, it's also available for a hefty discount.
 
 <!-- affiliate ads begin -->
-
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Lenovo ThinkPad X1 Titanium Yoga vs. Dell XPS 13 2-in-1
 
  Dell’s XPS 13 2-in-1 is a strong competitor and arguably the best premium Windows 2-in-1 on the market today. Despite the Titanium’s use of its namesake metal, the XPS 13 2-in-1 feels more robust and looks more attractive. The Dell is slightly thicker at 0.51 inches and is heavier at 2.9 pounds. The XPS 13 2-in-1 also holds an advantage in resolution thanks to an option 4K display.
@@ -235,9 +257,6 @@ Lifewire / Matthew S. Smith
 
  The Lenovo ThinkPad X1 Titanium Yoga doesn’t feel as premium as its price suggests, but it’s a highly functional and powerful 2-in-1 that will please frequent travelers. The display’s 3:2 aspect ratio is great for multitasking and the keyboard is enjoyable to use for hours at a time. 2-in-1 shoppers looking for a larger display than a typical 12 or 13-inch widescreen device, without the weight and size of a 14-inch alternative, should give the X1 Titanium Yoga serious consideration.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Lenovo Thinkpad X12 Detachable](https://www.lifewire.com/lenovo-thinkpad-x12-detachable-review-5176484)
@@ -273,8 +292,6 @@ Lifewire / Matthew S. Smith
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,4 +299,19 @@ Lifewire / Matthew S. Smith
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamlined-selection-top-10-efficient-vimeo-downloaders-for-2024/"><u>[New] Streamlined Selection Top 10 Efficient Vimeo Downloaders for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-dynamic-unpriced-visual-bonding-games-for-2024/"><u>[Updated] Dynamic Unpriced Visual Bonding Games for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-complete-guide-to-enhancing-tiktok-bio-with-linktree-for-2024/"><u>[Updated] The Complete Guide to Enhancing TikTok Bio with Linktree for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-amazonbasics-flat-antenna-for-economical-high-def-tv-streams/"><u>Comprehensive Analysis of the AmazonBasics Flat Antenna for Economical High-Def TV Streams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-reviews-on-samsungs-latest-premium-tab-s7plus-an-android-marvel/"><u>Expert Reviews on Samsung's Latest Premium Tab S7+ - An Android Marvel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-methods-for-time-loop-illusions-for-2024/"><u>Innovative Methods for Time Loop Illusions for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastery-in-your-hands-the-ultimate-xp-pen-artist-16-pro-digital-brushboard-review/"><u>Mastery in Your Hands: The Ultimate XP-Pen Artist 16 Pro Digital Brushboard Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-write-operations-failure-fixes-on-windows/"><u>Overhauling Write Operations Failure Fixes on Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-havit-5-laptop-chiller-stay-cool-while-gaming/"><u>Ultimate Guide to the HAVIT 5 Laptop Chiller: Stay Cool While Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-for-preventing-fifa-20-from-crashing-on-your-computer/"><u>Ultimate Troubleshooting for Preventing FIFA 20 From Crashing on Your Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/workout-sessions-enhanced-by-live-music-on-the-garmin-vivoactive-3-tracker/"><u>Workout Sessions Enhanced by Live Music on the Garmin Vivoactive 3 Tracker</u></a></li>
+</ul></div>
 

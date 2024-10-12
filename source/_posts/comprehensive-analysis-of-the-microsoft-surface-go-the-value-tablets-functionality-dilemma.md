@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of the Microsoft Surface Go: The Value Tablet's Functionality Dilemma"
-date: 2024-08-22T13:12:28.783Z
-updated: 2024-08-23T13:12:28.783Z
+date: 2024-10-06T17:34:13.587Z
+updated: 2024-10-12T17:38:10.083Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Analysis of the Microsoft Surface Go: The Value Tablet's Functionality Dilemma"
@@ -39,6 +39,13 @@ Lifewire / Emily Isaacs
 
 4.9
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Microsoft Surface Ergonomic Keyboard
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/OTYRC4PtfZO9h5RTG8oHiroYrDg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_HeroSquare-3ef573df092942b58b61bf36ce218fb3.jpg)
@@ -64,9 +71,6 @@ Lifewire / Emily Isaacs
 
  Microsoft is no stranger to computers and their accessories, and it’s obvious with the Microsoft Surface Keyboard that they’ve put a considerable amount of thought into its design. This[ergonomic keyboard](https://www.lifewire.com/best-ergonomic-keyboards-4147386) is not only built with high-quality materials to ensure its longevity, but it’s comfortable and intuitive to use. We tested this keyboard over the period of a week, read on to see what we found.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## **Design: Sleek and comfortable**
 
  The Surface is a sleek ergonomic keyboard and a welcome addition to the Microsoft family. Like many ergonomic keyboards, it’s designed to help your wrists sit at an instinctive, comfortable angle that encourages natural movement to prevent[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) . The keys have a slight divot in the center so fingers naturally conform to their shape, making the keys comfortable and easy to type on.
@@ -74,8 +78,18 @@ Lifewire / Emily Isaacs
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/XepNCNj18GnNs8V1INrxR7tnMGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_04-1edde9a5b2264b4abb528945ffae167f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  The sloped, ergonomic design is built using high-quality, tactile materials that are not only intuitive to type on, but oddly satisfying as well. As with anything new, there’s still a period of adjustment, but we didn’t find the change to be a jarring experience. The Surface has the added bonus of featuring Alcantara fabric, a proprietary Italian material that’s a combination of polyester and polyurethane with a suede-like feel to it. It uses the Alcantara fabric as part of the wrist pad making it not only and soft to the touch, but easy to clean and maintain as well.
@@ -94,9 +108,6 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/ZSG5mlPcHiYuas0N_9ZNOnjgXyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_03-67125265491a47d797763ee0b408f463.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
 ## **Features: Well-conceived function keys**
@@ -110,8 +121,12 @@ Lifewire / Emily Isaacs
  The keyboard features Bluetooth 4.0 technology, so it’s able to establish a wireless connection of up to 32 feet with Bluetooth-capable devices.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Expensive, but worth it for the quality**
 
  Retailing for $129 (MSRP) or around $99 on Amazon, the Surface is a pricey little keyboard. Between the quality of the build materials, the comfort of the keyboard’s design, its wireless capabilities, and its great battery life, the Surface is a worthwhile investment for people who spend a significant amount of time in front of a PC. If you don’t spend much time on your PC, however, a cheaper, non-ergonomic model may be a better fit.
@@ -124,9 +139,6 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/V-eFQKJrpei_UnaKMYDEWLLNsYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_02-4fa6aa53c9d249a6900cb4058b084301.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
  A second version of the Sculpt is available for this same $129 price point, the notable difference being that it includes a wireless mouse which associates to the computer through the keyboard’s encrypted dongle. If you have limited[USB ports](https://www.lifewire.com/what-is-a-usb-port-818166) , this may be especially appealing to you.
@@ -144,9 +156,18 @@ Lifewire / Emily Isaacs
  The Microsoft Surface Ergonomic Keyboard is a quality, wireless ergonomic keyboard that’s well worth the investment if you spend a significant portion of your time typing on your computer. It’s a splurge to be sure, but it’s worth the price for the quality you receive.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Surface Ergonomic Keyboard
@@ -169,8 +190,6 @@ Lifewire / Emily Isaacs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +197,26 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/ais-comedy-craft-journey-from-portable-computers-to-secure-internet-connections/"><u>AI's Comedy Craft: Journey From Portable Computers to Secure Internet Connections</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-jackery-powerbar-unit-featuring-inbuilt-ac-socket/"><u>Comprehensive Guide to the Jackery PowerBar Unit Featuring Inbuilt AC Socket</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-leading-key-discovery-devices-of-2024/"><u>Exploring the Leading Key Discovery Devices of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-examination-of-the-asus-zephyrus-g14-uncompromised-power-for-gamers/"><u>In-Depth Examination of the Asus Zephyrus G14: Uncompromised Power for Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-style-meets-utility-in-the-fitbit-charge-4-wearable/"><u>In-Depth Review: How Style Meets Utility in the Fitbit Charge 4 Wearable</u></a></li>
+<li><a href="https://win-dash.techidaily.com/itunesmp4/"><u>ITunesを使用してMP4ファイル動画の再生問題：その理由と解決法</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigate-through-2024s-top-computer-brand-landscapes/"><u>Navigate Through 2024'S Top Computer Brand Landscapes</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-not-available-status-codes-in-windows-os/"><u>Resolving 'Not Available' Status Codes in Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/script-writing-revolution-chatgpt/"><u>Script Writing Revolution: ChatGPT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-up-your-internet-game-with-netgear-nighthawk-rax80-a-complete-guide-to-its-features-and-performance/"><u>Step Up Your Internet Game with Netgear Nighthawk RAX80 - A Complete Guide to Its Features and Performance</u></a></li>
+<li><a href="https://fox-info.techidaily.com/strategies-for-procuring-high-quality-clip-art-with-no-cost-for-2024/"><u>Strategies for Procuring High-Quality Clip Art with No Cost for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unihertz-atom-xl-small-in-size-but-mighty-in-features-and-reliability/"><u>The Unihertz Atom XL: Small in Size but Mighty in Features and Reliability</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-free-easy-to-use-srt-translation-services-explored-for-2024/"><u>Top Free, Easy-to-Use SRT Translation Services Explored for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-solutions-for-smooth-video-streams/"><u>Ultimate Solutions for Smooth Video Streams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-of-the-garmin-forerunner-45-your-ideal-companion-for-tracking-running-performance/"><u>Unveiling the Benefits of the Garmin Forerunner 45: Your Ideal Companion for Tracking Running Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-newest-features-in-amazons-latest-echo-device-the-4gen-update/"><u>Unveiling the Newest Features in Amazon's Latest Echo Device - The 4Gen Update</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/willful-m98-review-an-affordable-bluetooth-headset-for-truckers/"><u>Willful M98 Review: An Affordable Bluetooth Headset For Truckers</u></a></li>
+</ul></div>
 

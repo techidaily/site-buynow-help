@@ -1,7 +1,7 @@
 ---
 title: The Definitive Ranking of Superior External Blu-Ray Drives to Upgrade Your Setup in 지난해 2024
-date: 2024-08-27T06:38:42.655Z
-updated: 2024-08-28T06:38:42.655Z
+date: 2024-10-07T17:10:38.398Z
+updated: 2024-10-12T16:30:57.661Z
 categories:
   - BestProducts
 description: This Article Describes The Definitive Ranking of Superior External Blu-Ray Drives to Upgrade Your Setup in 지난해 2024
@@ -38,6 +38,13 @@ Lifewire / Emily Isaacs
 
 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nintendo Game & Watch: Super Mario Bros
 
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/Gqz0Wb1wB-1ecipbSoEbqeuT3EU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_HeroSquare-c0176be04bfb4d83b2f7724b1332c18b.jpg)
@@ -65,9 +72,6 @@ Lifewire / Emily Isaacs
 
  What better way to celebrate both of their birthdays than by bringing both titles together for a self-contained wombo-combo celebrating their 40th and 35th anniversaries respectively? I put the handheld to the test for three weeks.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Retro, bold look & feel
 
  From the moment you pick up and pop open the box, the design oozes old-school cool and nostalgia. It’s a special edition release—and it feels like it. Intentionally stylized black and gold packaging, which resembles the retro feel of the 1980s Game & Watch classic titles, is a familiar and warm return to an era.
@@ -81,8 +85,12 @@ Lifewire / Emily Isaacs
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/RGM_gLdIp2jvsVG5LhRKLVw0nho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_04-f94be735a5644020b52656e67a6c0465.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
  Nintendo Game & Watch: Super Mario Bros. arrives in a small package that is lovingly designed in the Game & Watch family feel. In addition to the instructional care packet, it also includes a charging cable. Some long-time Nintendo fans may be inclined to keep the box, due to the Game & Watch’s collectible nature.
@@ -94,13 +102,14 @@ Lifewire / Emily Isaacs
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/IzTLcGKhslJLE9YpMMkMKBV1BME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_03-5ca824e25f85464a83c9187541b0f059.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Gameplay: Challenging, but fun
 
  The Game & Watch: Super Mario Bros. is preloaded with Super Mario Bros., Super Mario Bros. 2 (also known as The Lost Levels), and Ball_,_ the foremost title in the Game & Watch series. Also included are 35 hidden interactions, which make the standard Watch mode a joy as well.
@@ -111,9 +120,6 @@ Lifewire / Emily Isaacs
 
  The Ball game is the only included Game & Watch title in the product. Balls bounce back and forth in the air as you juggle them to keep them from hitting the ground. Instead of the classic Ball character design, Mario’s head has been superimposed on the character. It’s a much simpler game, and it’s OK, but this game loses its allure fairly quickly due to the repetitive gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Audio: Surprisingly loud and crisp
 
  The included mono speaker is surprisingly loud and crisp, emitting 8-bit chiptunes. It’s located on the left-hand side of the device, nestled into the case’s trim. While I thought my hands might get in the way and block the sound a bit during play, that didn’t turn out to be true.
@@ -124,7 +130,21 @@ Lifewire / Emily Isaacs
 
 ![Nintendo Game & Watch: Super Mario Bros.](https://www.lifewire.com/thmb/PvTcnsQLDp7SFCPIeHreGfS-dgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo_GameWatch_05-01b731a5406d4cbfa37be90277c6e89b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: Great value for the price
 
@@ -156,9 +176,6 @@ Lifewire / Emily Isaacs
 * [Xbox One X](https://www.lifewire.com/xbox-one-x-review-4707143)
 * [PlayStation 4 Pro](https://www.lifewire.com/playstation-4-pro-review-4707193)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Game & Watch: Super Mario Bros.
@@ -181,8 +198,6 @@ Lifewire / Emily Isaacs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +205,16 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ultimate-guide-to-eye-catching-after-effects-texture/"><u>[New] In 2024, Ultimate Guide to Eye-Catching After Effects Texture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-photovideo-recovery-on-snapchat-for-2024/"><u>[Updated] Quick Photo/Video Recovery on Snapchat for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-outer-worlds-an-engaging-sci-fi-adventure-game/"><u>Exploring 'The Outer Worlds': An Engaging Sci-Fi Adventure Game</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-the-ultimate-guide-to-mastering-onetastic-add-in-for-microsoft-onenote/"><u>In-Depth Analysis: The Ultimate Guide to Mastering Onetastic Add-In for Microsoft OneNote</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/new-production-pros-softbox-studio-review/"><u>New Production Pros: SoftBox Studio Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/reigniting-the-social-sphere-how-to-amplify-instagram-activity/"><u>Reigniting the Social Sphere How to Amplify Instagram Activity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-unfolds-with-samsung-galaxy-z-fold-6-a-look-at-its-specs-release-date-and-market-price/"><u>The Future Unfolds with Samsung Galaxy Z Fold 6: A Look at Its Specs, Release Date & Market Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-7-must-see-sites-for-latest-movie-previews/"><u>Top 7 Must-See Sites for Latest Movie Previews</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-photodna-a-comparative-analysis-tool/"><u>Unveiling PhotoDNA: A Comparative Analysis Tool</u></a></li>
+</ul></div>
 

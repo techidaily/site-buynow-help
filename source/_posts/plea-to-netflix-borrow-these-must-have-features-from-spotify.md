@@ -1,7 +1,7 @@
 ---
 title: "Plea to Netflix: Borrow These Must-Have Features From Spotify"
-date: 2024-10-02T01:16:16.615Z
-updated: 2024-10-07T02:02:51.911Z
+date: 2024-10-11T18:24:02.310Z
+updated: 2024-10-12T18:45:16.235Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  The best TV binges are the ones with all hits and no skips. Netflix, you’re the king of queues, so let me create my own playlists with individual episodes from shows on your service. While we’re on the topic of new features, I’ve got some other ideas too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Video Playlists Would Be Great for Better Binging
@@ -41,10 +41,16 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Dear reader, I can see the skeptical wheels turning in your brain, thinking, “But content gets removed and added to Netflix all the time, what happens then?” That's easy. If shows or movies become unavailable, then they’re just grayed out from playlists. The same thing happens with songs on Spotify. Artists remove songs and albums all the time for various reasons. The playlist skips unavailable tracks and moves on. To spin this into a positive thing, Netflix could always use this info to ping you when a show or movie returns.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Add Back That Shuffle Button!
@@ -56,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Access to More Data For a Richer Experience
@@ -71,10 +77,16 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
@@ -98,16 +110,21 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unlock-youtubes-best-viewing-experience-with-ratios/"><u>[New] 2024 Approved Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nlocking-creativity-mastering-ios-screen-capture-for-youtube/"><u>[New] Unlocking Creativity Mastering iOS Screen Capture for YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-obs-studio-vs-fraps-which-is-a-better-screen-capture-software/"><u>[Updated] 2024 Approved OBS Studio vs Fraps – Which Is A Better Screen Capture Software?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-10-best-offline-android-games-to-pass-time-filmora/"><u>2024 Approved 10 Best Offline Android Games to Pass Time - Filmora</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/analyzing-the-performance-of-the-netgear-c3000-is-it-time-to-upgrade/"><u>Analyzing the Performance of the Netgear C3000: Is It Time to Upgrade?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/easy-guide-speed-up-videos-like-a-pro-new-user-style/"><u>Easy Guide Speed Up Videos Like a Pro, New User Style</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-cable-modem-reviews-and-comparisons-find-the-perfect-one-in-2e4/"><u>Leading Cable Modem Reviews & Comparisons - Find the Perfect One in 2E4</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/optimal-sound-transmitters-for-cable-free-viewing/"><u>Optimal Sound Transmitters for Cable-Free Viewing</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-and-restoring-faulty-media-playback/"><u>Resetting and Restoring Faulty Media Playback</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-transformative-travel-companion-patekfly-tripod-12/"><u>The Transformative Travel Companion: Patekfly Tripod 12</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-caption-your-video-in-fcpx-a-quick-and-easy-guide/"><u>Updated In 2024, Caption Your Video in FCPX A Quick and Easy Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-constructing-unique-instagram-story-panels/"><u>[New] Constructing Unique Instagram Story Panels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-video-conversion-made-simple-the-best-flv-tools-for-youtube/"><u>[Updated] 2024 Approved Video Conversion Made Simple The Best Flv Tools for YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-immersive-worlds-unveiled-delving-into-mr-ar-and-vrs-distinctions-for-2024/"><u>[Updated] Immersive Worlds Unveiled Delving Into MR, AR, and VR's Distinctions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-of-recording-time-lapse-video-on-iphone/"><u>2024 Approved Tips of Recording Time Lapse Video on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apples-restrictions-a-closer-look-at-why-sending-presents-is-troublesome/"><u>Apple's Restrictions: A Closer Look at Why Sending Presents Is Troublesome</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722010248494-chatgpt-upgrades-unveiled-enroll-now-for-the-cutting-edge-plugin-platform/"><u>ChatGPT Upgrades Unveiled: Enroll Now for the Cutting-Edge Plugin Platform</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-logitech-g910-keyboard-driver-for-windows/"><u>Download the Latest Logitech G910 Keyboard Driver for Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-hdr-photoshop-how-to-create-hdr-images-in-photoshop-like-a-pro/"><u>In 2024, HDR Photoshop How to Create HDR Images in Photoshop Like a Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-zte-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from ZTE Blade A73 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-value-the-alcatel-joy-tab-2-lte-tablet-for-cost-conscious-buyers-a-detailed-assessment/"><u>Unlocking Value: The Alcatel Joy Tab 2 LTE Tablet for Cost-Conscious Buyers – A Detailed Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-apples-2021-macbook-pro-an-in-depth-review-of-the-16-inch-model-featuring-the-revolutionary-m1-chip/"><u>Unveiling Apple's 2021 MacBook Pro: An In-Depth Review of the 16-Inch Model Featuring the Revolutionary M1 Chip</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-of-acer-aspire-e-15-the-ultimate-savings-without-compromise-in-laptops/"><u>Unveiling the Benefits of Acer Aspire E 15 – The Ultimate Savings Without Compromise in Laptops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-huawei-mediapad-m5-a-masterpiece-for-enthusiasts-in-visual-and-auditory-pleasure/"><u>Unveiling the Features of the Huawei MediaPad M5 - A Masterpiece for Enthusiasts in Visual and Auditory Pleasure</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-king-of-modern-consoles-an-in-depth-look-at-xbox-one-x/"><u>Unveiling the King of Modern Consoles: An In-Depth Look at Xbox One X</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-new-imac-m1-a-revolution-in-computing-efficiency-and-design/"><u>Unveiling the New iMac M1: A Revolution in Computing Efficiency & Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-top-rated-weather-stations-for-homes/"><u>Unveiling the Top-Rated Weather Stations for Homes</u></a></li>
 </ul></div>
 

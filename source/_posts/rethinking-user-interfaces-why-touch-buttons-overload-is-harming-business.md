@@ -1,7 +1,7 @@
 ---
 title: "Rethinking User Interfaces: Why Touch Buttons Overload Is Harming Business"
-date: 2024-10-01T21:09:51.519Z
-updated: 2024-10-06T23:31:49.616Z
+date: 2024-10-10T18:41:11.962Z
+updated: 2024-10-12T17:29:22.030Z
 tags:
   - games
   - tv
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
@@ -54,13 +54,6 @@ Tim Brookes / How-To Geek
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Are Touch Buttons Used So Much?
 
  When Apple ditched the physical home button in the iPhone 7, the company made the argument that capacitive designs require no moving parts. Unlike the previous Home button, the new design would in theory last much longer. There’s no mechanism, and no gaps for pocket fluff and other gunk to gum up the works.
@@ -70,10 +63,10 @@ Tim Brookes / How-To Geek
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -93,10 +86,10 @@ Tim Brookes / How-To Geek
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -106,6 +99,13 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -126,20 +126,17 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlocking-the-power-of-your-everyday-webcam/"><u>[New] 2024 Approved Unlocking the Power of Your Everyday Webcam</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-guide-to-selecting-the-perfect-4k-camera-lens/"><u>[New] Guide to Selecting the Perfect 4K Camera Lens</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-diving-into-viral-video-dialogues/"><u>[Updated] 2024 Approved Diving Into Viral Video Dialogues</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exploring-the-finest-8-no-cost-open-source-video-communication-apps/"><u>[Updated] 2024 Approved Exploring the Finest 8 No-Cost, Open Source Video Communication Apps</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-seamless-computer-based-tiktok-live-broadcast-setup/"><u>[Updated] In 2024, Seamless Computer-Based TikTok LIVE Broadcast Setup</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-optimizing-profile-visibility-in-snapchats-focus/"><u>2024 Approved Optimizing Profile Visibility in Snapchat's Focus</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/all-about-the-new-fortnite-experience-in-depth-review-of-the-current-battle-royale-season/"><u>All About the New Fortnite Experience: In-Depth Review of the Current Battle Royale Season</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723082423931-expert-analysis-of-the-amplifi-hd-router-setup-say-goodbye-to-weak-signal-areas/"><u>Expert Analysis of the Amplifi HD Router Setup: Say Goodbye to Weak Signal Areas</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-honor-magic-6-lite-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor Magic 6 Lite Phone that is Locked?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/streamlined-driver-downloading-guide-for-the-sound-blaster-z-on-windows-10/"><u>Streamlined Driver Downloading Guide for the Sound Blaster Z on Windows 10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-the-finest-wide-mouse-pads/"><u>Ultimate Selection: The Finest Wide Mouse Pads</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-lg-stylo-6-a-blend-of-style-and-writing-accuracy-insightfully-reviewed/"><u>Unboxing the LG Stylo 6 – A Blend of Style and Writing Accuracy Insightfully Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-your-creative-potential-the-definitive-guide-to-huion-kamvas-gt-191-tablet/"><u>Unleash Your Creative Potential - The Definitive Guide to Huion Kamvas GT-191 Tablet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-choose-chatgpt-plus-here-are-5-insights-that-show-why-you-shouldnt-miss-out/"><u>Why Choose ChatGPT Plus? Here Are 5 Insights That Show Why You Shouldn't Miss Out!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/yokus-island-express-gameplay-analysis-unexpectedly-captivating-journeys/"><u>Yoku's Island Express Gameplay Analysis: Unexpectedly Captivating Journeys</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-jumpstart-your-youtube-channel-growth-with-key-editing-skills-from-sony-vegas/"><u>[New] Jumpstart Your YouTube Channel Growth with Key Editing Skills From Sony Vegas</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/conquer-youtube-vimeo-editing-5-advanced-trimming-strategies-for-2024/"><u>Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easily-switch-from-jpeg-to-jpg-online-at-no-cost-use-the-movavi-tool/"><u>Easily Switch From JPEG to JPG Online at No Cost - Use the Movavi Tool!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-keep-your-windows-10-hardware-current-updating-device-drivers/"><u>How to Keep Your Windows 10 Hardware Current: Updating Device Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-itel-p55-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Itel P55 5G</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transform-your-video-output-tubebuddys-methodology/"><u>Transform Your Video Output - TubeBuddy's Methodology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-audio-experience-2024s-premium-headsets/"><u>Ultimate Audio Experience - 2024'S Premium Headsets</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-sony-ps4-pro-4k-graphics-performance-analysis/"><u>Ultimate Guide: Sony PS4 Pro 4K Graphics Performance Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-review-the-mirari-childrens-alarm-clock-that-ticks-all-boxes/"><u>Unboxing & Review: The Mirari Children's Alarm Clock That Ticks All Boxes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-game-with-the-ibuypower-tailored-pc-a-cost-effective-powerhouse/"><u>Unleash Your Game with the iBuypower Tailored PC: A Cost-Effective Powerhouse</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-the-potential-a-complete-review-of-the-high-performance-anker-superspeed-hub/"><u>Unleashing the Potential: A Complete Review of the High-Performance Anker SuperSpeed Hub</u></a></li>
 </ul></div>
 

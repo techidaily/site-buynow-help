@@ -1,7 +1,7 @@
 ---
 title: Uncovering the Reason Behind PS One's Shaky Visual Experience
-date: 2024-09-21T16:24:15.156Z
-updated: 2024-09-26T16:37:47.832Z
+date: 2024-10-05T18:05:05.360Z
+updated: 2024-10-12T18:23:39.219Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they're still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn't find in the competition, so what gives?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  It’s All About Floating Points
 
  Modern GPU performance is often measured ([controversially](https://hardware-help.techidaily.com/brother-hl-2280dw-driver-package-universal-download-for-windows-11-windows-10-windows-8-and-7-users/)) in FLOPs or FLoating Point Operations. This is simply math involving floating point numbers, which in turn are simply whole numbers with a decimal point. The PlayStation's graphics processor had zero FLOPs, because it lacked an FPU or Floating Point Unit. Instead, it uses fixed-point integers to calculate the positions of vertices.
@@ -36,19 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Since you can only use integers, any position for a vertice that's not an integer will simply be skipped over. So you'll see polygons "snap" between positions with certain types of motion. For example, a character that's standing still and has a subtle idle animation will look like they're jittering a little.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Z-Buffer Not Found
 
  Apart from the lack of an FPU, the PlayStation also lacked a hardware Z-buffer. You might remember XYZ coordinates from school, where you can describe any point within a 3D space using three numbers. The PlayStation lacked a hardware buffer to store depth or Z-axis values, sorted in order of how far away something is from the "camera."
@@ -56,10 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This meant that game developers had to create their own in-house Z-buffering solution, and since it was not done in hardware, they had to be economical with their depth-sorting algorithms. This led to a common situation in PS1 games where small sorting errors were made and polygons that should have been hidden from view pop in and out of sight.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Affine Texture Mapping Is Not So Fine After All
@@ -69,10 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what's known as affine texture warping.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Fast, Cheap, or Complex: Pick Two
@@ -83,9 +63,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The bottom line is that the console could have had that extra hardware, but it would have driven the cost up significantly, without any clear benefit to Sony or its players at the time. The company went with "fast and cheap," leaving complexity at the door. History has shown this was the right decision.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Emulators Can Correct This (But Should You?)
 
 ![An iPad running G-Police next a  physical original copy of the game and a PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -110,18 +104,24 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-access-government-recorded-content-for-free-online/"><u>[Updated] How to Access Government-Recorded Content for Free Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-cutting-edge-guide-master-adobe-captivates-screen-capture-feature/"><u>[Updated] In 2024, Cutting-Edge Guide Master Adobe Captivate's Screen Capture Feature</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-photo-enhancing-apps-for-smartphones-with-overlays-top-10/"><u>Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10)</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciding-on-your-facebook-echo-show/"><u>Deciding on Your Facebook Echo Show</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-12-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi 12 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-moto-g84-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Moto G84 5G Phone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/panasonic-fz80-a-versatile-budget-friendly-pro/"><u>Panasonic FZ80: A Versatile, Budget-Friendly Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/protect-your-apple-device-with-our-selection-of-the-greatest-6-antivirus-apps/"><u>Protect Your Apple Device with Our Selection of the Greatest 6 Antivirus Apps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/save-big-during-prime-day-exclusive-offers-on-benq-screens-and-visual-tech/"><u>Save Big During Prime Day: Exclusive Offers on BenQ Screens and Visual Tech</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/seamless-switch-windows-7-to-11-progression/"><u>Seamless Switch: Windows 7 to 11 Progression</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/should-i-opt-for-windows-11s-modern-features-and-performance/"><u>Should I Opt for Windows 11'S Modern Features and Performance?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sonys-nw-ws623-examined-for-style-and-functionality/"><u>Sony's NW-WS623 Examined for Style and Functionality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-tools-for-timely-subtitle-conversion-win-and-mac-edition-best-8-srtr-creators-from-sub/"><u>Top Tools for Timely Subtitle Conversion - Win & Mac Edition Best 8 SRTR Creators From SUB</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-convert-and-store-webcam-footage-in-vlc-media-for-2024/"><u>[New] Convert & Store Webcam Footage in VLC Media for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-your-digital-presence-through-strategic-social-media-mastery/"><u>[New] Revolutionizing Your Digital Presence Through Strategic Social Media Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-summers-best-10-nostalgic-films-for-the-whole-family/"><u>[New] Summer's Best 10 Nostalgic Films for the Whole Family</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-lg-bp350-evaluation-size-resolution-and-connectivity/"><u>[Updated] 2024 Approved LG BP350 Evaluation - Size, Resolution, and Connectivity</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-solutions-to-common-setbacks-in-using-apple-pay/"><u>Effortless Solutions to Common Setbacks in Using Apple Pay</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-produce-free-educational-video-guides-easily/"><u>How to Produce Free Educational Video Guides Easily</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ideal-video-editor-unleashed-for-vimeo-videos-for-2024/"><u>Ideal Video Editor Unleashed for Vimeo Videos for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-review-of-huaweis-mediapad-m5-a-tablet-revolutionizing-audio-visual-engagement/"><u>The Definitive Review of Huawei's MediaPad M5 - A Tablet Revolutionizing Audio-Visual Engagement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lenovo-thinkpad-x1-fold-unveiled-pioneering-yet-problematic/"><u>The Lenovo ThinkPad X1 Fold Unveiled - Pioneering Yet Problematic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-mastery-of-the-samsung-galaxy-tab-s5e-your-go-to-for-an-advanced-android-tablet-review/"><u>The Ultimate Guide to Mastery of the Samsung Galaxy Tab S^5E: Your Go-To for an Advanced Android Tablet Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unbeatable-deal-in-laptops-discover-how-acer-aspire-e-15-delivers-top-performance-without-breaking-the-bank/"><u>The Unbeatable Deal in Laptops: Discover How Acer Aspire E 15 Delivers Top Performance Without Breaking the Bank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-7-must-see-sites-for-latest-film-previews/"><u>Top 7 Must-See Sites for Latest Film Previews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-replacement-options-for-microsoft-office/"><u>Top Replacement Options for Microsoft Office</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-virtual-reality-oculus-quest-2-elite-strap-plus-battery-bundle-assessment/"><u>Unlocking the Potential of Virtual Reality: Oculus Quest ^2 Elite Strap + Battery Bundle Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-innovation-how-amazon-halo-redefines-comprehensive-health-monitoring-devices/"><u>Unveiling Innovation: How Amazon Halo Redefines Comprehensive Health Monitoring Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-linksys-max-stream-ac1e-networking-solution-ideal-for-wide-audiences/"><u>Unveiling the Linksys Max-Stream AC1e Networking Solution - Ideal for Wide Audiences</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Spark 10 5G? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Lenovo Yoga A940 Revealed: Detailed Product Review"
-date: 2024-08-22T13:07:33.578Z
-updated: 2024-08-23T13:07:33.578Z
+date: 2024-10-07T18:11:22.427Z
+updated: 2024-10-12T18:11:42.889Z
 categories:
   - BestProducts
 description: "This Article Describes The Lenovo Yoga A940 Revealed: Detailed Product Review"
@@ -66,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 
  I played the game on PC for several days, but it’s also available on all other major platforms including the upcoming[Xbox Series X](https://www.lifewire.com/price-release-date-specs-xbox-series-x-5077092) , Xbox One, upcoming[PlayStation 5](https://www.lifewire.com/playstation-5-4778089) , and PlayStation 4\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## **Story: A lot going on, and none of it to be spoiled**
 
  There’s a lot to say here, but not much that can be said without spoilers. Given how engaging I found the plot, it would be a shame to spoil it in any way. Suffice it to say that, though it begins as a typical revenge story, it soon becomes more complex and interesting. You play as Eivor, a male or female warrior who raids England during the reign of Alfred the Great.
@@ -86,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
  In total, the game’s various open world areas cover a staggering 140 square kilometers, nearly ten times the size of the prologue area. By this rough estimate, there should be at least 120 hours worth of content in this game, including a roughly 60-hour main campaign. Missions, mysteries, and treasure in abundance ensure that the wilderness never grows stale.
 
 ![AC sneak](https://www.lifewire.com/thmb/Vk4XvoE4lJwcjde1C_tJUVBc0Ac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-9-a5e8ef2a5bef455d8cbaa9e749167f53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -106,8 +110,12 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 ![AC Valhalla 3](https://www.lifewire.com/thmb/giaP-JV9QK6uFcdU_di4iWkvszw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-5-56a01de51a2a4540ae8650bece502873.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
  Combat is fast, brutal, and varied with deep customization and different potential approaches. There are many ways to approach each situation, and none of them are wrong. You can sneak in and pick the enemy off one by one, dumping their carcasses in bushes so as not to tip off their friends, or you can nail them from a distance with arrows. Alternatively, you can stride in, axes twirling, and cut a bloody swath through your foes.
@@ -129,8 +137,12 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
  Valhalla gives you plenty of ways to customize your experience. You can adjust the difficulty of stealth, combat, and exploration separately, so you can choose which gameplay elements are difficult and which you’d rather not get in the way. Additionally, mature elements in the game such as blood and gore can be toggled on and off, which will be a[relief to parents](https://www.lifewire.com/best-pc-games-4147292) and a boon to anyone who doesn’t fancy seeing severed heads flying through the air.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Minigames: Enjoyable diversions**
 
  There’s more to do than fighting and exploring; in Valhalla there are a number of intriguing minigames to divert you from quests. I particularly enjoyed Flyting, which is a battle of words These are timed, competitive poetry contests where you must quickly select the most appropriate verse from a list of options. It’s both amusing and character building.
@@ -140,22 +152,27 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 ![AC tattoos](https://www.lifewire.com/thmb/trRirIDsjFej03o-_HDCFsnnrzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-6-5449cde060b441a499a5189fda9a7a0a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Customization: Lots of stuff to tweak**
 
  As in Odyssey, the game allows you to play as either male or female, and offers a range of cosmetic options, mainly by way of tattoos and hairstyles. New tattoo patterns are acquired through parkour challenges. What’s more interesting is the gameplay affecting clothing and weapons that alter your appearance—I particularly appreciated that upgrading those items affects their looks. You can choose from different ravens and horses, and change the appearance of your longship. Eventually, you will also be able to customize the appearance of your settlement.
 
  I was particularly struck by the amber rays of the setting sun that slanted through the rigging of my longboat as I returned from a mountain climbing excursion.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: Epic good looks**
 
  Valhalla is an absolutely gorgeous game. Everything from the detailed character models to the vibrant open world is beautiful to look upon. Changing weather alters the mood of landscapes, and can create breathtaking moments. I was particularly struck by the amber rays of the setting sun that slanted through the rigging of my longboat as I returned from a mountain climbing excursion.
@@ -176,15 +193,19 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 
 ![AC ruins](https://www.lifewire.com/thmb/R1pb8_CqlpJqAmK9Ka9-pgyOyJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-3-ea07cee8afaa4cc89c4e2bb286b894a0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
  On a[gaming PC](https://www.lifewire.com/best-gaming-pcs-4045451) with a more powerful processor, more RAM, and an RTX 2070[GPU](https://www.lifewire.com/best-graphics-cards-4692676) , I didn’t encounter any glitches. However, the game is extremely power-hungry, and I was only able to run it at max settings with 60fps at 1080p. Ubisoft titles are known for being poorly optimized at launch, so this game should perform better after a few patches. Still, it’s clearly designed for next-gen consoles and the latest PC hardware. If you are playing on PC, be sure to utilize the benchmarking tool to find the ideal settings for your system.
 
  Of course, if you’re playing on[console](https://www.lifewire.com/best-gaming-consoles-4154610) you don’t have to worry about performance issues since the game is better optimized. It’s currently available for Xbox One and PlayStation 4, and will be available for the Xbox Series X and PlayStation 5 at launch. You can also get it on[Google Stadia](https://www.lifewire.com/google-stadia-review-4788032) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Typical AAA**
 
  The base game will set you back the typical $60, while the gold edition bundles in the season pass and costs a full $100\. That will include the planned expansions which will add Ireland and France to the map. Expensive though $100 is, it does promise a potentially huge amount of content. The game also has microtransactions, which is a bit of a bummer, though these weren’t integrated into the game at the time of writing.
@@ -194,8 +215,12 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Assassin’s Creed: Valhalla vs. Watch Dogs: Legion**
 
  It’s interesting that Ubisoft decided to launch two third-person action games set in England within a span of a few weeks. Where Valhalla is set in the Middle Ages,[Watch Dogs: Legion](https://www.lifewire.com/watch-dogs-legion-review-a-new-setting-for-the-series-5085469) is set in a near-future sci-fi dystopia, though in both games you are battling against tyrannical rulers in England. Choose Watch Dogs if you want sci-fi focused on hackers and non-violent solutions, and Valhalla if you love bloody medieval fighting and exploration.
@@ -206,10 +231,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 
  Assassin’s Creed: Valhalla exceeds, as Assassin’s Creed games so often do, in creating the most painstakingly detailed virtual recreation of a place and period possible. It’s got exploration, intense combat, and enthralling stories by the bucket full, and it’s easy to get lost in its sheer scope and scale. Just beware if you’re playing on a PC that will test the limits of your gaming rig.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Assassin's Creed Valhalla (PC)
@@ -218,14 +239,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Platforms  PC, Xbox Series X, Xbox One, PlayStation 5, PlayStation 4, Stadia
 * Rating  M
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -234,4 +252,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-pro-level-screen-recording-on-pc-and-mac-uncovered/"><u>[Updated] 2024 Approved Pro-Level Screen Recording on PC & Mac Uncovered</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-pinnacle-of-brainy-content-general-knowledge-top-11/"><u>[Updated] In 2024, Pinnacle of Brainy Content General Knowledge Top 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-smartphone-accessories-for-making-videos/"><u>2024 Approved Smartphone Accessories for Making Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-the-ideal-display-features-best-screen-size-resolution-and-refresh-rate-for-your-gaming-laptop/"><u>Choosing the Ideal Display Features: Best Screen Size, Resolution, and Refresh Rate for Your Gaming Laptop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/clearing-space-ultimate-guide-to-expanding-your-ps5s-hard-drive-capacity/"><u>Clearing Space: Ultimate Guide to Expanding Your PS5's Hard Drive Capacity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-thrill-of-new-partnership-espns-game-stream-service-priced-at-only-43-bucks-monthly/"><u>Discover the Thrill of New Partnership: ESPN's Game Stream Service, Priced at Only 43 Bucks Monthly!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/diy-live-tv-success-ditching-streaming-giants-for-personal-setup/"><u>DIY Live TV Success: Ditching Streaming Giants for Personal Setup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/end-of-an-era-epic-games-phases-out-compatibility-with-windows-78-platforms/"><u>End of an Era: Epic Games Phases Out Compatibility with Windows 7/8 Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-selections-best-virtual-reality-titles-for-cardboard-for-2024/"><u>Exclusive Selections Best Virtual Reality Titles for Cardboard for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-windows-source-loading-problems-in-multimedia-applications/"><u>Understanding and Fixing Windows Source Loading Problems in Multimedia Applications</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-serveronedrive/"><u>Windows Server与OneDrive的无缝云同步方法</u></a></li>
+</ul></div>
 

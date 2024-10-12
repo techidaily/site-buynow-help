@@ -1,7 +1,7 @@
 ---
 title: Last Chance Alert! Start Streaming These Popular Games Before Extinction Hits!
-date: 2024-09-22T16:12:55.707Z
-updated: 2024-09-26T16:08:25.391Z
+date: 2024-10-06T17:54:56.810Z
+updated: 2024-10-12T17:01:56.970Z
 tags:
   - games
   - tv
@@ -30,13 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  We live in an ever-changing golden age of interactive entertainment. With games being delisted from stores, servers being switched off, and player counts dropping, there’s no guarantee your favorites will be around for the long haul. So play them now, before they're gone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## _Super Mario Maker 2_ 
 
  On April 9, 2024, Nintendo switched off online services for its 3DS and Wii U platforms. Because _Super Mario Maker_ was exclusively released on those platforms, the entire catalog of user-made levels became inaccessible overnight.
@@ -46,6 +39,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you’ve not played a _Mario Maker_, the clue’s in the name. Make use of the various tools, themes, and options to design your own 2D _Mario_ levels. Make them fun, hard, or entirely autonomous. Though the second game in the series is a good time, the original will be fondly remembered for justifying the Wii U's gimmick of gamepad and TV combination.
 
  Play the sequel on Nintendo Switch now. You’ll need a Nintendo Switch Online membership to connect to the internet to play (or upload) levels.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## _Forza Horizon 4_ 
 
@@ -87,6 +87,13 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
 
  Whatever you’re playing, be it _Brawlhalla_, _Roller Champions_, _Paladins_, _The Finals_ or something far more obscure, enjoy it while the servers are hot.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Classic _Battlefield_ Games
 
  Did you know that the servers for _Battelfield Bad Company_, _Bad Company 2_, and _Battlefield 1943_ were retired by EA in 2023? These old-but-gold multiplayer shooters will be sorely missed, particularly since we haven’t had a _Bad Company_ game in three generations.
@@ -105,6 +112,13 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
 
  Much like _Super Mario Maker_, this is a game that depends on user-generated content. With so many weird and wonderful creations available to download and experience, you should give _Dreams_ a shot while you still can. The PlayStation 4 version works via [backward compatibility on the PlayStation 5](https://screen-mirroring-recording.techidaily.com/updated-shrouded-screen-images-techniques-for-redacting-info-for-2024/), and the game is available in the PlayStation Plus Extra catalog too.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Whole Heap of MMOs
 
  Like free-to-play multiplayer experiences, massively multiplayer online games (MMOs) are made and broken by their player base. So many MMOs have closed down over the years that it’s now accepted as an inevitability in all but a few exceptional circumstances.
@@ -112,13 +126,6 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
  Take beloved BioWare MMO _Star Wars: The Old Republic_ as an example. After years of uncertainty, development [moved from BioWare to Broadsword in 2023](https://massivelyop.com/2023/06/06/star-wars-the-old-republic-development-is-moving-from-bioware-to-broadsword/). Some fans were happy with the move, others were worried about what this could mean in the long term. EA is a company that seems to be moving away from officially licensed games (with both _Star Wars_ and _FIFA_ licenses recently on the chopping block), so who knows how long _SWTOR_ will live on.
 
  It’s hard to see heavy hitters like _World of Warcraft_ or _Elder Scrolls Online_ going away any time soon, but smaller MMOs that limp on with a small following of dedicated fans face less certainty. One member of the _City of Heroes_ forum [tallied up the daily player counts](https://forums.homecomingservers.com/topic/42567-homecoming-player-count-a-year-in-review/) amid concern about the health of the game, and though things were better than many first thought, there were significant differences in the populations of various servers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## _Overwatch 2_ 
 
@@ -128,31 +135,11 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
 
  The _Overwatch 2_ story is [long and complicated](https://www.pcgamer.com/overwatch-2-is-a-failed-idea/), but the game manages to limp by. Who knows what the future holds for the series, particularly now that Blizzard is owned by Microsoft? One thing’s for sure, if you want to experience the game, you'd better do it quick.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## _Splatoon 2_ and _Splatoon 3_ 
 
  Another victim of the Wii U and 3DS server shutdown, _Splatoon_’s servers went offline in early 2024\. Though an acquired taste, Nintendo’s first crack at an online team-based multiplayer paint ‘em up was massively popular at the time and continues to live on today.
 
  If you’re interested in picking up a brush, you’re better off sticking with _Splatoon 3_ which is still being supported by Nintendo (for now). Since _Splatoon_ was released exclusively on Nintendo consoles, there's far less chance of fans being able to pick up the slack and host their own servers as is the case with PC releases.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Looming Remasters and Remakes
 
@@ -161,6 +148,13 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
  Perhaps the most egregious example in recent years is Rockstar’s delisting of _GTA III_, _Vice City_, and _San Andreas_ following the release of _Grand Theft Auto: The Trilogy — The Definitive Edition_. The 2021 re-release was criticized for relying on sloppy, poorly optimized ports of the mobile games, with no way to buy the original (rusty but playable) versions instead.
 
  Other examples include the original _Dead Island_ and its sequel _Riptide_, _Dark Souls: Prepare to Die Edition_ on the PC, _Assassin’s Creed 3_, and fan-favorite _Warcraft 3_. It’s not a certainty, but if you notice that beloved old title is due for a coat of paint, consider grabbing the original while you still can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Make Hay While the Sun Shines
 
@@ -185,16 +179,17 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-noise-free-recording-strategy/"><u>[New] In 2024, The Ultimate Noise-Free Recording Strategy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/7-must-have-considerations-before-a-smart-tv-buy/"><u>7 Must-Have Considerations Before a Smart TV Buy</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016346687-cod-vanguard-voice-communication-problems-solved/"><u>Cod: Vanguard Voice Communication Problems Solved!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explaining-and-mending-error-code-0x8007251d-a-guide/"><u>Explaining and Mending Error Code 0X8007251d: A Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/gaming-on-ios-the-ultimate-guide-to-selecting-the-best-iphone/"><u>Gaming on iOS: The Ultimate Guide to Selecting the Best iPhone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-building-direct-urls-for-youtube-channel-subscribers/"><u>In 2024, Building Direct URLs for YouTube Channel Subscribers</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-honor-100-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Honor 100</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlock-local-treasures-browse-free-classified-options-on-oodle-now/"><u>Unlock Local Treasures: Browse Free Classified Options on Oodle Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-portability-meets-performance-the-msi-pro-mp161e2-display-review/"><u>Unveiling Portability Meets Performance: The MSI Pro MP161E2 Display Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-and-performance-of-garmin-forerunner-265/"><u>Unveiling The Features and Performance of Garmin Forerunner 265</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/withings-move-smartwatch-where-vintage-beauty-meets-digital-innovation/"><u>Withings Move Smartwatch - Where Vintage Beauty Meets Digital Innovation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-vimeo-films-with-chapters-division-for-2024/"><u>[New] Enhancing Vimeo Films with Chapters Division for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-comedy-in-catchy-notes-best-parody-songs-list/"><u>[New] In 2024, Comedy in Catchy Notes Best Parody Songs List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-secure-and-quick-screen-captures-on-android-devices-for-2024/"><u>[Updated] Secure & Quick Screen Captures on Android Devices for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-ios-delights-join-apple-arcade-enthusiast-club/"><u>Dive Into iOS Delights: Join Apple Arcade Enthusiast Club</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-compact-prowess-of-apples-ipad-mini-model-5/"><u>Expert Review on the Compact Prowess of Apple's iPad Mini Model 5</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-value-of-ambients-ws-290n-ambiant-weather-station-a-budget-friendly-review/"><u>Exploring the Value of Ambient's WS-290n Ambiant Weather Station: A Budget Friendly Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-insightful-reviews-on-the-nokia-71-premium-screen-camera-quality-and-cost-effectiveness/"><u>Get Insightful Reviews on the Nokia 7.1 - Premium Screen, Camera Quality and Cost Effectiveness</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-genius-widecam-f100-understanding-its-blurry-images-and-reverberant-audio/"><u>In-Depth Analysis of Genius WideCam F100: Understanding Its Blurry Images & Reverberant Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-disabling-windows-updates/"><u>Mastering the Art of Disabling Windows Updates</u></a></li>
 </ul></div>
 

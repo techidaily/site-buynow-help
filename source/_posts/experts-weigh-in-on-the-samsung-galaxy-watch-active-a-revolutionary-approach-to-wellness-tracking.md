@@ -1,7 +1,7 @@
 ---
 title: Experts Weigh in on the Samsung Galaxy Watch Active – A Revolutionary Approach to Wellness Tracking
-date: 2024-08-22T13:05:36.399Z
-updated: 2024-08-23T13:05:36.399Z
+date: 2024-10-05T17:52:37.611Z
+updated: 2024-10-12T16:32:18.006Z
 categories:
   - BestProducts
 description: This Article Describes Experts Weigh in on the Samsung Galaxy Watch Active – A Revolutionary Approach to Wellness Tracking
@@ -38,9 +38,29 @@ thumbnail: https://www.lifewire.com/thmb/dOSxUhO35LzgSgjJzUKgwA34FA0=/400x300/fi
 
 3
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/Em7mFCNB7ffPEBeVuQuFIJpvJyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -70,13 +90,14 @@ thumbnail: https://www.lifewire.com/thmb/dOSxUhO35LzgSgjJzUKgwA34FA0=/400x300/fi
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Humans have never been so annoying**
 
  The game begins with a multi-hour long tutorial program, which I highly recommend you undertake before playing the game. There are so many various aspects to the game—basic needs, threats to your colony, resources to import and export—that it would be disastrous not to get caught up to speed. It took me a total of five hours to complete these tutorials, but I had to restart a couple after a couple operator error moments when I accidentally destroyed my only water vaporizer and had no idea how to rebuild it. So, it will probably take you less.
@@ -92,8 +113,18 @@ thumbnail: https://www.lifewire.com/thmb/dOSxUhO35LzgSgjJzUKgwA34FA0=/400x300/fi
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
  The colonists also come with their own unique personality traits, from veganism to survivalist to alcoholic, so they all have their own service needs. You’ll have to factor this into your game as you build up your population. If someone doesn’t get their needs met, it can land them in the hospital, or worse, on a rocket back home. And don’t get me started on the chaos that erupts when humans start freezing during a cold spell or complain when they don’t have enough oxygen. The nerve of some colonists!
@@ -112,9 +143,6 @@ thumbnail: https://www.lifewire.com/thmb/dOSxUhO35LzgSgjJzUKgwA34FA0=/400x300/fi
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
@@ -123,9 +151,6 @@ thumbnail: https://www.lifewire.com/thmb/dOSxUhO35LzgSgjJzUKgwA34FA0=/400x300/fi
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## **Competition: Other city-building games**
 
  What makes Surviving Mars unique is that technically it is a city-[building game](https://www.lifewire.com/best-offline-building-games-4580415) , but instead of building bus lines, you have to build oxygen and water lines to ensure colony survival. However, just like city-building games, you are building infrastructure. If you’re solely focused on building up a city, Surviving Mars would be a great addition to your library, but so would[Cities: Skylines](https://store.steampowered.com/app/255710/Cities%5FSkylines/) (view on Steam). Both focus on creating a habitat from scratch—one just happens to be hundreds of thousands of miles away while the other could be in a tropical or a Midwestern climate.
@@ -138,9 +163,6 @@ thumbnail: https://www.lifewire.com/thmb/dOSxUhO35LzgSgjJzUKgwA34FA0=/400x300/fi
 
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Surviving Mars
@@ -153,14 +175,11 @@ thumbnail: https://www.lifewire.com/thmb/dOSxUhO35LzgSgjJzUKgwA34FA0=/400x300/fi
 * Graphics  HD 4600/Geforce 620/Radeon 6450 or equivalent GPUs with 1 GB of video RAM
 * Game Updates  Green Planet, Project Laika, Space Race, Colony Design Set, Marsvision Song Contest
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +188,26 @@ thumbnail: https://www.lifewire.com/thmb/dOSxUhO35LzgSgjJzUKgwA34FA0=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-google-meet-go-live-your-youtube-broadcast-companion-for-2024/"><u>[New] Google Meet Go Live - Your YouTube Broadcast Companion for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-codec-clash-determining-the-leader-in-video-quality/"><u>[Updated] 2024 Approved Codec Clash Determining the Leader in Video Quality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-social-feeds-with-panoramic-content-a-guide-for-iosandroid-users/"><u>[Updated] In 2024, Navigating Social Feeds with Panoramic Content A Guide for iOS/Android Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-step-into-success-beginners-guide-to-hosting-tech-product-discussions-online-for-2024/"><u>[Updated] Step-Into Success Beginner’s Guide to Hosting Tech Product Discussions Online for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unleash-the-power-of-pause-tips-for-instas-next-viral-slow-motion-reels/"><u>[Updated] Unleash the Power of Pause Tips for Insta's Next Viral Slow-Motion Reels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-adding-audio-to-microsoft-presentations/"><u>2024 Approved The Ultimate Guide to Adding Audio to Microsoft Presentations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-your-current-powershell-verison-in-windows-10-a-step-by-step-guide/"><u>Determining Your Current PowerShell Verison in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-of-innovation-selecting-top-quality-dj-visual-downloads/"><u>Pulse of Innovation Selecting Top-Quality DJ Visual Downloads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-endurance-challenge-for-jabra-audio-devices/"><u>The Endurance Challenge for Jabra Audio Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-of-microsoft-flight-simulator-x-gold-edition-still-soaring-high/"><u>The Ultimate Review of Microsoft Flight Simulator X: Gold Edition - Still Soaring High</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-of-symas-affordable-x5c-remote-controlled-quadcopter-for-newbies/"><u>The Ultimate Review of SYMA's Affordable X5C Remote Controlled Quadcopter for Newbies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-7-premium-mobile-plans-for-seniors-in-2n4-a-comprehensive-guide/"><u>Top 7 Premium Mobile Plans for Seniors in 2N4: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-television-streaming-services-a-comprehensive-guide/"><u>Top Rated Television Streaming Services : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-2024-cd-gear-guide-unmatched-performance-reviews/"><u>Ultimate 2024 CD Gear Guide: Unmatched Performance Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-adventure-the-budget-friendly-akaso-ek7000-cam/"><u>Unleash Adventure - The Budget-Friendly AKASO EK7000 Cam</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-a-world-of-literature-with-amazon-kindle-paperwhite-2018-an-in-depth-product-evaluation/"><u>Unlock a World of Literature with Amazon Kindle Paperwhite (2018): An In-Depth Product Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-peaceful-meal-times-for-your-pet-using-arf-pets-advanced-feeder-technology/"><u>Unlock Peaceful Meal Times for Your Pet Using Arf Pets Advanced Feeder Technology</u></a></li>
+</ul></div>
 

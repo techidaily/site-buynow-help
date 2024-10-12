@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look at the Lenovo ThinkPad X12: A Fantastic Detachable with an Impressive and Comfortable Keyboard"
-date: 2024-08-22T13:08:33.189Z
-updated: 2024-08-23T13:08:33.189Z
+date: 2024-10-05T19:10:20.520Z
+updated: 2024-10-12T18:33:30.278Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Look at the Lenovo ThinkPad X12: A Fantastic Detachable with an Impressive and Comfortable Keyboard"
@@ -64,8 +64,12 @@ Lifewire / Rebecca Isaacs
  Working on the go can prove difficult on a laptop, especially when you need to work on heavy-hitting projects requiring precision. Travel mice, or portable computer mice that can be packed and unpacked on the go, can alleviate much of the proverbial headache of working on PC-heavy tasks. For those who prefer their mouse have a cable, the Sabrent fits the bill. Using high definition precision technology, the tiny, three-year-old mouse is designed for those who want convenience and extreme precision in their work.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Basic**
 
  The Sabrent was not designed for heavy gaming in mind; its design is so tiny at 3.2 x 1.5 inches (LW) that it fits into the cup of your palm with some room to spare. Unlike gaming mice, which can be complex, with a plethora of buttons/features, the all-black, 1.5-ounce mouse only has three buttons: the left (main) button, the wheel, and the right button. While this might turn off many users, in reality, it turns out to be of huge benefit. Thanks to its simplicity, ambidextrous users will appreciate its ability to swap between dominant hands.
@@ -76,9 +80,6 @@ Lifewire / Rebecca Isaacs
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/E-UHv94vEiLyLkgwTG1qIFE6uvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_04-76e4b475ca3f4449a746c22f3713f784.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
  The cable’s addition increases the size of the mouse, bringing the total measurements to 6.44 x 1.5x 2.44 inches (LWH). The Sabrent also comes with a mesh carrying bag, making it easy to pack up and take on the go without scratching it. One more perk: this mouse is adaptable to most[Windows](https://www.lifewire.com/windows-4781566) ,[Mac](https://www.lifewire.com/mac-backup-software-hardware-and-guides-2260931) , and[Linux](https://www.lifewire.com/software-and-apps-4781541) systems, so you can insert it into USB ports across multiple machines for fast use.
@@ -89,18 +90,15 @@ Lifewire / Rebecca Isaacs
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/mM3uSf3Y2pyayDyWJzP8_5uUya4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_05-04e025144b514674b109e77f79129d74.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Precise, but mildly problematic**
 
  The Sabrent boasts that it’s a high precision mini mouse, and in that regard, we have to agree. While 1200 dpi is minimal in comparison to some of the other heavy-hitting mice on the market, this mouse wasn’t designed to be used as a gaming mouse—it was designed in mind that you could take it and pack it on the go and get the job done.
@@ -123,17 +121,31 @@ No advertising on the website.
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/h8ibsbPtDqgJOD0XgpZSD6FOXUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_02-1331828bbc3f460baebd85cbd24d61e2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Reasonable**
 
  At around $7, this is a great budget mouse. Essentially, the cost is for basic mouse features, and not for anything heavier or more taxing on a PC. If you’re looking for a travel mouse with more features, then expect to spend more. However, if accomplishing work tasks is solely your task then this is the perfect price point.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Sabrent Mini Travel Mouse vs. VicTsing Wireless Mouse**
 
@@ -149,6 +161,13 @@ No advertising on the website.
 
  While we constantly had to shift our grip on the tiny Sabrent mouse, we really liked its portability and fast, accurate movements. The cable proved to be difficult for desktop use, however, laptop users will enjoy the speeds that accompany the wired cable.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Mini Travel USB Optical Mouse
@@ -161,14 +180,11 @@ No advertising on the website.
 * Compatibility  Windows 2000 and up, Mac OS X and up, Linux systems
 * Connectivity options  USB Port, NOT Bluetooth Enabled
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +193,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-unseen-ui-techniques-for-newcomers/"><u>[New] Ultimate Unseen UI Techniques for Newcomers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-hidden-gems-top-8-private-video-downloaders-for-2024/"><u>[Updated] Hidden Gems Top 8 Private Video Downloaders for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-strategies-for-crafting-the-perfect-rule-based-email-system-in-gmail/"><u>Expert Strategies for Crafting the Perfect Rule-Based Email System in Gmail</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-power-of-minimalism-with-xbox-series-s-a-review-of-its-unmatched-performance-and-size-advantage/"><u>Exploring the Power of Minimalism with Xbox Series S: A Review of Its Unmatched Performance and Size Advantage</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-more-from-prime-day-with-these-spectacular-samsung-deals/"><u>Get More From Prime Day with These Spectacular Samsung Deals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-effective-is-the-netgear-ex3700-an-expert-review-of-the-wireless-range-extender-ac750/"><u>How Effective Is the Netgear EX3700? - An Expert Review of the Wireless Range Extender (AC750)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-photoscape-your-go-to-solution-for-cost-free-image-enhancement/"><u>In-Depth Evaluation of PhotoScape: Your Go-To Solution for Cost-Free Image Enhancement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ipad-mini-vs-microsoft-surface-a-detailed-comparison-of-pros-and-cons/"><u>IPad Mini Vs. Microsoft Surface: A Detailed Comparison of Pros and Cons</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1728510199890-pc/"><u>PC用シンプルデータ転送ガイドライン - 一発で完了する方法</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-pathway-to-saving-social-media-gifs-on-different-devices-for-2024/"><u>The Ultimate Pathway to Saving Social Media GIFs on Different Devices for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-issues-with-your-corsair-hs70-headset-microphone/"><u>Ultimate Guide: Resolving Issues with Your Corsair HS70 Headset Microphone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-lg-gram-156-notebook-2018-featuring-unparalleled-portability-and-enduring-battery-life/"><u>Ultimate LG Gram 15.6 Notebook (2018): Featuring Unparalleled Portability & Enduring Battery Life</u></a></li>
+</ul></div>
 

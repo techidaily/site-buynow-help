@@ -1,7 +1,7 @@
 ---
 title: "The Amazon Halo: An Exceptionally Advanced and Intrusive Exercise Monitor Device"
-date: 2024-08-22T13:12:19.618Z
-updated: 2024-08-23T13:12:19.618Z
+date: 2024-10-06T16:45:54.679Z
+updated: 2024-10-12T16:06:57.429Z
 categories:
   - BestProducts
 description: "This Article Describes The Amazon Halo: An Exceptionally Advanced and Intrusive Exercise Monitor Device"
@@ -64,8 +64,12 @@ Lifewire / Rebecca Isaacs
  Working on the go can prove difficult on a laptop, especially when you need to work on heavy-hitting projects requiring precision. Travel mice, or portable computer mice that can be packed and unpacked on the go, can alleviate much of the proverbial headache of working on PC-heavy tasks. For those who prefer their mouse have a cable, the Sabrent fits the bill. Using high definition precision technology, the tiny, three-year-old mouse is designed for those who want convenience and extreme precision in their work.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Basic**
 
  The Sabrent was not designed for heavy gaming in mind; its design is so tiny at 3.2 x 1.5 inches (LW) that it fits into the cup of your palm with some room to spare. Unlike gaming mice, which can be complex, with a plethora of buttons/features, the all-black, 1.5-ounce mouse only has three buttons: the left (main) button, the wheel, and the right button. While this might turn off many users, in reality, it turns out to be of huge benefit. Thanks to its simplicity, ambidextrous users will appreciate its ability to swap between dominant hands.
@@ -77,11 +81,22 @@ Lifewire / Rebecca Isaacs
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/E-UHv94vEiLyLkgwTG1qIFE6uvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_04-76e4b475ca3f4449a746c22f3713f784.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
  The cable’s addition increases the size of the mouse, bringing the total measurements to 6.44 x 1.5x 2.44 inches (LWH). The Sabrent also comes with a mesh carrying bag, making it easy to pack up and take on the go without scratching it. One more perk: this mouse is adaptable to most[Windows](https://www.lifewire.com/windows-4781566) ,[Mac](https://www.lifewire.com/mac-backup-software-hardware-and-guides-2260931) , and[Linux](https://www.lifewire.com/software-and-apps-4781541) systems, so you can insert it into USB ports across multiple machines for fast use.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: Plug and play**
 
@@ -89,9 +104,6 @@ Lifewire / Rebecca Isaacs
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/mM3uSf3Y2pyayDyWJzP8_5uUya4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_05-04e025144b514674b109e77f79129d74.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
 ## **Performance: Precise, but mildly problematic**
@@ -110,27 +122,32 @@ Lifewire / Rebecca Isaacs
 
  The cable length left something to be desired in a work PC, however. At 25 inches, it sounds like a dream come true, however, testing it on a standing desk where the PC tower is located further away from the keyboard and mouse we realized there was a problem. The length cable prevented us from shifting our grip on the mouse, and the tugging was a frustrating physical constraint. Laptop users won’t even notice the cable, but PC users may want to look for something a little more wireless.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## **Comfort: Too small**
 
  Because the mouse is so tiny, and barely fit into the palm of our hand, we constantly had to adjust our fingers to compensate for its size. Granted, we used the mouse for up to eight hours at a time in testing, and our muscles didn’t tire out and hands didn’t cramp, which was a testament to the ergonomic design. However, constantly having to shift our grip to press buttons and scroll was mildly annoying, especially when we were deeply engaged in work.
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/h8ibsbPtDqgJOD0XgpZSD6FOXUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_02-1331828bbc3f460baebd85cbd24d61e2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Reasonable**
 
  At around $7, this is a great budget mouse. Essentially, the cost is for basic mouse features, and not for anything heavier or more taxing on a PC. If you’re looking for a travel mouse with more features, then expect to spend more. However, if accomplishing work tasks is solely your task then this is the perfect price point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## **Sabrent Mini Travel Mouse vs. VicTsing Wireless Mouse**
 
  Because the mouse is so tiny, we also tested the[VicTsing Wireless Mouse](https://www.lifewire.com/victsing-wireless-mouse-review-4799129) (view on[Amazon](https://www.amazon.com/VicTsing-Wireless-Portable-Receiver-Adjustable/dp/B013WC0P2A/?tag=lifewire-onsite-prod-20&ascsubtag=4799034%7Cn6493c6f4bf4b471ba05fab7dd162554120%7C) ) to get a feel as to which mouse is the better option for a portable, travel mouse. The answer turned out to be more complicated: whereas the Sabrent was more ideal for ambidextrous travel, the VicTsing Wireless Mouse was geared more for right-handed users who prefer adjustable and wireless features.
@@ -157,14 +174,11 @@ Lifewire / Rebecca Isaacs
 * Compatibility  Windows 2000 and up, Mac OS X and up, Linux systems
 * Connectivity options  USB Port, NOT Bluetooth Enabled
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +187,26 @@ Lifewire / Rebecca Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-master-the-art-of-faster-periscope-streaming-for-2024/"><u>[New] Master the Art of Faster Periscope Streaming for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-safely-extract-youtube-audio-a-study-of-3-techniques/"><u>[Updated] 2024 Approved How to Safely Extract YouTube Audio A Study of 3 Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-refined-lineup-of-conversation-starters-for-podcasting/"><u>[Updated] In 2024, Refined Lineup of Conversation Starters for Podcasting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-spearheading-efficient-speech-recognition-on-google-platforms/"><u>[Updated] In 2024, Spearheading Efficient Speech Recognition on Google Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-ipad-air-vs-samsung-galaxy-tab-s7plus-faceoff-elite-tablets-competing-head-to-head/"><u>Apple iPad Air ^ Vs. Samsung Galaxy Tab S7+ Faceoff: Elite Tablets Competing Head to Head</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/combining-traditional-charm-with-cutting-edge-features-an-in-depth-review-of-the-skagen-falster-3/"><u>Combining Traditional Charm with Cutting-Edge Features: An In-Depth Review of the Skagen Falster 3</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-timeless-charm-and-modern-intelligence-a-comprehensive-review-of-withings-move/"><u>Discovering Timeless Charm & Modern Intelligence: A Comprehensive Review of Withings Move</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-the-fitbit-charge-6-device/"><u>Expert Evaluation of the Fitbit Charge 6 Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experts-weigh-in-on-logitech-c920-pro-hd-webcam-superior-high-definition-recording-tested/"><u>Experts Weigh In on Logitech C920 Pro HD Webcam: Superior High-Definition Recording Tested</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-capabilities-of-soundbot-sb210-an-efficient-audio-device-with-high-quality-performance/"><u>Exploring the Capabilities of SoundBot SB210: An Efficient Audio Device with High-Quality Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/future-of-fun-discover-2024s-most-popular-game-consoles/"><u>Future of Fun: Discover 2024'S Most Popular Game Consoles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rapid-charging-and-long-duration-discussions-in-the-jabra-talk-25-model/"><u>Rapid Charging and Long-Duration Discussions in the Jabra Talk 25 Model</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-installation-issues-with-age-of-empires-iv-on-microsofts-digital-shop/"><u>Resolving Installation Issues with Age of Empires IV on Microsoft's Digital Shop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailored-treasure-troves-the-ultimate-list-of-online-box-sellers-for-2024/"><u>Tailored Treasure Troves The Ultimate List of Online Box Sellers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-insiders-guide-to-excellence-in-zoom-webinars/"><u>The Insider’s Guide to Excellence in Zoom Webinars</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-choosing-the-perfect-17-inch-laptop/"><u>Ultimate Guide: Choosing the Perfect 17-Inch Laptop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-upgrade-to-spotify-premium/"><u>Why Upgrade to Spotify Premium?</u></a></li>
+</ul></div>
 

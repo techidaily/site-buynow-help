@@ -1,7 +1,7 @@
 ---
 title: "Unplugging From the Web: Why Securing or Turning Off Your Vizio Smart TV Is Essential"
-date: 2024-10-04T18:19:50.911Z
-updated: 2024-10-06T19:34:32.639Z
+date: 2024-10-11T16:36:12.988Z
+updated: 2024-10-12T18:01:18.827Z
 tags:
   - games
   - tv
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
  Ever feel like your TV knows a little too much about your binge-watching habits? Smart TVs are notorious for privacy invasion, from voice assistants listening in to tech that tracks every show you watch. Now, with Vizio in Walmart's shopping cart, it's a great time to evaluate what your TV knows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Your Smart TV _is_ Spying on You
@@ -43,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
  This all sounds pretty scary, and to some degree, _it is_, but that doesn't mean you should jump to assuming it's as invasive as it sounds. The information collected is overwhelmingly used for ads. Boring as that may be, you shouldn't allow it to happen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Walmart Now Owns Vizio and Its User Data
@@ -56,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
  As of October 2021, Vizio had [more than 18 million ACR-enabled smart TVs in the market](https://www.businesswire.com/news/home/20211006005066/en/VideoAmp-and-VIZIO-Announce-Renewed-Partnership). Vizio is the third largest TV brand in the U.S. It accomplished that by selling TVs at a loss and then making it back through ads. In [Q3 2023](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001835591/758c28ca-0bee-4ede-bd39-8056692f9ce5.pdf), Vizio posted a loss of $3.3 million in hardware sales but had a massive $97 million in gross profit.
 
  Clearly, there's big business in collecting data from your TV usage habits. Walmart was already selling Vizio TVs, but now it can also bolster its own ads platform—[called "Walmart Connect"](https://corporate.walmart.com/news/2024/02/20/walmart-agrees-to-acquire-vizio-holding-corp-to-facilitate-accelerated-growth-of-walmart-connect-through-vizio-s-smartcast-operating-system)—with all of that user data. Plus, with Vizio's SmartCast platform, Walmart could ditch Roku and Google TV for its Onn-branded smart TVs.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Disconnecting From the Internet is the Easiest Solution
 
@@ -67,23 +86,9 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 
  Now, this does mean you'll lose some of the functionality of your smart TV's software. If you were only using the TV as a "dumb" display for other devices, like a gaming console, that's not a problem. However, if you were using the TV's stock software for launching Netflix, Hulu, and other streaming services, we'll share a better way to go about that below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Turn off Tracking on Vizio TVs
 
 ![Vizio settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/viaplus-onscreen-settings-transformed.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vizio
 
@@ -104,6 +109,13 @@ Vizio
 3. Select "Reset & Admin."
 4. Highlight "Viewing Data."
 5. Press the right arrow to change the setting to "Off."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use a Secondary Streaming Device Instead
 
@@ -130,19 +142,24 @@ Vizio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-best-eco-savvy-movie-capture-tools-usage-methods/"><u>[New] Best Eco-Savvy Movie Capture Tools Usage Methods</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-5-alternatives-to-tiktok-you-should-know-updated-for-2024/"><u>[New] Top 5 Alternatives to TikTok You Should Know [Updated ] for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-excellent-7-dslrs-elevating-live-stream-cinematic-style/"><u>[Updated] In 2024, Excellent 7 DSLRs Elevating Live-Stream Cinematic Style</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-navigating-through-premium-hdr-camera-options/"><u>[Updated] Navigating Through Premium HDR Camera Options</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/classy-elegance-meets-functionality-a-detailed-look-at-flexispots-modern-theodore-standing-desk-for-a-productive-office-atmosphere/"><u>Classy Elegance Meets Functionality: A Detailed Look at Flexispot's Modern Theodore Standing Desk for a Productive Office Atmosphere</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-affordable-pruveeo-f5-full-hd-dash-cam/"><u>Comprehensive Analysis of the Affordable Pruveeo F5 Full HD Dash Cam</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decoding-the-power-of-asus-ax6600-mesh-wifi-features-performance-and-user-experience-explored/"><u>Decoding the Power of ASUS AX6600 Mesh WiFi - Features, Performance & User Experience Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-performance-of-seatechs-wireless-blu-ray-burner-unit-with-usb-support-a-closer-look-at-its-variable-output/"><u>Expert Insights on the Performance of SeaTech's Wireless Blu-Ray Burner Unit with USB Support: A Closer Look at Its Variable Output</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 15 Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-fresh-epson-gt-s50-printer-drivers-on-windows-7-8-or-10-download-here/"><u>Install Fresh Epson GT-S50 Printer Drivers on Windows 7, 8 or 10 – Download Here!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-your-experience-with-lenovo-tab-m10-fhd-plus-in-2amidst-budget-friendly-tablets/"><u>Maximize Your Experience with Lenovo Tab M10 FHD Plus in 2Amidst Budget-Friendly Tablets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-multiplatform-flac-music-player-optimized-for-windows-macos-iphone-and-android-devices/"><u>Ultimate Multiplatform FLAC Music Player: Optimized for Windows, MacOS, iPhone & Android Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-features-of-the-pioneer-bdr-xs06-an-external-usb-30-blu-ray-drive-reviewed-for-convenience-and-output/"><u>Unpacking the Features of the Pioneer BDR-XS06: An External USB 3.0 Blu-Ray Drive Reviewed for Convenience and Output</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-issues-from-a-recent-windows-system-upgrade/"><u>Unraveling Issues From a Recent Windows System Upgrade</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-discover-leading-fonts-boosting-your-youtube-thumbnails/"><u>[New] In 2024, Discover Leading Fonts Boosting Your YouTube Thumbnails</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-essential-guide-to-shopping-for-a-gopro-camera/"><u>[Updated] 2024 Approved The Essential Guide to Shopping for a Gopro Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/forefront-picks-premier-storm-monitoring-tools-available/"><u>Forefront Picks: Premier Storm Monitoring Tools Available</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/foremost-8-smartphone-gaming-experiences-on-the-market/"><u>Foremost 8 Smartphone Gaming Experiences on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/guide-to-choosing-a-tablet-based-on-size-and-weight/"><u>Guide to Choosing a Tablet Based on Size and Weight</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y36i-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y36i Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hp-omen-obelisk-analysis-exceptional-performance-at-an-unbeatable-price/"><u>HP Omen Obelisk Analysis: Exceptional Performance at an Unbeatable Price</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-storage-sizing-film-duration-in-gb/"><u>In 2024, Storage Sizing Film Duration in GB</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-7-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 7 to PC | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-reviews-on-google-nest-wi-fi-fast-reliable-and-advanced-mesh-networking-technology/"><u>In-Depth Analysis & Reviews on Google Nest Wi-Fi - Fast, Reliable, and Advanced Mesh Networking Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-all-purpose-linksys-max-stream-ac1900-router-exceeds-expectations/"><u>In-Depth Analysis of the All-Purpose Linksys Max-Stream AC1900 Router – Exceeds Expectations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-ac68u-fast-safe-and-superior-5g-networking-experience/"><u>In-Depth Analysis of the Asus AC68U - Fast, Safe, and Superior 5G Networking Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-amazonbasics-affordable-and-reliable-6-sheets-cross-cut-paper-shredder/"><u>In-Depth Look at AmazonBasics' Affordable and Reliable 6-Sheets Cross-Cut Paper Shredder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-auto-gps-devices-ranked-for-excellence/"><u>Innovative Auto GPS Devices Ranked for Excellence</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kindle-or-fire-tablet-deciding-which-device-is-right-for-you/"><u>Kindle or Fire Tablet - Deciding Which Device Is Right for You?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/master-the-art-of-rapid-tiktok-videos/"><u>Master the Art of Rapid TikTok Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movpdf/"><u>オンラインで自由にMOVファイルをPDFに変換 - ムーヴァヴィ</u></a></li>
 </ul></div>
 

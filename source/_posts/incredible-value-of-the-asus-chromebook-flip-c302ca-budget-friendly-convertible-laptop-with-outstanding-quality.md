@@ -1,7 +1,7 @@
 ---
 title: Incredible Value of the ASUS Chromebook Flip C302CA - Budget-Friendly Convertible Laptop with Outstanding Quality
-date: 2024-08-22T13:11:04.788Z
-updated: 2024-08-23T13:11:04.788Z
+date: 2024-10-09T17:16:27.162Z
+updated: 2024-10-12T16:28:41.602Z
 categories:
   - BestProducts
 description: This Article Describes Incredible Value of the ASUS Chromebook Flip C302CA - Budget-Friendly Convertible Laptop with Outstanding Quality
@@ -38,9 +38,23 @@ thumbnail: https://www.lifewire.com/thmb/-h8zmA3SBGc82aPgPw2ilbsTz3E=/400x300/fi
 
 4.8
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Assassin's Creed Valhalla (PC)
 
 ![AC Vallhalla](https://www.lifewire.com/thmb/1uTfLpDv2WlYuf-Ekg6qBUTQqP4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Assassins-Creed-Valhalla-1-b7cabc5b5656439bbb47518048f57aa5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -66,9 +80,6 @@ thumbnail: https://www.lifewire.com/thmb/-h8zmA3SBGc82aPgPw2ilbsTz3E=/400x300/fi
 
  I played the game on PC for several days, but it’s also available on all other major platforms including the upcoming[Xbox Series X](https://www.lifewire.com/price-release-date-specs-xbox-series-x-5077092) , Xbox One, upcoming[PlayStation 5](https://www.lifewire.com/playstation-5-4778089) , and PlayStation 4\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Story: A lot going on, and none of it to be spoiled**
 
  There’s a lot to say here, but not much that can be said without spoilers. Given how engaging I found the plot, it would be a shame to spoil it in any way. Suffice it to say that, though it begins as a typical revenge story, it soon becomes more complex and interesting. You play as Eivor, a male or female warrior who raids England during the reign of Alfred the Great.
@@ -88,14 +99,14 @@ thumbnail: https://www.lifewire.com/thmb/-h8zmA3SBGc82aPgPw2ilbsTz3E=/400x300/fi
 ![AC sneak](https://www.lifewire.com/thmb/Vk4XvoE4lJwcjde1C_tJUVBc0Ac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-9-a5e8ef2a5bef455d8cbaa9e749167f53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Gameplay: Easy to pick up, challenging to master**
 
  Valhalla’s gameplay will be familiar to fans of the Assassin's Creed franchise, particularly the more recent entries in the series. As usual, there are tweaks and innovations, but it was easy enough for me to pick up, with my most recent experience being with AC Unity. Players who’ve played Origins and Odyssey will find much to be familiar. The fluid movement and iconic parkour makes navigating around the expansive open world fun and engaging, though novices may accidentally fling themselves off a cliff or two by accident as they learn the ropes.
@@ -112,9 +123,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![AC Valhalla 3](https://www.lifewire.com/thmb/giaP-JV9QK6uFcdU_di4iWkvszw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-5-56a01de51a2a4540ae8650bece502873.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andy Zahn
 
  Combat is fast, brutal, and varied with deep customization and different potential approaches. There are many ways to approach each situation, and none of them are wrong. You can sneak in and pick the enemy off one by one, dumping their carcasses in bushes so as not to tip off their friends, or you can nail them from a distance with arrows. Alternatively, you can stride in, axes twirling, and cut a bloody swath through your foes.
@@ -129,9 +137,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![AC ship](https://www.lifewire.com/thmb/n9S5L4JClTiqP1vYa_7cTGw6o0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-7-d89d4a9941b8488ea6ef1aeba6486895.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Andy Zahn
 
 ## **Difficulty and Content Settings: Lots to customize**
@@ -146,10 +151,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![AC tattoos](https://www.lifewire.com/thmb/trRirIDsjFej03o-_HDCFsnnrzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-6-5449cde060b441a499a5189fda9a7a0a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Customization: Lots of stuff to tweak**
 
@@ -165,10 +180,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![AC Mountain](https://www.lifewire.com/thmb/YazM4IIiw6qfR_cd-AfR8Cek9pg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-10-b813058de14c4b92978d22f84715ab98.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process and Performance: A rough start**
 
@@ -180,25 +199,39 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![AC ruins](https://www.lifewire.com/thmb/R1pb8_CqlpJqAmK9Ka9-pgyOyJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-3-ea07cee8afaa4cc89c4e2bb286b894a0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
  On a[gaming PC](https://www.lifewire.com/best-gaming-pcs-4045451) with a more powerful processor, more RAM, and an RTX 2070[GPU](https://www.lifewire.com/best-graphics-cards-4692676) , I didn’t encounter any glitches. However, the game is extremely power-hungry, and I was only able to run it at max settings with 60fps at 1080p. Ubisoft titles are known for being poorly optimized at launch, so this game should perform better after a few patches. Still, it’s clearly designed for next-gen consoles and the latest PC hardware. If you are playing on PC, be sure to utilize the benchmarking tool to find the ideal settings for your system.
 
  Of course, if you’re playing on[console](https://www.lifewire.com/best-gaming-consoles-4154610) you don’t have to worry about performance issues since the game is better optimized. It’s currently available for Xbox One and PlayStation 4, and will be available for the Xbox Series X and PlayStation 5 at launch. You can also get it on[Google Stadia](https://www.lifewire.com/google-stadia-review-4788032) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Typical AAA**
 
  The base game will set you back the typical $60, while the gold edition bundles in the season pass and costs a full $100\. That will include the planned expansions which will add Ireland and France to the map. Expensive though $100 is, it does promise a potentially huge amount of content. The game also has microtransactions, which is a bit of a bummer, though these weren’t integrated into the game at the time of writing.
 
 ![AC horse](https://www.lifewire.com/thmb/teY5MG-6xAT5sxNurIFy_iYPPvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-2-58ab82ef1f624e01b1c1c6dab8bca06b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Assassin’s Creed: Valhalla vs. Watch Dogs: Legion**
 
@@ -218,14 +251,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Platforms  PC, Xbox Series X, Xbox One, PlayStation 5, PlayStation 4, Stadia
 * Rating  M
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -234,4 +264,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-tutorial-for-successful-youtube-video-submissions/"><u>[New] 2024 Approved Step-By-Step Tutorial for Successful YouTube Video Submissions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-success-setup-top-trending-tools-and-products-for-todays-entrepreneurs/"><u>[New] 2024 Approved The Ultimate Success Setup Top Trending Tools and Products for Today's Entrepreneurs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop/"><u>[New] Swift Upload of Sizeable Videos From iPhone to Mac Desktop</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-seamless-file-transition-youtube-to-mp4-high-definition-upgrade-included/"><u>[Updated] 2024 Approved Seamless File Transition YouTube to MP4, High-Definition Upgrade Included</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/celebrating-teac-pd-301-a-symphony-of-style-and-sound-quality/"><u>Celebrating Teac PD-301: A Symphony of Style and Sound Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-apple-watch-series-6-a-small-step-forward-still-unmatched-in-performance/"><u>Evaluating Apple Watch Series 6: A Small Step Forward, Still Unmatched in Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-arlo-video-doorbell-overview-combining-security-with-visual-alerts/"><u>Exclusive Arlo Video Doorbell Overview: Combining Security with Visual Alerts</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-back-deleted-iphone-photographs-on-icloud-using-these-8-effective-tips/"><u>How To Get Back Deleted iPhone Photographs on iCloud Using These 8 Effective Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lihans-premium-lhfm1039-reviewed-revolutionize-your-car-stereo-with-bluetooth-compatibility/"><u>Lihan's Premium LHFM1039 Reviewed: Revolutionize Your Car Stereo with Bluetooth Compatibility</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/seamless-guide-to-duplicating-your-hard-drive-on-windows-11-both-64-bit-and-32-bit/"><u>Seamless Guide to Duplicating Your Hard Drive on Windows 11 (Both 64-Bit and 32-Bit)</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-removing-the-white-canvas-in-microsoft-paint/"><u>Step-by-Step Guide: Removing the White Canvas in Microsoft Paint</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-2019-amazon-kindle-guide-great-value-and-quality-at-an-attractive-price/"><u>The 2019 Amazon Kindle Guide - Great Value and Quality at an Attractive Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-adventure-tech-unpacking-the-features-of-garmins-gpsmap/"><u>Top-Tier Adventure Tech: Unpacking the Features of Garmin's GPSMAP</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-computing-with-the-raspberry-pi-400-an-in-depth-look-at-a-keyboard-based-mini-pc/"><u>Transforming Computing with the Raspberry Pi 400: An In-Depth Look at a Keyboard-Based Mini PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-evaluation-is-the-price-tag-worth-the-agility-of-swagtrons-swagboard-t1/"><u>Unboxing & Evaluation: Is the Price Tag Worth the Agility of Swagtron's Swagboard T1?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-excellence-thorough-assessment-of-the-linksys-wrt3200acm-the-premier-open-source-router/"><u>Unveiling Excellence: Thorough Assessment of the Linksys WRT3200ACM, The Premier Open Source Router</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master PC Gameplay by Seamlessly Integrating Controller and Mouse
-date: 2024-09-24T17:48:07.985Z
-updated: 2024-10-01T17:35:55.490Z
+date: 2024-10-06T16:33:19.021Z
+updated: 2024-10-12T19:17:21.217Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The "Why Not Both?" meme is more than a little overused when it comes to decisions between two good things, but it's the perfect answer to the question of whether you should use a controller or a mouse to play your favorite games.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Keyboards Suck for Movement, Controllers Suck for Aim
 
  The main problem is that keyboards are not analogue. A key is either depressed or it isn't. This makes it essentially impossible to implement manual movement control for games using a keyboard. You have a walking speed and a sprinting speed, with nothing in between, and a significant amount of imprecision as a result. That analog thumb stick on the controller lets you precisely control the velocity of your character, and it's intuitive.
@@ -28,13 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  However, as soon as you try and use that same type of thumb stick to aim, things go south quickly. When we look at something with our heads, we turn and snap to it. You don't slowly accelerate and decelerate your head, overshoot what you wanted to look at, and then turn back. However, that's exactly what happens with an analogue thumb stick, and it's why any console games that require precise and fast aiming come with "aim assist" which snaps your reticle to the target or otherwise fudges it when its close enough.
 
  So we have two halves of a good control scheme, which brings us back to...
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Not Both?
 
@@ -45,10 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  There are a few ways to address this beyond what I just mentioned. For example, many mice these days have numerous side and thumb buttons that can be assigned to take over common things you might want to do during a game, such as tossing a grenade or melee attacks. Also, don't forget that you have an entire D-pad on the left side of a standard controller, which is perfect for common functions like using a healing item or swapping weapons.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Configure Controller and Mouse Together
@@ -60,28 +60,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  So, all that's left is to dig through the key binding settings for your game, and assign the right function to the right button either on your controller or mouse. If you're lucky, they should all sort into something that's quite playable!
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Dedicated Combo Peripherals
 
 ![Hori Tactical Assault Commander controller combo with half controller and mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/hori-tactical-assault-commander.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hori
 
  If you want to achieve the same synergy of controller and mouse on console, you don't have quite this amount of flexibility. However, there have been a few dedicated combo controllers over the years. Sadly, they were never particularly popular, nor by all accounts much good, but it's worth pointing out that this idea isn't new or that outlandish.
 
  There's the [SplitFish Shark](https://eu.splitfish.com/fragfx-game-controllers/fragfx-shark-ps4.html?%5F%5F%5Fstore=english&%5F%5F%5Ffrom%5Fstore=default) which has various iterations for different consoles. Even HORI, which is one of the most eminent controller makers in the world, took a stab at it with the [HORI Tactical Assault Commander G2](https://www.amazon.com/Tactical-Assault-Commander-KeyPad-Gamepad-Controller/dp/B01L8QL2N8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002794&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fforget-picking-between-controller-or-mouse-for-pc-gaming-use-both-and-never-look-back%2F&asc%5Fcampaign=Evergreen).
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Is Dual-Wielding Better?
 
@@ -104,20 +104,18 @@ Hori
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/hortening-success-youtubes-leading-link-minimizers-compared-for-2024/"><u>[New] Shortening Success YouTube's Leading Link Minimizers Compared for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rapping-up-with-impactful-endings-for-2024/"><u>[New] Wrapping Up with Impactful Endings for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-top-8-instagram-ae-design-choices/"><u>[Updated] Unveiling the Top 8 Instagram AE Design Choices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-for-success-in-online-content-creation/"><u>2024 Approved Strategies for Success in Online Content Creation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/begin-your-journey-into-xps-video-editing-world/"><u>Begin Your Journey Into Xp's Video Editing World</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-strategies-for-documenting-ps3-matches/"><u>Essential Strategies for Documenting PS3 Matches</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-13-mini-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 13 mini?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sony-xperia-5-assessment-compact-size-with-premium-pricing/"><u>Sony Xperia 5 Assessment: Compact Size with Premium Pricing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/studiofxs-bright-kit-reviewed-for-durability-and-efficiency/"><u>StudioFX's Bright Kit Reviewed for Durability & Efficiency</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-of-both-worlds-powerful-performance-and-value-in-the-samsung-galaxy-a5n-5g/"><u>The Best of Both Worlds: Powerful Performance and Value in the Samsung Galaxy A5n 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-surreal-space-saga-reviewed-by-aminy/"><u>The Surreal Space Saga Reviewed by Aminy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-caixun-75-4k-android-smart-tv-exceptional-value-for-money/"><u>The Ultimate Guide to Caixun 75 4K Android Smart TV: Exceptional Value for Money</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-gaming-experience-unleashed-an-in-depth-analysis-of-xbox-one-xs-dominance-in-todays-console-battle/"><u>Ultimate Gaming Experience Unleashed: An In-Depth Analysis of Xbox One X's Dominance in Today’s Console Battle</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-the-right-travel-friendly-laptop-chargers/"><u>Ultimate Guide to Choosing the Right Travel-Friendly Laptop Chargers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-narrative-excellence-leveraging-chatgpt-for-superior-storytelling-techniques/"><u>Unlocking Narrative Excellence: Leveraging ChatGPT for Superior Storytelling Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-seamlessly-saving-your-screen-premium-choices-on-pc-and-mac/"><u>[New] Seamlessly Saving Your Screen Premium Choices on PC & Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-twitch-vs-youtube-a-complete-comparison/"><u>[Updated] Twitch Vs. Youtube – A Complete Comparison</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apples-laptop-lineup-explained-how-does-macbook-air-stack-up-against-macbook-pro/"><u>Apple's Laptop Lineup Explained: How Does MacBook Air Stack Up Against MacBook Pro?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/from-sky-to-framing-a-compreenasive-review-of-the-drone-dji-spark-for-2024/"><u>From Sky to Framing A Compreenasive Review of the Drone DJI Spark for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-infinix-gt-10-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Infinix GT 10 Pro online without jailbreak</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-dell-g5-5090-assessment-affordable-powerhouse-gamers-choice-with-plenty-of-customization/"><u>In-Depth Dell G5 5090 Assessment: Affordable Powerhouse Gamers' Choice with Plenty of Customization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-windows-os-on-steam-deck-explained/"><u>Installing Windows OS on Steam Deck Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-big-screen-brilliance-an-insightful-look-at-the-samsung-galaxy-note-review/"><u>Mastering Big-Screen Brilliance: An Insightful Look at the Samsung Galaxy Note Ⅸ Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nokia-31-analysis-your-ideal-entry-level-smartphone-guide/"><u>Nokia 3.1 Analysis: Your Ideal Entry-Level Smartphone Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/omoton-t1-tablet-stand-review-a-sturdy-and-affordable-option/"><u>Omoton T1 Tablet Stand Review: A Sturdy And Affordable Option</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-modern-warfare-is-finally-playable-heres-how-202n4/"><u>PC Gamers Rejoice! Modern Warfare Is Finally Playable – Here's How (202N4)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tech-review-spotlight-how-does-the-samsung-galaxy-aa71-5g-stack-up-against-elite-smartphones/"><u>Tech Review Spotlight: How Does the Samsung Galaxy A^[A71 5G] Stack Up Against Elite Smartphones?</u></a></li>
 </ul></div>
 

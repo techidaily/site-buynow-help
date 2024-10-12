@@ -1,7 +1,7 @@
 ---
 title: The HP Omen Obelisk Reviewed – High Performance Meets Great Affordability for Serious Gamers
-date: 2024-08-27T06:38:35.714Z
-updated: 2024-08-28T06:38:35.714Z
+date: 2024-10-11T17:57:05.116Z
+updated: 2024-10-12T17:57:25.434Z
 categories:
   - BestProducts
 description: This Article Describes The HP Omen Obelisk Reviewed – High Performance Meets Great Affordability for Serious Gamers
@@ -58,9 +58,6 @@ thumbnail: https://www.lifewire.com/thmb/eet3-JUCe-afDSmBjGLeKPT2dAw=/400x300/fi
 
  It also has advanced technologies such as MU-MIMO and beamforming, so it feels like a fully capable device. You’ll pay a bit more for this one compared to some of the entry-level plug-in Wi-Fi extenders, but if your home is plagued by wireless dead zones or you just want to ensure a more consistent high-speed signal throughout your dwelling, then this is a strong option. I tested the Netgear Nighthawk X4 for several days in my house for a variety of needs, including everyday work, playing online games, and streaming media.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## **Design: Hearty, but still compact**
 
  At just over 6 inches tall and 3 inches wide, the Netgear Nighthawk X4 Wi-Fi Mesh Extender might look a little too large to hang from a wall outlet, but most of the weight is concentrated at the base where it plugs in. It’ll only take up one plug on an outlet, leaving the other free, and it stayed securely in place during use.
@@ -72,13 +69,20 @@ thumbnail: https://www.lifewire.com/thmb/eet3-JUCe-afDSmBjGLeKPT2dAw=/400x300/fi
 ![Netgear Nighthawk X4 (EX7300) Wi-Fi Mesh Extender](https://www.lifewire.com/thmb/ahWiBPBlk75slmsmgc-c4cnSgf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkX4_03-6a6cab81b4ec4da39c89aa3a92cb1f16.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Simple setup, awkward app**
 
  Setting up the Netgear Nighthawk X4 essentially means capturing the signal from your Wi-Fi router and then finding an ideal spot to place the extender to bring Wi-Fi into dead zones and areas with an inconsistent signal.
@@ -94,14 +98,20 @@ thumbnail: https://www.lifewire.com/thmb/eet3-JUCe-afDSmBjGLeKPT2dAw=/400x300/fi
 ![Netgear Nighthawk X4 Wi-Fi Mesh Extender](https://www.lifewire.com/thmb/rfn4cAzCyxeBXmoIx0VVBH7R0w8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkX4_04-188447741dad41d7a4c51fd7c71861f2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Connectivity: Steady, stellar speeds**
 
@@ -121,17 +131,17 @@ thumbnail: https://www.lifewire.com/thmb/eet3-JUCe-afDSmBjGLeKPT2dAw=/400x300/fi
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Worth the investment**
 
  At an MSRP of $150 but often seen now for $130, the Netgear Nighthawk X4 Wi-Fi Mesh Extender costs a fair bit more than a simpler entry-level extender, but the strong performance—especially on the 5GHz band—makes it a worthy investment if you plan on playing online games or streaming extensive media. There are much cheaper Wi-Fi extenders out there, however (like the one below), if your needs aren’t very extensive.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Netgear Nighthawk X4 vs. TP-Link RE200**
 
 [TP-Link’s RE200](https://www.lifewire.com/tp-link-re200wi-fi-range-extender-review-4846136) (view at[Walmart](https://www.walmart.com/ip/42300087) ) is similar in its plug-in approach, but it’s much smaller and costs a fraction of the price at $30\. It also gave me solid connectivity on 2.4GHz, although the 5GHz performance left something to be desired.
@@ -155,14 +165,11 @@ thumbnail: https://www.lifewire.com/thmb/eet3-JUCe-afDSmBjGLeKPT2dAw=/400x300/fi
 * Ports  1x Ethernet
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -171,4 +178,26 @@ thumbnail: https://www.lifewire.com/thmb/eet3-JUCe-afDSmBjGLeKPT2dAw=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-help.techidaily.com/marvels-avengers-striking-a-note-between-greatness-and-mundanity/"><u>'Marvel's Avengers': Striking a Note Between Greatness and Mundanity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-heartfelt-thanks-otu-selection-at-your-fingertips/"><u>[New] Heartfelt Thanks OTU Selection at Your Fingertips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-image-purity-via-photopea-methods/"><u>[Updated] Streamlining Image Purity via Photopea Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-photo-safekeeping-top-free-and-paid-cloud-storage-solutions/"><u>2024 Approved Exclusive Photo Safekeeping Top Free & Paid Cloud Storage Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-ultra-fast-windows-view-for-pictures/"><u>2024 Approved Ultra-Fast Windows View for Pictures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-the-samsung-galaxy-a71-5g-the-smart-and-affordable-choice-for-tech-enthusiasts/"><u>A Comprehensive Review of the Samsung Galaxy A71 5G - The Smart and Affordable Choice for Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boosting-revenue-from-your-blog-through-advertisements-on-buyselladscom/"><u>Boosting Revenue From Your Blog Through Advertisements on BuySellAds.com</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-create-memes-with-kapwing-magic-tool/"><u>In 2024, Create Memes with Kapwing Magic Tool</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-go-2023-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark Go (2023) Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-6-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-the-netgear-c3nce-modem-rouer-as-a-primarily-modem-device/"><u>In-Depth Analysis: The Netgear C3nce Modem-Rouer as a Primarily Modem Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-oneplus-nord-n10-5g-a-must-read-assessment/"><u>In-Depth Evaluation of OnePlus Nord N10 5G - A Must-Read Assessment!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-star-wars-squadrons-the-ultimate-galactic-fighting-adventure/"><u>In-Depth Review of Star Wars: Squadrons - The Ultimate Galactic Fighting Adventure</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/operational-update-troubled-obs-camera/"><u>Operational Update Troubled OBS Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pros-and-experts-choice-discover-the-finest-12-stock-photography-sites/"><u>Pros and Experts' Choice Discover the Finest 12 Stock Photography Sites</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-speaker-face-off-unveiling-the-pros-of-google-assistant-and-alexa/"><u>Smart Speaker Face-Off: Unveiling the Pros of Google Assistant and Alexa</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-photoscape-evaluating-an-affordable-alternative-for-image-editing-needs/"><u>The Ultimate Guide to PhotoScape: Evaluating an Affordable Alternative for Image Editing Needs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tutorial-using-revo-uninstaller-for-permanent-file-deletion-on-windows-11-and-10/"><u>Ultimate Tutorial: Using Revo Uninstaller for Permanent File Deletion on Windows 11 & 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-endless-motivation-with-fitbit-versa-3s-inbuilt-navigation-and-health-monitoring-features/"><u>Unleash Endless Motivation with Fitbit Versa 3'S Inbuilt Navigation & Health Monitoring Features</u></a></li>
+</ul></div>
 

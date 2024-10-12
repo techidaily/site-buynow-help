@@ -1,7 +1,7 @@
 ---
 title: "GameSpotlight: Yakuza - Like a Dragon Analysis – Unmissable RPG Experience"
-date: 2024-08-22T13:04:59.034Z
-updated: 2024-08-23T13:04:59.034Z
+date: 2024-10-09T18:03:32.691Z
+updated: 2024-10-12T18:49:48.067Z
 categories:
   - BestProducts
 description: "This Article Describes GameSpotlight: Yakuza - Like a Dragon Analysis – Unmissable RPG Experience"
@@ -42,6 +42,13 @@ Lifewire / Jordan Provost
 
 ![Nokia 7.1](https://www.lifewire.com/thmb/FPdNqEjtI6f1tbMbciesCKN2pRQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4045957-4_hero-14043634662d46998584bb21b3d7becd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Jordan Provost
 
 [View On Amazon](https://www.amazon.com/dp/B0883DGM5X/?tag=lifewire-onsite-prod-20&ascsubtag=4686097%7Cn75ebf34f23a54c469b9761158943aeec15%7CB0883DGM5X) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnokia-7-1-with-64gb-memory-cell-phone-unlocked-blue%2F6291898.p%3FskuId%3D6291898)
@@ -74,15 +81,18 @@ Lifewire / Jordan Provost
 
 [Phone Reviews & Top Picks](https://www.lifewire.com/best-android-smartphones-577403)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## **Design: A mid-range phone with high-end sensibilities**
 
  The Nokia 7.1 is a mid-range handset that could pass for a higher-end device if you squint. It features the same general design—a glass front and back separated by an aluminum body—that we’ve seen so many times before, but it has a few design tweaks that help it stand out. The matte aluminum body features chamfered edges that add a bit of visual flair, especially when they catch the light.
 
 ![Nokia 7.1](https://www.lifewire.com/thmb/1cMJEwjyd7B1WxBO7uBZOm0C2So=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4045957-4_3-483bfb6a868848adaaf021846b9fb559.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jordan Provost
 
@@ -94,9 +104,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Lifewire / Jordan Provost
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Requires updates out of the box**
 
  Setting up the Nokia 7.1 is a breeze if you have a Google account ready to go. Since it uses stock Android and is part of the Android One program, there aren’t any extra hoops to jump through. The only hiccup we experienced was the flood of required updates right out of the box—make sure you allow some extra time to download and install everything.
@@ -104,18 +111,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Nokia 7.1](https://www.lifewire.com/thmb/LkCNBmkQjVwHH-SoT7i4QFOrSsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4045957-4_1-83b2f49a5f2c4443b2b7f30b502fd094.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Jordan Provost
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Great for a mid-range handset**
 
  The Nokia 7.1 isn’t a powerhouse, but it offers great performance compared to a lot of other mid-range handsets. It features the Snapdragon 636 processor, Adreno 509 GPU, and 4GB of RAM, which is pretty good for a mid-range device like this.
@@ -132,9 +135,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  It’s important to note that when the Nokia 7.1 launched, it was plagued with complaints about slow operation, lag, and an unresponsive touchscreen. These appear to have been software-related issues that have since been fixed, as we experienced no such problems in our hands-on testing.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Connectivity: Data connection is slow**
 
  In our testing, the Nokia 7.1 performed exceedingly well when connected to Wi-Fi, but it had far more problems with mobile data compared to similar handsets we tested. Connected to T-Mobile’s 4G LTE network (indoors), the Nokia 7.1 achieved 4.03 Mbps down and just 0.11 Mbps up via the Ookla Speedtest app. Tested at the same time, in the same location, a Google Pixel 3 recorded 4.69 Mbps down and 1.33 Mbps up.
@@ -144,8 +144,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Despite these connectivity problems, we were still able to stream YouTube videos and music from Google Play over the data connection.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Display Quality: HDR quality with a chunky notch**
 
  The Nokia 7.1 has a 5.84-inch screen with a resolution of 2160 x 1090, laid out as a tall, narrow display with an aspect ratio of 19:9\. It has a chunky notch at the top for the front-facing camera and pleasantly rounded edges. The viewing angles are excellent, and the screen is bright enough to see in direct sunlight.
@@ -185,8 +189,12 @@ Lifewire
 ![Nokia 7.1 cat photo](https://www.lifewire.com/thmb/hepqa5K_YkbwuC1_7lRbkLgxJVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cat-photo7-e1f061ad95324519a4cd85a39faeb1a7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire
 
  This means a photo that looks fantastic on the phone may look washed out or less clear when viewed on another device. The camera is capable of taking great snaps, but it’s important to keep that in mind. If you want your pictures to look as brilliant on your computer as they do on your phone, you’ll have to make some image adjustments after the fact.
@@ -194,6 +202,13 @@ Lifewire
  The handset also supports the “bothie” feature that Nokia has been pushing. This feature enables you to take photos or videos with the front-facing and rear-facing cameras at the same time (if that’s something you ever felt the need to do). It also has a very competent Bokeh feature that holds your subject in sharp focus while blurring the background.
 
  The hardware just isn’t there to challenge the best phone cameras found in flagship devices from the likes of Samsung, Apple, or Google, but the Nokia 7.1 doesn’t come with a flagship price tag either.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery: Enough to last through the work day**
 
@@ -204,8 +219,12 @@ Lifewire
 ![Nokia 7.1](https://www.lifewire.com/thmb/cD8xK_vs2o2eQxdv-D11RS_1jhE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4045957-4_5-e19cf3cd1c1f41f69279dbbcf965caf3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Jordan Provost
 
  If you’re a heavier user, you may need to find a charger at some point during the day, but even lighter users would be well advised to plug in at night. You’re unlikely to get multiple days out of a single charge unless you barely use the device at all.
@@ -224,9 +243,6 @@ Lifewire
 
  The Nokia 7.1 is a mid-range handset in terms of price, but it packs a lot of features that you’d expect from a much more expensive phone. It retails for $349 which, in the world of ever-expanding handset price tags, almost borders on the budget category. For what you get in terms of style, specifications, and features, that’s a pretty good deal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## **Competition: Stacks up well against the competition**
 
  The Nokia 7.1 has specs and performance that are more or less in line with flagship phones from the recent past and stacks up very favorably against contemporary mid-range phones. For example, the Motorola One retails at $399 and has a lower resolution display, a less competent camera, and an older, slower processor.
@@ -243,15 +259,19 @@ Lifewire
 
  The Nokia 7.1 isn’t a high-end device, but it brings a lot of premium quality and features to the table. If you’re in the market for a solid mid-range handset, you won’t do much better than this.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [OnePlus 6T](https://www.lifewire.com/oneplus-6t-phone-review-4589385)
 * [Nokia 6.1](https://www.lifewire.com/nokia-6-1-review-4689956)
 * [Motorola Moto G6](https://www.lifewire.com/motorola-moto-g6-review-4689366)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  7.1
@@ -278,8 +298,6 @@ Lifewire
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +305,20 @@ Lifewire
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-ultimate-laptop-and-mobile-roadmap-for-old-facebook-stories/"><u>[Updated] In 2024, The Ultimate Laptop & Mobile Roadmap for Old Facebook Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-apps-for-refining-dji-aerial-footage/"><u>2024 Approved Prime Apps for Refining DJi Aerial Footage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290010927-dvd/"><u>世界中どこからもダビングが可能!ローカルコードのないソフトで国際的なDVDスムーズ再生</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-binge-worthy-tv-streaming-options-available-in-2024/"><u>Best Binge-Worthy TV Streaming Options Available in 202^4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-ipad-edition-features-prices-and-reviews-compared/"><u>Best iPad Edition: Features, Prices, and Reviews Compared</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boost-your-workout-routine-the-fitbit-versa-3-featuring-built-in-gps-and-wellness-tools-to-keep-you-going/"><u>Boost Your Workout Routine: The Fitbit Versa 3 Featuring Built-In GPS and Wellness Tools to Keep You Going</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canon-eos-t7-review-a-significant-step-forward/"><u>Canon EOS T7 Review - A Significant Step Forward</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-the-best-streamer-chromecast-vs-roku-showdown/"><u>Choosing the Best Streamer: Chromecast Vs. Roku Showdown</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-studio-kit-for-affordable-illumination/"><u>Compact Studio Kit for Affordable Illumination</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-vividscreen-record-pro-win-10/"><u>In 2024, VividScreen Record Pro (Win 10)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-guide-to-flipping-videos-in-final-cut-pro/"><u>New In 2024, The Ultimate Guide to Flipping Videos in Final Cut Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-your-computer-mouse-continually-disconnects-and-how-to-resolve-it/"><u>Troubleshooting Guide: Why Your Computer Mouse Continually Disconnects and How to Resolve It</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-avi-to-mp4-how-to-cast-any-video-file-to-chromecast/"><u>Updated 2024 Approved From AVI to MP4 How to Cast Any Video File to Chromecast</u></a></li>
+</ul></div>
 

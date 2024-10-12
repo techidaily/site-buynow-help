@@ -1,7 +1,7 @@
 ---
 title: Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library
-date: 2024-09-24T16:01:55.054Z
-updated: 2024-09-26T16:33:01.099Z
+date: 2024-10-06T19:06:15.434Z
+updated: 2024-10-12T18:37:50.041Z
 tags:
   - games
   - tv
@@ -28,28 +28,35 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Brand-new games arrive on Xbox all the time, so it's easy to forget about the many older Xbox One titles. But there are a ton of last-generation games that are worth playing again on the latest hardward thanks to some big upgrades that overhaul performance, visuals, and even features.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 _Halo: The Master Chief Collection_ 
 
 ![The campaign selection screen in Halo: The Master Chief Collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/halo-mcc.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Xbox would not be the brand it is today without _Halo_. It's one of the most recognizable gaming franchises of all time, and back in 2014, the _Master Chief_ _Collection_ contained the series' best moments including the original trilogy, _Reach_, and _ODST_. Honestly, it's difficult for me to accept that _MCC_ is already ten years old!
 
  The collection gives you access to some of the best campaigns in FPS gaming, along with the multiplayer for each title (_Combat Evolved_ multiplayer is a real blast from the past), Forge modes, Theater, tons of achievements to pursue, Easter Eggs to find, and more. It's one of the best choices if you want the most bang for your buck.
 
  This release received plenty of upgrades for the Series X|S, including variable field of view adjustment, [support for 120 frames per second](https://hardware-tips.techidaily.com/comprehensive-review-of-popular-120mm-aftermarket-cpu-coolers-by-be-quiet-corsair-cooler-master-and-enermax/) for both single and multiplayer, and 4K resolution. It now looks and plays just as well as any modern game, and it's absolutely worth your time.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 _The Witcher 3: Wild Hunt_ 
 
@@ -65,6 +72,13 @@ _The Witcher 3_ is one of the highest-selling games of all time for good reason.
 
 ![Gameplay from DOOM Eternal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/doom-eternal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bethesda Softworks
 
  There were a lot of ecstatic fans when the _DOOM_ 2016 reboot blew all expectations out of the water and brought the classic franchise back into the limelight. This meant that _DOOM Eternal_ had a ton of hype as well, and thankfully it met all expectations.
@@ -76,10 +90,10 @@ Bethesda Softworks
 ![A cutscene from Star Wars Jedi: Fallen Order.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fallen-order.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Electronic Arts
@@ -102,13 +116,6 @@ Electronic Arts
 
 ![The main menu for Hellblade: Senua's Sacrifice.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hellblade.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Hellblade: Senua's Sacrifice_ is not a game that everyone is going to enjoy. Some people think it's like _Dark Souls_, but it's not really. You spend a lot of time walking around, listening to voices in your head and trying to figure out challenging puzzles. Occasionally, you get to fight some nightmarish foes, but it's not really an action game.
 
  To me, it's more of an artistic experience. _Hellblade_ is a beautiful game that delves into Norse mythology, particularly aspects of the afterlife. It's like walking through a Norse nightmare that's both eerily beautiful and terrifying. If you love games that focus on an intriguing narrative and gorgeous visuals more than anything else, you'll probably enjoy _Hellblade_.
@@ -116,10 +123,10 @@ _Hellblade: Senua's Sacrifice_ is not a game that everyone is going to enjoy. So
  Moreover, the sequel, _Hellblade 2_, arrived in 2024\. Now is a great time to play the original game. On the Series X|S, the game is even more visually incredible, thanks to [the inclusion of ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) and other graphical upgrades.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 _Mortal Shell_ 
@@ -134,23 +141,9 @@ Playstack
 
 _Mortal Shell_ has an enhanced edition for the Series X|S, improving its graphical fidelity. If you're looking for a quick but rewarding Souls-like experience, give _Mortal Shell_ a shot.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8 _Stellaris: Console Edition_ 
 
 ![Gameplay from Stellaris: Console Edition.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/stellaris.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Paradox Interactive
 
@@ -158,22 +151,35 @@ Paradox Interactive
 
  Destroy entire worlds, conquer other empires, take over the galaxy as a sentient fungal hivemind horror: you name it, _Stellaris_ probably lets you do it. I can personally attest that _Stellaris_ plays very intuitively with a controller, which many 4X games on console can't claim. Being a strategy game, graphics aren't _that_ important, but a performance-optimized version for the X|S does exist now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9 _Cyberpunk 2077_ 
 
 ![Gameplay from Cyberpunk 2077.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cyberpunk-2077.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 CD Projekt Red
 
  If you tried to play _Cyberpunk 2077_ when it first debuted on the Xbox One, you probably remember that it was a really rough launch. Console versions were full of bugs and performance issues, to the extent that Sony even removed the game from its stores for a time. It was a real shame because the game was highly praised for its interesting setting, intriguing narrative, and memorable characters.
 
  The good news is that this critically acclaimed title is in a much better state today, and it has a Series X|S version optimized for the newer hardware. It looks better, runs better, plays better, and there's a big DLC expansion available too. So if you avoided [playing _Cyberpunk 2077_](https://some-approaches.techidaily.com/updated-top-10-impressive-srt-converters-for-mac-and-windows/) due to its rough launch, now would be a great time to give it a shot on the Series X|S.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10 _Sea of Thieves_ 
 
@@ -204,18 +210,14 @@ Microsoft Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-compreranse-google-meets-board-features-for-compelling-remote-collaboration-on-all-platforms/"><u>[New] Compreranse Google Meet's Board Features for Compelling Remote Collaboration on All Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-preferred-applications-vtubers-sonic-transformation-journey/"><u>2024 Approved Guide to Preferred Applications Vtuber's Sonic Transformation Journey</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-mice-compatible-with-ipads-a-comprehensive-review/"><u>Best Mice Compatible with IPads – A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/book-lovers-guide-to-portable-e-readers-unveiling-the-kobo-clara-hd/"><u>Book Lovers' Guide to Portable E-Readers: Unveiling the Kobo Clara HD</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canon-powershot-sx530-a-budget-friendly-starter/"><u>Canon PowerShot SX530 - A Budget-Friendly Starter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canuck-communicators-speak-up-a-critical-review-of-fongo-voip-in-canada/"><u>Canuck Communicators Speak Up: A Critical Review of Fongo VoIP in Canada</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-synology-rt2-2600ac-a-dual-function-router-with-extended-coverage-and-advanced-family-safety/"><u>Comprehensive Analysis of Synology RT2 2600Ac – A Dual-Function Router with Extended Coverage & Advanced Family Safety</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-for-overcoming-common-problems-on-the-facetime-platform/"><u>Expert Tips for Overcoming Common Problems on the FaceTime Platform</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-itel-a60s-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Itel A60s Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g42-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia G42 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/master-spanish-while-chatting-in-virtual-reality-social-spaces/"><u>Master Spanish While Chatting in Virtual Reality Social Spaces</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-calling-out-custom-gpts-in-conversations-with-chatgpt/"><u>Mastering the Art of Calling Out Custom GPTs in Conversations with ChatGPT</u></a></li>
-<li><a href="https://article-tips.techidaily.com/reviving-rare-memories-turning-photos-into-engaging-videos/"><u>Reviving Rare Memories Turning Photos Into Engaging Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advanced-screen-recording-methods-on-dell-laptops/"><u>[Updated] In 2024, Advanced Screen Recording Methods on Dell Laptops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/conquering-all-terrain-in-depth-review-of-the-top-race-rc-rock-crawler-vehicle/"><u>Conquering All Terrain: In-Depth Review of the Top Race RC Rock Crawler Vehicle</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-the-cord-a-comprehensive-review-of-the-amazon-basics-flat-antenna-for-free-tv-enthusiasts/"><u>Cutting the Cord: A Comprehensive Review of the Amazon Basics Flat Antenna for Free TV Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-affordable-excellence-in-surveillance-the-pruveeo-f5-1080p-dash-cam-evaluated/"><u>Discover Affordable Excellence in Surveillance: The Pruveeo F5 1080P Dash Cam Evaluated</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-battery-life-with-a-larger-battery-capacity-than-its-predecessor-users-can-expect-improved-battery-life-for-day-to-day-use/"><u>Enhanced Battery Life: With a Larger Battery Capacity than Its Predecessor, Users Can Expect Improved Battery Life for Day-to-Day Use.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-15-pro-max-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 15 Pro Max Lock Screen</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unlocking-free-content-creation-blending-text-and-video/"><u>In 2024, Unlocking Free Content Creation Blending Text & Video</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-magic5-ultimate-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Magic5 Ultimate Screen | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-guide-to-premium-audio-editors-for-creative-distortion/"><u>Updated The Ultimate Guide to Premium Audio Editors for Creative Distortion</u></a></li>
 </ul></div>
 

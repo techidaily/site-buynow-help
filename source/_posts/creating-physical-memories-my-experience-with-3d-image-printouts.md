@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2024-10-05T22:52:13.904Z
-updated: 2024-10-06T17:12:50.822Z
+date: 2024-10-05T18:03:42.570Z
+updated: 2024-10-12T19:15:26.057Z
 tags:
   - games
   - tv
@@ -21,11 +21,25 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
  Photos are 2D, and so surely you'd only want to print them using a normal everyday 2D printer? However, it turns out you can create a "lithophane" from a photo and turn your snaps into actual plastic models.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is a Lithophane Exactly?
 
  True lithophanes are porcelain pieces that have designs pressed into them when the porcelain is soft. Then, when held up to a light, the image becomes visible. The different thicknesses of the porcelain let through different amounts of light, and you effectively have a grayscale image.
 
  While working with porcelain isn't something you can do at home typically, if you have a 3D printer you can emulate the same effect and make a lithophane by printing it. When you hold the lithophane up to the light, your original image appears. It's a neat effect and, thanks to the flexibility of 3D printing, you can make all sorts of interesting decorations using this method.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Converting an Image to a Lithophane
 
@@ -38,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
@@ -50,25 +64,11 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
 
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Printing Your Lithophane
 
@@ -83,10 +83,10 @@ Close
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -108,14 +108,21 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-fbx-techniques-for-capturing-games/"><u>[New] In 2024, Essential FBX Techniques for Capturing Games</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/s-it-lawful-to-screen-capture-youtube-content-in-2024/"><u>[New] Is It Lawful to Screen-Capture YouTube Content, In 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-which-channel-pulls-more-money-dailymotion-versus-youtube-monetization/"><u>[Updated] Which Channel Pulls More Money? Dailymotion Versus YouTube Monetization</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-adobe-cloud-essentials-and-top-alternatives/"><u>2024 Approved Mastering Adobe Cloud Essentials & Top Alternatives</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/maximize-search-efficiency-in-windows-11-top-six-techniques-uncovered/"><u>Maximize Search Efficiency in Windows 11: Top Six Techniques Uncovered</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-gaming-experience-optimal-ps4-camera-setup-tips/"><u>Maximizing Gaming Experience: Optimal PS4 Camera Setup Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oneplus-nine-smartphone-reviewed-are-you-getting-your-moneys-worth-mathematically/"><u>OnePlus Nine Smartphone Reviewed - Are You Getting Your Money’s Worth Mathematically?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/procase-for-mbac-pro-13-cost-efficient-laptop-cover-unboxed-and-reviewed/"><u>ProCase for MBAc Pro 13: Cost-Efficient Laptop Cover Unboxed and Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ride-through-ruin-exploring-days-gone-the-ultimate-bike-riding-survivor-game/"><u>Ride Through Ruin: Exploring Days Gone – The Ultimate Bike-Riding Survivor Game</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-navigating-instagrams-voice-customization-features/"><u>[New] 2024 Approved Navigating Instagram's Voice Customization Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-streamline-your-shots-a-windows-11-guide/"><u>[New] In 2024, Streamline Your Shots A Windows 11 Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-superior-2-written-by-robert-littell-for-2024/"><u>[New] Superior 2 Written by Robert Littell for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-discover-how-to-design-dynamic-youtube-music-playlists/"><u>[Updated] 2024 Approved Discover How to Design Dynamic YouTube Music Playlists</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-outriders-gameplay-with-these-expert-fixes-for-reducing-lag-and-increasing-fps/"><u>Boost Your Outriders Gameplay with These Expert Fixes for Reducing Lag and Increasing FPS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-rayman-legends-top-notch-puzzles-and-platforms-in-an-unmatched-2d-journey/"><u>Exploring Rayman Legends - Top-Notch Puzzles and Platforms in an Unmatched 2D Journey</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hp-omen-obelisk-desktop-review-high-end-gaming-at-great-value-prices/"><u>HP Omen Obelisk Desktop Review: High-End Gaming at Great Value Prices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-zero-5g-2023-turbo-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Zero 5G 2023 Turbo Phone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-integrating-movie-capture-across-all-operating-systems/"><u>In 2024, Integrating Movie Capture Across All Operating Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-michael-kors-gen-5e-mkgo-leather-case-the-perfect-blend-of-luxury-and-functionality/"><u>In-Depth Analysis of Michael Kors Gen 5E (MKGO) Leather Case: The Perfect Blend of Luxury and Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-asus-rog-gt-ac5300-evaluation-a-dream-for-gamers-and-tech-professionals/"><u>In-Depth Asus ROG GT-AC5300 Evaluation: A Dream for Gamers & Tech Professionals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-all-purpose-omni-20-by-omnicharge-a-game-changer-for-on-the-go-charging-and-qi-wireless-convenience/"><u>In-Depth Look at the All-Purpose Omni 20 by Omnicharge: A Game-Changer for On-the-Go Charging and Qi Wireless Convenience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ipad-pro-vs-macbook-pro-understanding-their-divergent-features/"><u>IPad Pro Vs. MacBook Pro - Understanding Their Divergent Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/jump-into-action-with-the-nikon-w100-camera/"><u>Jump Into Action with the Nikon W100 Camera</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-efficiency-edgedownloads-and-process-management/"><u>Mastering Efficiency: Edgedownloads & Process Management</u></a></li>
 </ul></div>
 

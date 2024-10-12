@@ -1,7 +1,7 @@
 ---
 title: "Opera GX vs Google Chrome: My Journey and Decision to Switch Back"
-date: 2024-09-29T17:14:49.658Z
-updated: 2024-10-01T18:02:09.800Z
+date: 2024-10-06T16:07:00.081Z
+updated: 2024-10-12T17:09:36.635Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
  When I first heard about Opera GX and the idea of a "gaming" browser, I was intrigued enough to try it out and see what the hype was about. Despite all the extra features and gimmicks, I ended up missing Chrome enough to go back to it anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Opera GX Excels At
 
  Opera GX is not without some neat perks like the built-in release calendar for upcoming games and seamless integration of browser plugins that are easier to turn on and off than on Chrome.
@@ -44,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
  Aside from promoting Twitch streamers and gaming YouTubers on its home page ads, it will also show you [games that are currently available for free on places like Epic Games](https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y77t-drfone-by-drfone-virtual-android/), PlayStation Plus, or Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Data Syncing is Inconsistent
 
  A main selling point for me, when I decided to try out Opera GX, was that it claimed to be able to move over my data from Chrome, namely my bookmarks and search history, in seconds. This proved to be true, as my bookmarked pages did show up when I logged in, but I quickly discovered that my saved passwords and login information did not come with it.
@@ -66,10 +52,10 @@ Jason Fitzpatrick / How-To Geek
  My download speeds are far from perfect, but on Chrome, they're at least consistent, meaning I can download a decently sizable file from anywhere quickly, without much hassle. On Opera GX, I've run into failed downloads and consistently slower speeds when downloading files bigger than an image or short video.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Gimmicky Features Make it Less Intiuitive
@@ -80,6 +66,13 @@ Jason Fitzpatrick / How-To Geek
 
  Opera GX also includes some built-in games, but many of them require a sign-up on an external site, which makes them clunky to access. They often aren't engaging enough to warrant making an account on another site to play something similar to what you could find on Steam for free anyway.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Browser Hubs: A Clunkier Way to Achieve the Same Goal
 
  Another major selling point of Opera GX is the fact that it bundles all of your recent searches or frequent sites into clusters on the home page for easy access via a single click. While this can look neat on the home page, it isn't that different from having a taskbar of bookmarked pages at the top of your screen on Chrome.
@@ -89,10 +82,10 @@ Jason Fitzpatrick / How-To Geek
 ![The Search History function on Opera GX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mixcollage-10-jul-2024-01-19-pm-538.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Lack of Support for Useful Browser Extensions
@@ -101,9 +94,23 @@ Jason Fitzpatrick / How-To Geek
 
 ![The Extensions page on Opera GX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/opera-snapshot_2024-07-10_122047_addons-opera-com.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The rest consist of things Chrome is already capable of without extensions, such as reverse image searching or the ability to translate websites into other languages. The lack of native support for [plugins like Grammarly](https://screen-recording.techidaily.com/essential-top-10-on-spotify-streams-for-2024/) also makes it less useful for professional uses.
 
  Opera GX also offers a built-in VPN, but since I already pay for a VPN that is much more robust, it isn't of much use to me.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Only One Account at a Time
 
@@ -112,13 +119,6 @@ Jason Fitzpatrick / How-To Geek
  Chrome, meanwhile, has a built-in menu screen that lets you pick between multiple added accounts for different people or different purposes, meaning the browser can be easily accessed by anyone, each with its own bookmarks and search histories.
 
 ![The "Profiles" page on Google Chrome, which appears on startup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mixcollage-10-jul-2024-01-33-pm-2768.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Since I use one account for work-related things like writing or responding to emails and another for personal browsing, I end up using Chrome to avoid having to log out entirely to access my work accounts.
 
@@ -143,21 +143,22 @@ Jason Fitzpatrick / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-premium-mobile-and-desktop-avc-viewer-with-ease/"><u>[New] 2024 Approved Premium Mobile and Desktop AVC Viewer with Ease</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-routines-for-easy-webinar-saves-on-windows-platform-for-2024/"><u>Essential Routines for Easy Webinar Saves on Windows Platform for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-fresh-batch-of-innovations-now-available-on-chatgpt/"><u>Explore the Fresh Batch of Innovations Now Available on ChatGPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-magic-vs-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor Magic Vs 2 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-save-your-screencasts-on-pc-with-free-tools/"><u>In 2024, Save Your Screencasts on PC with Free Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/iosandroid-playback-silent-youtube-autoplay-tips-for-2024/"><u>IOS/Android Playback Silent YouTube Autoplay Tips for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-mophies-ac-powerstation-balancing-price-and-portability-for-on-the-go-users/"><u>Review of Mophie's AC Powerstation - Balancing Price and Portability for On-the-Go Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/roku-streaming-devices-what-to-expect/"><u>Roku Streaming Devices: What to Expect ?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/step-into-better-imaging-with-these-gopro-extras/"><u>Step Into Better Imaging with These GoPro Extras</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-craft-an-invisible-taskbar-on-windows-11/"><u>Steps to Craft an Invisible Taskbar on Windows 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/studio-luxe-starter-set-limostudio-aggressive-glow/"><u>Studio Luxe Starter Set: LimoStudio Aggressive Glow</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-costly-creativity-companion-comprehensive-review-of-microsoft-surface-studio-2/"><u>The Costly Creativity Companion: Comprehensive Review of Microsoft Surface Studio 2</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-review-samsung-galaxy-note-9-dominates-in-phablet-segment/"><u>The Definitive Review: Samsung Galaxy Note 9 Dominates in Phablet Segment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-mix-of-elegance-and-technology-in-the-withings-move-reviewed-here/"><u>The Perfect Mix of Elegance and Technology in the Withings Move Reviewed Here!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-verdict-on-docooler-12mp-usb-webcam-exceptional-quality-or-just-a-marketing-gimmick/"><u>The Verdict on Docooler 12Mp USB Webcam: Exceptional Quality or Just a Marketing Gimmick?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-miniature-harmonies-character-music-journey/"><u>[Updated] 2024 Approved Miniature Harmonies Character Music Journey</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/auditory-appeal-infusing-music-into-instagram-stories-for-2024/"><u>Auditory Appeal Infusing Music Into Instagram Stories for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-indoor-antennas-showdown-how-the-1byone-digital-tv-signal-booster-outperforms-its-competitors-on-a-shoestring-budget/"><u>Best Indoor Antennas Showdown: How the 1BYONE Digital TV Signal Booster Outperforms Its Competitors on a Shoestring Budget</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dive-into-our-nook-glowlight-plus-review-with-barnes-and-noble-how-bigger-is-better-for-reading-devices/"><u>Dive Into Our Nook GlowLight Plus Review with Barnes & Noble: How Bigger Is Better for Reading Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-power-with-the-openai-api-unlimited-opportunities-explored/"><u>Harnessing Power with the OpenAI API: Unlimited Opportunities Explored</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-v30-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo V30 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-utilizing-volume-decrease-effects-within-audacity/"><u>In 2024, Utilizing Volume Decrease Effects Within Audacity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/motorola-edgeplus-assessment-not-quite-the-pinnacle-of-premium-phones/"><u>Motorola Edge+ Assessment: Not Quite the Pinnacle of Premium Phones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-mov-video-rotator-top-5-free-downloads/"><u>New 2024 Approved MOV Video Rotator Top 5 Free Downloads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sandisk-clip-jam-mp3-player-review/"><u>SanDisk Clip Jam MP3 Player Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screen-recording-pros-bandicam-or-camtasia/"><u>Screen Recording Pros Bandicam or Camtasia?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stellaris-review-a-game-of-space-exploration-empire-and-conquest/"><u>Stellaris Review: A Game of Space Exploration, Empire, and Conquest</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-premium-karaoke-equipment/"><u>The Ultimate Guide to Premium Karaoke Equipment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performers-a-selection-of-the-best-cable-modemrouter-combinations-available/"><u>Top Performers : A Selection of the Best Cable Modem/Router Combinations Available</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transforming-spaces-with-elegance-the-ultimate-review-of-the-stylish-taotronics-tt-dl16-led-light/"><u>Transforming Spaces with Elegance: The Ultimate Review of the Stylish TaoTronics TT-DL16 LED Light</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-twelve-south-compass-pros-ingenious-creation-for-optimal-balance/"><u>Ultimate Guide: Twelve South Compass Pro's Ingenious Creation for Optimal Balance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/webcam-capture-innovations-leading-applications-18/"><u>Webcam Capture Innovations Leading Applications, #18</u></a></li>
 </ul></div>
 

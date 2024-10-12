@@ -1,7 +1,7 @@
 ---
 title: "Plants Vs. Zombies' Comedy Hit in Neighborville: A Review of the Ultimate Veggie Shooter Game."
-date: 2024-08-22T13:10:44.720Z
-updated: 2024-08-23T13:10:44.720Z
+date: 2024-10-07T18:11:27.573Z
+updated: 2024-10-12T17:31:12.322Z
 categories:
   - BestProducts
 description: "This Article Describes Plants Vs. Zombies' Comedy Hit in Neighborville: A Review of the Ultimate Veggie Shooter Game."
@@ -41,6 +41,13 @@ Lifewire / Fred Meyer
 
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/ypwoGr7PKp9XOfm_EgF2BsvzZkg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-2LW4043312-1-5c924aa1c9e77c0001e11e41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Fred Meyer
 
 [View On Amazon $150](https://www.amazon.com/dp/B00HQ883QW/?tag=lifewire-onsite-prod-20&ascsubtag=4589563%7Cnf6fcfa1894d54bf0ada72e1fcaa1a30012%7CB00HQ883QW) [View On Walmart $65](https://www.walmart.com/ip/NETGEAR-AC1200-Dual-Band-Desktop-WiFi-Range-Extender-EX6200/34761189)
@@ -65,9 +72,6 @@ Lifewire / Fred Meyer
 
  We spent a week testing it, evaluating the design, ease of setup, network performance, and software.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: A router’s aesthetics**
 
  The red-and-black color scheme of the EX6200 makes it look more like something out of Netgear's Nighthawk line rather than their standard series of extenders. It has a more premium feel than most extenders, and it's refreshing compared to the boring white plug-in boxes that house the majority of its peers.
@@ -92,6 +96,13 @@ Lifewire / Fred Meyer
 
 ![Netgear EX6200 AC1200](https://www.lifewire.com/thmb/Lny9pSzLcp1hItabWfQAbx8cAoc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4043312-2-5c924b5846e0fb0001f8d14a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Fred Meyer
 
  Once you've got that taken care of, you'll have to find the best place for your extender's new home. If you're trying to improve the signal or hardwire something 25 feet away from your router or less, just plop it down in the area and you should be good to go. For further distances, you'll need to use a bit more finesse. Place the extender halfway between the router and the area you're trying to extend your Wi-Fi. Then you can check the light on top that shows the status of the connection between the extender and the router. Red is bad, yellow is mediocre, and green is good. If you've got a green, head over to the previously dead Wi-Fi area and check your network.
@@ -99,17 +110,12 @@ Lifewire / Fred Meyer
  If you've followed the above steps and your Wi-Fi connection is strong, you're good-to-go and you can start living your life with the Wi-Fi coverage you always knew you deserved. Otherwise, you'll have to shuffle the extender either closer to the dead zone or closer to the router until you find the sweet spot.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Netgear magic**
 
  The Netgear EX6200 doesn't require any special software installation. If you need to access the interface, you just need to be connected to it in some manner, either through Wi-Fi or Ethernet, and you can open the control panel in a browser. You can access the extender by either using the local address (<www.mywifiext.net>) or via the device's IP.
@@ -140,9 +146,6 @@ Lifewire / Fred Meyer
 
 Lifewire / Fred Meyer
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## **Network Performance: Adequate but not spectacular**
 
  Again, the EX6200 is a mid-range unit with a great design and a few bonuses, so don't buy it thinking you're going to get high-end performance. We found the unit performed adequately, but didn't exceed expectations. Most of the time, the EX6200 hovered around 500 to 700 Mbps up to the 50 feet mark. By the time we had reached 75 feet that speed had more than halved to 200-250 Mbps. At 85-90 feet the speed had dropped to 50 to 70 Mbps and we started experiencing intermittent disconnects.
@@ -152,12 +155,22 @@ Lifewire / Fred Meyer
  From our testing, we'd say the sweet spot for the EX6200 is 50 feet or less. Your results, of course, may vary depending on how many walls you place between yourself and the device and their composition. One area we did find the EX6200 excelled in is verticality. It seems like a lot of plug-in models have their range dramatically affected by height, but the EX6200 transmitted to the second floor into a room around 40 feet away in a straight line and we saw speeds around 300 to 350 Mbps.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: A solid balance**
 
  At $99.99 (MSRP) the EX6200 isn't exactly cheap. You can get extenders for $30 or lower that get the job done, but that's all they'll do. We found that the EX6200 struck a good balance between price and features, and is an excellent extender for most use cases.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Middle of the road choice**
 
@@ -173,17 +186,11 @@ Lifewire / Fred Meyer
 
  If you're in the market for an extender, the EX6200 is one of our favorites. It doesn't excel in any category, but it does everything it’s designed to do well.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Eero Pro Mesh Wi-Fi System](https://www.lifewire.com/eero-pro-mesh-wi-fi-system-review-4797008)
 * [TP-Link AC1200 RE305](https://www.lifewire.com/tp-link-ac1200-wifi-range-extender-re305-review-4589559)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AC1200 Wireless WiFi Range Extender (EX6200)
@@ -204,14 +211,11 @@ Lifewire / Fred Meyer
 * Number of Wired Ports  Five
 * Range  85 Feet Maximum
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -220,4 +224,18 @@ Lifewire / Fred Meyer
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-rise-to-success-with-these-essential-15-fb-sales-insights/"><u>[New] Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-efficient-overwatch-recording-techniques-exposed/"><u>[Updated] 2024 Approved Efficient Overwatch Recording Techniques Exposed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-swift-strategies-for-instagram-reel-success/"><u>[Updated] Swift Strategies for Instagram Reel Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-k11x-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo K11x Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-ultimate-picture-quality-with-samsung-qn55q6-in-depth-4k-uhd-and-hdr10plus-review/"><u>Experience Ultimate Picture Quality with Samsung QN55Q6지납습바 - In-Depth 4K UHD and HDR10+ Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-download-compatible-ipad-usb-drivers-for-windows-10-and-11/"><u>Free Download: Compatible iPad USB Drivers for Windows 10 & 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-mobvoi-ticwatch-pro-leads-as-an-exceptional-smartwatch-with-advanced-connectivity/"><u>How the Mobvoi Ticwatch Pro Leads as an Exceptional Smartwatch with Advanced Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/minecraft-unveiled-a-complete-analysis-suitable-for-every-age-group/"><u>Minecraft Unveiled: A Complete Analysis Suitable for Every Age Group</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-translate-live-video-making-it-possible-with-the-best-tool/"><u>New Translate Live Video Making It Possible With The Best Tool</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tt560-lights-up-reliability-in-a-simple-package/"><u>TT560 Lights Up: Reliability in a Simple Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-on-the-go-charging-with-halo-bolts-dual-purpose-power-unit-reviewed/"><u>Unlocking the Potential of On-the-Go Charging with Halo Bolt's Dual-Purpose Power Unit Reviewed</u></a></li>
+</ul></div>
 

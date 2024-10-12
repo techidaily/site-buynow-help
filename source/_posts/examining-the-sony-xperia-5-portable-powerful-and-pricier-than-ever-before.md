@@ -1,7 +1,7 @@
 ---
 title: "Examining the Sony Xperia 5: Portable, Powerful, And Pricier Than Ever Before"
-date: 2024-08-22T13:13:36.051Z
-updated: 2024-08-23T13:13:36.051Z
+date: 2024-10-10T16:28:34.104Z
+updated: 2024-10-12T18:09:19.690Z
 categories:
   - BestProducts
 description: "This Article Describes Examining the Sony Xperia 5: Portable, Powerful, And Pricier Than Ever Before"
@@ -40,6 +40,13 @@ Lifewire / Kelsey Simon
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/8XGs9qzQ6hLIBySEKXEvBMfEkq4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_1LW415460710-2185a26d460b40978c1e0887900fbc7b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/dp/B075NFTX36/?tag=lifewire-onsite-prod-20&ascsubtag=4685718%7Cn0dc423de187c40659bf9fd9ffcd5e7ec22%7CB075NFTX36) [View On Walmart](https://www.walmart.com/ip/829171723)
@@ -69,8 +76,12 @@ Lifewire / Kelsey Simon
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/uXDVHaBrdIlv5tI-qRgiPK0Iig4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460721-e6a53664e7eb4e65a75bf5cceb928e28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Plot: A huge world with loads to explore**
@@ -92,8 +103,12 @@ Lifewire / Kelsey Simon
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/1fxH7ty_kqxpugJDk2tIQndKvI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546078-6bdc67e56311473f9c1edeab00d2caa5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Gameplay: Not as smooth as on other platforms**
@@ -115,25 +130,30 @@ Lifewire / Kelsey Simon
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/2Fk-UTwglmoCdE7IXrXqlnXs9do=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460712-6cec58625d13430db671be3144451cbc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Graphics: A bit outdated**
 
  The graphics in Skyrim aren’t awful, but they haven't progressed much since 2011\. If you’ve played any other version of Skyrim, you can overlook it, simply because you know what you’re getting into. Bethesda attempted to make Skyrim look realistic, likely in their desire to give you a fully immersive experience. But these days, Skyrim’s graphics just aren’t as realistic as what other, more recent games have accomplished. In places, the mountains look blocky and the grass a little patchy. Character’s faces sometimes seem deeply sunken around the eyes, with the skin looking more like leather than flesh. It’s not that the graphics are overly bad, they’re just not as good as what you can get with better hardware on the PC.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Platform: Take Skyrim on the go**
 
@@ -147,6 +167,13 @@ Lifewire / Kelsey Simon
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/Iik6f_7RIRMWo5R6zGYxgGeL4n0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546076-8fb741faa7144fa6bafe386d2b7d8296.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Price: A tad expensive**
@@ -155,14 +182,8 @@ Lifewire / Kelsey Simon
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/HBIvthh4-o2kkXUP5CB6pSTnyOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460725-46d1960a611c4ea488515c19052068bf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Competition: Other action RPGs**
 
  The Elder Scrolls V: Skyrim almost competes with itself, due to how many other versions of the game are available on other platforms. But if you’re looking for role-playing games specifically designed for the Switch, it would be worth looking at The Legend of Zelda: Breath of the Wild. It was designed for the Switch from the beginning, sharing Skyrim’s action role-playing gameplay, but with crisp, beautiful graphics and smoother controls. If you’re interested in Japanese RPGs (JRPGs), it might also be worth looking into Xenoblade Chronicles 2, which will also share the same action-packed feel as Skyrim, but with a completely different graphics style and somewhat more complex combat and leveling.
@@ -179,10 +200,6 @@ Lifewire / Kelsey Simon
 * [Mario Kart 8 Deluxe](https://www.lifewire.com/mario-kart-8-deluxe-review-4688951)
 * [Splatoon 2](https://www.lifewire.com/splatoon-2-review-4688940)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  The Elder Scrolls V: Skyrim (Nintendo Switch)
@@ -190,14 +207,11 @@ Lifewire / Kelsey Simon
 * Price  $59.99
 * Available Platforms  Microsoft Windows, Nintendo Switch, PlayStation 3, PlayStation 4, Xbox 360, Xbox One
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -206,4 +220,22 @@ Lifewire / Kelsey Simon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-superior-iphone-editor-tools-pick-between-cameo-and-filmorago/"><u>[New] 2024 Approved Superior iPhone Editor Tools Pick Between Cameo and FilmoraGo</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamlining-mov-files-on-windows-11-os/"><u>[Updated] 2024 Approved Streamlining MOV Files on Windows 11 OS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-monetization-101-a-step-by-step-guide-for-profits/"><u>[Updated] In 2024, Vimeo Monetization 101 A Step-by-Step Guide for Profits</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-uniting-twitter-and-facebook-through-shared-content/"><u>2024 Approved Uniting Twitter and Facebook Through Shared Content</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/acer-r-11-chromebook-unveiled-sleek-design-meets-portability/"><u>Acer R 11 Chromebook Unveiled: Sleek Design Meets Portability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessment-of-the-compact-and-convenient-amazon-basics-tablet-holder-for-mobile-use/"><u>Assessment of the Compact and Convenient Amazon Basics Tablet Holder for Mobile Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-ultimate-ebook-reader-a-complete-review-of-the-2021-kindle-paperwhite-gen/"><u>Discovering the Ultimate Ebook Reader - A Complete Review of the 2021 Kindle Paperwhite (Gen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-oneplus-offers-and-promotions-this-cyber-monday/"><u>Exclusive OnePlus Offers & Promotions This Cyber Monday!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-garmin-forerunner-745-ultimate-guide-for-avid-athletes/"><u>In-Depth Analysis of the Garmin Forerunner 745: Ultimate Guide for Avid Athletes</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/profi-videokonvertierung-mit-digiarty-software-die-beste-losung-fur-dvd-konversionen/"><u>Profi-Videokonvertierung Mit Digiarty Software: Die Beste Lösung Für DVD Konversionen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-fongos-features-and-performance-in-canada/"><u>The Ultimate Guide to Fongo's Features and Performance in Canada</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-action-hunting-cameras-of-the-year/"><u>Top Action Hunting Cameras of the Year</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-cable-modem-models-your-ultimate-buying-guide/"><u>Top Rated Cable Modem Models : Your Ultimate Buying Guide</u></a></li>
+</ul></div>
 

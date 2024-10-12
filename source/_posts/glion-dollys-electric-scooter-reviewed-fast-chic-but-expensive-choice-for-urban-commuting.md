@@ -1,7 +1,7 @@
 ---
 title: "Glion Dolly's Electric Scooter Reviewed: Fast, Chic, But Expensive Choice for Urban Commuting"
-date: 2024-08-22T13:07:13.236Z
-updated: 2024-08-23T13:07:13.236Z
+date: 2024-10-06T18:47:22.713Z
+updated: 2024-10-12T19:12:08.810Z
 categories:
   - BestProducts
 description: "This Article Describes Glion Dolly's Electric Scooter Reviewed: Fast, Chic, But Expensive Choice for Urban Commuting"
@@ -36,6 +36,13 @@ Lifewire / Andrew Hayward
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Kootek Laptop Cooling Pad
 
 ![Kootek Laptop Cooling Pad](https://www.lifewire.com/thmb/vuq5u4XUGBs6ncFjbes1JatZvV8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kootek_Laptop_Cooling_Pad_HeroSquare-6441809b63624fe0a5eeff086503ee26.jpg)
@@ -64,9 +71,6 @@ _We purchased the Kootek Laptop Cooling Pad_   _so our reviewer could put it to 
 
  Kootek’s Laptop Cooling Pad isn’t the cheapest option around, nor is it the most premium—but it’s effective and sells for a reasonable price, and is large enough to accommodate larger laptops with 17-inch displays. A clunky height adjustment system is the main drawback, but it doesn’t stop the Kootek pad from working as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Design: Clunky, but it works
 
  The Kootek Laptop Cooling Pad is a larger unit, measuring nearly 15 inches wide, 11.8 inches tall, and about 1.4 inches thick, with a weight of 2.6 pounds. It’s heavier and bulkier than the lightweight TopMate C302 Cooling Pad, for example, and feels more durable as a result.
@@ -92,13 +96,20 @@ Lifewire / Andrew Hayward
 ![Kootek Laptop Cooling Pad](https://www.lifewire.com/thmb/A5iJ3c7mD8guT4DKXitqb3wlp6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kootek_Laptop_Cooling_Pad_03-9ec8e6afd494441f8ae20c38ae1fadbb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Performance: Cool and quiet
 
  I tested the Kootek Laptop Cooling Pad with the[Razer Blade 15 (2019)](https://www.lifewire.com/razer-blade-15-review-4845229) , featuring an Intel Core i7-9750H processor with 16GB RAM, along with the NVIDIA GeForce GTX 1660 Ti (6GB). It’s a solidly powerful gaming laptop, and I put it to the test with a couple of popular games as well as a graphics benchmark test.
@@ -113,17 +124,16 @@ Lifewire / Andrew Hayward
 
 ![Kootek Laptop Cooling Pad](https://www.lifewire.com/thmb/ppFnQ9kEpjbEV9cYbHzLRI5j-j8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kootek_Laptop_Cooling_Pad_05-4a4d5ee065a94c3e984ae0c96f4916d8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
  All told, the Kootek Laptop Cooling Pad made a solid effort in lowering the temperature of the Razer Blade 15 while playing Dirt 5 and Fortnite, although the cheaper, dual-fan TopMate C302 cooling pad saw slightly better overall results. Your experience may vary depending on your laptop of choice, however. All the while, the Kootek pad stayed pretty quiet in stark contrast to the Razer Blade’s own very loud internal fans.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: Entirely reasonable
 
@@ -132,6 +142,13 @@ Lifewire / Andrew Hayward
 ![Kootek Laptop Cooling Pad](https://www.lifewire.com/thmb/30UKekQcQjJ1mpixthV5avHNZsE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kootek_Laptop_Cooling_Pad_02-9e1418002e754b2c8e01cb12f766975a.jpg)
 
 Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Kootek Laptop Cooling Pad vs. TopMate C302
 
@@ -144,17 +161,18 @@ Lifewire / Andrew Hayward
  A clunky design makes the Kootek Laptop Cooling Pad a bit awkward in use, but ultimately it does a solid job of cooling hot laptops and accommodating larger-sized devices. The extra USB ports are handy, especially for port-limited laptops, and the price is reasonable.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Flexispot Theodore Standing Desk](https://www.lifewire.com/flexispot-theodore-standing-desk-review-5183806)
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [North Face Pivoter Backpack](https://www.lifewire.com/north-face-pivoter-backpack-review-4690198)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Laptop Cooling Pad
@@ -168,14 +186,11 @@ Lifewire / Andrew Hayward
 * Ports  USB-A x2
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,4 +199,23 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-best-free-live-streaming-software-and-app-for-all-platforms/"><u>[New] Best Free Live Streaming Software and App for All Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-hidden-gems-for-private-insta-story-viewing/"><u>[New] In 2024, Hidden Gems for Private Insta Story Viewing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-asmr-mic-spectacular-exceptional-sound-for-a-good-deal-for-2024/"><u>[Updated] ASMR Mic Spectacular Exceptional Sound for a Good Deal for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-low-cost-subtitles-and-downloader-companion-for-2024/"><u>[Updated] Best Low-Cost Subtitles & Downloader Companion for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>2024 Approved Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-causes-and-fixes-for-frequent-crashes-in-age-of-wonders-planetfall-gameplay/"><u>Common Causes and Fixes for Frequent Crashes in Age of Wonders: Planetfall Gameplay</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimize-your-phones-soundplay-with-top-10/"><u>In 2024, Optimize Your Phone's Soundplay With Top 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-advantages-of-digital-comics-over-printed-versions/"><u>The Advantages of Digital Comics Over Printed Versions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-end-of-the-era-for-ubiquitous-touch-buttons-in-product-design/"><u>The End of the Era for Ubiquitous Touch Buttons in Product Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-powers-not-delegated-to-the-united-states-by-the-constitution-nor-prohibited-by-it-to-the-states-are-reserved-to-the-states-respectively-or-to-the-peopl32/"><u>The Powers Not Delegated to the United States by the Constitution, nor Prohibited by It to the States, Are Reserved to the States Respectively, or to the People.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-truth-about-pokemon-microsd-cards-what-not-to-invest-in/"><u>The Truth About Pokemon MicroSD Cards - What Not to Invest In!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-converting-printed-textbooks-to-e-books-in-just-three-steps/"><u>The Ultimate Guide: Converting Printed Textbooks to E-Books in Just Three Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-10-unmissable-xbox-series-xs-titles-from-the-xbox-one-library/"><u>Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performing-gopro-cameras-a-comprehensive-review/"><u>Top Performing GoPro Cameras - A Comprehensive Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/web-based-gratis-conversion-transforming-mkv-and-mp4-video-formats-with-ease/"><u>Web-Based Gratis Conversion: Transforming MKV & MP4 Video Formats with Ease</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-yuva-2-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Yuva 2 Pro? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

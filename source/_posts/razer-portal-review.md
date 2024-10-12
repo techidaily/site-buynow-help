@@ -1,7 +1,7 @@
 ---
 title: Razer Portal Review
-date: 2024-08-22T13:09:47.972Z
-updated: 2024-08-23T13:09:47.972Z
+date: 2024-10-06T18:54:27.911Z
+updated: 2024-10-12T18:40:54.200Z
 categories:
   - BestProducts
 description: This Article Describes Razer Portal Review
@@ -38,6 +38,13 @@ Lifewire / Andy Zahn
 [View On Amazon](https://www.amazon.com/dp/B08LP734G3/?tag=lifewire-onsite-prod-20&ascsubtag=5176895%7Cnf0e7737a413045878ab8a2384bc1f06617%7CB08LP734G3) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6442337.p) [View On Adorama.com](https://www.adorama.com/rz0903571em2.html)
 
 4.9
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Razer Book 13
 
@@ -86,11 +93,22 @@ Lifewire / Andy Zahn
  For such a thin laptop, there’s a surprising amount of ports included with the Book 13\. You get 4[Thunderbolt ports](https://www.lifewire.com/what-is-thunderbolt-832713) , a USB type-A port,[HDMI port](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) , a microSD slot, and a 3.5mm headphone/microphone combo port. Such a versatile array of inputs is not to be taken for granted these days, and is a big point in the Book 13’s favor.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Setup Process: Very straightforward
 
  There’s not a lot to say about setting up the Razer Book 13\. It’s just a standard install of Windows 10 Home with no surprises along the way so you can be up and running in just a few minutes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Display: Positively stunning
 
@@ -101,8 +119,12 @@ Lifewire / Andy Zahn
 Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Performance: Lean and mean
 
  The Razer Book 13 surprised me by how much power it has despite the fact it doesn’t have a dedicated graphics card. It’s a great machine for photo editing, light video editing, and other creative tasks, and is even a reasonably capable gaming machine. Inside you’ll find an Intel Core i7-1165G7 processor and 16GB of RAM.
@@ -114,6 +136,13 @@ Lifewire / Andy Zahn
  I was able to play Borderlands: The Pre-Sequel at low settings and have a consistent experience, and in DOTA 2 I was able to max the graphics settings out if I bumped the resolution down to 1080p. This makes the Book 13 perfectly capable for competitive games, and even some AAA titles if you don’t mind dropping the settings down. For such a stylish, compact laptop this is truly impressive.
 
  The Book 13 is equipped with a 512GB SSD. This is good enough, but it would have been nice to have a full terabyte of storage.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Software: No bloat
 
@@ -127,10 +156,6 @@ Lifewire / Andy Zahn
 
  With[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , the Book 13 had no trouble taking full advantage of my home network. It provides a fast and reliable connection, and Bluetooth 5.0 is available as well.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Battery: Juice for the day
 
  Razer claims a battery life of up to 10 hours or even a bit more, and I found this to be accurate. The Book 13 should get you through a day at the office without needing to recharge, depending upon use, of course.
@@ -138,8 +163,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Razer Book 13](https://www.lifewire.com/thmb/6yYQ1e8vR0Ldvs2GP61CrvFy3zg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_05-1c8a8e1bdd78413fb72cc6307a07ea40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Andy Zahn
 
 ## Audio: Big sound for a small laptop
@@ -148,23 +177,21 @@ Lifewire / Andy Zahn
 
 ![Razer Book 13](https://www.lifewire.com/thmb/PL2MokPWQ_egcxv3fE0tw_k09Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Razer_Book13_04-6eed60095cbe467c9552c651ba4c9d46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 Lifewire / Andy Zahn
 
  It’s particularly good in the mids and highs, but as you’d expect, loses something in the bass range. However, it’s more than adequate for listening to music, gaming, or watching movies.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Camera: Competent webcam
 
  The webcam on the Book 13 is about average for a laptop. It captures 720p video and is perfectly acceptable, though not exceptional in any way. Video quality looks decent, even in relatively challenging situations.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: The cost of quality
 
  The configuration of the Razer Book 13 I tested is definitely pricey at $2,000\. That’s a decent chunk of change, and you could certainly buy a laptop with more graphical power for the money, but the Book 13 isn’t made for high-end gaming.
@@ -185,9 +212,6 @@ Lifewire / Andy Zahn
 
  There’s a lot to love about the Razer Book 13, and not a lot of negative things to say about it. It’s not a graphical powerhouse, but the fact that it’s able to game at all is remarkable. Between its solid design, attractive aesthetics, and nice little touches that tie the whole package together, this is one awesome little ultrabook.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Microsoft Surface Laptop Go](https://www.lifewire.com/microsoft-surface-laptop-go-review-5088869)
@@ -217,8 +241,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +248,21 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-obs-masterclass-for-successful-instagram-broadcasts/"><u>[New] 2024 Approved OBS Masterclass for Successful Instagram Broadcasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-switching-file-extensions-for-your-mac-snapshots/"><u>[New] In 2024, Switching File Extensions for Your Mac Snapshots</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-deterrence-against-distractive-fb-video-ads-for-2024/"><u>[Updated] Deterrence Against Distractive FB Video Ads for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhancing-instagram-video-visibility/"><u>[Updated] In 2024, Enhancing Instagram Video Visibility</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-flight-fun-holy-stone-hs170-predator-mini-rc-helicopter-reviews/"><u>Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter Reviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-cpu-power-achieve-optimal-performance-with-vanguard-software/"><u>Enhance CPU Power, Achieve Optimal Performance with Vanguard Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-setting-up-and-long-term-reliability-of-acurite-pro-weather-gadget-01036m/"><u>Expert Review: Setting Up & Long-Term Reliability of AcuRite Pro Weather Gadget 01036M</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oneplus-nord-3-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of OnePlus Nord 3 5G Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-razr-40-ultra-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insider-tips-what-to-scrutinize-before-buying-a-game-pc/"><u>Insider Tips: What to Scrutinize Before Buying a Game PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-your-turtle-beach-mic-issues-in-just-a-few-simple-steps/"><u>Resolving Your Turtle Beach Mic Issues in Just a Few Simple Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-fixing-the-dll-not-found-problem-in-java-virtual-machine/"><u>Troubleshooting Tips: Fixing the 'DLL Not Found' Problem in Java Virtual Machine</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-drawing-pads-for-professionals-2024-edition/"><u>Ultimate Selection of Premium Drawing Pads for Professionals, 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-basics-of-heimvisions-sunrise-alarm-clock-a80s-features-and-functionality-overview/"><u>Unveiling the Basics of HeimVision's Sunrise Alarm Clock A80S: Features and Functionality Overview</u></a></li>
+</ul></div>
 

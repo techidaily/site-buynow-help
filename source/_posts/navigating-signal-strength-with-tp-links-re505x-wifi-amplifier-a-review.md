@@ -1,7 +1,7 @@
 ---
 title: Navigating Signal Strength with TP-Link's RE505X WiFi Amplifier - A Review
-date: 2024-08-22T13:09:09.540Z
-updated: 2024-08-23T13:09:09.540Z
+date: 2024-10-09T18:45:03.595Z
+updated: 2024-10-12T17:56:51.908Z
 categories:
   - BestProducts
 description: This Article Describes Navigating Signal Strength with TP-Link's RE505X WiFi Amplifier - A Review
@@ -39,9 +39,23 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Ubiquiti Amplifi HD Mesh Wi-Fi System
 
 ![Amplifi HD](https://www.lifewire.com/thmb/Njd1HQu0FsmaveVCH4FDT0Spa6c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amplifi_LongRangeRouters_HD_HeroSquare-fdb67079a06b415b98467919ec8e34a6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -65,6 +79,13 @@ Lifewire / Erika Rawes
 
  The Amplifi HD is a[Mesh Wi-Fi System](https://www.lifewire.com/best-mesh-wi-fi-network-systems-4139748) with a main router and separate mesh points that serve as satellite routers. The Amplifi system is supposed to extend Wi-Fi range, reduce dead zones, and provide better coverage. To see how Ubiquiti’s mesh system holds up to the demands of a household with multiple devices, I connected the Amplifi HD in my test home that contains roughly 50 Wi-Fi connected devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: A beautiful router with mismatched mesh points**
 
  The Amplifi HD Mesh System comes with a[long-range router](https://www.lifewire.com/best-long-range-routers-4122554) and two satellite mesh points. The router has a unique design. It’s small, cube-shaped, and it looks more like an alarm clock or smart display than a router. It doesn’t have antennas protruding from it as you see on most routers.
@@ -84,8 +105,12 @@ Lifewire / Erika Rawes
  By default, the app creates a dual (2.4 and 5Ghz) network, which directs traffic based on the most efficient pathways. You can create separate 2.4 and 5Ghz networks, or make other adjustments as you see fit though. You can change the band on the mesh points (from 2.4 to 5Ghz), create additional SSIDs, and more. For the purpose of testing, I used the default combined network and allowed the system to direct network traffic between bands.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Connectivity: Lags when you add too many devices**
 
  The Amplifi HD system is not Wi-Fi 6 capable.[It has 802.11ac](https://www.lifewire.com/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553) , and it's backwards compatible. On the back of the router sit four gigabit LAN ports in addition to the WAN connection. There’s no multigig port, but the four ports were a welcome addition.
@@ -94,9 +119,6 @@ Lifewire / Erika Rawes
 
  In my test home, speeds from my ISP max out at 500 Mbps. In the same room as the main router, Ookla measured the speed at 131 Mbps. The speed remained consistent throughout the home, even in rooms that typically experience drop offs with other routers. However, outside in the backyard, the speed reduced to 111 Mbps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Key Features: A display screen**
 
  The touchscreen on the front of the main router can display the time, total GB, WAN and Router IP addresses, internet speeds, and port statuses. You touch the screen to cycle through the different screen options. The power cable connects via[USB-C](https://www.lifewire.com/usb-c-4149490) , and there’s a USB 2.0 port as well, but it doesn’t allow you to connect an external hard drive (the port is reserved for future use).
@@ -105,10 +127,6 @@ Lifewire / Erika Rawes
 
  The app creates a dual (2.4 and 5Ghz) network, which directs traffic based on the most efficient pathways.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## **Software: Amplifi App**
 
  In the Amplifi App, you can set up a guest network, manage devices, pause the internet, check the health of the system, and check your speeds on your entire network and on individual devices. You can optimize the priority level for each of your devices between normal, streaming, or gaming.
@@ -119,16 +137,10 @@ The ultimate burning program for all your needs!</a>
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: A little steep**
 
  The Amplifi HD system isn’t cheap. The package I tested, which came with the router and two mesh points, retails for $340\. You can find mesh systems for much less, and of course, some mesh systems are much more expensive. But, the Amplifi system’s design, easy setup, and feature set help justify the price.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Amplifi HD vs. Nest Wi-Fi**
 
  A Nest Wi-Fi package sells for around the same price as the Amplifi system. However, with the Nest system, all of the components match, while the Amplifi router looks very different from its mesh points. The Nest system points also serve as Google Assistant speakers, and the system features some more advanced technologies (like WPA3 encryption). However, one big issue with the Nest system is that it only has two Ethernet ports, while the Amplifi router has four spare ports.
@@ -139,9 +151,6 @@ The ultimate burning program for all your needs!</a>
 
  The Amplifi HD mesh system is attractive and does provide coverage for a huge area, but it doesn’t deliver lightning-fast speeds in a home with dozens of connected devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Amplifi HD Mesh Wi-Fi System
@@ -160,14 +169,11 @@ The ultimate burning program for all your needs!</a>
 * Remote connect  Yes
 * What’s included  Amplifi HD Router, two mesh points, power and Ethernet cables, guides
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,4 +182,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-your-step-by-step-kinemaster-meme-creation/"><u>[Updated] 2024 Approved Your Step-by-Step KineMaster Meme Creation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-fixing-the-single-channel-headset/"><u>[Updated] In 2024, Fixing the Single-Channel Headset</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-make-sense-of-iphone-video-repetition-tech/"><u>[Updated] Make Sense of iPhone Video Repetition Tech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-video-quality-on-periscope-live-streams/"><u>2024 Approved Maximizing Video Quality on Periscope Live Streams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-assessment-of-the-rca-video-doorbell-security-camera/"><u>Expert Assessment of the RCA Video Doorbell Security Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-finest-17-laptops-our-detailed-review/"><u>Explore the Finest 17 Laptops - Our Detailed Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-ad-evolution-the-hottest-trends-to-watch/"><u>Facebook Ad Evolution The Hottest Trends to Watch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/groundbreaking-action-adventure-masterpieces-top-10/"><u>Groundbreaking Action-Adventure Masterpieces (Top 10)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-a15-4g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy A15 4G online without jailbreak</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ihome-zenergy-bedside-sleep-therapy-machine-review/"><u>IHome Zenergy Bedside Sleep Therapy Machine Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-compromise-free-experience-with-the-asus-rog-zephyrus-g1ntec-gaming-laptop-reviewed/"><u>The Ultimate Compromise-Free Experience with the Asus ROG Zephyrus G1ntec: Gaming Laptop Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-chargetechs-impressive-27000mah-portable-power-station-features-performance-and-value/"><u>The Ultimate Guide to ChargeTech's Impressive 27000mAh Portable Power Station - Features, Performance & Value</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-an-office-chair-featuring-the-x-chair-x4/"><u>The Ultimate Guide to Choosing an Office Chair: Featuring the X-Chair X4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-a-hidden-wi-fi-signal-tips-and-techniques/"><u>Troubleshooting a Hidden Wi-Fi Signal: Tips & Techniques</u></a></li>
+</ul></div>
 

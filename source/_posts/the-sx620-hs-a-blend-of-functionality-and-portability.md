@@ -1,7 +1,7 @@
 ---
 title: "The SX620 HS: A Blend of Functionality and Portability"
-date: 2024-08-22T13:14:00.235Z
-updated: 2024-08-23T13:14:00.235Z
+date: 2024-10-09T17:31:11.122Z
+updated: 2024-10-12T17:53:29.365Z
 categories:
   - BestProducts
 description: "This Article Describes The SX620 HS: A Blend of Functionality and Portability"
@@ -62,20 +62,15 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/86PZ5XCiq91ihr7-8UNmM5io9pY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_4_Final_Horiz-bad356a5002b4156859dca672e8a8eb4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design:** **Flexible, foldable design**
 
  The Logitech C615 is a compact webcam. The whole device folds up into a very small package, just 2.5” wide, 1.25” tall, and 1.5” wide, so you can tuck it into a pocket. When you open it up, the flexible design is simple to position. Unfolded, the webcam has three pieces: the base, neck, and[camera](https://www.lifewire.com/best-digital-cameras-under-100-3897833) . The base is the heaviest part, which means that the camera stays upright even if you don’t perfectly balance everything. The top is made out of a soft, rubbery plastic, and the bottom has a rubbery dot that keeps the base from sliding around. The dot comes off the base to reveal a tripod post, so this camera is compatible with a standard tripod. The only problem is that the dot comes off completely when the tripod post is exposed. If you're prone to losing things, this may be an issue.
@@ -90,9 +85,6 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Camera Quality: Quality camera with some autofocus troubles**
 
  The camera takes 1080p video and has a 2 MP sensor. We tested the webcam’s photo capabilities by taking a picture of some packaging. Color was well represented, but the autofocus was just a bit off. The image was just a bit blurry, and we couldn’t read the smaller words at all. This wasn’t a problem close up, but it made a bigger difference when people were far away.
@@ -105,11 +97,22 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/Bko9Uk1HIIMt9aNgtBf9ATCy0AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_14_Final_Horiz-4f1b9fe91b8c4229b17dbbe6afb81b8c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Decent sound quality for a small mic**
 
  We used both[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test the performance of the C615\. It was very easy to position the camera exactly the way we wanted it, though the USB cable occasionally gave us problems. We’d swivel the camera and then the pull of the USB cable would turn the whole base so the camera pointed back at the same spot where it started.
@@ -118,18 +121,19 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/C2UBXNFmxG8nA0udy1IprMH4LBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_9_Final_Horiz-1af52951f8704af9b76d7dd1ec9744a9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Inexpensive HD camera**
 
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Acquits itself well against the competition**
 
 **_Docooler USB 2.0 12 Megapixel_ :** The Docooler USB 2.0 12 Megapixel is one of the cheapest cameras on the market, going for between $8 and $15\. But there's a reason it retails so cheaply; it's a nightmare to use, the audio quality is torturous, and the camera doesn't approach the advertised 12 MP. Despite being nearly $60 more expensive, the C615 is the obvious winner here.
@@ -146,9 +150,6 @@ Lifewire / James Huenink
 
  The Logitech C615 Webcam strikes the perfect balance between performance and affordability. The quality design, high definition video, and quality sound make this an excellent webcam for most tasks at a great price.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  C615 HD Laptop Webcam
@@ -172,8 +173,6 @@ Lifewire / James Huenink
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +180,26 @@ Lifewire / James Huenink
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-tech-showdown-exploring-facial-detection-in-iphones-vs-samsungs/"><u>[New] Tech Showdown Exploring Facial Detection in iPhones Vs. Samsungs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-illustration-revolution-adding-depth-to-text-with-3d/"><u>[Updated] 2024 Approved Illustration Revolution Adding Depth to Text with 3D</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-movie-substitutes-7-recommended/"><u>[Updated] In 2024, Discover Movie Substitutes, #7 Recommended</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-soundscapes-in-action-capturing-music-videos-iphone-style/"><u>[Updated] In 2024, Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-your-asmr-sessions-with-these-microphones/"><u>2024 Approved Elevate Your ASMR Sessions with These Microphones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-approaches-to-engaging-with-online-video-reviews/"><u>2024 Approved Transformative Approaches to Engaging with Online Video Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-vivobook-11-assessment-compact-budget-friendly-multipurpose-notebook-evaluation/"><u>Asus Vivobook 11 Assessment: Compact, Budget-Friendly, Multipurpose Notebook Evaluation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-leading-10-iphone-data-recovery-applications-for-ios-1/"><u>Discover the Leading 10 iPhone Data Recovery Applications for iOS 1#</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhance-website-analytics-effortlessly-with-cookiebot-solutions/"><u>Enhance Website Analytics Effortlessly with Cookiebot Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-opinion-unveiling-the-elegance-and-flexibility-of-the-dell-xps-13-7390-ultrabook-review/"><u>Expert Opinion: Unveiling the Elegance and Flexibility of the Dell XPS 13 (7390) Ultrabook Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-obtain-and-upgrade-sas-software-on-your-pc-windows-10-8-or-7/"><u>How to Obtain and Upgrade SAS Software on Your PC (Windows 10, 8, or 7)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huion-inspiroy-g10t-tablet-an-ultimate-guide-to-its-exceptional-durability-and-superior-drawing-capabilities/"><u>Huion Inspiroy G10T Tablet: An Ultimate Guide to Its Exceptional Durability & Superior Drawing Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-opting-for-applecareplus-coverage-worth-your-money-in-the-long-run-lets-find-out/"><u>Is Opting for AppleCare+ Coverage Worth Your Money in the Long Run? Let's Find Out</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lettura-intermedia-per-comunicare-i-numeri-italiani/"><u>Lettura Intermedia per Comunicare I Numeri Italiani</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-cutthroat-world-of-offworld-trading-tips-techniques-and-triumphs/"><u>Navigating the Cutthroat World of Offworld Trading: Tips, Techniques, and Triumphs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netatmos-smart-weather-solution-review-a-sleek-and-efficient-system-for-app-dependent-consumers/"><u>Netatmo's Smart Weather Solution Review: A Sleek and Efficient System for App-Dependent Consumers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sandisk-clip-jam-mp3-player-review/"><u>SanDisk Clip Jam MP3 Player Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-perfect-harmony-of-smart-tech-and-premium-sound-nest-audio-reviewed/"><u>The Perfect Harmony of Smart Tech & Premium Sound - Nest Audio Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-apc-back-ups-pro-1500va-superior-power-protection-and-easy-battery-management-for-optimal-performance/"><u>Unlocking the Potential of APC Back-UPS Pro 1500VA - Superior Power Protection & Easy Battery Management for Optimal Performance</u></a></li>
+</ul></div>
 

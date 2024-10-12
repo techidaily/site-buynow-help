@@ -1,7 +1,7 @@
 ---
 title: Unofficially Run Old-School Video Games on Your iPhone - No Hacking Needed!
-date: 2024-09-28T16:10:05.732Z
-updated: 2024-10-01T16:16:31.095Z
+date: 2024-10-07T17:56:40.346Z
+updated: 2024-10-12T16:57:43.526Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Make Use of Delta's Full Feature Set](https://some-knowledge.techidaily.com/ideal-webcams-to-upgrade-your-zoom-video-quality-for-2024/)
 * [More Emulators Are Coming](https://tiktok-clips.techidaily.com/2024-approved-funhouse-finds-unveiling-the-hottest-tiktok-gaming-phenoms/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Emulators are now officially available for iPhone, legally, but you'll need to supply your own games (and downloading ROMs you do not own is illegal).
@@ -35,13 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Original Game Boy cartridges.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/games_i_own.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Though emulators are legal, the games they run are a point of contention. It is [illegal to download ROMs for games that you do not own](https://facebook-videos.techidaily.com/updated-video-revenue-generation-on-facebook-tactics-for-financial-growth-for-2024/). Downloading or ripping ROMs for titles that you do own is a grey area. You are responsible for following the laws in your part of the world.
@@ -50,14 +50,14 @@ Tim Brookes / How-To Geek
 
 ![Game Boy ROMs within iPhone emulator Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gbc_roms_delta.jpg) 
 
- So why the sudden change? Apple is probably jumping before it is pushed. The EU has mandated that the iPhone open up to third-party App Stores, so Apple may be trying to avoid future problems. There’s also nothing inherently illegal about emulators, even though big players like Nintendo are vehemently opposed.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ So why the sudden change? Apple is probably jumping before it is pushed. The EU has mandated that the iPhone open up to third-party App Stores, so Apple may be trying to avoid future problems. There’s also nothing inherently illegal about emulators, even though big players like Nintendo are vehemently opposed.
 
 ##  How to Play Classic Nintendo Games With Delta
 
@@ -66,22 +66,15 @@ Tim Brookes / How-To Geek
 ![Super Mario 64 on an iPhone with Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/n64_super_mario_64.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Delta brings together many different emulation projects like [Nestopia](https://nestopia.sourceforge.net), [Snes9x](https://github.com/snes9xgit/), [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), and [melonDS](https://github.com/melonDS-emu/melonDS) under one simple application. The project is a spiritual successor to GBA4iOS, an emulator you may have heard of if you’ve dabbled in the iOS emulation scene before.
 
  You can [download Delta from the App Store](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) for iPhone, though it also works on iPad and macOS. As per Apple’s guidelines, the emulator doesn’t come with anything in playable form. You’ll need to supply your own ROMs, which you can transfer using a variety of methods.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Transfer Games via Cloud Storage
 
@@ -113,6 +106,13 @@ Tim Brookes / How-To Geek
 
 ![8BitDo SN30 closeup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/pxl_20240304_204309207-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Kris Henges / How-To Geek
 
  To pair a controller, put your controller into pairing mode (usually by holding down the power button, as is the case with Xbox and PlayStation pads), then head to Settings > Bluetooth. Wait for the list of devices to refresh, and then tap on your controller when it appears. It should pair automatically and be ready for use immediately.
@@ -120,13 +120,6 @@ Kris Henges / How-To Geek
  Now head back to Delta and tap on the “Settings” cog in the top-right corner of the screen. Under the “Controllers” section you can nominate a control scheme for each player. Tap on “Player 1” and choose the controller you’ve just connected to use it.
 
  For best results, a controller clip will allow you to mount your iPhone on top of your controller for a comfortable portable experience. You can also purchase controllers like the [Backbone](https://playbackbone.com) or [Razer Kishi](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2002864&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fmobile-controllers%2Frazer-kishi%2F) which turns your iPhone into something that resembles a Nintendo Switch, providing the most comfortable playing experience.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Make Use of Delta's Full Feature Set
 
@@ -147,6 +140,13 @@ Kris Henges / How-To Geek
  You can also set up a Delta Sync under “Settings” which not only syncs your game library but all of your game saves, save states, controller skins, cheats, and controller mappings. Toggle “Delta Sync” on then use the Dropbox or Google Drive buttons to link your cloud storage account.
 
  Lastly, you can customize your Delta home screen to either show what you’ve recently been playing or a selection of your favorite games. This can be particularly handy when your collection grows to an unwieldy size. Head to “Settings” and tap “Home Screen Shortcuts” to get started.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More Emulators Are Coming
 
@@ -169,24 +169,22 @@ Kris Henges / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-resolve-deceptive-user-appearance-within-chat-environments-for-2024/"><u>[New] Resolve Deceptive User Appearance Within Chat Environments for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-media-storage-with-3-tactics-for-2024/"><u>[New] Streamline Media Storage with 3 Tactics for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-instagram-to-twitter-share-content-directly-no-rt-for-2024/"><u>[Updated] Instagram to Twitter Share Content Directly (No RT) for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-tips-for-effective-game-playback-on-microsoft-os-for-2024/"><u>[Updated] Tips for Effective Game Playback on Microsoft OS for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/cambia-tu-archivo-jpg-a-formato-bmp-sin-costo-con-el-mejor-convertidor-en-linea-de-movavi/"><u>Cambia Tu Archivo JPG a Formato BMP Sin Costo Con El Mejor Convertidor en Línea De Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-techniques-to-solve-rainbow-six-siege-disconnected-from-server-issue/"><u>Effective Techniques to Solve Rainbow Six Siege Disconnected From Server Issue</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/family-fun-with-holy-stones-rc-car-toys-a-thorough-product-review-and-analysis/"><u>Family Fun with Holy Stone's RC Car Toys - A Thorough Product Review and Analysis.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-lg-k92-5g-device-is-superior-connectivity-enough-to-warrant-its-cost/"><u>In-Depth Review of LG K92 5G Device: Is Superior Connectivity Enough to Warrant Its Cost?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-restfulness-gadgets-your-guide-to-the-best-sleep-tech-on-the-market/"><u>Innovative Restfulness Gadgets: Your Guide to the Best Sleep Tech on the Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insights-on-the-motorola-one-5g-ace-unmatched-speeds-and-enduring-power/"><u>Insights on the Motorola One ˈ5G Ace - Unmatched Speeds and Enduring Power</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lenovo-chromebook-duet-the-budget-friendly-2-in-1-device-that-offers-more/"><u>Lenovo Chromebook Duet: The Budget-Friendly 2-in-1 Device That Offers More</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-motherboards-and-more-inside-toms-digital-workshop/"><u>Mastering Motherboards and More: Inside Tom's Digital Workshop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-the-tri-band-wireless-network-the-asus-ax6600-mesh-wifi-system-detailed-review/"><u>Mastering the Tri-Band Wireless Network: The ASUS AX6600 Mesh WiFi System Detailed Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mlb-the-show-19-reviewed-aesthetic-sports-simulation-blends-with-unexpected-rpg-elements/"><u>MLB The Show 19 Reviewed: Aesthetic Sports Simulation Blends with Unexpected RPG Elements</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/msrp-analysis-of-microsoft-surface-go-when-a-budget-tablet-questions-its-own-functionality/"><u>MSRP Analysis of Microsoft Surface Go: When a Budget Tablet Questions Its Own Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/must-haves-buying-a-refurbished-laptop-guide/"><u>Must Haves: Buying a Refurbished Laptop Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oneplus-6t-review/"><u>OnePlus 6T Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unveiling-advanced-game-recording-techniques-in-windows-11/"><u>Unveiling Advanced Game Recording Techniques in Windows 11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/watch-seamless-streams-using-airplayer-and-top-no-cost-airplayer-substitutes/"><u>Watch Seamless Streams: Using AirPlayer & Top No-Cost AirPlayer Substitutes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uild-your-brands-success-on-top-business-youtube-channels-for-2024/"><u>[New] Build Your Brand's Success on Top Business YouTube Channels for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-sharp-as-a-razor-toptools-to-unblur-and-enhance-images-online/"><u>[New] In 2024, Sharp as a Razor #TopTools to Unblur & Enhance Images Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-cool-down-with-these-top-rated-stress-erasers/"><u>[Updated] 2024 Approved Cool Down with These Top-Rated Stress Erasers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-complete-curve-editing-manual-for-photoshop/"><u>[Updated] The Complete Curve Editing Manual for Photoshop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-effortlessly-managed-tp-link-deco-p9-network-system/"><u>Comprehensive Review of the Effortlessly Managed TP-LInk Deco P9 Network System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-downloading-and-installing-sound-card-drivers-in-windows-aturins-war-and-peace/"><u>Easy Guide: Downloading & Installing Sound Card Drivers in Windows Aturin's War and Peace</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-open-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus Open Phones with/without a PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-pro-4g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 Pro 4G Phone Hassle-Free</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-moto-g-stylus-evaluation-the-best-budget-friendly-smartphone-with-a-pen/"><u>In-Depth Moto G Stylus Evaluation: The Best Budget-Friendly Smartphone with a Pen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-gameplay-a-comprehensive-review-of-the-asus-rog-rapture-gt-ax11000-gaming-router-with-lightning-fast-speeds/"><u>Maximizing Your Gameplay: A Comprehensive Review of the ASUS ROG Rapture GT-AX11000 Gaming Router with Lightning Fast Speeds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-and-easy-steps-to-upgrade-any-video-to-premium-mp4-format-with-top-sound-clarity/"><u>Quick and Easy Steps to Upgrade Any Video to Premium MP4 Format with Top Sound Clarity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch3-review-a-classic-look-with-modern-upgrades/"><u>Samsung Galaxy Watch3 Review: A Classic Look with Modern Upgrades</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-asus-bw-16d1x-u-blu-ray-writer-an-analysis-of-its-chic-appearance-and-unique-quirks/"><u>The Asus BW-16D1X-U Blu-Ray Writer - An Analysis of Its Chic Appearance and Unique Quirks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lenovo-tab-m10-hd-2020-unveiled-best-value-for-online-entertainment-and-connectivity-in-a-tablet/"><u>The Lenovo Tab M10 HD (2020) Unveiled: Best Value for Online Entertainment and Connectivity in a Tablet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-507-unique-instagram-caption-ideas-for-your-stunning-photos/"><u>Top 507 Unique Instagram Caption Ideas for Your Stunning Photos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-links-cost-efficient-champion-unpacking-the-archer-c9-review/"><u>TP-Link's Cost-Efficient Champion: Unpacking The Archer C9 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-minecraft-guide-a-family-friendly-adventure-in-a-blocky-universe/"><u>Ultimate Minecraft Guide: A Family-Friendly Adventure in a Blocky Universe</u></a></li>
 </ul></div>
 

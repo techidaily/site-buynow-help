@@ -1,7 +1,7 @@
 ---
 title: Hands-On With Mod’s New Easy Sidecar E-Bike
-date: 2024-08-22T13:08:44.125Z
-updated: 2024-08-23T13:08:44.125Z
+date: 2024-10-05T19:17:56.419Z
+updated: 2024-10-12T17:41:03.616Z
 categories:
   - BestProducts
 description: This Article Describes Hands-On With Mod’s New Easy Sidecar E-Bike
@@ -38,6 +38,13 @@ Lifewire / Andy Zahn
 [View On Walmart $562](https://www.walmart.com/ip/Canon-PowerShot-SX70-HS-20-3MP-65x-Optical-Zoom-Digital-Point-Shoot-Camera/773178799?slfpid=3) [View On Adorama.com $699](https://www.adorama.com/icasx70.html) [View On B&H Photo Video $599](https://www.bhphotovideo.com/c/product/1435399-REG/canon%5F3071c001%5Fpowershot%5Fsx70%5Fhs%5Fdigital.html)
 
 4.3
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Canon PowerShot SX70
 
@@ -87,26 +94,23 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## **Display and Viewfinder: Saturated and clear**
 
  The three-inch, 920,000-dot screen on the SX70 HS looks amazing—perhaps_too_ amazing, as your photos will look better on it than on your phone or computer. The screen is fully articulating and solidly built. Our one complaint would be how easily it picks up smudges, and how difficult those smudges are to remove. An advantage of the articulating screen is that it can be turned face-in to avoid dirt and damage and to save on battery life.
@@ -115,9 +119,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -125,6 +126,13 @@ Lifewire / Andy Zahn
  The autofocus is really one of the standout features of the SX70 HS—it makes the camera ideal for anyone who will be photographing fast and erratic subjects. Whether you’re capturing precious family moments, sporting events, or wildlife, the SX70 HS will really help ensure you get the shot when it counts the most.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Photo Quality: Great colors, average resolution**
 
@@ -157,8 +165,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -173,9 +185,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## **Software: Lots of options**
 
  The camera comes with Canon’s Digital Photo Professional software for editing. Canon also has a number of free programs available for download on its website, including Eos Movie Utility for video editing. Though Canon’s software is relatively basic, it’s quite capable for basic editing.
@@ -185,6 +194,13 @@ Lifewire / Andy Zahn
  There is also the option to connect to a[Canon printer](https://www.lifewire.com/best-canon-printers-4584899) and print your images directly from the camera. We found these features useful but also something of a hassle, since the process of connecting devices to the camera is pretty tedious.
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Big brand, big price tag**
 
@@ -239,8 +255,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +262,22 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-30plus-ways-to-convert-instagram-videos-onto-your-computer-iphone-or-android/"><u>[New] 30+ Ways To Convert Instagram Videos Onto Your Computer, iPhone or Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-adjusting-visuals-in-teams-conversations-at-any-time/"><u>[Updated] Adjusting Visuals in Teams Conversations at Any Time</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-scratch-building-a-lighthearted-image-meme/"><u>[Updated] From Scratch Building a Lighthearted Image Meme</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/avoiding-blur-techniques-for-hand-held-stability-for-2024/"><u>Avoiding Blur Techniques for Hand-Held Stability for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-free-and-paid-non-microsoft-productivity-suites-of-2024-revealed/"><u>Best Free & Paid Non-Microsoft Productivity Suites of 2024 Revealed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/breaking-down-the-ps4-pro-mastering-the-art-of-gaming-at-true-4k-resolution/"><u>Breaking Down the PS4 Pro: Mastering the Art of Gaming at True 4K Resolution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/examining-the-oneplus-8t-exceptional-speed-with-room-for-photographic-improvement/"><u>Examining the OnePlus 8T: Exceptional Speed with Room for Photographic Improvement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/examining-the-sony-xperia-5-portable-size-premium-cost/"><u>Examining the Sony Xperia 5: Portable Size, Premium Cost</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/exceptional-upgrades-for-gopro-captures-for-2024/"><u>Exceptional Upgrades for GoPro Captures for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-fbcta-and-its-broader-effects/"><u>Exploring FBCTA and Its Broader Effects</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/iphone-gaming-powerhouses-finding-your-perfect-match/"><u>IPhone Gaming Powerhouses: Finding Your Perfect Match</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/narrowing-down-dji-action-gopro-max-and-insta360-series/"><u>Narrowing Down DJi Action, GoPro Max, and Insta360 Series</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-to-resolve-launch-issues-in-farmers-simulator-22/"><u>Troubleshooting Steps to Resolve Launch Issues in Farmer's Simulator 22</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-minecraft-top-reviews-for-multi-generational-building-fun/"><u>Ultimate Guide to Minecraft: Top Reviews for Multi-Generational Building Fun</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Infinix Note 30? | Dr.fone</u></a></li>
+</ul></div>
 

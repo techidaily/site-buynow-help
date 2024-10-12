@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: The Unbeatable Performance of the Elite Series Ebox One Controller."
-date: 2024-08-22T13:10:22.939Z
-updated: 2024-08-23T13:10:22.939Z
+date: 2024-10-09T18:54:15.906Z
+updated: 2024-10-12T17:41:10.273Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis: The Unbeatable Performance of the Elite Series Ebox One Controller."
@@ -37,6 +37,13 @@ Lifewire / Zach Sweat
 
 4.8
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Microsoft Xbox One Elite Series 2 Controller
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
@@ -69,8 +76,12 @@ Lifewire / Zach Sweat
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Dark, sturdy, and feature-packed**
 
  The general format of the Elite Series 2 takes the basic XB1 controller and builds upon that excellent design by adding in tons of extras and features. However, unlike the first Elite controller, this version uses the newer One S model controller as its basis. This means there is no more two-piece design where the top and bottom shells of the controller are separate. The build is less flashy perhaps, no longer sporting a two-tone finish, but it makes it feel much more solid and creates a sleeker look.
@@ -97,9 +108,6 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
 ## **Comfort: Hefty, but darn comfy**
@@ -117,8 +125,12 @@ Lifewire / Zach Sweat
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
 ## **Setup Process and Software: Bluetooth, at long last**
@@ -144,8 +156,12 @@ Lifewire / Zach Sweat
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance/Durability: Enhanced performance and durability**
 
  To test the performance of the new Elite Series 2 controller, I put this device through several hours of gaming on both PC and Xbox One platforms running a number of games and layouts. The results were promising, so let’s take a closer look.
@@ -168,6 +184,13 @@ Lifewire / Zach Sweat
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -178,9 +201,6 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
@@ -197,9 +217,6 @@ Lifewire / Zach Sweat
 
  Everything we disliked about the original Elite controller has been improved with the second iteration, making it the best first-party controller you can get for XB1 or PC. However, the steep price point might be a hard pill to swallow for users who don’t like to splurge.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Xbox One Elite Series 2 Controller
@@ -217,14 +234,11 @@ Lifewire / Zach Sweat
 * Warranty  90-day warranty
 * Compatibility  All Xbox One Consoles, Windows 10 PCs, Bluetooth devices
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -233,4 +247,24 @@ Lifewire / Zach Sweat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-stealthy-surveillance-erasing-sensitive-elements-from-footage/"><u>[New] 2024 Approved Stealthy Surveillance Erasing Sensitive Elements From Footage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-budget-friendly-high-resolution-cameras/"><u>[New] Budget-Friendly High-Resolution Cameras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comparative-review-traditional-chromecast-vs-the-new-and-improved-chromecast-with-google-tv/"><u>A Comparative Review: Traditional Chromecast Vs. The New and Improved Chromecast with Google TV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cumuluspro-standing-desk-pad-evaluation-your-ultimate-comfortable-workstation/"><u>CumulusPro Standing Desk Pad Evaluation: Your Ultimate Comfortable Workstation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-the-samsung-galaxy-watch-active-a-revolutionary-approach-to-wellness-tracking/"><u>Experts Weigh in on the Samsung Galaxy Watch Active – A Revolutionary Approach to Wellness Tracking</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-new-fitbit-charge-4-blending-aesthetics-and-performance/"><u>In-Depth Look at the New Fitbit Charge 4: Blending Aesthetics & Performance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-15-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone 15 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/melodic-integration-for-engaging-insta-posts-for-2024/"><u>Melodic Integration for Engaging Insta Posts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/preserve-your-animated-fun-discover-the-best-9-gif-recorder-apps-for-pc/"><u>Preserve Your Animated Fun Discover the Best 9 GIF Recorder Apps for PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-90-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor 90 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-battleye-setup-errors-a-comprehensive-solution/"><u>Resolving BattlEye Setup Errors – A Comprehensive Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-samsung-galaxy-watch3-timeless-style-meets-contemporary-enhancements/"><u>Review of Samsung Galaxy Watch3 - Timeless Style Meets Contemporary Enhancements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ryzen-9-9950x-outperforms-core-i9-14900k-by-18-with-efficient-250w-cpu-power/"><u>Ryzen 9 9950X Outperforms Core I9-14900K by 18% with Efficient 250W CPU Power</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-screenscape-for-win11-users/"><u>Smooth Screenscape for Win11 Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-the-elite-samsung-galaxy-tab-s7plus-and-its-unmatched-android-performance/"><u>The Definitive Guide to the Elite Samsung Galaxy Tab S7+ and Its Unmatched Android Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-network-server-cabinets-and-racks-a-comprehensive-guide/"><u>Top-Rated Network Server Cabinets & Racks : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-hp-chromebook-11-an-all-in-one-solution-for-academics-careers-and-recreation/"><u>Unveiling the HP Chromebook 11: An All-in-One Solution for Academics, Careers & Recreation</u></a></li>
+</ul></div>
 

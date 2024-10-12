@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Review: Unveiling the Charms and Drawbacks of the Premium-Priced Google Pixelbook Go"
-date: 2024-08-22T13:13:44.160Z
-updated: 2024-08-23T13:13:44.160Z
+date: 2024-10-10T18:05:39.769Z
+updated: 2024-10-12T16:00:02.343Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Review: Unveiling the Charms and Drawbacks of the Premium-Priced Google Pixelbook Go"
@@ -44,6 +44,13 @@ Lifewire / Jeremy Laukkonen
 
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/eB886Wl9r3D8YMg227kYv9GRkJs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
 [View On Amazon $45](https://www.amazon.com/dp/B07N1L5HX1?tag=lifewire-onsite-prod-20&ascsubtag=4846342%7Cndd707df741a44bb699bcdb4f97d36f3622%7CB07N1L5HX1)
@@ -82,10 +89,6 @@ Lifewire / Jeremy Laukkonen
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **Setup Process: Completely painless once you unwrap the antennas**
 
  This router comes fully assembled, which makes it a bit easier and faster to set up than most. I’m not a fan of the fact that you can’t remove the antennas, but it definitely saves a bit of time. Unfortunately, that saved time is mostly wiped out by the ridiculous wrap job TP-Link does on the side antennas.
@@ -99,13 +102,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2zSHbpT2Rq4Ac-0-u73213g1rlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_02-8fd53e1cd8284fd4a40091d7896fe8db.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Connectivity: Dual-band with MU-MIMO, but lacking in physical ports**
 
  The TP-Link Archer A6 is an AC1200[dual-band router](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) that supports MU-MIMO beamforming. The total throughput is a little on the light side if you have a lot of devices, but MU-MIMO is a nice feature to see in such an affordable unit.
@@ -114,9 +131,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  On the physical side, the A6 comes with a bare minimum single WAN port and four LAN ports. There isn’t even a single USB port, so you can’t use this router to host a networked USB drive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## **Network Performance: Decent performance for a budget router**
 
  I tested this router on a Mediacom[Gigabit Ethernet](https://www.lifewire.com/definition-of-gigabit-ethernet-816338) connection, performing extensive tests on the wired Ethernet connection and both wireless bands, in addition to regular use over the course of about five days.
@@ -133,23 +147,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You may end up needing a Wi-Fi range extender with the Archer A6 even if your house isn’t that large.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## **Software: Basic and easy to use**
 
  The Archer A6 uses the same familiar web interface TP-Link has used for years. If you’ve ever used a TP-Link router before, you’ll already be familiar with the system. If you haven’t, it’s very easy to pick up.
@@ -164,12 +161,15 @@ Key features:
 
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2qgk2j764OivVDjAgICPpQb-Xig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_03-7abb56dd933947dc892f8ec43ef36863.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **Price: Good price for the features**
 
  With an MSRP of $50, the Archer A6 represents pretty decent value for the level of performance and the feature set it offers. You may want to step up to a more expensive unit if you have a big house or a lot of devices, and it is missing features like a USB port, but the Archer A6 is priced very well for what you get.
@@ -187,6 +187,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  **A great budget router that provides premium features.**
 
  The TP-Link Archer A6 is a great little budget-priced router that performs better than I expected it to. It’s important to stress that it’s an AC1200 router, and it’s only dual-band, so don’t expect it to do the job if you have dozens of data-hungry devices or an especially large house with a complicated internal setup. But if you just want an affordable router that performs well across about 1,400-1,600 square feet of space, this is a great option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -209,14 +216,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Range  Medium homes
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -225,4 +229,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-jotunheims-gambit-warriors-of-ragnarok/"><u>[Updated] Jotunheim's Gambit Warriors of Ragnarok</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitgrabber-mobile-app-for-downloading-tweets-videos/"><u>[Updated] TwitGrabber Mobile App for Downloading Tweets' Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-streaming-device-tips-roku-vs-fire-tv-stick-decision-making/"><u>Best Streaming Device Tips: Roku Vs. Fire TV Stick Decision-Making</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-of-the-lg-um7300-economical-entry-into-4k-viewing-experience/"><u>Comprehensive Assessment of the LG UM7300: Economical Entry Into 4K Viewing Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-third-generation-apple-tv-4k-assessment/"><u>Comprehensive Guide: Third-Generation Apple TV 4K Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/critical-factors-to-evaluate-when-acquiring-refurbished-ipads/"><u>Critical Factors to Evaluate When Acquiring Refurbished iPads</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-extract-youtube-media-directly-for-2024/"><u>How to Extract YouTube Media Directly for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-realme-c67-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Realme C67 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-feast-filming-101-essential-food-videography-skills/"><u>In 2024, Feast Filming 101 Essential Food Videography Skills</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-lifelike-broadcasts-which-aspect-holds-the-high-ground/"><u>In 2024, Lifelike Broadcasts Which Aspect Holds the High Ground?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-screen-to-file-win10-professional-recorder/"><u>In 2024, Screen to File Win10 Professional Recorder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-zenwifi-xt8-ax6600-mastering-your-home-wi-fi-experience/"><u>In-Depth Analysis of the ASUS ZenWiFi XT8 AX6600: Mastering Your Home Wi-Fi Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-tab-4-analysis-affordable-android-device-with-constraints/"><u>Lenovo Tab 4 Analysis: Affordable Android Device with Constraints</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionary-guide-to-iphone-x-animoji-mastery/"><u>Revolutionary Guide to iPhone X Animoji Mastery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-automated-pet-feeding-and-weight-management-with-the-petsafe-healthy-pet-feeder-reviews-and-insights/"><u>The Ultimate Guide to Automated Pet Feeding and Weight Management with the PetSafe Healthy Pet Feeder - Reviews & Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-mophie-powerstation-ac-charger-a-snapshot-of-luxury-meets-functionality-at-a-price/"><u>Unveiling the Mophie Powerstation AC Charger: A Snapshot of Luxury Meets Functionality at a Price</u></a></li>
+</ul></div>
 

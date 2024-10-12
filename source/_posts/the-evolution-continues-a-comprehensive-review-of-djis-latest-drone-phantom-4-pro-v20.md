@@ -1,7 +1,7 @@
 ---
 title: "The Evolution Continues: A Comprehensive Review of DJI's Latest Drone - Phantom 4 Pro V.2.0"
-date: 2024-08-22T13:05:34.135Z
-updated: 2024-08-23T13:05:34.135Z
+date: 2024-10-05T16:18:39.889Z
+updated: 2024-10-12T18:07:41.062Z
 categories:
   - BestProducts
 description: "This Article Describes The Evolution Continues: A Comprehensive Review of DJI's Latest Drone - Phantom 4 Pro V.2.0"
@@ -39,6 +39,19 @@ Lifewire / Jonno Hill
 ## AmazonBasics 7 Port USB 3.0
 
 ![AmazonBasics 7 Port USB 3.0](https://www.lifewire.com/thmb/lDufXTneOT2NDnXEOTNXauWZKtU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics_UsbHubs_3LW4142295_HeroSquare-b4652c2651b5474f84409577b3760479.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -81,6 +94,13 @@ Lifewire / Jonno Hill
 
 ![AmazonBasics 7 Port USB 3.0 Hub](https://www.lifewire.com/thmb/-6zArDEXr2_gqDvtkeqZAbTQKiQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics_UsbHubs_3LW4142295_05-c3e5d946a7e84b6cb1b395cff1103e42.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 ## **Setup Process: No trouble at all**
@@ -90,8 +110,12 @@ Lifewire / Jonno Hill
  The AmazonBasics 7 Port USB 3.0 Hub is an otherwise capable device that is unfortunately marred by quality control issues and cheap construction.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Connectivity: A sufficient number of options**
 
  The AmazonBasics 7 Port USB 3.0 Hub comes with a three-foot USB (A-to\_B) cable to connect to your computer. This should be sufficient for most users, and worked well in our setup. An AC power adapter is included as well, and it comes with a fairly substantial power brick.
@@ -102,9 +126,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## **Performance: Just what you’d expect**
 
  The AmazonBasics 7 Port USB 3.0 Hub performed as expected in our tests, providing USB 3.0 Gen 1 speeds. The five ports in the back supply the standard 0.9A of power, whereas the ports on the side, designed for fast charging, can supply up to 1.5A. If you neglect to connect the hub to a power source, the entire device will have to share the 0.9A of power supplied by your computer’s[USB 3.0 port](https://www.lifewire.com/what-is-usb-3-0-2626038) .
@@ -112,22 +133,20 @@ Lifewire / Jonno Hill
  The five ports in the back supply the standard 0.9A of power, whereas the ports on the side, designed for fast charging, can supply up to 1.5A.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: You get what you pay for**
 
  At a list price of $33.44, the AmazonBasics 7 Port USB 3.0 Hub isn’t a terrible deal, but given the materials used and the quality control issues, it’s definitely not an amazing deal. Buyers looking for a bit more might consider AUKEY’s 10-port powered hub or Amazon’s own AmazonBasics 10 Ports USB 3.0 Charging Hub Docking Station. Both these hubs offer more connections and dedicated power.
 
 ![AmazonBasics 7 Port USB 3.0 Hub](https://www.lifewire.com/thmb/AnTpc7CmLFfbEILGIFkFiA9Ur2g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics_UsbHubs_3LW4142295_03-063f9486bd7045c18c0643276029f85e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **AmazonBasics 7 Port USB 3.0 Hub vs. Aukey USB Hub 3.0**
 
  Those looking for a more compact device, or perhaps those more concerned with appearance and build quality, might consider Aukey’s 4-port USB 3.0 hub. This hub lacks the dedicated power that Amazon’s offering has, but comes at around half the price. Additionally, AUKEY’s hub has significantly better materials and build quality than Amazon’s plasticky device. Ultimately, the features that you need in your device will guide your purchase, but these are the considerations we think buyers should think about.
@@ -141,8 +160,12 @@ Lifewire / Jonno Hill
  The AmazonBasics 7 Port USB 3.0 Hub is an otherwise capable device that is unfortunately marred by quality control issues and cheap construction. That said, if you don’t care as much about design and construction quality, it might still be a good affordable option.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  7 Port USB 3.0
@@ -157,14 +180,11 @@ Lifewire / Jonno Hill
 * Compatibility  Windows 2000/Win XP/Vista/Windows 7 & Mac 10.1 up
 * Warranty  30 days
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +193,22 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-navigating-through-the-best-tools-to-monitor-instagram-metrics-effectively/"><u>[New] 2024 Approved Navigating Through the Best Tools to Monitor Instagram Metrics Effectively</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopro-guide-achieving-excellent-underwater-cinematography/"><u>[New] GoPro Guide Achieving Excellent Underwater Cinematography</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/anker-powercoreplus-26800-battery-pack-bundle-review/"><u>Anker PowerCore+ 26800 Battery Pack Bundle Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aquaaudio-check-reliable-underwater-clarity/"><u>AquaAudio Check: Reliable Underwater Clarity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/arcadia-elite-seamless-full-hd-multi-touch-desktops-for-2024/"><u>Arcadia Elite Seamless, Full HD Multi-Touch Desktops for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/artistry-in-darkness-reimagining-the-iconic-action-rpg-demons-souls/"><u>Artistry in Darkness: Reimagining the Iconic Action-RPG, Demon's Souls</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-pros-and-cons-navigating-through-pidgin-instant-messengers-features/"><u>Assessing Pros and Cons: Navigating Through Pidgin Instant Messenger's Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-bw-16d1x-u-blu-ray-player-assessment-elegant-design-with-notable-idiosyncrasies/"><u>Asus BW-16D1X-U Blu-Ray Player Assessment: Elegant Design with Notable Idiosyncrasies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/breaking-down-the-finest-liquid-simulation-games/"><u>Breaking Down the Finest Liquid Simulation Games</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-the-latest-flagships-iphone-15-pro-max-and-samsung-s24-ultra-reviewed/"><u>Choosing Between the Latest Flagships: IPhone 15 Pro Max and Samsung S24 Ultra Reviewed!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-meta-quest-3-release-dates-market-costs-and-comprehensive-specs-overview/"><u>Exploring Meta Quest 3: Release Dates, Market Costs & Comprehensive Specs Overview</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6s Plus Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-13-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 13</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sleek-design-and-stunning-video-quality-in-sony-xperia-xz/"><u>Sleek Design and Stunning Video Quality in Sony Xperia XZ</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-complete-users-manual-to-zoom-meeting-recordings/"><u>The Complete User's Manual to Zoom Meeting Recordings</u></a></li>
+</ul></div>
 

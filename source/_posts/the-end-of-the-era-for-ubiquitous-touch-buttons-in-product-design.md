@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-09-25T16:36:03.149Z
-updated: 2024-09-26T16:16:33.053Z
+date: 2024-10-09T16:32:40.438Z
+updated: 2024-10-12T18:54:32.684Z
 tags:
   - games
   - tv
@@ -31,13 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Capacitive Touch Buttons Are Everywhere
 
  There was a period in the late 2010s when touch buttons seemed to appear on almost everything, whether their use was justified or not. Though some manufacturers have moved away from the practice, others seem to be shoehorning capacitive panels into anything and everything.
@@ -49,10 +42,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -60,6 +53,19 @@ Tim Brookes / How-To Geek
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
 
@@ -70,10 +76,10 @@ Tim Brookes / How-To Geek
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -92,13 +98,6 @@ Tim Brookes / How-To Geek
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Occasionally the PS4 would turn itself on randomly, for seemingly no reason. Worse still, the console could randomly turn itself off or eject the disc for no reason. Add to this the constant threat of curious dog and cat noses that are perfect for triggering capacitive touch buttons, and the fact that it was way too easy to trigger these buttons when cleaning or simply walking past.
@@ -106,6 +105,13 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -126,21 +132,19 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-complete-guide-to-setting-up-streamlabs-obs/"><u>[New] In 2024, The Complete Guide to Setting Up Streamlabs OBS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-and-resolve-a-nonworking-or-stuck-pclaptop-keyboard-one-step-at-a-time-article-title-detailed-steps-included409-chars/"><u>How To Troubleshoot and Resolve a Nonworking or Stuck PC/Laptop Keyboard, One Step at A Time (Article Title) – Detailed Steps Included!—409 Chars</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-14-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone 14 Pro Max Stuck On Activation Lock?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-youtube-video-process-with-faster-techniques/"><u>In 2024, Streamline Your YouTube Video Process with Faster Techniques</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-15-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 15 Pro Max? How to Fix</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-diy-robot-building-in-depth-review-of-makeblocks-mbot-learning-system/"><u>Mastering DIY Robot Building: In-Depth Review of Makeblock's mBot Learning System</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/microsoft-surface-pro-7-analysis-efficient-update-with-minor-enhancements/"><u>Microsoft Surface Pro 7 Analysis: Efficient Update with Minor Enhancements</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigate-roblox-error-277-successfully-expert-tips-for-players-using-pcs-updated/"><u>Navigate Roblox Error 277 Successfully: Expert Tips for Players Using PCs (Updated )</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgears-nighthawk-x4-unveiled-an-in-depth-look-at-its-efficient-wi-fi-extending-powers/"><u>Netgear's Nighthawk X4 Unveiled: An In-Depth Look at Its Efficient Wi-Fi Extending Powers</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-4k-video-editing-software/"><u>New 2024 Approved Top 4K Video Editing Software</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/purewave-analysis-depth-resistant-audio-clarity/"><u>PureWave Analysis: Depth-Resistant Audio Clarity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-the-perfect-blend-of-elegance-and-performance-in-the-apple-imac-215/"><u>Review: The Perfect Blend of Elegance and Performance in the Apple iMac 21.5</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sabrent-compact-mouse-with-advanced-precision-a-perfect-blend-of-efficiency-and-convenience/"><u>Sabrent Compact Mouse with Advanced Precision: A Perfect Blend of Efficiency & Convenience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sing-your-favorite-songs-anywhere-a-comprehensive-guide-to-the-colorful-plug-and-play-sml38ebtbk-singing-machine/"><u>Sing Your Favorite Songs Anywhere: A Comprehensive Guide to the Colorful, Plug & Play SML38ebtbk Singing Machine</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-finding-the-password-of-your-wi-fi-connection-on-pcs-running-windows-11/"><u>Step-by-Step Instructions for Finding the Password of Your Wi-Fi Connection on PCs Running Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unfolding-wonders-your-practical-guide-to-travel-vlogging-for-2024/"><u>[Updated] Unfolding Wonders Your Practical Guide to Travel Vlogging for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-hub/"><u>Discover the Latest in Tech with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamer-and-creator-upgrades-dive-into-the-performance-of-msis-advanced-aiplus-laptops-showcasing-unprecedented-speed-from-100-542-tops/"><u>Gamer and Creator Upgrades: Dive Into the Performance of MSI's Advanced AI+ Laptops, Showcasing Unprecedented Speed From 100-542 TOPS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a18-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo A18 Bootloader Easily</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-2024-a-comprehensive-review-of-top-performing-cable-modems/"><u>Navigating Through 2024: A Comprehensive Review of Top-Performing Cable Modems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgear-orbi-examined-why-its-the-premier-mesh-router-on-the-market-now/"><u>Netgear Orbi Examined: Why It's the Premier Mesh Router on The Market Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oceantunes-test-depth-defying-fidelity/"><u>OceanTunes Test: Depth Defying Fidelity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pooch-pics-reel-entertainment-in-family-settings/"><u>Pooch Pics Reel: Entertainment in Family Settings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/precision-control-with-sabrents-wireless-travel-mouse-ideal-for-on-the-go-productivity/"><u>Precision Control with Sabrent's Wireless Travel Mouse - Ideal for On-the-Go Productivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/readers-paradise-a-deep-dive-into-the-capabilities-of-the-nook-glowlight-4-edition/"><u>Readers' Paradise: A Deep Dive Into the Capabilities of the Nook GlowLight 4 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-zen-masters-guide-to-zooming-your-youtube-livestreams/"><u>The Zen Master’s Guide to Zooming Your YouTube Livestreams</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/tutorial-complet-pour-effectuer-une-sauvegarde-et-un-restauration-fonctionnelles-sur-windows-server-2012-a-laide-de-wbadmin/"><u>Tutorial Complet Pour Effectuer Une Sauvegarde Et Un Restauration Fonctionnelles Sur Windows Server 2012 À L’aide De Wbadmin</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-12-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 12 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 

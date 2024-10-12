@@ -1,7 +1,7 @@
 ---
 title: Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.
-date: 2024-09-19T16:09:49.086Z
-updated: 2024-09-26T16:03:07.723Z
+date: 2024-10-06T19:03:08.479Z
+updated: 2024-10-12T16:35:40.511Z
 tags:
   - games
   - tv
@@ -88,29 +88,22 @@ Expand
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The prime reason to buy the Capsule 3 is its compact, all-inclusive design. It has built-in speakers, a battery that’s long enough for most movies, and streaming software, all within the size of a small Gatorade bottle. (You can see how it compares to a 12-ounce can of La Croix.) Unless you’re putting it on a tripod or plugging it into power, there’s nothing else it needs. It features a resolution of 1,920 x 1,080, has HDMI input, an 8W speaker, can do front or rear projection, and weighs under two pounds.
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -129,15 +122,22 @@ Jerome Thomas / How-To Geek
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -150,10 +150,10 @@ Jerome Thomas / How-To Geek
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Battery Life
@@ -201,22 +201,21 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-steps-to-document-googles-collaborative-sessions-for-2024/"><u>[Updated] In-Depth Steps to Document Google's Collaborative Sessions for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-pro-level-recording-highlighting-9-best-remote-mic-systems-23/"><u>2024 Approved Pro-Level Recording Highlighting 9 Best Remote Mic Systems ('23)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-the-lenovo-thinkpad-x12-2-in-1-tablet-featuring-robust-performance-and-an-excellent-input-device/"><u>Comprehensive Review: The Lenovo ThinkPad X12 2-in-1 Tablet, Featuring Robust Performance & an Excellent Input Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decoding-viber-out-real-customer-opinions-effectiveness-and-alternatives-compared/"><u>Decoding Viber Out: Real Customer Opinions, Effectiveness, and Alternatives Compared.</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/demystifying-camera-technology-in-auto-and-ai-enhanced-hdr-for-2024/"><u>Demystifying Camera Technology in Auto and AI-Enhanced HDR for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dominant-performance-comprehensive-look-at-xbox-one-xs-place-as-console-kingpin/"><u>Dominant Performance: Comprehensive Look at Xbox One X's Place as Console Kingpin</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ergonomic-moko-compact-bluetooth-keyboard-ultimate-portability-and-universal-connectivity/"><u>Ergonomic MoKo Compact Bluetooth Keyboard: Ultimate Portability & Universal Connectivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-netgear-c3700-as-a-primary-modem-solution/"><u>Evaluating the Netgear C3700 as a Primary Modem Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-next-level-efficiency-with-the-2020-macbook-pro-13-inch-powered-by-m1-chip-a-review/"><u>Experience Next-Level Efficiency with the 2020 MacBook Pro 13-Inch Powered by M1 Chip - A Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-premium-picture-with-the-affordable-hisence-50-inch-4k-hdr-smart-tv-a-complete-review/"><u>Experience Premium Picture with the Affordable Hisence 50-Inch 4K HDR Smart TV: A Complete Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-dbpower-unichargers-robust-portable-design-and-extraordinary-mains-charging-speed-expert-insights/"><u>Exploring the DBPOWER UniCharger's Robust, Portable Design & Extraordinary Mains Charging Speed - Expert Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-process-of-verifying-your-youtube-id/"><u>In 2024, Navigating the Process of Verifying Your YouTube ID</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-visuals-perfecting-banners-and-thumbnails/"><u>In 2024, YouTube Visuals Perfecting Banners and Thumbnails</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/into-the-virtual-epoch-analyzing-present-state-and-ahead/"><u>Into the Virtual Epoch Analyzing Present State and Ahead</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/prompt-engineering-assessing-job-viability-and-growth-potential/"><u>Prompt Engineering: Assessing Job Viability and Growth Potential</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/trends-in-advanced-iptv-video-capture-methods/"><u>Trends in Advanced IPTV Video Capture Methods</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleashing-potential-windows-10s-new-upgrades/"><u>Unleashing Potential Windows 10'S New Upgrades</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-script-to-screen-your-windowed-path-to-video-creation-excellence/"><u>[New] From Script to Screen Your Windowed Path to Video Creation Excellence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-streaming-equipment-for-broadcasters/"><u>[Updated] Advanced Streaming Equipment for Broadcasters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-attracting-eyes-with-these-6-video-genres-for-2024/"><u>[Updated] Attracting Eyes with These 6 Video Genres for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-the-art-of-igtv-a-comprehensive-guide-for-social-media-pros/"><u>[Updated] In 2024, Mastering the Art of IGTV A Comprehensive Guide for Social Media Pros</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cyberpower-cp685avrg-unit-evaluation-dependable-bare-bones-uninterruptible-power-supply-performance/"><u>Cyberpower CP685AVRG Unit Evaluation: Dependable Bare-Bones Uninterruptible Power Supply Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/die-innovative-losung-fur-die-konvertierung-von-dvds-in-digitale-formate-erfahren-sie-mehr-uber-das-unternehmen-digiarty-software/"><u>Die Innovative Lösung Für Die Konvertierung Von DVDs in Digitale Formate - Erfahren Sie Mehr Über Das Unternehmen Digiarty Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-comfort-with-the-ergodriven-topo-the-anti-fatigue-mat-for-effortless-long-stands-at-your-desk/"><u>Experience Comfort with the Ergodriven Topo - The Anti-Fatigue Mat for Effortless Long Stands at Your Desk</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-assessment-the-combination-of-quality-and-efficiency-in-the-huion-inspiroy-g10t-art-pad/"><u>Expert Assessment: The Combination of Quality and Efficiency in the Huion Inspiroy G10T Art Pad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-unveiling-the-features-of-jackerys-portable-power-bar-with-ac-output/"><u>Expert Review: Unveiling the Features of Jackery's Portable Power Bar with AC Output</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-bouncie-connect-an-easy-and-economical-choice-for-gps-trackers/"><u>Exploring Bouncie Connect - An Easy & Economical Choice for GPS Trackers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fossil-sports-watches-review-achieving-luxury-at-a-cost-youll-love/"><u>Fossil Sports Watches Review: Achieving Luxury at a Cost You'll Love</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-pixel-4a-review-just-enough-smartphone-for-most/"><u>Google Pixel 4a Review: Just Enough Smartphone for Most</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-does-the-amazonbasics-12-sheet-security-micro-cut-shredder-stack-up-detailed-examination-and-user-satisfaction-review/"><u>How Does the AmazonBasics 12-Sheet Security Micro-Cut Shredder Stack Up? - Detailed Examination and User Satisfaction Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-designing-youtube-ads-that-grab-attention-a-compreeher-guide/"><u>In 2024, Designing Youtube Ads That Grab Attention A Compreeher Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-a-guide-to-hardware-by-toms-tech-wisdom/"><u>Mastering Modern Devices: A Guide to Hardware by Tom's Tech Wisdom</u></a></li>
 </ul></div>
 

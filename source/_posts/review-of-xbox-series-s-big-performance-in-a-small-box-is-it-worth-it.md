@@ -1,7 +1,7 @@
 ---
 title: "Review of Xbox Series S: Big Performance in a Small Box – Is It Worth It?"
-date: 2024-08-22T13:12:26.485Z
-updated: 2024-08-23T13:12:26.485Z
+date: 2024-10-10T18:48:24.975Z
+updated: 2024-10-12T16:58:34.119Z
 categories:
   - BestProducts
 description: "This Article Describes Review of Xbox Series S: Big Performance in a Small Box – Is It Worth It?"
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear Nighthawk X4 AC2200 Wi-Fi Mesh Extender (EX7300)
 
 ![Nighthawk X4 Wi-Fi Mesh Extender](https://www.lifewire.com/thmb/pbxpBfhizGFobbPawynEvJ-QMRE=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkX4_HeroHoriz-992cc019c1e64ea59b9ce72905f0381c.jpg)
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
  It also has advanced technologies such as MU-MIMO and beamforming, so it feels like a fully capable device. You’ll pay a bit more for this one compared to some of the entry-level plug-in Wi-Fi extenders, but if your home is plagued by wireless dead zones or you just want to ensure a more consistent high-speed signal throughout your dwelling, then this is a strong option. I tested the Netgear Nighthawk X4 for several days in my house for a variety of needs, including everyday work, playing online games, and streaming media.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Hearty, but still compact**
 
  At just over 6 inches tall and 3 inches wide, the Netgear Nighthawk X4 Wi-Fi Mesh Extender might look a little too large to hang from a wall outlet, but most of the weight is concentrated at the base where it plugs in. It’ll only take up one plug on an outlet, leaving the other free, and it stayed securely in place during use.
@@ -68,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ![Netgear Nighthawk X4 (EX7300) Wi-Fi Mesh Extender](https://www.lifewire.com/thmb/ahWiBPBlk75slmsmgc-c4cnSgf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkX4_03-6a6cab81b4ec4da39c89aa3a92cb1f16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 ## **Setup Process: Simple setup, awkward app**
@@ -88,13 +99,14 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 ![Netgear Nighthawk X4 Wi-Fi Mesh Extender](https://www.lifewire.com/thmb/rfn4cAzCyxeBXmoIx0VVBH7R0w8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkX4_04-188447741dad41d7a4c51fd7c71861f2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Connectivity: Steady, stellar speeds**
 
  The Netgear Nighthawk X4 worked as advertised, delivering strong speeds, improving upon the signal available from the router in the further corners of my house, and even holding a 5GHz signal pretty well when a fair distance away from the extender. The[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) (multiple user, multi-in multi-out) design allows for more simultaneous signals while beamforming helps hone a signal towards its requesting device. All told, these technological advancements seem to help deliver strong wireless performance.
@@ -111,21 +123,19 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ![Netgear Nighthawk X4 Wi-Fi Mesh Extender](https://www.lifewire.com/thmb/ugGkkd4SJutt9ZSqg6hsgakNAAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkX4_05-8a00f82288884d71bd867f253500e04f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Worth the investment**
 
  At an MSRP of $150 but often seen now for $130, the Netgear Nighthawk X4 Wi-Fi Mesh Extender costs a fair bit more than a simpler entry-level extender, but the strong performance—especially on the 5GHz band—makes it a worthy investment if you plan on playing online games or streaming extensive media. There are much cheaper Wi-Fi extenders out there, however (like the one below), if your needs aren’t very extensive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Netgear Nighthawk X4 vs. TP-Link RE200**
 
 [TP-Link’s RE200](https://www.lifewire.com/tp-link-re200wi-fi-range-extender-review-4846136) (view at[Walmart](https://www.walmart.com/ip/42300087) ) is similar in its plug-in approach, but it’s much smaller and costs a fraction of the price at $30\. It also gave me solid connectivity on 2.4GHz, although the 5GHz performance left something to be desired.
@@ -149,14 +159,11 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 * Ports  1x Ethernet
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,4 +172,22 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-video-stories-your-brands-new-voice-for-2024/"><u>[New] Video Stories Your Brand's New Voice for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-prime-film-apps-showdown-apples-finest-categories-for-2024/"><u>[Updated] Prime Film Apps Showdown Apple's Finest Categories for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-transformative-discord-journey-with-these-essential-upgrades-for-2024/"><u>[Updated] Transformative Discord Journey with These Essential Upgrades for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-twitter-visual-content-proportions-for-2024/"><u>[Updated] Twitter Visual Content Proportions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-8-top-picks-for-seamless-screen-recording-experience/"><u>2024 Approved 8 Top Picks for Seamless Screen Recording Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-perfect-your-video-cropping-technique-for-instagram-sharing/"><u>2024 Approved Perfect Your Video Cropping Technique for Instagram Sharing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/capture-perfection-the-neewer-tt560-speedlites-reliability/"><u>Capture Perfection: The Neewer TT560 Speedlite's Reliability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huawei-mediapad-m5-comprehensive-analysis-the-ultimate-audio-and-visual-experience-tablet/"><u>Huawei MediaPad M5 Comprehensive Analysis - The Ultimate Audio & Visual Experience Tablet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-s18-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo S18 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-home-internet-why-the-linksys-max-stream-ac11900-is-ideal-for-you/"><u>Mastering Home Internet: Why the Linksys Max-Stream AC1([1900] Is Ideal for You)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/slashing-costs-without-compromising-style-a-comprehensive-look-at-the-procase-macbook-pro-13-case/"><u>Slashing Costs Without Compromising Style: A Comprehensive Look at the ProCase MacBook Pro 13 Case</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-future-is-here-revolutionary-rechargeable-battery-chargers-taking-over-2024/"><u>The Future Is Here: Revolutionary Rechargeable Battery Chargers Taking Over 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-videographers-playbook-for-sims-games/"><u>The Videographer's Playbook for Sims Games</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/toshiba-55lf711u20-55-inch-fire-tv-edition-review-ideal-for-amazon-prime-members/"><u>Toshiba 55LF711U20 55-Inch Fire TV Edition Review: Ideal for Amazon Prime Members</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-90-gts-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor 90 GTs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>
 
