@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Longing Feelings: Why Face-to-Face Gaming with Pals Beats Virtual Battles"
-date: 2024-10-05T16:50:50.450Z
-updated: 2024-10-12T18:28:19.128Z
+date: 2024-10-15T17:26:03.452Z
+updated: 2024-10-18T17:16:08.719Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  Modern gaming technology and fast internet connections are wonderful, but so too were in-person LAN parties. I spent my youth lugging CRTs and PC towers to friends' houses or whatever space we could borrow for a weekend, and I miss it with all my heart. Here's why it was awesome.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Getting Ready for the Event
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  More friendships were forged on the battlefields of _Diablo II_, _Warcraft_, _StarCraft_, _Quake_, _Doom_, and numerous other absolute classic LAN games than you could fathom. You might have your TikTok and Instagram followers, but would any of them take a thunderbolt spell for you? No, real friends who you'd stay in touch with for the rest of your life were waiting for you at the next LAN party.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Discovering New Media
@@ -56,10 +56,16 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  This was a cultural exchange as much as an excuse to play video games. It's not an exaggeration to say many people were introduced to lifelong fandoms at LAN parties, and you never knew what wacky thing you'd be exposed to next.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Face-to-Face Multiplayer
@@ -69,10 +75,16 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  This is the feeling that online multiplayer will never replicate, even in an age of Discord or Xbox Live chat. Nothing beats eight or twelve people in one room slaying demons and blowing up aliens for 20 hours straight.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Learning About PCs and Networking
@@ -96,15 +108,21 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-guide-to-writing-enthralling-videography-content/"><u>[Updated] Guide to Writing Enthralling Videography Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-pro-video-cinematography-choosing-the-right-lenses-for-2024/"><u>[Updated] Pro Video Cinematography Choosing the Right Lenses for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-the-potential-of-aiseesoft-for-video-documentation-for-2024/"><u>[Updated] Unlocking the Potential of Aiseesoft for Video Documentation for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/5-things-to-consider-before-buying-a-used-ipad/"><u>5 Things to Consider Before Buying a Used iPad</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-on-economical-pet-surveillance/"><u>A Comprehensive Review on Economical Pet Surveillance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-nlps-role-versus-mls-role/"><u>Deciphering NLP's Role Versus ML's Role</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723055233167-maximize-your-safety-on-the-road-a-detailed-review-of-the-escort-max-360-radar-detector-complete-with-gps-and-more/"><u>Maximize Your Safety on the Road: A Detailed Review of the Escort Max 360 Radar Detector - Complete With GPS and More</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-oppo-reno-10-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-11-ie-driver-fetch-and-set-up-guide/"><u>Win 11 IE Driver Fetch & Set Up Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/winegard-fl5500a-flatwave-antenna-assessment-balancing-quality-with-high-cost/"><u>Winegard FL5500A FlatWave Antenna Assessment - Balancing Quality with High Cost</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unleash-the-potential-of-your-video-with-best-thumbnail-fonts/"><u>[New] 2024 Approved Unleash the Potential of Your Video with Best Thumbnail Fonts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-zoom-mastery-for-selfie-success-in-instagram-stories-for-2024/"><u>[New] Zoom Mastery for Selfie Success in Instagram Stories for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>[Updated] 2024 Approved Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-securing-conversation-logs-how-to-store-mb-chats-and-calls-safely/"><u>2024 Approved Securing Conversation Logs How to Store MB Chats and Calls Safely</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-sleek-and-compact-acer-chromebook-r-11-a-comprehensive-review/"><u>Discovering the Sleek and Compact Acer Chromebook R 11: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhance-your-workspace-with-ergoheads-standing-desk-mat-an-extensive-review-of-endurance-and-ease/"><u>Enhance Your Workspace with Ergohead's Standing Desk Mat – An Extensive Review of Endurance & Ease</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-a-world-in-wide-view-theta-sc2-overview/"><u>Experience a World in Wide View: Theta SC2 Overview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experienced-user-insights-on-the-handy-criacr-bluetooth-fm-transmitter-cp2n-detailed-assessment-revealed/"><u>Experienced User Insights on the Handy Criacr Bluetooth FM Transmitter CP2n: Detailed Assessment Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-uniden-r3-robust-construction-with-superior-radar-sensing-capabilities/"><u>Expert Analysis of the Uniden R3: Robust Construction with Superior Radar Sensing Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-why-the-x-chair-x4-deserves-to-be-on-every-professionals-shortlist/"><u>Expert Review: Why the X-Chair X4 Deserves to Be on Every Professional's Shortlist</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-features-and-performance-of-the-advanced-linksys-ea9500-smart-router-a-tech-revolution-in-home-connectivity/"><u>Explore the Features and Performance of the Advanced Linksys EA9500 Smart Router - A Tech Revolution in Home Connectivity</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-import-in-windows-10-photo-space-for-2024/"><u>Mastering the Art of Import in Windows 10 Photo Space for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-no-server-woes-on-windows-secrets-for-apex-success-(156-chars/"><u>Navigating No-Server Woes on Windows: Secrets for Apex Success (<156 Chars)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/skillful-use-of-chatgpt-dont-fall-for-wasteful-apps/"><u>Skillful Use of ChatGPT: Don't Fall for Wasteful Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-honor-magic-6-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Honor Magic 6 Pro Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 

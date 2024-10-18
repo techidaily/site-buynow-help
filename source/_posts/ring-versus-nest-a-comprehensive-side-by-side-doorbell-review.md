@@ -1,7 +1,7 @@
 ---
 title: "Ring Versus Nest: A Comprehensive Side-by-Side Doorbell Review"
-date: 2024-08-22T13:02:04.060Z
-updated: 2024-08-23T13:02:04.061Z
+date: 2024-10-14T18:12:11.272Z
+updated: 2024-10-18T18:11:46.103Z
 categories:
   - BestProducts
 description: "This Article Describes Ring Versus Nest: A Comprehensive Side-by-Side Doorbell Review"
@@ -41,6 +41,13 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Jonno Hill
 
 [View On Amazon $950](https://www.amazon.com/dp/B07SW895CZ?tag=lifewire-onsite-prod-20&ascsubtag=5072832%7Cnbfa2130ffdd54ba8b950c4ad0f0be8b007%7CB07SW895CZ) [View On Microsoft](https://www.microsoft.com/en-us/p/hp-omen-obelisk-gaming-desktop/8rqn7sf9phfz?activetab=pivot%3aoverviewtab)
@@ -69,11 +76,15 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
  The HP OMEN Obelisk looks good in pictures but starts to fall apart a little when examined up close. Overall, HP did a pretty decent job here, but there are plenty of areas for improvement.
@@ -96,21 +107,8 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **Performance** :**Great components for gaming and productivity**
 
  The HP OMEN Obelisk that I tested featured a 9th Gen Intel Core i9 9900K, 32GB of RAM, a 1TB SSD, and the Nvidia GTX GeForce 2080 Super graphics card. This is a potent combination of components in a gaming PC, and I was appropriately impressed by the results.
@@ -120,8 +118,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Gaming** :**Great for the most demanding titles**
 
  Gaming performance is great on the HP OMEN Obelisk thanks to the Nvidia GTX GeForce 2080 Super and Intel i9-9900K combo. I tested a number of games on my 3440x1440 monitor to get a sense of performance. To put this in perspective, this resolution is roughly 60 percent of the pixels of a 4K monitor.
@@ -136,20 +138,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: Just enough options**
 
  The HP OMEN Obelisk comes with the OMEN Command Center, which is used to manage your desktop as well as any other OMEN products such as headsets, keyboards, and mice. From here, you have the option to click on your desktop and start managing your PC or choose from one of the various other options such as rewards, coaching, remote play, and My Games (a game launcher).
@@ -182,6 +185,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Omen Obelisk
@@ -201,14 +211,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Network  Wi-Fi 5 (2x2), Gigabit Ethernet, Bluetooth 4.2
 * Warranty  1 year limited
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -217,4 +224,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-decoding-the-jargon-what-mcns-mean-for-you-for-2024/"><u>[New] Decoding the Jargon What MCNs Mean for You for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elite-choices-in-total-sweep-cinematography-for-2024/"><u>[Updated] Elite Choices in Total Sweep Cinematography for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726226453172-mp4flv-movavi/"><u>免費在網路上適用的MP4至FLV格式转换 - 使用Movavi方便实现</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-the-best-of-both-worlds-apple-ipad-air-2020-vs-samsung-galaxy-tab-s7plus/"><u>Comparing the Best of Both Worlds: Apple iPad Air (2020) Vs. Samsung Galaxy Tab S7+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deciding-on-the-worth-of-idevice-battery-replacements/"><u>Deciding on the Worth of iDevice Battery Replacements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/free-lightzone-photo-editor-compatible-with-windows-macos-and-linux/"><u>Free LightZone Photo Editor: Compatible with Windows, macOS, & Linux</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-sony-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-x6-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Find X6 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/macos-sonoma-is-it-time-for-an-update/"><u>MacOS Sonoma: Is It Time for an Update?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-tech-with-tom-expert-insights-on-hardware-selection-and-performance/"><u>Navigating Tech with Tom: Expert Insights on Hardware Selection and Performance</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/understanding-asus-x441ba-the-balance-between-size-and-performance-reviewed/"><u>Understanding Asus X441BA - The Balance Between Size and Performance Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-factors-behind-the-popularity-and-achievements-of-wii-u/"><u>Unveiling the Factors Behind the Popularity and Achievements of Wii U</u></a></li>
+</ul></div>
 

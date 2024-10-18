@@ -1,7 +1,7 @@
 ---
 title: "Unplugging From the Web: Why Securing or Turning Off Your Vizio Smart TV Is Essential"
-date: 2024-10-11T16:36:12.988Z
-updated: 2024-10-12T18:01:18.827Z
+date: 2024-10-12T16:29:45.732Z
+updated: 2024-10-18T16:19:59.777Z
 tags:
   - games
   - tv
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
  Ever feel like your TV knows a little too much about your binge-watching habits? Smart TVs are notorious for privacy invasion, from voice assistants listening in to tech that tracks every show you watch. Now, with Vizio in Walmart's shopping cart, it's a great time to evaluate what your TV knows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Your Smart TV _is_ Spying on You
@@ -42,19 +42,6 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 
  This all sounds pretty scary, and to some degree, _it is_, but that doesn't mean you should jump to assuming it's as invasive as it sounds. The information collected is overwhelmingly used for ads. Boring as that may be, you shouldn't allow it to happen.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Walmart Now Owns Vizio and Its User Data
 
  Smart TVs spying on their viewers is sadly not a new thing, but what is a more recent development is who now owns a large chunk of this data. in February 2024, [Walmart purchased Vizio for $2.3 billion](https://solve-news.techidaily.com/cookiebot-enabled-optimize-your-site-with-advanced-analytics/), and it was largely done to enhance Walmart's advertising business.
@@ -64,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
  Clearly, there's big business in collecting data from your TV usage habits. Walmart was already selling Vizio TVs, but now it can also bolster its own ads platform—[called "Walmart Connect"](https://corporate.walmart.com/news/2024/02/20/walmart-agrees-to-acquire-vizio-holding-corp-to-facilitate-accelerated-growth-of-walmart-connect-through-vizio-s-smartcast-operating-system)—with all of that user data. Plus, with Vizio's SmartCast platform, Walmart could ditch Roku and Google TV for its Onn-branded smart TVs.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Disconnecting From the Internet is the Easiest Solution
@@ -85,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
  If the TV is plugged into your internet with an ethernet cable, just go ahead and pull the plug. The TV is probably connected to Wi-Fi, though, in which case you'll need to go into the settings and forget the Wi-Fi network or simply turn off Wi-Fi. You may also be able to use your router's mobile app or web interface to block the TV from accessing the network.
 
  Now, this does mean you'll lose some of the functionality of your smart TV's software. If you were only using the TV as a "dumb" display for other devices, like a gaming console, that's not a problem. However, if you were using the TV's stock software for launching Netflix, Hulu, and other streaming services, we'll share a better way to go about that below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Turn off Tracking on Vizio TVs
 
@@ -111,10 +99,10 @@ Vizio
 5. Press the right arrow to change the setting to "Off."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Use a Secondary Streaming Device Instead
@@ -142,24 +130,15 @@ Vizio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-discover-leading-fonts-boosting-your-youtube-thumbnails/"><u>[New] In 2024, Discover Leading Fonts Boosting Your YouTube Thumbnails</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-essential-guide-to-shopping-for-a-gopro-camera/"><u>[Updated] 2024 Approved The Essential Guide to Shopping for a Gopro Camera</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/forefront-picks-premier-storm-monitoring-tools-available/"><u>Forefront Picks: Premier Storm Monitoring Tools Available</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/foremost-8-smartphone-gaming-experiences-on-the-market/"><u>Foremost 8 Smartphone Gaming Experiences on the Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/guide-to-choosing-a-tablet-based-on-size-and-weight/"><u>Guide to Choosing a Tablet Based on Size and Weight</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y36i-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y36i Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hp-omen-obelisk-analysis-exceptional-performance-at-an-unbeatable-price/"><u>HP Omen Obelisk Analysis: Exceptional Performance at an Unbeatable Price</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-storage-sizing-film-duration-in-gb/"><u>In 2024, Storage Sizing Film Duration in GB</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-7-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 7 to PC | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-reviews-on-google-nest-wi-fi-fast-reliable-and-advanced-mesh-networking-technology/"><u>In-Depth Analysis & Reviews on Google Nest Wi-Fi - Fast, Reliable, and Advanced Mesh Networking Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-all-purpose-linksys-max-stream-ac1900-router-exceeds-expectations/"><u>In-Depth Analysis of the All-Purpose Linksys Max-Stream AC1900 Router – Exceeds Expectations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-ac68u-fast-safe-and-superior-5g-networking-experience/"><u>In-Depth Analysis of the Asus AC68U - Fast, Safe, and Superior 5G Networking Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-amazonbasics-affordable-and-reliable-6-sheets-cross-cut-paper-shredder/"><u>In-Depth Look at AmazonBasics' Affordable and Reliable 6-Sheets Cross-Cut Paper Shredder</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-auto-gps-devices-ranked-for-excellence/"><u>Innovative Auto GPS Devices Ranked for Excellence</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/kindle-or-fire-tablet-deciding-which-device-is-right-for-you/"><u>Kindle or Fire Tablet - Deciding Which Device Is Right for You?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/master-the-art-of-rapid-tiktok-videos/"><u>Master the Art of Rapid TikTok Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movpdf/"><u>オンラインで自由にMOVファイルをPDFに変換 - ムーヴァヴィ</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-capture-gifs-flawlessly-with-macs-top-apps/"><u>[New] In 2024, Capture GIFs Flawlessly with Mac's Top Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-directly-upload-and-share-videos-to-twitter-from-your-phone-for-2024/"><u>[Updated] Directly Upload and Share Videos to Twitter From Your Phone for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/achieving-perfect-view-angles-the-ultimate-ps4-cam-setup-tips/"><u>Achieving Perfect View Angles: The Ultimate PS4 Cam Setup Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-vehicle-security-invest-in-safety-with-high-end-long-range-traffic-monitors-uncover-the-best-options-on-escortpassport/"><u>Affordable Vehicle Security: Invest in Safety with High-End Long Range Traffic Monitors - Uncover the Best Options on EscortPassport!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-virtual-reality-mastery-with-oculus-quest-2-a-comprehensive-review/"><u>Affordable Virtual Reality Mastery with Oculus Quest 2 - A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apc-be600m1-uninterruptible-power-supply-ensuring-stable-energy-and-seamless-usb-charging-for-mobile-gadgets-reviewed-here/"><u>APC BE600M1 Uninterruptible Power Supply: Ensuring Stable Energy & Seamless USB Charging for Mobile Gadgets Reviewed Here!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/become-a-broadcast-pro-screen-sharing-101-for-facebookers-for-2024/"><u>Become a Broadcast Pro Screen Sharing 101 for Facebookers for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-14-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 14 on MetroPCS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-turning-gaming-moments-into-legacy-proven-methods-for-documenting-your-sims-journey-in-sims-4/"><u>In 2024, Turning Gaming Moments Into Legacy Proven Methods for Documenting Your Sims' Journey in Sims 4</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-zte-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass ZTE FRP</u></a></li>
 </ul></div>
 

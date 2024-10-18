@@ -1,7 +1,7 @@
 ---
 title: "TT560 Lights Up: Reliability in a Simple Package"
-date: 2024-08-22T13:03:13.245Z
-updated: 2024-08-23T13:03:13.245Z
+date: 2024-10-11T16:28:35.256Z
+updated: 2024-10-18T16:54:12.738Z
 categories:
   - BestProducts
 description: "This Article Describes TT560 Lights Up: Reliability in a Simple Package"
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/7R_IVd_cu2-li0Lw4-mRkmgyF1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Tony Mitera
 
 [View On EBay](https://www.ebay.com/p/563813511)
@@ -66,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 
  Lifewire / Tony Mitera
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: A lot of power packed into a small frame**
 
  The Beatit Jump Starter D11’s main unit's effectively a small black brick with red accents. Roughly the size of a small paperback book, the unit's constructed out of durable plastic and features a flashlight at one end. Along one of the long sides there's a small display that shows battery status, the on/off switch, two USB power outputs, and the device’s charging port. On the opposing side a rubber flap covers the jumper cable port; a unique port that the jumper cable accessory plugs in to.
@@ -79,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 
  The list of accessories that come with the unit includes both a wall charger and a 12V port charger, a Micro USB cable to charge devices with, and the jumper cables themselves. The jumper cable accessory is a pair of terminal clamps with relatively short cables that together join into a plastic module that plugs into the specific port on the unit. The module has a single status LED on its side that flashes different colors to signify different conditions, such as the unit being ready for jump starting, or indicating incorrect connection of the clamps.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## **Setup Process: It can’t realistically be much simpler**
 
  Should you find yourself in a situation where you need to use the jump start functionality of the Beatit Jump Starter D11, you'll find it quite easy to use. On our Elantra test vehicle we simply had to pop the hood, bring the unit over, and plug the jumper cable accessory into its port. Once in place getting a proper connection is a simple matter of attaching the red clamp to the positive battery terminal and then the black clamp to the negative terminal. With a firm connection in place we simply had to set the unit down someplace where the vibration of the engine wouldn’t make it slide and then start the car. With the unit in place the car immediately started with zero hesitation, at which point we could disconnect the unit and get back on the road.
@@ -91,8 +92,18 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
  If it's your other devices that are having some battery issues, the D11’s two USB ports can be used to charge them up. The 2.1A port provides for faster charging, and while the 1A port also works it really doesn’t provide power in a hurry and should only be used with specific devices that can’t handle the other port's amperage. For most modern phones you’re just going to want to plug it into the 2.1A port and enjoy the faster recharge.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Plenty of power for all your needs**
 
  Time and again, the Beatit Jump Starter D11 was able to get a car with a very[depleted battery](https://www.lifewire.com/car-batteries-are-made-to-die-534765) started. Even after repeated testing the unit’s own battery only dropped down to 85% capacity.
@@ -102,8 +113,18 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Key Features: The flashlight is nice but is basically a spotlight**
 
  There aren’t a ton of other features present with the Beatit Jump Starter D11 but there are some of note, including the unit’s built-in flashlight. It’s a nice addition to have if you must jump start a car in the middle of the night, but it doesn’t put out of a ton of light and the beam is pretty narrow. You can pick the unit up and use it as a large flashlight, though doing so while also trying to get the clamps attached is cumbersome.
@@ -113,8 +134,12 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: A ton of value for a tiny cost**
 
  The MSRP of the Beatit Jump Starter D11 is $70 which makes it one of the most affordable jump starters on the market. Indeed, at that price, it's the least expensive one we tested, yet no part of it feels like any corners were cut in terms of quality or performance.
@@ -137,9 +162,6 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 
  In a crowded field, there are few units that are as easy to recommend as the Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter. It has relatively few features when compared to some of its competitors but otherwise excels at what it's designed to do. Charge it up, keep it stashed in your vehicle, and you’ll have a perfect tool to easily provide a jump to whatever vehicle needs it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  800A BT-D11 Car Jump Starter
@@ -162,8 +184,6 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +191,19 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-premier-chillout-pc-game-hits/"><u>2024 Approved Premier Chillout PC Game Hits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-propel-your-video-writes-the-ai-way/"><u>2024 Approved Propel Your Video' Writes The AI Way</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/download-gratis-top-videoconverter-fur-mac-betriebssystem-kostenloser-zugang/"><u>Download Gratis: Top Videoconverter Für Mac-Betriebssystem - Kostenloser Zugang</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/icloud-icloud/"><u>ICloud 写真保存手順詳解: 初めてのiCloudバックアップから復元方法まで</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-winegard-fl5500a-flatwave-antenna-worth-its-price-tag-a-detailed-review/"><u>Is the Winegard FL5500A FlatWave Antenna Worth Its Price Tag? A Detailed Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-update-of-canon-device-drivers-a-comprehensive-walkthrough-for-windows-users/"><u>Seamless Update of Canon Device Drivers: A Comprehensive Walkthrough for Windows Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smartphone-lovers-dream-an-in-depth-look-at-the-designer-netatmo-weather-station/"><u>Smartphone Lover's Dream: An In-Depth Look at the Designer Netatmo Weather Station</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successful-guide-installing-mouse-drivers-on-windows-7-complete-solution/"><u>Successful Guide: Installing Mouse Drivers on Windows 7 – Complete Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-evolution-of-performance-exploring-the-top-notch-features-and-capabilities-of-2020s-apple-macbook-air-with-m1-processor/"><u>The Evolution of Performance: Exploring The Top-Notch Features and Capabilities of 2020'S Apple MacBook Air with M1 Processor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-2024-audio-gadget-guidebook/"><u>The Ultimate 2024 Audio Gadget Guidebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/transforming-online-meetings-choose-from-these-top-5-recorders/"><u>Transforming Online Meetings Choose From These Top 5 Recorders</u></a></li>
+</ul></div>
 

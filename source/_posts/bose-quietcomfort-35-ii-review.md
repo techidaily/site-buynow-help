@@ -1,7 +1,7 @@
 ---
 title: Bose QuietComfort 35 II Review
-date: 2024-08-22T13:01:44.643Z
-updated: 2024-08-23T13:01:44.643Z
+date: 2024-10-15T16:57:12.131Z
+updated: 2024-10-18T18:27:20.256Z
 categories:
   - BestProducts
 description: This Article Describes Bose QuietComfort 35 II Review
@@ -41,6 +41,13 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Zach Sweat
 
 [View On Amazon $150](https://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM/?tag=lifewire-onsite-prod-20&ascsubtag=4796457%7Cnbd5105eb0dc54e3e804df51703e5036902%7CB07SFKTLZM) [View On Walmart $150](https://www.walmart.com/ip/Microsoft-Xbox-Elite-Wireless-Controller-Series-2-Black-FST-00001/784834522) [View On Adorama.com $180](https://www.adorama.com/xbfst00001.html)
@@ -65,6 +72,13 @@ Lifewire / Zach Sweat
  We reviewed the original $150 Elite controller when it debuted years ago and loved nearly every aspect of it, but it wasn’t flawless suffering from the lack of a few key features and some durability issues. This is where the newly updated Elite Series 2 controller comes in. Listening to feedback provided by gamers on the weaknesses of Series 1, Microsoft has put out what is likely to be the last iteration of the[Xbox One controller,](https://www.lifewire.com/xbox-one-consoles-4156250) and it’s pretty much perfect—provided you’re willing to pay the hefty price tag.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/t8wI_yN2s_uIQ1leo87MmOnXxb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-5-0c39ec4e89eb45b094471681efec0e7d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -94,10 +108,14 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Comfort: Hefty, but darn comfy**
 
@@ -113,10 +131,6 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
 ## **Setup Process and Software: Bluetooth, at long last**
@@ -139,14 +153,15 @@ The ultimate burning program for all your needs!</a>
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance/Durability: Enhanced performance and durability**
 
  To test the performance of the new Elite Series 2 controller, I put this device through several hours of gaming on both PC and Xbox One platforms running a number of games and layouts. The results were promising, so let’s take a closer look.
@@ -170,8 +185,12 @@ The ultimate burning program for all your needs!</a>
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Like buying a brand new console**
 
  Right now, the Elite Series 2 controller retails at an MSRP of $249.99, about $100 more than its predecessor. This price tag makes it not only the most expensive first-party controller around, but also nearly the cost of a brand new Xbox One S console (or three brand new titles). That can be a tough sell for your average gamer.
@@ -182,9 +201,6 @@ The ultimate burning program for all your needs!</a>
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
@@ -218,14 +234,11 @@ The ultimate burning program for all your needs!</a>
 * Warranty  90-day warranty
 * Compatibility  All Xbox One Consoles, Windows 10 PCs, Bluetooth devices
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -234,4 +247,19 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boost-engagement-top-8-youtube-video-trackers-unveiled/"><u>[New] 2024 Approved Boost Engagement - Top 8 YouTube Video Trackers Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-bi-panel-screen-transcription/"><u>[New] Bi-Panel Screen Transcription</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-editors-guide-to-powerful-notebooks-and-more-for-2024/"><u>[Updated] The Editor's Guide to Powerful Notebooks and More for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-specialist-recommendations-the-quintessential-5-cameras/"><u>2024 Approved Specialist Recommendations The Quintessential 5 Cameras</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-tips-and-tricks-for-rearranging-your-youtube-playlists/"><u>2024 Approved Tips & Tricks for Rearranging Your YouTube Playlists</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-a18-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo A18 is off? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-gotrax-gxl-v2-electric-scooter-analysis-perfect-for-swift-city-rides/"><u>Comprehensive GOTRAX GXL V2 Electric Scooter Analysis: Perfect for Swift City Rides</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hps-ultimate-compact-device-the-stream-n-11-for-everyday-computing/"><u>HP's Ultimate Compact Device: The Stream N 11 for Everyday Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-a25-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy A25 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-google-maps-app-on-apples-mobile-os/"><u>In-Depth Analysis of Google Maps App on Apple's Mobile OS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-owc-mercury-pro-premium-storage-solutions-meet-unmatched-performance/"><u>In-Depth Analysis of the OWC Mercury Pro: Premium Storage Solutions Meet Unmatched Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-features-of-samsung-galaxy-s20-fe-5g-in-depth-user-testimonials/"><u>Unveiling the Best Features of Samsung Galaxy S20 FE (5G): In-Depth User Testimonials</u></a></li>
+</ul></div>
 

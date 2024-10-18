@@ -1,7 +1,7 @@
 ---
 title: "Top-Tier Performance Analyzed: The Samsung Galaxy S21 Ultra as Android’s Best Choice"
-date: 2024-08-22T13:00:31.788Z
-updated: 2024-08-23T13:00:31.788Z
+date: 2024-10-13T17:40:23.874Z
+updated: 2024-10-18T17:13:34.768Z
 categories:
   - BestProducts
 description: "This Article Describes Top-Tier Performance Analyzed: The Samsung Galaxy S21 Ultra as Android’s Best Choice"
@@ -37,9 +37,23 @@ Lifewire / Jordan Provost
 
 4.9
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple iPad Pro 11-Inch (2018)
 
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/SgNIbLZ961-p9WD7at7-M5m8Tuk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_HeroSquare-b5f2405776244188aa59f67503531baf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jordan Provost
 
@@ -73,6 +87,19 @@ Lifewire / Jordan Provost
 
  Lifewire / Jordan Provost
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design and Features: Cutting edge**
 
  The iPad Pro is easy to pick up with one hand and barely makes a dent in your backpack storage. It feels like a notepad, and you can use it as such. For what is inside this piece of kit, that is a marvel This device even fits snug into the accessory slot of a laptop sleeve if you’re planning to double up. It is dainty, but what makes it so wonderful is that there are no compromises to make up for this, design-wise.
@@ -85,9 +112,6 @@ Lifewire / Jordan Provost
 
  Lifewire / Jordan Provost
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Accessories: Useful for productivity**
 
  The two main attachments everyone should consider when purchasing an iPad Pro are the Apple Pencil and the Smart Keyboard Folio. The Apple Pencil is a powerful tool for artists and note takers, and the revised model includes a double-tap feature so you can quickly switch between brush styles and utilize functions usually locked off to the more PC-focused professional drawing tablets. Previous Apple Pencil users will be glad to know that it charges with a magnetic pad on the side of the device, and not awkwardly through the port at the bottom like previous models.
@@ -108,23 +132,6 @@ Lifewire / Jordan Provost
 
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/GV44W9kKlQd3SXT_XaWI-tjo6Cw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_6-2bcb5b2009154c92931411045a9b6ddc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  Lifewire / Jordan Provost
 
 ## **Display: Rich colors and smooth motion**
@@ -134,8 +141,18 @@ Key features:
  There’s also some nifty usability features that come packed with the iPad Pro. True Tone is a feature that helps match the display to the color temperature of your surroundings, which makes the screen easier on your eyes. The 120Hz Pro Motion technology alters the refresh rate of the screen depending on your usage, which results in extremely fluid motion, from scrolling, to playing games, or watching video. It’s difficult to find a poor viewing angle, though you still can’t watch 4K video on YouTube, which is a crying shame given the power of the screen, but more of a problem between Apple and Google rather than a knock to the device itself.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Powerhouse processor**
 
  As touted by Apple during its launch presentation, the iPad Pro is said to be as powerful as an Xbox One S. This is true from a pure graphics perspective, but you have to consider that the iPad doesn’t have the same games or support, so while it is as powerful, it’s unlikely to replace your console anytime soon.
@@ -150,14 +167,8 @@ Key features:
 
 ![IPad Pro 11 inch](https://www.lifewire.com/thmb/KXfYew06x6vujxu5asiFMPptK_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_1-a6ce9e62649048d7a20596066576c2c5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Jordan Provost
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Productivity: Not a laptop replacement just yet**
 
  The 2018 iPad Pro is an absolute force of nature as far as productivity is concerned. With the brilliant viewing angles, and options to attach both a nimble Apple Pencil and a Smart Keyboard to the device with relative ease, this tablet will suit the needs of many modern creatives and workers looking for an all-in-one device.
@@ -170,17 +181,10 @@ Key features:
 
  Outside of that, you can’t connect some external drives, Thunderbolt devices or use a mouse. Split View is also certainly a compromise to professionals used to using more than three programs at once.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## **Audio: Thunderous sound**
 
  One of the major upgrades to the Pro is the stereo effect audio playback with four powerful speakers, two on either side of the device. The iPad Pro has truly stunning audio, and if you crank it up it could easily act as a party speaker. There is absolutely no need for anything external when watching video content. Amazingly, the fidelity of the audio never seems to suffer, even at full volume. Apple ditching the headphone jack poses an interesting problem in that you’re going to need a pair of Bluetooth headphones or buy an adapter to receive audio on the go.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Network: Reasonable connectivity**
 
  In terms of signal strength, we struggled to get the WiFi to break by walking outside and away from our router. In the garden and the garage ( a usual drop-out spot for other devices) it held true in very reasonable fashion.
@@ -190,6 +194,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![IPad- Pro 11 Inch](https://www.lifewire.com/thmb/D-1-WC_wIDqzRZLb8mDOgpjal6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4036560-2_3-e425a67865fc461fb805e648294dadf8.jpg)
 
  Lifewire / Jordan Provost
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Camera: A decent backup**
 
@@ -209,6 +220,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Lifewire / Jordan Provost
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: The best yet**
 
  This is interesting because iOS 12 is by far and away the best version of the operating system yet, but there are still some blatant compromises that eat away at the possibility of the iPad Pro being a laptop replacement. You can't just unzip files. And moving photos or documents between programs, even cloud-storage services like Google Drive and Dropbox, is a nightmare. In most cases, it’s actually doable if you find the right app, but it’s always far too much busy work when its a very simple five-second solution on any laptop. This wasted time adds up, and iOS 12 starts to get in the way of the iPad Pro’s potential.
@@ -217,15 +235,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  iOS 12 is by far and away the best version of the operating system yet, but there are still some blatant compromises that eat away at the possibility of the iPad Pro being a laptop replacement.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Well worth the money if you can justify it**
 
  As far as tablets go, one of the main reasons many people are put off by the iPad Pro is the existence of far cheaper options. Our review model (11-inch, 64GB) retails for $799, and you may well be inclined to upgrade both the size and the capacity to suit your needs. This doesn’t factor in some of the more essential accessories with jaw-dropping prices like the Apple Pencil, Smart Keyboard, and the Bluetooth headphones necessary to navigate the lack of a headphone jack. That can lead to a very expensive purchase, and with Apple products, it can be hard to tell whether they are worth it case by case.
 
  Luckily, the 11-inch iPad Pro is such a revolutionary upgrade on most tablets that you do truly get what you pay for here. The A12X Bionic puts it leagues ahead of the competition, making it the most powerful productivity machine for professional creatives on the market. There is nothing really competing at this price range beyond.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Hard to beat**
 
  Nothing can really compete as far as power is concerned when it comes to the iPad Pro, so you’re mostly looking at compromises with certain benefits. The Samsung Galaxy Tab S4 doesn’t suffer from the same locked off functionality of iOS 12 with its Android architecture and has a better AMOLED screen. It also comes packaged with a stylus, which mitigates some of the cost of the Apple Pencil if you find a stylus necessary. This device retails at $649.99, making it more affordable than the iPad. The Microsoft Surface Pro 6 is another option, and may be a better fit for replacing your laptop than the iPad, with its fully functional Windows 10 OS, but it’s still costly at $799\. You could always roll back to the early 2018 9.7-inch iPad if you want to save some money. This will set you back $329 and cover most of your bases, but you’ll miss out on updates like Face ID, the sleek new design, and accessories.
@@ -238,9 +260,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  With utterly seamless navigation and playback, fantastic speakers and world-class accessories and performance, this is a beautifully designed piece of hardware. Unfortunately, whilst the power is there, it is held back by its own operating system, forcing you into busywork or compromising missteps. It cannot replace your laptop just yet, but it may well make it redundant based on your use case.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Apple iPad 10.2-inch (7th Generation)](https://www.lifewire.com/apple-ipad-10-2-inch-7th-generation-review-4772313)
@@ -248,8 +267,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * [Apple iPad Mini (2019)](https://www.lifewire.com/apple-ipad-mini-2019-review-4688991)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  iPad Pro 11-Inch (2018)
@@ -263,14 +286,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * RAM  4 GB
 * Camera  12 MP
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -279,4 +299,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-3-tactics-to-grab-twitter-gifs-on-pc-for-2024/"><u>[New] 3 Tactics to Grab Twitter GIFs on PC for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ffordable-gear-for-aspiring-content-creators-for-2024/"><u>[New] Affordable Gear for Aspiring Content Creators for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-how-to-create-time-travel-teleportation-effects/"><u>[Updated] In 2024, How to Create Time Travel Teleportation Effects?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-master-the-art-of-organizing-group-conversations-on-skype-irrespective-of-your-systems-os/"><u>[Updated] Master the Art of Organizing Group Conversations on Skype, Irrespective of Your System's OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ace-your-gaming-session-secure-acer-predator-xb271h-ultimate-drivers-without-delay/"><u>Ace Your Gaming Session: Secure Acer Predator XB271H Ultimate Drivers Without Delay!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ancs-refurbished-marshall-immaculate-appearance-rich-soundtrack/"><u>ANC's Refurbished Marshall: Immaculate Appearance, Rich Soundtrack</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-and-efficient-ourlink-u631-wireless-network-adapter-with-superior-speed/"><u>Compact and Efficient Ourlink U631 Wireless Network Adapter with Superior Speed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-reviews-on-visionx-pro-prescription-strength-anti-blue-light-eyewear/"><u>Expert Reviews on VisionX Pro: Prescription-Strength Anti-Blue Light Eyewear</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-value-of-samsungs-galaxy-a51-5g-the-perfect-combination-of-price-and-power/"><u>Exploring the Value of Samsung's Galaxy A51 5G - The Perfect Combination of Price and Power</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hitman-3-analysis-the-ultimate-conclusion-of-the-trilogy/"><u>Hitman 3 Analysis: The Ultimate Conclusion of the Trilogy</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to others devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-breakthrough-techniques-for-outstanding-youtube-openers-technique-1plus2/"><u>In 2024, Breakthrough Techniques for Outstanding YouTube Openers (Technique 1+2)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mastering-metaverse-designs-your-quick-start-for-avatars/"><u>In 2024, Mastering Metaverse Designs Your Quick-Start for Avatars</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ken-burns-effect-made-easy-follow-these-simple-steps/"><u>Ken Burns Effect Made Easy Follow These Simple Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-review-on-bouncies-driving-connection-your-answer-to-inexpensive-straightforward-gps-tracking/"><u>The Complete Review on Bouncie’s Driving Connection: Your Answer to Inexpensive, Straightforward GPS Tracking</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-role-of-visual-aids-in-pedagogy-for-2024/"><u>The Role of Visual Aids in Pedagogy for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-streaming-contenders-face-off-roku-vs-amazon-fire-tv-stick/"><u>Top Streaming Contenders Face-Off: Roku vs Amazon Fire TV Stick</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tt560s-swift-flash-performance-uncomplicated-design/"><u>TT560's Swift Flash Performance, Uncomplicated Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-philips-hf3520-an-affordable-solution-for-punctuality-and-productivity/"><u>Unveiling the Philips HF3520 - An Affordable Solution for Punctuality and Productivity</u></a></li>
+</ul></div>
 

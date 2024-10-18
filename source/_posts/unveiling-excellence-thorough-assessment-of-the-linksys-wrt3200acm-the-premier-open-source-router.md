@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Excellence: Thorough Assessment of the Linksys WRT3200ACM, The Premier Open Source Router"
-date: 2024-08-22T13:00:58.957Z
-updated: 2024-08-23T13:00:58.957Z
+date: 2024-10-15T16:53:08.264Z
+updated: 2024-10-18T18:17:12.725Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling Excellence: Thorough Assessment of the Linksys WRT3200ACM, The Premier Open Source Router"
@@ -40,9 +40,23 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -64,8 +78,12 @@ Lifewire / Erika Rawes
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -101,21 +119,18 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Range: Even better than advertised**
 
  TP-Link advertises the C80 as a router for three-bedroom homes. However, that estimate understates the router’s range capabilities. My home is a two-story, 3,000 square-foot residence with five-bedrooms, and I was able to maintain a stable Wi-Fi connection in every corner. Every closet, bathroom, and bedroom got a steady signal, and I experienced no dead zones whatsoever. Even in the garage, front yard, and backyard, the signal remained strong. It was only when I attempted to use multiple gaming and streaming devices at one time that I experienced any sort of lag.
 
  Every closet, bathroom, and bedroom maintained a signal, and I experienced no dead zones whatsoever.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: TP-Link Tether app**
 
  The C80 is a cinch to set up in less than five minutes, with guest networks created and all. The TP-Link Tether app is one of my favorite router companion apps. The interface is super clean, and you can see exactly what devices are on each of your network bands. You can even have the app alert you when a new device signs into your network.
@@ -126,15 +141,8 @@ No advertising on the website.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
@@ -150,8 +158,12 @@ The ultimate burning program for all your needs!</a>
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
@@ -178,8 +190,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +197,18 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-10-exclusive-iphone-photo-editors-enhance-selfies-without-spending/"><u>[New] 2024 Approved Top 10 Exclusive iPhone Photo Editors Enhance Selfies Without Spending</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-videos-your-comprehensive-tutorial/"><u>[New] Mastering YouTube Videos Your Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-your-life-your-legacy-youtube-videos-that-matter/"><u>[Updated] 2024 Approved Your Life, Your Legacy YouTube Videos That Matter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assassins-creed-valhalla-evaluation-unveiling-a-thrilling-viking-journey-through-the-medieval-era/"><u>Assassin's Creed: Valhalla Evaluation – Unveiling a Thrilling Viking Journey Through the Medieval Era</u></a></li>
+<li><a href="https://fox-access.techidaily.com/bridging-the-gap-in-vr-storytelling-and-innovation-for-2024/"><u>Bridging the Gap in VR Storytelling and Innovation for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dive-into-performance-in-depth-review-of-apples-latest-multimedia-marvel-the-ipad-air-201/"><u>Dive Into Performance: In-Depth Review of Apple's Latest Multimedia Marvel, the iPad Air (201</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-a-perfect-harmony-of-style-and-functionality-in-the-skagen-falster-3-an-in-depth-review/"><u>Experience a Perfect Harmony of Style and Functionality in the Skagen Falster 3 - An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-compact-design-and-functionality-issues-of-criacns-bt-fm-transmitter-model-cp24/"><u>Expert Review: The Compact Design and Functionality Issues of Criacn's BT FM Transmitter Model CP24</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-frenzy-top-downloader-tools-that-bring-videos-to-life-on-idevices/"><u>Facebook Frenzy Top Downloader Tools that Bring Videos to Life on iDevices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-deskjet-3050a-driver-for-free-on-windows-download-now/"><u>Get the Latest HP Deskjet 3050A Driver for Free on Windows - Download Now!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ring-video-doorbell-2-review/"><u>Ring Video Doorbell 2 Review</u></a></li>
+</ul></div>
 

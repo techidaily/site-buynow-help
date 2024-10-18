@@ -1,7 +1,7 @@
 ---
 title: Weekly Insights on Upcoming Devices From Google & Samsung
-date: 2024-10-10T19:15:57.377Z
-updated: 2024-10-12T17:03:09.202Z
+date: 2024-10-17T17:45:20.616Z
+updated: 2024-10-18T16:55:24.884Z
 tags:
   - games
   - tv
@@ -21,15 +21,22 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
@@ -38,25 +45,11 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Valve
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
@@ -66,21 +59,22 @@ Valve
 
  Finally, a Start menu change that makes sense.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
@@ -95,16 +89,16 @@ Motorola
 
  Google's next hardware event is nearing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -127,22 +121,17 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/kyrocket-to-partner-status-crush-that-critical-10000-view-benchmark-for-2024/"><u>[New] Skyrocket to Partner Status Crush that Critical 10,000-View Benchmark for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-step-by-step-approach-to-webinar-savings-mac-and-pc-systems/"><u>[Updated] 2024 Approved Step-by-Step Approach to Webinar Savings Mac & PC Systems</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-lava-storm-5g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Lava Storm 5G.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/creative-labs-sound-blaster-zxr-is-this-the-pinnacle-of-flagship-gaming-audio-in-2er/"><u>Creative Labs' Sound Blaster ZXR - Is This the Pinnacle of Flagship Gaming Audio in 2Er?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/deciding-on-digital-postage-an-in-depth-comparison-of-outlook-vs-gmail/"><u>Deciding on Digital Postage: An In-Depth Comparison of Outlook Vs. Gmail</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-finest-digital-classrooms-a-ranking-of-educational-websites/"><u>Discover the Finest Digital Classrooms: A Ranking of Educational Websites</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-this-years-finest-earphones/"><u>Discovering This Year's Finest Earphones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enjoy-prime-content-on-the-go-with-toshibas-55lf711u20-fire-tv-reviewed/"><u>Enjoy Prime Content on the Go with Toshiba's 55LF711U20 Fire TV Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-criteria-picking-the-perfect-wearable-health-device-for-your-needs/"><u>Essential Criteria: Picking the Perfect Wearable Health Device for Your Needs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-effectiveness-of-mapmyrides-features-and-functionality/"><u>Evaluating the Effectiveness of MapMyRide's Features and Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expanding-existence-ideas-for-transforming-your-island-home/"><u>Expanding Existence: Ideas for Transforming Your Island Home</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-lenovo-x230-drivers-instantly-free-download-ready/"><u>Get the Latest Lenovo X230 Drivers Instantly: Free Download Ready</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-easily-unlock-lenovo-screen-by-drfone-android/"><u>How To Easily Unlock Lenovo Screen?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/launching-your-first-product-critique-network-a-step-by-step-guide/"><u>Launching Your First Product Critique Network A Step-by-Step Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-rated-mp4-editor-for-windows-8-professional-results-made-easy/"><u>New 2024 Approved Top-Rated MP4 Editor for Windows 8 Professional Results Made Easy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/4-rationales-proving-that-walmartplus-is-worth-your-investment/"><u>4 Rationales Proving that Walmart+ Is Worth Your Investment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-look-at-the-latest-microsoft-surface-pro-7-steady-progress-without-major-overhauls/"><u>A Look at the Latest Microsoft Surface Pro 7 - Steady Progress Without Major Overhauls</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazon-luna-gaming-experience-an-unexpectedly-seamless-cloud-play/"><u>Amazon Luna Gaming Experience: An Unexpectedly Seamless Cloud Play</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-ax6000-rt-ax88u-in-depth-analysis-of-a-leading-wi-fi-6-router-with-advanced-capabilities/"><u>Asus AX6000 RT-AX88U: In-Depth Analysis of a Leading Wi-Fi 6 Router with Advanced Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722993812984-elevate-your-mac-experience-with-the-chic-and-functional-blue-freestyle2-case-reviewed-here/"><u>Elevate Your Mac Experience with the Chic and Functional Blue Freestyle2 Case Reviewed Here!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-the-asus-chromebook-c202sa-stands-up-to-rough-use-by-students-and-kids/"><u>How the Asus Chromebook C202SA Stands Up to Rough Use by Students and Kids</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-hot-40-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Hot 40</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-design-and-share-engaging-flipbook-content-on-mac-discover-flipbuilder-solutions/"><u>How to Design and Share Engaging Flipbook Content on Mac - Discover FlipBuilder Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-a15-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy A15 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshoot-your-samsung-devices-cloning-error-with-these-7-effective-solutions/"><u>Troubleshoot Your Samsung Device's Cloning Error with These 7 Effective Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweet-town-ranking-the-trending-threads-for-2024/"><u>Tweet Town Ranking the Trending Threads for 2024</u></a></li>
 </ul></div>
 

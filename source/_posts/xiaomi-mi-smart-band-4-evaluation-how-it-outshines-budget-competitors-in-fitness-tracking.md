@@ -1,7 +1,7 @@
 ---
 title: "Xiaomi Mi Smart Band 4 Evaluation: How It Outshines Budget Competitors in Fitness Tracking"
-date: 2024-08-22T13:02:34.669Z
-updated: 2024-08-23T13:02:34.669Z
+date: 2024-10-16T17:18:55.636Z
+updated: 2024-10-18T16:15:39.773Z
 categories:
   - BestProducts
 description: "This Article Describes Xiaomi Mi Smart Band 4 Evaluation: How It Outshines Budget Competitors in Fitness Tracking"
@@ -43,6 +43,13 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/3Kfyp4XgBEtCuXPHAVw99RFqQs8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Famazon-halo-activity-and-sleep-tracker-medium-7-onyx%2F6445215.p)
@@ -82,8 +89,12 @@ Lifewire / Yoona Wagener
 Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Comfort: Streamlined but not immune to typical fit issues
 
  While the easy-adjusting Velcro strap is a welcome departure from the typical notch-and-clasp closure on most fitness trackers, adjusting the fit or removing the device wasn’t as smooth as I’d expected it to be. The end of the strap is finished with hardware that prevents the strap from coming completely undone from the loop. The band also includes a series of five strong Velcro strips/notches that serve as sizing adjusters. This construction helps prevent accidental drops when taking the band on/off, which is never a bad thing. On the other hand, though, the Velcro strips are so sturdy that they restricted quick adjustments and made removing the band less swift overall.
@@ -95,8 +106,12 @@ Lifewire / Yoona Wagener
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Performance: Constantly monitoring movement, not performance
 
  While this streamlined device doesn’t log detailed workout metrics, the Halo has the upper hand when it comes to continuously monitoring movement—and sedentary stints throughout the day. Whether you’re sitting at a desk or venture out for an errand, the Halo will capture that and pretty accurately categorize it. It consistently registered walking and running activities, though the readout wasn’t very accurate for the latter. Truthfully, I don’t get the impression that that’s the point of the Halo.
@@ -116,8 +131,12 @@ Lifewire / Yoona Wagener
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Software: An essential and user-friendly mobile app
 
  Without a visual display to interact with, the accompanying Halo mobile app is absolutely essential to the user experience. It delivers helpful explanations and guidance that most users want. Compatible with[iOS](https://www.lifewire.com/what-is-ios-1994355) and[Android](https://www.lifewire.com/what-is-google-android-1616887) phones, the Halo app makes everything from the initial setup to body scanning and voice tracking straightforward. Sleep data is backed up by explanations as is the activity point tracking system. Automatically tracked workout data is also easily accessible and so is the option to manually upload workout activities (there are 38 to choose from, including an all-encompassing Other category).
@@ -138,17 +157,10 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Amazon Halo vs. WHOOP Strap 3
 
  The WHOOP Strap 3 is another screen-less fitness tracker with a minimalist bent but a bigger buy-in and emphasis on performance. Unlike the Halo, the WHOOP Strap requires a WHOOP membership, which, at the lowest end, costs $30 monthly for a 6-month membership or $180 total (band included). The Halo band comes with a free six-month subscription to Halo app services, then a $3.99 monthly charge, so it’s considerably cheaper—especially since WHOOP recommends replacing their fabric strap every six months as well.
@@ -162,8 +174,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
@@ -192,8 +208,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +215,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-how-to-decide-on-video-frames-per-second-comparing-30-vs-60/"><u>[New] 2024 Approved How to Decide on Video Frames Per Second? Comparing 30 Vs. 60</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xploring-youtubes-operations-after-video-upload/"><u>[New] Exploring YouTube's Operations After Video Upload</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-full-spectrum-analysis-the-logitech-4k-pro-webcam/"><u>[New] Full Spectrum Analysis The Logitech 4K Pro Webcam</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-from-the-shooting-range-to-streaming-real-time-dslr-and-pcmac-connection/"><u>2024 Approved From the Shooting Range to Streaming Real-Time DSLR & PC/Mac Connection</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-a14-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/barnes-and-noble-nook-glowlight-3-review-a-great-nighttime-e-reader/"><u>Barnes & Noble Nook GlowLight 3 Review: A Great Nighttime E-Reader</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/easy-steam-capture-for-cyberpunk-2077-adventures-for-2024/"><u>Easy Steam Capture for Cyberpunk 2077 Adventures for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-premiere-network-servers-rack-solutions-in-2cy24/"><u>Expert Picks: Premiere Network Servers Rack Solutions in 2CY24</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/full-reveal-how-orbis-tri-band-wi-fi-6-delivers-high-speed-internet-connectivity-across-your-household/"><u>Full Reveal: How Orbi's Tri-Band Wi-Fi 6 Delivers High-Speed Internet Connectivity Across Your Household</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-flutter-free-video-conversion-the-best-alternatives-for-youtube-upload/"><u>In 2024, Flutter Free Video Conversion The Best Alternatives for YouTube Upload</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-new-generation-google-nest-hub-a-missing-camera/"><u>In-Depth Look at the New Generation Google Nest Hub - A Missing Camera?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/powerful-performance-assessment-alienware-aurora-r7-is-it-worth-the-cost/"><u>Powerful Performance Assessment: Alienware Aurora R7 - Is It Worth the Cost?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spark-interest-fast-unique-bios-and-hashtags-for-tinder-success/"><u>Spark Interest Fast Unique Bios and Hashtags for Tinder Success</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tested-and-rated-the-sturdy-omoton-t1-tablet-stand-best-value-for-money/"><u>Tested & Rated! The Sturdy Omoton T1 Tablet Stand: Best Value for Money</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-battle-of-smart-speakers-google-nest-audio-versus-nest-mini/"><u>The Battle of Smart Speakers: Google Nest Audio Versus Nest Mini</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-picks-comprehensive-analysis-of-the-nest-audio-the-ultimate-sound-experience-for-enthusiasts/"><u>Top Picks: Comprehensive Analysis of the Nest Audio - The Ultimate Sound Experience for Enthusiasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ultimate-trailer-treasure-chest-for-2024/"><u>Ultimate Trailer Treasure Chest for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-xbox-one-x-evaluation-dominating-todays-gaming-landscape/"><u>Ultimate Xbox One X Evaluation: Dominating Today's Gaming Landscape</u></a></li>
+</ul></div>
 

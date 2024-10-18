@@ -1,7 +1,7 @@
 ---
 title: Buying Xbox N Game Downloads Despite the Shutdown of Microsoft's Xbox 360 Storefront
-date: 2024-10-08T16:48:14.915Z
-updated: 2024-10-12T19:17:54.716Z
+date: 2024-10-17T17:25:48.150Z
+updated: 2024-10-18T17:09:43.173Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  With the Xbox 360 digital storefront's [recent closure](https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-enlightenment-joshi-and-youtube-success-stories/), you might be wondering if it's still possible to buy digital games for your console. Although some titles were permanently delisted after the store shut down, much of the 360's digital library is still available to purchase and download.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Where to Find Xbox 360 Digital Games
@@ -43,10 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A dropdown menu on Xbox.com with "Backward Compatible" circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox-website-dropdown.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will lead to a page that contains backward compatible titles for all Xbox consoles, including Xbox One games that run on the Series X|S. You can narrow the results to just Xbox 360 games by scrolling down to the "Collections" list and clicking on "Xbox 360 games."
@@ -54,10 +54,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A screenshot of Xbox.com with a filter for "Xbox 360" circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox-website-360-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you find a game you want, purchase it with the same account you use on your Xbox 360\. This will attach the digital game to your account, allowing you to play it on the Xbox 360, Xbox One, or Xbox Series X|S.
@@ -70,6 +70,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The settings page of the Xbox 360 dashboard with "Account" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-settings.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will open the Account Management menu. From here, scroll down and select "Download History" under the "Your Billing Options" menu.
 
 ![The Xbox 360 Account Management screen with "Download History" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-account.JPG) 
@@ -77,13 +84,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Your download history will provide a complete list of every game or demo you have purchased that works on an Xbox 360\. At the top of this list will be your most recent purchases, which is where you'll find the digital games you have bought from the other Xbox storefronts. Select the title you wish to download onto the console, then select "Download Again." This will begin the download process.
 
 ![The download screen for BattleBlock Theater on the Xbox 360, with "Download Again" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-digital-download.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once your game is finished downloading, you can finally play it on your Xbox 360.
 
@@ -114,21 +114,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-extreme-capture-duo-gopro-hero5-black-versus-hero4-silver-edition-for-2024/"><u>[New] Extreme Capture Duo GoPro Hero5 Black Versus Hero4 Silver Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-top-quality-free-fb-image-and-video-designer/"><u>[Updated] In 2024, Top Quality FREE FB Image & Video Designer</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mobile-mastery-identifying-the-best-apps-for-youtube-shorts/"><u>[Updated] Mobile Mastery Identifying the Best Apps for Youtube Shorts</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726028545015-pc/"><u>「PCで映像録画手順ガイド」</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-capture-the-moment-in-squares-mastering-imovie-for-instagram-video/"><u>2024 Approved Capture the Moment in Squares Mastering iMovie for Instagram Video</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/achieve-rejuvenating-mornings-using-the-ihome-zenergy-a-breakthrough-in-bedside-sleep-technology-reviewed/"><u>Achieve Rejuvenating Mornings Using the iHome Zenergy – A Breakthrough in Bedside Sleep Technology Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordability-meets-quality-in-our-tp-link-archer-a6-ac1200-router-thorough-examination/"><u>Affordability Meets Quality in Our TP-Link Archer A6 AC1200 Router Thorough Examination</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/all-ages-guide-to-mastering-off-road-fun-with-the-maisto-remote-control-rock-climber-detailed-overview-and-insights/"><u>All-Ages Guide to Mastering Off-Road Fun with the Maisto Remote Control Rock Climber - Detailed Overview and Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessing-the-performance-why-you-might-still-want-a-samsung-galaxy-tab-s3/"><u>Assessing the Performance: Why You Might Still Want a Samsung Galaxy Tab S3</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bisphosphonates-target-the-mevalonate-pathway-to-inhibit-osteoclast-function-while-denosumab-blocks-rankl-directly/"><u>Bisphosphonates Target the Mevalonate Pathway to Inhibit Osteoclast Function, While Denosumab Blocks RANKL Directly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722958868071-boost-your-gaming-sessions-with-the-havit-five-fan-cooling-pad-in-depth-insights-and-benefits/"><u>Boost Your Gaming Sessions with the HAVIT Five-Fan Cooling Pad - In-Depth Insights and Benefits!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-linksys-wrt1900acs-an-open-source-router-analysis/"><u>Comprehensive Evaluation of the Linksys WRT1900ACS - An Open Source Router Analysis</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-beyond-the-headsets-the-essence-of-virtual-reality/"><u>In 2024, Beyond the Headsets The Essence of Virtual Reality</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-drone-evolution-a-deep-look-at-djis-mavic-pro/"><u>In 2024, The Drone Evolution A Deep Look at DJI's Mavic Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-techniques-for-computer-based-photo-filtering/"><u>Step-By-Step Techniques for Computer-Based Photo Filtering</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/the-pathway-to-retrieval-exploring-methods-for-recovering-erased-data-in-notion/"><u>The Pathway to Retrieval: Exploring Methods for Recovering Erased Data in Notion.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-social-media-live-platforms-facebook-vs-youtube-live-and-twitter-periscope/"><u>[New] 2024 Approved Social Media Live Platforms FACEbook Vs. YOUTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-game-ahead-the-ultimate-list-of-premier-gba-emulator-programs-for-2024/"><u>[New] Game Ahead The Ultimate List of Premier GBA Emulator Programs for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unveiling-enhancements-in-sonys-s6500-bdhd-player-for-2024/"><u>[New] Unveiling Enhancements in Sony's S6500 BD/HD Player for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-cameras-for-frame-by-frame-puppetry-for-2024/"><u>[Updated] Best Cameras for Frame-by-Frame Puppetry for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-extras-for-improving-gopro-experience/"><u>[Updated] Ideal Extras for Improving GoPro Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/5g-wireless-powerhouse-reviewed-how-the-asus-rt-ac68u-delivers-unmatched-speed-and-safety/"><u>5G Wireless Powerhouse Reviewed: How the Asus RT-AC68U Delivers Unmatched Speed & Safety</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparative-analysis-of-tp-link-archer-ax6000-and-nighthawk-ax12-which-delivers-superior-performance/"><u>Comparative Analysis of TP-Link Archer AX6000 and Nighthawk AX12 - Which Delivers Superior Performance?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/download-your-favorite-bbc-iplayer-shows-as-mp4-or-avi-files-with-our-top-downloading-tool/"><u>Download Your Favorite BBC iPlayer Shows as MP4 or AVI Files with Our Top Downloading Tool</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-democracy-dive-top-5-political-gamified-experiences/"><u>In 2024, Democracy Dive Top 5 Political Gamified Experiences</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-realme-gt-5-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Realme GT 5 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unihertz-atom-xl-assessment-compact-durability-meets-mighty-performance/"><u>Unihertz Atom XL Assessment: Compact Durability Meets Mighty Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-insights-into-google-wireless-nest-doorbells-with-built-in-batteries/"><u>Unveiling Insights Into Google Wireless Nest Doorbells with Built-In Batteries</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-gen-2-of-googles-nest-hub-an-in-depth-analysis-and-the-case-for-adding-a-camera/"><u>Unveiling the Gen 2 of Google's Nest Hub: An In-Depth Analysis and the Case for Adding a Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-j5s-tactical-v1-pro-a-compact-beacon-for-nighttime-precision-and-resilience/"><u>Unveiling the Power of J5's Tactical V1 Pro: A Compact Beacon for Nighttime Precision & Resilience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrade-your-ipad-use-with-the-finest-selection-of-mouses-on-the-market/"><u>Upgrade Your iPad Use With The Finest Selection of Mouses on The Market</u></a></li>
 </ul></div>
 

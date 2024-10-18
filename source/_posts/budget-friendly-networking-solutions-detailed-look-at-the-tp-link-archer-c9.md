@@ -1,7 +1,7 @@
 ---
 title: Budget-Friendly Networking Solutions - Detailed Look at the TP-Link Archer C9
-date: 2024-08-22T13:00:37.060Z
-updated: 2024-08-23T13:00:37.060Z
+date: 2024-10-15T18:16:15.531Z
+updated: 2024-10-18T18:09:19.507Z
 categories:
   - BestProducts
 description: This Article Describes Budget-Friendly Networking Solutions - Detailed Look at the TP-Link Archer C9
@@ -42,6 +42,13 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/5L4k_oD-GKPyliYY-jL-tLQH-Uk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_HeroSquare-68c63e89f59a47a2944b2a73434417e9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
 [View On Amazon](https://www.amazon.com/dp/B00PDLRHFW/?tag=lifewire-onsite-prod-20&ascsubtag=5025101%7Cnb196585ced2341b2b2b5f702b47e2cf321%7CB00PDLRHFW) [View On Walmart](https://www.walmart.com/ip/TP-LINK-Archer-C9-AC1900-Wireless-Dual-Band-Gigabit-Router/42121251) [View On B&H Photo Video](https://www.bhphotovideo.com/c/replacement%5Ffor/1117107-REG/tp%5Flink%5Farcher%5Fc9%5Fac1900%5Fdual%5Fband%5Fwireless.html)
@@ -64,6 +71,13 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C9 AC1900 is a budget-friendly router, so it doesn’t include too many of the features you see in newer, more expensive models. It doesn’t include[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) control or MU-MIMO technology, but it’s supposed to provide a long signal range for larger homes, as well as support fast enough speeds for online gaming and 4K media. I tested the TP-Link AC1900 alongside several other[long range routers](https://www.lifewire.com/best-long-range-routers-4122554) to see how well it performs in the real world.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Fingerprints galore**
 
  The Archer AC1900 definitely isn’t the most attractive router I’ve seen. The version I tested is black, but TP-Link also makes the C9 in white. The gloss finish gives the AC1900 a cheap look, and it, unfortunately, shows each and every smudge and fingerprint when you touch the surface. The indicator lights sit on the front face, and you can easily see the network status with a quick glance.
@@ -80,6 +94,13 @@ Lifewire / Erika Rawes
 
  Setup is simple, and you can use the Tether app or the TP-Link site. There’s a QR code in the quick setup leaflet, so you can easily find the app. As it goes with most routers, you’ll find a temporary network name, password, and login info on the label. The app walks you through the setup process step-by-step, guiding you through creating your 2.4 and 5 GHz networks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Connectivity: Decent speeds, long range**
 
  The Archer C9 AC1900 is an 801.11ac router. It can reach up to 1300 Mbps on the 5 GHz band and up to 600 Mbps on the 2.4 GHz band for a total of 1900 Mbps. The C9 has[beamforming](https://www.lifewire.com/what-is-wi-fi-beamforming-4171262) , which promotes a more concentrated signal and a longer range. It has four separate gigabit LAN ports for hardwiring devices.
@@ -90,18 +111,8 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/gPQRxhQBJ13ETuiP-7-Vy9eGcss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_05-4ddd14a5299f45279789011ce3b9e8ea.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## **Key features: Guest network and parental controls**
 
  The C9 has two USB ports (one USB 2.0 and one USB 3.0), so you can share printers or storage over the network.
@@ -112,9 +123,6 @@ No advertising on the website.
 
  The router performed extremely well at close proximity, but not so well at a distance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Software: TP-Link Tether app**
 
  You can control the router’s functions from the companion app, Tether. In the app, you can do things like set parental time limits on devices, create a guest network, block devices from the network, and perform basic network maintenance.
@@ -126,20 +134,25 @@ No advertising on the website.
 ![The TP-Link Archer C9 AC1900 is a budget-friendly router, so it doesn’t include too many of the features you see in newer, more expensive models. It doesn’t include Alexa control or MU-MIMO technology, but it’s supposed to provide a long signal range for larger homes, as well as support fast enough speeds for online gaming and 4K media. I tested the TP-Link AC1900 alongside several other long range routers to see how well it performs in the real world. Design: Fingerprints galore The Archer AC1900 definitely isn’t the most attractive router I’ve seen. The version I tested is black, but TP-Link also makes the C9 in white. The gloss finish gives the AC1900 a cheap look, and it unfortunately shows each and every smudge and fingerprint when you touch the surface. The indicator lights sit on the front face, and you can easily see the network status with a quick glance. The C9 has a slate grey plastic border, which goes around the top perimeter, angles outward, and serves as a stand for the router. The stand allows you to position the AC1900 horizontally or vertically. However, you’ll have to move your cabling under the stand to place the router in a horizontal position, so you can’t easily move it between the two orientations without disconnecting your cables. The Archer C9 has three removable antennas you can swivel and adjust. Although they’re a necessary evil, the antennas are extremely long (almost six inches), so the router looks oddly tall when in the vertical position with the antennas extended. Most of the ports are positioned on the rear, with the exception of the second USB port that sits along the side next to the Wi-Fi button. Setup: Takes less than 10 minutes Setup is simple, and you can use the Tether app or the TP-Link site. There’s a QR code in the quick setup leaflet, so you can easily find the app. As it goes with most routers, you’ll find a temporary network name, password, and login info on the label. The app walks you through the setup process step-by-step, guiding you through creating your 2.4 and 5 GHz networks. Connectivity: Decent speeds, long range The Archer C9 AC1900 is an 801.11ac router. It can reach up to 1300 Mbps on the 5 GHz band and up to 600 Mbps on the 2.4 GHz band for a total of 1900 Mbps. The C9 has beamforming, which promotes a more concentrated signal and a longer range. It has four separate gigabit LAN ports for hardwiring devices. In my test home, my ISP speeds are 500 Mbps. On the 5 GHz band, my laptop’s Wi-Fi speed clocked in at 290 Mbps when sitting in the same room as the router. In the back corner of my office, which is often a dead zone, my laptop clocked 66 Mbps on the 2.4 GHz band. As I traveled far away from the router, I was able to maintain a signal, but the speed slowed down quite a bit. In the backyard, another area where I often experience drop offs, the speed came in at 39 Mbps. I repeated the Ookla speed test numerous times, and the results remained around the same in each room. I was able to get slightly higher speeds on an iPhone 11, but overall the router performed extremely well at close proximity, but not so well at a distance. Key features: Guest network and parental controls The C9 has two USB ports (one USB 2.0 and one USB 3.0), so you can share printers or storage over the network. Although this is somewhat of a basic router, it has some modern perks. It supports the most recent Internet Protocol version, IPv6. You can also create a guest network, so you don’t have to share your main network credentials with visitors. The C9 does feature parental controls, but they aren’t exactly comprehensive. Software: TP-Link Tether app You can control the router’s functions from the companion app, Tether. In the app, you can do things like set parental time limits on devices, create a guest network, block devices from the network, and perform basic network maintenance. I also recently tested the TP-Link Archer AX6000, which uses the Tether app as well. The app interface changes based on which router you’re using. With the Archer AX6000, I had more options visible because it’s a more feature-rich unit. I was impressed with the app’s ability to remove those features from the interface with the C9, instead of leaving them in place for me to click on and get that “not available with this model” message. The TP-Link site gives you access to more advanced features, like USB settings for file and printer sharing, more advanced parental controls (blocking sites), access control, DHCP settings, and forwarding and security features. Price: A budget router The Archer C9 AC1900 is an older model, so it’s not as readily available as it was a couple of years back. You can typically find it for around $120, which is a good price for a long range router with its feature set. TP-Link Archer C9 AC1900 vs. ASUS RT-AC1900 The ASUS RT-AC1900 typically sells for closer to $150, but you can find it refurbished or on sale for around the same price as the Archer AC1900. The two routers look similar at first glance—they both have three very long antennas protruding from the top. They have similar specifications, including a dual-core processor, AC1900 speed, and dual-bands, and a long range. But, the ASUS RT-AC1900 offers a few perks, like TrendMicro security and NVIDIA GameStream technology.](https://www.lifewire.com/thmb/m3x5QNiGd-1noZGGAsTWcydG09U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_03-3c172ddeb5b34d9a98b7ac1e91b9c73f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: A budget router**
 
  The Archer C9 AC1900 is an older model, so it’s not as readily available as it was a couple of years back. You can typically find it for around $120, which is a good price for a long-range router with its feature set.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **TP-Link Archer C9 AC1900 vs. ASUS RT-AC1900**
 
  The ASUS RT-AC1900 typically sells for closer to $150, but you can find it refurbished or on sale for around the same price as the Archer AC1900\. The two routers look similar at first glance—they both have three very long antennas protruding from the top. They have similar specifications, including a dual-core processor, AC1900 speed, and dual-bands, and a long-range. But, the ASUS RT-AC1900 offers a few perks, like TrendMicro security and NVIDIA GameStream technology.
@@ -171,14 +184,11 @@ No advertising on the website.
 * Processing  1 GHz dual-cire CPU
 * Range  3,000 sq ft
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,4 +197,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>[New] 2024 Approved Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-30-marketing-moments-that-can-transform-your-fb-game/"><u>[Updated] In 2024, The 30 Marketing Moments That Can Transform Your FB Game</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-experience-with-google-phone-assistant-calls/"><u>Comprehensive Review: Experience with Google Phone Assistant Calls</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-epic-world-of-yakuza-like-a-dragon-must-have-jrpg-reviewed/"><u>Explore the Epic World of 'Yakuza: Like A Dragon': Must-Have JRPG Reviewed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-understanding-ios-video-recording/"><u>In 2024, Understanding iOS Video Recording</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-into-a-world-of-adventure-expert-insights-on-the-captivating-campfire-tales-themes-for-minecraft/"><u>Step Into a World of Adventure: Expert Insights on the Captivating Campfire Tales Themes for Minecraft</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tailored-gaming-experience-without-cross-play-in-apex-for-2024/"><u>Tailored Gaming Experience without Cross-Play in Apex for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-c51-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco C51</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-6-locations-where-you-can-purchase-high-quality-computers/"><u>Top 6 Locations Where You Can Purchase High-Quality Computers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-notch-wireless-audio-techs-for-tvs-and-more/"><u>Top-Notch, Wireless Audio Techs for TVs and More</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-3dr-a-personal-perspective-on-printing-alone/"><u>Unveiling '3DR' A Personal Perspective on Printing Alone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-performance-and-features-detailed-review-of-tp-links-re5-wifi-repeater/"><u>Unveiling Performance & Features: Detailed Review of TP-Link's RE5# WiFi Repeater</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Capable Stanley 5C Series Jaw Crusher - The J5C09 Model
-date: 2024-08-22T13:01:09.145Z
-updated: 2024-08-23T13:01:09.145Z
+date: 2024-10-13T16:25:41.317Z
+updated: 2024-10-18T18:31:06.464Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of the Capable Stanley 5C Series Jaw Crusher - The J5C09 Model
@@ -62,15 +62,19 @@ Lifewire / Kelsey Simon
 
  The Elder Scrolls V: Skyrim is an action role-playing game focused on single-player immersion in a fantasy world. It was originally released in 2011 and has most recently been ported over to the Switch. We took a close look at this game on its newest platform, playing it on the go to test the handheld gameplay experience, along with the plot and graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Simple for all users**
 
  As with other games on the Nintendo Switch, you’ll need to insert the cartridge into your device. Skyrim does take a while to launch, so be patient as it loads up. There shouldn’t be any special downloads required, like with other games, and as soon as things load you’ll be able to play.
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/uXDVHaBrdIlv5tI-qRgiPK0Iig4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460721-e6a53664e7eb4e65a75bf5cceb928e28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
 ## **Plot: A huge world with loads to explore**
@@ -91,11 +95,22 @@ Lifewire / Kelsey Simon
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/1fxH7ty_kqxpugJDk2tIQndKvI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546078-6bdc67e56311473f9c1edeab00d2caa5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Gameplay: Not as smooth as on other platforms**
 
  The first real interactive thing you do with the game is to create your character, and true to other Elder Scrolls games, you can change your character’s appearance in the most minute way. Pick your race, gender, hairstyle, eye color, and even tweak the height of your cheekbones and brows if you want. This is the first sign of just how encompassing and involved the role-playing aspects of Skyrim are.
@@ -116,6 +131,13 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Graphics: A bit outdated**
 
  The graphics in Skyrim aren’t awful, but they haven't progressed much since 2011\. If you’ve played any other version of Skyrim, you can overlook it, simply because you know what you’re getting into. Bethesda attempted to make Skyrim look realistic, likely in their desire to give you a fully immersive experience. But these days, Skyrim’s graphics just aren’t as realistic as what other, more recent games have accomplished. In places, the mountains look blocky and the grass a little patchy. Character’s faces sometimes seem deeply sunken around the eyes, with the skin looking more like leather than flesh. It’s not that the graphics are overly bad, they’re just not as good as what you can get with better hardware on the PC.
@@ -133,13 +155,14 @@ Lifewire / Kelsey Simon
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/Iik6f_7RIRMWo5R6zGYxgGeL4n0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546076-8fb741faa7144fa6bafe386d2b7d8296.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: A tad expensive**
 
  The Elder Scrolls V: Skyrim costs roughly $60 dollars for the Switch (MSRP). You might be able to find it on sale on Amazon for less, but it’s still on the more expensive side like other popular Switch games. This is disappointing since you can find Skyrim on other platforms for a fraction of the cost, even snatching it up for sale on Steam for $25 or less on PC. Considering the cost difference, the PC version of the game is the better deal, especially since the gameplay is better looking. But if you’re looking to take Skyrim on the go, or a Switch is your preferred gaming system, the price isn’t unreasonable.
@@ -149,8 +172,12 @@ Lifewire / Kelsey Simon
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Other action RPGs**
 
  The Elder Scrolls V: Skyrim almost competes with itself, due to how many other versions of the game are available on other platforms. But if you’re looking for role-playing games specifically designed for the Switch, it would be worth looking at The Legend of Zelda: Breath of the Wild. It was designed for the Switch from the beginning, sharing Skyrim’s action role-playing gameplay, but with crisp, beautiful graphics and smoother controls. If you’re interested in Japanese RPGs (JRPGs), it might also be worth looking into Xenoblade Chronicles 2, which will also share the same action-packed feel as Skyrim, but with a completely different graphics style and somewhat more complex combat and leveling.
@@ -161,18 +188,12 @@ Lifewire / Kelsey Simon
 
  Even though The Elder Scrolls V: Skyrim is a great game and the Switch is an amazing platform, our advice is only to buy Skyrim for the Switch if you’re looking to play on the go. Otherwise, we’d suggest purchasing Skyrim for the PC, where you’ll really be able to enjoy superior graphics and customization options.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [The Legend of Zelda: Breath of the Wild](https://www.lifewire.com/the-legend-of-zelda-breath-of-the-wild-review-4685759)
 * [Mario Kart 8 Deluxe](https://www.lifewire.com/mario-kart-8-deluxe-review-4688951)
 * [Splatoon 2](https://www.lifewire.com/splatoon-2-review-4688940)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  The Elder Scrolls V: Skyrim (Nintendo Switch)
@@ -180,14 +201,11 @@ Lifewire / Kelsey Simon
 * Price  $59.99
 * Available Platforms  Microsoft Windows, Nintendo Switch, PlayStation 3, PlayStation 4, Xbox 360, Xbox One
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -196,4 +214,26 @@ Lifewire / Kelsey Simon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-budget-friendly-recording-software-for-windows-users/"><u>[New] Budget-Friendly Recording Software for Windows Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-twitters-video-transfer-to-fb-network-for-2024/"><u>[Updated] Streamlining Twitters Video Transfer to FB Network for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-20plus-fresh-collages-elevate-your-environment/"><u>2024 Approved 20+ Fresh Collages Elevate Your Environment</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-understanding-youtubes-hidden-content-the-unlisted-reality/"><u>2024 Approved Understanding YouTube's Hidden Content The Unlisted Reality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2500u-drivers-fast-and-easy-methods-inside/"><u>2500U Drivers - Fast and Easy Methods Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-tech-giants-why-fitbit-sense-takes-on-the-apple-watch-for-holistic-health-management/"><u>Choosing Between Tech Giants: Why Fitbit Sense Takes on the Apple Watch for Holistic Health Management</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparison-of-kobo-nia-vs-kindle-devices-from-amazon/"><u>Comparison of Kobo Nia Vs. Kindle Devices From Amazon</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-latest-iphone-model-iphone-13/"><u>Comprehensive Review of the Latest iPhone Model - iPhone 13</u></a></li>
+<li><a href="https://win11.techidaily.com/crippled-corecrypt-still-stand-not-suddenly-shift/"><u>Crippled CoreCrypt: Still Stand, Not Suddenly Shift</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-choice-premium-virtual-reality-experiences-on-google-cardboard/"><u>Exclusive Choice Premium Virtual Reality Experiences on Google Cardboard</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-fongos-canadian-ip-telephony-services/"><u>Expert Analysis of Fongo's Canadian IP Telephony Services</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-fitbit-versa-2-a-detailed-insight-into-its-smartwatch-capabilities-and-fitness-tracking-excellence/"><u>Exploring the Fitbit Versa 2 – A Detailed Insight Into Its Smartwatch Capabilities and Fitness Tracking Excellence</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-guide-backing-up-camera-roll-to-snapchat-in-the-right-way/"><u>In 2024, Guide – Backing Up Camera Roll to Snapchat In the Right Way</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-android-and-ios-face-altering-tools-for-2024/"><u>Innovative Android & iOS Face Altering Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-split-screen-video-editing-software-free-online-and-offline-solutions-for-2024/"><u>New Split Screen Video Editing Software Free Online and Offline Solutions for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/storage-solutions-to-keep-you-connected/"><u>Storage Solutions to Keep You Connected</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-apex-of-wireless-connectivity-premier-mesh-wi-fi-options/"><u>The Apex of Wireless Connectivity: Premier Mesh Wi-Fi Options</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-blend-of-beauty-and-practicality-in-modern-computing-a-review-of-the-newly-released-dell-xps-13-7390-2-in-1-ultrabook/"><u>The Blend of Beauty and Practicality in Modern Computing – A Review of the Newly Released Dell XPS 13 (7390) 2-in-1 Ultrabook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-sound-system-decision-makers-list/"><u>The Ultimate Sound System Decision Maker's List</u></a></li>
+</ul></div>
 

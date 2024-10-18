@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story"
-date: 2024-10-06T19:27:03.613Z
-updated: 2024-10-12T17:00:48.830Z
+date: 2024-10-17T17:26:47.772Z
+updated: 2024-10-18T18:04:36.790Z
 tags:
   - games
   - tv
@@ -23,22 +23,16 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  When I discovered ChatGPT, the first thing I wanted to do was see if I could use it in game development. As always, ChatGPT is eager to help and almost feels like the world's most into-it intern.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Can ChatGPT Code a Game for You?
 
 ![ChatGPT gives me a list of ideas that I could potentially make into a game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-1.png) 
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It's quickly apparent that GPT's willingness to [teach you to code](https://fox-helps.techidaily.com/navigating-gif-storage-and-use-in-the-digital-age-iphone/) a game is well-meaning but requires you to understand a bit about what you're doing. As someone who's been an amateur game developer for more than a decade, I know a little bit about coding a game. In using GPT to help me, I was interested in seeing how sophisticated it was for producing a playable game prototype.
 
@@ -88,10 +82,10 @@ public class Projectile : MonoBehaviour
  Notably, it gave me well-commented code so I could follow along as a beginner programmer. Many places suggest that you could [learn to code using AI](https://learntocodewith.me/resources/ai-coding/), and the inclusion of well-commented code is part of that. You won't have to worry if there are errors in your code if you can trace them comment by comment. However, when using GPT to build a game, I encountered several issues that would defeat a newcomer to game development.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  ChatGPT Is Far From Perfect
@@ -100,22 +94,29 @@ public class Projectile : MonoBehaviour
 
 ![An error happens that I can't seem to figure out, so I ask GPT for help](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-wild-unexpected-behavior-appears.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this example, I encountered an issue with spawning my projectiles, with all the "bullets" being deflected when the player moves. While this could create some interesting play patterns, I decided to ask it to fix the problem, and it suggested a fix. Unfortunately, the fix didn't work.
 
 ![GPT's responses doesn't fix the error I keep having](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-error-is-still-there.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I eventually fixed it myself, but it highlighted a major issue with using ChatGPT to code a game: there are some things it doesn't know.
 
 ![A Do-it-Yourself Fix For The Programming Problem](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/diy-fix.png) 
 
  I eventually put together the game using a few suggestions from GPT about the persistent score as well as the random generation algorithm and scrolling for the game background. You can [play the final game here](https://zandoliearts.itch.io/the-unfriendly-skies).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Does It Work With Other Game Engines?
 
@@ -124,10 +125,10 @@ public class Projectile : MonoBehaviour
 ![GPT gives me a piece of code that is outdated because of GPT's limitations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gpt-s-godot-problem-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 GPT's Godot Problem
@@ -145,13 +146,6 @@ GPT's Godot Problem
 ##  Should You Code a Game With ChatGPT?
 
 ![Screenshot of My Game's Title Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-1-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Game development is a complex field, but thanks to engines like those mentioned above, it is much more approachable for the general public. A skilled developer could spend a few hours putting together a game that works and has all the things they want in it.
 
@@ -183,24 +177,17 @@ GPT's Godot Problem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-comprehensive-list-best-10-terraria-mods/"><u>[Updated] 2024 Approved Comprehensive List Best 10 Terraria Mods</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-navigate-nature-androids-animated-adventure-series/"><u>[Updated] 2024 Approved Navigate Nature Android’s Animated Adventure Series</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-creative-freedom-crafting-your-own-insta-tones/"><u>[Updated] Unleash Creative Freedom Crafting Your Own Insta Tones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-compreayer-guide-to-iphone-hdr-mastery/"><u>2024 Approved The Compreayer Guide to iPhone HDR Mastery</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-rainbow-six-siege-debugging-eradicating-error-code-e-3-0x0001000b/"><u>Complete Rainbow Six Siege Debugging: Eradicating Error Code E 3-0X0001000B</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-imac-with-m1-stunning-display-and-impressive-performance/"><u>Exploring the iMac with M1: Stunning Display & Impressive Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-sound-spectrum-with-nest-audio-perfect-harmony-for-melody-aficionados/"><u>Exploring the Sound Spectrum with Nest Audio: Perfect Harmony for Melody Aficionados</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/furbo-spotlight-celebrating-the-pinnacle-in-canine-surveillance-technology/"><u>Furbo Spotlight: Celebrating the Pinnacle in Canine Surveillance Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-havit-5-way-gaming-laptop-cooler-transforms-overheating-issues/"><u>How the HAVIT 5-Way Gaming Laptop Cooler Transforms Overheating Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-take-portrait-photo-with-old-iphone-x8-plus7-plus-for-2024/"><u>How to Take Portrait Photo with Old iPhone X/8 Plus/7 Plus for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-evaluation-xp-pen-artist-16-pro-graphic-tablet-unveiled/"><u>In-Depth Analysis and Evaluation: XP-Pen Artist 16 Pro Graphic Tablet Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-googles-pixelbook-go-top-notch-chrome-experience-for-a-hefty-price-tag/"><u>In-Depth Look at Google's Pixelbook Go: Top-Notch Chrome Experience for a Hefty Price Tag</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lamicall-s-tablet-stand-review/"><u>Lamicall S Tablet Stand Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/linksys-wrt3200acm-router-review/"><u>Linksys WRT3200ACM Router Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/madden-nfl-19-critique-amazing-gameplay-aspects-facing-some-ageing-issues/"><u>Madden NFL 19 Critique: Amazing Gameplay Aspects Facing Some Ageing Issues</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mts-video-editing-software-review-top-5-contenders/"><u>New 2024 Approved MTS Video Editing Software Review Top 5 Contenders</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/wintry-wonderland-olympic-moments-from-beijing-2022/"><u>Wintry Wonderland Olympic Moments From Beijing 2022</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/xbox-game-memories-save-them-with-screenshots-for-2024/"><u>Xbox Game Memories, Save Them with Screenshots for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nmasking-how-to-locate-my-comments-posts-online/"><u>[New] Unmasking How To Locate My Comments Posts Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-venture-into-virtual-laughs-top-20plus-funny-metaverse-creations/"><u>[Updated] Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/bridging-the-gap-between-zoom-and-social-media-streams/"><u>Bridging the Gap Between ZOOM and Social Media Streams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cost-effective-cooling-solutions-unveiling-the-secrets-of-the-topmate-c30s-laptop-pad-review/"><u>Cost-Effective Cooling Solutions - Unveiling the Secrets of the TopMate C30ˈs Laptop Pad Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decision-guide-choosing-between-ipad-pro-or-macbook-pro-for-your-needs/"><u>Decision Guide: Choosing Between iPad Pro or MacBook Pro for Your Needs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-superiority-of-nixplay-seed-photo-frame/"><u>Discover the Superiority of Nixplay Seed Photo Frame</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-what-sets-the-new-sony-playstation-5-apart-from-older-models/"><u>Discover What Sets the New Sony PlayStation 5 Apart From Older Models</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-guide-official-netgear-a6200-profiles/"><u>Download Guide: Official Netgear A6200 Profiles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effortless-nourishment-with-arfs-autofeeder-the-smart-solution-for-your-furry-friend/"><u>Effortless Nourishment with Arf's AutoFeeder - The Smart Solution for Your Furry Friend</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y27-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y27 4G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-motorola-edge-40-neo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Motorola Edge 40 Neo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 15 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
 </ul></div>
 

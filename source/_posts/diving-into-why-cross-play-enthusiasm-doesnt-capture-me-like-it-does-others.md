@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2024-10-07T17:53:47.322Z
-updated: 2024-10-12T16:31:39.832Z
+date: 2024-10-11T16:39:19.664Z
+updated: 2024-10-18T16:02:52.377Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Remember when cross-platform multiplayer gaming was something we all wanted? Now that we've got it, I don't think it's panned out exactly how I expected. Here's why I'm so far unimpressed by cross-platform gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Cross-Platform Multiplayer Offers Gamers
 
  Don't get me wrong, I know that [cross-platform gaming is pretty cool](https://win-howtos.techidaily.com/overcoming-laptop-navigation-hurdles-how-to-unfreeze-and-restore-mouse-functionality/). It's a technological innovation to tie games from different systems together in the same space. There are several things I really appreciate about playing with people on different platforms, now that I've experienced it.
@@ -29,22 +36,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Controller Mis-Matching and Aim Assist
 
 ![mouse keyboard controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/mouse-keyboard-controller.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
@@ -54,29 +55,9 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  A few games offer "controller matching" to avoid this issue, allowing players to match with other players who are using the same hardware. This would be a better feature if more games included it, but sadly, it's not seen on a lot of cross-platform titles. This is only an issue when you're playing competitive PVP titles, however. Co-op titles don't need any adjusting for this metric.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Mouse-and-Keyboard vs. Controller War
 
 ![An Xbox wireless controller on top of a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_2395089811-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [FabrikaSimf/Shutterstock.com](https://www.shutterstock.com/image-photo/headphones-joystick-computer-keyboard-on-black-2395089811)
 
@@ -85,6 +66,13 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  The final debate comes down to [whether one wants to sacrifice precision or comfort](https://www.makeuseof.com/controller-vs-keyboard-mouse-which-one-better-for-pc-gaming/). There's no major difference between the two control schemes, although in a head-to-head competition, the user's experience determines who wins. Unfortunately, this isn't something some gamers consider.
 
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Problems That Impact Competitive Play
 
@@ -107,16 +95,10 @@ Jerome Thomas / How-To Geek
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Few Other Considerations
@@ -152,22 +134,20 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-assessing-effectiveness-of-reduced-shaking-in-adobe-photos/"><u>[Updated] Assessing Effectiveness of Reduced Shaking in Adobe Photos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-demystifying-youtube-analytics-views-subscriptions-and-profits-for-2024/"><u>[Updated] Demystifying YouTube Analytics Views, Subscriptions & Profits for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-free-top-8-best-apps-to-get-likes-on-instagram/"><u>[Updated] FREE Top 8 Best Apps to Get Likes on Instagram</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-unveiling-the-virtual-essence-metaphysical-metaverse-adages/"><u>[Updated] In 2024, Unveiling the Virtual Essence Metaphysical Metaverse Adages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/11-pro-tips-to-leverage-chatgpt-in-character-creation-success/"><u>11 Pro Tips to Leverage ChatGPT in Character Creation Success</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-13-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 13 5G PC | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/delving-into-the-elite-an-insiders-review-of-huions-inspiroy-g10t-tablet-excellence-in-craftsmanship-and-capability/"><u>Delving Into the Elite: An Insider's Review of Huion's Inspiroy G10T Tablet - Excellence in Craftsmanship & Capability</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-an-apple-airpod-connection-issue-with-your-iphone/"><u>How to Troubleshoot an Apple AirPod Connection Issue with Your iPhone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-mobile-class-a-comprehensive-review-of-the-premium-samsung-galaxy-s1-0/"><u>Mastering Mobile Class: A Comprehensive Review of the Premium Samsung Galaxy S1 0</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-productivity-with-the-updated-ipad-pro-unveiling-changes-in-the-latest-7th-generation-model/"><u>Mastering Productivity with the Updated iPad Pro - Unveiling Changes in the Latest 7Th Generation Model</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-pros-and-cons-of-the-anker-roav-dashcam-c1-a-full-featured-review/"><u>Navigating the Pros and Cons of the Anker Roav Dashcam C1 – A Full-Featured Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-through-nightmares-in-bloodborne-insights-and-impressions/"><u>Navigating Through Nightmares in Bloodborne: Insights and Impressions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-through-wearables-is-fitbits-charge-3-still-your-best-fitness-tracking-option/"><u>Navigating Through Wearables: Is Fitbit's Charge 3 Still Your Best Fitness Tracking Option?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-wet-pages-afloat-unveiling-the-secrets-of-the-waterproof-kobo-libra-h2o-e-reader/"><u>Navigating Wet Pages Afloat: Unveiling the Secrets of the Waterproof Kobo Libra H2O E-Reader</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nikon-coolpix-a10-an-inexpensive-camera-that-takes-great-photos-but-is-hamstrung-by-a-frustrating-user-experience/"><u>Nikon COOLPIX A10: An Inexpensive Camera That Takes Great Photos But Is Hamstrung by a Frustrating User Experience.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/not-ideal-for-high-viscosity-or-abrasive-materials-without-proper-design-considerations/"><u>Not Ideal for High Viscosity or Abrasive Materials without Proper Design Considerations.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win10-hands-free-screen-adjustment/"><u>Win10: Hands-Free Screen Adjustment</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-passive-page-peeps-to-paying-patrons-facebook-monetization-magic/"><u>[New] 2024 Approved From Passive Page Peeps to Paying Patrons Facebook Monetization Magic</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-effortless-transition-from-spotify-to-youtube-find-the-best-apps-for-2024/"><u>[Updated] Effortless Transition From Spotify to YouTube Find the Best Apps for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-visual-storytelling-for-social-media-editing-vt-videos-in-fcpx/"><u>[Updated] In 2024, Visual Storytelling for Social Media Editing VT Videos in FCPX</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-voice-modification-tools-for-youtube-creators/"><u>2024 Approved Top Voice Modification Tools for YouTube Creators</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-glion-dolly-electric-scooter-assessment-luxurious-design-and-swift-performance/"><u>Comprehensive Glion Dolly Electric Scooter Assessment: Luxurious Design & Swift Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-netgear-c3000-cabledsl-gateway-is-it-still-effective/"><u>Comprehensive Review of the Netgear C3000 Cable/DSL Gateway - Is It Still Effective?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-test-drive-analysis-of-the-maisto-rc-rock-crawler-perfect-toy-for-kids-and-adults/"><u>Comprehensive Test Drive Analysis of the Maisto RC Rock Crawler - Perfect Toy for Kids and Adults!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/conquering-fearsome-foes-an-insiders-look-into-monster-hunter-world-gameplay/"><u>Conquering Fearsome Foes: An Insider's Look Into Monster Hunter: World Gameplay</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-finest-gaming-experiences-google-play-pass-edition/"><u>Discover the Finest Gaming Experiences: Google Play Pass Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exceptional-value-with-lg-24lh4830-smart-television-saving-money-not-on-picture-quality/"><u>Exceptional Value with LG 24LH4830 Smart Television - Saving Money, Not on Picture Quality</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-note-30-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Note 30 5G Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamline-your-setup-quick-guide-for-downloading-elgato-drivers/"><u>Streamline Your Setup: Quick Guide for Downloading Elgato Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-is-here-with-tesla-robotaxi-discover-expected-costs-d-day-and-specs-all-the-latest-gossip/"><u>The Future Is Here with Tesla Robotaxi! Discover Expected Costs, D-Day and Specs - All the Latest Gossip</u></a></li>
 </ul></div>
 

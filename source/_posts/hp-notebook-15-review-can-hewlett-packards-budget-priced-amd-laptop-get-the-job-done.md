@@ -1,7 +1,7 @@
 ---
 title: "HP Notebook 15 Review: Can Hewlett-Packard’s Budget-Priced AMD Laptop Get the Job Done?"
-date: 2024-08-22T13:03:40.070Z
-updated: 2024-08-23T13:03:40.070Z
+date: 2024-10-13T16:58:00.849Z
+updated: 2024-10-18T16:26:15.805Z
 categories:
   - BestProducts
 description: "This Article Describes HP Notebook 15 Review: Can Hewlett-Packard’s Budget-Priced AMD Laptop Get the Job Done?"
@@ -41,6 +41,13 @@ Lifewire / Jason Schneider
 
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/de6GmnZf-POMS25HOUd4hX7ytI8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_HeroSquare-362ddb9951d04861a4b66cea1c000233.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Jason Schneider
 
 [View On Amazon $209](https://www.amazon.com/Acer-CB3-532-Chromebook-Dual-Core-12-Hours/dp/B077YS9TYW/ref=sr%5F1%5F3?tag=lifewire-onsite-prod-20&ascsubtag=4843694%7Cn791fbaac0c414da4a0eaf368ff79738d00%7CB077YS9TYW) [View On Walmart $400](https://www.walmart.com/ip/Acer-CB3-532-C47C-15-6-Chromebook-Chrome-OS-Intel-Celeron-N3060-Dual-Core-Processor-2GB-RAM-16GB-Internal-Storage/54518466)
@@ -72,7 +79,21 @@ Lifewire / Jason Schneider
 
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/KPrvN1kvoH081BHRUonphp9CIeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_02-c3813ec58fc848e6a715abe090ebe6b1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jason Schneider
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Design: Slightly bulky with a couple of nice touches**
 
@@ -82,18 +103,12 @@ Lifewire / Jason Schneider
 
  The hinge is actually two small contact points that roll into the laptop chassis, which feels dated when the laptop is open but makes it look interesting when it’s closed. The whole laptop is made of plastic, and measures right around one 1-inch thick, weighing in at almost 4.5 pounds. That’s a double-edged sword because while the laptop feels really sturdy and premium despite the plastic material, it isn’t terribly portable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup Process: As seamless as a mobile device**
 
  One added benefit to opting for a Chromebook instead of a[full PC](https://www.lifewire.com/best-desktop-pcs-4045927) is that the software is really light. This has implications for both productivity and performance, but it provides a big benefit for the setup process. Because the entire experience, from bootup to browsing, has been designed by Google, you can expect a very similar look and feel to what you’ve probably experienced when signing up and signing in to a[Gmail](https://www.lifewire.com/how-to-use-gmail-1172005) or YouTube account.
 
  The device first asks you to set your regions, then connect to a Wi-Fi network, then finally to sign into a Google account and set up permissions. From here it drops you basically immediately to the Chromebook home screen where you can either dive right in, or follow the popup tour given by Google. One thing I liked a lot about this was that Google gives you a short three-popup tour to start, then asks if you’d like to go deeper or just jump right into the machine yourself. This staged version of a device tour is a great way to let you, the user, tailor it to your preferences. This also makes it great for an older-aged tech user who might need a bit of hand-holding as they get to know their laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## **Display: Big, bright, and better than you might think**
 
  The display on the Acer Chromebook 15 is bigger than you might expect from a laptop that runs[Chrome OS](https://www.lifewire.com/google-chrome-os-1616448) , with a 15.6-inch backlit LED screen that offers a ton of room for windows and programs. The resolution measures in at 1366x768 meaning it checks all the boxes for being classified as an HD display.
@@ -102,9 +117,6 @@ Lifewire / Jason Schneider
 
  The whole laptop is made of plastic, and measures right around 1-inch thick, weighing in at almost 4.5 pounds.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance: Really solid, to a point**
 
  Chrome OS provides an interesting advantage in the performance category. Right out of the box, this laptop will look and feel very fast, but as soon as you try to open more than about 6 tabs on Chrome, or you fire up multiple apps and videos, it slows down exponentially. On paper, it sports a dual-core Intel Celeron N3060 processor capable for standard-run speeds of 1.6GHz.
@@ -113,9 +125,6 @@ Lifewire / Jason Schneider
 
  To be fair, Chromebook users likely keep more files in cloud storage drives, and Google includes 100GB of drive storage for free with the purchase for 2 years. So, you might not notice the limited capacity, but I would have preferred at least 32GB.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Productivity and Component Quality: Plenty of screen real estate, and passable features**
 
  There’s an interesting case to be made for this Acer Chromebook in terms of productivity. Chrome OS is a very light operating system, which means that it runs quick and light, at least initially. This also means that you can load up more than a few Chrome tabs—something that hogs a lot of power use on Windows laptops. Add that in with the larger 15.6-inch display, giving you lots of room for multiple windows and apps, and this Chromebook is great for those who want to multitask. However, because it isn’t a full OS, you won’t be able to run a whole lot of programs out of the box, and you’re limited to what’s available in the Play Store.
@@ -130,11 +139,6 @@ Lifewire / Jason Schneider
 
 ![Acer Chromebook 15](https://www.lifewire.com/thmb/yw3n6Y9SGTIh4h10bF7XbAc5La0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer_LaptopsUnder200_Chromebook_03-5724a73204e94f548f20aec5fa86074f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  Lifewire / Jason Schneider
 
 ## **Network and connectivity: Modern, fast, and optimized for Chrome OS**
@@ -157,6 +161,13 @@ The powerful video editing program for your Windows PC</a>
 
  Chrome OS is a very light operating system, which means that it runs quick and light, at least initially.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Light and fast with very little customization**
 
  Using Chrome OS is more reliable than you might think. You have most of the functions you’ll need from Google Docs to web browsing to file storage. However, you’ll be missing a lot of more specialized programs, like the full Adobe Creative Suite, or PC-based media programs. Due to the low-powered processor and limited shared Graphics capability, you wouldn’t be able to use this laptop for video editing anyway, even if it did run Windows. So, even though it’s limiting, it’s on purpose.
@@ -164,8 +175,12 @@ The powerful video editing program for your Windows PC</a>
  That said, the Chromebook 15 runs so well, though likely only because of the lightweight operating system and limited app capabilities. Chrome OS is kind of like just using a Chrome window with a bunch of tabs on a regular PC. For most people, the OS is more than capable of handling most of your browsing needs. This Chromebook is a great example of how far you can push Chrome OS on a budget device, with a big bright screen for watching movies, too.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Really affordable with plenty to offer**
 
  The list price for this Acer Chromebook sits at just about $400 (MSRP), but most of the time you can find it on Amazon for between $150-$250\. I picked up my unit for about $185, and it tends to hover just around there.
@@ -173,8 +188,12 @@ The powerful video editing program for your Windows PC</a>
  For the money, I can confidently say this laptop is worth the price, as long as you have the right applications in mind for it. If you want a cheap starter laptop, or a machine for an older family member that’s easy to use, but you don’t want to spend half a grand getting there, this is a great choice. I can’t say it’s quite as travel-friendly as some of the other budget laptops out there, due to the size and weight. But if you want an affordable machine that’s great for light productivity tasks, and is an excellent movie machine, then you should consider this.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Acer Chromebook 15 vs. Lenovo Chromebook S330 14**
 
  Lenovo’s entry into the large, budget Chromebook range brings a few different features into play. The most notable difference is the build—you’ll get a thinner, sleeker laptop with the Lenovo, including a much more premium-looking and -feeling keyboard, plus 64GB of storage and a lighter weight. However, you’ll sacrifice the Intel processor (the Lenovo sports a more dated chip from MediaTek) and the battery life isn’t quite as good. That package comes in at a little higher on the price scale, too.
@@ -197,14 +216,11 @@ The powerful video editing program for your Windows PC</a>
 * RAM  4GB
 * Storage  16GB
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -213,4 +229,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-best-editing-tools-for-app-screenplays/"><u>[Updated] Best Editing Tools for App Screenplays</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-seamless-shift-from-imovie-to-youtube-broadcasts/"><u>2024 Approved Navigating the Seamless Shift From iMovie to YouTube Broadcasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459249641-diagnosing-iphone-detection-problems-with-itunes-or-finder-easy-fixes/"><u>Diagnosing iPhone Detection Problems with iTunes or Finder - Easy Fixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/discover-whats-hot-and-why-todays-top-8-videos/"><u>Discover What’s Hot and Why Today’s Top 8 Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-premium-garmin-forerunner-745-fitness-tracker-for-athletes/"><u>Expert Review of the Premium Garmin Forerunner 745 Fitness Tracker for Athletes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-dell-device-fast-and-simple/"><u>How to Restore Audio on Your Dell Device Fast and Simple</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huawei-mediapad-m5-comprehensive-analysis-the-ultimate-audio-and-visual-experience-tablet/"><u>Huawei MediaPad M5 Comprehensive Analysis - The Ultimate Audio & Visual Experience Tablet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/secure-your-windows-recovery-partitions-protect-data-on-win11-win10-win8-and-win7/"><u>Secure Your Windows Recovery Partitions - Protect Data on Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/slashing-costs-without-compromising-style-a-comprehensive-look-at-the-procase-macbook-pro-13-case/"><u>Slashing Costs Without Compromising Style: A Comprehensive Look at the ProCase MacBook Pro 13 Case</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-companion-for-illustrators-a-detailed-review-of-the-xp-pen-artist-16-pro-tablet/"><u>The Ultimate Companion for Illustrators: A Detailed Review of the Xp-Pen Artist 16 Pro Tablet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-lenovo-mouse-pad-on-windows-11-8-and-7-complete-fix-guide/"><u>Troubleshoot Your Lenovo Mouse Pad on Windows 11, 8 & 7 – Complete Fix Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unlocking-the-mystery-revealing-how-to-display-hidden-files-in-windows-10-and-11/"><u>Unlocking the Mystery: Revealing How to Display Hidden Files in Windows 10 & 11</u></a></li>
+</ul></div>
 

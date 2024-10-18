@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept"
-date: 2024-10-05T16:29:08.851Z
-updated: 2024-10-12T17:36:15.290Z
+date: 2024-10-17T16:37:50.713Z
+updated: 2024-10-18T16:21:45.096Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
  Have you got backlog dread? Do you stare at your pile of games forlornly as you swipe your credit card once again to put even more on the pile? I'm here to tell you that your "backlog" shouldn't be weighing you down.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What’s This “Backlog” Stuff?
 
  The word "backlog" implies a couple of things, but the most pertinent things that pop into my head are "work" and "obligation." You might have a backlog of reports to work through, or a backlog of videos to edit. It's something you are obligated to do, and you're behind! So you can't really ever rest until that backlog is cleared. Applying that concept to your collection of video games feels fundamentally wrong.
@@ -28,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Games are entertainment, not an obligation. So it might be better psychologically-speaking, to stop thinking of your video game collection as a "backlog" in the first place!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Backlogs Are a Rainy-Day Blessing
@@ -45,17 +52,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You Don’t Have to Finish All Your Games
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Did I waste my time playing them? No! They were fun while they lasted, and I enjoyed my time with them, but just like any healthy relationship, you need to know when the right time is to walk away.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don’t Let the Sunk Cost Fallacy Stop Your Fun
@@ -96,22 +96,20 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-simplify-lifes-complexities-with-expert-google-photos-guidance/"><u>[New] Simplify Life's Complexities with Expert Google Photos Guidance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beat-blend-technology-video-and-music-merge-on-w11-platforms/"><u>2024 Approved Beat-Blend Technology Video & Music Merge on W11 Platforms</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/does-xiaomi-14-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi 14 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-camon-20-premier-5g-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Camon 20 Premier 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-8-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 8 for Free</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-a71-5g-the-smart-choice-over-premium-phones/"><u>In-Depth Analysis of the Samsung Galaxy A71 5G - The Smart Choice Over Premium Phones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kid-friendly-amazon-fire-hd-10-tablet-review-top-choice-for-parents-peace-of-mind/"><u>Kid-Friendly Amazon Fire HD 10 Tablet Review: Top Choice for Parent's Peace of Mind</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/master-the-art-of-sleep-with-cutting-edge-tech-solutions-for-ultimate-relaxation/"><u>Master the Art of Sleep with Cutting-Edge Tech Solutions for Ultimate Relaxation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-mobile-potential-with-a-budget-friendly-high-performance-pixel-4a-5g/"><u>Maximizing Mobile Potential with a Budget-Friendly, High-Performance Pixel 4a 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/moments-in-motion-the-top-cameras-for-less-than-100/"><u>Moments in Motion: The Top Cameras for Less Than $100</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-trials-of-ruling-tropico-6-an-elite-island-management-simulation/"><u>Navigating the Trials of Ruling Tropico 6: An Elite Island Management Simulation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oculus-quest-2-review-easy-excellent-vr-at-an-amazing-price/"><u>Oculus Quest 2 Review: Easy, Excellent VR at an Amazing Price</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-the-most-frequent-chatgpt-mishaps-a-guide-to-quick-fixes/"><u>Overcoming the Most Frequent ChatGPT Mishaps – A Guide to Quick Fixes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/panasonics-value-videoplusfeatures-marriage/"><u>Panasonic's Value: Video+Features Marriage</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/prime-car-power-rescue-kits-2024-edition/"><u>Prime Car Power Rescue Kits 2024 Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/scouting-for-cost-effective-clouds-a-pricing-analysis-of-2024/"><u>Scouting for Cost-Effective Clouds A Pricing Analysis of 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/spectre-3-clash-mirage-4-unleashed/"><u>Spectre 3 Clash Mirage 4 Unleashed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-masterful-approaches-to-applying-digital-video-effects-online/"><u>[New] 2024 Approved Masterful Approaches to Applying Digital Video Effects Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-branding-beats-technicalities-focus-on-your-streams-signature-style/"><u>[Updated] Branding Beats Technicalities Focus on Your Stream's Signature Style</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728496688148-windows-10-c/"><u>「Windows 10 Cドライブバックアップの詳細ガイド」</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-expert-tips-for-pc-gamers-ideal-snapshots/"><u>2024 Approved Expert Tips for PC Gamer's Ideal Snapshots</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728498771084-win10/"><u>迅速修复 Win10 螢幕上丟失檔案問題</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-asus-rt-ac68u-a-leap-in-speed-and-security-with-5g-wi-fi/"><u>Comprehensive Analysis of the Asus RT-AC68U – A Leap in Speed & Security with 5G Wi-Fi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-the-new-imac-featuring-the-game-changing-m1-chip-a-visual-and-technological-upgrade/"><u>Comprehensive Review: The New iMac Featuring the Game-Changing M1 Chip – A Visual & Technological Upgrade</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deciding-between-an-ipad-pro-or-a-macbook-pro-essential-differences-explored/"><u>Deciding Between an iPad Pro or a MacBook Pro: Essential Differences Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-premier-8-androidios-game-titles/"><u>Discover The Premier 8 Android/iOS Game Titles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-apple-devices-face-off-iphone-15-plus-against-pro-max-explored/"><u>Elite Apple Devices Face-Off: IPhone 15 Plus Against Pro Max Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-crystal-clear-signal-with-the-clearstream-2v-all-weather-tv-antenna-a-comprehensive-user-assessment/"><u>Experience Crystal-Clear Signal with the ClearStream 2V All-Weather TV Antenna - A Comprehensive User Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-gratis-locales-browse-and-post-on-oodle-today/"><u>Experience Gratis Locales: Browse and Post on Oodle Today!</u></a></li>
+<li><a href="https://techidaily.com/get-your-free-updated-dell-driver-packs-for-optimal-performance-on-windows-11/"><u>Get Your Free Updated Dell Driver Packs for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y100i-power-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y100i Power 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2024-10-05T18:03:42.570Z
-updated: 2024-10-12T19:15:26.057Z
+date: 2024-10-14T16:04:06.634Z
+updated: 2024-10-18T18:35:49.555Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  Photos are 2D, and so surely you'd only want to print them using a normal everyday 2D printer? However, it turns out you can create a "lithophane" from a photo and turn your snaps into actual plastic models.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is a Lithophane Exactly?
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  While working with porcelain isn't something you can do at home typically, if you have a 3D printer you can emulate the same effect and make a lithophane by printing it. When you hold the lithophane up to the light, your original image appears. It's a neat effect and, thanks to the flexibility of 3D printing, you can make all sorts of interesting decorations using this method.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Converting an Image to a Lithophane
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
 
  Once you're happy with the settings, your photo will appear as a lithophane model in the slicer just like any other 3D model.
@@ -69,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Printing Your Lithophane
 
@@ -83,10 +83,10 @@ Close
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -108,21 +108,24 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-navigating-instagrams-voice-customization-features/"><u>[New] 2024 Approved Navigating Instagram's Voice Customization Features</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-streamline-your-shots-a-windows-11-guide/"><u>[New] In 2024, Streamline Your Shots A Windows 11 Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-superior-2-written-by-robert-littell-for-2024/"><u>[New] Superior 2 Written by Robert Littell for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-discover-how-to-design-dynamic-youtube-music-playlists/"><u>[Updated] 2024 Approved Discover How to Design Dynamic YouTube Music Playlists</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-your-outriders-gameplay-with-these-expert-fixes-for-reducing-lag-and-increasing-fps/"><u>Boost Your Outriders Gameplay with These Expert Fixes for Reducing Lag and Increasing FPS</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-rayman-legends-top-notch-puzzles-and-platforms-in-an-unmatched-2d-journey/"><u>Exploring Rayman Legends - Top-Notch Puzzles and Platforms in an Unmatched 2D Journey</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hp-omen-obelisk-desktop-review-high-end-gaming-at-great-value-prices/"><u>HP Omen Obelisk Desktop Review: High-End Gaming at Great Value Prices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-zero-5g-2023-turbo-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Zero 5G 2023 Turbo Phone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-integrating-movie-capture-across-all-operating-systems/"><u>In 2024, Integrating Movie Capture Across All Operating Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-michael-kors-gen-5e-mkgo-leather-case-the-perfect-blend-of-luxury-and-functionality/"><u>In-Depth Analysis of Michael Kors Gen 5E (MKGO) Leather Case: The Perfect Blend of Luxury and Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-asus-rog-gt-ac5300-evaluation-a-dream-for-gamers-and-tech-professionals/"><u>In-Depth Asus ROG GT-AC5300 Evaluation: A Dream for Gamers & Tech Professionals</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-all-purpose-omni-20-by-omnicharge-a-game-changer-for-on-the-go-charging-and-qi-wireless-convenience/"><u>In-Depth Look at the All-Purpose Omni 20 by Omnicharge: A Game-Changer for On-the-Go Charging and Qi Wireless Convenience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ipad-pro-vs-macbook-pro-understanding-their-divergent-features/"><u>IPad Pro Vs. MacBook Pro - Understanding Their Divergent Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/jump-into-action-with-the-nikon-w100-camera/"><u>Jump Into Action with the Nikon W100 Camera</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-efficiency-edgedownloads-and-process-management/"><u>Mastering Efficiency: Edgedownloads & Process Management</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-best-windows-video-calls-the-top-8-list-for-2024/"><u>[New] Best Windows Video Calls The Top 8 List for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716068971673-new-in-2024-navigating-through-top-ps2-games-on-android-devices-a-compre-written-in-english/"><u>[New] In 2024, Navigating Through Top PS2 Games on Android Devices - A Compre Written in English.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-voice-mods-for-pubg-top-easy-techniques/"><u>[Updated] Quick Voice Mods for PUBG Top Easy Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-journey-through-creative-commons-a-users-guide/"><u>[Updated] The Journey Through Creative Commons A User's Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-blending-pictures-into-a-single-storyboard-image/"><u>2024 Approved Blending Pictures Into a Single Storyboard Image</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-enhance-testimonial-credibility-and-impact/"><u>2024 Approved Strategies to Enhance Testimonial Credibility and Impact</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/invisible-presence-guide-to-instagram-live-broadcasts-and-streaming/"><u>Invisible Presence Guide to Instagram Live Broadcasts and Streaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-multi-personal-adventures-in-elden-ring-overcoming-connection-problems/"><u>Mastering Multi-Personal Adventures in Elden Ring: Overcoming Connection Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-cmd-connoisseurs-guide-to-five-fun-hacks/"><u>The Cmd Connoisseur's Guide to Five Fun Hacks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-reviews-for-budget-friendly-amazonbasics-6-sheets-cutting-shredder/"><u>Top Reviews for Budget-Friendly AmazonBasics 6-Sheets Cutting Shredder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723079805053-ultimate-amazonbasics-7-port-usb-30-hub-analysis-power-up-your-devices/"><u>Ultimate AmazonBasics 7-Port USB 3.0 Hub Analysis – Power Up Your Devices!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-raspberry-pi-400-transforming-the-keyboard-into-a-powerful-mini-computer/"><u>Ultimate Guide to Raspberry Pi 400: Transforming the Keyboard Into a Powerful Mini Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-top-external-optical-drives-your-buying-checklist/"><u>Ultimate Guide to the Top External Optical Drives – Your Buying Checklist!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-top-race-rc-rock-crawler-unveiling-an-all-terrain-marvel/"><u>Ultimate Guide to the Top Race RC Rock Crawler - Unveiling an All-Terrain Marvel</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-aesthetics-and-mobility-of-the-acer-chromebook-r-11-an-expert-review/"><u>Unveiling the Aesthetics & Mobility of the Acer Chromebook R 11: An Expert Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-your-reading-experience-with-the-nook-glowlight-4/"><u>Unveiling the Potential of Your Reading Experience with the Nook Glowlight 4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/urban-planning-mastery-a-comprehensive-cities-skylines-game-guide/"><u>Urban Planning Mastery: A Comprehensive Cities: Skylines Game Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/withings-move-assessment-the-perfect-blend-of-analog-charm-and-intelligent-functionality/"><u>Withings Move Assessment: The Perfect Blend of Analog Charm and Intelligent Functionality</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728484133802-windows-11windows-10/"><u>データ保護なしで、Windows 11をWindows 10にスムーズ変更方法</u></a></li>
 </ul></div>
 

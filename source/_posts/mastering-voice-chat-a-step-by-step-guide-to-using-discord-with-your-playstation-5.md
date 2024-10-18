@@ -1,7 +1,7 @@
 ---
 title: "Mastering Voice Chat: A Step-by-Step Guide to Using Discord with Your PlayStation 5"
-date: 2024-10-07T18:20:09.005Z
-updated: 2024-10-12T17:10:25.979Z
+date: 2024-10-11T16:13:47.288Z
+updated: 2024-10-18T17:12:17.688Z
 tags:
   - games
   - tv
@@ -23,10 +23,10 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 * [Discord Is Also Available on Xbox](https://facebook-video-footage.techidaily.com/skyrocket-traffic-with-the-top-12-youtube-growth-methods-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,44 +44,30 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 ![Accessing PlayStation settings using the "Cog" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ps5_settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Head to Users and Accounts > Linked Services, and you'll see a list of accounts that you can add to your PS5.
 
 ![Connecting Discord to your PlayStation account under PS5 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/select_discord.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select "Discord" followed by "Link Account" and then read the disclosure that informs you that your PlayStation Network account and associated information will be revealed to Discord as part of this process. Hit "Accept and Continue" to proceed.
 
 ![Choosing to accept or decline the terms when connecting PSN to Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/accept_terms.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now link your Discord account by heading to [discord.com/activate](http://discord.com/activate), logging in, and entering the code displayed. You can also [use your iPhone](https://facebook-video-content.techidaily.com/in-2024-enhancing-outdoor-vision-with-gopro-and-live-streaming-platforms/) or [Android smartphone to scan the QR code](https://vp-tips.techidaily.com/2024-approved-free-football-live-learn-and-cut-your-match-footage/) on the screen for quicker access. Alternatively, use the PS5 browser (via the "Use Browser" button) to log in and link accounts that way.
 
 ![Using a code or QR code to verify linked accounts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/connect_account.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you've entered the code on a secondary device, you'll need to click "Authorize" to grant permission on Discord's end too.
 
@@ -98,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
  In June 2024, Discord integration was updated to allow you to [join chats and direct message calls directly from the PlayStation 5 interface](https://extra-guidance.techidaily.com/2024-approved-mastering-iphone-burst-photography/). Once you've connected your account by following the instructions above, hit the "PS" button and navigate to "Game Base" then choose "Discord" in the sidebar.
 
 ![Discord intergration in PS5 Game Base.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_2570.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From here you'll be able to choose a server, a voice channel, or a direct message call. This eliminates the need to use another device to control Discord integration while using your PS5.
 
@@ -117,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 ![Confirm the console you want to transfer your voice chat to.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/transfer_voice_confirmation.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the PlayStation 5, you should see a notification appear to let you know that you've joined a Discord voice chat.
 
 ![Discord voice chat notification on PS5 dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/discord_notification.jpg) 
@@ -126,10 +126,16 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 ![Manage your Discord voice chat session.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_2571.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Use Discord on Your PlayStation?
@@ -145,10 +151,10 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
  You can remove Discord integration both on your PS5 console or via the Discord web interface and apps. Both have the same effect, so it's up to you which method is more convenient.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  On Your PlayStation 5
@@ -157,18 +163,18 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 ![Unlink Discord from your PlayStation Network account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/unlink_discord.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  On Discord
 
  To unlink your Discord account from your PS5 through Discord, launch the Discord app or web interface and navigate to user settings. This is accessible via the "cog" Settings button in the lower-left corner of the screen on the web or desktop or using the "User" tab on the mobile app. Head to "Authorized Apps" and then click or tap "Deauthorize" next to PlayStation Network.
 
 ![Deathorize your PlayStaton Network account from your Discord account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/deauthorize_psn_discord.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Discord Is Also Available on Xbox
 
@@ -191,15 +197,24 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-erase-the-obvious-techniques-for-masked-youtube-content-for-2024/"><u>[New] Erase the Obvious Techniques for Masked YouTube Content for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-deeper-insight-into-augmented-reality-stickers-by-google/"><u>2024 Approved A Deeper Insight Into Augmented Reality Stickers by Google</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/barnes-and-nobles-newest-gem-the-enhanced-screen-display-of-nook-glowlight-plus-reviewed-here/"><u>Barnes & Noble's Newest Gem - The Enhanced Screen Display of Nook GlowLight Plus Reviewed Here!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-places-for-streaming-movie-promos-a-guide-to-7-premier-sites/"><u>Best Places for Streaming Movie Promos: A Guide to 7 Premier Sites</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-travel-friendly-wifi-routers-to-enhance-your-journey/"><u>Best Travel-Friendly WiFi Routers to Enhance Your Journey</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/complete-guide-mastering-the-factory-reset-on-your-asus-notebook-with-windows-11/"><u>Complete Guide: Mastering the Factory Reset on Your ASUS Notebook with Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-tutorial-updating-nvme-controller-drivers-in-windows-easily/"><u>Complete Tutorial: Updating NVMe Controller Drivers in Windows Easily</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-ergohead-anti-fatigue-standing-desk-mat-evaluation-ideal-for-extended-work-sessions/"><u>Comprehensive Ergohead Anti-Fatigue Standing Desk Mat Evaluation - Ideal for Extended Work Sessions</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-v29e-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo V29e IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionizing-videography-with-the-impressive-nikon-j5/"><u>[Updated] Revolutionizing Videography with the Impressive Nikon J5</u></a></li>
+<li><a href="https://discover-able.techidaily.com/3-audiophile-editing-tools-beyond-aviutl/"><u>「アビユートルを超える3つの最優秀編集ツール」 - Audiophile Editing Tools Beyond AviUtl</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-beyond-ustream-an-examination-of-video-streaming/"><u>2024 Approved Beyond Ustream An Examination of Video Streaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-zoom-mastery-maximizing-your-podcast-recording-quality/"><u>2024 Approved Zoom Mastery Maximizing Your Podcast Recording Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accelerate-hr-processes-using-just-5-powerful-chatgpt-techniques/"><u>Accelerate HR Processes Using Just 5 Powerful ChatGPT Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-icon-misplacement/"><u>Guide to Correcting Icon Misplacement</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-a-trustworthy-source-for-medical-insights/"><u>Is ChatGPT a Trustworthy Source for Medical Insights?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/poker-professional-panelisms/"><u>POKER PROFESSIONAL PANELISMS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reel-radiance-the-ultimate-5-tools-to-brighten-media-for-2024/"><u>Reel Radiance The Ultimate 5 Tools to Brighten Media for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/selecting-superior-computers-2024s-market-leaders-exposed/"><u>Selecting Superior Computers: 2024'S Market Leaders Exposed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-tutorial-on-adding-more-games-to-your-nes-mini/"><u>Step-by-Step Tutorial on Adding More Games to Your NES Mini</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/surviving-mars-review-a-great-sci-fi-experience/"><u>Surviving Mars Review: A Great Sci-Fi Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tcl-50s425-50-inch-roku-tv-2019-review/"><u>TCL 50S425 50-Inch Roku TV (2019) Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-cost-effective-chorus-in-depth-review-of-oneplus-buds/"><u>The Cost-Effective Chorus: In-Depth Review of OnePlus Buds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-google-pixel-3-analysis-reimagining-the-full-potential-of-android/"><u>The Google Pixel 3 Analysis: Reimagining the Full Potential of Android</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lowest-cost-ssls-and-their-capabilities/"><u>The Lowest Cost SSLs and Their Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-1byone-digital-hdtv-antenna-top-pick-in-the-market/"><u>The Ultimate Guide to the 1Byone Digital HDTV Antenna - Top Pick in the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-discounts-on-acer-laptops-and-accessories-during-prime-day-2024/"><u>Top Discounts on Acer Laptops & Accessories During Prime Day 2024</u></a></li>
 </ul></div>
 

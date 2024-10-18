@@ -1,7 +1,7 @@
 ---
 title: "Inside Look at Midland's LXT500VP3 Transceiver: High Capacity, Mixed Results on Usability"
-date: 2024-08-22T13:01:56.510Z
-updated: 2024-08-23T13:01:56.510Z
+date: 2024-10-17T16:27:21.547Z
+updated: 2024-10-18T18:04:51.759Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Look at Midland's LXT500VP3 Transceiver: High Capacity, Mixed Results on Usability"
@@ -37,9 +37,29 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.2
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -64,8 +84,12 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -88,18 +112,12 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## **Performance: Reliable, accurate, quick and loud**
 
  When we tested the tire inflator, we took it on a road trip that took us to the states of Nevada, Utah, Idaho, and Wyoming. Along the way, we stopped at rural rest areas and gas stations. In order to use them in the circumstances, they were designed for. Throughout it all, the Kensun Portable Tire Inflator never failed to work when we needed it.
@@ -121,24 +139,16 @@ Lifewire / Jeffrey Daniel Chadwick
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
 
  The Kensun Portable Tire Inflator is similar to the Jaco Digital Tire Inflator, they have similar cord and hose lengths, and can continually run for about half an hour. But the Kensun is more than twice the size of the Jaco, so it can deliver more power to fill your tires faster. Additionally, the Jaco lacks the ability to plug into an AC socket, so you can only use it in your car.
@@ -153,9 +163,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AC/DC Portable Air Pump Tire Inflator
@@ -172,8 +179,6 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +186,24 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-your-content-following-twitpic-rules/"><u>[New] Streamline Your Content Following Twitpic Rules</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-virtual-warriors-journey-7-intense-fps-games-for-2024/"><u>[New] Virtual Warriors’ Journey - 7 Intense FPS Games for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-exclusive-selection-of-elite-race-games/"><u>[Updated] Exclusive Selection of Elite Race Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-hdr-rating-does-aurora-deliver-quality/"><u>[Updated] HDR Rating Does Aurora Deliver Quality?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-developments-tentative-date-for-gpt-5/"><u>Artificial Intelligence Developments: Tentative Date for GPT-5?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-unveiling-the-features-and-value-of-microsoft-surface-studio-2/"><u>Comprehensive Review: Unveiling the Features and Value of Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-best-in-budget-tech-a-thorough-review-of-hisenses-40-inch-smart-tv-40h5590f/"><u>Discovering the Best in Budget Tech: A Thorough Review of Hisense's 40-Inch Smart TV (40H5590F)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficiently-resolving-startech-drivers-conflicts-across-multiple-windows-platforms/"><u>Efficiently Resolving StarTech Drivers Conflicts Across Multiple Windows Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-stellaris-an-in-depth-guide-to-interstellar-empires-and-alien-encounters/"><u>Exploring Stellaris: An In-Depth Guide to Interstellar Empires and Alien Encounters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gamers-guide-to-best-4k-laptop-models/"><u>Gamer's Guide to Best 4K Laptop Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722913445268-inside-the-world-of-affordable-tech-beantech-bitwatch-s1-plus-smartwatch-unveiled/"><u>Inside the World of Affordable Tech: Beantech Bitwatch S1 Plus Smartwatch Unveiled!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/motorola-one-5g-ace-revealed-breakneck-speed-on-5g-networks-and-robust-battery-capacity-reviewed-inside-out/"><u>Motorola One 5G Ace Revealed: Breakneck Speed on 5G Networks & Robust Battery Capacity Reviewed Inside Out</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-virtual-heavens-a-comprehensive-review-of-microsoft-fsx-gold-edition/"><u>Navigating the Virtual Heavens: A Comprehensive Review of Microsoft FSX Gold Edition</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/step-by-step-guide-to-toggle-hardware-acceleration-in-dvd-ripper-profree-dvd-ripperdvd-video-converter-software/"><u>Step-by-Step Guide to Toggle Hardware Acceleration in DVD Ripper Pro/Free DVD Ripper/DVD Video Converter Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-small-yet-powerful-asus-vivobook-11-an-in-depth-review-for-cost-effective-all-purpose-laptops/"><u>The Small yet Powerful Asus Vivobook 11: An In-Depth Review for Cost-Effective, All-Purpose Laptops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013259514-trouble-with-house-flipper-2-heres-how-to-resolve-pc-malfunctions-and-enjoy-gaming/"><u>Trouble with House Flipper 2? Here's How to Resolve PC Malfunctions and Enjoy Gaming!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/which-tablet-wins-in-the-battle-of-amazon-fire-vs-ipad-find-your-perfect-match/"><u>Which Tablet Wins in the Battle of Amazon Fire Vs. IPad - Find Your Perfect Match!</u></a></li>
+</ul></div>
 

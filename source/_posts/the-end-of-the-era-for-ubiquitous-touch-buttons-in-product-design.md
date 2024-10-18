@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-10-09T16:32:40.438Z
-updated: 2024-10-12T18:54:32.684Z
+date: 2024-10-16T16:33:58.592Z
+updated: 2024-10-18T18:31:24.946Z
 tags:
   - games
   - tv
@@ -42,10 +42,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -55,16 +55,10 @@ Tim Brookes / How-To Geek
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
@@ -76,10 +70,10 @@ Tim Brookes / How-To Geek
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -107,10 +101,10 @@ Tim Brookes / How-To Geek
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
@@ -132,19 +126,15 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-unfolding-wonders-your-practical-guide-to-travel-vlogging-for-2024/"><u>[Updated] Unfolding Wonders Your Practical Guide to Travel Vlogging for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-hub/"><u>Discover the Latest in Tech with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gamer-and-creator-upgrades-dive-into-the-performance-of-msis-advanced-aiplus-laptops-showcasing-unprecedented-speed-from-100-542-tops/"><u>Gamer and Creator Upgrades: Dive Into the Performance of MSI's Advanced AI+ Laptops, Showcasing Unprecedented Speed From 100-542 TOPS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a18-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo A18 Bootloader Easily</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-through-2024-a-comprehensive-review-of-top-performing-cable-modems/"><u>Navigating Through 2024: A Comprehensive Review of Top-Performing Cable Modems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgear-orbi-examined-why-its-the-premier-mesh-router-on-the-market-now/"><u>Netgear Orbi Examined: Why It's the Premier Mesh Router on The Market Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oceantunes-test-depth-defying-fidelity/"><u>OceanTunes Test: Depth Defying Fidelity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pooch-pics-reel-entertainment-in-family-settings/"><u>Pooch Pics Reel: Entertainment in Family Settings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/precision-control-with-sabrents-wireless-travel-mouse-ideal-for-on-the-go-productivity/"><u>Precision Control with Sabrent's Wireless Travel Mouse - Ideal for On-the-Go Productivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/readers-paradise-a-deep-dive-into-the-capabilities-of-the-nook-glowlight-4-edition/"><u>Readers' Paradise: A Deep Dive Into the Capabilities of the Nook GlowLight 4 Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-zen-masters-guide-to-zooming-your-youtube-livestreams/"><u>The Zen Master’s Guide to Zooming Your YouTube Livestreams</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/tutorial-complet-pour-effectuer-une-sauvegarde-et-un-restauration-fonctionnelles-sur-windows-server-2012-a-laide-de-wbadmin/"><u>Tutorial Complet Pour Effectuer Une Sauvegarde Et Un Restauration Fonctionnelles Sur Windows Server 2012 À L’aide De Wbadmin</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-12-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 12 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-every-frame-a-deep-dive-into-apowersoft-for-pcs/"><u>[New] 2024 Approved Capturing Every Frame A Deep Dive Into Apowersoft for PCs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-expertly-choosing-the-leading-5-facebook-video-grabers/"><u>[Updated] In 2024, Expertly Choosing the Leading 5 Facebook Video Grabers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-maximizing-your-youtube-investments-through-famebit-networking-tactics/"><u>2024 Approved Maximizing Your YouTube Investments Through FameBit Networking Tactics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converti-i-file-mpe-gratis-al-formato-ogg-con-leditore-online-movavi-scarica-e-usa-senza-costi/"><u>Converti I File MPE Gratis Al Formato OGG Con L'editore Online Movavi - Scarica E Usa Senza Costi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decoding-the-differences-apples-new-iphone-models-pro-and-pro-max-demystified/"><u>Decoding the Differences: Apple's New iPhone Models, Pro and Pro Max Demystified</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-high-definition-entertainment-without-breaking-the-bank-hisense-50-hdr-tv-analysis/"><u>Discover High Definition Entertainment without Breaking the Bank: Hisense 50 HDR TV Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-kobo-forma-a-sophisticated-e-reader-tailored-for-serious-readers/"><u>Discovering the Kobo Forma: A Sophisticated E-Reader Tailored for Serious Readers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-performance-a-comprehensive-review-of-the-samsung-galaxy-s10-smartphone/"><u>Elite Performance: A Comprehensive Review of the Samsung Galaxy S10 Smartphone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-14-free-video-editors-with-no-watermark-for-2024/"><u>Updated The Ultimate List 14 Free Video Editors with No Watermark for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/who-leads-the-streaming-race-twitch-vs-youtube-showdown/"><u>Who Leads the Streaming Race? Twitch vs YouTube Showdown</u></a></li>
 </ul></div>
 

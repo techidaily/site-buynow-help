@@ -1,7 +1,7 @@
 ---
 title: "The Motorola One Hyper Phenomenon: How This Mid-Range Phone Delivers Top-Notch Performance and Style"
-date: 2024-08-22T13:03:43.467Z
-updated: 2024-08-23T13:03:43.467Z
+date: 2024-10-13T17:42:00.074Z
+updated: 2024-10-18T17:41:47.558Z
 categories:
   - BestProducts
 description: "This Article Describes The Motorola One Hyper Phenomenon: How This Mid-Range Phone Delivers Top-Notch Performance and Style"
@@ -37,9 +37,23 @@ Lifewire / Bill Thomas
 
 3.4
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/CWSAqFXf9klr-Fs5mU-YkCpwF9Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Bill Thomas
 
@@ -77,17 +91,16 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
@@ -101,6 +114,13 @@ Lifewire / Bill Thomas
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -109,9 +129,6 @@ Lifewire / Bill Thomas
 
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Network Performance: Great when wired, but wireless speeds lag
 
  We didn’t exactly have high hopes for the C3700 and its N600 wireless rating. At its peak during testing, we reached wireless speeds of 130Mbps, but that didn’t last—with multiple devices connected and in use, we were seeing speeds as low as 40Mbps just a few feet away from the router.
@@ -122,9 +139,6 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Bill Thomas
 
 ## Software: No frills
@@ -138,17 +152,18 @@ Lifewire / Bill Thomas
  You can also download the Netgear Genie app on your phone, which allows you to manage your network from a more attractive interface. Much of the same functionality is here, but it might be a more approachable interface for those who don’t really know where to start with their router settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Price: It pays for itself
 
  The Netgear C3700 retails for $109.99, but you should be able to find it for less (as of the time of this writing, it’s on sale for about $95). At this price, the modem has a head start on paying for itself.
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
  The Arris Surfboard SBG6700-AC has the same 8x4 DOCSIS 3.0 cable rating but ups the wireless support to AC1600 speeds. This still isn’t top-of-the-line wireless speed—and it is a bit more expensive at $119 MSRP—but that extra cash is worth the improved network performance. However, the Arris model does not have a USB 2.0 port for network-attached storage or printers.
@@ -163,10 +178,6 @@ Lifewire / Bill Thomas
 * [Motorola MG7700](https://www.lifewire.com/motorola-mg7700-review-4589346)
 * [Netgear Nighthawk C7000](https://www.lifewire.com/netgear-nighthawk-c7000-review-4686068)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  C3700 Cable Modem Router
@@ -193,8 +204,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +211,17 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-diving-into-user-preferences-a-tiktok-vs-snapchat-breakdown-for-2024/"><u>[Updated] Diving Into User Preferences A TikTok Vs Snapchat Breakdown for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lg-vr-headgear-review-complete-immersion-unlocked/"><u>[Updated] LG VR Headgear Review Complete Immersion Unlocked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-streaming-technology-for-live-events/"><u>2024 Approved Top Streaming Technology for Live Events</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boost-your-viewing-experience-with-the-indoor-hdtv-antenna-from-1byone-digital-money-saving-review/"><u>Boost Your Viewing Experience with the Indoor HDTV Antenna From 1ByOne Digital - Money-Saving Review</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/complete-list-of-zero-cost-windows-1011-substitutes-a-thorough-guide/"><u>Complete List of Zero-Cost Windows 10/11 Substitutes: A Thorough Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/crafting-compelling-narratives-in-tiktok-the-top-5-caption-techniques-to-try/"><u>Crafting Compelling Narratives in TikTok The Top 5 Caption Techniques to Try</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-media-experience-in-depth-look-at-rokus-extensive-library-and-affordable-cost/"><u>Maximizing Your Media Experience: In-Depth Look at Roku's Extensive Library and Affordable Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-debuts-custom-gpt-solutions-store-how-you-can-dive-in-now/"><u>OpenAI Debuts Custom GPT Solutions Store – How You Can Dive In Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/serene-shores-must-have-gadgets-reviewed/"><u>Serene Shores: Must-Have Gadgets Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gaming-systems-in-2/"><u>Top Rated Gaming Systems in 2</u></a></li>
+</ul></div>
 

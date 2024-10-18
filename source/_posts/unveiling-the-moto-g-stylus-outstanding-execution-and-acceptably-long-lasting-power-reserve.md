@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Moto G Stylus: Outstanding Execution & Acceptably Long-Lasting Power Reserve"
-date: 2024-08-22T13:04:21.716Z
-updated: 2024-08-23T13:04:21.716Z
+date: 2024-10-16T16:23:45.395Z
+updated: 2024-10-18T17:26:08.535Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Moto G Stylus: Outstanding Execution & Acceptably Long-Lasting Power Reserve"
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
 ![Surviving Mars](https://www.lifewire.com/thmb/Em7mFCNB7ffPEBeVuQuFIJpvJyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
 [View On Steampowered.com](https://store.steampowered.com/app/464920/Surviving%5FMars/) [View On G2a.com](https://www.g2a.com/en-us/surviving-mars-first-colony-edition-steam-key-global-i10000147752001?)
@@ -62,8 +69,12 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Plot: Lots of options**
 
  For a city-building game, Surviving Mars offers a plethora of gaming options once you move past the tutorial. For example, when starting a game, you can choose who funds the colony, ranging from a United Space Federation to China to the United States. Each comes with its own perks and drawbacks, and creates new challenges for each scenario. You can also set more harsh conditions to create more fun[gameplay](https://www.lifewire.com/produce-videogame-videos-for-youtube-3562561) , as well as pick an area of land less suitable for human habitation.
@@ -75,8 +86,18 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Humans have never been so annoying**
 
  The game begins with a multi-hour long tutorial program, which I highly recommend you undertake before playing the game. There are so many various aspects to the game—basic needs, threats to your colony, resources to import and export—that it would be disastrous not to get caught up to speed. It took me a total of five hours to complete these tutorials, but I had to restart a couple after a couple operator error moments when I accidentally destroyed my only water vaporizer and had no idea how to rebuild it. So, it will probably take you less.
@@ -91,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
  The colonists also come with their own unique personality traits, from veganism to survivalist to alcoholic, so they all have their own service needs. You’ll have to factor this into your game as you build up your population. If someone doesn’t get their needs met, it can land them in the hospital, or worse, on a rocket back home. And don’t get me started on the chaos that erupts when humans start freezing during a cold spell or complain when they don’t have enough oxygen. The nerve of some colonists!
@@ -112,20 +130,21 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
 
 ![Surviving Mars](https://www.lifewire.com/thmb/xyO7-tOzWWRT_ffxzC7TaIMOwH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_03-9d30e99e7a0b4364bc86c4b40dfc99bf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## **Competition: Other city-building games**
 
  What makes Surviving Mars unique is that technically it is a city-[building game](https://www.lifewire.com/best-offline-building-games-4580415) , but instead of building bus lines, you have to build oxygen and water lines to ensure colony survival. However, just like city-building games, you are building infrastructure. If you’re solely focused on building up a city, Surviving Mars would be a great addition to your library, but so would[Cities: Skylines](https://store.steampowered.com/app/255710/Cities%5FSkylines/) (view on Steam). Both focus on creating a habitat from scratch—one just happens to be hundreds of thousands of miles away while the other could be in a tropical or a Midwestern climate.
@@ -138,9 +157,6 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Surviving Mars
@@ -153,14 +169,11 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 * Graphics  HD 4600/Geforce 620/Radeon 6450 or equivalent GPUs with 1 GB of video RAM
 * Game Updates  Green Planet, Project Laika, Space Race, Colony Design Set, Marsvision Song Contest
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +182,24 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-in-depth-look-at-obs-studios-full-screen-recorder-tools/"><u>[New] 2024 Approved In-Depth Look at OBS Studio's Full Screen Recorder Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-resolution-alteration-in-iphone-photography/"><u>[New] 2024 Approved Navigating Resolution Alteration in iPhone Photography</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-eliminate-camera-sway-no-tripods-allowed/"><u>[New] Eliminate Camera Sway No Tripods, Allowed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/awesome-value-4k-caixun-television-a-detailed-look-at-its-cutting-edge-functionality-in-our-review/"><u>Awesome Value 4K Caixun Television - A Detailed Look at Its Cutting-Edge Functionality in Our Review</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-tecno-spark-10-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Spark 10 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-the-most-out-of-oneplus-prime-day-specials-ultimate-deal-roundup/"><u>Get the Most Out of OnePlus Prime Day Specials: Ultimate Deal Roundup!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v15-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.5 document with electronic signature service</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synchronized-screenshots-pc-or-cloud-perfection/"><u>In 2024, Synchronized Screenshots PC or Cloud Perfection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-virtual-skies-with-ms-flight-simulator-x-gold-an-in-depth-review/"><u>Mastering Virtual Skies with MS Flight Simulator X (Gold): An In-Depth Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximize-engagement-top-5-costless-fb-update-planning-tips/"><u>Maximize Engagement: Top 5 Costless FB Update Planning Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/research-retailers-check-various-online-retailers-like-amazon-best-buy-or-directly-on-the-official-samsung-website-for-availability-and-pricing-sometimes-de133/"><u>Research Retailers: Check Various Online Retailers Like Amazon, Best Buy, or Directly on the Official Samsung Website for Availability and Pricing. Sometimes Deals and Discounts Can Be Found Through These Channels.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-j5-tactical-pro-flashlight-v1-reviewed-unmatched-resilience-in-a-compact-package/"><u>The J5 Tactical Pro Flashlight (V1) Reviewed: Unmatched Resilience in a Compact Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-battle-hero7-vs-other-action-cameras/"><u>The Ultimate Battle: HERO7 Vs. Other Action Cameras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-17-inch-laptop-picks/"><u>Top Rated 17-Inch Laptop Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-hp-laserjet-p2035-printer-drivers-on-windows-a-complete-guide/"><u>Troubleshooting HP LaserJet P2035 Printer Drivers on Windows: A Complete Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-the-best-cable-modems/"><u>Ultimate Guide to Choosing the Best Cable Modems</u></a></li>
+</ul></div>
 

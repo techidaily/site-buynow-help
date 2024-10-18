@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Evaluation of Kensun's Durable and Compact Portable Tire Inflator
-date: 2024-08-22T13:01:12.605Z
-updated: 2024-08-23T13:01:12.605Z
+date: 2024-10-11T17:27:38.215Z
+updated: 2024-10-18T18:30:41.835Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Evaluation of Kensun's Durable and Compact Portable Tire Inflator
@@ -64,8 +64,12 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -88,9 +92,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
@@ -98,8 +99,12 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Reliable, accurate, quick and loud**
 
  When we tested the tire inflator, we took it on a road trip that took us to the states of Nevada, Utah, Idaho, and Wyoming. Along the way, we stopped at rural rest areas and gas stations. In order to use them in the circumstances, they were designed for. Throughout it all, the Kensun Portable Tire Inflator never failed to work when we needed it.
@@ -121,15 +126,22 @@ Lifewire / Jeffrey Daniel Chadwick
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
 
  The Kensun Portable Tire Inflator is similar to the Jaco Digital Tire Inflator, they have similar cord and hose lengths, and can continually run for about half an hour. But the Kensun is more than twice the size of the Jaco, so it can deliver more power to fill your tires faster. Additionally, the Jaco lacks the ability to plug into an AC socket, so you can only use it in your car.
@@ -145,8 +157,12 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  AC/DC Portable Air Pump Tire Inflator
@@ -163,8 +179,6 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +186,21 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-new-best-facebook-story-savers-for-free-extensiononlinemobile-apps/"><u>[New] 2024 Approved NEW Best Facebook Story Savers for FREE [Extension/Online/Mobile Apps]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-building-blocks-for-movie-making-youtubes-framework-and-more/"><u>[New] Building Blocks for Movie Making YouTube's Framework & More</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-whats-in-it-for-a-million-youtube-viewers/"><u>[New] What’s in It for a Million YouTube Viewers?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-overcoming-connection-errors-in-path-of-exile-a-comprehensive-guide/"><u>Fixing the Issue: Overcoming Connection Errors in Path of Exile – A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-realme-c55-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Realme C55</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-se-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone SE? 5 Tips You Must Know</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-lenovo-thinkpad-x12-a-fantastic-detachable-with-an-impressive-and-comfortable-keyboard/"><u>In-Depth Look at the Lenovo ThinkPad X12: A Fantastic Detachable with an Impressive and Comfortable Keyboard</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mkv-mastery-best-mac-app-compilation/"><u>MKV Mastery Best Mac App Compilation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-spotlight-the-versatile-and-robust-maxoak-185wh50000mah-portable-charger/"><u>Review Spotlight: The Versatile and Robust MaxOak 185Wh/50,000mAh Portable Charger</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamlessly-weaving-melodies-using-audacitys-features/"><u>Seamlessly Weaving Melodies Using Audacity's Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-deal-on-laptop-cooling-technology-inside-the-topmate-c302-review/"><u>The Best Deal on Laptop Cooling Technology: Inside the TopMate C302 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-linksys-ea9500-router-unleashing-intelligent-connectivity/"><u>The Ultimate Guide to the Linksys EA9500 Router: Unleashing Intelligent Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-comprehensive-analysis-of-corsairs-one-pro-gaming-system/"><u>Unveiling the Powerhouse: Comprehensive Analysis of Corsair's One Pro Gaming System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-shift-to-an-electronic-book-collection/"><u>Why Shift to an Electronic Book Collection?</u></a></li>
+</ul></div>
 

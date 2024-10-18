@@ -1,7 +1,7 @@
 ---
 title: "Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide"
-date: 2024-10-06T18:13:03.773Z
-updated: 2024-10-12T18:28:39.366Z
+date: 2024-10-14T17:12:46.203Z
+updated: 2024-10-18T18:08:03.490Z
 tags:
   - games
   - tv
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 * [Using a PS5 Controller for Non-Steam PC Games](https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the Control Panel menu, click on "Devices and Printers."
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
@@ -62,25 +69,11 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Pairing and Configuring a PS5 Controller for Steam
 
@@ -91,15 +84,22 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
@@ -114,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
@@ -125,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
@@ -158,19 +158,24 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-producing-exceptional-igtv-content-on-mobile-and-dslrs/"><u>[New] The Ultimate Guide Producing Exceptional IGTV Content on Mobile & DSLRs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-most-reliable-speech-capture-for-ipads-3/"><u>[Updated] 2024 Approved Most Reliable Speech Capture for iPads #3</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-accurate-recordings-of-console-games-on-home-computers-for-2024/"><u>[Updated] Accurate Recordings of Console Games on Home Computers for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-morning-routine-revolution-with-totobay-wake-up-light-second-gen-insights/"><u>Affordable Morning Routine Revolution with Totobay Wake-Up Light - Second Gen Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/antop-at-127-user-review-high-quality-signal-with-a-sleek-design/"><u>ANTOP AT-127 User Review: High-Quality Signal with a Sleek Design</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-airpods-max-review/"><u>Apple AirPods Max Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/applecareplus-reviewed-are-you-getting-your-moneys-worth/"><u>AppleCare+ Reviewed: Are You Getting Your Money's Worth?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/asus-ax6000-rt-ax88u-masterclass-review-of-a-leading-smart-wi-fi-6-router-and-its-stellar-features/"><u>Asus AX6000 RT-AX88U: Masterclass Review of a Leading Smart Wi-Fi 6 Router and Its Stellar Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-must-watch-lgbtq-content-on-netflix-this-july/"><u>Discover the Must-Watch LGBTQ Content on Netflix This July</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-ai-6-principles-to-propel-your-professional-life/"><u>Harnessing AI: 6 Principles to Propel Your Professional Life</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-decoding-discord-spoilers-in-minutes/"><u>In 2024, Decoding Discord Spoilers in Minutes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-xcover-6-pro-tactical-edition-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy XCover 6 Pro Tactical Edition Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/user-guide-to-navigating-and-benefiting-from-googles-calling-solutions/"><u>User Guide to Navigating and Benefiting From Google's Calling Solutions</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-13t-pro-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Xiaomi 13T Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-perfect-your-passport-portrait-a-compilation-of-top-10-free-tools/"><u>[New] In 2024, Perfect Your Passport Portrait A Compilation of Top 10 Free Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capture-audio-waveforms-and-vocal-tracks/"><u>2024 Approved Capture Audio Waveforms & Vocal Tracks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-power-of-visual-effects-in-editing/"><u>2024 Approved Exploring the Power of Visual Effects in Editing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-plex-media-player-centralized-home-entertainment/"><u>In 2024, Plex Media Player Centralized Home Entertainment</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-the-pros-and-cons-of-apple-books-app/"><u>In-Depth Analysis: The Pros and Cons of Apple Books App</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-why-the-amazonbasics-12-sheet-security-shredder-is-a-must-have-for-document-safety/"><u>In-Depth Analysis: Why the AmazonBasics 12-Sheet Security Shredder Is a Must-Have for Document Safety</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/instant-video-post-how-to-turn-mp3s-into-youtube-playables-for-2024/"><u>Instant Video Post How to Turn MP3s Into YouTube Playables for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-your-ipad-behind-the-times-a-modern-tech-dilemma/"><u>Is Your iPad Behind the Times - A Modern Tech Dilemma</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-trackers-for-marathoners-the-ultimate-guide/"><u>Leading Trackers for Marathoners: The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-usb-wireless-routers-the-definitive-list-of-2024-picks/"><u>Leading USB Wireless Routers: The Definitive List of 2024 Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-chromebook-duet-review-low-budget-2-in-1/"><u>Lenovo Chromebook Duet Review: Low Budget 2-In-1</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-tablet-4-reviewed-great-deals-some-drawbacks/"><u>Lenovo Tablet 4 Reviewed: Great Deals, Some Drawbacks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovos-ideapad-examined-an-uncomplicated-laptop-with-a-superior-framework/"><u>Lenovo's Ideapad Examined - An Uncomplicated Laptop with a Superior Framework</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/seamless-streaming-and-web-browsing-on-the-go-with-the-cost-effective-lenovo-tab-m10-hd-2020-model-unveiled/"><u>Seamless Streaming and Web Browsing on the Go with the Cost-Effective Lenovo Tab M10 HD - 2020 Model Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-msvcp140dll-absence-correctly/"><u>Solving MSVCP140.dll Absence Correctly</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gamers-switching-strategy/"><u>The Ultimate Gamer's Switching Strategy</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-the-driververifierdetectedviolation-blue-screen-error-in-windows/"><u>Troubleshooting and Solving the DRIVER_VERIFIER_DETECTED_VIOLATION Blue Screen Error in Windows #</u></a></li>
 </ul></div>
 

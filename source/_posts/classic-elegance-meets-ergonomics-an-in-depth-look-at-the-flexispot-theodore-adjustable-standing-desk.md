@@ -1,7 +1,7 @@
 ---
 title: "Classic Elegance Meets Ergonomics: An In-Depth Look at the Flexispot Theodore Adjustable Standing Desk"
-date: 2024-08-22T13:04:39.511Z
-updated: 2024-08-23T13:04:39.511Z
+date: 2024-10-17T17:48:46.081Z
+updated: 2024-10-18T17:53:45.107Z
 categories:
   - BestProducts
 description: "This Article Describes Classic Elegance Meets Ergonomics: An In-Depth Look at the Flexispot Theodore Adjustable Standing Desk"
@@ -67,11 +67,21 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/EUqklfDyxuB1ye8-DBboDrjzkUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-2-225f5107c7b74f159afecba8c3f6174a.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Cute and compact**
 
  It's hard not to swoon at the sight of the Switch Lite. The handheld console is cute and compact, featuring unique color options, bright white buttons, and joysticks wrapped around a downsized screen. The whole unit is about the size of a beefy phablet. The screen alone is about the size of an iPhone SE.
@@ -98,9 +108,6 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/7502vZ1Vh2D4nRux6hEnq4BL3Rk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-5-2fb7aa309cc54dd79c07bd799ef7fe84.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
 ## **Setup Process: Hit the switch**
@@ -167,14 +174,15 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/KxMaFgooi4rm3qbImmLKatuUtVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-4-ef84dbbbde3d48ff97515e5c6b9981a4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Still a bit drab, but smooth and snappy**
 
  If you’ve got an older Switch already or at least spent some time with one, the software found on the Switch Lite is exactly the same. Thankfully, that means it’s clean and snappy, but also a bit boring.
@@ -191,10 +199,14 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/eFyBn6jL7cdHOO4q7zc6pALdQzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-6-42a5bc5ea4e544bdb6d3fbbd074583c2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery Life: Slightly better, but not the best**
 
@@ -210,9 +222,6 @@ Lifewire / Zach Sweat
 
  Lastly, the battery is internal, so you can't easily pop in a new one when it starts to degrade. While I haven't seen any degradation with mine, it'll happen at some point. When it does, sending it to Nintendo for repair is the only real option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Inexpensive console gaming in your hands**
 
  It’s no surprise that since Nintendo removed many features from the Switch to create the Lite model, the price has also decreased considerably. The Switch is already at a pretty sweet price of $300, so how does the Lite stack up?
@@ -221,11 +230,15 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/7XA6hgAK2B4hDSlWdmB8VQddrjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-7-Comparison-44dcf88ec51247a2b0756445a3c7884d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## **Nintendo Switch Lite vs. Nintendo Switch**
 
  The biggest competitor to the Switch Lite is the original Switch. Nintendo has done an excellent job with both of these devices, but they each have some strengths and weaknesses you should consider before buying.
@@ -246,6 +259,13 @@ Lifewire / Zach Sweat
 
  Despite being stripped of some of the Switch’s more unique features and strengths, the Switch Lite is a perfect console for gamers on the go or those who prefer handheld. It features an extensive library of exclusives that are perfect for a highly mobile system like Animal Crossing—and it’s hard to argue with the price.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 [Nintendo Switch Review](https://www.lifewire.com/nintendo-switch-review-4707563)
@@ -255,6 +275,13 @@ Lifewire / Zach Sweat
 [Xbox Series S Review](https://www.lifewire.com/xbox-series-s-review-5085770)
 
 [Sony PlayStation 5 Review](https://www.lifewire.com/sony-playstation-5-review-5088394)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -279,8 +306,6 @@ Lifewire / Zach Sweat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +313,24 @@ Lifewire / Zach Sweat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-comprehensive-exploration-of-polarrs-advanced-image-tools/"><u>[Updated] In 2024, Comprehensive Exploration of Polarr's Advanced Image Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-secure-total-visual-display-for-2024/"><u>[Updated] Secure Total Visual Display for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-techniques-locating-ip-and-mac-in-windows-ps/"><u>Advanced Techniques: Locating IP & MAC in Windows PS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-tp-link-archer-c50-router-assessment-low-cost-meets-competent-performance/"><u>Affordable TP-Link Archer C50 Router Assessment - Low Cost Meets Competent Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-value-computers-a-comprehensive-acer-aspire-e-tine-review/"><u>Best Value Computers: A Comprehensive Acer Aspire E Tine Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-resolve-stop-0x0000003d-windows-crashes-efficiently/"><u>Comprehensive Strategies to Resolve Stop 0X0000003D Windows Crashes Efficiently</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-how-bouncies-connected-drive-device-offers-simple-navigation-for-less/"><u>Discover How Bouncie's Connected Drive Device Offers Simple Navigation for Less!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-a-great-convertible-and-inexpensive-asus-chromebook-with-our-detailed-review/"><u>Experience a Great, Convertible & Inexpensive Asus Chromebook with Our Detailed Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-enhanced-connectivity-with-synology-rt2600ac-wi-fi-router-parental-controls-included/"><u>Experience Enhanced Connectivity with Synology RT2600ac Wi-Fi Router: Parental Controls Included</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-beantech-bitwatch-s1-plus-an-in-depth-review-of-a-stellar-budget-smartwatch-choice/"><u>Exploring the Beantech Bitwatch S1 Plus - An In-Depth Review of a Stellar Budget Smartwatch Choice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-new-features-of-samsung-galaxy-watch4-retro-style-with-todays-innovations-reviewed/"><u>Exploring the New Features of Samsung Galaxy Watch4: Retro Style with Today's Innovations Reviewed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-x-fold-2-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo X Fold 2 FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-v29-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo V29 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-blog.techidaily.com/personal-guide-eliminating-black-screen-issues-in-your-persona-groovy-5-strikers-adventure/"><u>Personal Guide: Eliminating Black Screen Issues in Your Persona Groovy 5 Strikers Adventure</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/swift-listening-on-spotify-how-to-accelerate-audio-safely/"><u>Swift Listening on Spotify How to Accelerate Audio Safely</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-external-hard-drive-models-buyers-guide/"><u>Top Rated External Hard Drive Models - Buyer's Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-guide-test-drive-the-google-nest-doorbell-with-batteries/"><u>User Guide: Test Drive the Google Nest Doorbell with Batteries</u></a></li>
+</ul></div>
 

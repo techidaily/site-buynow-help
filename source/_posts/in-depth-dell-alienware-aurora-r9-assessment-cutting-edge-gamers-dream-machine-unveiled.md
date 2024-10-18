@@ -1,7 +1,7 @@
 ---
 title: In-Depth Dell Alienware Aurora R9 Assessment - Cutting-Edge Gamer's Dream Machine Unveiled
-date: 2024-08-22T13:03:07.391Z
-updated: 2024-08-23T13:03:07.391Z
+date: 2024-10-12T17:52:05.901Z
+updated: 2024-10-18T18:29:15.862Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Dell Alienware Aurora R9 Assessment - Cutting-Edge Gamer's Dream Machine Unveiled
@@ -70,8 +70,12 @@ Lifewire / Erika Rawes
  On paper, the Alienware Aurora R11 gaming PC looks like a winner. With a 10th generation[Intel](https://www.lifewire.com/amd-vs-intel-which-processor-is-best-for-you-4780276) processor and a multitude of configuration options, the R11 lets you choose an up-to-date PC that fits in your price range now, and then upgrade later on. The Dell subsidiary's latest beast comes in six main configurations, ranging from a base model (priced at $930) all the way up to a top tier model that includes two graphics cards (priced at $4,956). I tested the Alienware Aurora R11 for two weeks, evaluating its design, performance, gameplay, audio, network performance, software, upgradability, and cooling. Is the Alienware Aurora R11 a worthwhile investment? Here’s my full review.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Test model: 10th Gen Intel Core i7 10700F and NVIDIA GeForce RTX 2060**
 
  The Aurora R11 is extremely customizable, and you can choose exactly the components you want. You can select either a 10th Gen Core i5, i7, or i9 processor, and for graphics, you can get the NVIDIA GeForce GTX 1650 SUPER if you go for the base model, or go all the way up to two (yes, two!) NVIDIA GeForce RTX 2080 Ti cards in the highest tier model.
@@ -83,8 +87,12 @@ Lifewire / Erika Rawes
 ![Alienware Aurora R11](https://www.lifewire.com/thmb/hRBDZ5clhMthsEMeqGYzOi7oIE8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Alienware-Aurora-R11-Desktop-PC-2-e6bece84be7c48a3af3db3806a85a31e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Design: A mature gaming rig**
@@ -105,6 +113,13 @@ Lifewire / Erika Rawes
 
 ![Alienware Aurora R11](https://www.lifewire.com/thmb/JFFJbdkvNwhJ-T2_-B88xFQhCNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Alienware-Aurora-R11-Desktop-PC-4-d7147c6bd520432285a9f2e58f788322.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Performance: An absolute powerhouse**
@@ -115,9 +130,6 @@ Lifewire / Erika Rawes
 
  Boot times are fast, and it jumps around different applications at lightning speed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Gaming: Played most games on the highest settings**
 
  Although the rig I tested is a lower level Alienware Aurora R11 model, this is by no means a lower level gaming desktop. I would say it’s an upper-to-mid range, as it deftly handled most games on the highest level settings. The first game I tested was[_Destiny 2_](https://www.liveabout.com/destiny-2-cheat-codes-4158004) , not the most graphically intensive game but no slouch either, and it can definitely lag on some machines during intense action sequences. With the vsync cap set at 60, I turned_Destiny 2_ up to its highest setting, and it ran at a solid 60 FPS throughout.
@@ -133,15 +145,33 @@ Lifewire / Erika Rawes
  The R11 handled Far Cry 5’s internal benchmark, and it maintained lag-free gaming on the ultra settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Productivity: Free optional keyboard and optical mouse**
 
  The Aurora R11 is designed as a gaming PC, but you could absolutely use it for work. Since this PC has ample processing power and gaming-grade graphics, you could also use it for photo or video editing. The R11 includes a free keyboard and optical mouse, but you have to specifically indicate that you want those free options. Otherwise, you’ll just get the tower and power cord.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Audio: 7.1 surround sound**
 
  The R11 has a number of options for audio sources, including ports for connecting a microphone, headphones, and[surround sound speakers](https://www.lifewire.com/what-is-surround-sound-1846802) . It even has an optical audio port. You should have no problem finding an audio solution that fits your needs. The R11 doesn’t include speakers in the box, but it does have integrated 7.1 channel audio (with SPDIF port).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network: Want Wi-Fi 5 or Wi-Fi 6?**
 
@@ -153,9 +183,6 @@ Lifewire / Erika Rawes
 
 ![Alienware Aurora R11](https://www.lifewire.com/thmb/sCKseoBNmM15udE4RMrggTlWuBs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Alienware-Aurora-R11-Desktop-PC-5-6b37b663752e4eada4c8832152dd9882.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Erika Rawes
 
 ## **Software: Alienware Command Center**
@@ -166,6 +193,13 @@ Lifewire / Erika Rawes
 
  Another application, Alienware Mobile Connect, lets you connect your PC to your mobile device. You can do things like a text from the application, make calls, access images and contacts, and mirror your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Cooling: Air cooling vs. liquid cooling**
 
  The R11 comes in[air cooled](https://www.lifewire.com/best-laptop-cooling-pads-4149823) or[liquid cooled](https://www.lifewire.com/what-is-liquid-cooling-832445) configurations. I tested an air-cooled configuration. There’s a fan in the front that sucks air into the PC, and then there’s larger venting along the top and sides that helps push the air through the PC to cool down the processors. The fans are strategically placed for the optimal airflow, with a fan on the top that helps promote air circulation.
@@ -174,9 +208,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Upgradability: A latch system**
 
  The R11 is not quite as easy to open as a chassis with an easy-remove glass side panel, but it still offers easy upgradability. The tower opens with a lock and latch system that releases the side panel. Once you remove the side panel, you can move the power supply out of the way so you can better access the internals.
@@ -189,18 +220,12 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Not bad**
 
  The price of your R11 is going to vary widely depending on how much you want to put into it. You can get an Aurora R11 for under a grand though. The R11 configuration I tested retails for $1410, but it was $30 less because the test model included the lower tier chassis (without RGB lighting in the word “Alienware” along the side). For the lower tier models, the prices are reasonable, and you can upgrade the PC later on.
 
  For the higher tier models, the prices are steep. The highest tier R11 costs just under five grand. For that price, many people would be happier building their own rig.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Alienware Aurora R11 vs. HP Omen Obelisk**
 
  The[HP Omen Obelisk](https://www.lifewire.com/hp-omen-obelisk-review-5072832) has a clean design, with sharp lines and angles and a glass side panel. It’s very different from the R11’s oval-shaped jet engine style. The Obelisk comes in different configurations, and the lowest tier model is $900 (comparable to the lowest tier Aurora R11). The lowest tier Obelisk includes the AMD Ryzen5 3500 Processor and the NVIDIA GeForce GTX 1660 (6 GB), while the lowest tier Aurora includes a 10th gen[Intel](https://www.lifewire.com/amd-vs-intel-which-processor-is-best-for-you-4780276) i5 processor and the NVIDIA GeForce GTX 1650 SUPER 4GB GDDR6\. The Aurora R11 has 10th gen Intel processors in all of its configurations, and it offers the option for a much higher level system.
@@ -211,10 +236,6 @@ Lifewire / Erika Rawes
 
  The Aurora R11 could replace its predecessor as the best gaming desktop of the year.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Aurora R11
@@ -240,8 +261,6 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -249,4 +268,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-best-practices-for-saving-screen-and-webcam-chats-for-2024/"><u>[New] Best Practices for Saving Screen and Webcam Chats for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-rapid-capture-technique-timelapse-toptech/"><u>[New] In 2024, Rapid Capture Technique Timelapse #TopTech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quiet-cinematic-dialogue-draft/"><u>[Updated] Quiet Cinematic Dialogue Draft</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boost-your-macbook-written-in-the-stars-the-ssd-upgrade-journey/"><u>Boost Your MacBook' Written in the Stars: The SSD Upgrade Journey</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/breaking-down-the-benefits-a-detailed-analysis-of-the-asus-zephyrus-g14-for-serious-gamers/"><u>Breaking Down the Benefits: A Detailed Analysis of the Asus Zephyrus G14 for Serious Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-google-nest-hello-doorbells-capabilities-secure-entry-recognition-and-advanced-delivery-notifications/"><u>Explore the Google Nest Hello Doorbell's Capabilities: Secure Entry Recognition and Advanced Delivery Notifications</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/feeling-refreshed-after-purging-my-youtube-watchlist-from-over-a-decade-heres-why-you-should-too/"><u>Feeling Refreshed After Purging My YouTube Watchlist From Over a Decade - Here's Why You Should Too!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fire-tv-with-insignia-ns-43df710na19-alexa-voice-control-and-stunning-4k-experience-at-great-value/"><u>Fire TV with Insignia NS-43DF710NA19: Alexa Voice Control & Stunning 4K Experience at Great Value</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tudents-discover-the-top-10-historical-youtube-channels-now/"><u>For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/hitchless-guide-to-gaming-consoles-refunds-xbox/"><u>Hitchless Guide to Gaming Consoles Refunds (Xbox)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hp-budget-laptop-review-amd-chip-inside-does-the-affordable-notebook-meet-your-needs/"><u>HP Budget Laptop Review - AMD Chip Inside: Does the Affordable Notebook Meet Your Needs?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-xs-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone XS Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-11-pro-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 11 Pro Without a Home Button</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-setup-the-top-quality-4k-dslr-mounts-guide/"><u>In 2024, Premium Setup The Top-Quality 4K DSLR Mounts Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smarter-choices-for-your-home-entertainment-system-dvr-considerations/"><u>Smarter Choices for Your Home Entertainment System: DVR Considerations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-balancing-act-of-tech-excellence-in-the-google-pixel-5-review-moderate-muscle-with-luxury-attributes/"><u>The Balancing Act of Tech Excellence in the Google Pixel 5 Review: Moderate Muscle with Luxury Attributes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-xbox-one-x-dominating-todays-gaming-console-arena/"><u>Ultimate Guide: Xbox One X - Dominating Today's Gaming Console Arena</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-the-samsung-galaxy-a75g-makes-a-perfect-alternative-to-expensive-flagship-phones-reviewed/"><u>Why the Samsung Galaxy A7^5G Makes a Perfect Alternative to Expensive Flagship Phones – Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pef-jpeg/"><u>오토바이오드에서 제공되는 무료 PEF JPEG 암호화 해제 소프트웨어</u></a></li>
+</ul></div>
 

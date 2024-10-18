@@ -1,7 +1,7 @@
 ---
 title: "Evaluating iBuyPower's Tailored Gaming Computers: Striking Balance Between Might & Worth"
-date: 2024-08-22T13:04:48.701Z
-updated: 2024-08-23T13:04:48.701Z
+date: 2024-10-16T16:39:07.241Z
+updated: 2024-10-18T17:46:18.423Z
 categories:
   - BestProducts
 description: "This Article Describes Evaluating iBuyPower's Tailored Gaming Computers: Striking Balance Between Might & Worth"
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
 
  I played the game on PC for several days, but it’s also available on all other major platforms including the upcoming[Xbox Series X](https://www.lifewire.com/price-release-date-specs-xbox-series-x-5077092) , Xbox One, upcoming[PlayStation 5](https://www.lifewire.com/playstation-5-4778089) , and PlayStation 4\.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Story: A lot going on, and none of it to be spoiled**
 
  There’s a lot to say here, but not much that can be said without spoilers. Given how engaging I found the plot, it would be a shame to spoil it in any way. Suffice it to say that, though it begins as a typical revenge story, it soon becomes more complex and interesting. You play as Eivor, a male or female warrior who raids England during the reign of Alfred the Great.
@@ -73,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
  Aside from the basis in history, there are fascinating mythological elements to the storyline, and obviously, much attention was paid to crafting an authentic recreation of the cultures being represented here. The game does a good job of focusing on telling a story about Vikings, while also working the series namesake “Assassins” into the mix in a plausible manner.
 
 ![AC Vallhalla 2](https://www.lifewire.com/thmb/pWujlWPf0ylYYpeoTEbp7X8U0yM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-4-07677871281c40a384f2df55f83e86a4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -84,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
 
 ![AC sneak](https://www.lifewire.com/thmb/Vk4XvoE4lJwcjde1C_tJUVBc0Ac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-9-a5e8ef2a5bef455d8cbaa9e749167f53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andy Zahn
 
 ## **Gameplay: Easy to pick up, challenging to master**
@@ -105,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
 
 ![AC Valhalla 3](https://www.lifewire.com/thmb/giaP-JV9QK6uFcdU_di4iWkvszw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-5-56a01de51a2a4540ae8650bece502873.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Andy Zahn
 
  Combat is fast, brutal, and varied with deep customization and different potential approaches. There are many ways to approach each situation, and none of them are wrong. You can sneak in and pick the enemy off one by one, dumping their carcasses in bushes so as not to tip off their friends, or you can nail them from a distance with arrows. Alternatively, you can stride in, axes twirling, and cut a bloody swath through your foes.
@@ -123,8 +131,12 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
 ![AC ship](https://www.lifewire.com/thmb/n9S5L4JClTiqP1vYa_7cTGw6o0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-7-d89d4a9941b8488ea6ef1aeba6486895.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
 ## **Difficulty and Content Settings: Lots to customize**
@@ -141,9 +153,6 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Customization: Lots of stuff to tweak**
 
  As in Odyssey, the game allows you to play as either male or female, and offers a range of cosmetic options, mainly by way of tattoos and hairstyles. New tattoo patterns are acquired through parkour challenges. What’s more interesting is the gameplay affecting clothing and weapons that alter your appearance—I particularly appreciated that upgrading those items affects their looks. You can choose from different ravens and horses, and change the appearance of your longship. Eventually, you will also be able to customize the appearance of your settlement.
@@ -151,9 +160,12 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
  I was particularly struck by the amber rays of the setting sun that slanted through the rigging of my longboat as I returned from a mountain climbing excursion.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Graphics: Epic good looks**
 
  Valhalla is an absolutely gorgeous game. Everything from the detailed character models to the vibrant open world is beautiful to look upon. Changing weather alters the mood of landscapes, and can create breathtaking moments. I was particularly struck by the amber rays of the setting sun that slanted through the rigging of my longboat as I returned from a mountain climbing excursion.
@@ -163,6 +175,13 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
 ![AC Mountain](https://www.lifewire.com/thmb/YazM4IIiw6qfR_cd-AfR8Cek9pg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-10-b813058de14c4b92978d22f84715ab98.jpg)
 
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process and Performance: A rough start**
 
@@ -174,29 +193,34 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
 
 ![AC ruins](https://www.lifewire.com/thmb/R1pb8_CqlpJqAmK9Ka9-pgyOyJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-3-ea07cee8afaa4cc89c4e2bb286b894a0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Andy Zahn
 
  On a[gaming PC](https://www.lifewire.com/best-gaming-pcs-4045451) with a more powerful processor, more RAM, and an RTX 2070[GPU](https://www.lifewire.com/best-graphics-cards-4692676) , I didn’t encounter any glitches. However, the game is extremely power-hungry, and I was only able to run it at max settings with 60fps at 1080p. Ubisoft titles are known for being poorly optimized at launch, so this game should perform better after a few patches. Still, it’s clearly designed for next-gen consoles and the latest PC hardware. If you are playing on PC, be sure to utilize the benchmarking tool to find the ideal settings for your system.
 
  Of course, if you’re playing on[console](https://www.lifewire.com/best-gaming-consoles-4154610) you don’t have to worry about performance issues since the game is better optimized. It’s currently available for Xbox One and PlayStation 4, and will be available for the Xbox Series X and PlayStation 5 at launch. You can also get it on[Google Stadia](https://www.lifewire.com/google-stadia-review-4788032) .
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Typical AAA**
 
  The base game will set you back the typical $60, while the gold edition bundles in the season pass and costs a full $100\. That will include the planned expansions which will add Ireland and France to the map. Expensive though $100 is, it does promise a potentially huge amount of content. The game also has microtransactions, which is a bit of a bummer, though these weren’t integrated into the game at the time of writing.
 
 ![AC horse](https://www.lifewire.com/thmb/teY5MG-6xAT5sxNurIFy_iYPPvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-2-58ab82ef1f624e01b1c1c6dab8bca06b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Assassin’s Creed: Valhalla vs. Watch Dogs: Legion**
 
  It’s interesting that Ubisoft decided to launch two third-person action games set in England within a span of a few weeks. Where Valhalla is set in the Middle Ages,[Watch Dogs: Legion](https://www.lifewire.com/watch-dogs-legion-review-a-new-setting-for-the-series-5085469) is set in a near-future sci-fi dystopia, though in both games you are battling against tyrannical rulers in England. Choose Watch Dogs if you want sci-fi focused on hackers and non-violent solutions, and Valhalla if you love bloody medieval fighting and exploration.
@@ -207,23 +231,6 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
 
  Assassin’s Creed: Valhalla exceeds, as Assassin’s Creed games so often do, in creating the most painstakingly detailed virtual recreation of a place and period possible. It’s got exploration, intense combat, and enthralling stories by the bucket full, and it’s easy to get lost in its sheer scope and scale. Just beware if you’re playing on a PC that will test the limits of your gaming rig.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Assassin's Creed Valhalla (PC)
@@ -232,14 +239,11 @@ Key features:
 * Platforms  PC, Xbox Series X, Xbox One, PlayStation 5, PlayStation 4, Stadia
 * Rating  M
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -248,4 +252,22 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-astonishing-freeness-of-screen-dance-duels-for-2024/"><u>[New] Astonishing Freeness of Screen Dance Duels for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-essential-windows-video-editing-software-for-professional-use/"><u>[New] In 2024, Essential Windows Video Editing Software for Professional Use</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-secrets-revealed-mastering-minecraft-recordings-on-a-macbook-pro/"><u>[New] Secrets Revealed Mastering Minecraft Recordings on a MacBook Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-zenith-pinnacle-software-testing/"><u>[Updated] 2024 Approved Zenith Pinnacle Software Testing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laughlens-pictorial-humor-studio/"><u>[Updated] LaughLens Pictorial Humor Studio</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-tale-of-three-ais-facing-the-same-crafted-prompts/"><u>A Tale of Three AI's Facing the Same Crafted Prompts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-visual-performance-a-tutorial-on-graphics-card-replacement/"><u>Enhancing Visual Performance: A Tutorial on Graphics Card Replacement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-affordability-and-quality-the-49-lg-um7300-ultra-hd-tv-unveiled/"><u>Evaluating Affordability and Quality: The 49'' LG UM7300 Ultra HD TV Unveiled</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-v-purse-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor V Purse Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-photography-playbook/"><u>In 2024, The Ultimate iPhone Photography Playbook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-netgear-ex6200-ac1200-wifi-booster-reviews-and-performance/"><u>In-Depth Analysis: Netgear EX6200 AC1200 WiFi Booster - Reviews & Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-duality-of-nikons-affordable-a10-model/"><u>The Duality of Nikon's Affordable A10 Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-servers-and-rack-units-for-businesses-2024-edition/"><u>The Premier Selection of Servers & Rack Units for Businesses, 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-power-companion-in-depth-look-at-the-chargetech-27000mah-battery/"><u>The Ultimate Power Companion: In-Depth Look at the ChargeTech 27000mAh Battery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranked-philips-somneo-clock-review-a-master-of-timekeeping/"><u>Top-Ranked Philips Somneo Clock Review: A Master of Timekeeping</u></a></li>
+</ul></div>
 

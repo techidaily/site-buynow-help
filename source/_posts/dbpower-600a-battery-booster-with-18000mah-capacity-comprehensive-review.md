@@ -1,7 +1,7 @@
 ---
 title: DBPower 600A Battery Booster with 18,000mAh Capacity - Comprehensive Review
-date: 2024-08-22T13:04:42.943Z
-updated: 2024-08-23T13:04:42.943Z
+date: 2024-10-16T16:51:12.787Z
+updated: 2024-10-18T16:31:21.427Z
 categories:
   - BestProducts
 description: This Article Describes DBPower 600A Battery Booster with 18,000mAh Capacity - Comprehensive Review
@@ -36,6 +36,19 @@ thumbnail: https://www.lifewire.com/thmb/jW9dJTpk3iyrWiSj4xxjbVltEZg=/400x300/fi
 [Buy on Amazon](https://www.amazon.com/dp/B072BD98CM?tag=lifewire-onsite-prod-20&%2F=&ascsubtag=5071991%7Cn210c12f6fa164d19b551ef300c5549c018%7C)
 
 4.9
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZMI PowerPack 20000
 
@@ -79,18 +92,12 @@ thumbnail: https://www.lifewire.com/thmb/jW9dJTpk3iyrWiSj4xxjbVltEZg=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Andrew Hayward
 
 ## **Setup Process: Easy does it**
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## **Charging Speed and Battery: It keeps going**
 
  The ZMI PowerPack 20000 has a hearty 20,000mAh cell within, and it charged my devices quickly without fully depleting the brick. I charged a[2019 MacBook Pro](https://www.lifewire.com/apple-macbook-pro-13-inch-2019-review-4770116) (13-inch) laptop from 0 percent to 100 percent in just 1 hour, 53 minutes using the ZMI PowerPack 20000’s USB-C PD port, with an effective charging rate of 42.92W (14.8Vx2.9A). When the charging process was complete, the PowerPack still had one light illuminated, indicating that there was still a little bit of battery life remaining.
@@ -102,22 +109,14 @@ Lifewire / Andrew Hayward
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: It’s a bargain**
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal. Granted, the maximum USB-C PD output of 45W won’t charge some super-powered laptops—but for compatible laptops, as well as smartphones, tablets, and other portable electronics, it’s very well priced.
@@ -125,9 +124,12 @@ Lifewire / Andrew Hayward
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
 
  ZMI’s PowerPack 20000 is about half the size and weight of the[Mophie Powerstation AC](https://www.lifewire.com/mophie-powerstation-ac-review-5071990) (see on[Amazon](https://www.amazon.com/dp/B078GYSBVR?linkCode=ogi&th=1&psc=1&tag=lifewire-onsite-prod-20&ascsubtag=5071991%7Cn210c12f6fa164d19b551ef300c5549c018%7C) ), which has a AC power port on one end, not to mention a larger 24,000mAh cell. Those are both stellar benefits, plus the fabric-lined exterior gives it a distinctive allure. That said, Mophie’s pack sells for $200, and we’d only recommend it if you must have the AC power outlet for charging a power-hungry laptop. If the ZMI PowerPack 20000 will meet your charging needs, however, it’s a much better bargain.
@@ -139,8 +141,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  PowerPack 20000
@@ -152,14 +158,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * Ports  1x USB-C, 2x USB-A
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +171,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-fixing-the-quake-tips-for-steadying-gopro-videos/"><u>[New] Fixing the Quake Tips for Steadying GoPro Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-boosting-engagement-and-followers-in-igtv-with-smart-hash-tagging/"><u>[Updated] 2024 Approved Boosting Engagement and Followers in IGTV with Smart Hash Tagging</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/find-and-compare-the-best-online-sites-for-shopping-smart-televisions/"><u>Find and Compare the Best Online Sites for Shopping Smart Televisions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-macro-to-superzoom-powershot-sx70s-versatility/"><u>From Macro to Superzoom: PowerShot SX70's Versatility!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gameplay-and-artistry-collide-in-the-revamped-demons-souls-a-comprehensive-overview/"><u>Gameplay and Artistry Collide in the Revamped Demon's Souls – A Comprehensive Overview</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-11-pro-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 11 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-video-magic-best-tools-for-effortless-webm-conversion/"><u>In 2024, YouTube Video Magic Best Tools for Effortless WebM Conversion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-investigation-vll-on-app-standards/"><u>Innovative Investigation VLL on App Standards</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-issues-in-apple-app-based-gift-exchange-the-five-main-culprits/"><u>Navigating Through Issues in Apple App-Based Gift Exchange: The Five Main Culprits</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/score-big-with-samsung-limited-time-prime-day-bargains-await/"><u>Score Big with Samsung: Limited-Time Prime Day Bargains Await</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-drivers-smart-audio-the-cost-effective-bluetooth-headset-review/"><u>Smart Drivers, Smart Audio: The Cost-Effective Bluetooth Headset Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-false-identifications-in-apple-photos-for-easy-management/"><u>Troubleshoot False Identifications in Apple Photos for Easy Management</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-performance-of-tp-links-av1300-powerline-wi-fi-extender-is-it-truly-effective/"><u>Unpacking Performance of TP-Link's AV1300 Powerline Wi-Fi Extender: Is It Truly Effective?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-on-the-edge-8-pioneering-ai-software-choices/"><u>Writing on the Edge: 8 Pioneering AI Software Choices</u></a></li>
+</ul></div>
 

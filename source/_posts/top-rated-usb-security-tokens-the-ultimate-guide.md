@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated USB Security Tokens: The Ultimate Guide"
-date: 2024-10-10T16:19:03.916Z
-updated: 2024-10-12T17:51:15.426Z
+date: 2024-10-12T18:18:56.873Z
+updated: 2024-10-18T17:11:44.921Z
 tags:
   - buying-guides
 categories:
@@ -49,6 +49,13 @@ Best Key & Password Manager Combo
 Best Open-Source Security Key  
 [Nitrokey](https://shop.nitrokey.com/shop/product/nk3an-nitrokey-3a-nfc-147)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What to Look for in a Hardware Security Key in 2023
 
  If you've been on the internet, then you've probably heard of two-factor authentication, usually abbreviated as [2FA](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/). Typically, 2FA involves receiving a code you have to insert after you enter your password correctly. You can receive this code either through an SMS message, an email, or an authenticator app.
@@ -83,10 +90,10 @@ Best Open-Source Security Key
 ![The Yubico Security Key C NFC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/yubico-securitykey-c.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Yubico
@@ -108,13 +115,6 @@ Image Credit: Yubico
 
 ![yubico security key C NFC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/yubico-security-keyc.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 Best Overall Security Key
@@ -125,13 +125,6 @@ The perfect way for the average computer or phone user to improve their digital 
 
 [$29 at Amazon](https://www.amazon.com/Security-Key-NFC-Yubico-authentication/dp/B0BVNRXFHT?tag=hotoge-20&ascsubtag=UUhtgUeUpU206918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F785677%2Fbest-hardware-security-keys%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Premium Security Key: [YubiKey 5 NFC USB-A](https://www.amazon.com/Yubico-YubiKey-USB-Authentication-Security/dp/B07HBD71HL?tag=hotoge-20&ascsubtag=UUhtgUeUpU206918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F785677%2Fbest-hardware-security-keys%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Yubico-YubiKey-USB-Authentication-Security/dp/B07HBD71HL?tag=hotoge-20&ascsubtag=UUhtgUeUpU206918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F785677%2Fbest-hardware-security-keys%2F&asc%5Fcampaign=Commerce)
@@ -139,10 +132,10 @@ The perfect way for the average computer or phone user to improve their digital 
 [![Person using YubiKey on computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Yubikey-5-NFC.jpg) Yubico](https://www.amazon.com/Yubico-YubiKey-USB-Authentication-Security/dp/B07HBD71HL?tag=hotoge-20&ascsubtag=UUhtgUeUpU206918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F785677%2Fbest-hardware-security-keys%2F&asc%5Fcampaign=Commerce)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [](https://www.amazon.com/Yubico-YubiKey-USB-Authentication-Security/dp/B07HBD71HL?tag=hotoge-20&ascsubtag=UUhtgUeUpU206918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F785677%2Fbest-hardware-security-keys%2F&asc%5Fcampaign=Commerce) 
@@ -183,6 +176,19 @@ The YubiKey 5 provides the most comprehensive protocols of any security key out 
 
 [![person using Kensington verimark on laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/kensington-verimark.jpg) Kensington](https://www.amazon.com/Kensington-VeriMark-Fingerprint-Black-K67977WW/dp/B07W8W74QR?tag=hotoge-20&ascsubtag=UUhtgUeUpU206918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F785677%2Fbest-hardware-security-keys%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [](https://www.amazon.com/Kensington-VeriMark-Fingerprint-Black-K67977WW/dp/B07W8W74QR?tag=hotoge-20&ascsubtag=UUhtgUeUpU206918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F785677%2Fbest-hardware-security-keys%2F&asc%5Fcampaign=Commerce) 
 
 | Pros                                    | Cons                                            |
@@ -220,10 +226,10 @@ The VeriMark offers the best balance of protocol support, cost, and most importa
 [$47 at Amazon](https://www.amazon.com/Kensington-VeriMark-Fingerprint-Black-K67977WW/dp/B07W8W74QR?tag=hotoge-20&ascsubtag=UUhtgUeUpU206918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F785677%2Fbest-hardware-security-keys%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best Key & Password Manager Combo: [OnlyKey](https://www.amazon.com/OnlyKey-Stealth-Black-Case-Communication/dp/B06Y1CSRZX?tag=hotoge-20&ascsubtag=UUhtgUeUpU206918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F785677%2Fbest-hardware-security-keys%2F&asc%5Fcampaign=Commerce) 
@@ -264,13 +270,6 @@ The OnlyKey is unique in that it can handle three-factor authentication complete
 
 [$56 at Amazon](https://www.amazon.com/OnlyKey-Stealth-Black-Case-Communication/dp/B06Y1CSRZX?tag=hotoge-20&ascsubtag=UUhtgUeUpU206918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F785677%2Fbest-hardware-security-keys%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Open-Source Security Key: [Nitrokey 3A NFC](https://shop.nitrokey.com/shop/product/nk3an-nitrokey-3a-nfc-147) 
 
 [](https://shop.nitrokey.com/shop/product/nk3an-nitrokey-3a-nfc-147)
@@ -300,6 +299,13 @@ The OnlyKey is unique in that it can handle three-factor authentication complete
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best Open-Source Security Key
 
 #####  Nitrokey 3A NFC
@@ -311,16 +317,10 @@ A brilliant, open-source hardware security key which offers a wide range of secu
 ## FAQ
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why should I use a hardware security key?
@@ -336,10 +336,10 @@ A brilliant, open-source hardware security key which offers a wide range of secu
  Security key certifications are a range of security levels, showing how secure a device is. This Evaluation Assurance Level (EAL) is based on a Common Criteria security test, a standard for digital security tools. They run from the least secure, EAL 1, to the most secure, EAL7.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What do I do if I lose my hardware security key?
@@ -361,18 +361,18 @@ A brilliant, open-source hardware security key which offers a wide range of secu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-simplified-strategies-for-screen-recording-games/"><u>[New] Simplified Strategies for Screen Recording Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/decrease-your-computers-workload-combating-high-resource-demand-by-wudfhostexe-on-windows-fixed/"><u>Decrease Your Computer's Workload: Combating High Resource Demand by WUDFHost.exe on Windows ([Fixed])</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-invisible-contacts-expert-tips-for-iphone-users/"><u>Fixing Invisible Contacts: Expert Tips for iPhone Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-14-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-communication-on-the-move/"><u>Mastering Communication on the Move</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-the-samsung-galaxy-a51-5g-deals-how-it-stands-out-in-the-competitive-5g-market/"><u>Mastering the Samsung Galaxy A51 5G Deals: How It Stands Out in the Competitive 5G Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-athletic-performance-the-ultimate-guide-to-garmin-forerunner-745/"><u>Maximizing Athletic Performance: The Ultimate Guide to Garmin Forerunner 745</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/midrange-power-in-a-compact-package-a-review-of-the-dell-inspiron-3671-desktop/"><u>Midrange Power in a Compact Package – A Review of the Dell Inspiron 3671 Desktop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nixplays-photo-frame-a-tale-of-triumph-and-tribulation/"><u>Nixplay's Photo Frame: A Tale of Triumph and Tribulation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/radiographs-are-essential-for-assessing-the-extent-of-any-periapical-pathology-that-could-suggest-irreversible-damage/"><u>Radiographs Are Essential for Assessing the Extent of Any Periapical Pathology that Could Suggest Irreversible Damage.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-expert-reviews-and-comparisons/"><u>Tom's Computer Gear: Expert Reviews and Comparisons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-job-success-with-chatgpt-6-compelling-reasons-to-learn-it-now/"><u>Unlock Job Success with ChatGPT: 6 Compelling Reasons to Learn It Now</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/vintage-gaming-spotlight-in-depth-review-of-the-nintendo-game-and-watch-super-mario-bros-edition/"><u>Vintage Gaming Spotlight: In-Depth Review of the Nintendo Game & Watch - Super Mario Bros Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quick-setup-downloading-and-configuring-vrecord/"><u>[New] 2024 Approved Quick Setup Downloading & Configuring VRecord</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-streamline-your-viewing-the-facebook-auto-play-guide/"><u>[New] In 2024, Streamline Your Viewing The Facebook Auto-Play Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-guide-to-extracting-srt-from-a-zip-archive/"><u>[Updated] Guide to Extracting SRT From a ZIP Archive</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-cinematic-zoom-effect-focus-on-film/"><u>2024 Approved The Cinematic Zoom Effect Focus on Film</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-gamers-delight-in-depth-review-of-the-fellowes-microban-wired-keyboard/"><u>Budget-Friendly Gamer's Delight: In-Depth Review of the Fellowes Microban Wired Keyboard</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/building-a-robust-spotify-advertising-strategy/"><u>Building a Robust Spotify Advertising Strategy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-of-the-economical-z-edge-z3plus-a-dashboard-essential/"><u>Comprehensive Assessment of the Economical Z-Edge Z3+: A Dashboard Essential</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-gotrax-gxl-v2-your-ideal-speed-optimized-city-scooter/"><u>Comprehensive Evaluation of the Gotrax GXL V2 - Your Ideal Speed-Optimized City Scooter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fitbit-sense-the-ultimate-health-and-wellbeing-companion-vs-apple-watch/"><u>Fitbit Sense: The Ultimate Health and Wellbeing Companion Vs. Apple Watch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-effective-is-chatgpt-in-teaching-the-art-of-wholesome-cooking/"><u>How Effective Is ChatGPT in Teaching the Art of Wholesome Cooking?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-the-stanley-j5c09-a-combination-of-large-capacity-and-reliable-use/"><u>In-Depth Review: The Stanley J5C09 - A Combination of Large Capacity and Reliable Use</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-infinix-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Infinix Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-5-top-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>Updated In 2024, 5 Top Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
 </ul></div>
 

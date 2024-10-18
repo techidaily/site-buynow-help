@@ -1,7 +1,7 @@
 ---
 title: "Asus X441BA Examined: Tradeoffs of a Large Format Mobile Computer Unveiled"
-date: 2024-08-22T13:02:21.045Z
-updated: 2024-08-23T13:02:21.045Z
+date: 2024-10-14T17:45:27.149Z
+updated: 2024-10-18T18:03:58.650Z
 categories:
   - BestProducts
 description: "This Article Describes Asus X441BA Examined: Tradeoffs of a Large Format Mobile Computer Unveiled"
@@ -65,7 +65,21 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/YIcu00ga1PIrZWJzNk-mS5C4z-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_5_Final_Horiz-23ef27f359f24e919ebb2f47f9089957.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Design: Flimsy and difficult to use**
 
@@ -77,18 +91,12 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup process: Awkward to position**
 
  It takes almost no time to get the Docooler USB 2.0 12 Megapixel up and running. We just plugged the USB cord into the computer and it worked.
 
  It was easy to set up when we clipped it to a laptop, but terrible when we tried to put it on our HD TV. Every time we moved the computer or the USB cable, the camera slid, twisted, or fell off the TV. The ball joint, which connects the camera to the base, didn’t move smoothly, so we struggled to point the Docooler USB 2.0 12 Megapixel in the right direction, and we were too worried about breaking the plastic to try and force it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Camera Quality: Not even close to advertised**
 
  The Docooler USB 2.0 12 Megapixel is advertised as a 12 megapixel camera capable of HD video, but it wasn’t even close to that. We tested the resolution by taking photos through photobooth, and they were only 640 x 480, or .31 megapixels. We tested the video resolution by using an online webcam testing tool, and it showed exactly the same results. The manufacturer claims the camera has 38 times more resolution than it actually does. We should have known that the manufacturer’s claims were too good to be true given the $8 asking price, but claiming a disparity that huge is really brazen.
@@ -99,9 +107,6 @@ Lifewire / James Huenink
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / James Huenink
 
 ## **Performance: Underwhelming performance in video and audio**
@@ -116,16 +121,17 @@ Lifewire / James Huenink
 
  The audio performance of the Docooler USB 2.0 12 Megapixel was also lackluster. The built-in microphone produced poor quality sound, and when we tested it on Skype, voices were both muffled and echoey. People on the other end could understand what we were saying, but it was an unpleasant experience.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Cheap price, even cheaper webcam**
 
  The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Falls short**
 
 **_Logitech C270_ :** The Logitech C270 is a low-cost webcam that goes for $40 MSRP, though you can frequently find it for approximately $20\. For $10 more than the Docooler, you get a big upgrade. It has 720p video calling and takes photos at 3MP. The microphone filters out background noise, so it shouldn’t have the same echo effects as the Docooler Web Cam. Even though it’s twice the price, you get a lot more camera for your ten bucks.
@@ -141,8 +147,12 @@ Lifewire / James Huenink
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  USB 2.0 12 Megapixel
@@ -160,14 +170,11 @@ Lifewire / James Huenink
 * Frame rate  30fps
 * What’s Included  Docooler USB 2.0 12 Megapixel, Quick Start Guide
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,4 +183,16 @@ Lifewire / James Huenink
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-iphonepcs-best-video-conversion-software-8/"><u>[Updated] Unveiling iPhone/PC's Best Video Conversion Software #8</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/celebrating-teac-pd-301-a-symphony-of-style-and-sound-quality/"><u>Celebrating Teac PD-301: A Symphony of Style and Sound Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-apple-watch-series-6-a-small-step-forward-still-unmatched-in-performance/"><u>Evaluating Apple Watch Series 6: A Small Step Forward, Still Unmatched in Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2022-pc-freezing-issues-how-to-fix-them/"><u>Football Manager 2022 PC Freezing Issues: How to Fix Them</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-standard-to-spectacular-exploring-the-graphical-leap-in-the-new-playstation/"><u>From Standard to Spectacular: Exploring the Graphical Leap in the New PlayStation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-7-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 7 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/instant-expertise-changing-photos-to-captivating-youtube-thumbnails/"><u>Instant Expertise Changing Photos to Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/resolving-the-restore-from-icloud-failed-issue-top-7-effective-strategies/"><u>Resolving the 'Restore From iCloud Failed' Issue: Top 7 Effective Strategies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-next-generation-of-gaming-a-deep-dive-into-the-features-performance-and-stylish-appearance-of-dells-alienware-aurora-rnv/"><u>The Next Generation of Gaming: A Deep Dive Into the Features, Performance & Stylish Appearance of Dell's Alienware Aurora Rnv</u></a></li>
+</ul></div>
 

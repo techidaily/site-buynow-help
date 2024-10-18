@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2024-10-10T18:41:24.362Z
-updated: 2024-10-12T16:14:36.810Z
+date: 2024-10-14T16:28:43.856Z
+updated: 2024-10-18T18:27:29.319Z
 tags:
   - games
   - tv
@@ -84,23 +84,9 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -128,9 +114,23 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -143,10 +143,10 @@ Jerome Thomas / How-To Geek
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Battery Life
@@ -156,10 +156,10 @@ Jerome Thomas / How-To Geek
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Price and Availability
@@ -201,18 +201,21 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-harmonizing-hues-in-online-beauty-videos/"><u>[Updated] Harmonizing Hues in Online Beauty Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-dissecting-the-prospects-of-active-presenter-for-techies/"><u>[Updated] In 2024, Dissecting the Prospects of Active Presenter for Techies</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-transform-free-channel-into-a-profitable-venture-with-500plus-subscribers/"><u>[Updated] Transform Free Channel Into a Profitable Venture - With 500+ Subscribers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-phantom-v-flip-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Phantom V Flip Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-gamers-top-nine-live-video-destinations/"><u>In 2024, Gamer’s Top Nine Live Video Destinations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-and-youtube-synergy-sharing-video-links-in-stories/"><u>In 2024, Instagram and YouTube Synergy Sharing Video Links in Stories</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-magic-6-lite-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor Magic 6 Lite? Fixed | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-elegant-compact-sony-ps-lx310bt-unveiled/"><u>The Elegant, Compact Sony PS-LX310BT Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-team-players-journey-through-dying-light-exploring-a-unique-first-person-survival-experience/"><u>The Ultimate Team Player's Journey Through Dying Light - Exploring a Unique First-Person Survival Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-review-of-samsungs-qn55q60rafxza-delving-into-its-outstanding-4k-and-hdr10plus-performance/"><u>Top Review of Samsung's QN55Q60RAFXZA - Delving Into Its Outstanding 4K and HDR10+ Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-photo-and-document-scanners-in-2t4/"><u>Top-Rated Photo & Document Scanners in 2T4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-windows-update-issue-0x800f0831-with-ease/"><u>Troubleshoot and Repair Windows Update Issue 0X800F0831 with Ease</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-aphaca-bt69-top-reviews-of-the-best-bluetooth-fm-transmitter-for-cars/"><u>Ultimate Guide to Aphaca BT69: Top Reviews of the Best Bluetooth FM Transmitter for Cars</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ensure-flawless-slack-conversations-best-10-free-recorder-apps/"><u>[New] 2024 Approved Ensure Flawless Slack Conversations Best 10 Free Recorder Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-maximizing-impact-with-tailored-youtube-cards-and-ends/"><u>[New] 2024 Approved Maximizing Impact with Tailored Youtube Cards and Ends</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-how-to-solve-windows-11-photos-app-crashes-effectively/"><u>[New] How to Solve Windows 11 Photos App Crashes Effectively</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-how-to-upload-window-movie-maker-video-to-vimeo/"><u>[New] In 2024, How to Upload Window Movie Maker Video to Vimeo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-the-hold-while-charging-glitch-in-ios-devices-with-these-8-handy-techniques/"><u>Bypass the 'Hold While Charging' Glitch in iOS Devices with These 8 Handy Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-serenity-at-your-desk-with-our-in-depth-review-of-the-cumuluspro-standing-pad/"><u>Discover Serenity at Your Desk with Our In-Depth Review of the CumulusPRO Standing Pad</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effective-strategies-for-controlling-your-microsoft-365-plans-on-windows-11-a-comprehensive-guide-by-zdnet/"><u>Effective Strategies for Controlling Your Microsoft 365 Plans on Windows 11: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-11-pro-max-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 11 Pro Max Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-f54-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy F54 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-acer-chromebook-15-sizable-and-efficient-computing-on-a-large-screen/"><u>In-Depth Look at the Acer Chromebook 15 - Sizable and Efficient Computing on a Large Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-does-fongo-stack-up-in-the-canadian-voice-over-ip-market/"><u>In-Depth Review: How Does Fongo Stack Up in the Canadian Voice over IP Market?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-samsung-galaxy-note20-ultra-5g-analysis-is-it-worth-the-upgrade/"><u>In-Depth Samsung Galaxy Note20 Ultra 5G Analysis: Is It Worth the Upgrade?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-performance-gear-discover-the-premier-fitness-trackers-of-this-year/"><u>Leading Performance Gear: Discover the Premier Fitness Trackers of This Year</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovos-ultimate-portability-unleashed-in-depth-look-at-the-x12-detachable-and-its-superior-keyboard-experience/"><u>Lenovo's Ultimate Portability Unleashed: In-Depth Look at the X12 Detachable and Its Superior Keyboard Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/marvels-avengers-review-marvelous-mediocrity/"><u>Marvel’s Avengers Review: Marvelous Mediocrity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-the-past-and-present-our-take-on-the-netgear-c3000-router-review/"><u>Navigating Through the Past and Present: Our Take on the Netgear C3000 Router Review</u></a></li>
 </ul></div>
 

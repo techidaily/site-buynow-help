@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Huion Kamvas GT-191 Sketchpad Assessment - The Ultimate Pen Tablet Experience
-date: 2024-08-22T13:00:39.031Z
-updated: 2024-08-23T13:00:39.031Z
+date: 2024-10-13T16:10:27.446Z
+updated: 2024-10-18T16:47:53.456Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Huion Kamvas GT-191 Sketchpad Assessment - The Ultimate Pen Tablet Experience
@@ -72,8 +72,12 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
  The HP OMEN Obelisk looks good in pictures but starts to fall apart a little when examined up close. Overall, HP did a pretty decent job here, but there are plenty of areas for improvement.
@@ -96,9 +100,6 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  Lifewire / Jonno Hill
 
 ## **Performance** :**Great components for gaming and productivity**
@@ -124,8 +125,12 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
@@ -135,8 +140,18 @@ Lifewire / Jonno Hill
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Software: Just enough options**
 
  The HP OMEN Obelisk comes with the OMEN Command Center, which is used to manage your desktop as well as any other OMEN products such as headsets, keyboards, and mice. From here, you have the option to click on your desktop and start managing your PC or choose from one of the various other options such as rewards, coaching, remote play, and My Games (a game launcher).
@@ -147,9 +162,6 @@ Lifewire / Jonno Hill
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Highly competitive**
 
  The HP OMEN Obelisk with the same specs as this one can be found for around $2,000, at least when it’s in stock. Despite a lot of flaws that I can point to a nit-pick about, the price is one of the main reasons I still consider the OMEN to be a solid deal. I went through the trouble of parting out a similar build on PCPartPicker, going as far as to cut corners where I usually wouldn’t, and still arrived at just under $1800 before tax.
@@ -159,9 +171,20 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -194,14 +217,11 @@ Lifewire / Jonno Hill
 * Network  Wi-Fi 5 (2x2), Gigabit Ethernet, Bluetooth 4.2
 * Warranty  1 year limited
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -210,4 +230,23 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-social-media-sensations-most-liked-and-watched-amazon-originals-for-2024/"><u>[Updated] The Social Media Sensations Most Liked & Watched Amazon Originals for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-audio-excellence-in-ios-settings/"><u>2024 Approved Unlocking Audio Excellence in iOS Settings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/avantree-aria-me-review-unique-headphones-from-a-lesser-known-brand/"><u>Avantree Aria Me Review: Unique Headphones From a Lesser-Known Brand</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gram-staining-differentiates-bacteria-into-two-groups-based-on-cell-wall-composition-gram-positive-with-a-thick-peptidoglycan-layer-and-gram-negative-with-a122/"><u>Gram Staining Differentiates Bacteria Into Two Groups Based on Cell Wall Composition: Gram-Positive with a Thick Peptidoglycan Layer, and Gram-Negative with a Thin Peptidoglycan Layer and an Outer Membrane.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/halo-bolt-portable-chargerjump-starter-reviewed-the-leading-mobile-power-solution/"><u>Halo Bolt Portable Charger/Jump Starter Reviewed: The Leading Mobile Power Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/hochqualitative-video-kompressionsmethoden-fur-die-perfekte-youtube-auflosung-verstehen-und-anwenden/"><u>Hochqualitative Video-Kompressionsmethoden Für Die Perfekte YouTube-Auflösung Verstehen Und Anwenden</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-3-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone XS Max</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterclass-leveraging-retro-vhs-flares-and-shadows-for-2024/"><u>Masterclass Leveraging Retro VHS Flares & Shadows for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mouse-mystery-solve-non-waking-windows-1011-devices/"><u>Mouse Mystery: Solve Non-Waking Windows 10/11 Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nintendo-showdown-a-comparison-of-the-switch-lite-and-switch-oled-models/"><u>Nintendo Showdown: A Comparison of the Switch Lite and Switch OLED Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-15-low-cost-ssl-security-alternatives/"><u>The 15 Low-Cost SSL Security Alternatives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-thrifty-audio-odyssey-unveiling-the-oneplus-buds/"><u>The Thrifty Audio Odyssey – Unveiling the OnePlus Buds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-iphones-for-gamers-choosing-the-ultimate-mobile-gaming-device/"><u>Top iPhones for Gamers: Choosing the Ultimate Mobile Gaming Device</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-videopad-video-editor-review-features-pricing-and-more/"><u>Updated 2024 Approved The Ultimate Videopad Video Editor Review Features, Pricing, and More</u></a></li>
+</ul></div>
 

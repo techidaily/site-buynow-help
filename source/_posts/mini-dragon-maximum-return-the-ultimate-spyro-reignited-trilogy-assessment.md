@@ -1,7 +1,7 @@
 ---
 title: Mini Dragon, Maximum Return - The Ultimate Spyro Reignited Trilogy Assessment
-date: 2024-08-22T13:04:52.141Z
-updated: 2024-08-23T13:04:52.141Z
+date: 2024-10-13T17:19:54.009Z
+updated: 2024-10-18T16:07:28.905Z
 categories:
   - BestProducts
 description: This Article Describes Mini Dragon, Maximum Return - The Ultimate Spyro Reignited Trilogy Assessment
@@ -38,6 +38,13 @@ Lifewire / Andy Zahn
 [View On Walmart $562](https://www.walmart.com/ip/Canon-PowerShot-SX70-HS-20-3MP-65x-Optical-Zoom-Digital-Point-Shoot-Camera/773178799?slfpid=3) [View On Adorama.com $699](https://www.adorama.com/icasx70.html) [View On B&H Photo Video $599](https://www.bhphotovideo.com/c/product/1435399-REG/canon%5F3071c001%5Fpowershot%5Fsx70%5Fhs%5Fdigital.html)
 
 4.3
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Canon PowerShot SX70
 
@@ -87,13 +94,17 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process** :**Get charged up and you’re ready to go**
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
@@ -116,6 +127,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Photo Quality: Great colors, average resolution**
 
  We love the warm, natural color tone that[Canon cameras](https://www.lifewire.com/best-new-canon-cameras-493499) produce, and the SX70 HS doesn’t disappoint. Its photos are vibrant and it captures particularly nice portraits.
@@ -132,9 +150,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -150,8 +165,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Video Quality: A mixed bag**
 
  The SX70 HS fumbles a bit when it comes to video. It’s no slouch by any means, but the footage is nothing to brag about. You can record up to 4K resolution, but unfortunately, the camera has to crop in to record at this resolution. Also, we found that footage is never especially sharp compared to other cameras.
@@ -166,9 +185,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## **Software: Lots of options**
 
  The camera comes with Canon’s Digital Photo Professional software for editing. Canon also has a number of free programs available for download on its website, including Eos Movie Utility for video editing. Though Canon’s software is relatively basic, it’s quite capable for basic editing.
@@ -179,9 +195,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Big brand, big price tag**
 
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
@@ -204,15 +217,19 @@ Lifewire / Andy Zahn
 
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
 * [Canon PowerShot SX530](https://www.lifewire.com/canon-powershot-sx530-review-4772573)
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  PowerShot SX70
@@ -238,8 +255,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +262,21 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-engage-more-viewers-unveiling-top-youtube-font-secrets/"><u>[New] Engage More Viewers Unveiling Top YouTube Font Secrets</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/anofilm-whiz-for-2024/"><u>[New] NanoFilm Whiz for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/chromecast-versus-roku-showdown-which-device-reigns-supreme-for-content-lovers/"><u>Chromecast Versus Roku Showdown: Which Device Reigns Supreme for Content Lovers?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-garmin-forerunner-745-top-tier-gadget-for-all-athletes/"><u>Expert Analysis of the Garmin Forerunner 745: Top-Tier Gadget for All Athletes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-gpu-issues-for-optimal-performance-of-cyberpunk-2077-on-windows-10-systems/"><u>Fixing GPU Issues for Optimal Performance of Cyberpunk 2077 on Windows 10 Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-y36-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo Y36 Phone Screen?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-no-fuss-trick-for-clownfish-tone-change-in-windows-domain/"><u>In 2024, No-Fuss Trick for Clownfish Tone Change in Windows Domain</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-zenwifi-xt8-ax6600-mastering-your-home-wi-fi-experience/"><u>In-Depth Analysis of the ASUS ZenWiFi XT8 AX6600: Mastering Your Home Wi-Fi Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-your-music-file-format-conversion-a-guide-to-turning-m4a-into-wma-in-8-simple-steps/"><u>Master Your Music File Format Conversion: A Guide to Turning M4A Into WMA in 8 Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-low-speeds-in-windows-edge-win10win11/"><u>Overcoming Low Speeds in Windows Edge (Win10/Win11)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-setting-up-your-dell-wd13-19-drivers/"><u>Step-by-Step Guide to Downloading and Setting Up Your Dell WD1([[3]]) 19 Drivers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-automated-pet-feeding-and-weight-management-with-the-petsafe-healthy-pet-feeder-reviews-and-insights/"><u>The Ultimate Guide to Automated Pet Feeding and Weight Management with the PetSafe Healthy Pet Feeder - Reviews & Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-choices-the-elite-console-lineup-of-2024-for-gamers-worldwide/"><u>Ultimate Choices: The Elite Console Lineup of 2024 for Gamers Worldwide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-opting-for-applecare-plus-5-benefits-unveiled/"><u>Why Opting for AppleCare Plus? 5 Benefits Unveiled</u></a></li>
+</ul></div>
 

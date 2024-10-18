@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Playtime: Effective Strategies to Upgrade Your Xbox's Performance"
-date: 2024-10-08T17:26:23.126Z
-updated: 2024-10-12T17:28:00.019Z
+date: 2024-10-16T17:59:25.068Z
+updated: 2024-10-18T17:02:10.758Z
 tags:
   - games
   - tv
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 ![Person connecting an Ethernet cable to the Netgear Nighthawk MK93S main router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/netgear-nighthawk-mesh-router-11-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
@@ -49,6 +49,13 @@ Jordan Gloor / How-To Geek
 
  Changing your DNS settings is unlike to have much of an effect on your overall Xbox network performance, but it’s probably not going to slow things down either.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Prioritize Native Internal Storage
 
  The Xbox Series X and S come with fast, solid-state storage which is essential to play current-generation titles. If a game has been released specifically for the Xbox Series X or S, it will require the use of this internal storage.
@@ -57,18 +64,18 @@ Jordan Gloor / How-To Geek
 
 ![Xbox dashboard showing connected storage devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbox_storage_devices.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It’s still a good idea to have an external drive connected to your Xbox, but we’d recommend using such a drive as “cold storage” and swapping files to the internal storage as you need them. This will almost always be faster than downloading a game from the internet, even if you also need to update the game before it can be played.
 
  You can [move games to and from your external Xbox drive](https://sim-unlock.techidaily.com/sim-unlock-oppo-a1x-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) using the “My games & apps” library, or via the Settings > Storage menu. You can also purchase additional fast storage in the form of [Xbox expansion cards](https://www.xbox.com/en-US/accessories/hard-drives/seagate-expansion-card). These start at $89 for 512GB with 1TB and 2TB options available.
 
  These expansion cards are proprietary and much more expensive per gigabyte than even a solid-state external drive, so we’d recommend saving your money and putting up with data transfers instead.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Choose Performance Mode Over Quality Mode
 
@@ -78,6 +85,13 @@ Jordan Gloor / How-To Geek
 
 ![Selecting "High Frame Rate" mode in Hardspace: Shipbreaker on the Xbox Series X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbox_performance_mode.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want a game to look its absolute best, regardless of frame rate, pick quality mode. Be careful about toggling between the two. It can be very jarring to move from 30 frames to 60 frames and back again. Many games require a restart to switch modes, which can help mask this transition.
 
  Much of the time, the game you’re playing will decide which mode is best. Slow-paced games with heavy controls often feel fine at 30 frames per second. Bethesda sci-fi RPG _Starfield_ launched at 30 frames per second exclusively on consoles, and it doesn’t hold the game back significantly.
@@ -85,13 +99,6 @@ Jordan Gloor / How-To Geek
  Faster titles that require lower latency inputs and feature slick action sequences (like _Hi-Fi Rush_) fare much better at 60 frames per second. Beat ‘em ups, rhythm action games, and competitive shooters generally benefit the most from a performance mode. Remember: the faster the frame rate, the faster the frame time, and the faster you as a player will get feedback about what’s happening on screen.
 
  For some, prioritizing frame rate is an absolute must, regardless of what’s being played. We’ve moved past the “30 frames will have to do” era of the Xbox 360 and PlayStation 4, with more and more titles now shipping with a performance option and a 60 frames-per-second (or even 120 frames-per-second) option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Make Sure VRR, 120Hz, and HDR are Enabled
 
@@ -111,13 +118,6 @@ Jordan Gloor / How-To Geek
 
  Other settings that you might want to set include “Allow auto low-latency mode” to on, “Allow YCC 4:2:2” to off (unless you have trouble getting a video signal to display without it), and “Auto HDR” to on (to [play in HDR mode even in older titles that don’t support it](https://extra-information.techidaily.com/new-apple-music-and-video-harmony-explained/)).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Clean Your Console for Best Airflow
 
  Dust and debris can restrict airflow, causing your console to run hotter than it needs to. Heat is bad for electronics, and though it won’t necessarily slow down your console in the traditional sense, it could lead to a shorter lifespan.
@@ -125,6 +125,13 @@ Jordan Gloor / How-To Geek
  Dusting your console and removing pet hair, human hair, and anything else that’s clogging up the vents is important. Make sure you dust every surface of your console to ensure adequate airflow. For example, the Xbox Series X exhausts heat out of the big vent on the top (when the console is standing upright), but its intakes are at the opposite end of the console.
 
 ![Xbox series X on a table next to a monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/xbox-series-x.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -137,13 +144,6 @@ Corbin Davenport / How-To Geek
  Restart your Xbox by holding down the Xbox button on your controller and selecting “Restart console” from the options that appear. This takes far longer to complete, since much like Windows, the Xbox must safely shut down and start back up again. You’ll see the “Xbox” startup logo hang around, and you’ll hear a start-up chime too.
 
 ![Xbox power options menu showing the "Restart console" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbox_restart_console.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restarting can help solve issues with crashing, network connectivity, and other wonky behavior. You should also take care to responsibly shut your console down (using Settings > General > Power options > Shut-down now) if you’re going to be unplugging it from mains power.
 
@@ -166,19 +166,19 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-best-practices-for-creating-compelling-hash-tags-on-facebook/"><u>[Updated] 2024 Approved Best Practices for Creating Compelling Hash Tags on Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-effortless-media-migration-how-to-send-fb-movies-via-whatsapp-for-2024/"><u>[Updated] Effortless Media Migration How To Send FB Movies via WhatsApp for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-oculus-rift-htc-vive-and-ps-vr-which-is-the-best-for-gaming/"><u>2024 Approved Oculus Rift, HTC Vive, and PS VR Which Is the Best for Gaming?</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/choosing-your-shield-an-in-depth-look-at-hitman-pro-and-malwarebytes-security-solutions/"><u>Choosing Your Shield: An In-Depth Look at Hitman Pro and Malwarebytes Security Solutions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/classical-greek-past-linguistics-to-present-day-relevance/"><u>Classical Greek: Past Linguistics to Present-Day Relevance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-excellent-connectivity-with-the-simplistic-design-of-clearstreams-eclipse-antenna-a-comprehensive-review/"><u>Experience Excellent Connectivity with the Simplistic Design of ClearStream's Eclipse Antenna - A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-the-ultimate-portability-with-lg-gram-15-the-revolutionary-2018-laptop-for-endless-productivity/"><u>Experience the Ultimate Portability with LG Gram 15. - The Revolutionary 2018 Laptop for Endless Productivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-kobo-libra-h2o-seamless-aqua-resistant-reading-device-unveiled/"><u>Expert Analysis of the Kobo Libra H2O - Seamless, Aqua-Resistant Reading Device Unveiled!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-warm-glow-of-adventure-with-a-revisit-to-minecrafts-campfire-tales-series/"><u>Exploring the Warm Glow of Adventure with a Revisit to Minecraft's Campfire Tales Series</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-old-to-new-avoiding-hurdles-in-win7-win10-shift/"><u>From Old to New: Avoiding Hurdles in Win7-Win10 Shift</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-x8b-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-14-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 14 Plus/iPad/iPod</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-f25-pro-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo F25 Pro 5G? Try These Fixes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nderstanding-the-key-of-youtube-aspect-ratios-for-success-for-2024/"><u>[New] Understanding the Key of YouTube Aspect Ratios for Success for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-the-5-best-ways-to-make-money-on-youtube-shorts-today-for-2024/"><u>[Updated] The 5 Best Ways to Make Money on YouTube Shorts Today for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-infinix-note-30-vip-racing-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Note 30 VIP Racing Edition Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-your-future-in-the-art-of-visuals-for-2024/"><u>Crafting Your Future in the Art of Visuals for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-speech-recognition-on-microsofts-latest-os/"><u>How to Reactivate Speech Recognition on Microsoft's Latest OS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-huawei-p60-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Huawei P60 for Free? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-40-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Hot 40 Pro Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimizing-performance-with-reset-in-windows-11-tips-for-timing-and-execution-strategies/"><u>Optimizing Performance with Reset in Windows 11: Tips for Timing and Execution Strategies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranking-soccer-video-games-how-fifa-19-sets-the-bar-in-e-sports-entertainment/"><u>Top Ranking Soccer Video Games: How FIFA 19 Sets the Bar in E-Sports Entertainment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-review-of-the-jackery-powerbar-convenient-charging-via-built-in-wall-plug-examined/"><u>Ultimate Review of the Jackery PowerBar - Convenient Charging via Built-In Wall Plug Examined</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-effectiveness-of-blue-light-blocking-prescription-eyewear-by-lensdirect/"><u>Unveiling the Effectiveness of Blue Light-Blocking Prescription Eyewear by LensDirect</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-secrets-of-the-extollo-lansocket-1500-fast-connectivity-and-uninterrupted-power-pass-through/"><u>Unveiling the Performance Secrets of the Extollo LANSocket 1500: Fast Connectivity & Uninterrupted Power Pass-Through</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vonage-review-voip-service-provider/"><u>Vonage Review: VoIP Service Provider</u></a></li>
 </ul></div>
 

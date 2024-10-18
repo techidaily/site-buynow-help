@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Storytelling of The Outer Worlds - Sci-Fi Video Game Reviewed
-date: 2024-08-22T13:02:23.336Z
-updated: 2024-08-23T13:02:23.336Z
+date: 2024-10-17T16:06:54.729Z
+updated: 2024-10-18T17:34:36.736Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Storytelling of The Outer Worlds - Sci-Fi Video Game Reviewed
@@ -65,9 +65,6 @@ Lifewire / Bill Thomas
 
  We got our hands on the Netgear C3700 for testing and put it through the wringer to see whether or not it’s worth your cash, and what kind of performance you can expect.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Small and inconspicuous
 
  With a device that packs[both a cable modem and a wireless router](https://www.lifewire.com/best-cable-modem-router-combos-to-buy-4082541) , you might expect the Netgear C3700 to be a bulky device, but that’s not the case. It’s actually quite small, measuring just 7.6 inches high and weighing a scant 0.77 pounds. This, combined with the low-key black finish and lack of external antennas means that it won’t stick out, no matter where you put it.
@@ -76,22 +73,23 @@ Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/kBtdcSRxoIsQvqmnO6OVYnfZ9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-4-ad3408c39a524e14a6cebcce10d3be44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/zfaMhW3pqkYXVuVTQM9Swnx9cQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-5-a204a239cbd549c9b5949b2536b49ff8.jpg)
 
  Lifewire / Bill Thomas
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Setup: Nice and simple
 
  If you’ve ever set up a cable modem, then you’ll breeze through the setup on the C3700\. We just unplugged our existing cable modem, plugged all the cables into this new one, and waited for the lights to turn on. Then all we had to do was phone our ISP to activate it.
@@ -102,6 +100,13 @@ Lifewire / Bill Thomas
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -111,8 +116,18 @@ Lifewire / Bill Thomas
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Network Performance: Great when wired, but wireless speeds lag
 
  We didn’t exactly have high hopes for the C3700 and its N600 wireless rating. At its peak during testing, we reached wireless speeds of 130Mbps, but that didn’t last—with multiple devices connected and in use, we were seeing speeds as low as 40Mbps just a few feet away from the router.
@@ -124,14 +139,26 @@ Lifewire / Bill Thomas
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Bill Thomas
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Software: No frills
 
@@ -149,9 +176,6 @@ Lifewire / Bill Thomas
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
  The Arris Surfboard SBG6700-AC has the same 8x4 DOCSIS 3.0 cable rating but ups the wireless support to AC1600 speeds. This still isn’t top-of-the-line wireless speed—and it is a bit more expensive at $119 MSRP—but that extra cash is worth the improved network performance. However, the Arris model does not have a USB 2.0 port for network-attached storage or printers.
@@ -192,8 +216,6 @@ Lifewire / Bill Thomas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +223,26 @@ Lifewire / Bill Thomas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-emotional-undercurrents-in-background-film-soundtracks/"><u>[New] 2024 Approved Emotional Undercurrents in Background Film Soundtracks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tips-to-share-pre-recorded-videos-live-on-facebook/"><u>[New] 2024 Approved Tips to Share Pre-Recorded Videos Live on Facebook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ultimate-4k-blu-ray-experience-best-player-selection-for-2024/"><u>[New] Ultimate 4K Blu-Ray Experience Best Player Selection for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-from-amateur-to-expert-iphones-audio-recording-journey/"><u>[Updated] In 2024, From Amateur to Expert IPhone's Audio Recording Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-podcast-beginnings-eye-catching-strategies/"><u>[Updated] Mastering Podcast Beginnings Eye-Catching Strategies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-value-computers-the-ultimate-guide-to-the-acer-aspire-e-15/"><u>Best Value Computers: The Ultimate Guide to the Acer Aspire E 15</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversores-de-archivos-2024-como-cambiar-facilmente-mkv-por-mp4-con-soluciones-avanzadas/"><u>Conversores De Archivos 2024: Cómo Cambiar Fácilmente MKV Por MP4 Con Soluciones Avanzadas</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-s23-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Galaxy S23 has native MKV support?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-the-best-cell-phone-deals-for-seniors/"><u>Expert Picks: The Best Cell Phone Deals for Seniors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-robust-and-renewable-romer-flashlight-the-ultimate-companion-for-explorers-and-campers/"><u>In-Depth Review of the Robust and Renewable Romer Flashlight: The Ultimate Companion for Explorers & Campers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723082155548-maximize-your-safety-on-the-road-with-the-pruveeo-1080p-full-hd-action-camera-reviews-inside/"><u>Maximize Your Safety on the Road with the Pruveeo 1080P Full HD Action Camera - Reviews Inside!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-business-class-video-editor-premium-solution-for-corporate-film-creation-and-live-screen-capture/"><u>Movavi Business-Class Video Editor: Premium Solution for Corporate Film Creation and Live Screen Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-converter-mudando-formatos-de-imagem-online-de-graca-bmp-para-outros/"><u>Movavi Converter: Mudando Formatos De Imagem Online De Graça - BMP Para Outros</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-totobay-wake-up-light-second-generation-top-affordable-option/"><u>Review of the Totobay Wake-Up Light, Second Generation - Top Affordable Option</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-qled-q60r-smart-tv-4k-gaming-experience-review/"><u>Samsung QLED Q60R Smart TV 4K Gaming Experience Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-activating-slack-alerts-on-your-apple-wristwear-with-ios/"><u>Step-by-Step Guide: Activating Slack Alerts on Your Apple Wristwear with iOS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-of-both-worlds-powerful-performance-meets-affordability-in-zte-blade-a3y/"><u>The Best of Both Worlds - Powerful Performance Meets Affordability in ZTE Blade A3Y</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-5-stereo-speaker-factors/"><u>Top 5 Stereo Speaker Factors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-a-comprehensive-look-at-the-seriously-clever-ring-doorbell-pro/"><u>Unveiling the Features: A Comprehensive Look at the Seriously Clever Ring Doorbell Pro</u></a></li>
+</ul></div>
 

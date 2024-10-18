@@ -1,7 +1,7 @@
 ---
 title: Understanding Asset-Flipped Games – Do They Hurt the Gaming Industry?
-date: 2024-10-08T17:45:21.125Z
-updated: 2024-10-12T16:54:47.851Z
+date: 2024-10-12T17:21:37.958Z
+updated: 2024-10-18T18:00:57.226Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You may have heard some poorly-received games being accused of being "asset flip" titles, but I bet more than a few people have no idea what this particular insult means in the context of video games. Thankfully, we can rectify that right away.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Not Every Asset in Games Is Bespoke
@@ -35,10 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For a game to count as an "asset flip," it generally needs to use pre-made assets for most to all of its in-game assets. The idea is that the creators of the game put in as little effort as possible, and just wanted some sort of game out the door. It's basically creating a hodgepodge game from existing bits and pieces and selling it as your own original creative work.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pre-made Assets Help Out Indie and Double-A Developers
@@ -47,13 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The same goes for sound effects. An M16 is an M16, there's no need for every developer to go out and record a new one. As with the production of any medium, budget allocations have to be smart to get the most out of your resources. Also, don't think that "triple A" big-budget games don't do the same thing. A penny saved, and all that!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Asset Flipped Games Are Usually a Form of Shovelware
 
  So, now that we've established that it's normal and good for games to make some use of pre-made assets, let's get back to why true asset flips are a bad thing. First and foremost, asset flips are a type of [shovelware](https://screen-sharing-recording.techidaily.com/updated-2024-approved-premium-video-capture-without-extras/). The whole point of shovelware games is to nickel and dime people. Not too many people will be fooled, but since the "developer" spent so little time and effort making their "game" they don't need to catch that many people.
@@ -61,15 +54,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A man sorting through piles of Nintendo Switch games into a dumpster](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-man-sorting-through-piles-of-nintendo-switch-games-into-a-dumpster.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek / MidJourney
 
  In fact, with modern game creation tools like Unity and Unreal Engine 5, it's not hard for a single person with some free time to knock something out in a few days to weeks. There have even been cases where people publish what's essentially an unaltered [Unity template](https://assetstore.unity.com/search#cf-ec%5Fcategory=templates) with a new name and try to sell that. There are some good Steam curators, such as [Asset Flip Reviews](https://store.steampowered.com/curator/41754370-Asset-Flip-Reviews/) who make a point of highlighting these games so that people can safely avoid them. Even if you buy them on a platform where you can easily get your money back, they've still wasted your time and that's worth something too!
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Just Because a Game Uses “Flipped” Assets Doesn’t Make It Bad
 
@@ -94,19 +94,24 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-gopro-cinema-boosted-list-of-the-best-15-luts/"><u>[New] In 2024, GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-preserving-quality-while-quickening-spotify-auditory-experience/"><u>[New] Preserving Quality While Quickening Spotify Auditory Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deep-dive-into-windows-hd-color-and-hdr-editing-excellence/"><u>2024 Approved A Deep Dive Into Windows HD Color and HDR Editing Excellence</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-the-price-point-of-ea-play/"><u>Analyzing the Price Point of EA Play</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/can-you-trust-the-fitbit-charge-3-for-your-fitness-needs-expert-reviews-and-comparisons/"><u>Can You Trust the Fitbit Charge 3 for Your Fitness Needs? Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-the-spectrum-of-picture-alteration/"><u>Exploring the Spectrum of Picture Alteration</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-your-msi-mystic-light-troubleshooting-steps-for-non-functioning-lights-on-windows-pcs/"><u>Fixing Your MSI Mystic Light: Troubleshooting Steps for Non-Functioning Lights on Windows PCs</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/sikre-losning-veien-til-deling-av-skjermbilder-i-discord-pa-computer-og-mobile/"><u>Sikre Løsning: Veien Til Deling Av Skjermbilder I Discord På Computer Og Mobile</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-minds-of-tech-a-detailed-look-at-the-2019-tcl-32s325-with-roku-tv/"><u>Unveiling the Minds of Tech: A Detailed Look at the 2019 TCL 32S325 with Roku TV</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-of-netgears-ex3700-wi-fi-range-extender-ac750-a-detailed-review/"><u>Unveiling the Performance of Netgear's EX3700 Wi-Fi Range Extender (AC750) - A Detailed Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-a-closer-look-at-the-samsung-galaxy-s2-impressions/"><u>Unveiling the Potential: A Closer Look at the Samsung Galaxy S2# Impressions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-secrets-of-a-robust-yet-cost-effective-fintie-case-for-your-macbook-pro-13/"><u>Unveiling the Secrets of a Robust yet Cost-Effective Fintie Case for Your MacBook Pro 13</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/user-experience-insights-on-googles-phone-communications-platform/"><u>User Experience Insights on Google's Phone Communications Platform</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1728496020907-windows/"><u>Windowsサーバーにおける強力なデータ暗号化と二重保護戦略</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elite-methods-to-broadcast-and-record-sporting-events/"><u>[New] 2024 Approved Elite Methods to Broadcast and Record Sporting Events</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-screenshot-expert-evaluator/"><u>[New] In 2024, ScreenShot Expert Evaluator</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-best-youtube-ad-creators/"><u>[Updated] 2024 Approved Best YouTube Ad Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-edit-your-video-with-youtube-studio-editor/"><u>[Updated] 2024 Approved How to Edit Your Video with YouTube Studio Editor</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-screen-capture-connoisseurs-your-guide-to-preserving-twitvid-media/"><u>[Updated] In 2024, Screen Capture Connoisseurs Your Guide to Preserving TwitVid Media</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unlock-potential-with-best-free-text-psdfree/"><u>[Updated] Unlock Potential with Best Free Text PSDFree</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-13-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 13</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-sierras-icloud-drives-and-shares/"><u>In 2024, The Ultimate Guide to Sierra's iCloud Drives & Shares</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-roadside-assistance-with-m-mock-1000as-powerhouse-a-detailed-review-of-an-exceptional-18k-mah-car-starter-kit/"><u>Mastering Roadside Assistance with M MOCK 1000A's Powerhouse: A Detailed Review of an Exceptional 18K mAh Car Starter Kit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/missing-link-in-the-latest-samsung-galaxy-tab-a-2020-in-depth-review-exposed/"><u>Missing Link in the Latest Samsung Galaxy Tab A (2020): In-Depth Review Exposed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-skies-easily-leading-wireless-travel-routers-reviewed-2024-edition/"><u>Navigating the Skies Easily: Leading Wireless Travel Routers Reviewed - 2024 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-15-groundbreaking-film-processors-for-gopro-cinematography/"><u>Premium 15 Groundbreaking Film Processors for GoPro Cinematography</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/premium-e-reading-experience-on-a-silver-platter-an-in-depth-look-at-amazon-kindle-oasis/"><u>Premium E-Reading Experience on a Silver Platter: An In-Depth Look at Amazon Kindle Oasis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-grand-adventures-in-yokus-island-express-a-surprising-experience/"><u>Review of Grand Adventures in Yoku's Island Express – A Surprising Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rise-to-win11-breaking-free-of-win7/"><u>Rise to Win11: Breaking Free of Win7</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-guide-unveiling-truecallers-features-and-performance/"><u>The Complete Guide: Unveiling Truecaller's Features and Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-future-of-entertainment-unveiled-in-depth-look-at-the-amazon-fire-tv-cube/"><u>The Future of Entertainment Unveiled: In-Depth Look at the Amazon Fire TV Cube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-watertight-kobo-libra-h2o-your-new-bookworms-best-friend-in-any-weather/"><u>The Ultimate Guide to the Watertight Kobo Libra H2O – Your New Bookworm's Best Friend in Any Weather</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-relying-on-benchmarks-is-key-when-purchasing-computer-components/"><u>Why Relying on Benchmarks Is Key When Purchasing Computer Components</u></a></li>
 </ul></div>
 
