@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of TP-Link RE505X: A Complete Wi-Fi Range Extender Guide"
-date: 2024-08-15T06:00:25.221Z
-updated: 2024-08-16T06:00:25.221Z
+date: 2024-10-21T17:56:00.937Z
+updated: 2024-10-23T20:06:40.135Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Analysis of TP-Link RE505X: A Complete Wi-Fi Range Extender Guide"
@@ -37,14 +37,15 @@ Lifewire / Jonno Hill
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
@@ -74,9 +75,6 @@ Lifewire / Jonno Hill
  How has HP reconciled all these things, and what does it mean for potential owners? Let’s take a look at the performance, build quality, and usability of this space-conscious gaming desktop.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -105,8 +103,18 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance** :**Great components for gaming and productivity**
 
  The HP OMEN Obelisk that I tested featured a 9th Gen Intel Core i9 9900K, 32GB of RAM, a 1TB SSD, and the Nvidia GTX GeForce 2080 Super graphics card. This is a potent combination of components in a gaming PC, and I was appropriately impressed by the results.
@@ -115,9 +123,6 @@ Lifewire / Jonno Hill
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Gaming** :**Great for the most demanding titles**
 
  Gaming performance is great on the HP OMEN Obelisk thanks to the Nvidia GTX GeForce 2080 Super and Intel i9-9900K combo. I tested a number of games on my 3440x1440 monitor to get a sense of performance. To put this in perspective, this resolution is roughly 60 percent of the pixels of a 4K monitor.
@@ -135,8 +140,12 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
@@ -160,11 +169,22 @@ Lifewire / Jonno Hill
  As far as I’m concerned, $200 is a perfectly reasonable premium to pay for a system that is already assembled and shipped to your door.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -197,14 +217,11 @@ Lifewire / Jonno Hill
 * Network  Wi-Fi 5 (2x2), Gigabit Ethernet, Bluetooth 4.2
 * Warranty  1 year limited
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -213,4 +230,26 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-pinnacle-stock-for-premium-vector-designs/"><u>[New] In 2024, Pinnacle Stock for Premium Vector Designs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinnacle-plots-and-dialogues-for-radios/"><u>[New] Pinnacle Plots & Dialogues for Radios</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shadowy-time-lapse-recording-methods/"><u>[New] Shadowy Time-Lapse Recording Methods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-boosting-your-channel-a-guide-to-gaining-viewers/"><u>[Updated] 2024 Approved Boosting Your Channel A Guide to Gaining Viewers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-f15-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-personal-safety-select-your-best-fit-trackers-for-different-sizes-of-belongings/"><u>A Comprehensive Guide to Personal Safety - Select Your Best Fit Trackers For Different Sizes of Belongings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-streaming-device-tips-roku-vs-fire-tv-stick-decision-making/"><u>Best Streaming Device Tips: Roku Vs. Fire TV Stick Decision-Making</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-of-the-lg-um7300-economical-entry-into-4k-viewing-experience/"><u>Comprehensive Assessment of the LG UM7300: Economical Entry Into 4K Viewing Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-third-generation-apple-tv-4k-assessment/"><u>Comprehensive Guide: Third-Generation Apple TV 4K Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-most-popular-karaoke-equipment-of-2eomdsdeqsds/"><u>Discover the Most Popular Karaoke Equipment of 2Eomdsdeqsds</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-pcs-visual-performance-free-amd-radeon-drivers-for-windows-8/"><u>Enhance Your PC's Visual Performance: Free AMD Radeon Drivers for Windows 8</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-and-build-quality-of-the-anker-powercoreplus-26800-energy-bank-a-stylish-companion/"><u>Exploring the Features and Build Quality of the Anker PowerCore+ 26800 Energy Bank - A Stylish Companion</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-poco-x6-pro-by-drfone-android/"><u>Full Guide to Unlock Your Poco X6 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-onikuma-earphones-microphone-problems-with-easy-diy-fixes/"><u>Overcoming Onikuma Earphones' Microphone Problems with Easy DIY Fixes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-audio-powerhouse-tascams-cd-200bt-and-its-ble-capabilities/"><u>Professional Audio Powerhouse: Tascam's CD-200BT and Its BLE Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-distinctive-features-and-performance-of-the-mohu-blade-tv-dish-ideal-for-interior-signal-reception/"><u>The Distinctive Features and Performance of the Mohu Blade TV Dish - Ideal for Interior Signal Reception</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-list-of-speedy-video-transformation-tools-for-windows-1110-safety-guaranteed/"><u>The Ultimate List of Speedy Video Transformation Tools for Windows 11/10: Safety Guaranteed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-race-rc-rock-crawler-assessment-the-ultimate-off-road-companion/"><u>Top Race RC Rock Crawler Assessment - The Ultimate Off-Road Companion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/true-color-harmony-software/"><u>True Color Harmony Software</u></a></li>
+</ul></div>
 

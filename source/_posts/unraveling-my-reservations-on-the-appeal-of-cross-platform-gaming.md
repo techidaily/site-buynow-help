@@ -1,7 +1,7 @@
 ---
 title: Unraveling My Reservations on the Appeal of Cross-Platform Gaming
-date: 2024-10-11T16:15:01.614Z
-updated: 2024-10-12T18:53:02.507Z
+date: 2024-10-17T22:10:22.549Z
+updated: 2024-10-24T07:56:22.515Z
 tags:
   - games
   - tv
@@ -29,6 +29,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Controller Mis-Matching and Aim Assist
 
 ![mouse keyboard controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/mouse-keyboard-controller.png) 
@@ -42,10 +49,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  A few games offer "controller matching" to avoid this issue, allowing players to match with other players who are using the same hardware. This would be a better feature if more games included it, but sadly, it's not seen on a lot of cross-platform titles. This is only an issue when you're playing competitive PVP titles, however. Co-op titles don't need any adjusting for this metric.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Mouse-and-Keyboard vs. Controller War
@@ -60,13 +67,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Problems That Impact Competitive Play
 
  For friendly, co-op games, having latency issues or control scheme bias isn't such a huge issue. However, for other games that have a healthy competitive scene, this could be a terrible thing to deal with.
@@ -79,13 +79,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
 ![A Razer Firefly V2 Pro gaming mouse on a light-up mouse pad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/gaming-mouse-on-therazer-firefly-v2-pro_53678776130_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  As a PC player, it gets very difficult to keep up with my console friends when they're running marathon sessions. My keyboard-and-mouse is great for accuracy and precision, but after a while, carpal tunnel syndrome starts setting in. Meanwhile, my console friends are just getting started with their comfy controllers for the next four hours. This downside is something a lot of friend groups have to deal with when cross-platform gaming is considered.
@@ -94,9 +87,29 @@ Jerome Thomas / How-To Geek
 
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Few Other Considerations
 
 ![Several electronic devices sharing the same screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/cross-platform-computer-smartphone-gaming.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-illustration-on-theme-cross-platform-1335072044)_
 
@@ -105,13 +118,6 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
  Gameplay in cross-platform titles requires a bit more work on the developer's part. The reason so many games traditionally lacked this functionality is because of how much work goes into porting games between hardware, including testing for compatibility across platforms. It's very likely updates may cause a game to become unplayable on one platform or another.
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You Can Always Turn Off Cross-Play
 
@@ -134,20 +140,19 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>[Updated] 2024 Approved IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-podcasts-versus-youtube-the-ultimate-content-battle/"><u>[Updated] 2024 Approved Podcasts Versus YouTube The Ultimate Content Battle</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessing-the-extollo-lan-socket-1500-cutting-edge-network-adapter-for-fast-transmission-and-optimal-power-utilization/"><u>Assessing the Extollo LAN Socket 1500 - Cutting-Edge Network Adapter for Fast Transmission & Optimal Power Utilization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-video-codecs-h265-hevc-versus-h264-avc-quality-compression-and-efficiency-analysis/"><u>Comparing Video Codecs: H.265 HEVC versus H.264 AVC – Quality, Compression & Efficiency Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-amazon-fire-hd-10-for-children-top-parentally-managed-tablet-on-the-market/"><u>Comprehensive Guide to the Amazon Fire HD 10 for Children: Top Parentally Managed Tablet on the Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-performance-of-googles-telephony-offerings/"><u>Evaluating the Performance of Google’s Telephony Offerings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-superior-samsung-galaxy-s21-ultra-ruling-the-android-market/"><u>Expert Analysis of the Superior Samsung Galaxy S21 Ultra - Ruling the Android Market</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hp-officejet-4650-ready-windows-driver-software-download/"><u>Get Your HP OfficeJet 4650 Ready: Windows Driver Software Download</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-google-pixel-fold-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Google Pixel Fold to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-tips-for-dealing-with-youtube-copyright-notifications/"><u>In 2024, Expert Tips for Dealing With YouTube Copyright Notifications</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-logitech-c615-camera-striking-balance-between-cost-and-functionality/"><u>In-Depth Review of the Logitech C615 Camera: Striking Balance Between Cost and Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-the-samsung-galaxy-tab-s3-a-solid-choice-expert-insights-and-review/"><u>Is the Samsung Galaxy Tab S3 a Solid Choice? Expert Insights and Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/key-elements-of-attractive-fb-video-commercials-for-2024/"><u>Key Elements of Attractive FB Video Commercials for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-the-linksys-max-stream-ac1-900-is-a-must-have-in-your-tech-arsenal-an-in-depth-analysis/"><u>Why the Linksys Max-Stream AC1 900 Is a Must-Have in Your Tech Arsenal: An In-Depth Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagram-stories-step-by-step-recording-guide/"><u>[Updated] 2024 Approved Mastering Instagram Stories Step-by-Step Recording Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-toddler-tycoon-ryan-kaji-and-the-wealthy-web-world/"><u>[Updated] 2024 Approved Toddler Tycoon Ryan Kaji and the Wealthy Web World</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expertise-unlocked-in-depth-tutorial-for-apples-screen-recording-techniques/"><u>[Updated] In 2024, Expertise Unlocked In-Depth Tutorial for Apple's Screen Recording Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/digital-diaries-of-daily-displays-fb-live-downloads/"><u>Digital Diaries of Daily Displays FB Live Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-new-features-in-chatgpt-top-additions-you-should-know-about/"><u>Explore New Features in ChatGPT: Top Additions You Should Know About</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/infinite-screen-shot-device/"><u>Infinite Screen Shot Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/join-baldurs-gate-3-adventures-voiced-by-sir-david-attenborough-brought-to-life-through-ai-voice-mod-innovation/"><u>Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/latest-update-paramountplus-begins-phasing-out-selected-shows-and-movies/"><u>Latest Update: Paramount+ Begins Phasing Out Selected Shows and Movies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-3d-printing-at-home-the-ultimate-strategy-for-your-domestic-workshop/"><u>Mastering 3D Printing at Home - The Ultimate Strategy for Your Domestic Workshop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-retro-gaming-a-step-by-step-guide-to-enjoying-dosbox-classics-on-your-ipad/"><u>Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-playstation-5-controller-connection-in-windows-11-a-comprehensive-guide/"><u>Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-voice-chat-a-step-by-step-guide-to-using-discord-with-your-playstation-5/"><u>Mastering Voice Chat: A Step-by-Step Guide to Using Discord with Your PlayStation 5</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimizing-screencapture-techniques-for-maximum-results-for-2024/"><u>Optimizing ScreenCapture Techniques for Maximum Results for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/pioneering-techniques-in-documentary-scripting/"><u>Pioneering Techniques in Documentary Scripting</u></a></li>
 </ul></div>
 

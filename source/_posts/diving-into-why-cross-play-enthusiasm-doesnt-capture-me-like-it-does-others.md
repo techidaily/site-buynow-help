@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2024-10-11T16:39:19.664Z
-updated: 2024-10-18T16:02:52.377Z
+date: 2024-10-22T08:04:51.607Z
+updated: 2024-10-23T22:43:16.385Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Remember when cross-platform multiplayer gaming was something we all wanted? Now that we've got it, I don't think it's panned out exactly how I expected. Here's why I'm so far unimpressed by cross-platform gaming.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Cross-Platform Multiplayer Offers Gamers
 
  Don't get me wrong, I know that [cross-platform gaming is pretty cool](https://win-howtos.techidaily.com/overcoming-laptop-navigation-hurdles-how-to-unfreeze-and-restore-mouse-functionality/). It's a technological innovation to tie games from different systems together in the same space. There are several things I really appreciate about playing with people on different platforms, now that I've experienced it.
@@ -39,13 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ##  Controller Mis-Matching and Aim Assist
 
 ![mouse keyboard controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/mouse-keyboard-controller.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
@@ -68,10 +54,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Problems That Impact Competitive Play
@@ -82,9 +68,23 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
 ![A Razer Firefly V2 Pro gaming mouse on a light-up mouse pad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/gaming-mouse-on-therazer-firefly-v2-pro_53678776130_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -93,13 +93,6 @@ Jerome Thomas / How-To Geek
  Granted, a person can sometimes set up a keyboard and mouse for use with an [Xbox](https://on-screen-recording.techidaily.com/new-in-2024-go-pro-capturing-ps4-games-in-hd-via-obs-studio-tutorial/) or a [PS5](https://instagram-video-recordings.techidaily.com/updated-unlocking-verified-status-essential-strategies-for-increasing-instagram-popularity/), but why would you want to do that when it's a step back in terms of comfort? The accuracy boost just isn't worth it when it comes to long gaming sessions. Console players will always be more comfortable for long sessions than PC gamers locked into a keyboard and mouse.
 
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  A Few Other Considerations
 
@@ -112,6 +105,13 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
  Gameplay in cross-platform titles requires a bit more work on the developer's part. The reason so many games traditionally lacked this functionality is because of how much work goes into porting games between hardware, including testing for compatibility across platforms. It's very likely updates may cause a game to become unplayable on one platform or another.
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Can Always Turn Off Cross-Play
 
@@ -134,20 +134,20 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-passive-page-peeps-to-paying-patrons-facebook-monetization-magic/"><u>[New] 2024 Approved From Passive Page Peeps to Paying Patrons Facebook Monetization Magic</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-effortless-transition-from-spotify-to-youtube-find-the-best-apps-for-2024/"><u>[Updated] Effortless Transition From Spotify to YouTube Find the Best Apps for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-visual-storytelling-for-social-media-editing-vt-videos-in-fcpx/"><u>[Updated] In 2024, Visual Storytelling for Social Media Editing VT Videos in FCPX</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-voice-modification-tools-for-youtube-creators/"><u>2024 Approved Top Voice Modification Tools for YouTube Creators</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-glion-dolly-electric-scooter-assessment-luxurious-design-and-swift-performance/"><u>Comprehensive Glion Dolly Electric Scooter Assessment: Luxurious Design & Swift Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-netgear-c3000-cabledsl-gateway-is-it-still-effective/"><u>Comprehensive Review of the Netgear C3000 Cable/DSL Gateway - Is It Still Effective?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-test-drive-analysis-of-the-maisto-rc-rock-crawler-perfect-toy-for-kids-and-adults/"><u>Comprehensive Test Drive Analysis of the Maisto RC Rock Crawler - Perfect Toy for Kids and Adults!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/conquering-fearsome-foes-an-insiders-look-into-monster-hunter-world-gameplay/"><u>Conquering Fearsome Foes: An Insider's Look Into Monster Hunter: World Gameplay</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-finest-gaming-experiences-google-play-pass-edition/"><u>Discover the Finest Gaming Experiences: Google Play Pass Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exceptional-value-with-lg-24lh4830-smart-television-saving-money-not-on-picture-quality/"><u>Exceptional Value with LG 24LH4830 Smart Television - Saving Money, Not on Picture Quality</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-note-30-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Note 30 5G Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/streamline-your-setup-quick-guide-for-downloading-elgato-drivers/"><u>Streamline Your Setup: Quick Guide for Downloading Elgato Drivers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-future-is-here-with-tesla-robotaxi-discover-expected-costs-d-day-and-specs-all-the-latest-gossip/"><u>The Future Is Here with Tesla Robotaxi! Discover Expected Costs, D-Day and Specs - All the Latest Gossip</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-gear-for-youtube-beginners-essential-tech-guide/"><u>[New] Top Gear for YouTube Beginners Essential Tech Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-best-calling-solutions-7-1-ranked/"><u>[Updated] Windows' Best Calling Solutions, #7-#1 Ranked</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accelerated-french-pronunciation-for-hues/"><u>Accelerated French Pronunciation for Hues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cultivating-lasting-partnerships-with-brands-in-youtube-land/"><u>Cultivating Lasting Partnerships with Brands in Youtube Land</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decision-time-which-is-better-a-head-to-head-analysis-of-apple-watch-s9-and-fitbit-charge-6/"><u>Decision Time! Which Is Better? A Head-to-Head Analysis of Apple Watch S9 & Fitbit Charge 6</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y36-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y36 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-samsung-galaxy-f04-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Samsung Galaxy F04</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v30-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo V30</u></a></li>
+<li><a href="https://extra-support.techidaily.com/magix-acid-pro-unveiled-and-options-examined-for-2024/"><u>Magix ACID Pro Unveiled & Options Examined for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mohu-blade-tv-antenna-review-a-unique-design-and-good-indoor-performance/"><u>Mohu Blade TV Antenna Review: A Unique Design And Good Indoor Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pedaling-towards-better-tracking-inside-look-at-mapmyride-app-review/"><u>Pedaling Towards Better Tracking? Inside Look at MapMyRide App Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-a51-5g-evaluation-excellent-deal-for-budget-conscious-tech-enthusiasts/"><u>Samsung Galaxy A51 5G Evaluation: Excellent Deal for Budget-Conscious Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-a51-5g-unleashed-exceptional-value-for-next-gen-network-speed-enthusiasts/"><u>Samsung Galaxy A51 5G Unleashed - Exceptional Value for Next-Gen Network Speed Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-choice-for-budget-readers-a-comprehensive-amazon-kindle-2019-review/"><u>The Best Choice for Budget Readers? - A Comprehensive Amazon Kindle (2019) Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-tips-for-increasing-fps-performance-in-ring-of-elysium/"><u>Ultimate Tips for Increasing FPS Performance in Ring of Elysium</u></a></li>
 </ul></div>
 

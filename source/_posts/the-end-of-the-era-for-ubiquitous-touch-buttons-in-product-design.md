@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-10-16T16:33:58.592Z
-updated: 2024-10-18T18:31:24.946Z
+date: 2024-10-23T03:26:32.958Z
+updated: 2024-10-24T04:55:34.084Z
 tags:
   - games
   - tv
@@ -31,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Capacitive Touch Buttons Are Everywhere
 
  There was a period in the late 2010s when touch buttons seemed to appear on almost everything, whether their use was justified or not. Though some manufacturers have moved away from the practice, others seem to be shoehorning capacitive panels into anything and everything.
@@ -42,10 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -55,10 +62,10 @@ Tim Brookes / How-To Geek
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
@@ -69,13 +76,6 @@ Tim Brookes / How-To Geek
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  But this logic doesn’t extend to every device. Though the argument for longevity is a valid one, did we trade usability for reliability? And is that trade-off worth it?
@@ -83,6 +83,13 @@ Tim Brookes / How-To Geek
  Is it better to get more time out of an inferior user experience, or accept that moving parts occasionally require maintenance? Is your washing machine motor going to fail before the interface on the front of it? One of those things is far cheaper and easier to replace.
 
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Some Manufacturers Ditched Touch for a Reason
 
@@ -99,13 +106,6 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -126,15 +126,16 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-every-frame-a-deep-dive-into-apowersoft-for-pcs/"><u>[New] 2024 Approved Capturing Every Frame A Deep Dive Into Apowersoft for PCs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-expertly-choosing-the-leading-5-facebook-video-grabers/"><u>[Updated] In 2024, Expertly Choosing the Leading 5 Facebook Video Grabers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-maximizing-your-youtube-investments-through-famebit-networking-tactics/"><u>2024 Approved Maximizing Your YouTube Investments Through FameBit Networking Tactics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converti-i-file-mpe-gratis-al-formato-ogg-con-leditore-online-movavi-scarica-e-usa-senza-costi/"><u>Converti I File MPE Gratis Al Formato OGG Con L'editore Online Movavi - Scarica E Usa Senza Costi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decoding-the-differences-apples-new-iphone-models-pro-and-pro-max-demystified/"><u>Decoding the Differences: Apple's New iPhone Models, Pro and Pro Max Demystified</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-high-definition-entertainment-without-breaking-the-bank-hisense-50-hdr-tv-analysis/"><u>Discover High Definition Entertainment without Breaking the Bank: Hisense 50 HDR TV Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-kobo-forma-a-sophisticated-e-reader-tailored-for-serious-readers/"><u>Discovering the Kobo Forma: A Sophisticated E-Reader Tailored for Serious Readers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-performance-a-comprehensive-review-of-the-samsung-galaxy-s10-smartphone/"><u>Elite Performance: A Comprehensive Review of the Samsung Galaxy S10 Smartphone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-14-free-video-editors-with-no-watermark-for-2024/"><u>Updated The Ultimate List 14 Free Video Editors with No Watermark for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/who-leads-the-streaming-race-twitch-vs-youtube-showdown/"><u>Who Leads the Streaming Race? Twitch vs YouTube Showdown</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-skybound-streaming-engaging-your-audience-on-facebook-for-2024/"><u>[New] Skybound Streaming Engaging Your Audience on Facebook for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unblock-mystery-solved-detecting-snapchat-shutout-for-2024/"><u>[Updated] Unblock Mystery Solved Detecting Snapchat Shutout for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deep-dive-samsung-galaxy-s8s-4k-capabilities/"><u>Deep Dive Samsung Galaxy S8's 4K Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-apple-watch-se-analysis-and-overview/"><u>Economical Apple Watch SE Analysis and Overview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-extended-performance-with-the-incredibly-durable-lg-gram-156-inch-laptop-2018-a-detailed-analysis/"><u>Experience Extended Performance with the Incredibly Durable LG Gram 15.6-Inch Laptop (2018) - A Detailed Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-cutting-edge-techniques-for-captivating-online-advertising/"><u>In 2024, Cutting-Edge Techniques for Captivating Online Advertising</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v27e-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V27e Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-alienwares-premium-gaming-machine-the-unbeatable-aurora-r11-our-choice-for-best-pc-of-2021/"><u>In-Depth Analysis of Alienware's Premium Gaming Machine: The Unbeatable Aurora R11 - Our Choice for Best PC of 2021</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-samsung-galaxy-watch3-assessment-timeless-design-meets-cutting-edge-technology/"><u>In-Depth Samsung Galaxy Watch3 Assessment: Timeless Design Meets Cutting-Edge Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/powershot-g9x-mark-ii-review-a-retro-styled-photography-perfect-for-travelers/"><u>PowerShot G9X Mark II Review – A Retro-Styled Photography Perfect for Travelers</u></a></li>
 </ul></div>
 

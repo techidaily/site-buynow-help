@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept"
-date: 2024-10-17T16:37:50.713Z
-updated: 2024-10-18T16:21:45.096Z
+date: 2024-10-22T17:00:56.611Z
+updated: 2024-10-23T19:25:27.539Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Have you got backlog dread? Do you stare at your pile of games forlornly as you swipe your credit card once again to put even more on the pile? I'm here to tell you that your "backlog" shouldn't be weighing you down.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What’s This “Backlog” Stuff?
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  The word "backlog" implies a couple of things, but the most pertinent things that pop into my head are "work" and "obligation." You might have a backlog of reports to work through, or a backlog of videos to edit. It's something you are obligated to do, and you're behind! So you can't really ever rest until that backlog is cleared. Applying that concept to your collection of video games feels fundamentally wrong.
 
  Games are entertainment, not an obligation. So it might be better psychologically-speaking, to stop thinking of your video game collection as a "backlog" in the first place!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Backlogs Are a Rainy-Day Blessing
 
@@ -52,10 +45,17 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You Don’t Have to Finish All Your Games
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Did I waste my time playing them? No! They were fun while they lasted, and I enjoyed my time with them, but just like any healthy relationship, you need to know when the right time is to walk away.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don’t Let the Sunk Cost Fallacy Stop Your Fun
@@ -96,20 +96,22 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-masterful-approaches-to-applying-digital-video-effects-online/"><u>[New] 2024 Approved Masterful Approaches to Applying Digital Video Effects Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-branding-beats-technicalities-focus-on-your-streams-signature-style/"><u>[Updated] Branding Beats Technicalities Focus on Your Stream's Signature Style</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1728496688148-windows-10-c/"><u>「Windows 10 Cドライブバックアップの詳細ガイド」</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-expert-tips-for-pc-gamers-ideal-snapshots/"><u>2024 Approved Expert Tips for PC Gamer's Ideal Snapshots</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728498771084-win10/"><u>迅速修复 Win10 螢幕上丟失檔案問題</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-asus-rt-ac68u-a-leap-in-speed-and-security-with-5g-wi-fi/"><u>Comprehensive Analysis of the Asus RT-AC68U – A Leap in Speed & Security with 5G Wi-Fi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-the-new-imac-featuring-the-game-changing-m1-chip-a-visual-and-technological-upgrade/"><u>Comprehensive Review: The New iMac Featuring the Game-Changing M1 Chip – A Visual & Technological Upgrade</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/deciding-between-an-ipad-pro-or-a-macbook-pro-essential-differences-explored/"><u>Deciding Between an iPad Pro or a MacBook Pro: Essential Differences Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-premier-8-androidios-game-titles/"><u>Discover The Premier 8 Android/iOS Game Titles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-apple-devices-face-off-iphone-15-plus-against-pro-max-explored/"><u>Elite Apple Devices Face-Off: IPhone 15 Plus Against Pro Max Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-crystal-clear-signal-with-the-clearstream-2v-all-weather-tv-antenna-a-comprehensive-user-assessment/"><u>Experience Crystal-Clear Signal with the ClearStream 2V All-Weather TV Antenna - A Comprehensive User Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-gratis-locales-browse-and-post-on-oodle-today/"><u>Experience Gratis Locales: Browse and Post on Oodle Today!</u></a></li>
-<li><a href="https://techidaily.com/get-your-free-updated-dell-driver-packs-for-optimal-performance-on-windows-11/"><u>Get Your Free Updated Dell Driver Packs for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y100i-power-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y100i Power 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-guide-to-youtube-video-resolutions-and-aspects/"><u>[New] In 2024, Essential Guide to YouTube Video Resolutions & Aspects</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-scrutinizing-vsdc-screen-recording-capabilities-for-2024/"><u>[Updated] Scrutinizing VSDC Screen Recording Capabilities for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-durecorder-handbook-insights-and-evaluation/"><u>[Updated] Ultimate DuRecorder Handbook Insights & Evaluation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/6z2p5paw55qe44gq44ot44oh44kq44kz44oz44oq44o844k44o85aplusplus562w44oe44o844oric0g576o44gx44gp44cb5qmf6io95ocn44ks6auy44kb44kl57eo6zug44k944ov44oi5o6o6jam/"><u>革新的なビデオコンバーター対策ツール - 美しく、機能性を高める編集ソフト推薦</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-nokia-c12-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Nokia C12 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/balancing-ai-realism-six-key-cues-for-authentic-respitsonses/"><u>Balancing AI Realism: Six Key Cues for Authentic Respitsonses</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smart-entryway-a-thorough-examination-of-ring-vs-nest-bell-systems/"><u>Choosing Your Smart Entryway: A Thorough Examination of Ring vs Nest Bell Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/enhancing-click-through-rates-with-three-distinct-writing-models-for-ads/"><u>Enhancing Click-Through Rates with Three Distinct Writing Models for Ads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/flexible-illumination-with-spk10-037-studios-new-favourite/"><u>Flexible Illumination with SPK10-037: Studio's New Favourite</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgear-nighthawk-x6s-the-ultimate-wi-fi-booster-for-seamless-internet-experience/"><u>Netgear Nighthawk X6S: The Ultimate Wi-Fi Booster for Seamless Internet Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/optimizing-for-success-move-from-windows-10-home-to-professional/"><u>Optimizing for Success: Move From Windows 10 Home to Professional</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/perfect-pairings-adding-captions-that-enhance-your-tiktoks/"><u>Perfect Pairings Adding Captions that Enhance Your TikToks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-remastered-tale-of-demons-souls-breathtaking-art-with-classic-gaming-magic/"><u>The Remastered Tale of Demons' Souls: Breathtaking Art with Classic Gaming Magic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-amazon-lunas-seamless-cloud-gaming-performance/"><u>The Ultimate Guide to Amazon Luna's Seamless Cloud Gaming Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-wireless-connectivity-with-netgears-nighthawk-ax8-an-in-depth-review/"><u>Unlocking the Potential of Wireless Connectivity with Netgear's Nighthawk AX8: An In-Depth Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975520533-upgrade-your-viewing-swift-and-straightforward-asus-monitor-driver-installation/"><u>Upgrade Your Viewing: Swift and Straightforward ASUS Monitor Driver Installation.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vizio-smartcast-vs-firestick-a-comparison/"><u>Vizio SmartCast vs FireStick: A Comparison</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Conquer and Rule: Discover the Thrills of Imperator: Rome"
-date: 2024-08-15T06:02:13.899Z
-updated: 2024-08-16T06:02:13.899Z
+date: 2024-10-23T08:32:59.873Z
+updated: 2024-10-24T00:37:05.338Z
 categories:
   - BestProducts
 description: "This Article Describes Conquer and Rule: Discover the Thrills of Imperator: Rome"
@@ -64,16 +64,23 @@ Lifewire / James Huenink
  80’s movies promised a lot of cool future tech that hasn’t appeared. We’re not riding on hoverboards, nor do our cars fly. The one thing we did get is inexpensive and simple[video calling](https://www.lifewire.com/apps-for-free-video-chat-3426695) . The Docooler USB 2.0 12 Megapixel promises to make that a reality with an HD camera for the lowest cost in its class. Can this dirt-cheap[camera](https://www.lifewire.com/best-digital-cameras-under-100-3897833) deliver on its promise to connect us in HD?
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/YIcu00ga1PIrZWJzNk-mS5C4z-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_5_Final_Horiz-23ef27f359f24e919ebb2f47f9089957.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Flimsy and difficult to use**
 
  The first thing we noticed about the Docooler USB 2.0 12 Megapixel is how cheap it feels. The camera itself has a plastic, silver housing with a shiny silver focus ring on the end. It feels like it could break at any moment. The base is made of a transparent plastic, which is also available in blue and black. The plastic is so rigid that we expect it to break under regular use. Every time we adjusted the camera, the plastic creaked like a rusty door in a haunted house. Even in our short testing period, the joints started getting loose. We had to check several times just to make sure it wasn’t broken.
@@ -90,6 +97,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  It was easy to set up when we clipped it to a laptop, but terrible when we tried to put it on our HD TV. Every time we moved the computer or the USB cable, the camera slid, twisted, or fell off the TV. The ball joint, which connects the camera to the base, didn’t move smoothly, so we struggled to point the Docooler USB 2.0 12 Megapixel in the right direction, and we were too worried about breaking the plastic to try and force it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Camera Quality: Not even close to advertised**
 
  The Docooler USB 2.0 12 Megapixel is advertised as a 12 megapixel camera capable of HD video, but it wasn’t even close to that. We tested the resolution by taking photos through photobooth, and they were only 640 x 480, or .31 megapixels. We tested the video resolution by using an online webcam testing tool, and it showed exactly the same results. The manufacturer claims the camera has 38 times more resolution than it actually does. We should have known that the manufacturer’s claims were too good to be true given the $8 asking price, but claiming a disparity that huge is really brazen.
@@ -99,15 +113,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  We tested the camera’s field of view by placing it 13.5 inches from a wall and measuring the field of view, 8.25 inches. After running those measurements through some trigonometric calculations, we found that it has a 34 degree field of view. The camera also has a surprising amount of distortion. Vertical lines in the background had a significant tilt backwards, and we saw tremendous barrel distortion everywhere except for the very center of the image.
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## **Performance: Underwhelming performance in video and audio**
 
  We used[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test out the video and audio performance using the webcam for recording and[conference calls](https://www.lifewire.com/top-free-web-conferencing-tools-2377241) . It was difficult to position the Docooler USB 2.0 12 Megapixel correctly, because by the time we clipped it on and sat down, the camera had slipped out of position. This happened several times before we finally resigned ourselves to using a tilted camera in our calls.
@@ -124,9 +132,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Falls short**
 
 **_Logitech C270_ :** The Logitech C270 is a low-cost webcam that goes for $40 MSRP, though you can frequently find it for approximately $20\. For $10 more than the Docooler, you get a big upgrade. It has 720p video calling and takes photos at 3MP. The microphone filters out background noise, so it shouldn’t have the same echo effects as the Docooler Web Cam. Even though it’s twice the price, you get a lot more camera for your ten bucks.
@@ -142,8 +147,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  The Docooler USB 2.0 12 Megapixel is one of the most inexpensive cameras on the market for a reason. This camera doesn’t come close to delivering what it promises, meaning it's not worth even the trifle you'd pay for it.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  USB 2.0 12 Megapixel
@@ -161,14 +170,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * Frame rate  30fps
 * What’s Included  Docooler USB 2.0 12 Megapixel, Quick Start Guide
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +183,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-inside-facetunes-magic-an-in-depth-analysis-for-perfect-photos-for-2024/"><u>[New] Inside Facetune's Magic An In-Depth Analysis for Perfect Photos for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-top-choices-premium-wrist-pads-for-enhanced-typing-ergonomics/"><u>2024’S Top Choices: Premium Wrist Pads for Enhanced Typing Ergonomics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-close-look-at-star-wars-squadrons-experience-the-thrill-of-hyper-realistic-space-skirmishes/"><u>A Close Look At Star Wars Squadrons – Experience the Thrill of Hyper-Realistic Space Skirmishes!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-detailed-analysis-and-user-reviews-of-the-newly-launched-ring-doorbell-pro-max/"><u>A Detailed Analysis & User Reviews of the Newly Launched Ring Doorbell Pro Max</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/an-in-depth-analysis-of-the-stylish-new-addition-to-taotronics-led-lineup/"><u>An In-Depth Analysis of the Stylish New Addition to TaoTronics’ LED Lineup</u></a></li>
+<li><a href="https://driver-download.techidaily.com/asus-bluetooth-driver-updates-and-download-made-easy-for-seamless-connectivity/"><u>ASUS Bluetooth Driver Updates & Download Made Easy for Seamless Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aukeys-ultimate-usb-30-hub-unboxing-the-simple-stylish-performance/"><u>Aukey's Ultimate USB 3.0 Hub: Unboxing the Simple, Stylish Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/breakdown-of-the-alienware-aurora-r7-impressive-specs-with-noticeable-cost-implications/"><u>Breakdown of the Alienware Aurora R7: Impressive Specs with Noticeable Cost Implications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-and-reliable-ourlink-u631-wireless-network-adapter-top-usb-wi-fi-connectivity/"><u>Compact & Reliable Ourlink U631 Wireless Network Adapter - Top USB Wi-Fi Connectivity</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-linksys-ea9500-router-a-high-performance-device-with-smart-features/"><u>Comprehensive Analysis of Linksys EA9500 Router: A High-Performance Device with Smart Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosis-and-fixes-for-hyperx-cloud-mic-that-wont-work-a-guide/"><u>Diagnosis & Fixes for HyperX Cloud Mic That Won't Work: A Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-installupdate-hp-laptop-device-drivers-in-windows-step-by-step-guide/"><u>How to Install/Update HP Laptop Device Drivers in Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-sluggishness-valorant-on-windows/"><u>Overcome Sluggishness: Valorant on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-the-interruptions-managing-and-correcting-unplanned-computer-sleep-mode/"><u>Stop the Interruptions: Managing and Correcting Unplanned Computer Sleep Mode</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-visuals-a-deep-dive-into-optimal-youtube-thumbnail-sizes/"><u>Striking Visuals A Deep Dive Into Optimal YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-your-gaming-potential-a-comprehensive-review-of-the-asus-rog-rapture-gt-ax11000-wireless-router/"><u>Unleash Your Gaming Potential: A Comprehensive Review of the Asus ROG Rapture GT-AX11000 Wireless Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/z7-review-nearly-perfect-practically-exceptional-photography/"><u>Z7 Review: Nearly Perfect, Practically Exceptional Photography</u></a></li>
+</ul></div>
 

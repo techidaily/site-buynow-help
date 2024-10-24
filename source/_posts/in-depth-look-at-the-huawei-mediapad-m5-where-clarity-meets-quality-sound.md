@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at the Huawei MediaPad M5 – Where Clarity Meets Quality Sound
-date: 2024-10-08T16:45:01.189Z
-updated: 2024-10-12T16:17:10.843Z
+date: 2024-10-20T09:14:26.807Z
+updated: 2024-10-24T07:05:00.947Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Look at the Huawei MediaPad M5 – Where Clarity Meets Quality Sound
@@ -40,10 +40,10 @@ Lifewire / Erika Rawes
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab S6
@@ -95,6 +95,13 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Qualcomm 855**
 
  The Tab S6 has the Qualcomm 855 processor, which is a pretty solid mobile CPU. It comes in two versions: one version with 128GB of storage and 6 GB of RAM, and one version with 256 GB of storage and 8 GB of RAM. I tested the former version. On PCMark Work 2.0, the lower level Tab S6 scored a 9022\. On Geekbench 5, the Tab S6 scored a single core score of 747 and a multi-core score of 2,518\. It’s multi-core scores come in very close to the A12 Bionic chip in the iPad (2019).
@@ -102,19 +109,6 @@ Lifewire / Erika Rawes
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/TIUmjQSMgpAJw4W3I6fcgiYY1BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_06-cc64b6b41e8f4420b9fe38d223541b52.jpg)
 
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Productivity: S Pen included, keyboard case sold separately**
 
@@ -125,13 +119,6 @@ Lifewire / Erika Rawes
  The Tab S6 also features Samsung DeX mode, which provides more of a desktop feel, and allows you to cast your display on a larger screen.
 
  After about a week, the S Pen became like an extra appendage for me.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Audio: Dolby Atmos**
 
@@ -150,10 +137,10 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Camera: Dual rear cameras**
@@ -162,18 +149,18 @@ Lifewire / Erika Rawes
 
  The Tab S6 can take UHD video (3840x2160) at 30 FPS with the rear camera and FHD (1920x1080) at 30 FPS with the front cam, and it has a few cool software features like a food mode, pro mode, night mode, and hyperlapse. You can also create an AR emoji and take advantage of additional features like Bixby Vision.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Battery: Worse than the Tab S4**
 
  The Tab S6 has a serviceable battery capacity. The 7040 mAh battery lasts for up to 15 hours play time. The S Pen does take some of the Tab’s battery, but it doesn’t affect the battery life to a noticeable degree. I was able to use the S6 on and off for most of the day, and I still had some battery leftover for the next day. The Galaxy Tab S4 had a slightly better 7300 mAh battery that lasted for up to 16 hours of play time. I was surprised to see that the Tab S6 had less battery capacity than its predecessor.
 
  I was able to use the S6 on and off for most of the day, and I still had some battery leftover for the next day.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Now on Android 10**
 
@@ -183,19 +170,20 @@ Lifewire / Erika Rawes
 
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/C7-02cY18jujcl8-9vfJim9_H_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_05-2f0768554c044e18bedec871758e51ef.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: On the high end**
@@ -245,21 +233,22 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-avatar-design-in-the-metaverse-explained-simply/"><u>[New] The Art of Avatar Design in the Metaverse Explained Simply</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elite-portable-playstation-storage-best-external-units/"><u>[Updated] In 2024, Elite Portable PlayStation Storage Best External Units</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-windows-system-insights-step-by-step/"><u>Accessing Windows System Insights Step-by-Step</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/asus-chromebook-flip-c302ca-unveiled-amazing-performance-at-an-outstanding-low-price-point/"><u>Asus Chromebook Flip C302CA Unveiled: Amazing Performance at an Outstanding Low Price Point.</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/complimentary-guide-retrieving-lost-information-on-a-deleted-external-hard-drive/"><u>Complimentary Guide: Retrieving Lost Information on a Deleted External Hard Drive</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-netgear-nighthawk-c7000-top-tier-wireless-router-unveiled/"><u>Comprehensive Evaluation of the Netgear Nighthawk C7000 - Top-Tier Wireless Router Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-havit-5-gaming-laptop-cooling-pad-keep-your-system-chilled/"><u>Expert Analysis of the HAVIT 5 Gaming Laptop Cooling Pad - Keep Your System Chilled</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-differences-in-vimeo-and-youtube-services-for-2024/"><u>Exploring Differences in Vimeo & YouTube Services for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-stars-a-thrilling-sci-fi-adventure-and-shooter-game/"><u>Exploring the Stars: A Thrilling Sci-Fi Adventure and Shooter Game</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29e-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29e Phone without Google Account?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/intense-review-the-gecata-game-watcher-for-2024/"><u>Intense Review The Gecata Game Watcher for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-volume-button-malfunction-discover-7-ways-to-fix-it-easily-and-quickly/"><u>IPhone Volume Button Malfunction? Discover 7 Ways to Fix It Easily and Quickly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/masterful-windows-melodies-for-2024/"><u>Masterful Windows Melodies for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-adaptable-ally-for-travel-discovering-patekfly-12/"><u>The Adaptable Ally for Travel: Discovering Patekfly 12</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/understanding-the-differences-between-ipad-pro-and-macbook-pro/"><u>Understanding the Differences Between iPad Pro and MacBook Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-microsoft-sculpt-keyboard-worth-the-value-for-your-health/"><u>Unpacking the Microsoft Sculpt Keyboard – Worth the Value for Your Health?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-animate-archive-the-top-choice-for-twitter-animated-enthusiasts/"><u>[New] Animate Archive The Top Choice for Twitter Animated Enthusiasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-data-buffering-unit-for-sony-a7s-ii/"><u>[New] Premium Data Buffering Unit for Sony A7S II</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-creative-potential-for-video-editing-in-windows-photos/"><u>[New] Unleash Creative Potential for Video Editing in Windows Photos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-immutable-disabling-routine-for-youtubes-quick-content/"><u>[Updated] Immutable Disabling Routine for YouTube’s Quick Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-uncomplicated-routines-to-streamline-your-online-sessions-pcmac-os/"><u>[Updated] Uncomplicated Routines to Streamline Your Online Sessions - PC/Mac OS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-most-popular-online-music-subscription-services-this-year/"><u>Discover the Most Popular Online Music Subscription Services This Year</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explaining-methods-to-encourage-social-sharing-of-the-guide-thereby-increasing-its-reach-and-improving-seo-metrics/"><u>Explaining Methods to Encourage Social Sharing of the Guide, Thereby Increasing Its Reach and Improving SEO Metrics.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-best-must-have-accessories-for-your-desktop-or-laptop/"><u>Exploring the Best Must-Have Accessories for Your Desktop or Laptop</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-prime-frame-rate-enhancing-laggard-motion/"><u>In 2024, Prime Frame Rate Enhancing Laggard Motion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lake-billings-outdoor-arena-lincolns-ice-box/"><u>Lake Billings Outdoor Arena (Lincoln's Ice Box)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-amd-rx-6700-xt-driver-available-supported-by-windows-11-10-and-7-systems/"><u>Latest AMD RX 6700 XT Driver Available: Supported by Windows 11, 10 & 7 Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/must-have-ipad-air-peripherals-your-guide-to-the-highest-quality-accessories/"><u>Must-Have iPad Air Peripherals : Your Guide to the Highest Quality Accessories</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/parents-pick-the-safest-and-most-secure-phones-for-children/"><u>Parents' Pick: The Safest and Most Secure Phones for Children</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revitalize-your-slumber-discover-three-innovative-gadgets-for-improved-rest/"><u>Revitalize Your Slumber: Discover Three Innovative Gadgets for Improved Rest</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-leading-single-board-computers-for-tech-enthusiasts-in-202n4/"><u>The Ultimate List: Leading Single-Board Computers for Tech Enthusiasts in 202N4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use-for-2024/"><u>Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why You Might Reconsider the Necessity of Investing in Your Own Arcade Game Console
-date: 2024-10-15T18:16:46.163Z
-updated: 2024-10-18T17:48:59.592Z
+date: 2024-10-21T06:02:52.508Z
+updated: 2024-10-24T00:58:09.749Z
 tags:
   - games
   - tv
@@ -26,6 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I've been toying with the idea of getting an old-school arcade cabinet. Not the original single-game systems I grew up with, but a modern emulated multi-game system that has the look and feel of stand-up arcade cabs. It's the ultimate geeky white elephant and as you might imagine as a responsible adult, I'm conflicted.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Arcade Cabs Are Too Big (or Are They?)
 
  All of my gaming stuff has been getting smaller and smaller over time. Gone is my huge gaming PC tower, replaced by a gaming laptop. My TV is now a razor-thin [OLED](https://extra-tips.techidaily.com/discovering-the-best-in-display-tech-10-list-for-your-mac/) mounted up on a wall. My [OLED Nintendo Switch](https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-15-prevention-and-solution-drfone-by-drfone-ios/) won't quite go in a pocket but it's still pretty tiny. So the idea of bringing a virtually immovable gaming device into my house seems like a bad idea.
@@ -37,22 +44,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I make reference to "JAMMA" boards below, and while it's not super-important information, you'll want to know that this is short for "Japan Amusement Machine and Marketing Association" and describes a wiring standard for arcade cabinets. Hence, a game on a JAMMA circuit board will work with a JAMMA arcade cabinet. This is the most common standard you'll encounter with both classic arcade cabinets and modern remakes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Finding Good Boards Is Getting Harder (Does It Matter?)
 
 ![A MisterCade JAMMA Kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/mistercade.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mister
 
@@ -68,6 +68,13 @@ Mister
 
  You can, of course, also roll your own by running something like [MAME](https://fox-hovers.techidaily.com/2024-approved-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/) on a Raspberry Pi. There are plenty of [Raspberry Pi arcade projects](https://medium.com/swlh/how-to-build-a-raspberry-pi-arcade-machine-3de4df2894c6) to find online, but again, this is for casual fans because the emulation won't satisfy purists. If it were me, unless my editors graciously bought me a MisterCade to review (hint-hint!) I'd probably buy something like the Arcade Legends systems, and just accept that emulation will never be perfect.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  DIY Cabs Are Too Hard (But, Not Really?)
 
  I might be into 3D printing, and like building desktop computers, but I am not actually a DIY guy. So the idea of building a cabinet from scratch isn't appealing. Even [building one from a kit](https://www.youtube.com/watch?v=qHfnyZZzvuo) fills me with dread, though it looks only mildly more involved than assembling an IKEA-style flatpack bookshelf.
@@ -78,25 +85,11 @@ Mister
 
 ![HORI Fighting Stick alpha](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/hori-fighting-stick-alpha.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _HORI_ 
 
  Maybe you don't have to buy the whole arcade cabinet. Instead, why not just buy a good arcade stick? If I just want to play casually, it doesn't even have to be that good. There are lots of great arcade sticks around thanks to the fighting game genre. Heck, you can even get those Pandora's Box arcade systems built into an arcade stick deck, that hooks up to your TV.
 
  That sounds sensible, and you can pack it all away when you're not playing. Still, it feels like it defeats the point of having a dedicated arcade system. It's like having a Chess board set up somewhere. You can just walk up to it and start playing with no friction. If you have friends over, people could just come and go as they felt like it, playing when the mood takes them.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  I Have Too Much Gaming Stuff Already (But Cabinets Are Cool)
 
@@ -107,6 +100,19 @@ _HORI_
  "Can't argue with that." adds the guy with the halo to my right.
 
  Well, I guess just _one_ more gaming thing can't hurt. Except maybe in the wallet area.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  It’ll Be My Most Expensive Game (But Also My Coolest)
 
@@ -129,20 +135,24 @@ _HORI_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-top-10-igtv-channels-you-should-start-following-now/"><u>[Updated] 2024 Approved Top 10 IGTV Channels You Should Start Following Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/avantree-aria-review-hidden-gems-discovered/"><u>Avantree Aria Review: Hidden Gems Discovered</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/avoiding-common-issues-during-your-os-catalnia-overhaul/"><u>Avoiding Common Issues During Your OS Catalnia Overhaul</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bargain-bin-treasures-high-quality-benq-visual-tech-on-prime-day-specials/"><u>Bargain Bin Treasures: High-Quality BenQ Visual Tech on Prime Day Specials</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breaking-down-the-power-of-netgears-nighthawk-x1-grower-a-deep-dive-into-extreme-wi-fi-velocity/"><u>Breaking Down the Power of Netgear's Nighthawk X1 Grower: A Deep Dive Into Extreme Wi-Fi Velocity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-entertainment-with-roku-your-ultimate-guide-to-its-impressive-content-catalog/"><u>Budget-Friendly Entertainment with Roku: Your Ultimate Guide to Its Impressive Content Catalog</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/challenging-the-future-will-there-be-a-successor-to-sonys-classic-handheld-playstation/"><u>Challenging the Future: Will There Be a Successor to Sony's Classic Handheld PlayStation?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-unleashing-potential-with-apples-ipad-mini-tier/"><u>Comprehensive Assessment: Unleashing Potential with Apple's iPad Mini Tier</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-the-best-online-stores-for-print-ready-images-after-using-flipbuilder-tools/"><u>Discover the Best Online Stores for Print-Ready Images After Using FlipBuilder Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-meizu-21-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Meizu 21 FRP Bypass Instantly</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 6 Plus If Youve Tried Everything</u></a></li>
-<li><a href="https://facebook.techidaily.com/no-announcement-of-third-gen-oculus-quest-this-year/"><u>No Announcement of Third-Gen Oculus Quest This Year</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-picks-optimal-sites-for-snagging-snapchat-alert-tunes-for-2024/"><u>Top Picks Optimal Sites for Snagging Snapchat Alert Tunes for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-windows-10-power-and-sleep-options-a-comprehensive-guide/"><u>Understanding the Windows 10 Power & Sleep Options: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cutting-edge-tools-for-unique-youtube-channel-names/"><u>[Updated] Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>[Updated] Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-the-newest-echo-generation-see-how-it-stacks-up/"><u>A Comprehensive Review of the Newest Echo Generation - See How It Stacks Up!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/advantages-and-disadvantages-of-using-pidgin-chat/"><u>Advantages & Disadvantages of Using Pidgin Chat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-most-downloaded-torrent-sites-of-the-year-your-essential-top-1e-checklist/"><u>Explore the Most Downloaded Torrent Sites of the Year - Your Essential Top 1E Checklist</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-12-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 12 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>In 2024, Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-aukey-usb-30-hub-assessment-uncomplicated-powerful-connectivity/"><u>In-Depth Aukey USB 3.0 Hub Assessment - Uncomplicated, Powerful Connectivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-mp4950mp495d-printer-drivers-for-windows-versions-11-8-and-7/"><u>Latest Canon MP4950/MP495D Printer Drivers for Windows Versions: 11, 8 & 7</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-lithuanian-online-top-tutorials-guide/"><u>Mastering Lithuanian Online: Top Tutorials Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/outstanding-performance-unleashed-motorola-one-5g-ace-with-lightning-fast-connectivity-and-powerful-battery/"><u>Outstanding Performance Unleashed - Motorola One 5G Ace with Lightning-Fast Connectivity & Powerful Battery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/photoscape-software-assessment-the-ultimate-guide-to-free-image-manipulation/"><u>PhotoScape Software Assessment: The Ultimate Guide to Free Image Manipulation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rethink-your-inbox-the-8-most-amazing-email-platforms-to-replace-gmail/"><u>Rethink Your Inbox - The 8 Most Amazing Email Platforms to Replace Gmail</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solved-navigating-windows-11s-boot-configuration-for-beginners/"><u>Solved: Navigating Windows 11'S Boot Configuration for Beginners</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/soundbot-sb210-appraisal-stellar-sonic-performance-when-running-smoothly-this-winter/"><u>Soundbot SB210 Appraisal: Stellar Sonic Performance when Running Smoothly This Winter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-topmate-c32-an-unbeatable-combination-of-affordability-and-excellence-in-laptop-cooling-solutions/"><u>The TopMate C3ˈ2 - An Unbeatable Combination of Affordability and Excellence in Laptop Cooling Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-discounted-offers-on-oneplus-during-prime-day-bonanza/"><u>Top Discounted Offers on OnePlus During Prime Day Bonanza</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-review-ring-doorbell-pro-plus-performance/"><u>Ultimate Review: Ring Doorbell Pro Plus Performance</u></a></li>
 </ul></div>
 

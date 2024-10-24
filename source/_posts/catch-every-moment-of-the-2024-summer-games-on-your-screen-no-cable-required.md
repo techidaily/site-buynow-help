@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2024-10-11T18:01:43.831Z
-updated: 2024-10-18T17:00:18.842Z
+date: 2024-10-17T00:15:39.550Z
+updated: 2024-10-23T23:31:02.771Z
 tags:
   - games
   - tv
@@ -23,13 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The 2024 Summer Olympics are landing in Paris at the end of July, and you don't need cable to access a lot of the action. NBC will broadcast many daytime and primetime events. With the aid of an over-the-air (OTA) antenna, you can watch for free.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Which Channels are Broadcasting the Olympics?
 
  NBCUniversal networks are the home of the 2024 Summer Olympics. During the day, NBC will air [at least nine hours](https://www.peacocktv.com/blog/2024-olympics-events-to-stream-live-on-peacock) of event coverage. If you have a local NBC affiliate in your area (and you almost certainly do), this is where you can [watch a lot of free events with an OTA antenna](https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-steelseries-arctis-pro-microphone-complete-solution/).
@@ -37,6 +30,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once daytime coverage concludes, the network will use the primetime hours to show highlights of the day's events.
 
  In addition to NBC, you will find some Olympics content streaming on the Peacock app, GOLF Channel, USA Network, CNBC, and E!. Telemundo will air Spanish-language coverage. However, Peacock and the extended range of NBCUniversal channels are not accessible via antenna and can get expensive due to price creep.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How Do I Watch for Free?
 
@@ -47,10 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Most modern televisions have an integrated tuner, meaning they are ready to be connected to an antenna. This makes setting up an antenna to watch the 2024 Olympics a lot easier than it might sound.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting Up an Antenna
@@ -65,28 +65,34 @@ Jordan Gloor / How-To Geek
 
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Which Olympic Events I Can Watch for Free?
 
  You will be able to watch NBC Olympics coverage using an antenna in most places. You'll find the [full schedule on the Olympics' official website](https://www.nbcolympics.com/full-schedule). NBC Sports has also [published a schedule](https://www.nbcsports.com/olympics/news/paris-2024-olympic-day-by-day-competition-schedule) adjusted for Eastern Standard Time in the United States (six hours behind Paris).
 
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Watch 2024 Olympic Gymnastics
 
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
@@ -112,19 +118,22 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-hidden-gems-premium-mac-speech-to-text-tools/"><u>[New] Hidden Gems Premium Mac Speech-to-Text Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-thrive-on-instavid-a-guide-to-creating-a-solid-video-marketing-framework/"><u>[New] Thrive on InstaVid A Guide to Creating a Solid Video Marketing Framework</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-techniques-recording-playstation-4-games/"><u>[Updated] In 2024, Essential Techniques Recording PlayStation 4 Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-periscope-recording-for-beginners-a-complete-walkthrough/"><u>[Updated] Periscope Recording for Beginners A Complete Walkthrough</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-process-to-set-trending-tiktok-beats-as-your-cellphone-alarm/"><u>[Updated] Step-by-Step Process to Set Trending TikTok Beats as Your Cellphone Alarm</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206670426-audio-problem-on-youtube-for-windows-11-heres-how-you-can-solve-it/"><u>Audio Problem on YouTube for Windows 11? Here’s How You Can Solve It</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hulus-subscription-key-factors-that-count/"><u>Hulu’s Subscription: Key Factors That Count</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-seatechs-blu-ray-writer-a-look-at-its-ebb-and-flow-in-performance/"><u>In-Depth Analysis of SeaTech's Blu-Ray Writer: A Look at Its Ebb and Flow in Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-android-experience/"><u>In-Depth Analysis of the Samsung Galaxy Tab S4: The Ultimate Android Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-nokia-31-for-budget-beginners/"><u>In-Depth Evaluation of the Nokia 3.1 for Budget Beginners</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lensdirects-anti-blue-light-glasses-with-prescription-in-depth-analysis-and-benefits/"><u>LensDirect's Anti-Blue Light Glasses with Prescription - In-Depth Analysis and Benefits</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726030496186-mov-to-mp4/"><u>MOV to MP4 変換のプロフェッショナルな解決策</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-realme-12-pro-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Realme 12 Pro 5G</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/utionize-your-content-with-these-top-10-editing-strategies-for-2024/"><u>Revolutionize Your Content with These Top 10 Editing Strategies for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-number-1-in-the-elite-8-virtual-composite-maker/"><u>[New] 2024 Approved Number 1 in the Elite 8 Virtual Composite Maker</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-use-kapwing-meme-maker-for-2024/"><u>[New] Use Kapwing Meme Maker for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastering-webinar-capture-straightforward-steps-for-os-xwindows/"><u>[Updated] 2024 Approved Mastering Webinar Capture Straightforward Steps for OS X/Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-share-tiktok-videos-to-facebook-in-quick-easy-steps/"><u>2024 Approved Share TikTok Videos to Facebook in Quick Easy Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-the-powerful-and-packed-feature-samsung-gear-s3-frontier-your-ultimate-wrist-companion/"><u>A Closer Look at The Powerful & Packed-Feature Samsung Gear S3 Frontier - Your Ultimate Wrist Companion?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/become-a-gif-whisperer-crafting-images-from-vimeo-videos-for-2024/"><u>Become a GIF Whisperer Crafting Images From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breakneck-video-progress-on-facebook-must-have-extension-solutions/"><u>Breakneck Video Progress on Facebook - Must-Have Extension Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/crucial-factors-in-choosing-the-apeman-c450-a-top-budget-dashcam-revealed/"><u>Crucial Factors in Choosing the Apeman C450 - A Top Budget Dashcam Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-leading-cable-modems-available/"><u>Expert Picks: Leading Cable Modems Available</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-selected-best-cable-modem-and-wireless-router-bundles-of-2024/"><u>Expertly Selected Best Cable Modem and Wireless Router Bundles of 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-silent-mode-glitches-on-windows-word-reading-feature/"><u>Fix Silent Mode Glitches on Windows' Word Reading Feature</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-streamline-your-content-posting-twitter-videos-on-snapchat/"><u>In 2024, Streamline Your Content Posting Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-clips-to-tunes-explained-in-detail/"><u>Instagram Clips to Tunes Explained in Detail</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-replacing-with-advanced-apple-watch-a-smart-move/"><u>Is Replacing with Advanced Apple Watch a Smart Move?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/outstanding-oneplus-6t-analysis-superior-speed-and-value-like-no-other/"><u>Outstanding OnePlus 6T Analysis: Superior Speed and Value Like No Other</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-second-generation-google-nest-hub-an-exploration-of-features-and-limitations-including-the-lack-of-a-camera/"><u>The Second Generation Google Nest Hub: An Exploration of Features and Limitations, Including the Lack of a Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-and-performance-a-comprehensive-microsoft-surface-laptop-go-review-for-savvy-consumers/"><u>Unveiling the Features and Performance: A Comprehensive Microsoft Surface Laptop Go Review for Savvy Consumers</u></a></li>
 </ul></div>
 

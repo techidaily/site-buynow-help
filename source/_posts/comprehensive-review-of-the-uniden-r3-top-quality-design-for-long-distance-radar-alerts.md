@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of the Uniden R3 - Top-Quality Design for Long Distance Radar Alerts
-date: 2024-09-24T17:29:02.791Z
-updated: 2024-10-01T18:33:41.375Z
+date: 2024-10-18T19:37:57.490Z
+updated: 2024-10-24T11:08:31.422Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Review of the Uniden R3 - Top-Quality Design for Long Distance Radar Alerts
@@ -36,16 +36,16 @@ Lifewire / Jonno Hill
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Clearstream ECLIPSE
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/0gXsFyigpZzsnNAEj3tIrKImB8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_HeroSquare-79582ad545a44cf1993681dff0c33449.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -72,16 +72,16 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Inoffensive but unexceptional**
 
  The ClearStream Eclipse Antenna isn’t the most beautiful piece of hardware to ever grace my living room, but it’s inoffensive enough to not really be an issue. The antenna has a thin, flat, disc shape that is black on one side and white on the other. It is designed to be placed directly onto a flat surface, but you will probably be able to get away with a lot of different orientations depending on how close you are to the signal source.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup: Simple and easy**
 
@@ -91,22 +91,16 @@ Lifewire / Jonno Hill
 
  Luckily the ClearStream Eclipse Antenna comes with a 12ft coaxial cable, so next simply attach the cable to both the antenna and your TV. Make sure to run a channel scan first for best results.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Above average**
 
  I’ve tested a lot of similar antennas recently, and the ClearStream Eclipse Antenna had the best results of any unpowered antenna, even beating out a few of the powered ones. From my apartment, I was able to get acquire an average of 65 channels across all my tests. For reference, the worst-performing antenna found just 47, and the best, 76\.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Range: Fair to middling**
 
@@ -117,10 +111,10 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Not bad for the performance**
@@ -164,19 +158,14 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-evaluating-video-quality-the-impact-of-fps-on-recordings/"><u>[Updated] 2024 Approved Evaluating Video Quality The Impact of FPS on Recordings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-secrets-of-successful-ps3-game-recording-tactics-for-2024/"><u>[Updated] Secrets of Successful PS3 Game Recording Tactics for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-a-step-by-step-guide-to-including-vimeo-on-instagram/"><u>2024 Approved A Step-by-Step Guide to Including Vimeo on Instagram</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-tips-for-efficient-camera-roll-upload-to-snapchat/"><u>2024 Approved Essential Tips for Efficient Camera Roll Upload to Snapchat</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-perfecting-music-in-instagram-videos-and-stories/"><u>2024 Approved Perfecting Music in Instagram Videos & Stories</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cost-effective-smartphone-comparison-how-motorola-one-matches-up-to-an-iphone/"><u>Cost-Effective Smartphone Comparison: How Motorola One Matches up to an iPhone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-best-2023-games-to-play-on-your-new-steam-deck/"><u>Discover the Best 2023 Games to Play on Your New Steam Deck</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-11-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 11 Pro Max Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-surviving-and-thriving-adapting-to-facebooks-algorithm-changes/"><u>In 2024, Surviving and Thriving Adapting to Facebook's Algorithm Changes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-why-the-oneplus-9-struggles-with-mathematical-excellence/"><u>In-Depth Analysis: Why the OnePlus 9 Struggles with Mathematical Excellence</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active2-review-more-connectivity-control-and-insights-than-the-original/"><u>Samsung Galaxy Watch Active2 Review: More Connectivity, Control, and Insights Than the Original</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-high-quality-mkv-format-video-encoding-tools/"><u>Ultimate Guide to High-Quality MKV Format Video Encoding Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-karaoke-experience-in-the-usa-top-picks-for-less-than-150/"><u>Ultimate Karaoke Experience in the USA - Top Picks for Less Than $150</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-potent-functionality-a-review-of-the-durable-samsung-gear-s3-frontier-timepiece/"><u>Unboxing the Potent Functionality: A Review of the Durable Samsung Gear S3 Frontier Timepiece</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-action-camera-for-gamers-and-sports-enthusiasts-xs-100-is-take/"><u>[Updated] 2024 Approved The Ultimate Action Camera for Gamers & Sports Enthusiasts - XS 100 I's Take</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-social-media-economy-maximizing-your-facebook-revenue/"><u>[Updated] The Social Media Economy Maximizing Your Facebook Revenue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-solutions-for-thawing-out-a-stuck-computer-screen/"><u>Complete Solutions for Thawing Out a Stuck Computer Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-ai-weaknesses-the-science-of-prompt-injection-attacks/"><u>Deconstructing AI Weaknesses: The Science of Prompt Injection Attacks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-michael-kors-gen-5e-collection-the-ultimate-guide-to-luxurious-style-meets-functionality/"><u>Exploring the Michael Kors Gen 5E Collection: The Ultimate Guide to Luxurious Style Meets Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-rune-stones-of-assassins-creed-valhalla-epic-medieval-saga-unleashed/"><u>Exploring the Rune Stones of Assassin's Creed: Valhalla - Epic Medieval Saga Unleashed!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-incompatibility-between-premiere-pro-and-amdintel-drivers/"><u>Fixed Incompatibility Between Premiere Pro and AMD/Intel Drivers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/"><u>Getting Started in Drone Flying: In-Depth Look at the Budget-Friendly SYMA X5C RC Quadcopter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-make-safe-and-educational-screen-time-with-the-amazon-fire-hd-10-kids-tablet/"><u>How to Make Safe and Educational Screen Time with the Amazon Fire HD 10 Kids Tablet</u></a></li>
 </ul></div>
 

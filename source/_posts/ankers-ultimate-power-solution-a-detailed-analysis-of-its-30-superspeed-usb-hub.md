@@ -1,7 +1,7 @@
 ---
 title: "Anker's Ultimate Power Solution: A Detailed Analysis of Its 3.0 SuperSpeed USB Hub"
-date: 2024-08-15T06:00:54.484Z
-updated: 2024-08-16T06:00:54.484Z
+date: 2024-10-17T21:47:12.688Z
+updated: 2024-10-23T16:04:55.052Z
 categories:
   - BestProducts
 description: "This Article Describes Anker's Ultimate Power Solution: A Detailed Analysis of Its 3.0 SuperSpeed USB Hub"
@@ -38,12 +38,16 @@ Lifewire / Benjamin Zeman
 
 4.7
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Linksys WRT3200ACM Tri-Stream Gigabit Wi-Fi Router
 
 ![Linksys WRTAC3200 Router](https://www.lifewire.com/thmb/kijZwQ0wg7f3H2i3JR3-uGRi0kg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4159787_HeroSquare-e40aba90df584fa4ad4a1053eeb538e6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 Lifewire / Benjamin Zeman
 
@@ -68,8 +72,12 @@ Lifewire / Benjamin Zeman
  Linksys really kicked off the router customization movement in 2002 with its first open source router, the iconic WRT54G. The WRT1900AC followed twelve years later in 2014 and the Linksys WRT3200ACM Router improved upon it in 2016\. It introduced the fastest 5GHz band on the market, is Linksys’ first router with Tri-Stream 160, and it’s capable of Multi-User Multiple Input Multiple Output (MU-MIMO) data streaming and beamforming. This router delivers blazing fast speeds and a number of customized settings with advanced monitoring capabilities you won’t find in a normal router.
 
 ![Linksys WRTAC3200 Router](https://www.lifewire.com/thmb/xTJh9nKc58L-dK_nTJKAOHW7WCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4159787_04-d6fd78091be2489c83483672ac57af2e-7c960043bf5f4a259a43c30db125f0f9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Benjamin Zeman
@@ -97,15 +105,16 @@ The Linksys WRT3200ACM performed very well on the 5GHz band.
  At this point you can choose to click the “Manual Configuration” link in the bottom left corner of the setup welcome page or continue with the default setup. After finishing the initial setup, you get access to the dashboard user interface to configure your router at a more in-depth level. The browser interface on the left has a menu with a number of options. We’ll take a look at those options a little later in the software section since they aren’t part of the basic setup process.
 
 ![Linksys WRTAC3200 Router](https://www.lifewire.com/thmb/FS8mMgztL5cutF2feLNI4jorFig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4159787_03-bc6cced22d1c4e12b578da3f8b644d0c.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Benjamin Zeman
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Connectivity: 3200ACM and MU-MIMO capable**
 
  The Linksys WRT3200ACM is a MU-MIMO Dual-Band Tri-Stream 160 router with 600+2600 Mbps speeds. It’s powered by a 1.8GHz dual-core processor and uses the latest 802.11ac network standards. The 2.4GHz band and 5GHz band run independently of each other, so the router can simultaneously reach theoretical speeds of 600 Mbps on 2.4GHz and a massive 2600 Mbps on the 5GHz band.
@@ -115,17 +124,12 @@ The Linksys WRT3200ACM performed very well on the 5GHz band.
  The Linksys WRT3200ACM also has four wired gigabit ethernet ports to directly connect devices like your[gaming console](https://www.lifewire.com/best-gaming-consoles-4154610) or[smart TV](https://www.lifewire.com/best-smart-tvs-4135681) . The[USB 3.0](https://www.lifewire.com/what-is-usb-3-0-2626038) and USB 2.0/eSata ports allow you to connect external storage devices and share things like your video collection across your network. The Linksys WRT3200ACM definitely covered all the connectivity bases that we needed.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network Performance: Strong 5.4GHz but weak 2.4GHz**
 
  We tested throughput network performance on a Comcast Business plan, utilizing the 5ft/30ft technique, for both 2.4Ghz and 5GHz bands. The Linksys WRT3200ACM performed very well on the 5GHz band and we consistently got an average of 565Mbps at 5ft but a dip to 235Mbps at 30ft. The 2.4GHz band didn’t perform quite as well. We got about 75Mbps at 5ft and only 57Mbps at 20ft.
@@ -138,9 +142,6 @@ The Linksys WRT3200ACM performed very well on the 5GHz band.
 
  Lifewire / Benjamin Zeman
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## **Software: Stock is great, open source is better**
 
  We’ve said it many times before, Linksys has great stock software. They’ve always been at the forefront when it comes to configuration and advanced settings. The current version of their web browser dashboard and their mobile apps are both great and offer a lot of customization. Everything just works and you won’t run into any frustrations like we did with other companies software.
@@ -154,6 +155,13 @@ The Linksys WRT3200ACM performed very well on the 5GHz band.
  Flashing Linux based alternatives like[OpenWrt](https://openwrt.org/) or[DD-WRT](https://dd-wrt.com/) is simple, and because the router is made with them in mind, firmware will be more stable than[other routers](https://www.lifewire.com/best-wireless-routers-4038590) . Currently DD-WRT looks like it is a little behind OpenWrt when it comes to additional features not included in the stock firmware. Both projects are actively working on updates and Linksys does encourage you to go with third-party firmwares, but warns that installing third-party firmware is done at your own risk and will void your warranty.
 
  If you’re new to open source router firmware, we encourage you to do your research first. Open source firmware is really for users who are familiar with building and debugging their own software. It requires more manual maintenance and you’ll need to keep up with any new releases yourself. There are a lot of other less expensive Linksys routers available if you want to test the waters before jumping in with the WRT3200ACM.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Good if you need open source**
 
@@ -175,9 +183,6 @@ The Linksys WRT3200ACM performed very well on the 5GHz band.
 
  The Linksys WRT3200ACM Router is a great buy from a great company that’s been in the market for a long time. Whether you purchase the Linksys WRT3200ACM new or refurbished, it’s a fantastic value. The only suggestion we have is that you make sure it’s what you actually want and need—if you aren’t going to use it for its open source capabilities, you might want to take a look at some other options. If open source is your jam, you’ll love this router.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Asus RT-AC88U Gaming Router](https://www.lifewire.com/asus-rt-ac88u-gaming-router-review-4589583)
@@ -206,14 +211,11 @@ The Linksys WRT3200ACM performed very well on the 5GHz band.
 * Processor  1.8 GHz dual-core
 * Range  Very Large Household (square foot coverage not listed)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -222,4 +224,21 @@ The Linksys WRT3200ACM performed very well on the 5GHz band.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-premier-picks-the-best-11-audio-recorders-guide/"><u>[New] Premier Picks The Best 11 Audio Recorders Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creative-labs-sound-blaster-zxr-the-definitive-flagship-of-2013-headsets-review/"><u>Creative Labs Sound Blaster ZxR: The Definitive Flagship of 2013 Headsets Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-guide-streaming-mp4-videos-on-your-android-device-without-a-hitch/"><u>Effortless Guide: Streaming MP4 Videos on Your Android Device Without a Hitch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-visual-and-connectivity-game-discover-asrocks-top-tier-32-oled-screen-with-impeccable-480-hz-performance-and-network-support/"><u>Elevate Your Visual and Connectivity Game: Discover ASROCK’s Top-Tier 32” OLED Screen with Impeccable 480 Hz Performance and Network Support</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/errorelimination-pro-videography-salvage/"><u>ErrorElimination Pro: Videography Salvage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-next-level-of-portable-productivity-with-the-newly-launched-samsung-galaxy-chromebook-n-a-thorough-review/"><u>Evaluating the Next Level of Portable Productivity with the Newly Launched Samsung Galaxy Chromebook N – A Thorough Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-rca-video-doorbell-high-performance-camera-evaluation/"><u>Expert Analysis of the RCA Video Doorbell: High-Performance Camera Evaluation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-photography-with-nikon-d7500/"><u>In 2024, Mastering Photography with Nikon D7500</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g-stylus-2023-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G Stylus (2023) Phone Hassle-Free</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for ZTE Blade A73 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-why-rings-video-doorbell-2-stands-above-the-competition/"><u>Inside Look: Why Ring's Video Doorbell 2 Stands Above the Competition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/score-amazing-discounts-with-these-exclusive-oneplus-prime-day-bargains/"><u>Score Amazing Discounts with These Exclusive OnePlus Prime Day Bargains!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sky-storage-spectacle-unlimited-free-and-elite-premium-alternatives-for-your-pics-for-2024/"><u>Sky Storage Spectacle Unlimited Free & Elite Premium Alternatives for Your Pics for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-powerhouse-in-a-pocket-exploring-features-of-apples-newest-ipad-mini-5/"><u>The Powerhouse in a Pocket: Exploring Features of Apple's Newest iPad Mini 5</u></a></li>
+</ul></div>
 

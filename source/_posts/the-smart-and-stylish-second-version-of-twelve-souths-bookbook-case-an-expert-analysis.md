@@ -1,7 +1,7 @@
 ---
 title: "The Smart and Stylish Second Version of Twelve South's BookBook Case: An Expert Analysis"
-date: 2024-08-15T06:03:14.279Z
-updated: 2024-08-16T06:03:14.279Z
+date: 2024-10-20T05:18:20.436Z
+updated: 2024-10-24T11:04:48.827Z
 categories:
   - BestProducts
 description: "This Article Describes The Smart and Stylish Second Version of Twelve South's BookBook Case: An Expert Analysis"
@@ -39,13 +39,21 @@ Lifewire / Rebecca Isaacs
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Sabrent Mini Travel USB Optical Mouse
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/XBAevViAWBKn-uqOn_jnTLrfwTw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_HeroSquare-6ae9d6d299054d748f84492b5c31f033.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
@@ -78,28 +86,26 @@ Lifewire / Rebecca Isaacs
  It’s important to keep in mind that this is a wired, ergonomic mouse that relies on a USB port connection. So while it doesn’t require any batteries, it can be problematic if you need more than 25 inches the cable provides. The cable itself expands with a gentle pull of the cable from its own mini-port, and is easily retractable with a tug on each side of the cable. Just be careful when retracting it, as it is similar to a window shade in that it retracts with near-violent gusto.
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/E-UHv94vEiLyLkgwTG1qIFE6uvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_04-76e4b475ca3f4449a746c22f3713f784.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
  The cable’s addition increases the size of the mouse, bringing the total measurements to 6.44 x 1.5x 2.44 inches (LWH). The Sabrent also comes with a mesh carrying bag, making it easy to pack up and take on the go without scratching it. One more perk: this mouse is adaptable to most[Windows](https://www.lifewire.com/windows-4781566) ,[Mac](https://www.lifewire.com/mac-backup-software-hardware-and-guides-2260931) , and[Linux](https://www.lifewire.com/software-and-apps-4781541) systems, so you can insert it into USB ports across multiple machines for fast use.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: Plug and play**
 
  Setting up the Sabrent proved simple and convenient. Expanding the cable and plugging it into the PC’s USB port allows the Sabrent to self-install. In under less than a minute, the plug and play features kick in. If you need to alter it to suit ambidextrous needs, you’ll need to head into the control panel of your PC to make the swap. Those requiring left-handed features will need to alter it. Once the software quickly installs, and you’re able to begin scrolling in no time.
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/mM3uSf3Y2pyayDyWJzP8_5uUya4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_05-04e025144b514674b109e77f79129d74.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance: Precise, but mildly problematic**
 
  The Sabrent boasts that it’s a high precision mini mouse, and in that regard, we have to agree. While 1200 dpi is minimal in comparison to some of the other heavy-hitting mice on the market, this mouse wasn’t designed to be used as a gaming mouse—it was designed in mind that you could take it and pack it on the go and get the job done.
@@ -107,6 +113,13 @@ Lifewire / Rebecca Isaacs
  After using it for over 25 hours, the precision blew us away; even the smallest twitch of the mouse registered movement on the PC and[laptop](https://www.lifewire.com/computer-and-laptop-reviews-4102643) we tested it across. Not once did we have to reclick on an item because the Sabrent failed to register the movement, proving that the cable was of speedy and accurate benefit to the mouse. The speed of the mouse highlighted its precision, darting across the monitor screens as we shifted the mouse instantaneously.
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/ZAK9csfHFEKVkNFSzE-Knbqabgs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_03-c6a7b875505642c69218c2c6c3449e50.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -143,8 +156,12 @@ Lifewire / Rebecca Isaacs
  While we constantly had to shift our grip on the tiny Sabrent mouse, we really liked its portability and fast, accurate movements. The cable proved to be difficult for desktop use, however, laptop users will enjoy the speeds that accompany the wired cable.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Mini Travel USB Optical Mouse
@@ -157,14 +174,11 @@ Lifewire / Rebecca Isaacs
 * Compatibility  Windows 2000 and up, Mac OS X and up, Linux systems
 * Connectivity options  USB Port, NOT Bluetooth Enabled
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +187,26 @@ Lifewire / Rebecca Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-depth-look-at-videorecorderpros-features-and-review/"><u>[New] In-Depth Look at VideoRecorderPro's Features & Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-decoding-the-top-5-transformative-social-updates/"><u>[Updated] 2024 Approved Decoding the Top 5 Transformative Social Updates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-stunning-photos-on-iphones/"><u>[Updated] Expert Tips for Stunning Photos on iPhones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722894280241-discover-7-kid-friendly-online-gaming-options-today/"><u>Discover 7 Kid-Friendly Online Gaming Options Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-unresponsive-computers-handling-windows-10-hangs/"><u>Expert Advice for Unresponsive Computers - Handling Windows 10 Hangs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-capture-your-feed-on-devices-using-obs-studio/"><u>How to Capture Your Feed on Devices Using OBS Studio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-easeus-screen-recorder-review/"><u>In 2024, EaseUS Screen Recorder Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-huion-inspiroy-g10t-art-pen-tablet-exceptional-craftsmanship-and-superior-functionality/"><u>In-Depth Analysis of Huion Inspiroy G10T Art Pen Tablet: Exceptional Craftsmanship & Superior Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-reviews-and-guides-from-toms-hardware-haven/"><u>In-Depth Reviews and Guides From Tom's Hardware Haven</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-accessory-alert-the-essential-elite-strap-battery-boost-and-secure-travel-case-for-oculus-quest-2-scrutinized/"><u>Innovative Accessory Alert: The Essential Elite Strap, Battery Boost and Secure Travel Case for Oculus Quest 2 Scrutinized</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/introducing-the-amazon-halo-the-cutting-edge-gadget-for-an-intimate-wellness-experience/"><u>Introducing the Amazon Halo – The Cutting-Edge Gadget for an Intimate Wellness Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-netflixs-price-tag-justified-heres-why-it-might-be/"><u>Is Netflix's Price Tag Justified? Here’s Why It Might Be</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-extra-cost-justified-a-thorough-review-of-the-mighty-alienware-aurora-r7/"><u>Is the Extra Cost Justified? A Thorough Review of the Mighty Alienware Aurora R7.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/marvels-spider-man-miles-morales-critique-concentrated-plot-with-enhanced-effect/"><u>Marvel's Spider-Man: Miles Morales Critique – Concentrated Plot with Enhanced Effect</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-mobile-class-a-comprehensive-review-of-the-premium-samsung-galaxy-s1-0/"><u>Mastering Mobile Class: A Comprehensive Review of the Premium Samsung Galaxy S1 0</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-productivity-with-the-updated-ipad-pro-unveiling-changes-in-the-latest-7th-generation-model/"><u>Mastering Productivity with the Updated iPad Pro - Unveiling Changes in the Latest 7Th Generation Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-pros-and-cons-of-the-anker-roav-dashcam-c1-a-full-featured-review/"><u>Navigating the Pros and Cons of the Anker Roav Dashcam C1 – A Full-Featured Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimal-yt-video-cover-images-for-2024/"><u>Optimal YT Video Cover Images for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-edits-navigating-psxs-eraser-feature/"><u>Perfect Edits Navigating PSX's Eraser Feature</u></a></li>
+</ul></div>
 

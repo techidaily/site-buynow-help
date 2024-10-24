@@ -1,7 +1,7 @@
 ---
 title: RadPower RadCity 5 Plus - Reviewing Its Robust Capabilities Amidst Heavyweight Concerns
-date: 2024-08-15T06:01:16.106Z
-updated: 2024-08-16T06:01:16.106Z
+date: 2024-10-17T07:52:59.369Z
+updated: 2024-10-24T02:12:24.425Z
 categories:
   - BestProducts
 description: This Article Describes RadPower RadCity 5 Plus - Reviewing Its Robust Capabilities Amidst Heavyweight Concerns
@@ -41,6 +41,13 @@ Rebecca Isaacs / Lifewire
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Godfall
 
 ![Godfall](https://www.lifewire.com/thmb/0NLDB5xBHlyMz4ZXPM-uk0dzS7Y=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Godfall-PC-Game-1-d3b0021c9f1f4c90a844bf0e8f8fcb25.jpg)
@@ -67,11 +74,21 @@ Rebecca Isaacs / Lifewire
  With the[PlayStation 5](https://www.lifewire.com/sony-playstation-5-review-5088394) releasing late last year, Godfall was the first of the[PS5 exclusives](https://www.lifewire.com/ps5-games-list-5076154) , with its launch in early November. As a looter-shooter lover (especially of the Borderlands series), I was intrigued by the prospect of using swords and shields instead of guns. At first, it was a fun, enthralling experience due to the compelling graphics. Unfortunately, after eleven hours of gameplay, I’ve already shelved it and moved on to the next game in my library due to its repetitive nature and poor plotline. Read on for how I evaluated the gameplay, plot, and graphics.
 
 ![Godfall](https://www.lifewire.com/thmb/H6t9YHOQhs7GMJ8lP75_d2mnMVU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Godfall-PC-Game-4-cd60ab2e603a4efaa0031f8aa5743fb4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Rebecca Isaacs / Lifewire
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Plot: What’s that?
 
@@ -83,9 +100,6 @@ Rebecca Isaacs / Lifewire
 
  If the devil is in the details, then Counterplay sold its soul to ensure that every leaf had ridges and grooves.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Graphics: Gorgeous
 
  For a bland plot, Godfall really brings its A-game with the graphics. Some of the scenes as I ran across streams and trails brought out vivid hues and beautiful environments. If the devil is in the details, then Counterplay Games sold its soul to ensure that every leaf had ridges and grooves. In that aspect, the game shines, and I felt transported into the world as I ran around destroying my enemies with a greatsword.
@@ -93,6 +107,13 @@ Rebecca Isaacs / Lifewire
  Though repetitive, the four maps offered show a rich, colorful world that will keep your attention from the poor plotline for a while. Even the different sets of armor, known as Valorplates, are so detailed I was tempted to try to reach through my screen.
 
 ![Godfall ](https://www.lifewire.com/thmb/IWN-3bTZ5qlsx29Xu_o7m5dQyu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Godfall-PC-Game-3-9be349303fa148cfbcacfa7551c5c743.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Rebecca Isaacs / Lifewire
 
@@ -103,9 +124,6 @@ Rebecca Isaacs / Lifewire
  Each of the armor sets, based on various animals, comes with different perks, which makes for unique gameplay if you prefer poison or shock to fire damage. It can take some time to craft, modify, and upgrade both the Valorplates and weapons. More importantly, it takes time to gather the materials, so as you continue the game, you’ll have repeat quests and maps.
 
 ![Godfall](https://www.lifewire.com/thmb/lkXYe9qqH3ccZewQudKpzPWU4Xc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Godfall-PC-Game-2-fc516034a42a462ba1b4ab03bcc76269.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 
 Rebecca Isaacs / Lifewire
 
@@ -122,9 +140,6 @@ Rebecca Isaacs / Lifewire
  Not all the gameplay features are gripe worthy though. With up close combat, dying is inevitable, and Godfall makes sure to address the risk of constant death in three ways: a practice arena in between missions, where you can test out your latest combos; easy, fast leveling; and no death penalty. While some players will most likely balk at no death penalty, casual gamers will enjoy not having to worry about the loss of experience or equipment durability.
 
 ![Godfall](https://www.lifewire.com/thmb/xztzESfeykd-1UUo9xAOFt8EPNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Godfall-PC-Game-7-4a134c4dc6304645aaeb4ff4a0badefa.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
 Rebecca Isaacs / Lifewire
 
@@ -133,11 +148,21 @@ Rebecca Isaacs / Lifewire
  Godfall is pretty straightforward with its platforms: PlayStation 5, or Windows PCs. It does not work on Macs, so take that into consideration before you make your purchase. In terms of gameplay, neither platform really weighs better than the other, though PC gamers with ultrawide screens may have some issues getting the correct resolution set.
 
 ![Godfall ](https://www.lifewire.com/thmb/AVwuGUypRGjuigcAvp7eBT4rj00=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Godfall-PC-Game-6-d175a22d9d0c48e8ad3aad12177fe50b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Rebecca Isaacs / Lifewire
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: Overpriced for the amount of content available
 
@@ -145,9 +170,6 @@ Rebecca Isaacs / Lifewire
 
  I’ll be brutally honest here: if it’s between Godfall and Warframe, Warframe is easily a better game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Godfall vs. Warframe
 
  The only game that can remotely come close to Godfall is Warframe. Both offer missions you can complete repetitively, and both require multiple hours of gameplay in order to progress in the game.
@@ -171,8 +193,12 @@ Rebecca Isaacs / Lifewire
 * [Marvel’s Avengers](https://www.lifewire.com/marvel-s-avengers-review-5088311)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Godfall
@@ -190,14 +216,11 @@ Rebecca Isaacs / Lifewire
 * Graphics  Nvidia GeForce GTX 1060, 6 GB | AMD Radeon RX 580, 8 GB
 * Network  Internet connection required
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -206,4 +229,21 @@ Rebecca Isaacs / Lifewire
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-upload-tunes-with-images-digitally/"><u>[New] 2024 Approved Upload Tunes with Images Digitally</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-subtracting-text-srt-to-sub-transformation-tips/"><u>[New] Subtracting Text SRT to SUB Transformation Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-affordable-pruveeo-f5-full-hd-dash-cam/"><u>Comprehensive Analysis of the Affordable Pruveeo F5 Full HD Dash Cam</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-performance-of-seatechs-wireless-blu-ray-burner-unit-with-usb-support-a-closer-look-at-its-variable-output/"><u>Expert Insights on the Performance of SeaTech's Wireless Blu-Ray Burner Unit with USB Support: A Closer Look at Its Variable Output</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-world-effortlessly-and-smartly/"><u>Explore the World, Effortlessly & Smartly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-complete-guide-to-videdit-studio-pro-features-and-more/"><u>In 2024, A Complete Guide to VidEdit Studio Pro, Features and More</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-convert-your-avis-to-impactful-gifs-using-filmora-on-windowsmacos/"><u>In 2024, Convert Your AVIs to Impactful GIFs Using Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-track-framework-for-crafting-facebook-collage/"><u>In 2024, Fast-Track Framework for Crafting Facebook Collage</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-x7b-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor X7b to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-asus-rog-phone-7-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Asus ROG Phone 7 Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/masterclass-in-real-time-twitvid-engagement/"><u>Masterclass in Real-Time TwitVid Engagement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-experience-with-lenovo-tab-m10-fhd-plus-in-2amidst-budget-friendly-tablets/"><u>Maximize Your Experience with Lenovo Tab M10 FHD Plus in 2Amidst Budget-Friendly Tablets</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-features-of-the-pioneer-bdr-xs06-an-external-usb-30-blu-ray-drive-reviewed-for-convenience-and-output/"><u>Unpacking the Features of the Pioneer BDR-XS06: An External USB 3.0 Blu-Ray Drive Reviewed for Convenience and Output</u></a></li>
+</ul></div>
 

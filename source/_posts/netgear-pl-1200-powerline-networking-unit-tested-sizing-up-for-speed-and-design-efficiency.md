@@ -1,7 +1,7 @@
 ---
 title: Netgear PL-1200 Powerline Networking Unit Tested - Sizing Up for Speed and Design Efficiency
-date: 2024-09-30T16:34:12.487Z
-updated: 2024-10-01T18:14:20.558Z
+date: 2024-10-23T05:43:13.230Z
+updated: 2024-10-24T06:50:17.024Z
 categories:
   - BestProducts
 description: This Article Describes Netgear PL-1200 Powerline Networking Unit Tested - Sizing Up for Speed and Design Efficiency
@@ -41,6 +41,13 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Zach Sweat
 
 [View On Amazon $150](https://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM/?tag=lifewire-onsite-prod-20&ascsubtag=4796457%7Cnbd5105eb0dc54e3e804df51703e5036902%7CB07SFKTLZM) [View On Walmart $150](https://www.walmart.com/ip/Microsoft-Xbox-Elite-Wireless-Controller-Series-2-Black-FST-00001/784834522) [View On Adorama.com $180](https://www.adorama.com/xbfst00001.html)
@@ -66,14 +73,14 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/t8wI_yN2s_uIQ1leo87MmOnXxb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-5-0c39ec4e89eb45b094471681efec0e7d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Design: Dark, sturdy, and feature-packed**
 
@@ -101,13 +108,6 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
 ## **Comfort: Hefty, but darn comfy**
@@ -125,13 +125,6 @@ Lifewire / Zach Sweat
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
 
  Lifewire / Zach Sweat
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process and Software: Bluetooth, at long last**
 
@@ -153,14 +146,14 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
 
- Lifewire / Zach Sweat
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Zach Sweat
 
 ## **Performance/Durability: Enhanced performance and durability**
 
@@ -196,6 +189,13 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
 
  Since the Elite controller really is in a league of its own, the biggest competitor to it is the first generation, which can still be purchased from a number of retailers. We’re going to quickly compare the two to see which might be best for you.
@@ -211,10 +211,10 @@ Lifewire / Zach Sweat
  Everything we disliked about the original Elite controller has been improved with the second iteration, making it the best first-party controller you can get for XB1 or PC. However, the steep price point might be a hard pill to swallow for users who don’t like to splurge.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -249,19 +249,20 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-ios-slide-show-tools-tailored-for-high-end-models/"><u>[Updated] IOS Slide Show Tools Tailored for High-End Models</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-resolving-poor-image-quality-on-facebook-live-feeds-for-2024/"><u>[Updated] Resolving Poor Image Quality on Facebook Live Feeds for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-thorough-overview-of-radpowers-radcity-5plus-powerful-ride-significant-weight-to-consider/"><u>A Thorough Overview of RadPower's RadCity 5+: Powerful Ride, Significant Weight to Consider</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creer-un-site-web-gratuit-a-partir-de-rw2-avec-movavi/"><u>Créer Un Site Web Gratuit À Partir De RW2 Avec Movavi</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/delving-into-the-world-of-asmr-soundscapes-for-2024/"><u>Delving Into the World of ASMR Soundscapes for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-sonys-dual-recording-features-on-hdrcx405/"><u>Exploring Sony's Dual Recording Features on HDRCX405</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-budget-4k-cameras-for-beginners/"><u>In 2024, Budget 4K Cameras for Beginners</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-scrutinizing-the-premier-collection-of-affordable-lut-files/"><u>In 2024, Scrutinizing the Premier Collection of Affordable LUT Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-influence-elevating-messaging-on-telegram/"><u>In 2024, The Art of Influence Elevating Messaging on Telegram</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-imac-with-m1-chip-analysis-combining-elegance-with-performance/"><u>In-Depth iMac with M1 Chip Analysis: Combining Elegance with Performance</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/navigating-the-best-youtube-news-networks-today/"><u>Navigating the Best YouTube News Networks Today</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-through-the-quirks-a-review-of-pioneers-blu-ray-burner-model-bdr-xd05b/"><u>Navigating Through the Quirks: A Review of Pioneer's Blu-Ray Burner, Model BDR-XD05B</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-savings-unmissable-discounted-offers-on-tribit-audio-gear-this-cyber-monday/"><u>Top Savings: Unmissable Discounted Offers on Tribit Audio Gear This Cyber Monday</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004154591-troubleshooting-starfield-sound-glitches-cut-out-and-stuttering-fixed/"><u>Troubleshooting Starfield Sound Glitches: Cut Out and Stuttering Fixed!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-integrating-your-apple-tv-and-social-media-watch-facebook-now/"><u>[New] 2024 Approved Integrating Your Apple TV & Social Media Watch Facebook Now</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-leading-top-5-agile-action-camera-selections/"><u>[New] 2024 Approved Leading Top 5 Agile Action Camera Selections</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-framefulness-selecting-the-top-websites-and-apps-for-photoshopping-for-2024/"><u>[New] Framefulness Selecting the Top Websites & Apps for Photoshopping for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-essential-steps-to-auto-starting-facebook-vids-for-2024/"><u>[Updated] The Essential Steps to Auto-Starting Facebook Vids for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-mighty-intellect-and-design-of-tcls-2019-32-inch-roku-tv/"><u>Exploring the Mighty Intellect and Design of TCL's 2019 32-Inch Roku TV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/frugalflare-studiokit-lights-reviewed/"><u>FrugalFlare StudioKit Lights Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hisense-40-inch-5590f-led-smart-tv-evaluation-great-value-for-the-money/"><u>Hisense 40-Inch 5590F LED Smart TV Evaluation: Great Value for the Money</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-s23-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy S23 FRP?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-adding-the-latest-social-media-snapchat-to-mac/"><u>In 2024, Adding the Latest Social Media Snapchat to Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-swift-tip-extracting-and-storing-twitter-video-on-phone/"><u>In 2024, Swift Tip Extracting and Storing Twitter Video on Phone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-huion-inspiroy-g10t-graphics-tablet-exceptional-craftsmanship-and-efficiency/"><u>In-Depth Analysis of the Huion Inspiroy G10T Graphics Tablet - Exceptional Craftsmanship & Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-new-gen-8-fire-hd-tablet-by-amazon-quality-at-a-great-price/"><u>In-Depth Analysis of the New Gen 8 Fire HD Tablet by Amazon: Quality at a Great Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-lg-k92-5g-phones-new-connectivity-feature-enough-reason-to-purchase/"><u>Is the LG K92 5G Phone's New Connectivity Feature Enough Reason to Purchase?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kobo-forma-review/"><u>Kobo Forma Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tricks-of-trade-remote-recording-mastery-for-2024/"><u>Tricks of Trade Remote Recording Mastery for 2024</u></a></li>
 </ul></div>
 

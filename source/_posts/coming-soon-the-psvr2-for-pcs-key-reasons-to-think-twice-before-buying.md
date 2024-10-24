@@ -1,7 +1,7 @@
 ---
 title: Coming Soon! The PSVR2 for PCs - Key Reasons to Think Twice Before Buying
-date: 2024-10-09T18:34:53.307Z
-updated: 2024-10-12T16:49:22.964Z
+date: 2024-10-20T22:17:52.415Z
+updated: 2024-10-24T10:50:02.682Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Sony is making its PSVR 2 VR headset compatible with PCs, but while this is something that we and many others had hoped for, it seems the reality of the PSVR 2 on PC might not be quite worth it after all.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  It Needs an Expensive Breakout Box
@@ -38,22 +38,29 @@ Sony
 
  The adapter will sell for around $60, which isn't a lot in the greater scheme of things, but it does seem rather pricey to convert a $500-ish headset to work with a PC. Also, while this might change closer to launch, it doesn't seem that those of us who do have the right USB-C ports can skip the adapter. For example, many gaming laptops have a USB-C port that natively supports DisplayPort. If Sony let us use this port without the adapter, that would certainly make the whole thing more palatable, where the adapter is only a necessary evil for those without the right hardware. Right now it feels like I'll have to pay $60 for something I technically should not need.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  There’s No Eye Tracking
 
  When I originally asked for [PSVR 2 PC compatibility](https://android-unlock.techidaily.com/how-to-reset-a-vivo-t2-5g-phone-that-is-locked-by-drfone-android/) in 2022, one of the main reasons was to benefit from the eye-tracking technology on the PSVR 2\. Something which most PC VR headsets don't have. Of course, games need to support this feature as well, but if a popular headset offers it then more developers will implement it. Perhaps more importantly, if or when popular VR titles such as _Gran Turismo 7_ make their way over to PC, they'll already have the feature baked in.
 
  Eye tracking has numerous benefits in VR, including acting as an extra input type (e.g. the game knows what you're looking at) and can help performance by only rendering what you're looking at in the highest detail. A method known as "[foveated rendering](https://some-knowledge.techidaily.com/gopro-hero5-black-vs-hero5-session-for-2024/).' While I did not expect PC VR games to take advantage of this immediately, for now it seems Sony is shutting the door on PC developers using this feature at all.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  There’s No HDR
 
  The PSVR 2 uses exceptional OLED screen technology, one of the major losses Quest owners mourned moving from the original Quest to its sequels. If you use the PSVR2 with a PC, you'll still get the many benefits of OLED, but not the amazing level of HDR the PSVR 2 is capable of. When I play _Gran Turismo 7_ in VR on my PS5, the sunlight can literally blind you. It's one of the biggest reasons the visuals are so convincing, and knowing you have the hardware, but not the software support, when using it on a PC feels more than a little tragic.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Foveated Rendering Is Limited, No Fancy Haptics
 
@@ -62,22 +69,15 @@ Sony
  To add insult to injury, [adaptive triggers and the incredible haptics in the controllers are absent as well](https://blog.playstation.com/2024/06/03/playstation-vr2-players-can-access-games-on-pc-with-adapter-starting-on-august-7/). On the PS5, this elevates the immersion and quality of tactile feedback beyond anything on a PC. Having this feature missing is a travesty. It might be related to the limitations of Bluetooth, however. Since if you use Bluetooth with a DualSense controller on a PC, you also don't get any of the fancy haptics. The controller must be connected using USB, and that's clearly impractical for VR controllers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Do Only Existing Owners Need to Apply?
 
 ![PSVR2 shown playing Half-Life Alyx for PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/psvr2-shown-playing-half-life-alyx-for-pc.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sony
 
@@ -100,21 +100,20 @@ Sony
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-premium-10-audio-enhancers-for-multiple-systems/"><u>[New] In 2024, Premium 10 Audio Enhancers for Multiple Systems</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-recordingease-minimalistic-win-11-screen-captures/"><u>[Updated] In 2024, RecordingEase Minimalistic Win 11 Screen Captures</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-win10-screen-grabbing-top-quality-captures/"><u>2024 Approved Win10 Screen Grabbing - Top Quality Captures</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-the-samsung-galaxy-a71-5g-the-smart-and-affordable-choice-for-tech-enthusiasts/"><u>A Comprehensive Review of the Samsung Galaxy A71 5G - The Smart and Affordable Choice for Tech Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boosting-revenue-from-your-blog-through-advertisements-on-buyselladscom/"><u>Boosting Revenue From Your Blog Through Advertisements on BuySellAds.com</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-asus-rt-ac68u-top-notch-performance-and-robust-security-for-your-home-network/"><u>Expert Review on the Asus RT-AC68U: Top-Notch Performance and Robust Security for Your Home Network</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-13-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 13 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-oneplus-nord-n10-5g-a-must-read-assessment/"><u>In-Depth Evaluation of OnePlus Nord N10 5G - A Must-Read Assessment!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-star-wars-squadrons-the-ultimate-galactic-fighting-adventure/"><u>In-Depth Review of Star Wars: Squadrons - The Ultimate Galactic Fighting Adventure</u></a></li>
-<li><a href="https://win-forum.techidaily.com/scopri-i-migliori-7-stili-animati-per-il-tuo-prossimo-progetto-creativo/"><u>Scopri I Migliori 7 Stili Animati per Il Tuo Prossimo Progetto Creativo</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-narzo-60-pro-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme Narzo 60 Pro 5G without backup.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unconventional-journey-a-yokus-island-express-gameplay-evaluation/"><u>Unconventional Journey: A Yoku's Island Express Gameplay Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-endless-motivation-with-fitbit-versa-3s-inbuilt-navigation-and-health-monitoring-features/"><u>Unleash Endless Motivation with Fitbit Versa 3'S Inbuilt Navigation & Health Monitoring Features</u></a></li>
-<li><a href="https://win-web.techidaily.com/windows-windows-10/"><u>Windows 지원 파일의 Windows 10에서 액세스를 위해 어떻게 대비해야 합니까?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>[Updated] 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/determining-the-primary-source-types-eg-articles-blog-posts-that-would-be-most-effective-in-providing-high-quality-content-for-these-keywordsphrases/"><u>Determining the Primary Source Types (E.g., Articles, Blog Posts) that Would Be Most Effective in Providing High-Quality Content for These Keywords/Phrases.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-discounts-await-you-during-amazons-prime-day-2er-2023-sale-extravaganza/"><u>Exclusive Discounts Await You During Amazon's Prime Day 2Er 2023 Sale Extravaganza</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-most-effective-poewerline-lan-extenders-on-the-market/"><u>Expert Picks: Most Effective Poewerline LAN Extenders on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-compare-the-highest-quality-soldering-iron-brands-today/"><u>Expertly Compare the Highest Quality Soldering Iron Brands Today!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-elite-selection-premium-android-timepieces-dominating-2024s-market-trends/"><u>Explore the Elite Selection: Premium Android Timepieces Dominating 2024'S Market Trends</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/google-endorsed-mondly-your-language-mastery-guide/"><u>Google Endorsed: Mondly - Your Language Mastery Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/harness-natures-energy-the-top-5-solar-powered-sprinkler-systems-transforming-gardens/"><u>Harness Nature's Energy: The Top 5 Solar-Powered Sprinkler Systems Transforming Gardens</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 12 Passcode not Working?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-reversing-a-youtube-strike-a-guide/"><u>In 2024, Reversing a YouTube Strike A Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-audio-enhancements-expertly-curated-soundbar-selection-for-2n4/"><u>Leading Audio Enhancements: Expertly Curated Soundbar Selection for 2N4</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-10-free-whiteboard-animation-tools-for-windows-and-mac-for-2024/"><u>Top 10 Free Whiteboard Animation Tools for Windows and Mac for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/shorts-are-back-on-youtube/"><u>Your Shorts Are Back on YouTube</u></a></li>
 </ul></div>
 

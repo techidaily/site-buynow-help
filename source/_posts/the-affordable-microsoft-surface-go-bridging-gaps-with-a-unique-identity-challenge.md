@@ -1,7 +1,7 @@
 ---
 title: The Affordable Microsoft Surface Go - Bridging Gaps with a Unique Identity Challenge
-date: 2024-09-30T17:10:43.892Z
-updated: 2024-10-01T18:42:30.812Z
+date: 2024-10-17T09:11:17.384Z
+updated: 2024-10-24T11:44:21.637Z
 categories:
   - BestProducts
 description: This Article Describes The Affordable Microsoft Surface Go - Bridging Gaps with a Unique Identity Challenge
@@ -41,28 +41,15 @@ Lifewire / Emily Isaacs
 
 4.4
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
@@ -85,11 +72,25 @@ Lifewire / Emily Isaacs
 
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Made for comfort**
 
  The Sculpt is an ergonomic keyboard with a split design akin to that of a manta ray. The two halves of the keyboard sweep outwards and downwards creating an empty, raised space in the center of its swoop design. Its keys vary in size, with those nearest to the split being slightly wider than those on the outer edges of the keyboard. It’s largely made with plastic and has a bit of a clacky sound as you type. The Sculpt employs a standard layout with a fabric wrist pad at the front for extra comfort. This intuitive, split design combined with the wrist pad help your wrists, hands, and shoulders sit at a neutral, natural angle in order to[alleviate repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) that frequent typists are prone to over time.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -100,10 +101,10 @@ Lifewire / Emily Isaacs
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Batteries required**
@@ -143,13 +144,6 @@ Lifewire / Emily Isaacs
 [Microsoft Surface Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-surface-ergonomic-keyboard-review-4780282)
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -193,24 +187,22 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dominating-digital-space-top-5-youtube-tactics-revealed/"><u>[New] 2024 Approved Dominating Digital Space Top 5 YouTube Tactics Revealed</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-effortless-subtitling-and-cc-addition-techniques-for-youtube-users/"><u>[New] Effortless Subtitling & CC Addition Techniques for YouTube Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fusing-iphones-media-for-cohesive-outputs/"><u>[New] Fusing iPhones' Media for Cohesive Outputs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-imaginary-giggles-generate-with-kapwings-maker/"><u>[Updated] Imaginary Giggles Generate with Kapwing's Maker</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-tutorial-adding-whimsy-with-snapchat-cartoons/"><u>[Updated] The Ultimate Tutorial Adding Whimsy with Snapchat Cartoons</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-quick-guide-how-to-bypass-kfx-protection-and-eliminate-drm-restrictions/"><u>1. Quick Guide: How to Bypass KFX Protection & Eliminate DRM Restrictions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-streaming-device-tips-roku-vs-fire-tv-stick-decision-making/"><u>Best Streaming Device Tips: Roku Vs. Fire TV Stick Decision-Making</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-of-the-lg-um7300-economical-entry-into-4k-viewing-experience/"><u>Comprehensive Assessment of the LG UM7300: Economical Entry Into 4K Viewing Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/critical-factors-to-evaluate-when-acquiring-refurbished-ipads/"><u>Critical Factors to Evaluate When Acquiring Refurbished iPads</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-steps-for-a-richer-photo-view-with-audio-filters/"><u>Essential Steps for a Richer Photo View with Audio-Filters</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-garmin-forerunner-745-top-tier-gadget-for-all-athletes/"><u>Expert Analysis of the Garmin Forerunner 745: Top-Tier Gadget for All Athletes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-hacks-to-successfully-start-warzone-2e-on-pc-avoiding-common-pitfalls-of-2024/"><u>Expert Hacks to Successfully Start Warzone 2.e on PC - Avoiding Common Pitfalls of 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-zenwifi-xt8-ax6600-mastering-your-home-wi-fi-experience/"><u>In-Depth Analysis of the ASUS ZenWiFi XT8 AX6600: Mastering Your Home Wi-Fi Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lenovo-tab-4-analysis-affordable-android-device-with-constraints/"><u>Lenovo Tab 4 Analysis: Affordable Android Device with Constraints</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-automated-pet-feeding-and-weight-management-with-the-petsafe-healthy-pet-feeder-reviews-and-insights/"><u>The Ultimate Guide to Automated Pet Feeding and Weight Management with the PetSafe Healthy Pet Feeder - Reviews & Insights</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-tips-for-quick-and-reliable-recording-of-presentations/"><u>Top Tips for Quick and Reliable Recording of Presentations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-choices-the-elite-console-lineup-of-2024-for-gamers-worldwide/"><u>Ultimate Choices: The Elite Console Lineup of 2024 for Gamers Worldwide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-mophie-powerstation-ac-charger-a-snapshot-of-luxury-meets-functionality-at-a-price/"><u>Unveiling the Mophie Powerstation AC Charger: A Snapshot of Luxury Meets Functionality at a Price</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-art-of-documenting-xbox-playtime-online/"><u>[New] 2024 Approved The Art of Documenting Xbox Playtime Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elevate-your-profile-picture-game-with-these-high-end-online-services/"><u>[Updated] In 2024, Elevate Your Profile Picture Game with These High-End Online Services</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-key-strategies-in-livestreaming-major-sporting-contests/"><u>[Updated] Key Strategies in Livestreaming Major Sporting Contests</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecti-top-photo-and-video-display-programming/"><u>2024 Approved Perfecti Top Photo & Video Display Programming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-and-easy-to-use-expert-review-of-the-z-edge-z3plus-dash-cam/"><u>Budget-Friendly & Easy-to-Use: Expert Review of the Z-Edge Z3+ Dash Cam</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-dell-g5-5090-gaming-rig-review-extensive-customization-for-gamers/"><u>Budget-Friendly Dell G5 5090 Gaming Rig Review: Extensive Customization for Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-examination-of-the-samsung-cf591-for-competitive-gamers/"><u>Comprehensive Examination of the Samsung CF591 for Competitive Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-lenovo-thinkpad-x12-detachable-perfect-hybrid-laptop-with-superior-keyboard-design/"><u>Comprehensive Review of the Lenovo ThinkPad X12 Detachable – Perfect Hybrid Laptop with Superior Keyboard Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-microsoft-surface-studio-2-and-the-question-of-its-expensiveness/"><u>Comprehensive Review: Microsoft Surface Studio 2 & The Question of Its Expensiveness</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-the-microsoft-surface-ergonomic-keyboards-top-features-and-performance/"><u>Comprehensive Review: The Microsoft Surface Ergonomic Keyboard's Top Features and Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compromises-of-the-hp-stream-14-a-closer-look-at-this-economical-windows-device/"><u>Compromises of the HP Stream 14: A Closer Look at This Economical Windows Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cost-effective-cooling-solutions-unveiling-the-secrets-of-the-topmate-c30s-laptop-pad-review/"><u>Cost-Effective Cooling Solutions - Unveiling the Secrets of the TopMate C30ˈs Laptop Pad Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-nlp-mastery-comparing-gpt-and-bert-systems/"><u>Demystifying NLP Mastery: Comparing GPT and BERT Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y27s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y27s to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-selective-picture-clarity-reduction/"><u>Learn Selective Picture Clarity Reduction</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-interaction-instagram-twitter-facebook-and-youtube/"><u>Navigating the Giants of Online Interaction: Instagram, Twitter, Facebook, and Youtube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/xsplit-archive-in-depth-game-splits-for-2024/"><u>XSplit Archive In-Depth Game Splits for 2024</u></a></li>
 </ul></div>
 

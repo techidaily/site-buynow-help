@@ -1,7 +1,7 @@
 ---
 title: "Exploring Affordability and Performance: The Samsung Galaxy A20's Place Among Budget Android Phones"
-date: 2024-09-27T17:26:18.563Z
-updated: 2024-10-01T17:32:11.537Z
+date: 2024-10-19T01:49:50.436Z
+updated: 2024-10-23T20:18:47.137Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring Affordability and Performance: The Samsung Galaxy A20's Place Among Budget Android Phones"
@@ -36,22 +36,21 @@ Lifewire / James Huenink
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Logitech C615 HD Laptop Webcam
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/9YqP4BNKZ_F27rxIYbc3f1vqzd0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / James Huenink
@@ -78,6 +77,13 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design:** **Flexible, foldable design**
 
  The Logitech C615 is a compact webcam. The whole device folds up into a very small package, just 2.5” wide, 1.25” tall, and 1.5” wide, so you can tuck it into a pocket. When you open it up, the flexible design is simple to position. Unfolded, the webcam has three pieces: the base, neck, and[camera](https://www.lifewire.com/best-digital-cameras-under-100-3897833) . The base is the heaviest part, which means that the camera stays upright even if you don’t perfectly balance everything. The top is made out of a soft, rubbery plastic, and the bottom has a rubbery dot that keeps the base from sliding around. The dot comes off the base to reveal a tripod post, so this camera is compatible with a standard tripod. The only problem is that the dot comes off completely when the tripod post is exposed. If you're prone to losing things, this may be an issue.
@@ -91,13 +97,6 @@ Lifewire / James Huenink
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/jgQ_lVlvzgmXFPpBg5nEd6pgV_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_12_Final_Horiz-e97c48d3af6842eb88775a9d703ce2b6.jpg)
 
  Lifewire / James Huenink
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Camera Quality: Quality camera with some autofocus troubles**
 
@@ -113,6 +112,13 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Decent sound quality for a small mic**
 
  We used both[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test the performance of the C615\. It was very easy to position the camera exactly the way we wanted it, though the USB cable occasionally gave us problems. We’d swivel the camera and then the pull of the USB cable would turn the whole base so the camera pointed back at the same spot where it started.
@@ -121,18 +127,18 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/C2UBXNFmxG8nA0udy1IprMH4LBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_9_Final_Horiz-1af52951f8704af9b76d7dd1ec9744a9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
 ## **Price: Inexpensive HD camera**
 
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Acquits itself well against the competition**
 
@@ -182,18 +188,22 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exploring-the-most-reliable-free-srt-translation-services/"><u>[Updated] In 2024, Exploring the Most Reliable Free SRT Translation Services</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-journey-to-profitable-youtube-video-creation/"><u>[Updated] The Journey to Profitable YouTube Video Creation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessment-of-the-fast-and-sophisticated-glion-dolly-electric-scooter-luxurious-but-costly-ride-awaits/"><u>Assessment of the Fast & Sophisticated Glion Dolly Electric Scooter - Luxurious but Costly Ride Awaits</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-your-nintendo-switch-console-to-a-tv-easy-steps/"><u>Connecting Your Nintendo Switch Console to a TV - Easy Steps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/excellence-in-audio-leading-2024s-wired-earbuds-guide/"><u>Excellence in Audio: Leading 2024'S Wired Earbuds Guide</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-12-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 12 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-magic-6-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor Magic 6 to Another | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Xiaomi Redmi Note 12 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-moto-g-plays-exceptional-battery-life-and-solid-performance/"><u>In-Depth Analysis of Moto G Play's Exceptional Battery Life & Solid Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-glion-dolly-electric-scooter-is-it-worth-the-high-cost/"><u>The Ultimate Guide: Glion Dolly Electric Scooter - Is It Worth the High Cost?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-prime-day-bargains-exclusive-discounts-on-all-new-and-refurbished-samsung-electronics/"><u>Top Prime Day Bargains: Exclusive Discounts on All New & Refurbished Samsung Electronics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017028675-valheim-pc-quiet-dilemma-unveiling-top-fixes-to-restore-game-sounds/"><u>Valheim PC Quiet Dilemma? Unveiling Top Fixes to Restore Game Sounds!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winxdvd-final-user-license-agreement-digiarty-software-exclusive-terms/"><u>WinXDVD Final User License Agreement: Digiarty Software Exclusive Terms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-complete-guide-to-using-zd-softs-recording-tools/"><u>[New] 2024 Approved Complete Guide to Using ZD Soft's Recording Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>[Updated] 2024 Approved Expert Recommendations The Very Best Ways to Watch Cricket on Screen</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-earners-in-youtube-enterprises/"><u>[Updated] 2024 Approved Top Earners in YouTube Enterprises</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-webcam-tricks-for-smooth-video-on-hp-devices/"><u>2024 Approved Webcam Tricks for Smooth Video on HP Devices</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/burning-critique-the-culinary-chaos-of-overcooked-n-review/"><u>Burning Critique: The Culinary Chaos of Overcooked! N Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-opinions-on-netgears-revolutionary-mesh-wifi-solution-the-nighthawk-x4/"><u>Expert Opinions on Netgear's Revolutionary Mesh WiFi Solution, The Nighthawk X4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-best-portable-wireless-routers-of-2024/"><u>Expert Picks: Best Portable Wireless Routers of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/five-headlight-tweaks-for-enhanced-drives/"><u>Five Headlight Tweaks for Enhanced Drives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-effective-is-miraris-kids-alarm-clock-our-comprehensive-analysis-reveals-all/"><u>How Effective Is Mirari's Kids' Alarm Clock? Our Comprehensive Analysis Reveals All!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-iphoneandroid-users-add-soundtracks-to-their-profile-for-2024/"><u>How iPhone/Android Users Add Soundtracks to Their Profile for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-upgrade-windows-10-32-bit-to-64-bit/"><u>How to Upgrade Windows 10 32-Bit to 64-Bit</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-y56-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo Y56 5G Easily?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-assessment-of-the-apple-iphone-12-pro-max-why-more-is-often-merrier/"><u>In-Depth Assessment of the Apple iPhone 12 Pro Max: Why More Is Often Merrier</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-smaller-inexpensive-asus-vivobook-11-all-rounder-pc-for-everyone/"><u>In-Depth Look at the Smaller, Inexpensive Asus VivoBook 11 – All-Rounder PC for Everyone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-apple-m4-processor-release-schedule-and-detailed-specs-revealed/"><u>Inside the Apple M4 Processor: Release Schedule and Detailed Specs Revealed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-photos-to-videos-10-best-online-creators-free-and-paid/"><u>New From Photos to Videos 10 Best Online Creators Free & Paid</u></a></li>
+<li><a href="https://win11.techidaily.com/the-fundamentals-of-using-windows-odbc-connectivity/"><u>The Fundamentals of Using Windows' ODBC Connectivity</u></a></li>
 </ul></div>
 

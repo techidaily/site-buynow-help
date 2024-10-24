@@ -1,7 +1,7 @@
 ---
 title: The Best Tripod for Photography Novices at AmazonBasics
-date: 2024-08-15T06:03:02.650Z
-updated: 2024-08-16T06:03:02.650Z
+date: 2024-10-20T09:56:55.184Z
+updated: 2024-10-23T16:34:11.225Z
 categories:
   - BestProducts
 description: This Article Describes The Best Tripod for Photography Novices at AmazonBasics
@@ -39,12 +39,22 @@ Lifewire/Emily Ramirez
 
 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Amazon Fire TV Cube
 
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/WzC13ETTqm-8PU2bc8-jh9O3G7c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroSquare-484d7d80c4354681968a1ff7d19b9676.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire/Emily Ramirez
 
@@ -68,9 +78,6 @@ Lifewire/Emily Ramirez
  Updated for 2019, the Amazon Fire TV Cube brings powerful hardware that can stream thousands of channels and apps in full[4K HDR](https://www.lifewire.com/difference-between-hdr-and-4k-4176961) with Dolby Vision encoding. The glowing cube also takes voice commands, basically making it an Echo speaker, but is Alexa’s brainpower and its beefy hexacore processor enough to justify its relatively hefty price tag? I spent 15 hours putting it to the test, read on to see how I liked it.
 
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/XdJMKZTDX0bcXYVWQa5F4sXhnt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroHoriz-bb386a84025b49d2a22d3d34c6974007.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire/Emily Ramirez
 
@@ -89,13 +96,24 @@ Lifewire/Emily Ramirez
  My biggest pet peeve with the Cube’s design and features is its accessory bundle. For $120, Amazon could have afforded to throw in an HDMI cable—the $30 Roku Express has one, for instance. If you end up purchasing a Cube, remember to also get an[HDMI cable](https://www.lifewire.com/hdmi-cables-and-connectors-what-you-need-to-know-4685377) . I’ve found Blue Rigger strikes a great balance between affordability and quality, if you need a recommendation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Some difficulty in getting ready**
 
  Compared to the[Fire TV Stick](https://www.lifewire.com/amazon-fire-tv-stick-4k-review-4691492) , the Cube is a little harder to set up— it doesn’t automatically boot like the Stick, and you need to take into consideration its IR receivers. It must have a clear line of sight to your remote, so place it somewhere you can see it. Additionally, if you want to take advantage of its 4K capabilities, you’ll likely want to use the included Ethernet adapter (and you’ll need to acquire an[Ethernet cable](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ).
 
  Once you have your cables connected and power flowing to the Cube, you now need to go through the software side of setup. It’ll ask you to connect to Internet, pick out some apps/channels, and log into your Amazon account.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Streaming Performance: Fast streaming and almost no buffering**
 
@@ -109,9 +127,6 @@ Lifewire/Emily Ramirez
 
 Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## **Software: Heavily biased toward Amazon services**
 
  Software is simultaneously Fire TV’s strongest and weakest point. On the one hand, the quantity of content available on the Fire TV platform is astounding—there’s over 5,000 apps to choose from, as well as a meager library of simple games to play. If you’re looking for something, you will find it.
@@ -127,15 +142,16 @@ Lifewire/Emily Ramirez
  If you’re interested in a Cube because you love Amazon products and content, you’ll be pleased with Prime’s selection of video. There are many, many shows included with your Prime subscription, a lot of them with a stellar production team. Almost all Amazon originals are filmed in 4K, so you can get the most out of your Cube’s performance capabilities. If you haven’t already, you should watch The Expanse and The Marvelous Mrs. Maisel.
 
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/21Mjfh9xUyCrX05R6TQdh9JX64c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_02-603b91304a21457c94312ceb97dfcf74.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## **Price: On the expensive side**
 
  The Fire TV Cube costs $120, which is frankly a little expensive compared to the Fire TV Stick 4K or an Amazon Echo. However, if you want an Echo that’s also a media player, the Cube is your best option. It comes with excellent performance, control for IoT devices, built-in speaker and mic, and svelte looks. While it’s not the best value streaming device, it’s certainly a versatile and well-featured one.
@@ -170,8 +186,6 @@ Lifewire/Emily Ramirez
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +193,22 @@ Lifewire/Emily Ramirez
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-simplified-video-posts-on-twitter-and-tumblr/"><u>[New] 2024 Approved Simplified Video Posts on Twitter and Tumblr</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-entry-level-landing-low-cost-profitable-youtube-platforms/"><u>[New] In 2024, Entry Level Landing Low-Cost, Profitable YouTube Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/add-more-games-to-the-nes-classic/"><u>Add More Games to the NES Classic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-books-application-a-comprehensive-review/"><u>Apple Books Application: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/approach-identify-alternative-tests-used-in-endodontic-diagnosis/"><u>Approach: Identify Alternative Tests Used in Endodontic Diagnosis.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/bluetooth-fm-transmitter-cp24-by-criacr-an-insightful-review-of-a-compact-audio-device-with-some-drawbacks/"><u>Bluetooth FM Transmitter (CP24) by Criacr - An Insightful Review of a Compact Audio Device with Some Drawbacks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-boost-engagement-and-traffic-with-these-top-video-marketing-moves/"><u>In 2024, Boost Engagement and Traffic with These Top Video Marketing Moves</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Phone with Broken Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-a05s-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy A05s FRP Without Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-showdown-assessing-the-pros-and-cons-of-amazon-fire-versus-samsung-tablets/"><u>The Ultimate Showdown: Assessing the Pros and Cons of Amazon Fire Versus Samsung Tablets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-fun-girl-games-for-kids-for-2024/"><u>Top Fun Girl Games for Kids for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-intellectual-property-who-holds-the-creative-rights/"><u>Understanding AI Intellectual Property: Who Holds the Creative Rights?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-inner-star-karaoke-usas-top-review-and-musical-joy-under-150/"><u>Unleash Your Inner Star: Karaoke USA's Top Review and Musical Joy Under $150</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-creativity-on-a-budget-with-monoprices-top-tier-graphics-tablet-for-artists/"><u>Unlock Creativity on a Budget with Monoprice's Top-Tier Graphics Tablet for Artists</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/xbox-series-s-reviewed-high-end-gaming-in-a-smaller-form-factor/"><u>Xbox Series S Reviewed: High-End Gaming in a Smaller Form Factor</u></a></li>
+</ul></div>
 

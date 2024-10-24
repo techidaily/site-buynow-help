@@ -1,7 +1,7 @@
 ---
 title: Discover Cutting-Edge Innovations in Top-Tier Mechanical Keyboard Technology for Gamers.
-date: 2024-10-15T18:05:33.735Z
-updated: 2024-10-18T18:01:12.751Z
+date: 2024-10-22T03:28:57.036Z
+updated: 2024-10-24T00:49:01.180Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  In 2019, a relatively unknown keyboard manufacturer introduced the world's first Hall Effect mechanical keyboard. The company was Wooting, and the keyboard was the Wooting two Lekker Edition. Five years later, HE keyboards are starting to gain traction, and that’s great news for gamers.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Hall Effect Sensors Aren’t Limited to Controllers
 
  Most gamers and gaming hardware enthusiasts are familiar with [Hall Effect thumbsticks](https://youtube-blog.techidaily.com/esthetic-alignment-for-online-glamour-content-for-2024/). These sticks are immune to stick drift thanks to a contactless design that uses a magnet and a sensor. As you move the joystick, you also move the magnet relative to the sensor, resulting in changes in voltage. This change is measured and used to report the position of the joystick.
@@ -31,6 +38,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An exploded view of a Hall Effect keyboard switch assembly.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/hall-effect-keyboard-switch.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Corsair
 
  The bottom of the switch has a hole so that the magnet can fully bottom out. The sensor—the tiny chip at the bottom of the image—is located on the printed circuit board. This measures the change in voltage and determines the position of the magnet.
@@ -40,6 +54,13 @@ Corsair
  You can then reactivate the key again as soon as you press it instead of waiting for the switch to pass a fixed reset point. Unlike HE switches, regular mechanical switches have a fixed reset point because the two metal leaves have to be physically separated before the switch can register a new keystroke.
 
  Rapid Trigger is also adjustable. On some keyboards, the lower bound is set at only 0.1mm. This means that after you bottom out a key, the switch only has to lift by 0.1mm before being ready to register another keypress, allowing you to pull off super-precise strafing movements, for instance.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Benefits of Hall Effect Gaming Keyboards
 
@@ -55,13 +76,6 @@ Corsair
 
  Finally, magnetic switches also have a dramatically longer lifespan compared to regular mechanical switches. Most HE switches are rated for 100 million keystrokes because they register input in a contactless fashion instead of relying on two metal leaves that have to touch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Here Comes a Flood of Mechanical Hall Effect Keyboards
 
  For a couple of years, Wooting was the only manufacturer of HE gaming keyboards. But after the explosion in popularity of the Wooting 60 HE, the [best gaming keyboard](https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-fingerprint-not-working-solutions-by-drfone-android/) you can get right now, other keyboard brands started to offer HE switches of their own.
@@ -76,23 +90,9 @@ Corsair
 
 ![Double Rail magnetic keyboard switch design.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/double-rail-magnetic-keyboard-switch-design.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Keychron / Gateron
 
  If you’re thinking about buying an HE keyboard, make sure to read trusted reviews and user comments on forums like Reddit because not all HE keyboards offer the same Rapid Trigger precision and quality.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Hall Effect Keyboards Live and Die by the Quality of Their Software
 
@@ -107,10 +107,16 @@ Keychron / Gateron
  Considering the relatively high average price of magnetic HE gaming keyboards, you don’t want to make a mistake and end up with an expensive keyboard that behaves like a regular mechanical gaming keyboard or comes with an app custom-made for ruining your day over and over again.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should I Get a Hall Effect Mechanical Gaming Keyboard?
@@ -144,20 +150,16 @@ Keychron / Gateron
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-designing-eye-catching-instagram-post-previews-for-2024/"><u>[New] Designing Eye-Catching Instagram Post Previews for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-highlighting-heroics-at-the-x-olympics-2022/"><u>[New] Highlighting Heroics at the X-Olympics 2022</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-finding-the-perfect-pitch-discover-no-cost-voice-alteration-apps/"><u>[Updated] In 2024, Finding the Perfect Pitch Discover No-Cost Voice Alteration Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigate-the-world-of-digital-humor-with-our-gif-guide/"><u>Navigate the World of Digital Humor with Our GIF Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/portable-sonos-performance-test-results/"><u>Portable Sonos Performance Test Results</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pursuing-excellence-in-gaming-a-detailed-review-of-asuss-no-compromise-zephyrus-g14-notebook/"><u>Pursuing Excellence in Gaming: A Detailed Review of Asus's No Compromise Zephyrus G14 Notebook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pushing-limits-with-nikon-z7-a-nearly-ideal-mirrorless-camera/"><u>Pushing Limits with Nikon Z7: A Nearly Ideal Mirrorless Camera</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-topmates-best-in-class-wallet-friendly-laptop-chiller-the-c302/"><u>Review of TopMate's Best-in-Class, Wallet-Friendly Laptop Chiller - The C302</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-tab-a-2020-evaluation-absent-crucial-element/"><u>Samsung Galaxy Tab A (2020) Evaluation: Absent Crucial Element</u></a></li>
-<li><a href="https://common-error.techidaily.com/steam-file-error-resolved-complete-restoration-of-missing-game-content/"><u>Steam File Error Resolved: Complete Restoration of Missing Game Content</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-take-when-you-dont-see-new-emails-coming-into-your-yahoo-account/"><u>Steps to Take When You Don't See New Emails Coming Into Your Yahoo Account</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/streamlined-performance-in-a-classy-design-our-review-of-aukeys-usb-hub-with-usb-30-speeds/"><u>Streamlined Performance in a Classy Design: Our Review of Aukey's USB Hub with USB 3.0 Speeds</u></a></li>
-<li><a href="https://win-special.techidaily.com/times-tide-waits-for-none-master-chrono-control-today/"><u>Time's Tide Waits for None – Master Chrono Control Today!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitterize-your-tiktok-posts-for-2024/"><u>Twitterize Your TikTok Posts for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-choosing-the-best-disk-imaging-software-for-windows-users-11-10-8-7/"><u>Ultimate Guide to Choosing the Best Disk Imaging Software for Windows Users (11, 10, 8, 7)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-social-network-videos-downloaded-for-audio-conversion/"><u>[New] Social Network Videos Downloaded for Audio Conversion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-an-ipad-pro-or-a-macbook-pro-what-sets-them-apart/"><u>Choosing Between an iPad Pro or a MacBook Pro: What Sets Them Apart?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insight-unboxing-the-ultimate-speed-amazon-fire-tv-cube-evaluation/"><u>Expert Insight: Unboxing the Ultimate Speed - Amazon Fire TV Cube Evaluation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-empower-your-journey-through-cinemas-best-10-titles/"><u>In 2024, Empower Your Journey Through Cinema's Best 10 Titles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-yuva-3-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Lava Yuva 3 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-lg-watch-style-the-benchmark-for-wearable-tech-with-wear-os-evolution/"><u>In-Depth Analysis of LG Watch Style - The Benchmark for Wearable Tech with Wear OS Evolution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-kitchen-chaos-an-insightful-overcooked-2-critique/"><u>Mastering the Kitchen Chaos: An Insightful Overcooked! 2 Critique</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-misaligned-movies-with-backup-samples/"><u>Mending Misaligned Movies: With Backup Samples</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/novel-sound-experience-with-avantree-aria-headphones/"><u>Novel Sound Experience with Avantree Aria Headphones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-top-android-apps/"><u>Ultimate Guide to Top Android APPs</u></a></li>
 </ul></div>
 

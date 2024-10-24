@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Latest Computer with These Spectacular Retro Game Challenges!
-date: 2024-10-10T16:07:14.072Z
-updated: 2024-10-12T18:40:32.352Z
+date: 2024-10-17T01:06:11.714Z
+updated: 2024-10-24T08:28:18.546Z
 tags:
   - games
   - tv
@@ -28,16 +28,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The best thing about upgrading or buying a shiny new gaming PC is loading up games that have been in your library for years, but that you could never run in all their maxed-out glory. The question used to be "Can it run Crysis?", but now even my Nintendo Switch can do a decent job of that, so what are some other hardware-crushing titles from yesteryear?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  Kingdom Come: Deliverance 
 
 ![Kingdom Come Deliverance official screenshot showing knights in battle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/kingdom-come-deliverance-official-screenshot.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Warhorse Studios
 
@@ -46,10 +46,10 @@ Warhorse Studios
  Kingdom Come: Deliverance is also well worth playing in its own right, despite its learning curve. Trying to survive as a 15th-century Bohemian peasant has never looked this good.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  Metro Exodus Enhanced Edition 
@@ -61,10 +61,10 @@ Warhorse Studios
  Released in early 2021, this [updated version of _Metro Exodus_](https://gamerant.com/metro-exodus-enhanced-edition-changes-improvements/) brought us one of the first examples of a triple-A modern game that offers a required fully ray-traced mode. It also managed to offer pure ray-traced lighting without the massive hit to performance that you'd expect, but it still wasn't great on mid-range GPUs. Now that you have something a little more modern, especially with additional generations of ray-tracing hardware advancements, it's the perfect time to see what Metro Exodus can really do if you provide enough horsepower.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3  Control 
@@ -76,6 +76,13 @@ Remedy Entertainment
 [_Control_](https://store.steampowered.com/app/870780/Control%5FUltimate%5FEdition/), from the legendary developer Remedy Entertainment, was the first ray-tracing game I ever played. In fact, my copy was included for free with my RTX 2060, the first ray-tracing GPU I bought. Unfortunately, the 2060 was a little too under-powered to really enjoy any of those sweet RT effects, but things have moved on significantly, and my current RTX 4060 laptop runs Control with all the RT eye-candy switched on at playable frame rates.
 
  In some ways, Control has aged quite well in the sense that only now can you really see the game as it was intended without low frame rates, and it's still absolutely worth it to play this strange and amazing cross of _The X-files_ and an episode of _The_ _Twilight Zone_.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  Witcher 3 (Classic Version) 
 
@@ -89,6 +96,13 @@ CD Projekt RED
 
  The classic version of the game, however, still looks amazing, and on a modern computer you can max everything out at high-resolutions and still get butter-smooth frame rates. Classic Witcher 3 is still a looker and will still make use of whatever performance your current PC offers. Classic Witcher 3 on a modern PC is still the ultimate Witcher experience in my opinion. Amazing for a game that first came out in 2015!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5  Red Dead Redemption 2 
 
 ![Red Dead Redemption 2 official screenshot showing two coqboys riding through a field](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/red-dead-redemption-2-official-screenshot-showing-two-coqboys-riding-through-a-field.jpg) 
@@ -99,23 +113,9 @@ Rockstar
 
  All but the most powerful current gaming PCs will struggle to offer a completely smooth experience with all of RDR2's options cranked as high as they will go, especially if you want to play at 1440p or higher, or with an ultrawide monitor.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  A Plague Tale: Innocence 
 
 ![A Plague Tale Innocence official screenshot showig two characters standing among buildings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-plague-tale-innocence-official-screenshot-showig-two-characters-standing-among-buildings.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Asobo
 
@@ -124,6 +124,19 @@ Asobo
 ## 7  The Tomb Raider Survivor Trilogy 
 
 ![Shadow of the Tomb Raider official screenshot showing Lara Croft about to backstab an enemy soldier.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shadow-of-the-tomb-raider.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Crystal Dyamics
 
@@ -137,6 +150,13 @@ Rockstar
 
  Like Red Dead Redemption 2, [_Grand Theft Auto V_](https://store.steampowered.com/app/271590/Grand%5FTheft%5FAuto%5FV/) offers fidelity settings that are practically from outer space compared to the original Xbox 360 and PlayStation 3 releases. Push all the sliders to the right, and even current high-end systems will choke. Especially if you're aiming for 4K. While it doesn't look anywhere as good as Rockstar's slavish cowboy sim, GTA V is still jaw-dropping in the complexity of its urban sprawl and myriad little systems and simulations, all working together like some sort of sleazy clockwork diorama.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9  Quake II RTX 
 
 ![Quake II RTX official screenshot showing materials and global lighting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/quake-ii-rtx-official-screenshot-showing-materials-and-global-lighting.jpg) 
@@ -147,23 +167,9 @@ Lightspeed Studios
 
  It's funny, because when I bought my first proper 3D accelerator, the [3Dfx Voodo 3 2000](https://win-howtos.techidaily.com/guide-addressing-windows-problem-inability-to-locate-a-suitable-printer-driver-fixed/), it was specifically to play Quake II. I guess not that much has changed over the decades.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10  Batman: Arkham Knight 
 
 ![Batman Arkham Knight official image showing Batman approaching bad guys in the rain.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/batman-arkham-knight-official-image-showing-batman-approaching-bad-guys-in-the-rain.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Rocksteady Studios
 
@@ -184,19 +190,19 @@ Rocksteady Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-decoding-the-jargon-what-mcns-mean-for-you/"><u>[New] 2024 Approved Decoding the Jargon What MCNs Mean for You</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-gopro-hero5-silver-meets-sjcam-sj7/"><u>[New] GoPro Hero5 Silver Meets SJCAM SJ7</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-sources-for-pixel-ringtone-downloads/"><u>[Updated] Best Sources for Pixel Ringtone Downloads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-efficient-steps-for-capturing-iphone-screens/"><u>[Updated] Efficient Steps for Capturing iPhone Screens</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exclusive-resource-hub-downloadable-templates-for-youtubers/"><u>[Updated] In 2024, Exclusive Resource Hub - Downloadable Templates for YouTubers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-invaluable-resource-for-zero-cost-video-and-photo-providers-for-2024/"><u>[Updated] Invaluable Resource for Zero-Cost Video and Photo Providers for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-y56-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo Y56 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-apple-ipad-mini-5-analysis-unveiling-the-compact-dynamo/"><u>Comprehensive Apple iPad Mini 5 Analysis: Unveiling the Compact Dynamo</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cutting-edge-razer-blade-stealth-amoultrabook-13-review-surpassing-expectations/"><u>Cutting-Edge Razer Blade Stealth amoUltrabook 13 Review: Surpassing Expectations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-the-ultimate-5-substitutes-for-video-downloader-helper-applications/"><u>Discover the Ultimate 5 Substitutes For Video Downloader Helper Applications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-heimvision-sunrise-simulator-alarm-clock-model-a8/"><u>In-Depth Analysis of the HeimVision Sunrise Simulator Alarm Clock, Model A8</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-the-world-of-ibuypower-gamers-a-comprehensive-rig-evaluation/"><u>Inside the World of IBuypower Gamers: A Comprehensive Rig Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-list-of-leading-wi-fi-and-cellphone-repeaters-for-2efficent-connectivity-2024-edition/"><u>Ultimate List of Leading Wi-Fi and Cellphone Repeaters for 2Efficent Connectivity - 2024 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-appeal-in-depth-look-at-the-apple-iphone-ses-smart-value-proposition-2020-edition/"><u>Unboxing the Appeal: In-Depth Look at the Apple iPhone SE's Smart Value Proposition - 2020 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-focused-adventure-getting-up-close-in-roblox-landscapes/"><u>[New] 2024 Approved Focused Adventure Getting Up Close in Roblox Landscapes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-passive-watchers-to-profit-youtube-monetization/"><u>[New] In 2024, From Passive Watchers To Profit YouTube Monetization</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-list-high-quality-cost-free-meeting-platforms/"><u>[Updated] 2024 Approved Essential List High-Quality, Cost-Free Meeting Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1-essential-subscription-why-retro-gamers-cant-miss-playstation-plus-premium/"><u>1. Essential Subscription: Why Retro Gamers Can't Miss PlayStation Plus Premium</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1-unleashing-the-power-of-wireless-how-headsets-transform-your-gaming-experience/"><u>1. Unleashing the Power of Wireless: How Headsets Transform Your Gaming Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-brighter-future-in-digital-artistry-how-procreate-inspires-hope-among-visual-creators/"><u>A Brighter Future in Digital Artistry: How Procreate Inspires Hope Among Visual Creators</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/alternative-platforms-for-song-lyrics-what-to-use-now-that-spotifys-free-tier-has-changed/"><u>Alternative Platforms for Song Lyrics: What to Use Now That Spotify's Free Tier Has Changed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-breezy-game-selection-to-enjoy-during-the-sunny-summer-months/"><u>Best Breezy Game Selection to Enjoy During the Sunny Summer Months</u></a></li>
+<li><a href="https://article-posts.techidaily.com/best-overlay-strategies-for-videographers/"><u>Best Overlay Strategies for Videographers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-12-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 12 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-for-illegal-activity-notifications-within-video-games/"><u>Solution Found for 'Illegal Activity' Notifications Within Video Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-creativity-inshot-video-editing-on-your-pc/"><u>Unleash Creativity Inshot Video Editing on Your PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-your-inner-comedy-with-gif-mastery/"><u>Unleash Your Inner Comedy with GIF Mastery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-purchasing-mp3-downloads-trumps-online-music-streaming/"><u>Why Purchasing MP3 Downloads Trumps Online Music Streaming</u></a></li>
 </ul></div>
 

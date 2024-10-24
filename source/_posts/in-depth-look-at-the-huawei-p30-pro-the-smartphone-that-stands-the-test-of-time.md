@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at the Huawei P30 Pro – The Smartphone That Stands the Test of Time
-date: 2024-08-15T06:05:03.946Z
-updated: 2024-08-16T06:05:03.946Z
+date: 2024-10-22T06:46:14.173Z
+updated: 2024-10-24T06:09:24.473Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Look at the Huawei P30 Pro – The Smartphone That Stands the Test of Time
@@ -39,12 +39,16 @@ Lifewire/Emily Ramirez
 
 4.6
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Amazon Fire TV Cube
 
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/WzC13ETTqm-8PU2bc8-jh9O3G7c=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_HeroSquare-484d7d80c4354681968a1ff7d19b9676.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Lifewire/Emily Ramirez
 
@@ -71,9 +75,6 @@ Lifewire/Emily Ramirez
 
  Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## **Design: Futuristic design powered by Alexa**
 
  The Fire TV Cube is a cute, futuristic-looking block that will stand out on your home console despite its 4-inch sides. On the outside, it’s virtually unchanged from the first-generation model. Across the top, there’s a blue LED bar that lights up whenever the Cube takes action. The sides of the cube have a glossy black finish that’s a fingerprint magnet. There’s volume and menu buttons on the top, as well, but we don’t foresee a lot of use for them considering that the Cube comes with a remote. In the back, there’s an[HDMI connector](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) , a power adapter port, and a micro USB port.
@@ -88,6 +89,13 @@ Lifewire/Emily Ramirez
 
  My biggest pet peeve with the Cube’s design and features is its accessory bundle. For $120, Amazon could have afforded to throw in an HDMI cable—the $30 Roku Express has one, for instance. If you end up purchasing a Cube, remember to also get an[HDMI cable](https://www.lifewire.com/hdmi-cables-and-connectors-what-you-need-to-know-4685377) . I’ve found Blue Rigger strikes a great balance between affordability and quality, if you need a recommendation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Some difficulty in getting ready**
 
  Compared to the[Fire TV Stick](https://www.lifewire.com/amazon-fire-tv-stick-4k-review-4691492) , the Cube is a little harder to set up— it doesn’t automatically boot like the Stick, and you need to take into consideration its IR receivers. It must have a clear line of sight to your remote, so place it somewhere you can see it. Additionally, if you want to take advantage of its 4K capabilities, you’ll likely want to use the included Ethernet adapter (and you’ll need to acquire an[Ethernet cable](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ).
@@ -95,8 +103,12 @@ Lifewire/Emily Ramirez
  Once you have your cables connected and power flowing to the Cube, you now need to go through the software side of setup. It’ll ask you to connect to Internet, pick out some apps/channels, and log into your Amazon account.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Streaming Performance: Fast streaming and almost no buffering**
 
  With a hexa-core processor and an ARM Mali G52-MP2 GPU, the Fire TV Cube is blazing fast. Any trouble streaming 4K content is going to come from your internet connection. When I tested it, content loaded instantly, with little to no buffer time and instant thumbnail loading.
@@ -125,18 +137,19 @@ Lifewire/Emily Ramirez
 
 ![Fire TV Cube (2nd Generation)](https://www.lifewire.com/thmb/21Mjfh9xUyCrX05R6TQdh9JX64c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireCubeTV_02-603b91304a21457c94312ceb97dfcf74.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire/Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: On the expensive side**
 
  The Fire TV Cube costs $120, which is frankly a little expensive compared to the Fire TV Stick 4K or an Amazon Echo. However, if you want an Echo that’s also a media player, the Cube is your best option. It comes with excellent performance, control for IoT devices, built-in speaker and mic, and svelte looks. While it’s not the best value streaming device, it’s certainly a versatile and well-featured one.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Amazon Fire TV Cube vs. Roku Ultra**
 
  There’s a lot to consider if you’re choosing between the Roku Ultra and the Fire TV Cube. Specs-wise, the Fire TV Cube is undoubtedly more powerful and supports more codecs. However, the Roku Ultra has more than enough power to handle 4K content, and it supports HDR, so only the pickiest film lovers would even notice the difference.
@@ -149,9 +162,6 @@ Lifewire/Emily Ramirez
 
  The Amazon Fire TV Cube is a fantastic streamer for those committed to the Alexa ecosystem. However, it’s a little expensive if you only want reliable 4K streaming, in which case you may be better served by the Fire TV Stick 4K or the Roku Streaming Stick+ for $50.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Fire TV Cube
@@ -170,8 +180,6 @@ Lifewire/Emily Ramirez
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +187,23 @@ Lifewire/Emily Ramirez
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-discreetly-streaming-top-8-video-tools-of-the-year-2023/"><u>[New] Discreetly Streaming Top 8 Video Tools of the Year, 2023</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-content-sharing-on-youtube-without-breaching-copyright/"><u>[New] Mastering Content Sharing on YouTube Without Breaching Copyright</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-advanced-hdr-creation-in-photoshop-workflows/"><u>[Updated] 2024 Approved Advanced HDR Creation in Photoshop Workflows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-discovering-collective-chat-content-in-messenger/"><u>[Updated] 2024 Approved Discovering Collective Chat Content in Messenger</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/achieve-optimal-pet-nutrition-with-our-in-depth-look-at-the-petsafe-auto-feeder-review/"><u>Achieve Optimal Pet Nutrition with Our In-Depth Look at the PetSafe Auto Feeder Review</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/i-numeri-italiani-da-1-al-prolungamento-a-mille/"><u>I Numeri Italiani: Da 1 Al Prolungamento a Mille</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/optimizing-income-through-youtube-short-tutorials/"><u>Optimizing Income Through YouTube Short Tutorials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-day-discounts-securing-the-best-deal-on-the-apple-watch-series-se-now-just-80-cheaper-insights-from-zdnet/"><u>Prime Day Discounts: Securing the Best Deal on the Apple Watch Series SE, Now Just $80 Cheaper - Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/sign-excel-2021-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel 2021 Online for Free</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-and-assessment-of-the-lenovo-ideapad-3-the-new-contender-in-line-with-yoga-a940s-legacy/"><u>Ultimate Guide & Assessment of the Lenovo IdeaPad 3: The New Contender in Line with Yoga A940's Legacy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-best-laptop-battery-packs-of-2024/"><u>Ultimate Guide to the Best Laptop Battery Packs of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unbeatable-prime-day-offers-shop-benq-monitor-specials/"><u>Unbeatable Prime Day Offers: Shop BenQ Monitor Specials</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unraveling-the-features-and-performance-of-the-new-dji-phantom-4-pro-v2-nearly-flawless-drone-tech/"><u>Unraveling the Features and Performance of the New DJI Phantom 4 Pro V.2 - Nearly Flawless Drone Tech</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-behind-the-500-internal-server-blunder/"><u>Unraveling the Mystery Behind the 500 Internal Server Blunder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vintage-vibes-unleashed-a-thorough-examination-of-the-super-mario-games-on-nintendos-game-and-watch-collection/"><u>Vintage Vibes Unleashed: A Thorough Examination of the Super Mario Games on Nintendo's Game & Watch Collection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/which-voice-assistant-should-you-choose-comparing-alexa-and-google-assistant/"><u>Which Voice Assistant Should You Choose?: Comparing Alexa and Google Assistant</u></a></li>
+</ul></div>
 

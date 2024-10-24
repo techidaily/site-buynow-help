@@ -1,7 +1,7 @@
 ---
 title: The Best Portable Sound From WM-X900
-date: 2024-08-15T06:03:56.638Z
-updated: 2024-08-16T06:03:56.638Z
+date: 2024-10-16T18:28:23.639Z
+updated: 2024-10-24T03:47:20.435Z
 categories:
   - BestProducts
 description: This Article Describes The Best Portable Sound From WM-X900
@@ -40,9 +40,6 @@ Lifewire / Yoona Wagener
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bose Frames Audio Sunglasses
 
 ![Bose Frames](https://www.lifewire.com/thmb/BuvZl2QelYzm4BKj83DqAyy0SR8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_01LW4051794-1-5af9a422af2d4d92b187e87b1bcbb1e7.jpg)
@@ -73,6 +70,13 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Sleek, but not as refined as you’d expect**
 
  Bose Frames are available in two styles: Alto and Rondo. The Alto option is larger, with lenses that measure about two inches across, a distance of 0.7 inches between the lenses, and an overall length (from the lenses to the end of the arms) of 6.4 inches.
@@ -91,9 +95,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## **Comfort: Wearable but slightly heavy**
 
  The Bose Frames offer a fairly comfortable fit. While they’re not at all bulky or hefty in the hands, we did notice that wearing them for over an hour did start to feel heavy on the face. We experienced some discomfort particularly in the nose bridge area where the frames pressed into the skin, but this is not an uncommon fit issue with regular sunglasses or glasses.
@@ -116,9 +117,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: An app that doesn’t do much**
 
  The Bose Frames require setup through the Bose Connect app, which is available for both[Android](https://www.lifewire.com/what-is-google-android-1616887) and[iOS](https://www.lifewire.com/what-is-ios-1994355) devices. It functions first and foremost as a way to pair and manage devices your connecting devices. Bose says you can establish up to eight device connections, but only one connection can be used at a time.
@@ -140,8 +138,12 @@ Lifewire / Yoona Wagener
  While the Bose AR functionality is a sort of hidden perk of these frames, it still feels like its very much in the early stages. It’s best to temper any high expectations at this point, but the quality of experience and offerings are likely to expand with further development.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price** :**Not exorbitant compared to smart sunglasses**
 
  Both the Bose Rondo and Alto frames are priced at $199.99 MSRP. While this is a bit pricey for a regular sunglasses, these obviously have a lot of additional features. But the price would feel even fairer if the lenses were polarized or could be swapped out with prescription lenses.
@@ -149,6 +151,13 @@ Lifewire / Yoona Wagener
  If you want to pay less for much of the same functionality, the Inventiv Wireless Bluetooth Sunglasses cost about $69 and attempt to mirror the casual look and open-audio experience of the Bose Frames, though with more sound leaking and without the status and reputation of the Bose brand audio technology.
 
  On the other end of the spectrum, the Vuzix Blade Smart Glasses retail for $999.99, but they also perform a wide array of smart functions like recording video, watching media, and snapping pictures. If you’re looking for a compromise that skews more toward stylish and less on the “smart” side of things, the Bose Frames may be the better pick.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Choosing a fit based on your lifestyle**
 
@@ -169,19 +178,18 @@ Lifewire / Yoona Wagener
  Bose Frames are an innovative and forward-thinking wearable for the busy, stylish, and music-loving consumer. If you like the idea of audio built in to your sunglasses and you don’t need sweat resistance or smartphone notifications, these not-quite smart sunglasses could be an ideal everyday accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Bose QuietComfort 35 II](https://www.lifewire.com/bose-quietcomfort-35-ii-review-4589261)
 * [Bose SoundSport Wireless Headphones](https://www.lifewire.com/bose-soundsport-wireless-headphones-review-4589230)
 * [Bose Noise Cancelling Headphones 700](https://www.lifewire.com/bose-noise-cancelling-headphones-700-review-4770549)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Frames Audio Sunglasses
@@ -204,8 +212,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +219,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-horned-gods-hearing-essential-websites-for-got-sound-files/"><u>[New] Horned God's Hearing Essential Websites for GoT Sound Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-5-xbox-external-hard-drive/"><u>[New] Top 5 Xbox External Hard Drive</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-airpods-max-review/"><u>Apple AirPods Max Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/applecareplus-reviewed-are-you-getting-your-moneys-worth/"><u>AppleCare+ Reviewed: Are You Getting Your Money's Worth?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-ax6000-rt-ax88u-masterclass-review-of-a-leading-smart-wi-fi-6-router-and-its-stellar-features/"><u>Asus AX6000 RT-AX88U: Masterclass Review of a Leading Smart Wi-Fi 6 Router and Its Stellar Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/barnes-and-nobles-newest-gem-the-enhanced-screen-display-of-nook-glowlight-plus-reviewed-here/"><u>Barnes & Noble's Newest Gem - The Enhanced Screen Display of Nook GlowLight Plus Reviewed Here!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-places-for-streaming-movie-promos-a-guide-to-7-premier-sites/"><u>Best Places for Streaming Movie Promos: A Guide to 7 Premier Sites</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-travel-friendly-wifi-routers-to-enhance-your-journey/"><u>Best Travel-Friendly WiFi Routers to Enhance Your Journey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/free-youtube-endings-that-stand-out-ranked-in-2024/"><u>Free YouTube Endings That Stand Out - Ranked, In 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-v29e-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo V29e Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Without Passcode?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-15-pro-how-to-unlock-a-disabled-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 15 Pro How to Unlock a Disabled iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/windows-1110clonezilla/"><u>Windows 11/10のデュアルブート環境への適切なクローニング技術：Clonezillaツールを使ったガイド</u></a></li>
+</ul></div>
 

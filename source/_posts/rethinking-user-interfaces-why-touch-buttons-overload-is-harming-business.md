@@ -1,7 +1,7 @@
 ---
 title: "Rethinking User Interfaces: Why Touch Buttons Overload Is Harming Business"
-date: 2024-10-17T16:52:25.579Z
-updated: 2024-10-18T17:39:34.213Z
+date: 2024-10-16T20:44:18.038Z
+updated: 2024-10-24T01:08:32.963Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Problem With Capacitive Touch Buttons
 
  Two things around the house routinely make me reach for the swear jar: cables and touch buttons. Cables are an unavoidable fact of life, the bane of [anyone who appreciates a nice clean setup](https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-profile-video-attraction/). But touch buttons are a deliberate choice.
@@ -38,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Capacitive Touch Buttons Are Everywhere
 
  There was a period in the late 2010s when touch buttons seemed to appear on almost everything, whether their use was justified or not. Though some manufacturers have moved away from the practice, others seem to be shoehorning capacitive panels into anything and everything.
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
  Have you tried to buy a washing machine recently? Touch buttons are seemingly everywhere. It can be hard to find a model that _doesn’t_ use some sort of touch interface the last time I checked. Depending on where you do your laundry, humid air and wet hands will play havoc with the basic human desire for clean clothes.
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -70,10 +63,10 @@ Tim Brookes / How-To Geek
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -93,10 +86,10 @@ Tim Brookes / How-To Geek
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -106,6 +99,13 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -126,17 +126,20 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-chrome-os-native-screen-recorder/"><u>[Updated] In 2024, Chrome OS Native Screen Recorder</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-download-youtube-audio-safely-and-legally-in-3-ways/"><u>[Updated] In 2024, Download Youtube Audio Safely & Legally in 3 Ways</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-lg-24lh4830-smart-tv-high-quality-entertainment-without-breaking-the-bank/"><u>Affordable LG 24LH4830 Smart TV: High Quality Entertainment Without Breaking the Bank</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-singing-bliss-with-karaoke-usa-less-than-150-for-endless-entertainment/"><u>Affordable Singing Bliss with Karaoke USA: Less Than $150 for Endless Entertainment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-new-patrol-officer-equipment-2024s-top-body-cam-picks/"><u>Best New Patrol Officer Equipment: 2024'S Top Body Cam Picks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-value-and-quality-the-ultimate-showdown-of-the-leading-17-inch-laptops/"><u>Best Value and Quality: The Ultimate Showdown of the Leading 17-Inch Laptops</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/brilliant-imagery-unleashed-with-the-49-ultra-hd-4k-samsung-tv-an-exclusive-review-of-model-xbr-49x90/"><u>Brilliant Imagery Unleashed with the 49 Ultra HD, 4K Samsung TV - An Exclusive Review of Model XBR-49X90 #</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-g-to-i-transfer-tactics-how-to-migrate-google-photos-to-icloud-effortlessly/"><u>From G-to-I Transfer Tactics: How To Migrate Google Photos to iCloud Effortlessly</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-youtube-brand-partnerships-with-famebit-tools-for-2024/"><u>Mastering YouTube Brand Partnerships with FameBit Tools for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/steer-clear-of-virtual-reality-sickness/"><u>Steer Clear of Virtual Reality Sickness</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unique-chatbot-creation-build-with-self-data/"><u>Unique ChatBot Creation: Build with Self-Data</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-the-art-of-sync-free-obs-streaming/"><u>[New] 2024 Approved Mastering the Art of Sync-Free OBS Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-zombie-survival-quest-top-8-game-guide/"><u>[New] 2024 Approved Zombie Survival Quest - Top 8 Game Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-chuckles-churner-visual-composer/"><u>[New] Chuckles Churner Visual Composer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-simplify-tech-transitions-smartphone-vr-integration-guide/"><u>[Updated] In 2024, Simplify Tech Transitions Smartphone-VR Integration Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-ideal-placement-techniques-for-your-ps4-camera/"><u>Discover Ideal Placement Techniques for Your PS4 Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-server-cabinets-and-enclosures-expert-picks/"><u>Essential Server Cabinets & Enclosures - Expert Picks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-14-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-garmin-vivosmart-4-the-latest-in-personal-health-tracking-technology/"><u>In-Depth Review of Garmin Vivosmart 4: The Latest in Personal Health Tracking Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-lg-k92-5g-phone-worth-your-investment-an-in-depth-assessment/"><u>Is the LG K92 5G Phone Worth Your Investment? An In-Depth Assessment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/jokesinframe-instant-memes-and-more/"><u>JokesInFrame Instant Memes & More</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-great-outdoors-with-garmins-reliable/"><u>Mastering the Great Outdoors with Garmin's Reliable</u></a></li>
+<li><a href="https://win-special.techidaily.com/missing-pages-alert-error-code-404/"><u>Missing Pages Alert – Error Code ❌404</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-comfortable-vertical-gaming-and-office-mice-in-asterisk-2024/"><u>Most Comfortable Vertical Gaming and Office Mice in Asterisk 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-mastering-chatgpt-api-interactions/"><u>Pioneering Progress: Mastering ChatGPT API Interactions</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-anatomy-of-a-fake-facebook-profile/"><u>The Anatomy of a Fake Facebook Profile</u></a></li>
 </ul></div>
 

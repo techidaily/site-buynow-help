@@ -1,7 +1,7 @@
 ---
 title: Inside My Adventure in 3D-Printed LEGO Creations – Surprising Outcomes Revealed
-date: 2024-10-05T16:28:56.421Z
-updated: 2024-10-12T17:28:05.647Z
+date: 2024-10-20T10:22:51.737Z
+updated: 2024-10-24T08:40:50.422Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Proper LEGO is expensive, and sometimes you just need a specific brick or a brick that no one makes anymore. So what about simply 3D printing LEGO? I took a shot at it, and it's not as simple as I thought.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Great LEGO Patent Expiration and “Compatible” Bricks
 
  Before we get onto my mini LEGO-printing adventure, it is worth covering why this is even possible from a legal standpoint. You've probably noticed that there are plenty of LEGO "compatible" bricks on the market, and the Danish toy company doesn't seem to be doing anything about it. The fact is that the [patents covering the locking mechanism of LEGO bricks](https://www.freepatentsonline.com/3005282.pdf) have expired. So, while the LEGO trademark is protected, there's nothing illegal about making bricks that are compatible with genuine LEGO.
@@ -35,15 +28,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Not that LEGO let this happen without a fight, its failed legal battles with companies like Mega Blocks make for [fascinating reading](https://www.nytimes.com/2005/02/02/business/worldbusiness/building-a-legal-case-block-by-block.html). For our purposes here, all you need to know is that regular folks making LEGO models for 3D printing is fine, as long as they don't pretend to be real LEGO or use the company's trademarks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Where to Find Brick Model Files
 
  If you have the talent and the time, nothing's stopping you from firing up your favorite CAD program and whipping up your own LEGO, but luckily plenty of people have already done the hard work for us. In this case I used FaronMentink's [LEGO compatible bricks](https://www.thingiverse.com/thing:5447694/files) found on Thingiverse, but if those don't work for you, there are numerous other options on Thingiverse and other websites that host files for 3D printing.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Printer, Setup, Material, & Settings
 
@@ -52,10 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  As far as possible, I try to avoid using supports for my prints, because they leave markers on the model that require cleaning later. So I've printed these bricks in place, right-way-up to ensure there are no overhangs that would fail. However, some more exotic brick types might need supports, which you'll have to generate using your 3D printing software.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Results
@@ -65,6 +65,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  My second print, with glue properly applied, went through without a hitch. I used black satin PLA, and although the layer lines are apparent, overall the bricks look pretty good!
 
 ![Two 3D-printed LEGO-compatible bricks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/bad-blocks.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek
 
@@ -79,13 +86,6 @@ Sydney Louw Butler/How-To Geek
 Sydney Louw Butler/How-To Geek
 
  After printing out two test blocks, I got a pretty decent fit with real LEGO, but an incredible fit between the 3D-printed blocks themselves. In fact, they may be a little _too_ tight-fitting because them to come apart is much harder than with real LEGO. I can however, see myself printing out enough bricks to complete a build using this particular set, knowing that it won't fall apart.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Printed LEGO Rabbit Hole
 
@@ -110,21 +110,18 @@ Sydney Louw Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-best-text-effects-for-your-video/"><u>[New] Top 10 Best Text Effects for Your Video</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-swiftly-sync-your-visual-content-across-ios-devices/"><u>[Updated] Swiftly Sync Your Visual Content Across iOS Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-new-dimensions-of-vegaspro-19/"><u>[Updated] Unraveling the New Dimensions of VegasPro '19</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cost-effective-safeguard-for-your-macbook-pro-detailed-reviews-and-insights-on-procases-solution/"><u>Cost-Effective Safeguard for Your MacBook Pro: Detailed Reviews & Insights on ProCase's Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decoding-value-in-sonys-xbr65x850f-an-in-depth-review-of-this-well-priced-65-ultra-hd-tv/"><u>Decoding Value in Sony's XBR65X850F: An In-Depth Review of This Well-Priced 65 Ultra HD TV</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-hc-v770s-high-value-offer/"><u>Discovering HC-V770's High-Value Offer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dissecting-the-knack-how-one-distinctive-hero-transforms-a-conventional-gaming-experience/"><u>Dissecting 'The Knack': How One Distinctive Hero Transforms a Conventional Gaming Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expand-your-networks-horizon-with-the-netgear-ex3700-ac750-range-extender-a-detailed-user-guide-and-assessment/"><u>Expand Your Network's Horizon with the Netgear EX3700 (AC750) Range Extender - A Detailed User Guide and Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-the-epitome-of-fantasy-gaming-a-review-of-the-remastered-demons-souls-graphics/"><u>Experience the Epitome of Fantasy Gaming: A Review of the Remastered Demon's Souls Graphics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-viber-out-calling-app-performance-and-reviews/"><u>Expert Insights on Viber Out Calling App Performance & Reviews</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme 12 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-rayman-legends-an-exceptional-2d-action-adventure-game/"><u>In-Depth Analysis of Rayman Legends - An Exceptional 2D Action Adventure Game</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/master-2-screen-grab-tools-for-2024/"><u>Master 2 Screen Grab Tools for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New In 2024, Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fortnite-ls-0013-launching-error/"><u>SOLVED: Fortnite LS-0013 Launching Error</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-briefclip-artist/"><u>[New] 2024 Approved BriefClip Artist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-elevate-engagement-top-hashtags-for-gameplay-vids/"><u>[New] In 2024, Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flickvista-app-performance-index/"><u>[Updated] FlickVista App Performance Index</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-simplified-obs-settings-for-economical-systems/"><u>2024 Approved Simplified OBS Settings for Economical Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-top-eight-mobile-game-titles-for-gamers-on-the-go/"><u>Discover the Top Eight Mobile Game Titles for Gamers on the Go</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x8024200d-deciphered-comprehensive-solutions-for-resolving-windows-update-issues/"><u>Error 0X8024200D Deciphered: Comprehensive Solutions for Resolving Windows Update Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-eight-effective-chatgpt-alternatives-can-these-side-hustles-boost-your-income/"><u>Exploring Eight Effective ChatGPT Alternatives – Can These Side Hustles Boost Your Income?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-more-for-your-money-with-the-budget-friendly-fitbit-versa-lite-a-comprehensive-guide/"><u>Get More for Your Money with the Budget-Friendly Fitbit Versa Lite: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-missing-thermal-constraint-policy-on-pcs/"><u>Remedy Missing Thermal Constraint Policy on PCs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-12-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme 12 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stylish-ourlink-u631-usb-wi-fi-nano-adapter-for-swift-and-robust-internet-connectivity/"><u>Stylish Ourlink U6ˈ31 USB Wi-Fi Nano Adapter for Swift and Robust Internet Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-comprehensive-analysis-of-the-newly-released-202-apple-iphone-se-what-you-need-to-know/"><u>The Comprehensive Analysis of the Newly Released 202# Apple iPhone SE - What You Need to Know!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-amazons-kindle-oasis-is-it-justifiably-expensive/"><u>The Ultimate Guide to Amazon's Kindle Oasis: Is It Justifiably Expensive?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles"
-date: 2024-10-13T17:58:15.333Z
-updated: 2024-10-18T16:15:54.256Z
+date: 2024-10-18T17:52:25.080Z
+updated: 2024-10-23T17:59:17.494Z
 tags:
   - games
   - tv
@@ -25,27 +25,33 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 
  So, if a video game score doesn't help you figure out where to spend your money, is there another way?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Find a Reviewer Who Likes Games You Already Like
 
  Reviews are subjective, and attaching a score to them without a clear and consistent rubric might not be that smart to begin with. There are plenty of incredibly high-scoring games that I think are boring (Breath of the Wild) or barely games (Red Dead Redemption 2), which would make me an iconoclast in some cases. However, tehre are reviewers who have similar tastes to mine, so instead of worrying about an average score on Metacritic or what mainstream reviewers think of a game, try to find a reviewer who has given good scores to games you already love. Then look for games they've reviewed well to get an idea of what you should play next.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Read the Reviews, Not the Scores
 
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -56,10 +62,10 @@ Cianna Garrison / How-To Geek
  If you're reading reviews by other players, rather than professional reviewers, it's also worth looking at circumstantial information to get some context on their reviews. Did they post a gushing review five hours into a 100 hour game? Are they [console warring](https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-phone-and-remove-locked-screen-by-drfone-android/) in the review? Again, the substance of the review matters as well as some of what's between the lines.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Watch YouTube Gameplay
@@ -67,10 +73,10 @@ Cianna Garrison / How-To Geek
  There are tons of third-party gameplay videos of just about every game on YouTube. You may even prefer to watch clips with no commentary at all, so you can get an idea of what the minute-to-minute experience is like, without someone's opinion affecting you. Just be careful not to spoil the game for yourself. You may want to look for footage that's specifically labeled as spoiler-free, or that doesn't contain story content. It may also be a good idea to look at footage of the first hour of gameplay only, if you don't want any spoilers.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Try a Demo or Play on a Subscription Service
@@ -98,24 +104,17 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-crafting-content-that-captivates-the-square-video-formula-on-fb/"><u>[New] 2024 Approved Crafting Content That Captivates The Square Video Formula on FB</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-virtual-race-titles-reviewed/"><u>[New] Best Virtual Race Titles Reviewed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exemplary-video-capture-top-5-slow-motion-cams/"><u>[New] Exemplary Video Capture Top 5 Slow Motion Cams</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-exploring-youtubes-operations-after-video-upload/"><u>[Updated] In 2024, Exploring YouTube's Operations After Video Upload</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mobile-mastery-in-saving-team-video-gatherings/"><u>[Updated] In 2024, Mobile Mastery in Saving Team Video Gatherings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-intuitivestepsforyoucamuseandrecording-for-2024/"><u>[Updated] IntuitiveStepsForYouCamUseAndRecording for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-next-gen-gaming-with-the-samsung-q6er-series-qled-ultra-hd-television/"><u>Experience Next-Gen Gaming with the Samsung Q6er Series QLED Ultra HD Television</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-waterscapes-like-never-before-with-insta360-x2/"><u>Experience Waterscapes Like Never Before with Insta360 X2</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-communication-on-the-move-uc-review/"><u>Expert Communication on the Move: UC Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-kobo-forma-an-e-reader-designed-for-book-lovers-who-mean-business/"><u>Exploring the Kobo Forma - An E-Reader Designed for Book Lovers Who Mean Business</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-powerhouse-that-is-the-alienware-aurora-r9-insights-and-analysis-on-dells-high-tech-gaming-computer/"><u>Exploring the Powerhouse That Is the Alienware Aurora R9: Insights & Analysis on Dell’s High-Tech Gaming Computer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fitbit-versa-assessment-high-value-budget-friendly-wearable-tech/"><u>Fitbit Versa Assessment: High-Value, Budget-Friendly Wearable Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-graphics-to-emojis-turning-gifs-into-stickers-on-telegram-and-more/"><u>From Graphics to Emojis Turning GIFs Into Stickers on Telegram & More</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-hisense-50h8f-delivers-quality-4k-viewing-without-breaking-the-bank-tv-review/"><u>How the Hisense 50H8F Delivers Quality 4K Viewing Without Breaking the Bank: TV Review</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ideal-precision-stylus-options-for-ipad-users/"><u>Ideal Precision Stylus Options for iPad Users</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-petfeeding-solutions-discover-petsafes-precision-six-meal-dispenser/"><u>Innovative PetFeeding Solutions: Discover PetSafe's Precision Six Meal Dispenser</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/tomahawk-drivers-for-msi-b350-motherboard-free-download-compatible-with-windows-10-and-7/"><u>Tomahawk Drivers for MSI B350 Motherboard: Free Download Compatible with Windows 10 & 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-final-verdict-dji-action-vs-gopro-360-and-insta360-x3/"><u>[New] Final Verdict DJi Action Vs. GoPro 360 & Insta360 X3</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-account-liberation-freeing-your-fb-identity/"><u>2024 Approved Account Liberation Freeing Your FB Identity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-assessment-of-the-rca-video-doorbell-security-camera/"><u>Expert Assessment of the RCA Video Doorbell Security Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-finest-17-laptops-our-detailed-review/"><u>Explore the Finest 17 Laptops - Our Detailed Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-guide-for-compatibility-issues-amd-rx-560-on-various-windows-os-versions/"><u>Fix Guide for Compatibility Issues: AMD RX 560 on Various Windows OS Versions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-c65-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-review-captivating-online-contests-in-nhl-19/"><u>Professional Review: Captivating Online Contests in NHL 19</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/squashing-social-media-smears-with-grace-for-2024/"><u>Squashing Social Media Smears with Grace for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-compromise-free-experience-with-the-asus-rog-zephyrus-g1ntec-gaming-laptop-reviewed/"><u>The Ultimate Compromise-Free Experience with the Asus ROG Zephyrus G1ntec: Gaming Laptop Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-chargetechs-impressive-27000mah-portable-power-station-features-performance-and-value/"><u>The Ultimate Guide to ChargeTech's Impressive 27000mAh Portable Power Station - Features, Performance & Value</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/understanding-igtv-shutdown/"><u>Understanding IGTV Shutdown</u></a></li>
 </ul></div>
 

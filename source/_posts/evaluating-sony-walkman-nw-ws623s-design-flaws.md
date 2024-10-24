@@ -1,7 +1,7 @@
 ---
 title: Evaluating Sony Walkman NW-WS623's Design Flaws
-date: 2024-08-22T12:59:55.317Z
-updated: 2024-08-23T12:59:55.317Z
+date: 2024-10-20T17:16:41.872Z
+updated: 2024-10-24T09:22:24.064Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating Sony Walkman NW-WS623's Design Flaws
@@ -35,6 +35,13 @@ Lifewire / Rebecca Isaacs
 [View On Flexispot.com](https://www.flexispot.com/height-adjustable-desks/theodore-standing-desk-ud1b)
 
 4.2
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Flexispot Theodore Standing Desk
 
@@ -74,11 +81,22 @@ Lifewire / Rebecca Isaacs
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/du2Ec4SmWWkaWQQCKbMuR4NiBUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_02-4a15245115084875b6ac05ba8f4c6a53.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Performance and Usage: Adjustable and comfortable
 
  Once I set the desk up, I sat down and felt like a queen in my castle. Even at its lowest, the desk provided that ergonomic feel I desperately need in my home office setup. The two legs of the desk sit far enough back, and the desk is wide so I didn’t have to worry about kicking the legs accidentally. That said, I live in a house with cats that shed, and I noticed that the hair did stick and stand out on the metal.
@@ -91,11 +109,22 @@ Lifewire / Rebecca Isaacs
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/frfVa5g5ngg9vZAugmed_f2jsho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_03-b929f6838e464f14ad5615d440449658.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Controls: Tap a button
 
  If I got tired of sitting, usually with a cat on my lap, I could easily convert this into a standing desk thanks to two buttons that raise and lower the desk through motorized controls. While it was a little noisy, the noise doesn’t seem atypical for any standing desk models on the market. I stopped the desk when it rose to conform to my height of 5 feet, 8 inches, but the desk can go up to nearly 50 inches for people who need the extra height.
@@ -106,23 +135,14 @@ Lifewire / Rebecca Isaacs
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/IfBuQB7ShOvw2XlkJal4eCb1myE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_04-1e85750d263e43f4815a4b1eeddf41a1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: A steal at the price
 
  At around $500, before desk accessories like a[standing desk mat](https://www.lifewire.com/best-standing-desk-mats-4155870) , the Flexispot Theodore is very reasonably priced. Keep in mind that you’re not paying for real wood, which factors into the price tag, but a wood veneer finish. Fancier, more modern-looking standings desks can run close to $1,000\.
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/u2023DggV3o9Pw8Y6CDkCOuqu3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_05-595174532f3846fcb2093e11b083b32f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 Lifewire / Rebecca Isaacs
 
 ## FlexiSpot Theodore vs. Rain Design iLevel 2 Laptop Stand
@@ -139,10 +159,6 @@ Lifewire / Rebecca Isaacs
 
  The complete height adjustability and the complimentary USB ports on the Flexispot Theodore Standing Desk are perfect for any home that wants to retain a classic look while getting a major modern upgrade. With the small storage drawer, it’s the perfect standing desk to complete any home office.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [CumulusPRO Standing Desk Mat](https://www.lifewire.com/cumuluspro-standing-desk-mat-review-4775314)
@@ -161,14 +177,11 @@ Lifewire / Rebecca Isaacs
 * Warranty  5-year limited warranty
 * Connectivity Options  USB port
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +190,19 @@ Lifewire / Rebecca Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-loom-capture-toolkit-essential-screen-casts-tips-for-2024/"><u>[New] Loom Capture Toolkit Essential Screen Casts Tips for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-influencers-utopia-summit-for-2024/"><u>[Updated] Influencers' Utopia Summit for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-12-proplus-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme 12 Pro+ 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-tp-link-re200-ac750-wi-fi-booster-assessment-value-for-money-review/"><u>Budget Friendly TP-Link RE200 AC750 Wi-Fi Booster Assessment: Value for Money Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-powerhouse-apples-ipad-air-4-vs-ipad-pro-a-comprehensive-examination/"><u>Budget-Friendly Powerhouse: Apple's iPad Air 4 Vs. IPad Pro - A Comprehensive Examination</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-the-pros-and-cons-ps5-slim-vs-original-ps5/"><u>Comparing the Pros and Cons: PS5 Slim vs Original PS5</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-viber-out-services-and-user-experience/"><u>Comprehensive Analysis of Viber Out Services and User Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-choosing-the-perfect-ipad-model/"><u>Comprehensive Guide: Choosing the Perfect iPad Model</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-sound-shift-a-comprehensive-tutorial-on-srt-conversion/"><u>Digital Sound Shift A Comprehensive Tutorial on SRT Conversion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fix-for-disappearing-bluetooth-in-windows-10-get-back-online-now/"><u>Easy Fix for Disappearing Bluetooth in Windows 10 - Get Back Online Now!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/master-your-email-game-effortlessly-a-no-hassle-trick-to-tidy-up-without-complicated-rules/"><u>Master Your Email Game Effortlessly: A No-Hassle Trick to Tidy Up Without Complicated Rules!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unbeatable-online-video-recorders-ranked-10/"><u>Unbeatable Online Video Recorders Ranked #10</u></a></li>
+</ul></div>
 

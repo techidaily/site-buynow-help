@@ -1,7 +1,7 @@
 ---
 title: Apeman's C45e Dash Camera - Affordable, Efficient & Worthy of Consideration – Product Review
-date: 2024-08-15T06:02:02.219Z
-updated: 2024-08-16T06:02:02.219Z
+date: 2024-10-20T16:03:18.370Z
+updated: 2024-10-24T06:33:27.202Z
 categories:
   - BestProducts
 description: This Article Describes Apeman's C45e Dash Camera - Affordable, Efficient & Worthy of Consideration – Product Review
@@ -37,15 +37,9 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AmazonBasics Ultra-Thin Antenna
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -76,6 +70,13 @@ Lifewire / Erika Rawes
 
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup: Relatively easy**
 
  Setting up the antenna is pretty straightforward. You start by plugging one end of the coaxial cable into the antenna, and then the other end to the coaxial/antenna-in connector to your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) .
@@ -89,22 +90,34 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Almost two dozen channels (in a rural area)**
 
  So many things[affect an antenna’s performance](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) —location, household electronics, tree cover, tower location, and more. The antenna displays channels of high quality. However, sometimes the channels would take a few seconds to load, and other times, I’d see a pixelated effect when I first changed the channel that would clear up after a few seconds. Once the picture was fully loaded, it was in clear high definition. The antenna is capable of displaying a clear HD picture, so I couldn’t tell the difference between the antenna’s picture and the picture from streaming services like Hulu or Netflix.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/GRXmDZjwX-_X2TyOZoHytHKrjDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-3-70b77c023b7049ef985c61cf6f5064ad.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Range: 35 miles**
 
  The AmazonBasics antenna has a 35-mile range, which isn’t very far considering 50 plus miles is becoming more common. It is omnidirectional, however, so you don’t need to point it in a specific direction. It supports UHF/VHF, so I was able to get a decent selection of channels.
@@ -131,9 +144,6 @@ Lifewire / Erika Rawes
 
  The AmazonBasics Antenna is a good option for anyone who wants an ultra-cheap way to get broadcast TV.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Ultra-Thin Antenna
@@ -150,14 +160,11 @@ Lifewire / Erika Rawes
 * Ports  Coax
 * Cable length  10-foot Coax Cable
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +173,24 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-aerial-adventures-with-husqvarnas-x4-fpv-quadcopter/"><u>[New] Aerial Adventures with Husqvarna's X4 FPV Quadcopter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-notch-screen-recorder-pcmacos-edition-for-2024/"><u>[New] Top-Notch Screen Recorder PC/macOS Edition for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-10-excellent-4k-televisions-ranked/"><u>[Updated] In 2024, 10 Excellent 4K Televisions Ranked</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mirror-of-society-top-100-inspiring-instagramcaptions/"><u>[Updated] Mirror of Society Top 100 Inspiring #InstagramCaptions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-photoshop-alternatives-on-android/"><u>2024 Approved Mastering Photoshop Alternatives on Android</u></a></li>
+<li><a href="https://fox-links.techidaily.com/comprehensive-list-of-no-download-online-gif-to-video-converters/"><u>Comprehensive List of No-Download Online GIF to Video Converters</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nubia-red-magic-8s-proplus-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nubia Red Magic 8S Pro+ Is Unlocked</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/playstation-5-showdown-exploring-differences-between-standard-and-slim-variants/"><u>PlayStation 5 Showdown: Exploring Differences Between Standard and Slim Variants</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/prioritizing-these-5-points-can-make-or-break-your-fitness-tracker-experience/"><u>Prioritizing These 5 Points Can Make or Break Your Fitness Tracker Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stay-chilled-with-a-bargain-a-detailed-examination-of-the-effective-topmate-c302-laptop-fan-stand/"><u>Stay Chilled with a Bargain: A Detailed Examination of the Effective TopMate C302 Laptop Fan Stand</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/subscribing-to-youtube-tv-here-are-five-significant-perks/"><u>Subscribing to YouTube TV? Here Are Five Significant Perks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sync-with-the-future-upgrade-your-pc-with-windows-11/"><u>Sync with the Future: Upgrade Your PC With Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taotronics-tt-dl16-led-lamp-review-modern-and-stylish/"><u>TaoTronics TT-DL16 LED Lamp Review: Modern and Stylish</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-companion-for-runners-a-detailed-review-of-the-garmin-forerunner-45/"><u>The Essential Companion for Runners: A Detailed Review of the Garmin Forerunner 45</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-hidden-costs-of-buying-a-tv-recorder-without-research/"><u>The Hidden Costs of Buying a TV Recorder Without Research</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/update-proton-vpn-sign-in-info-and-uncover-real-vs-fake-chatgpt-app-for-windows-users/"><u>Update Proton VPN Sign-In Info and Uncover Real Vs. Fake ChatGPT App for Windows Users</u></a></li>
+</ul></div>
 

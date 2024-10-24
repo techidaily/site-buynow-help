@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
-date: 2024-10-07T19:11:46.449Z
-updated: 2024-10-12T17:54:36.400Z
+date: 2024-10-19T06:19:47.673Z
+updated: 2024-10-23T22:00:05.866Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -39,10 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _AMD_
@@ -65,6 +65,13 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -74,10 +81,10 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Intel
@@ -95,13 +102,6 @@ Intel
  The thing that’s interesting to me is Qualcomm’s focus on gaming, with the company [claiming](https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games) at this year’s Game Developers Conference that many games “should just work” on devices equipped with the Snapdragon X Elite SoC. This is great news that shows Qualcomm is serious about the gaming prowess of the upcoming ARM-based Windows laptops. Qualcomm has also shown its reference design laptops [running](https://www.pcworld.com/article/2284554/qualcomm-says-snapdragon-x-elite-kicks-intel-core-ultras-butt-too.html)[_Control_](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)[and _Baldur’s Gate 3_](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers) at playable frame rates, another proof that they are taking this seriously.
 
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Qualcomm 
 
@@ -134,24 +134,22 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/levate-reach-optimal-strategies-for-crafting-youtube-titles-and-tags/"><u>[New] Elevate Reach Optimal Strategies for Crafting YouTube Titles & Tags</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capture-with-purpose-iphones-10-commandments-of-image-design/"><u>[Updated] Capture with Purpose IPhone's 10 Commandments of Image Design</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-jake-pauls-youtube-success-story-all-you-need-to-know/"><u>[Updated] In 2024, Jake Paul's YouTube Success Story - All You Need to Know</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-vr-journey-begins-with-these-top-titles/"><u>[Updated] In 2024, VR Journey Begins with These TOP Titles</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-essentials-of-navigating-ez-grabber-interface/"><u>2024 Approved The Essentials of Navigating EZ Grabber Interface</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-top-choices-premium-wrist-pads-for-enhanced-typing-ergonomics/"><u>2024’S Top Choices: Premium Wrist Pads for Enhanced Typing Ergonomics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-close-look-at-star-wars-squadrons-experience-the-thrill-of-hyper-realistic-space-skirmishes/"><u>A Close Look At Star Wars Squadrons – Experience the Thrill of Hyper-Realistic Space Skirmishes!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-detailed-analysis-and-user-reviews-of-the-newly-launched-ring-doorbell-pro-max/"><u>A Detailed Analysis & User Reviews of the Newly Launched Ring Doorbell Pro Max</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/an-in-depth-analysis-of-the-stylish-new-addition-to-taotronics-led-lineup/"><u>An In-Depth Analysis of the Stylish New Addition to TaoTronics’ LED Lineup</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/asus-wavemaster-precision-touchpad-drivers-download-and-compatibility-for-windows-users/"><u>ASUS WaveMaster Precision TouchPad Drivers: Download and Compatibility for Windows Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/aukeys-ultimate-usb-30-hub-unboxing-the-simple-stylish-performance/"><u>Aukey's Ultimate USB 3.0 Hub: Unboxing the Simple, Stylish Performance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-methods-for-batch-converting-m2ts-files-to-high-quality-mp4-without-losing-data/"><u>Best Methods for Batch Converting M2TS Files to High-Quality MP4 Without Losing Data</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breakdown-of-the-alienware-aurora-r7-impressive-specs-with-noticeable-cost-implications/"><u>Breakdown of the Alienware Aurora R7: Impressive Specs with Noticeable Cost Implications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/compact-and-reliable-ourlink-u631-wireless-network-adapter-top-usb-wi-fi-connectivity/"><u>Compact & Reliable Ourlink U631 Wireless Network Adapter - Top USB Wi-Fi Connectivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/complete-assessment-the-pros-and-cons-of-using-mapmyride/"><u>Complete Assessment: The Pros and Cons of Using MapMyRide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-nest-audio-evaluation-the-ultimate-device-for-audiophiles/"><u>Comprehensive Nest Audio Evaluation: The Ultimate Device for Audiophiles</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/efficient-fixes-to-accelerate-shader-performance-in-star-wars-battlefront-ii/"><u>Efficient Fixes to Accelerate Shader Performance in Star Wars Battlefront II</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-showdown-twitchs-challenge-to-youtubes-market/"><u>In 2024, The Ultimate Showdown Twitch's Challenge to YouTube's Market</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/yourphoneexe-on-windows-benefits-and-risks-explored/"><u>YourPhone.exe on Windows - Benefits & Risks Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-brilliant-filters-to-illuminate-videography/"><u>[Updated] Brilliant Filters to Illuminate Videography</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smartphone-iphones-or-android-devices-whats-best-suited-for-you/"><u>Choosing Your Smartphone: IPhones or Android Devices - What's Best Suited for You?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-power-needs-with-our-picks-for-the-best-rechargeable-battery-chargers/"><u>Elevate Your Power Needs with Our Picks for the Best Rechargeable Battery Chargers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-your-driving-experience-with-the-lihan-lhfm1-039-bluetooth-transmitter-a-thorough-product-overview-and-evaluation/"><u>Enhancing Your Driving Experience with the LIHAN LHFM1 039 Bluetooth Transmitter - A Thorough Product Overview and Evaluation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/essential-online-websites-for-acquiring-thrones-rhythms/"><u>Essential Online Websites for Acquiring Thrones Rhythms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-escort-max-360-a-next-generation-radar-detector-featuring-gps-technology-and-extra-functions/"><u>Expert Insights on the Escort Max 360: A Next-Generation Radar Detector Featuring GPS Technology and Extra Functions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Infinix Note 30 5G</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-social-media-gold-rush-prime-hashes-for-viewership/"><u>In 2024, Social Media Gold Rush Prime Hashes for Viewership</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-morning-routine-with-heimvisions-sunrise-alarm-clock-a80-a-comprehensive-review/"><u>Innovative Morning Routine with HeimVision's Sunrise Alarm Clock A80: A Comprehensive Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/join-forces-in-elden-ring-against-enemies-fix-guide-for-multiplayer-issues/"><u>Join Forces in Elden Ring Against Enemies - Fix Guide for Multiplayer Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lx310bt-sony-bluetooth-player-thin-and-stylish/"><u>LX310BT Sony Bluetooth Player - Thin & Stylish</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-savings-with-amazing-offers-on-benq-monitors-and-projectors-for-prime-day-shoppers/"><u>Maximize Savings with Amazing Offers on BenQ Monitors & Projectors for Prime Day Shoppers</u></a></li>
+<li><a href="https://win-trending.techidaily.com/professionelle-erholung-von-formatierten-ntfs-partitionen-mit-myrecovery/"><u>Professionelle Erholung Von Formatierten NTFS-Partitionen Mit MyRecovery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-homes-atmospheric-insights-with-top-of-the-line-stations/"><u>Revolutionize Your Home's Atmospheric Insights with Top-of-the-Line Stations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964929751-step-by-step-tutorial-finding-and-upgrading-synaptic-drivers-in-windows-made-simple/"><u>Step-by-Step Tutorial: Finding & Upgrading Synaptic Drivers in Windows Made Simple</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-lg-c9-oled-65-4k-television-analysis-a-dream-come-true-for-avid-viewers/"><u>Ultimate LG C9 OLED 65 4K Television Analysis - A Dream Come True for Avid Viewers</u></a></li>
 </ul></div>
 

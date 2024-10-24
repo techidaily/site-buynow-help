@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing a Bursting Steam Game Collection
-date: 2024-10-15T17:19:49.778Z
-updated: 2024-10-18T18:37:15.131Z
+date: 2024-10-21T17:14:40.922Z
+updated: 2024-10-24T10:46:24.148Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After collecting games from sales, bundles, and elsewhere, I have over 200 games in my Steam library and not enough time to play them all. This called for some prioritization. Here's how I prioritized the games that are worth my time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's In My Game Library: The Assessment Step
@@ -39,10 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Right away, I had a series of around twenty to thirty games I could reasonably get through, which interested me greatly. To narrow down the list further, I checked the Steam reviews on the store pages of each of these games. Those that came out as "mostly positive" went to the top of the queue, and those that had mixed or bad reviews dropped down the list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Lightweights: Trading Time For Fun
@@ -52,13 +52,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The short games at the top of my list were perfect for this. Some of these games were Indie titles, like _A Short Hike_, which had the cozy element I loved but didn't require a lot of time investment. [Many of these short games were indie games](https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/) since they fit into such a perfect niche of games I don't have to spend too much time on. The procedural or roguelike games also fell into the bite-size category since I could start a run and either finish it or get to a save point that I can resume later.
 
  But what about the longer games? Well, I will be honest; some longer games also made it to the top of the list. Here are the criteria I used to judge them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Heavyweights: Judging Which Long Games Are Worth My Time
 
@@ -78,6 +71,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  After going through this process, I whittled down the 200+ games in my inventory to a little over 25 titles, all of which appealed to me and which I was looking forward to playing. I still have the other 175+ games in my library, but I'm not really as interested in playing them. Maybe when I'm bored, I'll install something and give it a go, but the priority games have already been decided.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  My Methodology Isn't Perfect
 
  I will be the first to admit that my methodology could be improved. However, with something as subjective as "what game I would like to play next," I think that personal experience with the game does much more than a purely data-based approach.
@@ -87,10 +87,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![How Long to Beat entry for Elden Ring.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-20-at-08-18-46.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Arguably the biggest issue that someone attempting to copy my method will have is categorizing their games into games that can be completed relatively easily and those that will take a lot more time. Judging average playtime using a website like [How Long to Beat](https://howlongtobeat.com) for a game isn't a solid metric, and it's usually better to look at the reviews and comments on the game to get a better feel for that.
@@ -114,24 +114,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-bandicam-scrutiny-a-detailed-evaluation-for-screen-capture-users-for-2024/"><u>[Updated] Bandicam Scrutiny A Detailed Evaluation for Screen Capture Users for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-broadcasting-e-learning-sessions/"><u>2024 Approved Broadcasting E-Learning Sessions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-itel-s23plus-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-a34-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy A34 5G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-x-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone X without a computer</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-story-wizardry-secrets-revealed/"><u>In 2024, Instagram Story Wizardry Secrets Revealed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-plotting-your-path-in-the-realm-of-visual-arts/"><u>In 2024, Plotting Your Path in the Realm of Visual Arts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-netgear-nighthawk-rax120-breaking-speed-barriers/"><u>In-Depth Review of Netgear Nighthawk RAX120 - Breaking Speed Barriers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-lg-k51-attractive-aesthetics-overpowered-by-lagging-cpu-speed/"><u>In-Depth Review of the LG K51: Attractive Aesthetics Overpowered by Lagging CPU Speed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insightful-review-on-twelve-south-compass-pro-masterfully-designed-for-optimal-balance/"><u>Insightful Review on Twelve South Compass Pro: Masterfully Designed for Optimal Balance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/journey-through-soundscapes-value-in-paww-wavesound-3-gear/"><u>Journey Through Soundscapes: Value in Paww Wavesound 3 Gear</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kid-friendly-nickwatch-premieres-in-america-on-kids-choice-awards-night/"><u>Kid-Friendly NickWatch Premieres in America on Kids' Choice Awards Night</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-cell-phone-packages-for-seniors-ranked-exclusive-picks/"><u>Leading Cell Phone Packages for Seniors Ranked: Exclusive Picks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-connectivity-with-tp-link-re200-ac750-range-extender-a-review/"><u>Maximizing Connectivity with TP-Link RE200 AC750 Range Extender: A Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigate-to-high-speed-top-cable-modems-elevating-connectivity/"><u>Navigate to High Speed: Top Cable Modems Elevating Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-labyrinth-of-security-keys-in-win11-5-essential-steps-to-take/"><u>Navigating the Labyrinth of Security Keys in Win11: 5 Essential Steps to Take</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ps4-pro-and-its-journey-towards-4k-graphics-mastery-reviewed/"><u>PS4 Pro and Its Journey Towards 4K Graphics Mastery Reviewed!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-guide-to-high-quality-wav-conversion-top-dvd-ripper-tools/"><u>Ultimate Guide to High-Quality WAV Conversion: Top DVD Ripper Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unleashing-potential-a-treasury-of-youtube-themes-for-channels-for-2024/"><u>Unleashing Potential A Treasury of YouTube Themes for Channels for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-no-cost-guide-to-capturing-your-favorite-shows/"><u>[Updated] 2024 Approved The No-Cost Guide to Capturing Your Favorite Shows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-saving-your-hangout-participation/"><u>[Updated] In 2024, Saving Your Hangout Participation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-clean-cut-windows-10-screen-logger/"><u>2024 Approved Clean-Cut Windows 10 Screen Logger</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-sound-on-your-apple-device-top-picks/"><u>2024 Approved Mastering Sound on Your Apple Device (Top Picks)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secure-your-free-green-screen-assets-with-these-top-8-sites/"><u>2024 Approved Secure Your FREE Green Screen Assets with These Top 8 Sites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro-for-2024/"><u>Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-top-performing-bluetooth-phones-of-2024/"><u>Discover the Top Performing Bluetooth Phones of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/eero-pro-router-range-review-achieving-impeccable-internet-access-throughout-your-residence/"><u>Eero Pro Router Range Review: Achieving Impeccable Internet Access Throughout Your Residence</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-itel-a05s-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Itel A05s</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/neighborville-showdown-a-hilarious-critique-of-plants-vs-zombies/"><u>Neighborville Showdown: A Hilarious Critique of Plants Vs. Zombies</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-video-rotation-apps-for-android-iphone-windows-and-mac/"><u>New Best Free Video Rotation Apps for Android, iPhone, Windows, and Mac</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taking-e-readers-to-the-next-level-expert-insights-on-amazons-2018-kindle-paperwhite/"><u>Taking E-Readers to the Next Level: Expert Insights on Amazon's 2018 Kindle Paperwhite</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-tycoons-earning-the-most/"><u>YouTube Tycoons Earning the Most</u></a></li>
 </ul></div>
 

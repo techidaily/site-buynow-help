@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Mophie Powerstation AC Charger Evaluation - Expensive Yet Handy
-date: 2024-08-15T06:00:43.839Z
-updated: 2024-08-16T06:00:43.839Z
+date: 2024-10-18T10:36:14.392Z
+updated: 2024-10-24T02:04:58.332Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Mophie Powerstation AC Charger Evaluation - Expensive Yet Handy
@@ -38,14 +38,21 @@ Lifewire / Nick Jaynes
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Anker PowerDrive 2 24W Dual USB Car Charger
 
 ![Anker PowerDrive 2](https://www.lifewire.com/thmb/kUpys0K04ePH0SuEfAENz--MXSk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4053582_Hero-2f8cd7af2da04ce48dce54d7f045bf01.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Nick Jaynes
@@ -70,8 +77,12 @@ Lifewire / Nick Jaynes
  Lifewire / Nick Jaynes
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: All-plastic, but sturdy and subtle**
 
  The Anker PowerDrive 2 might not be the sharpest or most cutting-edge looking in-car USB charger, but what it lacks in visual pizazz, it more than makes up for in sturdiness.
@@ -84,6 +95,13 @@ Lifewire / Nick Jaynes
 
  Lifewire / Nick Jaynes
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Fast charging for demanding devices**
 
  The best part of the Anker PowerDrive 2 is its charging. It has the ability to charge iPads simultaneously without getting overheated thanks to its PowerIQ and VoltageBoost technology. Each USB port can output a maximum 5V/2.4A, for a total of 24W. That’s in line with other car[chargers](https://www.lifewire.com/best-wireless-phone-chargers-4138571) we tested, but the PowerIQ technology can help identify device and deliver the fastest possible charge. This also gives you some overvoltage protection to make sure something like a smartwatch doesn’t fry when you plug it in.
@@ -94,18 +112,12 @@ Lifewire / Nick Jaynes
 
  One thing to note is that the PowerDrive 2 includes a micro USB cable, in case you don’t want to carry your device’s cable everywhere with you. That’s a nice touch we didn’t get with other chargers we tested.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Middle of the pack**
 
  The list price of $14.99 is positioned in the mid-range of the USB charger market, which ranges from just a few dollars to upwards of $50 for some fancier chargers. However, Anker PowerDrive 2 can be had for a discounted price on some websites. Considering the fact that the Anker PowerDrive 2 includes both the fast-charger and a 3-foot micro USB cable, it is well priced for the marketplace.
 
  Lifewire / Nick Jaynes
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: A handful of rivals**
 
  The RAVPower 24W charger is one of Anker’s main rivals. It has a metal exterior, a lower price tag, and theoretically identical power output. However, its construction is far less robust. In fact, its metal outside easily separates from the internal components easily making Anker a better pick for longevity.
@@ -121,8 +133,12 @@ Lifewire / Nick Jaynes
  The price is fair, the charging is fast, and the design is unobtrusive. It’s hard to ask for much more.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  PowerDrive 2 24W Dual USB Car Charger
@@ -140,8 +156,6 @@ Lifewire / Nick Jaynes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +163,24 @@ Lifewire / Nick Jaynes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-velocity-vision-speed-up-videos-on-android/"><u>[New] Velocity Vision Speed Up Videos on Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ranking-the-ultimate-in-mac-gif-recorders/"><u>[Updated] Ranking the Ultimate in Mac GIF Recorders</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ideal-image-lengths-boost-video-engagement/"><u>2024 Approved Ideal Image Lengths Boost Video Engagement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-tech-on-trial-the-lenovo-chromebook-duet-review-and-its-impact-as-an-accessible-2-in-1-gadget/"><u>Affordable Tech on Trial: The Lenovo Chromebook Duet Review and Its Impact as an Accessible 2-in-1 Gadget</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-hp-zbook-firefly-15-g8-a-travelling-treasure/"><u>Comprehensive Evaluation of the HP ZBook Firefly 15 G8: A Travelling Treasure</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-de-archivos-aac-a-mp3-en-linea-sin-costo-con-movavi/"><u>Conversión De Archivos AAC a MP3 en Línea Sin Costo Con Movavi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-reading-experience-in-depth-analysis-of-the-amazon-kindle-paperwhite-2018/"><u>Enhancing Reading Experience: In-Depth Analysis of the Amazon Kindle Paperwhite (2018)</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/hyper-v-guide-transforming-fixed-size-vhds-into-dynamic-for-enhanced-storage-management/"><u>Hyper-V Guide: Transforming Fixed-Size VHDs Into Dynamic for Enhanced Storage Management</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximizing-harvest-valheims-prime-planting-choices/"><u>Maximizing Harvest Valheim's Prime Planting Choices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-speed-of-your-domestic-internet-a-thorough-review-of-the-orbi-tri-band-wi-fi/"><u>Navigating the Speed of Your Domestic Internet: A Thorough Review of the Orbi Tri-Band Wi-Fi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/power-on-the-go-zmi-powerpack-groovy-our-thoughts-and-insights-in-a-complete-review/"><u>Power on the Go? ZMI PowerPack Groovy! - Our Thoughts and Insights in a Complete Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-new-samsung-galaxy-watch-active-2-unveiled-improved-linkages-and-features-beyond-the-original-model-reviewed/"><u>The New Samsung Galaxy Watch Active 2 Unveiled: Improved Linkages & Features Beyond the Original Model Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-quintessential-running-chronograph-collection-of-2024/"><u>The Quintessential Running Chronograph Collection of 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformar-dvds-a-archivos-mkv-sin-coste-alguno-con-nuestro-servicio-online-sencillo/"><u>Transformar DVDs a Archivos MKV Sin Coste Alguno Con Nuestro Servicio Online Sencillo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-web-development-top-8-complimentary-html-editors-tailored-for-windows-users/"><u>Unlock the Power of Web Development: Top 8 Complimentary HTML Editors Tailored for Windows Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-spacious-acer-chromebook-15-in-this-comprehensive-overview/"><u>Unveiling the Features of the Spacious Acer Chromebook 15 in This Comprehensive Overview</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2024-10-09T18:23:07.033Z
-updated: 2024-10-12T17:31:30.566Z
+date: 2024-10-21T02:42:51.439Z
+updated: 2024-10-24T10:26:45.412Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The latest and greatest AAA games can use a boatload of video memory when you crank the visuals to high or ultra. With such an insatiable appetite for VRAM, is an 8GB GPU enough to play the latest games in 2024? I've got an 8GB GPU, and here's what I've learned.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  8GB of Memory Is Plenty for Indie, eSports, and Older Games
@@ -39,10 +39,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A screenshot of a virtual bar from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204942.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -52,6 +58,13 @@ Cianna Garrison / How-To Geek
  On the other hand, enabling ray-traced lighting really starts to stress the 8GB memory buffer on my RTX 3070, even at 1080p, when [streaming the game to a ROG Ally](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/).
 
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Things Get Complicated With Newer AAA Games
 
@@ -87,28 +100,15 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Buy an 8GB GPU in 2024?
@@ -134,20 +134,20 @@ _GIGABYTE_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-solo-strategies-making-your-podcast-sensational/"><u>[New] 2024 Approved Solo Strategies Making Your Podcast Sensational</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-seamless-mp4-to-fb-video-transfer-technology/"><u>[New] In 2024, Seamless MP4-to-FB Video Transfer Technology</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-boosting-vividness-in-iphone-videos-three-keys-unveiled/"><u>[Updated] Boosting Vividness in iPhone Videos – Three Keys Unveiled</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-proven-pathway-to-pure-sound/"><u>[Updated] Proven Pathway to Pure Sound</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-usb-c-vision-the-new-standard-in-monitors-hp-envy-27/"><u>2024 Approved USB-C Vision The New Standard in Monitors - HP Envy 27</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/"><u>Exploring Technology with Tom: Your Trusted Source for Hardware Insights and Reviews</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pros-and-cons-of-apples-newest-phones-the-battle-between-iphone-15-and-15-pro-max/"><u>Pros & Cons of Apple's Newest Phones: The Battle Between iPhone 15 and 15 Pro Max</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/retained-earnings-600/"><u>Retained Earnings: $600</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-acer-chromebook-r-n-an-insight-into-its-stylish-build-and-easy-to-carry-design/"><u>Review of Acer Chromebook R N: An Insight Into Its Stylish Build and Easy-to-Carry Design</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-motorola-one-hyper-an-impressive-value-in-the-mid-range-smartphone-segment/"><u>Review of Motorola One Hyper: An Impressive Value in the Mid-Range Smartphone Segment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revving-up-your-rides-with-the-engaging-ddpai-mini-3-not-just-another-dashcam/"><u>Revving Up Your Rides with the Engaging DDpai Mini 3: Not Just Another Dashcam</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sealoc-coastal-silver-55-inch-4k-outdoor-tv-review/"><u>Sealoc Coastal Silver 55-Inch 4K Outdoor TV Review</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-out-windows-11-memory-dump-files/"><u>Step-by-Step Guide: Clearing Out Windows 11 Memory Dump Files</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unlock-smooth-editing-premiere-pro-system-requirements-explained/"><u>Unlock Smooth Editing Premiere Pro System Requirements Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersion-redefined-vrs-cinematic-promise/"><u>[Updated] Immersion Redefined VR's Cinematic Promise</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-easy-steps-to-download-twitters-media-to-phone/"><u>2024 Approved Easy Steps to Download Twitters Media to Phone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-echo-dot-and-apple-homepod-mini-key-features-compared/"><u>Choosing Between Echo Dot and Apple HomePod Mini: Key Features Compared</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-entertainment-unpacking-9-favorable-and-foe-factors/"><u>Digital Entertainment: Unpacking 9 Favorable and Foe Factors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-esports-rig-an-expert-review-of-an-advanced-apc-uninterruptible-power-supply/"><u>Elevate Your Esports Rig: An Expert Review of an Advanced APC Uninterruptible Power Supply</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-the-ultimate-guide-to-the-high-performance-xbox-series-x/"><u>Expert Analysis: The Ultimate Guide to the High-Performance Xbox Series X</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-more-from-prime-day-with-these-spectacular-samsung-deals/"><u>Get More From Prime Day with These Spectacular Samsung Deals</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y78plus-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y78+ Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v30-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V30</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-note-50-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Note 50 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-guide-to-video-hue-correction-11-steps/"><u>In 2024, The Essential Guide to Video Hue Correction (11 Steps)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-oneplus-8t-a-speedy-phenomenon-or-hindered-by-patchy-photography-an-in-depth-review/"><u>Is the OnePlus 8T a Speedy Phenomenon or Hindered by Patchy Photography? An In-Depth Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-removing-applications-from-your-samsung-smart-tv-easily/"><u>Ultimate Guide: Removing Applications From Your Samsung Smart TV Easily</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/voice-command-victory-analyzing-the-pros-and-cons-of-alexa-against-google-assistant/"><u>Voice Command Victory: Analyzing the Pros and Cons of Alexa Against Google Assistant</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-the-apple-ipad-pro-2018-11-inches-stands-out-as-a-leading-tablet-device/"><u>Why the Apple iPad Pro (2018, 11 Inches) Stands Out as a Leading Tablet Device</u></a></li>
 </ul></div>
 

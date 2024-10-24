@@ -1,7 +1,7 @@
 ---
 title: "Plea to Netflix: Borrow These Must-Have Features From Spotify"
-date: 2024-10-17T16:00:17.252Z
-updated: 2024-10-18T17:52:08.466Z
+date: 2024-10-21T02:03:21.556Z
+updated: 2024-10-24T08:59:56.381Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  The best TV binges are the ones with all hits and no skips. Netflix, you’re the king of queues, so let me create my own playlists with individual episodes from shows on your service. While we’re on the topic of new features, I’ve got some other ideas too.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Video Playlists Would Be Great for Better Binging
@@ -41,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Dear reader, I can see the skeptical wheels turning in your brain, thinking, “But content gets removed and added to Netflix all the time, what happens then?” That's easy. If shows or movies become unavailable, then they’re just grayed out from playlists. The same thing happens with songs on Spotify. Artists remove songs and albums all the time for various reasons. The playlist skips unavailable tracks and moves on. To spin this into a positive thing, Netflix could always use this info to ping you when a show or movie returns.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Add Back That Shuffle Button!
@@ -62,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Access to More Data For a Richer Experience
@@ -77,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
@@ -104,21 +98,24 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-use-zoom-webinars-beginners-guide/"><u>[New] In 2024, How to Use Zoom Webinars [Beginner’s Guide]</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-practical-approach-to-zoom-meetings/"><u>2024 Approved A Practical Approach to Zoom Meetings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-7-android-adblockers-seamless-browsing-experience/"><u>2024 Approved Top 7 Android AdBlockers Seamless Browsing Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-comprehensive-guide-to-penning-appealing-vlog-narratives-for-2024/"><u>A Comprehensive Guide to Penning Appealing Vlog Narratives for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/chuckle-fest-twitters-10-funniest-tweets-for-2024/"><u>Chuckle-Fest Twitter's 10 Funniest Tweets for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-binge-watch-with-flexibility-mastering-the-pip-functionality-in-netflix/"><u>In 2024, Binge-Watch With Flexibility Mastering the PIP Functionality in Netflix</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-in-note-taking-with-mematic-platform/"><u>In 2024, Innovate in Note-Taking with Mematic Platform</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-lg-k51-assessment-elegant-aesthetics-overshadowed-by-performance-issues/"><u>In-Depth LG K51 Assessment: Elegant Aesthetics Overshadowed by Performance Issues</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-fintie-the-best-choice-for-securing-your-macbook-pro-13-unveiling-durability-affordability-and-performance-in-our-latest-review/"><u>Is Fintie the Best Choice for Securing Your MacBook Pro 13? Unveiling Durability, Affordability & Performance in Our Latest Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mapmyride-app-breakdown-an-essential-review-for-cyclists-and-runners/"><u>MapMyRide App Breakdown: An Essential Review for Cyclists & Runners</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/r-plan-to-permanently-remove-youtube-shorts-for-2024/"><u>Master Plan to Permanently Remove YouTube Shorts for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-your-home-network-with-d-link-powerline-2000-effortless-setup-and-speedy-connections/"><u>Mastering Your Home Network with D-Link Powerline 2000: Effortless Setup & Speedy Connections</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/minecraft-review-the-ultimate-all-ages-sandbox/"><u>Minecraft Review: The Ultimate All-Ages Sandbox</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-nintendo-universe-an-in-depth-look-at-the-switch-lite-vs-the-oled-edition/"><u>Navigating the Nintendo Universe: An In-Depth Look at the Switch Lite Vs. The OLED Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-urban-jungles-with-gotrax-gxl-v2-electric-scooter-an-insightful-overview/"><u>Navigating Urban Jungles with Gotrax GXL V2 Electric Scooter - An Insightful Overview</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-phantom-v-fold-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Phantom V Fold Device</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-marketing-mastery-discerning-real-engagement-from-skewed-statistics/"><u>[New] In 2024, Marketing Mastery Discerning Real Engagement From Skewed Statistics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-taking-stock-of-magix-project-management-app/"><u>[New] Taking Stock of MAGIX Project Management App</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-laugh-ledger-top-10-tweets-for-a-smile-for-2024/"><u>[Updated] Laugh Ledger Top 10 Tweets for a Smile for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagrams-peak-moments-a-how-to-guide-for-2024/"><u>[Updated] Mastering Instagram's Peak Moments A How-To Guide for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-google-pixel-4a-the-perfect-balance-of-features-and-affordability/"><u>Comprehensive Evaluation of the Google Pixel 4A: The Perfect Balance of Features and Affordability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-tp-link-archer-ax6000-evaluation-superior-or-inferior-to-netgears-nighthawk-ax12/"><u>Comprehensive TP-Link Archer AX6000 Evaluation - Superior or Inferior to Netgear's Nighthawk AX12?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-performance-assessment-third-gen-apple-tv-4k-for-enthusiasts-and-casual-viewers/"><u>Detailed Performance Assessment: Third-Gen Apple TV 4K for Enthusiasts and Casual Viewers</u></a></li>
+<li><a href="https://facebook.techidaily.com/halt-non-playing-vids-quick-fixes-for-facebook-issues/"><u>Halt Non-Playing Vids: Quick Fixes for Facebook Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1724884621616-lenovo-yoga-slim-7x-windows-snapdragon/"><u>Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-wireless-connectivity-with-asuss-ax6000-rt-ax88u-router-the-top-wi-fi-6-device-for-enthusiasts-and-professionals/"><u>Mastering Wireless Connectivity with Asus's AX6000 RT-AX88U Router: The Top Wi-Fi 6 Device for Enthusiasts and Professionals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mobvoi-ticwatch-pro-with-lte-an-in-depth-analysis-and-top-smartwatch-pick/"><u>Mobvoi Ticwatch Pro with LTE: An In-Depth Analysis and Top Smartwatch Pick</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-online-video-editing-tools-for-vertical-content-for-2024/"><u>New Top Online Video Editing Tools for Vertical Content for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smartwatch-face-off-exploring-the-differences-between-apple-watch-series-9-and-fitbit-charge-6/"><u>Smartwatch Face-Off: Exploring the Differences Between Apple Watch Series 9 and Fitbit Charge 6</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-rounder-starter-watch-in-depth-review-and-analysis-of-the-amazfit-bips-features/"><u>The All-Rounder Starter Watch: In-Depth Review and Analysis of the Amazfit Bip's Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-of-finties-durable-macbook-pro-13-encasement-maximizing-protection-without-breaking-the-bank/"><u>The Ultimate Review of Fintie's Durable MacBook Pro 13 Encasement: Maximizing Protection without Breaking the Bank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transformative-elegance-an-in-depth-review-of-the-stunningly-designed-dell-xps-13-7390-2-in-1-laptop/"><u>Transformative Elegance: An In-Depth Review of the Stunningly Designed Dell XPS 13 (7390) 2-in-1 Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-keep-your-epson-wf-7720-printer-drivers-up-to-date-on-windows-systems/"><u>Troubleshooting Tips: Keep Your Epson WF-7720 Printer Drivers Up-to-Date on Windows Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/vpn-wont-connect-to-your-iphone-learn-how-to-solve-it-with-7-tips/"><u>VPN Won't Connect to Your iPhone? Learn How to Solve It With 7 Tips</u></a></li>
 </ul></div>
 

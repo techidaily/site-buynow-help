@@ -1,7 +1,7 @@
 ---
 title: User Experience Insights Into Google's Battery-Operated Smart Doorbell
-date: 2024-08-15T06:02:47.232Z
-updated: 2024-08-16T06:02:47.232Z
+date: 2024-10-17T07:50:01.350Z
+updated: 2024-10-24T06:50:01.911Z
 categories:
   - BestProducts
 description: This Article Describes User Experience Insights Into Google's Battery-Operated Smart Doorbell
@@ -42,12 +42,22 @@ Lifewire / Emily Isaacs
 4.4
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -70,8 +80,12 @@ Lifewire / Emily Isaacs
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Made for comfort**
 
  The Sculpt is an ergonomic keyboard with a split design akin to that of a manta ray. The two halves of the keyboard sweep outwards and downwards creating an empty, raised space in the center of its swoop design. Its keys vary in size, with those nearest to the split being slightly wider than those on the outer edges of the keyboard. It’s largely made with plastic and has a bit of a clacky sound as you type. The Sculpt employs a standard layout with a fabric wrist pad at the front for extra comfort. This intuitive, split design combined with the wrist pad help your wrists, hands, and shoulders sit at a neutral, natural angle in order to[alleviate repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) that frequent typists are prone to over time.
@@ -96,9 +110,6 @@ Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
  Backlighting—we love it, but the Sculpt doesn’t have it. This is, in large part, thanks to its battery-powered design. It wouldn’t make a great deal of sense for the Sculpt to have backlighting since the two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) would drain significantly faster, but we sure did miss it. It’s important to note that our love of backlighting is also a matter of personal preference. If it’s important to you, you might want to consider a different model. If you can live without it, the Sculpt still has a lot to offer.
@@ -112,16 +123,16 @@ Lifewire / Emily Isaacs
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
  The Sculpt’s main competition is the Microsoft Surface Ergonomic Keyboard. It’s a split-style ergonomic keyboard that connects wirelessly to a PC. Instead of using plastic materials, the Surface has a higher quality build that is not only more comfortable but slightly more sound-absorbent as well. And, better yet, the Surface uses the fan-favorite Alcantara fabric, an Italian material with a suede-like feel to it, as part of its wrist pad which makes it incredibly comfortable. Its numpad is attached, however, and it doesn’t include a magnetic riser. If you prefer your wrist sitting at a raised, more neutral angle, or if you like the idea of a detached numpad, the Sculpt is the clear winner here.
@@ -133,9 +144,6 @@ Lifewire / Emily Isaacs
 [Microsoft Surface Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-surface-ergonomic-keyboard-review-4780282)
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -170,8 +178,6 @@ Lifewire / Emily Isaacs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +185,26 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-facebook-messenger-calls-for-2024/"><u>[New] How to Record Facebook Messenger Calls for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-premier-filmmakers-digital-backdrop-changer-for-2024/"><u>[New] Premier Filmmaker's Digital Backdrop Changer for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-fix-youtube-video-black-screen/"><u>[Updated] How to Fix YouTube Video Black Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-enriching-meta-descriptions-a-template-transformation-journey/"><u>2024 Approved Enriching Meta Descriptions A Template Transformation Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activate-data-safety-with-controlled-folder-access-feature/"><u>Activate Data Safety with Controlled Folder Access Feature</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-15-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 15 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-smart-8-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Smart 8 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-mobile-phones-diy-webcam-for-video-recording/"><u>Mastering Mobile Phones DIY Webcam for Video Recording</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-of-both-worlds-powerful-performance-and-value-in-the-samsung-galaxy-a5n-5g/"><u>The Best of Both Worlds: Powerful Performance and Value in the Samsung Galaxy A5n 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-surreal-space-saga-reviewed-by-aminy/"><u>The Surreal Space Saga Reviewed by Aminy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-caixun-75-4k-android-smart-tv-exceptional-value-for-money/"><u>The Ultimate Guide to Caixun 75 4K Android Smart TV: Exceptional Value for Money</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transform-online-presence-with-manycam-top-notch-video-editing-and-virtual-webcam-solutions-for-streamers/"><u>Transform Online Presence with ManyCam: Top-Notch Video Editing and Virtual Webcam Solutions for Streamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-gaming-experience-unleashed-an-in-depth-analysis-of-xbox-one-xs-dominance-in-todays-console-battle/"><u>Ultimate Gaming Experience Unleashed: An In-Depth Analysis of Xbox One X's Dominance in Today’s Console Battle</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-the-right-travel-friendly-laptop-chargers/"><u>Ultimate Guide to Choosing the Right Travel-Friendly Laptop Chargers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-testing-the-latest-samsung-galaxy-budsplus-wireless-earphones/"><u>Unboxing & Testing the Latest Samsung Galaxy Buds+ Wireless Earphones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/understanding-the-key-distinctions-between-ipad-and-ipad-air/"><u>Understanding the Key Distinctions Between iPad and iPad Air</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unfolding-the-lenovo-thinkpad-x1-fold-experience-a-revolutionary-design-with-imperfections/"><u>Unfolding the Lenovo ThinkPad X1 Fold Experience: A Revolutionary Design with Imperfections</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-long-conversations-analyzing-jabras-speak-25/"><u>Unleashing Long Conversations: Analyzing Jabra's Speak 25</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unraveling-the-mysteries-of-quantum-hdr/"><u>Unraveling the Mysteries of Quantum HDR</u></a></li>
+</ul></div>
 

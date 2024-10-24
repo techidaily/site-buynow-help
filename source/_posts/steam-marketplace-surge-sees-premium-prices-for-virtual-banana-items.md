@@ -1,7 +1,7 @@
 ---
 title: Steam Marketplace Surge Sees Premium Prices for Virtual Banana Items
-date: 2024-10-10T18:17:17.073Z
-updated: 2024-10-12T17:32:50.210Z
+date: 2024-10-22T04:12:44.553Z
+updated: 2024-10-23T21:45:28.554Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Steam’s latest clicker game sensation has users trading virtual bananas on the Steam Community Market for hundreds of real-world dollars. Just what is going on?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  This Game Is Bananas
@@ -35,10 +35,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A virtual banana from the Banana game on Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ss_641d6402187d5335b1e345498f0eff293a054f75-1920x1080.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Pony / Sky / AestheticSpartan
@@ -48,10 +54,10 @@ Pony / Sky / AestheticSpartan
  These in-game items may be given out for free, but they can be traded on the Steam Community Market for real money. You can buy and sell bananas from as little as a few cents up to hundreds or thousands of dollars. The rarer the banana, the higher the value the community has assigned to it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Really Going On Here?
@@ -63,10 +69,10 @@ Pony / Sky / AestheticSpartan
 ![The free-to-play Banana game in third place on the Steam charts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-12-at-12-32-52.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’s still a bit of a mystery what’s really going on here. The game makes no claims that in-game items have any inherent value so on the surface, Banana seems innocent enough. The game doesn’t appear to be doing anything in the background (so it’s not a stealthy crypto miner), and you don’t even need to leave it open as long as you open it regularly for a few clicks to collect your fruit.
@@ -96,16 +102,24 @@ Pony / Sky / AestheticSpartan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-speedy-engagement-the-how-to-for-video-speed-in-stories/"><u>[New] Speedy Engagement The How-To for Video Speed in Stories</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-pioneer-bdr-xs06-assessing-blu-ray-burning-power-and-portability-features/"><u>Expert Review on the Pioneer BDR-XS06: Assessing Blu-Ray Burning Power & Portability Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-to-choose-the-right-fitness-band-5-critical-aspects-you-shouldnt-ignore/"><u>How to Choose the Right Fitness Band: 5 Critical Aspects You Shouldn't Ignore</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-13-ultra-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi 13 Ultra FRP Bypass</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Plus</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leveraging-dual-screen-on-apple-devices-through-safari/"><u>Leveraging Dual-Screen on Apple Devices Through Safari</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-essential-gap-in-your-tech-arsenal-discover-our-review-of-the-samsung-galaxy-tab-a-2020/"><u>The Essential Gap in Your Tech Arsenal? Discover Our Review of the Samsung Galaxy Tab A (2020)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-samsung-galaxy-a20-unveiled-exceptional-features-for-savvy-shoppers/"><u>The Samsung Galaxy A20 Unveiled: Exceptional Features for Savvy Shoppers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-pick-how-to-optimize-video-quality-with-superior-bitrate-adjustment-tools/"><u>Top Pick: How to Optimize Video Quality with Superior Bitrate Adjustment Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-recommended-netgear-router-models/"><u>Top Recommended Netgear Router Models</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-innovations-in-podcasting-generating-custom-rss-files/"><u>[New] 2024 Approved Innovations in Podcasting Generating Custom RSS Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-setting-the-stage-your-first-virtual-boardroom-with-google/"><u>[Updated] In 2024, Setting the Stage Your First Virtual Boardroom with Google</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airpods-pro-released-are-they-still-a-top-choice-for-audio-enthusiasts-insights-from-zdnets-latest-test/"><u>AirPods Pro (Released ): Are They Still a Top Choice for Audio Enthusiasts? Insights From ZDNET's Latest Test</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/diving-deep-into-android-gaming-key-insights-and-tips-i-learned-along-the-way/"><u>Diving Deep Into Android Gaming: Key Insights and Tips I Learned Along the Way</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/diving-into-why-cross-play-enthusiasm-doesnt-capture-me-like-it-does-others/"><u>Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dolby-vision-at-the-paris-olympics-available-everywhere-but-peacock-streaming-service/"><u>Dolby Vision at the Paris Olympics – Available Everywhere But Peacock Streaming Service</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/durability-against-freeze-thaw-cycles-may-be-improved-with-certain-types-of-synthetic-aggregates/"><u>Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-style-and-gameplay-conquer-with-logitechs-stylish-g-pro-x-60-bluetooth-gaming-keyboard/"><u>Elevate Style & Gameplay: Conquer With Logitech's Stylish G Pro X 60 Bluetooth Gaming Keyboard</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-video-pace-youtube-via-desktops-and-phones/"><u>Enhance Video Pace - YouTube via Desktops & Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-dolphin-emulator-introducing-hdr-support-for-nintendos-wii-and-gamecube-titles/"><u>Enhanced Dolphin Emulator: Introducing HDR Support for Nintendo's Wii & GameCube Titles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enjoy-taylor-swifts-music-anywhere-siriusxm-offers-complimentary-channel-for-cars-and-smartphones/"><u>Enjoy Taylor Swift's Music Anywhere: SiriusXM Offers Complimentary Channel for Cars & Smartphones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-hoverair-x1-a-revolutionary-autonomous-photography-uav/"><u>Exploring the Features of HoverAir X1: A Revolutionary Autonomous Photography UAV</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-distorted-sounds-in-cyberpunk-2077-a-step-by-step-solution-for-silky-smooth-gameplay/"><u>Fixing Distorted Sounds in Cyberpunk 2077 - A Step-by-Step Solution for Silky Smooth Gameplay</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-idea-to-execution-creating-a-game-using-chatgpts-assistance-the-full-story/"><u>From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-eye-catching-coverage-laptop-wallpapers-online/"><u>In 2024, Eye-Catching Coverage Laptop Wallpapers Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-frequent-rust-programming-language-crashes/"><u>Resolved: Fixes for Frequent Rust Programming Language Crashes</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/transforming-folders-into-iso-images-a-comprehensive-tutorial/"><u>Transforming Folders Into ISO Images: A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

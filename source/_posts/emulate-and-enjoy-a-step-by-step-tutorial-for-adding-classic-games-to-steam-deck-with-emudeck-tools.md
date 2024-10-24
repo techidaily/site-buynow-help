@@ -1,7 +1,7 @@
 ---
 title: "Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools"
-date: 2024-10-11T17:57:13.021Z
-updated: 2024-10-12T19:28:08.692Z
+date: 2024-10-18T10:51:05.361Z
+updated: 2024-10-24T06:36:13.039Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
  Gaming handhelds like the Steam Deck are great for emulation, allowing you to play a variety of games from classic systems on the go. With EmuDeck, you can see your emulated games alongside your regular Steam Library and launch them without launching a separate emulator first.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is EmuDeck?
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![The "Collections" tab on the Steam Deck Library with emulated games added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-3.jfif) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Can You Run With EmuDeck?
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 [PS3 emulation is technically possible with RPCS3](https://some-skills.techidaily.com/new-the-no-fuss-podcast-streaming-handbook/) and is offered as an installation option, but getting it to run properly is a hassle due to the notoriously complex nature of the original console. That being said, a Steam Eck with EmuDeck installed runs nearly everything else flawlessly and, in some cases, even better than the original hardware. This makes EmuDeck a perfect option for creating your own [retro gaming handheld](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Don't Worry About Finding the Right Emulators
 
  If you're new to emulation, it can sometimes be hard to know which emulators to choose since there are so many available. Luckily, EmuDeck's installation process cuts this conundrum out entirely by automatically detecting and installing the most reliable emulators for each system.
@@ -61,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
  When you run the install script on your Steam Deck or other handheld device, it will automatically find each respective emulator for any given console from either the SteamOS Discover store or directly from the emulator's website.
 
 ![Various emulators detected and installed directly on Steam through Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240803_095604.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You do have some control over which emulators are installed, however. I'd recommend only choosing the ones designed for the platforms that you actually want to use, since there are lots of options. Adding more emulators at a later date is as simple as opening up the EmuDeck app in Desktop Mode and selecting the ones that you're missing. It's easy!
 
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
  While it is less critical than a flash drive, it's also a good idea to have a microSD card specifically for emulation purposes to avoid cluttering your storage with emulated games. An A2 microSD card from SanDisk is a good choice, but there are [lots of good microSD options](https://media-tips.techidaily.com/quick-and-simple-turn-any-video-into-samsung-galaxy-friendly-format-with-a-mac/) depending on how much space you might need.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing EmuDeck
@@ -89,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![PS2 games in the Steam Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-4.jfif) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It is, of course, up to you to make sure that you're staying on the right side of the law when it comes to emulated games. Assuming you're aware of the law, adding ROMs is fairly simple. EmuDeck has an automatic system to detect ROMs from a USB-C flash drive, but I'd recommend doing it manually to be safe.
 
  When it comes to sourcing ROMs and game files, [make sure you understand the legal ramifications of emulation](https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-13-mini-by-drfone-ios/). It is highly recommended that you purchase games through legal means and dump the files yourself to play on your emulator.
@@ -104,18 +97,18 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![Various game files inside the "PS2" ROMs folder in Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/files3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I recommend using an external mouse and keyboard to navigate Desktop Mode while moving files around, as the touch screen controls can make this process a little cumbersome.
 
  Once this is complete, open the EmuDeck app in Desktop mode and select "Steam ROM Manager." Click "Yes" if a pop-up window appears and it will bring you to the "Parsers" window where you can select which emulators you want to add to your Steam library, which I'd recommend so you can easily change settings later on.
 
 ![The ROM Manager application in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click the "Add Games" button in the bottom left corner to see a list of all the games you've added as long as you put them in the right folder.
 
@@ -124,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
  Once you have selected all of your desired games, select "Save to Steam" and the program should automatically parse all your installed games directly to your Steam library.
 
 ![The Emudeck ROM manager adding games to Steam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Multiplayer, Quality of Life Features, and Easy Expansion
 
@@ -168,19 +168,18 @@ Shutterstock/REDPIXEL.PL
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-budget-friendly-top-7-mac-apps-for-enhanced-tiktok-videos/"><u>[New] In 2024, Budget-Friendly Top 7 Mac Apps for Enhanced TikTok Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-tech-tutorial-exporting-and-storing-your-snaps-safely-for-2024/"><u>[Updated] Tech Tutorial Exporting and Storing Your Snaps Safely for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-breakdown-understanding-windows-odbc-system/"><u>Comprehensive Breakdown: Understanding Windows' ODBC System</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-allinone-vmix-companion/"><u>In 2024, AllInOne VMix Companion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-figma-erase-background-elements-seamlessly/"><u>Navigating Figma Erase Background Elements Seamlessly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-technical-glitches-in-code-veal-with-these-expert-fixing-techniques/"><u>Overcome Technical Glitches in Code Veal with These Expert Fixing Techniques</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/resolved-how-to-retrieve-a-missing-folder-on-windows-11-with-10-effective-methods/"><u>Resolved: How to Retrieve a Missing Folder on Windows 11 with 10 Effective Methods</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-eufy-t8200-an-in-depth-analysis-of-the-latest-no-subscription-video-doorbells-on-market/"><u>The Eufy T8200: An In-Depth Analysis of the Latest No-Subscription Video Doorbells on Market</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-future-of-filming-xs-100is-bold-journey/"><u>The Future of Filming XS 100I's Bold Journey</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-truth-about-googles-pixel-slate-is-chromeos-up-to-the-task/"><u>The Truth About Google's Pixel Slate: Is ChromeOS Up to the Task?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-assessment-apple-watch-series-4-soars-higher/"><u>The Ultimate Assessment: Apple Watch Series 4 Soars Higher</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-test-is-the-netgear-nighthawk-x6-ac3200-your-go-to-for-lightning-fast-and-secure-home-networking/"><u>The Ultimate Test: Is the Netgear Nighthawk X6 AC3200 Your Go-To for Lightning Fast & Secure Home Networking?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-uninterruptible-power-supply-ups-systems/"><u>Top Rated Uninterruptible Power Supply (UPS) Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-how-to-preserve-your-favorite-tracks-from-youtube-safely-and-for-free/"><u>[New] 2024 Approved How to Preserve Your Favorite Tracks From YouTube Safely & for Free</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-adjust-your-timeline-facebook-look-back-guide/"><u>[New] In 2024, Adjust Your Timeline Facebook Look Back Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-toolwiz-app-unveiled-a-critical-examination-of-its-functionality/"><u>[New] In 2024, Toolwiz App Unveiled A Critical Examination of Its Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmony-in-high-definition-audiovisual-fusion-on-windows-11/"><u>2024 Approved Harmony in High Definition Audio/Visual Fusion on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-file-integration-from-pc-to-iphone/"><u>2024 Approved Quick File Integration From PC to iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-image-editors-ultimate-toolkit-review/"><u>2024 Approved The Image Editor's Ultimate Toolkit Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/acurites-model-01036m-weather-station-reviewed-hassle-free-installation-and-reliable-construction-insights/"><u>AcuRite's Model 01036M Weather Station Reviewed: Hassle-Free Installation & Reliable Construction Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-cutting-edge-technology-without-overspending-on-an-lg-24lh4830-smart-tv/"><u>Experience Cutting-Edge Technology Without Overspending on an LG 24LH4830 Smart TV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-elite-linkedin-learning-courses-curated-success/"><u>Explore Elite LinkedIn Learning Courses Curated Success</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/head-to-head-showdown-apple-tv-4k-stacked-against-roku-ultra/"><u>Head-to-Head Showdown: Apple TV 4K Stacked Against Roku Ultra</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-charm-your-way-into-a-friends-tiktok-show-for-2024/"><u>How to Charm Your Way Into a Friend’s TikTok Show for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-reno-11-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo Reno 11 Pro 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-guide-and-expert-insight-on-maximizing-your-investment-with-a-185-wh50k-mah-power-bank-from-maxoak/"><u>User Guide and Expert Insight on Maximizing Your Investment with a 185 Wh/50k mAh Power Bank From MaxOak</u></a></li>
 </ul></div>
 
