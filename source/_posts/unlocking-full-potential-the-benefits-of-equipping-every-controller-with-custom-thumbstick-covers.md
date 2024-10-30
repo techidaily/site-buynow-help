@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full Potential: The Benefits of Equipping Every Controller with Custom Thumbstick Covers"
-date: 2024-10-21T09:08:45.397Z
-updated: 2024-10-24T11:20:35.105Z
+date: 2024-10-25T04:15:30.888Z
+updated: 2024-10-29T17:21:40.934Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
  For years, I used controllers with naked analog sticks. But after I dressed up my first pair of thumbsticks with some removable thumbstick covers, I never looked back. Here’s why.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Thumbstick Grips Prevent Joystick Rubber Degradation
@@ -36,33 +36,19 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 
 ![A pair of thumbsticks with degraded rubber covering the plastic body.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-02.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  By then, I had heard about thumbstick covers and decided to slip them on said controller. The result was phenomenal. I used the controller until mid-2022 before it died, with the sticks staying the same as they were the moment I put the thumbstick covers on. There was no further rubber degradation after almost half a decade of heavy use.
 
  Impressed by the results on my Xbox controller, I equipped my [Nintendo Switch Lite](https://win11.techidaily.com/1719355296197-dimming-windows-11-brightness-simple-fixes-unveiled/) with thumbstick covers on day one. As you can see below, its analog sticks still look pristine even though I’ve enjoyed the tiny console for hundreds, if not a thousand-plus hours. I did the same with my two PS4 controllers, and those, too, looked pristine when I sold the console in 2021.
 
 ![The left analog stick on a Nintendo Switch Lite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-01.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re not someone who likes to collect controllers and instead only use one or two gamepads, thumbstick covers will prevent thumbstick rubber degradation many controllers suffer from. But that’s not the only thing they’re good at.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Covers Massively Improve Thumbstick Grip
@@ -78,6 +64,20 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
  Before I move on, I should also mention that many people online claim that tall grips, like the ones below, improve their aiming. Personally, I didn’t find a difference, but [your mileage may vary](https://extra-guidance.techidaily.com/new-speedy-drawing-in-photos-a-win10-guide-to-efficient-edits/).
 
 ![A pair of tall thumbstick covers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-03.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  They’re Cheap and You Can Buy Them Anywhere
 
@@ -102,20 +102,19 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-design-like-a-pro-free-premiere-plans-templates-2023/"><u>[New] 2024 Approved Design Like a Pro Free Premiere Plans, Templates 2023</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-dissecting-xvideohubs-capabilities-in-a-full-breakdown-review/"><u>[Updated] Dissecting XVideoHub's Capabilities in a Full Breakdown Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-experiences-the-metaverse-explored-through-6-models/"><u>[Updated] Immersive Experiences The Metaverse Explored Through 6 Models</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-blurring-the-boundary-a-comprehensive-look-at-story-bokeh/"><u>2024 Approved Blurring the Boundary A Comprehensive Look at Story Bokeh</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-clarity-in-web-exhibits-and-presentations/"><u>2024 Approved Boosting Clarity in Web Exhibits and Presentations</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-perfected-acoustic-parameters-for-electronics-optimization/"><u>2024 Approved Perfected Acoustic Parameters for Electronics Optimization</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breakdown-of-the-garmin-forerunner-945s-features-an-in-depth-review-of-an-elite-gps-running-watch/"><u>Breakdown of the Garmin Forerunner 945'S Features - An In-Depth Review of an Elite GPS Running Watch</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/decoding-the-workings-of-whatsapp-call-features-for-2024/"><u>Decoding the Workings of WhatsApp Call Features for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/enhance-browsing-with-chromes-pip-technique-for-2024/"><u>Enhance Browsing with Chrome’s PIP Technique for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>In 2024, The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-the-lg-k51s-gorgeous-appearance-hindered-by-a-lagging-processor/"><u>In-Depth Review: The LG K51's Gorgeous Appearance Hindered by a Lagging Processor</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/switched-on-gaming-a-comprehensive-look-at-nintendos-latest-offerings-lite-and-oled/"><u>Switched On Gaming: A Comprehensive Look at Nintendo's Latest Offerings, Lite and OLED</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-car-connector-dive-into-our-review-of-the-sumind-bt7b-adapter/"><u>The Best Car Connector? Dive Into Our Review of the Sumind BT7#B Adapter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-fortnite-season-xlvii-the-most-fun-and-engaging-update-yet/"><u>Unboxing Fortnite Season XLVII: The Most Fun and Engaging Update Yet!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerful-performance-a-thorough-look-at-the-samsung-galaxy-tab-s4-for-android-users/"><u>Unveiling the Powerful Performance: A Thorough Look at the Samsung Galaxy Tab S4 for Android Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-analyzing-flight-performance-in-djis-drone-standard-edition/"><u>2024 Approved Analyzing Flight Performance in DJI's Drone Standard Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-seamless-tiktok-to-high-quality-mp4-format/"><u>2024 Approved Seamless TikTok to High-Quality MP4 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/compatibilidad-de-av1-con-adobe-premiere-pro-posibles-tecnicas-para-la-importacion-y-exportacion/"><u>Compatibilidad De AV1 Con Adobe Premiere Pro: Posibles Técnicas Para La Importación Y Exportación</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-software-update-tools-available-online/"><u>Discover the Best Free Software Update Tools Available Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exclusive-review-of-showmore-authoritative-screen-capture-software/"><u>Exclusive Review of ShowMore’ Authoritative Screen Capture Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hands-on-with-mods-new-easy-sidecar-e-bike/"><u>Hands-On With Mod’s New Easy Sidecar E-Bike</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oneplus-open-by-fonelab-android-recover-data/"><u>How to recover lost data from OnePlus Open?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-xr-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone XR without Apple ID?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-samsungs-un65ru8000fxza-combining-aesthetics-and-intelligence/"><u>In-Depth Evaluation of Samsung's UN65RU8000FXZA - Combining Aesthetics and Intelligence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-new-chromecast-with-google-tv-a-rival-to-amazons-firetv/"><u>In-Depth Look at the New Chromecast with Google TV - A Rival to Amazon's FireTV?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-viber-out-the-best-for-international-calls-an-in-depth-review/"><u>Is Viber Out the Best for International Calls? An In-Depth Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-design-and-send-video-invites-on-the-go-best-mobile-apps/"><u>New Design and Send Video Invites On-the-Go Best Mobile Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-linksys-ea85-router-seamlessly-directing-traffic-among-your-electronics/"><u>Unveiling the Power of Linksys EA8ˈ5 Router: Seamlessly Directing Traffic Among Your Electronics</u></a></li>
 </ul></div>
 

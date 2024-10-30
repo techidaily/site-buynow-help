@@ -1,7 +1,7 @@
 ---
 title: "Viber Out Service Evaluation: A Comprehensive Analysis"
-date: 2024-08-15T05:59:38.506Z
-updated: 2024-08-16T05:59:38.506Z
+date: 2024-10-26T16:24:08.316Z
+updated: 2024-10-29T23:54:26.776Z
 categories:
   - BestProducts
 description: "This Article Describes Viber Out Service Evaluation: A Comprehensive Analysis"
@@ -41,9 +41,6 @@ Lifewire / Emily Isaacs
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
@@ -68,15 +65,18 @@ Lifewire / Emily Isaacs
 
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **Design: Made for comfort**
 
  The Sculpt is an ergonomic keyboard with a split design akin to that of a manta ray. The two halves of the keyboard sweep outwards and downwards creating an empty, raised space in the center of its swoop design. Its keys vary in size, with those nearest to the split being slightly wider than those on the outer edges of the keyboard. It’s largely made with plastic and has a bit of a clacky sound as you type. The Sculpt employs a standard layout with a fabric wrist pad at the front for extra comfort. This intuitive, split design combined with the wrist pad help your wrists, hands, and shoulders sit at a neutral, natural angle in order to[alleviate repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) that frequent typists are prone to over time.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -91,9 +91,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -107,19 +104,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Great for the features**
 
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
@@ -133,6 +138,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  The Surface is a high-end keyboard, but that quality comes at a higher price. The Surface tends to retail for around $129, much more than the Sculpt which retails for around $80\. That said, it’s an upgrade in almost every way. If you’re on a budget, the Sculpt is a great option, but if you’re able to splurge, the Surface is our top pick for wireless ergonomic keyboards.
@@ -145,9 +157,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Sculpt Ergonomic Keyboard
@@ -169,8 +178,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +185,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-navigating-whatsapps-vocal-messaging-system/"><u>[New] 2024 Approved Navigating WhatsApp's Vocal Messaging System</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-navigating-tiktok-lives-your-step-by-step-guide/"><u>[Updated] 2024 Approved Navigating TikTok Lives Your Step-by-Step Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-tonal-transition-triumphs-for-creative-virtuosos/"><u>[Updated] In 2024, Tonal Transition Triumphs for Creative Virtuosos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/5g-wireless-powerhouse-reviewed-how-the-asus-rt-ac68u-delivers-unmatched-speed-and-safety/"><u>5G Wireless Powerhouse Reviewed: How the Asus RT-AC68U Delivers Unmatched Speed & Safety</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparative-analysis-of-tp-link-archer-ax6000-and-nighthawk-ax12-which-delivers-superior-performance/"><u>Comparative Analysis of TP-Link Archer AX6000 and Nighthawk AX12 - Which Delivers Superior Performance?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-iphone-15-pro-max-and-samsung-z-fold6-unveiling-key-distinctions/"><u>Comparing iPhone 15 Pro Max & Samsung Z Fold6: Unveiling Key Distinctions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-rax120-a-top-performer-in-speed-and-connectivity/"><u>Comprehensive Analysis of the Netgear Nighthawk RAX120 - A Top-Performer in Speed and Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-tcl-50s425-roku-tv-50-analysis-discovering-value-in-a-premium-4k-viewing-experience-2019-edition/"><u>Comprehensive TCL 50S425 Roku TV (50) Analysis: Discovering Value in a Premium 4K Viewing Experience - 2019 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-analysis-of-the-value-packed-40-hisense-40h5590f-the-ideal-choice-for-savvy-shoppers/"><u>Detailed Analysis of the Value-Packed 40 Hisense 40H5590F - The Ideal Choice for Savvy Shoppers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-boundless-chat-with-tangos-free-messaging-app/"><u>Discover Boundless Chat with Tango's Free Messaging App!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-best-in-mesh-connectivity-with-our-in-depth-netgear-orbi-assessment/"><u>Discover the Best in Mesh Connectivity with Our In-Depth Netgear Orbi Assessment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-redmi-note-13-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi Redmi Note 13 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-is-the-cost-of-aurora-justified-by-its-hdr-quality/"><u>In 2024, Is The Cost of Aurora Justified by Its HDR Quality?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-your-videos-pop-12-top-online-animation-creators/"><u>New 2024 Approved Make Your Videos Pop 12 Top Online Animation Creators</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-in-half-life-alyx-lag-and-stutter-solutions-resolved/"><u>Troubleshooting PC Issues in Half-Life: Alyx - Lag & Stutter Solutions [Resolved]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-lenovo-ideapad-100-to-the-latest-drivers-compatible-with-windows-11/"><u>Update Your Lenovo IdeaPad 100 to the Latest Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrade-your-ipad-use-with-the-finest-selection-of-mouses-on-the-market/"><u>Upgrade Your iPad Use With The Finest Selection of Mouses on The Market</u></a></li>
+<li><a href="https://win-blog.techidaily.com/win-the-fight-against-lag-top-10-solutions-for-battlefield-5-performance-issues/"><u>Win the Fight Against Lag: Top 10 Solutions for Battlefield 5 Performance Issues</u></a></li>
+</ul></div>
 

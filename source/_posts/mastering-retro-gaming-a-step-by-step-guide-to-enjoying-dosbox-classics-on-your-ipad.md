@@ -1,7 +1,7 @@
 ---
 title: "Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad"
-date: 2024-10-17T02:30:09.089Z
-updated: 2024-10-24T05:43:00.493Z
+date: 2024-10-24T03:05:01.586Z
+updated: 2024-10-29T16:41:21.992Z
 tags:
   - games
   - tv
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![The context menu to show the contents of a macOS app package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-12-46-23-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this case the .exe file was in Content > Resources > Game, so I copied the entire contents of the "game" folder to my iPad in a folder named "Jazz."
@@ -56,33 +56,19 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![The floppy drive menu in iDOS 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-floppy-drive-menu-in-idos-3.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now navigate to the folder where you saved your DOS game files, and select "Open."
 
 ![The iDOS 3 file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-file-browser.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll see a message that the game folder has been mounted as a virtual drive in iDOS. So next we want to change to that drive. Type "D:" using the on-screen keyboard and then tap on the Enter button.
 
 ![The iDOS 3 interface showing that a folder had been mounted and the drive changed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-interface-showing-that-a-folder-had-been-mounted-and-the-drive-changed.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now we've changed to drive D, and all you have to do is type the name of the executable, and then press enter. In this case, that's "Jazz.exe" but it depends on the specific game, of course.
 
@@ -97,24 +83,24 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![The iDOS 3 virtual gamepad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-virtual-gamepad.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you put the iPad into landscape mode, you'll see a little bar with options pop up at the top.
 
 ![The iDOS 3 quick bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can use the little pin icon to make it stay, but you can just tap the top edge of the screen to make it appear. Here you can tap on buttons to see a virtual mouse, keyboard, or gamepad appear on-screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Configuring Peripherals
 
@@ -124,9 +110,23 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 quick bar with blutooth icon highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar-with-blutooth-icon-highlighted.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hold the button on the controller you want to rebind, and then press the corresponding key on the virtual keyboard.
 
 ![The iDOS 3 gamepad configuration screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-gamepad-configuration-screen.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some DOS games supported joysticks or gamepads, and if you want to use your gamepad as a true controller with these games, tap on the settings gear in the iDOS 3 quick bar and choose "Settings."
 
@@ -155,22 +155,22 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-premier-selection-of-top-10-free-youtube-art-mentors/"><u>[Updated] The Premier Selection of Top 10 Free YouTube Art Mentors</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/challenges-in-learning-german/"><u>Challenges in Learning German</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-testing-results-for-lenovo-yoga-a940-notebook/"><u>Comprehensive Testing Results for Lenovo Yoga A940 Notebook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-premier-wearables-elite-smartwatches-of-2024/"><u>Discover the Premier Wearables: Elite Smartwatches of 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevating-play-the-surround-sound-advantage-of-g-pro-x/"><u>Elevating Play: The Surround Sound Advantage of G Pro X</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-6s-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 6s iCloud Bypass</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-boosting-collaboration-mastery-of-zoom-capabilities-in-win10/"><u>In 2024, Boosting Collaboration Mastery of Zoom Capabilities in Win10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insights-on-the-amazfit-gts-fashionable-design-meets-functionality-an-in-depth-review/"><u>Insights on the Amazfit GTS: Fashionable Design Meets Functionality – An In-Depth Review</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/1714925137654-new-alice-johnson-and-ethan-smith-phd-department-of-musicology-university-of-harmonia-open-access-copyright-2023-by-dr-johnson-and-prof-smith-this-work-is-l/"><u>New Alice Johnson and Ethan Smith, Ph.D., Department of Musicology, University of Harmonia (Open Access). Copyright © 2023 by Dr. Johnson and Prof. Smith. This Work Is Licensed Under a Creative Commons Attribution-Share Alike 4.0 License for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/performance-testing-of-seatechs-external-blu-ray-with-usb-writers-does-quality-meet-expectations-in-our-detailed-review/"><u>Performance Testing of SeaTech's External Blu-Ray with USB Writers: Does Quality Meet Expectations in Our Detailed Review?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-future-of-home-cinema-unveiling-the-enhanced-siri-capabilities-and-stunning-hd-quality-of-the-apple-tv-4k/"><u>The Future of Home Cinema: Unveiling the Enhanced Siri Capabilities and Stunning HD Quality of the Apple TV 4K</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-top-performers-best-netgear-routers-available/"><u>The Top Performers: Best Netgear Routers Available</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721466952596-top-10-solutions-for-iphone-calling-issues-no-more-dropped-calls/"><u>Top 10 Solutions for iPhone Calling Issues – No More Dropped Calls</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-fresh-download-and-update-for-mbox-2-drivers-in-windows-solved/"><u>Troubleshooting and Fixing: Fresh Download & Update for MBox 2 Drivers in Windows - Solved!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-t5-eye-cutting-edge-action-video-capture/"><u>Ultimate T5 Eye Cutting-Edge Action Video Capture</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-fitbit-charge-3-review-an-effective-choice-today/"><u>Unpacking the Fitbit Charge 3 Review: An Effective Choice Today?</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-motorola-moto-g14-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Motorola Moto G14? Here is How | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-the-core-plot/"><u>[New] Crafting the Core Plot</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-echoai-creatives-harmonizing-image-edits/"><u>[Updated] 2024 Approved EchoAI Creatives Harmonizing Image Edits</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-tp-link-re2n-ac750-wireless-repeater-in-depth-analysis/"><u>Affordable TP-Link RE2n AC750 Wireless Repeater - In-Depth Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choice-collection-high-quality-virtual-reality-titles-for-cardboard/"><u>Choice Collection High-Quality Virtual Reality Titles for Cardboard</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smartphone-wisely-iphone-or-android/"><u>Choosing Your Smartphone Wisely: IPhone or Android?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/efficiency-meets-mobility-in-depth-review-of-kensun-tire-air-filler/"><u>Efficiency Meets Mobility: In-Depth Review of Kensun Tire Air Filler</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-steps-for-converting-dvd-content-onto-a-portable-external-hard-disk/"><u>Effortless Steps for Converting DVD Content Onto a Portable External Hard Disk</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/explore-the-leading-video-editing-tools-for-pcs-ranked-and-reviewed/"><u>Explore the Leading Video Editing Tools for PCs - Ranked & Reviewed!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-react-when-youre-your-own-reflection-in-a-video-call/"><u>In 2024, How to React When You're Your Own Reflection in a Video Call</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-mix-fold-3-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Mix Fold 3 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-playstation-4-pro-transforms-into-a-4k-console-masterpiece/"><u>In-Depth Review: How PlayStation 4 Pro Transforms Into a 4K Console Masterpiece</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interstellar-city-planning-gone-wild-whirlwinds-and-laughter-across-the-red-planet/"><u>Interstellar City Planning Gone Wild: Whirlwinds and Laughter Across the Red Planet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-legale-websites-zum-gratulose-anschauen-von-kinofilmen/"><u>Top 10 Legale Websites Zum Gratulose Anschauen Von Kinofilmen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-imac-with-m1-enhanced-performance-meets-elegant-design/"><u>Unveiling the iMac with M1: Enhanced Performance Meets Elegant Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/versatile-glow-spk10-037-softbox-kicking-up-creative-energy/"><u>Versatile Glow: SPK10-037 Softbox Kicking Up Creative Energy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/zte-blade-a3y-reviewed-delivering-high-end-specs-on-a-budget-smartphone/"><u>ZTE Blade A3Y Reviewed: Delivering High-End Specs on a Budget Smartphone</u></a></li>
 </ul></div>
 

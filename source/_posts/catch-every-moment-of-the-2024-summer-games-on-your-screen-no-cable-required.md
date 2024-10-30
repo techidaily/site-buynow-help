@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2024-10-17T00:15:39.550Z
-updated: 2024-10-23T23:31:02.771Z
+date: 2024-10-26T07:33:36.761Z
+updated: 2024-10-30T02:25:32.369Z
 tags:
   - games
   - tv
@@ -32,10 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In addition to NBC, you will find some Olympics content streaming on the Peacock app, GOLF Channel, USA Network, CNBC, and E!. Telemundo will air Spanish-language coverage. However, Peacock and the extended range of NBCUniversal channels are not accessible via antenna and can get expensive due to price creep.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How Do I Watch for Free?
@@ -47,15 +47,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Most modern televisions have an integrated tuner, meaning they are ready to be connected to an antenna. This makes setting up an antenna to watch the 2024 Olympics a lot easier than it might sound.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting Up an Antenna
 
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -66,10 +73,10 @@ Jordan Gloor / How-To Geek
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Which Olympic Events I Can Watch for Free?
@@ -81,19 +88,6 @@ Jordan Gloor / How-To Geek
 ##  How to Watch 2024 Olympic Gymnastics
 
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
 
@@ -118,22 +112,21 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-number-1-in-the-elite-8-virtual-composite-maker/"><u>[New] 2024 Approved Number 1 in the Elite 8 Virtual Composite Maker</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-use-kapwing-meme-maker-for-2024/"><u>[New] Use Kapwing Meme Maker for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastering-webinar-capture-straightforward-steps-for-os-xwindows/"><u>[Updated] 2024 Approved Mastering Webinar Capture Straightforward Steps for OS X/Windows</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-share-tiktok-videos-to-facebook-in-quick-easy-steps/"><u>2024 Approved Share TikTok Videos to Facebook in Quick Easy Steps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-the-powerful-and-packed-feature-samsung-gear-s3-frontier-your-ultimate-wrist-companion/"><u>A Closer Look at The Powerful & Packed-Feature Samsung Gear S3 Frontier - Your Ultimate Wrist Companion?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/become-a-gif-whisperer-crafting-images-from-vimeo-videos-for-2024/"><u>Become a GIF Whisperer Crafting Images From Vimeo Videos for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breakneck-video-progress-on-facebook-must-have-extension-solutions/"><u>Breakneck Video Progress on Facebook - Must-Have Extension Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/crucial-factors-in-choosing-the-apeman-c450-a-top-budget-dashcam-revealed/"><u>Crucial Factors in Choosing the Apeman C450 - A Top Budget Dashcam Revealed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-picks-leading-cable-modems-available/"><u>Expert Picks: Leading Cable Modems Available</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expertly-selected-best-cable-modem-and-wireless-router-bundles-of-2024/"><u>Expertly Selected Best Cable Modem and Wireless Router Bundles of 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-silent-mode-glitches-on-windows-word-reading-feature/"><u>Fix Silent Mode Glitches on Windows' Word Reading Feature</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-streamline-your-content-posting-twitter-videos-on-snapchat/"><u>In 2024, Streamline Your Content Posting Twitter Videos on Snapchat</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-clips-to-tunes-explained-in-detail/"><u>Instagram Clips to Tunes Explained in Detail</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-replacing-with-advanced-apple-watch-a-smart-move/"><u>Is Replacing with Advanced Apple Watch a Smart Move?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/outstanding-oneplus-6t-analysis-superior-speed-and-value-like-no-other/"><u>Outstanding OnePlus 6T Analysis: Superior Speed and Value Like No Other</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-second-generation-google-nest-hub-an-exploration-of-features-and-limitations-including-the-lack-of-a-camera/"><u>The Second Generation Google Nest Hub: An Exploration of Features and Limitations, Including the Lack of a Camera</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-and-performance-a-comprehensive-microsoft-surface-laptop-go-review-for-savvy-consumers/"><u>Unveiling the Features and Performance: A Comprehensive Microsoft Surface Laptop Go Review for Savvy Consumers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-inspire-audiences-with-these-high-quality-free-sound-files/"><u>[Updated] In 2024, Inspire Audiences with These High-Quality, Free Sound Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unveiling-the-core-technology-behind-superior-screen-captures-by-recmeister/"><u>[Updated] In 2024, Unveiling the Core Technology Behind Superior Screen Captures by Recmeister</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-the-art-of-editing-an-instagram-guide-for-2024/"><u>[Updated] Mastering the Art of Editing An Instagram Guide for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-beatit-bt-d11-boost-master-exceptional-capabilities-revealed/"><u>Comprehensive Evaluation of the Beatit BT-D11 Boost Master: Exceptional Capabilities Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-edge-technology-unpacked-a-detailed-review-of-the-impressive-samsung-qn55q6f-in-4k-uhd-and-hdr/"><u>Cutting Edge Technology Unpacked: A Detailed Review of the Impressive Samsung QN55Q6F in 4K UHD and HDR</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cyberpowers-cp685avrg-unit-assessed-robust-and-reliable-backup-power/"><u>CyberPower's CP685AVRG Unit Assessed: Robust & Reliable Backup Power</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/datenubertragung-auf-ein-anderes-iphone-3-effektive-methode-mit-einer-anderen-apple-id/"><u>Datenübertragung Auf Ein Anderes iPhone: 3 Effektive Methode Mit Einer Anderen Apple-ID</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-upload-and-convert-your-3g2-videos-to-high-quality-avi-free-of-charge-vivamotiontools/"><u>Effortless Upload & Convert Your 3G2 Videos to High-Quality AVI Free of Charge – VivaMotionTools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/important-aspects-to-think-about-before-adding-a-new-printer-to-your-collection/"><u>Important Aspects to Think About Before Adding a New Printer To Your Collection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-canon-pixma-mx340-drivers-step-by-step-tutorial-for-windows-1187/"><u>Installing Canon PIXMA MX340 Drivers: Step-by-Step Tutorial for Windows 11/8/7</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-free-mkv-trimming-software-top-10-picks/"><u>New In 2024, Free MKV Trimming Software Top 10 Picks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/streamlined-steps-setting-up-snapchat-on-macos/"><u>Streamlined Steps Setting up Snapchat on macOS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-youtube-to-mp4-blueprint/"><u>The Ultimate YouTube to MP4 Blueprint</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-logitech-c615-webcam-top-notch-quality-at-great-value/"><u>Ultimate Guide to Logitech C615 Webcam - Top-Notch Quality at Great Value</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-capabilities-a-detailed-review-of-linksys-velop-networking-solutions/"><u>Unveiling the Capabilities: A Detailed Review of Linksys Velop Networking Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vive-cosmos-review/"><u>Vive Cosmos Review</u></a></li>
 </ul></div>
 

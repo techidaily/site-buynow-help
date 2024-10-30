@@ -1,7 +1,7 @@
 ---
 title: Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.
-date: 2024-10-16T21:12:41.528Z
-updated: 2024-10-24T12:20:47.942Z
+date: 2024-10-24T06:19:09.203Z
+updated: 2024-10-30T01:20:19.389Z
 tags:
   - games
   - tv
@@ -84,22 +84,35 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
  The prime reason to buy the Capsule 3 is its compact, all-inclusive design. It has built-in speakers, a battery that’s long enough for most movies, and streaming software, all within the size of a small Gatorade bottle. (You can see how it compares to a 12-ounce can of La Croix.) Unless you’re putting it on a tripod or plugging it into power, there’s nothing else it needs. It features a resolution of 1,920 x 1,080, has HDMI input, an 8W speaker, can do front or rear projection, and weighs under two pounds.
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  A Projector That Can Travel
 
@@ -121,13 +134,6 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
@@ -143,10 +149,10 @@ Jerome Thomas / How-To Geek
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Battery Life
@@ -163,13 +169,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The [Anker Nebula Capsule 3](https://us.seenebula.com/products/capsule-3-projectors-d2425) projector offers a lot of capabilities packed inside a palmable-sized canister. In my use, it performed about as well as I expected it to. It’s not quite the watch-anywhere device it might seem like from its promotional material, simply because its brightness can’t handle lighter areas.
@@ -177,6 +176,13 @@ Jerome Thomas / How-To Geek
  But if you don’t mind hunting for the shadowy corners of a room during the day or waiting until nightfall, then there’s not much to dislike about what this projector can do. It’s a solid value from a reputable brand with modern software onboard.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -201,15 +207,14 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-navigating-the-market-selecting-from-top-15-tripodsmounts/"><u>[New] In 2024, Navigating the Market Selecting From Top 15 Tripods/Mounts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-handle-accidental-reflections-in-video-conversations/"><u>[Updated] How To Handle Accidental Reflections in Video Conversations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/combining-tradition-and-innovation-a-comprehensive-analysis-of-the-analog-charm-in-withings-move-smartwatches/"><u>Combining Tradition and Innovation: A Comprehensive Analysis of the Analog Charm in Withings Move Smartwatches</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elevate-your-photos-utilizing-luts-in-adobes-image-editor-for-2024/"><u>Elevate Your Photos Utilizing LUTs in Adobe's Image Editor for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-kobo-clara-hd-a-must-have-e-reader-for-bookworms-always-on-the-move/"><u>Exploring the Kobo Clara HD - A Must-Have E-Reader for Bookworms Always on the Move</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-c33-2023-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme C33 2023 FRP</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-genius-widecam-f100-camera-battling-pixilation-and-audio-echos/"><u>In-Depth Analysis of the Genius WideCam F100 Camera: Battling Pixilation & Audio Echos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tation-plaza-your-gateway-to-a-thousand-channels/"><u>PlayStation Plaza Your Gateway to a Thousand Channels</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sky-high-savings-with-the-amazonbasics-hd-antenna-review-for-economical-over-the-air-tv/"><u>Sky-High Savings with the AmazonBasics HD Antenna Review for Economical Over-the-Air TV</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/superior-non-adobe-solutions-boosting-creativity-in-your-new-artistic-ventures/"><u>Superior Non-Adobe Solutions Boosting Creativity in Your New Artistic Ventures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-launchpad-to-success-the-youtube-entrepreneurs-guide-for-2024/"><u>[Updated] Launchpad to Success The YouTube Entrepreneur's Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-ideal-editors-perfect-for-high-quality-youtube-videos/"><u>2024 Approved Ideal Editors Perfect for High-Quality YouTube Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-chromebook-c202sa-a-reliable-educational-device-tested-by-students-and-children/"><u>Asus Chromebook C202SA - A Reliable Educational Device Tested by Students & Children</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-affordability-and-quality-in-49-lg-um7300-4k-tv-a-consumer-review/"><u>Exploring Affordability and Quality in 49 LG UM7300 4K TV - A Consumer Review</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/harmony-heard-multilingual-fourth-glee/"><u>Harmony Heard: Multilingual Fourth Glee</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unlocking-studio-secrets-extensive-xvideoreview/"><u>In 2024, Unlocking Studio Secrets Extensive XVideoReview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/us-debut-of-new-nickelodeon-kid-favorite-at-the-annual-kids-choice-ceremony/"><u>U.S. Debut of New Nickelodeon Kid Favorite at the Annual Kids' Choice Ceremony</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-value-of-the-new-apple-watch-se-model/"><u>Unveiling the Value of the New Apple Watch SE Model</u></a></li>
 </ul></div>
 

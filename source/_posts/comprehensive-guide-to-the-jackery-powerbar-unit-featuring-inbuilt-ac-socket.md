@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to the Jackery PowerBar Unit Featuring Inbuilt AC Socket
-date: 2024-08-15T05:58:27.006Z
-updated: 2024-08-16T05:58:27.006Z
+date: 2024-10-25T07:06:49.163Z
+updated: 2024-10-30T07:08:16.611Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to the Jackery PowerBar Unit Featuring Inbuilt AC Socket
@@ -44,8 +44,12 @@ Lifewire / Jeremy Laukkonen
 ## Microsoft Xbox Series S
 
 ![Xbox Series S](https://www.lifewire.com/thmb/wlG_GrSmQPVex-VRt3ap4hsTP-s=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hero_Square-377546108feb4adaa3226c0ee22e1238.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -78,9 +82,6 @@ Lifewire / Jeremy Laukkonen
  The Xbox Series S is small, and it's almost impossible to oversell that point. I had seen pictures and videos of the console and the spec sheet, but I was still surprised at how compact this thing was when I unboxed it. It's smaller than the Xbox One S, and Microsoft bills it as "our smallest Xbox ever." That's especially noteworthy since Microsoft and Sony went exceptionally big with their flagship consoles, the Series X and PlayStation 5.
 
 ![Xbox Series S](https://www.lifewire.com/thmb/3-mUIkkRYilM5F2tvCYMPXtW1Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-04d996bcdfbb489d84e8945e4c475713.JPG)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -99,9 +100,18 @@ Lifewire / Jeremy Laukkonen
  I ended up wiping the console back to factory settings a few times while I put it through its paces, so I also tried the traditional setup method after circling back. It’s similar to setting up an Xbox One; not that difficult or time-consuming, but the app option is better.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Rock solid 1440p gaming**
 
  The Xbox Series S is a bit of a mixed bag in the performance department because of its stripped-down hardware. The CPU is similar to the more expensive Xbox Series X, but the GPU is significantly weaker[in teraflops (TFLOPs)](https://www.lifewire.com/what-is-a-teraflop-5076877) and has less RAM.
@@ -124,6 +134,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Load times were negligible in each game I played, which I expected from a super-fast NVME SSD storage system. Some games had more noticeable load times than others, but not enough to disrupt gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Games: Microsoft still has an exclusivity problem**
 
  You won't have any shortage of games to play on the Xbox Series S, especially if you're a[Game Pass](https://www.lifewire.com/xbox-game-pass-4178809) subscriber. I predicted that the Series S would be the ultimate Game Pass machine at release, and that prediction has borne fruit in my home, at least.
@@ -140,9 +157,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Microsoft's $7.5B purchase of Bethesda's parent company, Zenimax, brought some hope of additional exclusives appearing in Microsoft's arsenal. (Bethesda is the publisher of Fallout, DOOM, Dishonored, Skyrim, Wolfenstein, The Elder Scrolls, and more.) However, the situation is murky as the company has yet to clarify which (if any) Bethesda titles will be exclusive to Xbox.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Storage: Disappointingly shallow, so bring your USB drive**
 
  The biggest problem with the Xbox Series S is the lack of storage. Unlike the Series X, which packs in a 1TB drive, the Series S only offers 512GB of space. That's an extremely shallow pool to swim in when dealing with an all-digital console, as you have to download every game you play.
@@ -162,9 +176,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
  With all those massive games and the fact that the Series S is a digital-only console, you will spend a lot of time downloading. The Series S has built-in Wi-Fi and an Ethernet port, so you have options, but a wired connection is the way to go here.
 
 ![Xbox Series S](https://www.lifewire.com/thmb/_GSxQvNgtJMhoyNl62qlg671Qvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-25991056c5c2486695923f7c1b61c7b5.JPG)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -174,6 +185,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  The bottom line is that the Series S provided fairly unimpressive download speeds over Wi-Fi but tore it up when connected via Ethernet. You’ll want to connect this all-digital console via Ethernet to a fast internet connection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software and User Interface: Familiar and cozy**
 
  Microsoft isn’t looking to rock the boat with the Xbox Series X|S in terms of the user interface. If you’ve used an Xbox One, you’ll find the Xbox Series X|S user interface strangely familiar. The dashboard looks almost the same, and the guide functions as expected. There are a few upgrades and changes here and there, but this is nothing like the massive change between the Xbox 360 dashboard and the Xbox One dashboard.
@@ -181,8 +199,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
  An overhaul of the dashboard is currently in the works, and we expect it to arrive in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Controller: Iteration more than innovation**
 
  The Xbox Series X|S controller is a pleasant surprise, as Microsoft also chose to stick with a winning formula. The original Xbox One controller was well-received, and its minor facelift with the release of the Xbox One made it even better. Microsoft took that design for the Xbox Series X|S and tweaked it ever so slightly.
@@ -198,9 +220,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Aside from that, the only other item of note is that the Xbox Series X|S controller includes a fairly aggressive texture on the grips that feels quite nice when held.
 
 ![Xbox Series S](https://www.lifewire.com/thmb/MZdEnnFWPzhGzv_P5GO8byAY5qI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-dd9458b294e74205acad2ff6fee33913.JPG)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -214,9 +233,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  One expense you may need to budget is a high-speed USB 3.1 drive. The console is perfectly usable without an external drive, but expect to uninstall games regularly to make more space if you limit yourself to the onboard storage.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Xbox Series S vs. PS5 Digital**
 
  This comparison is a bit of an unfair fight because Microsoft and Sony took entirely different approaches when designing their lower-priced console options. Microsoft cut back on hardware to offer an incredibly low price point, while Sony removed the optical drive. The result is that the PS5 Digital blows the Xbox Series S out of the water in terms of graphics and performance, but they aren’t even in the same time zone in terms of price.
@@ -241,6 +257,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 [Nintendo Switch Lite Review](https://www.lifewire.com/nintendo-switch-lite-review-4788015)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Xbox Series S
@@ -264,8 +287,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +294,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-snapshots-of-opposites-youtube-video-inverts/"><u>[New] In 2024, Snapshots of Opposites YouTube Video Inverts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-10-must-know-tips-for-cover-art/"><u>[Updated] Unleash Creativity 10 Must-Know Tips for Cover Art</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-selecting-the-supreme-top-5-4k-tvs-for-vivid-hues/"><u>2024 Approved Selecting the Supreme Top 5 4K TVs for Vivid Hues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-s23-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy S23 Ultra to iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/blog-promotion-strategies-how-buyselladscom-can-help-you-profit/"><u>Blog Promotion Strategies: How buySellAds.com Can Help You Profit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-wi-fi-booster-an-experts-take-on-the-tp-link-re200-ac750/"><u>Budget-Friendly Wi-Fi Booster: An Expert's Take on the TP-Link RE200 Ac750</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-apple-watch-series-9-evaluation/"><u>Comprehensive Apple Watch Series 9 Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-beantech-bitwatch-s1-plus-review-an-affordable-tech-marvel/"><u>Comprehensive Beantech Bitwatch S1 Plus Review - An Affordable Tech Marvel!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-examination-of-hps-latest-creation-the-portable-marvel-zbook-firefly-15-g8/"><u>Comprehensive Examination of HP's Latest Creation: The Portable Marvel, ZBook Firefly 15 G8</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-kobo-nia-ebook-display-assessment-daring-to-rival-amazon-kindle/"><u>Comprehensive Kobo Nia Ebook Display Assessment: Daring to Rival Amazon Kindle?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-pioneer-bdr-xs06-blu-ray-disc-burner-evaluation-emphasizing-mobility-and-speed/"><u>Comprehensive Pioneer BDR-XS06 Blu-Ray Disc Burner Evaluation: Emphasizing Mobility & Speed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cost-effective-speed-unpacking-the-features-of-the-tp-link-archer-c50/"><u>Cost-Effective Speed: Unpacking the Features of the TP-Link Archer C50</u></a></li>
+<li><a href="https://common-error.techidaily.com/detailed-strategies-to-overcome-and-repair-the-0x80072efd-error-in-windows-10/"><u>Detailed Strategies to Overcome and Repair the 0X80072EFD Error in Windows 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-wonders-of-hisenses-affordable-40-model-the-40h5590f-smart-tv-revealed/"><u>Discovering the Wonders of Hisense's Affordable 40 Model: The 40H5590F Smart TV Revealed</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/efficient-data-syncing-with-rsync-on-windows-server-2019-a-detailed-walkthrough/"><u>Efficient Data Syncing with Rsync on Windows Server 2019: A Detailed Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-malfunction-of-special-function-keys-in-dell-laptop-models/"><u>Fixing the Malfunction of Special Function Keys in Dell Laptop Models</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimize-your-site-the-power-of-cookiebot-technology/"><u>Optimize Your Site: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reestablish-viewing-instant-monitor-connection-recovery/"><u>Reestablish Viewing: Instant Monitor Connection Recovery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revealed-the-new-amd-epyc-5-128-core-processor-with-impressive-512mb-l3-caching-capabilities/"><u>Revealed: The New AMD EPYC 5 128-Core Processor with Impressive 512MB L3 Caching Capabilities</u></a></li>
+</ul></div>
 

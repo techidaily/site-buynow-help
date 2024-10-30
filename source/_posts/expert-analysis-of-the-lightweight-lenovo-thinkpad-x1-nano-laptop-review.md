@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of the Lightweight Lenovo ThinkPad X1 Nano Laptop Review
-date: 2024-08-15T05:57:45.883Z
-updated: 2024-08-16T05:57:45.883Z
+date: 2024-10-25T01:17:13.732Z
+updated: 2024-10-29T17:06:10.724Z
 categories:
   - BestProducts
 description: This Article Describes Expert Analysis of the Lightweight Lenovo ThinkPad X1 Nano Laptop Review
@@ -42,15 +42,9 @@ Andy Zahn / Lifewire
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lenovo Thinkpad X1 Fold
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/m_vIjFrzd75ye5pEp_0Px7yJw4Y=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Lenovo-X1-Fold-1-14756f522df84525a64a007692b7a0ff.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
 
@@ -82,8 +76,12 @@ Andy Zahn / Lifewire
  As with any pioneering technology, early adopters can expect to encounter pitfalls and teething troubles in Lenovo’s first folding screen laptop, but could they be outweighed by the exciting advantages of such a flexible device?
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/3KFmSYd3_u5cpUuIhOmkCh6JkRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-3-8b72e61b43a8491294d1ce6a241efa66.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
@@ -114,6 +112,13 @@ Andy Zahn / Lifewire
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/0yBMR4dxmiM0cge7qMbC0Z5oPtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-6-3d34a60b6d7c418a8eafc24a2374dcf0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Andy Zahn / Lifewire
 
 ## Display: Absolutely spectacular
@@ -122,9 +127,6 @@ Andy Zahn / Lifewire
 
  My only nitpick is that though viewing angles are very good, the two halves do appear differently due to the varying angles when they are viewed in tablet mode. However, this wasn’t too noticeable or distracting, so it doesn’t really count against the overall excellence of the display. Generally, its aspect ratio is more suited to productivity than media consumption, however, the screen is so vibrant and detailed that movies and shows look great on OLED display, and you can easily ignore the black bars on the top and bottom of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Setup Process: Straightforward but lacking instructions
 
  The initial setup of[Windows 10](https://www.lifewire.com/windows-10-2626217) went pretty much as normal, though once I got to the desktop there were more than the usual number of firmware and software updates to run. Connecting the Bluetooth keyboard was fairly straight forward, though the power switch on the keyboard is minute and a little tricky to operate.
@@ -146,9 +148,6 @@ Andy Zahn / Lifewire
  Overall, the X1 Fold is definitely superior to a traditional tablet in terms of typing and navigation, but it’s not exactly a laptop replacement in this regard. However, it does function spectacularly as a drawing tablet. The included Lenovo Mod Pen is extremely accurate, which makes this a great companion for artists on the go.
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/SreHCwqxjjZpgsINWuMbPmtuOoE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-9-6b25f0217be34b8d8b3685f8419206fe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
 
@@ -162,18 +161,29 @@ Andy Zahn / Lifewire
 
  The deep blacks and rich colors put other more traditional displays to shame, and to some extent, it helps justify the hefty price tag beyond the novelty of its folding design.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software: Minimal bloatware
 
  Aside from a few built-in Lenovo and Microsoft apps, the X1 Fold came with very little bloatware installed. The Lenovo Commercial Vantage software was quite useful for checking the computer's status, installing updates, and managing the extra level of Wi-Fi security that Lenovo offers. Windows 10 itself functions surprisingly well, considering the constantly shifting way in which the X1 Fold is designed to function. There were only a few hiccups here and there as the device figured out my orientation or whether I’d attached the keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Audio: Barebones speaker
 
  The single speaker on one side of the X1 Fold isn’t bad, but its quality isn’t the issue. The problem is that it's singular, and all on its lonesome it can’t hope to deliver loud or impressive audio. The best that can be said is that it's there if you need it, but honestly, you’re going to want to use external audio if at all possible with this device.
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/TzQnSBet8ESte9--b4aREI2Fo3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-4-f985e96cb6e741c083693c69311e91b7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
 
@@ -182,17 +192,18 @@ Andy Zahn / Lifewire
  The 5MP webcam in the X1 Fold is no better or worse than I’d expect. It provides acceptable results given good light, and can capture video up to 1440p[resolution](https://www.lifewire.com/what-is-resolution-2767449) . Its placement on one of the short sides of the screen makes it more ideal for use with the X1 Fold in laptop or vertical tablet mode than in landscape tablet mode.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Connectivity: Fast and flexible
 
  The X1 Fold features[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , Bluetooth 5.1, and a nano Sim slot, so you can potentially connect to a cellular network. This makes the X1 Fold one of the faster and more versatile laptops out there in terms of connecting with the world. I never had reason to complain about its Wi-Fi performance or the reliability of its Bluetooth.
@@ -204,19 +215,27 @@ Andy Zahn / Lifewire
  Lenovo’s claims of 8.5 to 10.4 hours of battery life was fairly accurate. This is definitely adequate, though not terribly impressive by modern laptop standards. It will get you through a day of work without having to recharge, depending on use, of course.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Price: Bleeding money on the cutting edge
 
  As tested, the X1 Fold will set you back $2,750, and that is this brilliant device’s greatest Achilles heel. That much money would buy you a seriously powerful gaming laptop capable of so much more than the measly i5 processor and 8GB of RAM that power the X1 Fold. The tiny 256GB SSD is insultingly small. Its components would be more at home in a laptop one third the price. However, with the X1 Fold, you’re not paying for power, and it's really up to you to judge if the neat tricks justify the cost, though that beautiful OLED certainly sweetens the deal.
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/jI8D6QycYNFCrYWyKfFsEeNKMBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-2-f2581e0132f740469409d73a90c10ce6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Andy Zahn / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lenovo Thinkpad X1 Fold vs. Dell XPS 13 7390 2-in-1
 
  If you don’t mind giving up a little bit of flexibility, the Dell XPS 13 7390 2-in-1 offers a thinner, lighter, more refined experience for nearly $1000 less. It’s more powerful, and has significantly more storage capacity, as well as an awesome trackpad and keyboard that make it so much better for typing. Although the XPS 13 will be the better choice for most people, the X1 Fold offers flexibility beyond compare and a glimpse into the exciting technology of the future.
@@ -230,17 +249,18 @@ Andy Zahn / Lifewire
  One look at the Lenovo Thinkpad X1 Fold and you know it's something completely new. Its large, foldable screen and clever design paired with well-integrated accessories allows it to morph to fit a variety of different use cases. However, there’s no getting around the painfully high price point, mediocre performance, and all the little flaws that are the hallmark of a first-generation product.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Lenovo Chromebook C330](https://www.lifewire.com/lenovo-chromebook-c330-review-4777109)
 * [Lenovo Ideapad 14](https://www.lifewire.com/lenovo-ideapad-laptop-review-4843583)
 * [Lenovo 130S](https://www.lifewire.com/lenovo-130s-review-4843631)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Thinkpad X1 Fold
@@ -269,8 +289,6 @@ Andy Zahn / Lifewire
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,4 +296,26 @@ Andy Zahn / Lifewire
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-clever-ways-to-neglect-edge-academy-vids/"><u>[New] Clever Ways to Neglect EDGE Academy Vids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-explore-8-best-strategies-for-increasing-youtube-traffic/"><u>[Updated] 2024 Approved Explore 8 Best Strategies for Increasing Youtube Traffic</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-steps-for-crafting-video-based-gifs-on-mobiledesktop-for-2024/"><u>[Updated] Essential Steps for Crafting Video-Based GIFs on Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-online-broadcast-platforms/"><u>[Updated] Ultimate Online Broadcast Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dont-miss-out-the-finest-acer-steals-and-savings-of-the-2024-prime-day-extravaganza/"><u>Don't Miss Out: The Finest Acer Steals & Savings of the 2024 Prime Day Extravaganza</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effortless-style-meets-productivity-introducing-the-low-profile-well-equipped-acer-aspire-c27-workstation/"><u>Effortless Style Meets Productivity: Introducing the Low-Profile, Well-Equipped Acer Aspire C27 Workstation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-if-a-new-iphone-separates-you-from-old/"><u>Evaluating If a New iPhone Separates You From Old</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-gaomon-pd1560-artistic-touchpad-a-comprehensive-look-at-this-versatile-pen-display/"><u>Evaluating the Gaomon PD1560 Artistic Touchpad: A Comprehensive Look at This Versatile Pen Display</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-ultimate-survival-adventure-with-dying-light-the-perfect-blend-of-cooperative-gameplay-and-parkour-excitement/"><u>Experience the Ultimate Survival Adventure with 'Dying Light' – The Perfect Blend of Cooperative Gameplay and Parkour Excitement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-unlocking-the-features-and-benefits-of-the-ring-video-doorbell-pro/"><u>Expert Evaluation: Unlocking the Features and Benefits of the Ring Video Doorbell Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/full-picture-unraveling-the-google-podcast-application/"><u>Full Picture Unraveling the Google Podcast Application</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/head-to-head-comparison-the-features-of-apple-watch-s9-and-fitbit-charge-6/"><u>Head-to-Head Comparison: The Features of Apple Watch S9 and Fitbit Charge 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 15 Pro Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hp-15-with-amd-processor-budget-friendly-and-efficient-review-insights/"><u>HP 15 with AMD Processor: Budget-Friendly and Efficient – Review Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-distinguished-pioneers-elite-insta-hlv-page-builders/"><u>In 2024, Distinguished Pioneers Elite Insta HLV Page Builders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-streamline-video-calls-using-google-hangouts-efficiently/"><u>In 2024, Streamline Video Calls Using Google Hangouts Efficiently</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-fitbit-versa-2-your-ultimate-guide-to-a-healthier-lifestyle-with-intelligent-watch-features/"><u>In-Depth Analysis of the Fitbit Versa 2: Your Ultimate Guide to a Healthier Lifestyle with Intelligent Watch Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triple-threat-tweaks-for-personalized-win11-preferences/"><u>Triple-Threat Tweaks for Personalized Win11 Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-roblox-code-403-problem/"><u>Troubleshooting Windows Roblox Code 403 Problem</u></a></li>
+</ul></div>
 

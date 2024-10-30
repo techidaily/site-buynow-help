@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive NHL '19 Guide: A Deep Dive Into Virtual Hockey Action"
-date: 2024-08-15T05:59:33.137Z
-updated: 2024-08-16T05:59:33.137Z
+date: 2024-10-26T03:35:37.062Z
+updated: 2024-10-30T04:46:53.785Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive NHL '19 Guide: A Deep Dive Into Virtual Hockey Action"
@@ -37,14 +37,15 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Antop AT-127
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
@@ -80,9 +81,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup: Easier than most**
 
  Setting up the antenna is relatively intuitive. You just connect the antenna to the coaxial/antenna-in connection on your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) . The antenna has an easy-push connector, instead of a connector you have to twist onto the threading. This makes for easier setup because you don’t have to struggle behind your TV with trying to screw on the[coaxial cable](https://www.lifewire.com/coaxial-vs-optical-digital-cable-3134605) .
@@ -99,6 +97,13 @@ Lifewire / Erika Rawes
 
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Range: Could be better**
@@ -109,20 +114,28 @@ Lifewire / Erika Rawes
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
 
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
  You can find indoor antennas for less than $15 (view on[Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845583%7Cna0f30cabffec4337b279a8df3e4c99b015%7C) ). The[AmazonBasics](https://www.lifewire.com/amazonbasics-flat-tv-antenna-review-4845569) 35-mile range antenna is a good example, though it doesn’t come with a stand or have the easy-push connector. Aesth etically, the AmazonBasics antenna doesn’t hold a candle to the Antop antenna, but it does cost significantly less.
@@ -133,9 +146,6 @@ Lifewire / Erika Rawes
 
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AT-127
@@ -152,14 +162,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +175,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instantize-dynamic-images-in-photoshop/"><u>2024 Approved Instantize Dynamic Images in Photoshop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-reno-9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo Reno 9A Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-headset-mic-wont-work-heres-how-to-restore-your-hs50-audio-output/"><u>Corsair Headset Mic Won't Work? Here's How to Restore Your HS50 Audio Output</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-13-pro-max-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 13 Pro Max with 3 Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-1087-download-now/"><u>Latest NVIDIA GeForce RTX 3090 Drivers: Compatible with Windows 10/8/7 - Download Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active2-assessment-timeless-style-meets-cutting-edge-features/"><u>Samsung Galaxy Watch Active2 Assessment: Timeless Style Meets Cutting-Edge Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sound-quality-face-off-google-nest-audio-versus-nest-mini-explored/"><u>Sound Quality Face-Off: Google Nest Audio Versus Nest Mini Explored</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-unresponsive-wireless-keyboards-on-pcs-with-windows-os/"><u>Step-by-Step Solutions for Unresponsive Wireless Keyboards on PCs with Windows OS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-amazon-kindle-oasis-luxury-e-reader-or-overpriced-gadget/"><u>The Complete Guide to Amazon Kindle Oasis: Luxury E-Reader or Overpriced Gadget?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-finest-portable-music-makers/"><u>The Finest Portable Music Makers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-perfect-mobile-wi-fi-companion-tp-link-wr902ac-travel-router-for-frequent-flyers/"><u>The Perfect Mobile Wi-Fi Companion: TP-Link WR902AC Travel Router for Frequent Flyers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-fixes-stop-missed-calls-on-your-iphone-once-and-for-all/"><u>Top 11 Fixes: Stop Missed Calls on Your iPhone Once and For All</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-arlo-video-doorbells-evaluated-seamless-integration-of-surveillance-and-intrusion-notifications/"><u>Top Arlo Video Doorbells Evaluated: Seamless Integration of Surveillance and Intrusion Notifications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-samsung-electronics-bargains-during-prime-shopping-event/"><u>Top Samsung Electronics Bargains During Prime Shopping Event</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-giant-a-thorough-review-and-assessment-of-the-iphone-12-pro-max/"><u>Unboxing the Giant: A Thorough Review and Assessment of the iPhone 12 Pro Max</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-fcpx-plugin-collection-free-and-paid-gems-for-2024/"><u>Updated The Ultimate FCPX Plugin Collection Free and Paid Gems for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wi-fi-mesh-is-its-value-clear/"><u>Wi-Fi Mesh: Is Its Value Clear?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: From Shadows Into Brilliance - The Transcendent Return of Demon's Souls with Cutting-Edge Graphics
-date: 2024-08-15T05:59:50.727Z
-updated: 2024-08-16T05:59:50.727Z
+date: 2024-10-26T06:26:10.443Z
+updated: 2024-10-29T18:47:05.011Z
 categories:
   - BestProducts
 description: This Article Describes From Shadows Into Brilliance - The Transcendent Return of Demon's Souls with Cutting-Edge Graphics
@@ -65,9 +65,6 @@ Lifewire / Yoona Wagener
 
  This latest iteration of the Access bundles first-rate perks like accepting or rejecting calls via Bluetooth calling, Google Pay, sleep and exercise logging, as well as several battery modes. While it lacks serious fitness tracking chops, the Access Gen 5E flourishes with luxe styling and everyday conveniences.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Luxe sensibility front and center
 
  If you’re interested in a feature-rich smartwatch that doubles as a statement fashion accessory, you won’t be disappointed by the Access Gen 5E. The 43-millimeter case sports an eye-catching pave pattern around the perimeter and sturdy aluminum construction. A substantial and responsive multipurpose button with the MK logo etched into it serves as a thoughtful accent. All of these details give this watch an elevated look from the very first glance.
@@ -79,8 +76,12 @@ Lifewire / Yoona Wagener
  New Wear OS users will appreciate the guided instructions that appear after pairing the watch to walk you through the various menus and swiping navigations. Even without this guidance, most menus are intuitive to use. My favorite menu was the quick-access menu that appears with a swipe-down motion. It contains a handy collection of shortcuts for basics like adjusting battery mode settings. It’s also home to the Theater Mode option, which turns the display off with a tap—especially convenient for dimming the screen at bedtime.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Comfort: Best outside of exercise
 
  Though it’s a slight contrast to the high-end details of the face, the MKGO version of the Access Gen 5E comes with a comfortable and flexible Michael Kors branded rubber strap. This added touch offers practicality and comfort without taking away from the upscale design fit for fancier occasions, too.
@@ -95,9 +96,6 @@ Lifewire / Yoona Wagener
 
  This feature made clasping the band speedy, but I still experienced a slightly loose fit overall. During normal wear, while relaxing, sleeping, or working at a desk, this wasn’t an issue. While running, the case’s considerable weight—which comes in at a hefty 54.6 grams—felt a little too bulky for high-impact activity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Performance: Good for the essentials
 
  The Access Gen 5E performs all of the usual smartwatch essentials with ease. Day-to-day connectivity features include Bluetooth-enabled calling, smartphone notifications, social media alerts, weather and calendar updates, and the convenience of Google Assistant.
@@ -113,8 +111,12 @@ Lifewire / Yoona Wagener
  Without onboard GPS, the only way to measure distance is to use a tethered GPS connection with a smartphone. Acquiring a signal was generally fast, but unfortunately, the watch’s summary was more than a little off. Compared with a Garmin, the Access Gen 5E overshot by 1 mile, and the pace registered at about 90 seconds faster. However, for walking workouts, step count differed only slightly compared with a Garmin smartwatch and the iOS Health app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Software: Friendliest to Android users
 
  As a[Wear OS](https://www.lifewire.com/best-tips-and-tricks-for-wear-os-4583030) device, it should be no surprise that the Access Gen 5E offers the most well-rounded experience to Android users. If that’s you, you’ll enjoy more seamless integration between your favorite[Google Play](https://www.lifewire.com/what-is-google-play-1616720) apps, whether for fitness or listening to music. And if you have more than one Wear OS device, you can pair both freely with the companion app. With an iPhone, I could pair only one device with the app, and Google Play connectivity was less than ideal.
@@ -122,9 +124,6 @@ Lifewire / Yoona Wagener
  Several conveniences work well across operating systems. The Bluetooth phone call feature for accepting or rejecting calls applies to both Android and iOS phones. The Access Gen 5E also comes preinstalled with the Spotify app, which makes controlling playback easy. Sadly, since Wear OS doesn’t support Spotify music storage, Android and iPhone users are limited to music playback alone.
 
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/wOui4ekzG1ONLwrBgvw2GBdAZ3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_05-cb3f4f64742c45c19c0dd82970916f73.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -138,18 +137,29 @@ Lifewire / Yoona Wagener
 
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/BT4hOR8gRPGpDwIsxjK35ikzSeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_02-503172a94cbc444389f491de49cf2646.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
  Regardless of the mode you choose, the watch will automatically enter a time-only mode once the battery hits 9 percent. This thoughtful touch allows this device to function as a straightforward watch as well. When you charge up, the handy magnetic USB charging cable is easy to attach to the device and provides quick charging: just a little over an hour, maximum.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Price: Luxury style at a friendlier entry point
 
  At about $250, the Access Gen 5E doesn’t require a premium buy-in like some of the latest, feature-loaded smartwatches from the Fossil and Michael Kors partnership. It’s also available from some retailers for less than $200, which adds even more value, given its solid smartwatch feature set.
 
 ![Michael Kors Access Gen 5E MKGO](https://www.lifewire.com/thmb/wVQl98NhNnzvvYRzkBP9Uzgvfw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Michael_Kors_Access_Gen_5E_MKGO_04-a6c2bd0b7bdd422d81b96dde2c213f72.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -171,15 +181,19 @@ Lifewire / Yoona Wagener
 
  The Michael Kors Access Gen 5E MKGO is an upscale smartwatch with luxury looks and a slightly sporty sensibility. Its Wear OS and Fossil Gen 5E foundation provide a solid foundation for everyday ease with features like Bluetooth calling, Google Assistant, and battery modes. And while it offers some fitness tracking, this wearable dazzles primarily as a lifestyle accessory.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 6](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Garmin Venu](https://www.lifewire.com/garmin-venu-review-4843916)
 * [Mobvoi TicWatch Pro 4G LTE](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Access Gen 5E MKGO
@@ -203,8 +217,6 @@ Lifewire / Yoona Wagener
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +224,21 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-supreme-storytelling-through-soundscape/"><u>[New] 2024 Approved Supreme Storytelling Through Soundscape</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-synchronizing-scenes-local-and-cloud-editing/"><u>[New] 2024 Approved Synchronizing Scenes Local & Cloud Editing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-taking-a-step-back-in-time-with-instagram-videos/"><u>[New] 2024 Approved Taking a Step Back in Time with Instagram Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-immortalizing-sportsmanship-techniques-for-gameplay-videos/"><u>[Updated] Immortalizing Sportsmanship Techniques for Gameplay Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-following-review-creative-options/"><u>In 2024, Following Review Creative Options</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-15-plus-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 15 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-rexing-v1-dashcam-a-perfect-blend-of-discretion-and-dependability/"><u>Inside the Rexing V1 Dashcam: A Perfect Blend of Discretion and Dependability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-it-time-to-switch-to-a-state-of-the-art-apple-watch-version/"><u>Is It Time to Switch to a State-of-the-Art Apple Watch Version</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-landscape-tripod-the-ultimate-travel-tool/"><u>Leading Landscape Tripod: The Ultimate Travel Tool</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-roadside-assistance-with-m-mock-1000as-powerhouse-a-detailed-review-of-an-exceptional-18k-mah-car-starter-kit/"><u>Mastering Roadside Assistance with M MOCK 1000A's Powerhouse: A Detailed Review of an Exceptional 18K mAh Car Starter Kit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/missing-link-in-the-latest-samsung-galaxy-tab-a-2020-in-depth-review-exposed/"><u>Missing Link in the Latest Samsung Galaxy Tab A (2020): In-Depth Review Exposed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-significance-of-reducing-camera-shake-with-software-tools-for-2024/"><u>The Significance of Reducing Camera Shake with Software Tools for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-and-managing-fb-picture-sharing/"><u>Understanding & Managing Fb Picture Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-color-grading-with-luts-in-pscc-for-2024/"><u>Unlocking Color Grading with LUTs in PSCC for 2024</u></a></li>
+</ul></div>
 

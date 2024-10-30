@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Mobile Usage: Discover the Powerful Battery of Moto G Play"
-date: 2024-08-15T05:55:22.023Z
-updated: 2024-08-16T05:55:22.023Z
+date: 2024-10-28T16:30:54.481Z
+updated: 2024-10-29T17:53:27.023Z
 categories:
   - BestProducts
 description: "This Article Describes Maximize Your Mobile Usage: Discover the Powerful Battery of Moto G Play"
@@ -37,19 +37,15 @@ Lifewire / Gannon Burgett
 
 4.2
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## MAXOAK 185Wh/50000mAh External Battery Power Bank
 
 ![Max Oak](https://www.lifewire.com/thmb/0sYGw-7sF6j5aqPA13sWjU-Y2b4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_5WebHero-5c8ff106c9e77c0001a926f8.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
@@ -74,16 +70,17 @@ Lifewire / Gannon Burgett
 
  While there's no shortage of options on the market, there aren’t many that can keep you going for days. That’s not the case with the MaxOak 50000mAh, an absolutely massive and robust charger that attempts to be the jack of all when it comes to charging gadgets on the go. It’s power comes at the cost of massive size and the charging ports aren’t too fast, but if you need tons of power, this is the battery pack to get.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## **Design: Bulky for travelers**
 
  First and foremost, this thing is a tank. At 2.77 pounds, it weighs many times more than most smartphones and nearly as much as most compact laptops. It also measures in at 8.1 x 5.3 x 1.3 inches (HWD), making it quite the behemoth to lug around. A small detail regarding the weight of the MaxOak is that it isn't balanced. The side without the ports holds a fair bit more weight than the side with the various ports. It's not a significant detail, but one you might notice with time.
 
 ![Max Oak](https://www.lifewire.com/thmb/SHsB9QkFaBbOrU6sw55TzNOqC7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_4Web-5c8ff4adc9e77c0001ff0b36.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
@@ -96,14 +93,18 @@ Lifewire / Gannon Burgett
 
  Charging the device is done via a small 16.8-volt 2.5A plug-in style port on the opposite side of the power button. Overall, the design is roughly what you'd expect from a 50000mAh laptop battery charger. Yes, it's heavy, yes it's quite beefy in size, but it comes with the territory.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Simple to start, but yet another adapter to carry around**
 
  Setting up the MaxOak laptop battery charger is as simple as it gets. After removing it from its unbranded cardboard box, it's simply a matter of plugging it in and getting it charged up completely. Our device came charged at roughly 50% based on the onboard[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) battery indicator, but to complete our tests we wanted it charged entirely, which leads us to our biggest complaint about this charger.
 
  The point of a charger is to have extra battery power on hand when needed so you don't have to carry around unnecessary cables when traveling. Unfortunately, the MaxOak battery pack doesn't use any kind of USB or standardized port. Rather than charging it with a[USB Type-C](https://www.lifewire.com/usb-c-4149490) or even a micro-USB port, the MaxOak battery pack relies on its own proprietary power supply that's nearly as large as most laptop chargers. Sure, the 50000mAh onboard is likely enough that you could leave both the battery pack charger and your laptop charger behind for most events, but eventually you'll run out of juice and rather than reaching for a cable you would probably already have in your bag, you're stuck bringing along a proprietary charger.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: Slow and steady wins this race**
 
@@ -143,14 +144,18 @@ Lifewire / Gannon Burgett
 
  Overall, the MaxOak 50000mAh is a decent power bank with massive capacity. However, it isn't designed with newer computers and devices in mind. If you have an older laptop on hand that isn't a MacBook (the MaxOak doesn't support any MagSafe connectors) or doesn't use USB Type-C for charging, it'll get the job done. But if your smartphone or laptop is newer and relies on more recent and powerful connections, you're going to want to look elsewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Jackery PowerBar Battery Pack](https://www.lifewire.com/jackery-powerbar-battery-pack-review-4589480)
 * [ChargeTech 27000mAh Battery Pack](https://www.lifewire.com/chargetech-27000mah-battery-pack-review-4589409)
 * [Anker PowerCore+ 26800 Battery Pack Bundle](https://www.lifewire.com/anker-powercore-26800-battery-pack-bundle-review-4589459)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -167,14 +172,11 @@ Lifewire / Gannon Burgett
 * Warranty  One year
 * Compatibility  Android, iOS
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +185,24 @@ Lifewire / Gannon Burgett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-best-tools-in-magix-video-pro-x-for-editors/"><u>[New] 2024 Approved The Best Tools in Magix Video Pro X for Editors</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-game-performance-with-smart-disk-management-in-steam/"><u>Boost Game Performance with Smart Disk Management in Steam</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-luminouslabs-top-10-free-and-paid-filters-compare/"><u>In 2024, LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-radpowers-radcity-5-plus-exceptional-functionality-with-a-heavier-build/"><u>In-Depth Review of RadPower's RadCity 5 Plus: Exceptional Functionality with a Heavier Build</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/income-accumulation-with-cosmetic-videos-for-2024/"><u>Income Accumulation with Cosmetic Videos for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/incorrect-applications-for-tig-welding-may-involve-scenarios-where-other-properties-such-as-ductility-are-the-primary-concern-rather-than-precision-and-fini140/"><u>Incorrect Applications for TIG Welding May Involve Scenarios Where Other Properties, Such as Ductility, Are the Primary Concern Rather than Precision and Finish.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-fire-tv-edition-toshibas-55lf711u20-review-and-ideal-features-for-prime-video-enthusiasts/"><u>Innovative Fire TV Edition: Toshiba's 55LF711U20 Review & Ideal Features for Prime Video Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ipad-pro-review-how-apples-latest-m1-2-redefines-portable-power-for-professionals-and-gamers-alike/"><u>IPad Pro Review - How Apple's Latest (M1, 2지급) Redefines Portable Power for Professionals and Gamers Alike</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-caixun-75-inch-4k-android-tv-a-steal-our-expert-review-says-yes/"><u>Is the Caixun 75-Inch 4K Android TV a Steal? Our Expert Review Says Yes!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-voice-transcription-tools-for-optimal-efficiency/"><u>Leading Voice Transcription Tools for Optimal Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lg-um7300-49-4k-television-evaluation-affordable-entry-level-4k-viewing-experience/"><u>LG UM7300 49 4K Television Evaluation: Affordable Entry-Level 4K Viewing Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-elegance-and-precision-in-the-michael-kors-access-gen-5e-mkgo-watch-review/"><u>Mastering Elegance and Precision in the Michael Kors Access Gen 5E MKGO Watch Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-adding-a-dvd-codec-on-your-windows-11-pc/"><u>Step-by-Step Guide: Adding a DVD Codec on Your Windows 11 PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/t5-unboxed-the-revolution-in-action-filming/"><u>T5 Unboxed - The Revolution in Action Filming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-repairing-your-webex-microphone-4-key-strategies/"><u>The Ultimate Guide to Repairing Your Webex Microphone : 4 Key Strategies</u></a></li>
+</ul></div>
 

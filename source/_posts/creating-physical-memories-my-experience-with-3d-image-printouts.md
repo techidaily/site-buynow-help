@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2024-10-21T23:35:49.219Z
-updated: 2024-10-23T23:52:11.992Z
+date: 2024-10-25T07:57:50.407Z
+updated: 2024-10-29T22:15:35.244Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  Photos are 2D, and so surely you'd only want to print them using a normal everyday 2D printer? However, it turns out you can create a "lithophane" from a photo and turn your snaps into actual plastic models.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Is a Lithophane Exactly?
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  True lithophanes are porcelain pieces that have designs pressed into them when the porcelain is soft. Then, when held up to a light, the image becomes visible. The different thicknesses of the porcelain let through different amounts of light, and you effectively have a grayscale image.
 
  While working with porcelain isn't something you can do at home typically, if you have a 3D printer you can emulate the same effect and make a lithophane by printing it. When you hold the lithophane up to the light, your original image appears. It's a neat effect and, thanks to the flexibility of 3D printing, you can make all sorts of interesting decorations using this method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Converting an Image to a Lithophane
 
@@ -45,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
@@ -58,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
@@ -69,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Printing Your Lithophane
 
@@ -108,17 +108,18 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-navigating-obs-livestream-integration-for-maximum-facebook-reach/"><u>[New] 2024 Approved Navigating OBS Livestream Integration for Maximum Facebook Reach</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-satirical-space-the-ultimate-guide-to-20plus-humorous-metaverse-imagery/"><u>[New] Satirical Space The Ultimate Guide to 20+ Humorous Metaverse Imagery</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-crafting-a-continuous-youtube-video-stream-from-separate-files/"><u>[Updated] 2024 Approved Crafting a Continuous Youtube Video Stream From Separate Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-credibility-truthful-or-deceptive/"><u>ChatGPT's Credibility: Truthful or Deceptive?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparative-breakdown-why-apples-m1-powered-mac-mini-outshines-its-rivals/"><u>Comparative Breakdown: Why Apple's M1 Powered Mac Mini Outshines Its Rivals</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-honor-90-gt-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor 90 GT Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-issues-with-zombie-army-4-dead-war-pc-gaming-solutions/"><u>Fixing Issues with Zombie Army 4: Dead War - PC Gaming Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/most-effective-kids-safe-router-models-reviewed/"><u>Most Effective Kids-Safe Router Models Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ratchet-and-clank-reimagined-a-nostalgic-yet-fresh-video-game-critique/"><u>Ratchet & Clank Reimagined: A Nostalgic Yet Fresh Video Game Critique</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-realme-narzo-60-pro-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme Narzo 60 Pro 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-the-hp-omen-obelisk-stands-out-top-gaming-performance-at-incredible-prices/"><u>Why the HP OMEN Obelisk Stands Out: Top Gaming Performance at Incredible Prices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-first-contact-with-freight-elevating-the-opening-moment/"><u>[New] First Contact with Freight Elevating the Opening Moment</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-maximizing-visual-clarity-on-kinemaster-projects/"><u>[New] Maximizing Visual Clarity on Kinemaster Projects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-poster-design-removing-borders-from-canva-images/"><u>[New] Perfect Poster Design Removing Borders From Canva Images</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ghostly-glimpses-video-review/"><u>Ghostly Glimpses Video Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-ace-2-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus Ace 2 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-streaming-of-xbox-games-in-discord-networks/"><u>Navigating the Streaming of Xbox Games in Discord Networks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/showdown-of-smartwatches-the-apple-watch-series-9-versus-the-fitbit-charge-6/"><u>Showdown of Smartwatches: The Apple Watch Series 9 Versus the Fitbit Charge 6</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-iphone-models-ideal-for-gaming-enthusiasts/"><u>The Ultimate Guide to iPhone Models Ideal for Gaming Enthusiasts!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-of-the-garmin-forerunner-45-your-ideal-companion-for-tracking-running-performance/"><u>Unveiling the Benefits of the Garmin Forerunner 45: Your Ideal Companion for Tracking Running Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-newest-features-in-amazons-latest-echo-device-the-4gen-update/"><u>Unveiling the Newest Features in Amazon's Latest Echo Device - The 4Gen Update</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-the-top-8-instagram-ae-design-choices-for-2024/"><u>Unveiling the Top 8 Instagram AE Design Choices for 2024</u></a></li>
 </ul></div>
 

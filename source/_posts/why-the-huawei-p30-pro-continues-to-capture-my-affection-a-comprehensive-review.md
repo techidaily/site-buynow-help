@@ -1,7 +1,7 @@
 ---
 title: Why the Huawei P30 Pro Continues to Capture My Affection - A Comprehensive Review
-date: 2024-08-15T05:56:29.970Z
-updated: 2024-08-16T05:56:29.970Z
+date: 2024-10-26T02:11:38.006Z
+updated: 2024-10-30T00:35:16.667Z
 categories:
   - BestProducts
 description: This Article Describes Why the Huawei P30 Pro Continues to Capture My Affection - A Comprehensive Review
@@ -39,12 +39,16 @@ Lifewire / Anduy Zahn
 
 4.7
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fitbit Charge 4 Fitness Tracker
 
 ![Fitbit Charge 4](https://www.lifewire.com/thmb/3KZYnLSyn9OGGXZdp02JH2_4wB8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Fitbit-Charge-4-Fitness-Tracker-1-c163fbceed1748a6bd3de7883ab66a4d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Anduy Zahn
 
@@ -85,9 +89,6 @@ Lifewire / Anduy Zahn
 
  After this, it was time to actually pair the Charge 4 to my phone, and after an annoying Squaretrade “Fitbit protection plan” ad, I needed to install an update. While that was downloading I was given a list of first-time user guides. This was useful, with plenty of information about how to use the device, though I would have preferred a printed manual. After the device is up to date, a further set of animated guides showed me the various controls and gestures used to navigate the Charge 4\. Finally, the app had a few product care tips and another annoying ad (this time for a Fitbit Premium account) and was ready to go.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Comfort: A good fit**
 
  As someone with ridiculously large wrists, I really appreciated that the Charge 4 comes with a larger watch band. It was easy to switch out the band by depressing a recessed button on the underside of the watch, and between the two included bands, the Charge 4 should fit just about anyone. I was surprised by just how comfortable this smartwatch was for me; the larger band has plenty of room to spare even on my wrists.
@@ -95,8 +96,18 @@ Lifewire / Anduy Zahn
  As someone with ridiculously large wrists, I really appreciated that the Charge 4 comes with a larger watch band.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: A digital fitness coach**
 
  No fitness tracker is 100% accurate, and the Charge 4 is no exception, but that’s not as much of a problem as you might assume. Though everything from step counts to elevation change to calories expended and consumed has margins for error, they nonetheless give you goals to work towards, and this rough data is perfectly adequate to help you become more conscious of your physical health.
@@ -110,11 +121,15 @@ Lifewire / Anduy Zahn
  I didn’t find personalized exercise reminders, the workout intensity map, or exercise tracking to be particularly helpful, but that's very much a matter of personal preference. In terms of navigation and functionality, the Charge 4 functions very well without much in the way of lag, and the interface is easy to navigate. The only problem comes when you get below 20% battery. A power-saving mode kicks in at that point and the functionality of the watch drops significantly. You’ll want to charge it before it gets to this point.
 
 ![Fitbit Charge 4](https://www.lifewire.com/thmb/UlCfm0YzhPSZMR3WWRs3oeCWPsA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Charge-4-Fitness-Tracker-2-6afa07ba83e74effb1bd3521b2b43391-3287de2174dc42359f46f06e6576d80b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Intuitive but ad infested**
 
@@ -123,24 +138,22 @@ Lifewire / Andy Zahn
  One thing to consider is that some features such as sleep score details and custom challenges are locked behind a steep paywall that will run you $10 a month or $80 per year. It’s pretty easy to set up a subscription like this, never use it, and forget to cancel it until years later when you’ve spent a hefty chunk of change on the service. Annoyingly, the ad for this premium service is permanently affixed to the toolbar in the app.
 
 ![Fitbit Charge 4](https://www.lifewire.com/thmb/wFO4EEqsgPPy2Dq-eUgUTZ1q70A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fitbit-Charge-4-Fitness-Tracker-3-38e2a0e1ea5a46ee85939b8dec6d6a48.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery Life: Awesome, but with caveats**
 
  The Charge 4 lasts about six days on a charge under typical use, which is better than most advanced smartwatches. It charges quickly and most of the time isn’t something you have to worry about.
 
  However, I did run into a few issues worth mentioning. First of all, when the battery drops below 20% the Charge 4 seems to go into a power-saving mode that limits functionality. Secondly, using features like exercise tracking that use the GPS will drain the battery much more quickly. When I embarked with a full charge on a two-day backpacking trip and set the Charge 4 to record the hike as an exercise it only lasted me through roughly 75% of the two days of trekking.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## **Price: Good value**
 
  With an MSRP of $150 the Fitbit Charge 4 is somewhat expensive but fairly priced for a basic smartwatch. However, extra accessories and subscription services can quickly add to the cost.
@@ -154,6 +167,13 @@ Lifewire / Andy Zahn
  **Whether you’re looking for a minimalist smartwatch or an effective fitness tracker, the Fitbit Charge 4 is a generally excellent device.**
 
  I was frankly shocked by how much I have come to like the Fitbit Charge 4\. It’s as functional as it’s good looking, and provides both reasonably accurate fitness tracking and well integrated basic smartwatch functionality. Despite a few minor flaws such as a subscription paywall for some features and battery hogging GPS I can heartily recommend the Charge 4.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,8 +193,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +200,23 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-twitch-recapture-method-restart-livestreams/"><u>[New] 2024 Approved Twitch Recapture Method Restart Livestreams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-memories-in-motion-the-premier-archive-for-tweeter-gifs/"><u>[Updated] In 2024, Memories in Motion The Premier Archive for Tweeter GIFs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capture-your-moments-virtually-discover-manycam-the-ultimate-live-broadcast-and-online-webcam-solution/"><u>Capture Your Moments Virtually - Discover ManyCam, the Ultimate Live Broadcast and Online Webcam Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-test-and-evaluation-of-kooteks-laptop-cooling-pad-top-performance-choice/"><u>Comprehensive Test and Evaluation of Kootek's Laptop Cooling Pad - Top Performance Choice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/construct-and-grow-unveiling-the-addictive-gameplay-of-cities-skylines/"><u>Construct & Grow: Unveiling the Addictive Gameplay of Cities: Skylines</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creative-sound-blaster-zxr-2013s-top-gaming-headset-from-creative-labs-explored/"><u>Creative Sound Blaster ZXR: 2013'S Top Gaming Headset From Creative Labs Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discerning-sound-selection-top-2024-cd-players-and-changers/"><u>Discerning Sound Selection: Top 2024 CD Players & Changers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/durable-sunbritetv-554k-ultra-hd-outdoor-smart-tv-with-vivid-hdr-display-built-to-endure-the-elements/"><u>Durable SunBriteTV 554K Ultra HD Outdoor Smart TV with Vivid HDR Display - Built to Endure the Elements!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-choices-for-parental-control-networking-devices-a-2astock-best-list/"><u>Essential Choices for Parental Control Networking Devices - A 2Astock Best List</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expand-your-networks-horizon-with-netgear-nighthawk-x6s-signal-booster/"><u>Expand Your Network's Horizon with Netgear Nighthawk X6S Signal Booster</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-keys-best-offers/"><u>Mastering Windows 11 Keys: Best Offers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-gpu-underutilization-in-warzone-when-playing-on-windows-11-systems/"><u>Resolving GPU Underutilization in Warzone When Playing on Windows 11 Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-screenshot-synergy-for-pc-users/"><u>Seamless Screenshot Synergy for PC Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/ultimate-list-of-the-most-efficient-dvd-to-mkv-encoders-for-windows-computers/"><u>Ultimate List of the Most Efficient DVD to MKV Encoders for Windows Computers</u></a></li>
+</ul></div>
 

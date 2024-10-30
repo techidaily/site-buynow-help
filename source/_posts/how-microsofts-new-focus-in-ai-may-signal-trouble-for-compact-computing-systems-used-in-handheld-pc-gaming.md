@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
-date: 2024-10-19T06:19:47.673Z
-updated: 2024-10-23T22:00:05.866Z
+date: 2024-10-26T17:34:55.769Z
+updated: 2024-10-30T02:42:51.083Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
 
  By far the most popular chips powering the current generation of [handheld gaming PCs](https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-devices-by-toms-authority-in-hardware/) are AMD’s [APUs](https://youtube-videos.techidaily.com/diy-split-screen-video-tutorials-for-youtube-enthusiasts-for-2024/), which combine a powerful mobile [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) with a potent [integrated](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/) [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/), allowing these handheld devices to run the latest and greatest games.
@@ -39,10 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _AMD_
@@ -65,13 +58,6 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -81,10 +67,16 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Intel
@@ -92,6 +84,19 @@ Intel
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
@@ -102,6 +107,13 @@ Intel
  The thing that’s interesting to me is Qualcomm’s focus on gaming, with the company [claiming](https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games) at this year’s Game Developers Conference that many games “should just work” on devices equipped with the Snapdragon X Elite SoC. This is great news that shows Qualcomm is serious about the gaming prowess of the upcoming ARM-based Windows laptops. Qualcomm has also shown its reference design laptops [running](https://www.pcworld.com/article/2284554/qualcomm-says-snapdragon-x-elite-kicks-intel-core-ultras-butt-too.html)[_Control_](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)[and _Baldur’s Gate 3_](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers) at playable frame rates, another proof that they are taking this seriously.
 
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Qualcomm 
 
@@ -134,22 +146,20 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-brilliant-filters-to-illuminate-videography/"><u>[Updated] Brilliant Filters to Illuminate Videography</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-your-smartphone-iphones-or-android-devices-whats-best-suited-for-you/"><u>Choosing Your Smartphone: IPhones or Android Devices - What's Best Suited for You?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevate-your-power-needs-with-our-picks-for-the-best-rechargeable-battery-chargers/"><u>Elevate Your Power Needs with Our Picks for the Best Rechargeable Battery Chargers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhancing-your-driving-experience-with-the-lihan-lhfm1-039-bluetooth-transmitter-a-thorough-product-overview-and-evaluation/"><u>Enhancing Your Driving Experience with the LIHAN LHFM1 039 Bluetooth Transmitter - A Thorough Product Overview and Evaluation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/essential-online-websites-for-acquiring-thrones-rhythms/"><u>Essential Online Websites for Acquiring Thrones Rhythms</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-escort-max-360-a-next-generation-radar-detector-featuring-gps-technology-and-extra-functions/"><u>Expert Insights on the Escort Max 360: A Next-Generation Radar Detector Featuring GPS Technology and Extra Functions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Infinix Note 30 5G</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-social-media-gold-rush-prime-hashes-for-viewership/"><u>In 2024, Social Media Gold Rush Prime Hashes for Viewership</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/innovative-morning-routine-with-heimvisions-sunrise-alarm-clock-a80-a-comprehensive-review/"><u>Innovative Morning Routine with HeimVision's Sunrise Alarm Clock A80: A Comprehensive Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/join-forces-in-elden-ring-against-enemies-fix-guide-for-multiplayer-issues/"><u>Join Forces in Elden Ring Against Enemies - Fix Guide for Multiplayer Issues</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lx310bt-sony-bluetooth-player-thin-and-stylish/"><u>LX310BT Sony Bluetooth Player - Thin & Stylish</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-savings-with-amazing-offers-on-benq-monitors-and-projectors-for-prime-day-shoppers/"><u>Maximize Savings with Amazing Offers on BenQ Monitors & Projectors for Prime Day Shoppers</u></a></li>
-<li><a href="https://win-trending.techidaily.com/professionelle-erholung-von-formatierten-ntfs-partitionen-mit-myrecovery/"><u>Professionelle Erholung Von Formatierten NTFS-Partitionen Mit MyRecovery</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionize-your-homes-atmospheric-insights-with-top-of-the-line-stations/"><u>Revolutionize Your Home's Atmospheric Insights with Top-of-the-Line Stations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964929751-step-by-step-tutorial-finding-and-upgrading-synaptic-drivers-in-windows-made-simple/"><u>Step-by-Step Tutorial: Finding & Upgrading Synaptic Drivers in Windows Made Simple</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-lg-c9-oled-65-4k-television-analysis-a-dream-come-true-for-avid-viewers/"><u>Ultimate LG C9 OLED 65 4K Television Analysis - A Dream Come True for Avid Viewers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-best-of-the-best-compilation-of-top-10-4k-phone-cameras-for-2024/"><u>[New] Best of the Best Compilation of Top 10 4K Phone Cameras for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-echoes-of-antiquity-tracing-the-footsteps-of-ancient-scribes-for-2024/"><u>[New] Echoes of Antiquity Tracing the Footsteps of Ancient Scribes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-navigating-the-use-of-look-up-tables-in-photoshop-cc-for-2024/"><u>[New] Navigating the Use of Look-Up Tables in Photoshop CC for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tech-driven-pleasure-exploring-vr-in-media/"><u>[New] Tech-Driven Pleasure Exploring VR in Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dodging-doubts-a-guide-to-vloggings-most-common-anxieties/"><u>[Updated] 2024 Approved Dodging Doubts A Guide to Vlogging's Most Common Anxieties</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-ssls-secure-for-how-much-less/"><u>Budget-Friendly SSLs: Secure for How Much Less?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-leading-smartwatch-models/"><u>Discover the Leading Smartwatch Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-cost-effective-quality-with-our-comprehensive-oneplus-nord-n100-review/"><u>Experience Cost-Effective Quality with Our Comprehensive OnePlus Nord N100 Review</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/passive-watchers-to-profit-youtube-monetization/"><u>From Passive Watchers To Profit YouTube Monetization</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-relaxation-techniques-through-smarter-sleep-tools/"><u>Next-Level Relaxation Techniques Through Smarter Sleep Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-v-purse-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor V Purse</u></a></li>
+<li><a href="https://win-forum.techidaily.com/simple-steps-to-remove-kernel-memory-snapshots-in-windows-10/"><u>Simple Steps to Remove Kernel Memory Snapshots in Windows ‪10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-for-ambients-ws-1002-wifi-weather-station-exquisite-quality-with-a-premium-tag/"><u>Top Review for Ambient's WS-1002 WiFi Weather Station: Exquisite Quality with a Premium Tag</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-in-depth-analysis-of-apples-2020-mac-mini-with-m1-chip-dominates-over-rivals/"><u>Unveiling the Powerhouse: In-Depth Analysis of Apple's 2020 Mac Mini with M1 Chip Dominates Over Rivals</u></a></li>
 </ul></div>
 

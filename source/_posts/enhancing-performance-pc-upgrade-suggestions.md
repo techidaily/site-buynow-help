@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Performance: PC Upgrade Suggestions"
-date: 2024-08-15T06:00:14.664Z
-updated: 2024-08-16T06:00:14.664Z
+date: 2024-10-22T23:45:34.590Z
+updated: 2024-10-29T23:41:40.820Z
 categories:
   - BestProducts
 description: "This Article Describes Enhancing Performance: PC Upgrade Suggestions"
@@ -38,8 +38,12 @@ Lifewire / Bill Thomas
 3.4
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Netgear C3700 Cable Modem Router
 
 ![Netgear C3700](https://www.lifewire.com/thmb/CWSAqFXf9klr-Fs5mU-YkCpwF9Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4082541-5-1-668cca140a8e4c1ba59c13f4f2a8d8ec.jpg)
@@ -75,16 +79,10 @@ Lifewire / Bill Thomas
  This definitely works in the Netgear C3700’s favor. The[wireless performance](https://www.lifewire.com/ways-to-boost-a-wifi-signal-818296) is already weak (which we’ll go into a bit later), so the fact that you can leave it out and unobscured is a benefit.
 
 ![Netgear C3700](https://www.lifewire.com/thmb/kBtdcSRxoIsQvqmnO6OVYnfZ9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-4-ad3408c39a524e14a6cebcce10d3be44.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
 ![Netgear C3700](https://www.lifewire.com/thmb/sNdotwRQaaANrcOOFjoNRrlmeak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-3-24f328c303ef44929cc9f49334ac5fb8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
 
@@ -92,9 +90,6 @@ Lifewire / Bill Thomas
 
  Lifewire / Bill Thomas
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Setup: Nice and simple
 
  If you’ve ever set up a cable modem, then you’ll breeze through the setup on the C3700\. We just unplugged our existing cable modem, plugged all the cables into this new one, and waited for the lights to turn on. Then all we had to do was phone our ISP to activate it.
@@ -105,6 +100,13 @@ Lifewire / Bill Thomas
 
  We weren’t impressed with the wireless performance, but the wired performance surprised us.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connectivity: Everything a small home needs
 
  The Netgear C3700 is a modem-router combo, which means, hypothetically, it’s the only networking device many people will need. On top of the two Gigabit[Ethernet](https://www.lifewire.com/what-is-an-ethernet-cable-817548) ports, you’re also getting dual antennas, which makes this a dual-band device (2.4GHz and 5.0GHz). It’s not the fastest wireless connection in the world, though—the Netgear C3700 is rated for N600 speeds, something we haven’t seen in a few years.
@@ -114,8 +116,12 @@ Lifewire / Bill Thomas
  There is also a USB 2.0 port around the back where you can plug in a hard drive or a printer for network access.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Network Performance: Great when wired, but wireless speeds lag
 
  We didn’t exactly have high hopes for the C3700 and its N600 wireless rating. At its peak during testing, we reached wireless speeds of 130Mbps, but that didn’t last—with multiple devices connected and in use, we were seeing speeds as low as 40Mbps just a few feet away from the router.
@@ -125,8 +131,12 @@ Lifewire / Bill Thomas
  Thankfully, this means that an attached router would be able to keep up, which is what we’d recommend. The wireless performance isn’t great and you’re going to have a much better experience with a separate router.
 
 ![Netgear C3700](https://www.lifewire.com/thmb/lPF7EXzNUljkXFySwthTmhwRbiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-5-6-1c4a748dd9b644c39d8bd8c47180c74f.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Bill Thomas
@@ -147,9 +157,6 @@ Lifewire / Bill Thomas
 
  For an 8x4 DOCSIS 3.0 cable modem with a lightweight router built in, this price is about par for the course. If you can find the Netgear C3700 for under $100, then it might be worth buying for the cable modem performance and pairing it with a solid wireless router.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Netgear C3700 vs. Arris Surfboard SBG6700-AC
 
  The Arris Surfboard SBG6700-AC has the same 8x4 DOCSIS 3.0 cable rating but ups the wireless support to AC1600 speeds. This still isn’t top-of-the-line wireless speed—and it is a bit more expensive at $119 MSRP—but that extra cash is worth the improved network performance. However, the Arris model does not have a USB 2.0 port for network-attached storage or printers.
@@ -158,6 +165,13 @@ Lifewire / Bill Thomas
 
  **A solid modem, but the poor wireless performance undermines its appeal as a combo device.**
  The cable modem’s performance is great, but the wireless performance is just not there. If all you want is the cheapest possible modem with built-in dual-band Wi-Fi, then the Netgear C3700 checks those boxes. But we think you’re better off spending more for better performance or just buying two standalone devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -190,8 +204,6 @@ Lifewire / Bill Thomas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +211,22 @@ Lifewire / Bill Thomas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-activate-grid-in-google-meet-for-full-participant-display/"><u>[New] 2024 Approved Activate Grid in Google Meet for Full-Participant Display</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-soniccapture-pro-review-and-download-steps/"><u>[New] SonicCapture Pro Review & Download Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-automatic-cycling-of-videos-on-iphone-ease/"><u>[Updated] In 2024, Automatic Cycling of Videos on iPhone Ease</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tips-for-incorporating-songs-into-social-media-video-content/"><u>[Updated] Tips for Incorporating Songs Into Social Media Video Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-insta-savvy-the-top-10-tags-that-matter-most/"><u>2024 Approved Insta Savvy The Top 10 Tags That Matter Most</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mmakers-dream-the-8-best-no-fee-video-editors-on-the-market/"><u>A Filmmaker's Dream The 8 Best No-Fee Video Editors on the Market</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/editing-video-aspect-ratios-for-common-display-types-tips-and-techniques-for-169-n3-53-and-32-configurations/"><u>Editing Video Aspect Ratios for Common Display Types - Tips and Techniques for 16:9, N:3, 5:3 & 3:2 Configurations</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-preventing-and-fixing-windows-1110-zoom-crashes/"><u>Mastering Stability: Preventing and Fixing Windows 11/10 Zoom Crashes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/minecraft-campfire-stories-collection-examined-is-it-a-must-have-for-your-game-library/"><u>Minecraft Campfire Stories Collection Examined: Is It a Must-Have for Your Game Library?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/osteolytic-lesions-can-lead-to-complications-such-as-pain-fractures-and-spinal-cord-compression/"><u>Osteolytic Lesions Can Lead to Complications Such as Pain, Fractures, and Spinal Cord Compression</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-the-ultimate-guide-to-siri-enabled-streaming-on-apple-tv-4k/"><u>Review: The Ultimate Guide to Siri-Enabled Streaming on Apple TV 4K</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sumind-bt7-the-following-message-is-from-the-us-census-bureau-and-provides-information-on-how-many-people-live-in-a-particular-region-such-as-a-state-or-cou158/"><u>Sumind BT7 The Following Message Is From the U.S. Census Bureau and Provides Information on How Many People Live in a Particular Region, Such as a State or County. The Numbers Come From the Most Recent Census Data Available at that Time:</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-verdict-on-the-galaxy-s20-fe-with-5g-tech-reviews-and-consumer-ratings/"><u>The Definitive Verdict on the Galaxy S20 FE with 5G: Tech Reviews and Consumer Ratings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-king-of-gaming-stations-a-detailed-examination-of-the-xbox-one-x/"><u>The King of Gaming Stations - A Detailed Examination of the Xbox One X</u></a></li>
+</ul></div>
 

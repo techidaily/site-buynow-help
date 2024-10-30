@@ -1,7 +1,7 @@
 ---
 title: "Netgear's Speed Demon Revealed: An In-Depth Look at the High-Performance RAX120 Router"
-date: 2024-08-15T05:55:27.382Z
-updated: 2024-08-16T05:55:27.382Z
+date: 2024-10-29T03:53:49.717Z
+updated: 2024-10-30T02:21:22.615Z
 categories:
   - BestProducts
 description: "This Article Describes Netgear's Speed Demon Revealed: An In-Depth Look at the High-Performance RAX120 Router"
@@ -37,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ## Netgear Nighthawk X4 AC2200 Wi-Fi Mesh Extender (EX7300)
 
 ![Nighthawk X4 Wi-Fi Mesh Extender](https://www.lifewire.com/thmb/pbxpBfhizGFobbPawynEvJ-QMRE=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkX4_HeroHoriz-992cc019c1e64ea59b9ce72905f0381c.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 [View On Amazon $69](https://www.amazon.com/dp/B01D6JEMWS?tag=lifewire-onsite-prod-20&ascsubtag=4846224%7Cn858b25cedf594108aeff6df6076e962e00%7CB01D6JEMWS) [View On Walmart $149](https://www.walmart.com/ip/NETGEAR-Nighthawk-AC2200-X4-WiFi-Mesh-Extender-EX7300-100NAS/53552961)
 
@@ -62,8 +59,12 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  It also has advanced technologies such as MU-MIMO and beamforming, so it feels like a fully capable device. You’ll pay a bit more for this one compared to some of the entry-level plug-in Wi-Fi extenders, but if your home is plagued by wireless dead zones or you just want to ensure a more consistent high-speed signal throughout your dwelling, then this is a strong option. I tested the Netgear Nighthawk X4 for several days in my house for a variety of needs, including everyday work, playing online games, and streaming media.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Hearty, but still compact**
 
  At just over 6 inches tall and 3 inches wide, the Netgear Nighthawk X4 Wi-Fi Mesh Extender might look a little too large to hang from a wall outlet, but most of the weight is concentrated at the base where it plugs in. It’ll only take up one plug on an outlet, leaving the other free, and it stayed securely in place during use.
@@ -73,15 +74,16 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  On the left side are On/Off and WPS connectivity buttons, as well as a switch that lets you swap between using the device as an extender (to repeat an existing Wi-Fi signal) or an access point, which would create a wireless network from a plugged-in Ethernet cable from your modem. That[Ethernet port](https://www.lifewire.com/what-is-an-ethernet-port-817546) is on the bottom of the device, and when in the typical extender mode, you can use it to plug in a wired device to access the wireless network.
 
 ![Netgear Nighthawk X4 (EX7300) Wi-Fi Mesh Extender](https://www.lifewire.com/thmb/ahWiBPBlk75slmsmgc-c4cnSgf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkX4_03-6a6cab81b4ec4da39c89aa3a92cb1f16.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Simple setup, awkward app**
 
  Setting up the Netgear Nighthawk X4 essentially means capturing the signal from your Wi-Fi router and then finding an ideal spot to place the extender to bring Wi-Fi into dead zones and areas with an inconsistent signal.
@@ -99,8 +101,12 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Connectivity: Steady, stellar speeds**
 
  The Netgear Nighthawk X4 worked as advertised, delivering strong speeds, improving upon the signal available from the router in the further corners of my house, and even holding a 5GHz signal pretty well when a fair distance away from the extender. The[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) (multiple user, multi-in multi-out) design allows for more simultaneous signals while beamforming helps hone a signal towards its requesting device. All told, these technological advancements seem to help deliver strong wireless performance.
@@ -119,13 +125,17 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Worth the investment**
 
  At an MSRP of $150 but often seen now for $130, the Netgear Nighthawk X4 Wi-Fi Mesh Extender costs a fair bit more than a simpler entry-level extender, but the strong performance—especially on the 5GHz band—makes it a worthy investment if you plan on playing online games or streaming extensive media. There are much cheaper Wi-Fi extenders out there, however (like the one below), if your needs aren’t very extensive.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## **Netgear Nighthawk X4 vs. TP-Link RE200**
 
 [TP-Link’s RE200](https://www.lifewire.com/tp-link-re200wi-fi-range-extender-review-4846136) (view at[Walmart](https://www.walmart.com/ip/42300087) ) is similar in its plug-in approach, but it’s much smaller and costs a fraction of the price at $30\. It also gave me solid connectivity on 2.4GHz, although the 5GHz performance left something to be desired.
@@ -149,14 +159,11 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 * Ports  1x Ethernet
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,4 +172,19 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-window-communication-apps-5-1-top-8-list/"><u>[New] 2024 Approved Window Communication Apps #5-#1 Top 8 List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-reveal-hidden-gems-top-12-steps-to-make-your-fb-videos-show-up-for-2024/"><u>[Updated] Reveal Hidden Gems Top 12 Steps to Make Your FB Videos Show Up for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024chromecast/"><u>2024年におすすめのChromecast非対応ビデオを視聴するためのヒント</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-v30t-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme V30T without App | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-installing-the-fandango-app-on-amazon-fire-tv-easy-steps/"><u>Guide: Installing the Fandango App on Amazon Fire TV - Easy Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/most-compelling-5-ios-podcast-solutions/"><u>Most Compelling 5 iOS Podcast Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-review-a-closer-look-at-features-camera-and-more-on-google-pixel-6/"><u>Unboxing & Review: A Closer Look at Features, Camera, and More on Google Pixel 6</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-professional-photo-editing-skills-with-darktables-free-linux-and-macos-raw-processor/"><u>Unleash Professional Photo Editing Skills with Darktable's FREE Linux & macOS RAW Processor.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-budget-friendly-phones-with-a-moto-g-stylus-review/"><u>Unlocking the Potential of Budget-Friendly Phones with a Moto G Stylus Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-strengths-of-nokias-72-a-comprehensive-look-at-a-mid-range-market-disruptor/"><u>Unpacking the Strengths of Nokia's 7.2: A Comprehensive Look at a Mid-Range Market Disruptor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-high-performance-capabilities-of-fujitsus-ix1600-document-scanner-desktop-review/"><u>Unveiling the High-Performance Capabilities of Fujitsu's iX1600 Document Scanner - Desktop Review</u></a></li>
+</ul></div>
 

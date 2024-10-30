@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Longing Feelings: Why Face-to-Face Gaming with Pals Beats Virtual Battles"
-date: 2024-10-21T00:19:03.322Z
-updated: 2024-10-23T16:46:06.816Z
+date: 2024-10-24T19:12:47.177Z
+updated: 2024-10-30T05:18:45.470Z
 tags:
   - games
   - tv
@@ -22,10 +22,16 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  Modern gaming technology and fast internet connections are wonderful, but so too were in-person LAN parties. I spent my youth lugging CRTs and PC towers to friends' houses or whatever space we could borrow for a weekend, and I miss it with all my heart. Here's why it was awesome.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Getting Ready for the Event
@@ -37,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  This was the geek's equivalent of prepping for a hike or a hunting trip with your friends that you've been looking forward to for weeks. A mini vacation where you got to leave school or work behind for a few days and forget about everything happening in the real world. Except there's zero chance of sunburn!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Making New Friends
@@ -49,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
  More friendships were forged on the battlefields of _Diablo II_, _Warcraft_, _StarCraft_, _Quake_, _Doom_, and numerous other absolute classic LAN games than you could fathom. You might have your TikTok and Instagram followers, but would any of them take a thunderbolt spell for you? No, real friends who you'd stay in touch with for the rest of your life were waiting for you at the next LAN party.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Discovering New Media
 
  One of the best parts of going to a LAN party was the downtime between games, where people would share and show the video clips they'd been collecting, before the modern idea of the "meme" had been coined. You'd get to learn about movies, TV shows, books, and comics you'd never heard of.
@@ -63,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  This was a cultural exchange as much as an excuse to play video games. It's not an exaggeration to say many people were introduced to lifelong fandoms at LAN parties, and you never knew what wacky thing you'd be exposed to next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Face-to-Face Multiplayer
@@ -74,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  The best part of a LAN party was always the main event: multiplayer games. There's a big difference between playing against someone on the other side of the world and someone on the other side of the room. Not least of which is that your trash-talking better not step over the line!
 
  This is the feeling that online multiplayer will never replicate, even in an age of Discord or Xbox Live chat. Nothing beats eight or twelve people in one room slaying demons and blowing up aliens for 20 hours straight.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Learning About PCs and Networking
 
@@ -96,22 +102,18 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-palette-in-balance-implementing-theoretical-knowledge/"><u>[New] A Palette in Balance Implementing Theoretical Knowledge</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-apps-for-3d-video-intros-on-social-platforms/"><u>[Updated] In 2024, Best Apps for 3D Video Intros on Social Platforms</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-radar-detector-reviews-with-the-passport-brand-heres-what-you-need-to-know/"><u>Budget-Friendly Radar Detector Reviews with the Passport Brand, Here's What You Need to Know!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-unleashing-the-potential-of-the-maxoak-185-wh50000-mah-battery-pack-the-ultimate-dual-sim-gadget-charger/"><u>Expert Review: Unleashing the Potential of the MaxOak 185 Wh/50,000 mAh Battery Pack - The Ultimate Dual SIM Gadget Charger</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hp-notebook-15-review-can-hewlett-packards-budget-priced-amd-laptop-get-the-job-done/"><u>HP Notebook 15 Review: Can Hewlett-Packard’s Budget-Priced AMD Laptop Get the Job Done?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-appraisal-of-the-compact-yet-resilient-j5-tactical-flashlight-v1-pro/"><u>In Depth Appraisal of the Compact yet Resilient J5 Tactical Flashlight V1-Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-free-imagery-with-photoscape-expert-insights-and-review/"><u>Mastering Free Imagery with PhotoScape – Expert Insights and Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-roads-safely-with-the-cutting-edge-escort-ix-a-comprehensive-review/"><u>Navigating the Roads Safely with the Cutting-Edge Escort iX - A Comprehensive Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/seamless-update-elevating-your-system-with-windows-11/"><u>Seamless Update: Elevating Your System with Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-integrating-libdvdcss-into-handbrake-for-macos-and-windows-operating-systems-version-11/"><u>Step-by-Step Tutorial for Integrating Libdvdcss Into Handbrake for macOS and Windows Operating Systems (Version 11)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-converting-movies-and-youtube-content-into-iphone-compatible-mp4-format/"><u>Ultimate Guide to Converting Movies and YouTube Content Into iPhone-Compatible MP4 Format</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-design-issues-with-pioneers-bdr-xd05b-blu-ray-disc-recorder-a-user-review/"><u>Unveiling Design Issues with Pioneer's BDR-XD05B Blu-Ray Disc Recorder: A User Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-perfect-e-reader-comprehensive-review-of-barnes-and-nobles-nook-glowlight-amidst-darkness/"><u>Unveiling the Perfect E-Reader: Comprehensive Review of Barnes & Noble's Nook GlowLight Amidst Darkness</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-gpu-narrative-radeons-recent-revolution/"><u>[New] GPU Narrative Radeon's Recent Revolution</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-free-guide-to-windows-desktop-captures-and-recordings/"><u>[New] In 2024, Free Guide to Windows Desktop Captures & Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-master-the-art-of-hulu-screen-capturing-windows-mac-and-mobile-edition-for-2024/"><u>[New] Master the Art of Hulu Screen Capturing Windows, Mac & Mobile Edition for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-arrival-of-apples-newest-creation-the-m4-mac-mini-projections-on-pricing-launch-timeline-and-features/"><u>Anticipating the Arrival of Apple's Newest Creation: The M4 Mac Mini – Projections on Pricing, Launch Timeline & Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-of-the-best-leading-netgear-routers-to-upgrade-your-network/"><u>Best of the Best: Leading NETGEAR Routers to Upgrade Your Network</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-superior-child-protection-on-amazon-fire-hd-10-kids-tablet-a-users-perspective/"><u>Exploring Superior Child Protection on Amazon Fire HD 10 Kids Tablet – A User's Perspective</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-the-msxml4dll-missing-file-problem/"><u>How to Correctly Address the Msxml4.dll Missing File Problem</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-x50-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor X50 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-100-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor 100</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-tips-eliminating-crashes-in-risk-of-rain-2-a-comprehensive-guide/"><u>Master Tips: Eliminating Crashes in Risk of Rain 2 – A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-allure-of-the-new-google-pixel-6-a-detailed-examination/"><u>The Allure of the New Google Pixel 6 - A Detailed Examination</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-checklist-8-key-points-before-you-purchase-a-tablet/"><u>The Ultimate Checklist: 8 Key Points Before You Purchase a Tablet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-picks-for-android-lovers-in-depth-look-at-samsung-galaxy-tab-s7-features-and-performance/"><u>Top Picks for Android Lovers: In-Depth Look at Samsung Galaxy Tab S7 Features and Performance</u></a></li>
 </ul></div>
 

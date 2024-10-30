@@ -1,7 +1,7 @@
 ---
 title: "Mophie Powerstation AC Examined: A Tale of Luxury and Convenience in Charging Technology"
-date: 2024-08-15T05:57:29.211Z
-updated: 2024-08-16T05:57:29.211Z
+date: 2024-10-23T03:29:46.513Z
+updated: 2024-10-29T16:09:19.641Z
 categories:
   - BestProducts
 description: "This Article Describes Mophie Powerstation AC Examined: A Tale of Luxury and Convenience in Charging Technology"
@@ -39,9 +39,12 @@ Lifewire / Rebecca Isaacs
 ## Ergodriven Topo Standing Desk Mat
 
 ![Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/thmb/GZTKidZtByl51GvkYiB-jNjEjbE=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Ergodriven-Topo-Comfort-Mat-1-ccd96f7c454945c3b974a2f5cba4fe79.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
@@ -64,26 +67,37 @@ Lifewire / Rebecca Isaacs
  A standing desk isn’t complete without a standing desk mat, at least not if you value your comfort. We tried out the Topo by Ergodriven Standing Desk Mat, testing it for comfort, design, and performance. We decided to test it for a few hours a day over the course of a week to see how it worked.
 
 ![Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/thmb/KYfJPJ0jHZhmy15IUeGxDL8kmRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ergodriven-Topo-Comfort-Mat-2-547d9823c4ac47cbb5a360040866172a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Simply modern**
 
  At 26.2 inches by 29 inches (LW), the Topo is a fairly wide mat, giving the user lots of berth to shift around. It comes with two power wedges in the back with calf-stretching inclines in the front that end up going 2.7 inches high, though the bottom platform of the mat is much thinner. It also comes with a massage mound in the center of the mat. For the most part, we liked the mat, but placing the massage mound in the center we felt was detrimental for standing space.
 
 ![Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/thmb/0MLp0JKyXodrqDxUdun30XlUicQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ergodriven-Topo-Comfort-Mat-3-5e85cbed72974e018684fe954f0ddf1b-75abe4f41eba41c3b202cdf74fbf3caa.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Flawed, but still solid**
 
  As we previously stated, one of the features of this mat is the massage mound in the center. When we first stepped onto the mat, we really disliked how we couldn’t shift without bumping the massage mound. It’s a great feature if you want to change your ankle stances or relieve your foot pain. However, if you’re standing on the mat for extended hours at a time, your feet are stuck off to the sides and you really can’t shift around as time progresses.
@@ -98,15 +112,19 @@ Lifewire / Rebecca Isaacs
 
  We also liked how the mat slides around on various surfaces, but it’s not too slippery. We hauled it around to various offices with tile and carpet. Each time we set it down, we could push it under the desk with ease if we needed to sit for extended lengths of time and pull it out just as easily when we wanted to stand.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Pretty steep for a mat**
 
  At around $100 on Amazon, the Topo is in the higher price range for a standing desk mat. We could find models that don’t have the massage mound in the center, however, the steep power wedges in the back make it a reasonable investment for anyone who really wants to stretch out their legs.
 
  For a standing desk mat with some exercise features, the Ergodriven Topo is a fairly decent choice.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Topo Ergodriven vs. CubeFit TerraMat**
 
  We decided to compare the Ergodriven Topo against CubeFit’s TerraMat. Price-wise, they’re very similar, retailing around $100\. They also come with massage mounds and various power wedges. However, the TerraMat has more features on the mat itself, including a balance bar and plantar mounds off to the sides, as well as a massage mound in the front. None of the actual features are located in the TerraMat’s center, unlike the Topo mat.
@@ -121,9 +139,6 @@ Lifewire / Rebecca Isaacs
 
  For a standing desk mat with some exercise features, the Ergodriven Topo is a fairly decent choice. While we think there are other, better mats out there, but the Topo does hide dirt better, and the deep rear wedges stretch the hamstrings more than most other models on the market. If you want a solid stretch, then the Ergodriven Topo is the best choice for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Topo Standing Desk Mat
@@ -134,14 +149,11 @@ Lifewire / Rebecca Isaacs
 * Warranty  Seven Years
 * Connectivity Options  None
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +162,17 @@ Lifewire / Rebecca Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-radiance-reimagined-top-video-tools-list/"><u>[New] In 2024, Radiance Reimagined Top Video Tools List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-how-to-add-music-to-instagram-reel/"><u>[Updated] How to Add Music to Instagram Reel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defending-artistic-integrity-understanding-the-lawsuit-led-by-sarah-silverman-and-others-against-tech-titans-ai-endeavors-openai-and-meta/"><u>Defending Artistic Integrity: Understanding the Lawsuit Led by Sarah Silverman and Others Against Tech Titans' AI Endeavors (OpenAI and Meta)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-ultimate-support-of-cumuluspro-mats-for-active-workstations-a-detailed-review/"><u>Explore the Ultimate Support of CumulusPRO Mats for Active Workstations: A Detailed Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-rayman-legends-top-notch-puzzles-and-platforms-in-an-unmatched-2d-journey/"><u>Exploring Rayman Legends - Top-Notch Puzzles and Platforms in an Unmatched 2D Journey</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hp-omen-obelisk-desktop-review-high-end-gaming-at-great-value-prices/"><u>HP Omen Obelisk Desktop Review: High-End Gaming at Great Value Prices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-calculating-video-data-use-in-a-full-day-watch/"><u>In 2024, Calculating Video Data Use in a Full-Day Watch</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-6-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 6 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-michael-kors-gen-5e-mkgo-leather-case-the-perfect-blend-of-luxury-and-functionality/"><u>In-Depth Analysis of Michael Kors Gen 5E (MKGO) Leather Case: The Perfect Blend of Luxury and Functionality</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/structured-approach-to-managing-youtube-videos-a-complete-watch-later-system/"><u>Structured Approach to Managing YouTube Videos A Complete Watch Later System</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective"
-date: 2024-10-18T02:50:39.641Z
-updated: 2024-10-24T10:49:51.522Z
+date: 2024-10-22T16:41:29.262Z
+updated: 2024-10-29T21:19:21.604Z
 tags:
   - games
   - tv
@@ -22,10 +22,16 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
  The PlayStation 2 had no shortage of games that ran at a smooth 60fps, but for the console generations that followed, this performance figure became rather scarce. Why did hitting that magic 60fps mark become so difficult and rare?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The HD Era
@@ -34,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
 ![Sony PlayStation 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Sony-PlayStation-3-large.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Sony_
 
  Which is why most games on these consoles target 30fps, and more often than not failed to maintain or even reach that figure. Offering frame rates in the 20s, for the most "cinematic" gaming experience possible.
@@ -41,13 +54,6 @@ _Sony_
 ##  Weak CPUs
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -58,15 +64,22 @@ Tim Brookes / How-To Geek
  These consoles had GPUs that had no problems giving us a consistent 30fps experience in most cases, but their CPUs were essentially weak power-efficient laptop components that really struggled to go beyond the 30fps mark. This is why when the PlayStation 4 Pro and Xbox One X consoles were released with significantly upgraded GPUs, developers could only increase graphical fidelity, but not frame rate. Even with a mild increase in clock speed, the CPUs in the half-generation refreshed consoles just couldn't muster faster frames.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pushing for Nicer Screenshots
 
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -83,13 +96,6 @@ Cianna Garrison / How-To Geek
 ##  An Apathetic Customer Base
 
  Apart from a few vocal people on gaming forums and platforms like X (formerly Twitter), it's not clear that the typical console gamer really cares about frame rate at all. While a cool-looking trailer or screenshots will impress prospective buyers, 60fps gameplay doesn't seem to move the needle much. With the current generation of consoles, console gamers do seem a little more aware of 60fps and its benefits, but quite a few games have 60fps modes that compromise the visuals far too much to actually play them that way.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  We’re Back to 30FPS Again.
 
@@ -110,16 +116,22 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-wonderful.techidaily.com/1-apowersoft-launches-comprehensive-new-gif-editing-tool/"><u>1. Apowersoft Launches Comprehensive New GIF Editing Tool</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bios-essentials-and-how-revouninstaller-interacts-with-them/"><u>BIOS Essentials and How RevoUninstaller Interacts with Them</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723025392421-compact-fast-and-cheap-the-most-affordable-in-car-car-chargers-reviewed-discover-the-best/"><u>Compact, Fast & Cheap: The Most Affordable In-Car Car Chargers Reviewed - Discover the Best!</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-nvidias-g-sync-a-breakthrough-in-graphics/"><u>Delving Into Nvidia's G-Sync: A Breakthrough in Graphics</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-with-updated-razer-graphics-card-drivers-free-downloads-for-windows-111087xpvista-users/"><u>Ensure Optimal Performance with Updated Razer Graphics Card Drivers - Free Downloads for Windows 11/10/8/7/XP/Vista Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-the-specs-and-performance-of-a-modest-contender-dells-inspiron-3671-desktop-critique/"><u>Inside the Specs and Performance of a Modest Contender: Dell's Inspiron 3671 Desktop Critique</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/massive-heist-cryptocurrency-exchange-suffers-80m-loss-in-recent-cyber-attack/"><u>Massive Heist: Cryptocurrency Exchange Suffers $80M Loss in Recent Cyber Attack</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mastering-telegram-web-a-beginners-walkthrough-for-2024/"><u>Mastering Telegram Web A Beginner's Walkthrough for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-wasteland-ii-directors-edition-reviewed-an-engrossing-turn-by-turn-adventure/"><u>The Wasteland II - Director's Edition Reviewed: An Engrossing Turn-By-Turn Adventure</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-latest-in-wearables-the-ultimate-review-of-the-fitbit-charge-4s-style-and-functionality/"><u>Unveiling the Latest in Wearables: The Ultimate Review of the Fitbit Charge 4'S Style and Functionality</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728501929853-windows-8/"><u>Windows 8最佳档案恢复解决方案：全面指南</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-blueprint-for-a-viral-solitary-audio-experience/"><u>[New] In 2024, Blueprint for a Viral Solitary Audio Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-diving-deep-reviewing-your-old-tweets/"><u>[New] In 2024, Diving Deep Reviewing Your Old Tweets</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mega-popular-youtube-vids-everlasting-titles-for-2024/"><u>[Updated] Mega-Popular YouTube Vids Everlasting Titles for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-aperture-aces-top-picks-the-most-impressive-6-4k-dslrs/"><u>2024 Approved Aperture Aces' Top Picks The Most Impressive 6 4K DSLRs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-features-of-the-latest-cycwagen-electric-bike-a-hands-on-review/"><u>Discover the Features of the Latest CycWagen Electric Bike - A Hands-On Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-list-of-ergonomic-vertical-mice-for-enhanced-productivity/"><u>Elite List of Ergonomic Vertical Mice for Enhanced Productivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/email-service-face-off-outlookcom-versus-gmail-which-wins-the-battle/"><u>Email Service Face-Off: Outlook.com versus Gmail – Which Wins the Battle?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-a1-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo A1 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-stunning-and-expansive-huion-kamvas-gt-191-digital-sketching-canvas/"><u>In-Depth Analysis of the Stunning and Expansive Huion Kamvas GT-191 Digital Sketching Canvas</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-iphone-ringtone-updates-for-2024/"><u>Mastering iPhone Ringtone Updates for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-shots-canons-compact-powershot-sx420-review/"><u>Maximizing Your Shots – Canon's Compact PowerShot SX420 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-game-changer-for-organization-an-in-depth-look-at-the-onetastic-add-in-for-microsoft-onenote/"><u>The Game Changer for Organization: An In-Depth Look at the Onetastic Add-In for Microsoft OneNote</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-auto-compass-systems/"><u>The Premier Selection of Auto Compass Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-prime-strategies-in-zoom-video-to-zoom-outcomes-for-2024/"><u>The Prime Strategies in Zoom Video to Zoom Outcomes for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-ultimate-tutorial-for-turning-twitter-videos-into-gifs/"><u>The Ultimate Tutorial for Turning Twitter Videos Into GIFs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-steam-decks-top-gaming-picks/"><u>Ultimate List: Steam Deck's Top Gaming Picks</u></a></li>
 </ul></div>
 

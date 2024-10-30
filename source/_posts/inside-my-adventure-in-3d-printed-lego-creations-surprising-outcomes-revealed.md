@@ -1,7 +1,7 @@
 ---
 title: Inside My Adventure in 3D-Printed LEGO Creations – Surprising Outcomes Revealed
-date: 2024-10-20T10:22:51.737Z
-updated: 2024-10-24T08:40:50.422Z
+date: 2024-10-29T03:21:28.187Z
+updated: 2024-10-30T08:04:12.426Z
 tags:
   - games
   - tv
@@ -28,22 +28,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Not that LEGO let this happen without a fight, its failed legal battles with companies like Mega Blocks make for [fascinating reading](https://www.nytimes.com/2005/02/02/business/worldbusiness/building-a-legal-case-block-by-block.html). For our purposes here, all you need to know is that regular folks making LEGO models for 3D printing is fine, as long as they don't pretend to be real LEGO or use the company's trademarks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Where to Find Brick Model Files
 
  If you have the talent and the time, nothing's stopping you from firing up your favorite CAD program and whipping up your own LEGO, but luckily plenty of people have already done the hard work for us. In this case I used FaronMentink's [LEGO compatible bricks](https://www.thingiverse.com/thing:5447694/files) found on Thingiverse, but if those don't work for you, there are numerous other options on Thingiverse and other websites that host files for 3D printing.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Printer, Setup, Material, & Settings
 
@@ -52,10 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  As far as possible, I try to avoid using supports for my prints, because they leave markers on the model that require cleaning later. So I've printed these bricks in place, right-way-up to ensure there are no overhangs that would fail. However, some more exotic brick types might need supports, which you'll have to generate using your 3D printing software.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Results
@@ -67,13 +66,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Two 3D-printed LEGO-compatible bricks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/bad-blocks.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Testing Compatibility With Real LEGO
 
@@ -110,18 +116,16 @@ Sydney Louw Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-briefclip-artist/"><u>[New] 2024 Approved BriefClip Artist</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-elevate-engagement-top-hashtags-for-gameplay-vids/"><u>[New] In 2024, Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flickvista-app-performance-index/"><u>[Updated] FlickVista App Performance Index</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-simplified-obs-settings-for-economical-systems/"><u>2024 Approved Simplified OBS Settings for Economical Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-top-eight-mobile-game-titles-for-gamers-on-the-go/"><u>Discover the Top Eight Mobile Game Titles for Gamers on the Go</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x8024200d-deciphered-comprehensive-solutions-for-resolving-windows-update-issues/"><u>Error 0X8024200D Deciphered: Comprehensive Solutions for Resolving Windows Update Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-eight-effective-chatgpt-alternatives-can-these-side-hustles-boost-your-income/"><u>Exploring Eight Effective ChatGPT Alternatives – Can These Side Hustles Boost Your Income?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/get-more-for-your-money-with-the-budget-friendly-fitbit-versa-lite-a-comprehensive-guide/"><u>Get More for Your Money with the Budget-Friendly Fitbit Versa Lite: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-missing-thermal-constraint-policy-on-pcs/"><u>Remedy Missing Thermal Constraint Policy on PCs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-12-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme 12 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/stylish-ourlink-u631-usb-wi-fi-nano-adapter-for-swift-and-robust-internet-connectivity/"><u>Stylish Ourlink U6ˈ31 USB Wi-Fi Nano Adapter for Swift and Robust Internet Connectivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-comprehensive-analysis-of-the-newly-released-202-apple-iphone-se-what-you-need-to-know/"><u>The Comprehensive Analysis of the Newly Released 202# Apple iPhone SE - What You Need to Know!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-amazons-kindle-oasis-is-it-justifiably-expensive/"><u>The Ultimate Guide to Amazon's Kindle Oasis: Is It Justifiably Expensive?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-comprehensible-guide-to-skypes-mp3-recorder/"><u>[New] 2024 Approved The Comprehensible Guide to Skype's MP3 Recorder</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-steps-to-post-music-on-social-media-stories/"><u>[New] In 2024, Steps to Post Music on Social Media Stories</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138588672-9781449735630-2251-acoustic-neuroma/"><u>225.1 Acoustic Neuroma | Free Book</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cumuluspro-standing-desk-pad-evaluation-your-ultimate-comfortable-workstation/"><u>CumulusPro Standing Desk Pad Evaluation: Your Ultimate Comfortable Workstation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-the-samsung-galaxy-watch-active-a-revolutionary-approach-to-wellness-tracking/"><u>Experts Weigh in on the Samsung Galaxy Watch Active – A Revolutionary Approach to Wellness Tracking</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-samsung-galaxy-watch3-timeless-style-meets-contemporary-enhancements/"><u>Review of Samsung Galaxy Watch3 - Timeless Style Meets Contemporary Enhancements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/settling-around-the-virtual-campfire-an-in-depth-look-at-minecrafts-storytelling-through-skins/"><u>Settling Around the Virtual Campfire: An In-Depth Look at Minecraft’s Storytelling Through Skins</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-evolution-continues-a-comprehensive-review-of-djis-latest-drone-phantom-4-pro-v20/"><u>The Evolution Continues: A Comprehensive Review of DJI's Latest Drone - Phantom 4 Pro V.2.0</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-surge-of-conversational-agents-exploring-how-ai-chatbots-capture-user-interest/"><u>The Surge of Conversational Agents: Exploring How AI Chatbots Capture User Interest</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tomorrows-tongues-revolutionizing-language-acquisition-today/"><u>Tomorrow's Tongues: Revolutionizing Language Acquisition Today</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-unlocking-audio-fidelity-top-advice-for-playing-m4a-on-android-devices-for-2024/"><u>Updated Unlocking Audio Fidelity Top Advice for Playing M4A on Android Devices for 2024</u></a></li>
 </ul></div>
 

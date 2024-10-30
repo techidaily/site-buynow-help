@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2024-10-23T01:51:19.604Z
-updated: 2024-10-23T16:17:44.473Z
+date: 2024-10-22T16:26:09.955Z
+updated: 2024-10-29T18:15:40.990Z
 tags:
   - games
   - tv
@@ -27,13 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Thanks to AI, we're seeing some truly out-there mods for games, and one of the most impressive might be one that swaps out the Baldur's Gate 3 narrator for a voice that almost (but not quite) sounds like Sir David Attenborough. Here's how to try it for yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What You Need
 
  Apart from owning a PC copy of Baldur's Gate 3, you also need three pieces of software:
@@ -50,6 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step 1: Open the Mod Manager
 
  With the mod manager file unzipped, open the folder and run BG3ModManager.exe. You should see this program window open. It looks a little complicated, but we're going to follow a very basic process.
@@ -57,17 +57,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2: Import the Mod Fixer
@@ -79,13 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Navigate to the folder where the mod fixer's zipped file is, select it and then select "Open." You should see "ModFixer" listed under "Overrides."
 
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 3: Import the Narrator Mod
 
@@ -109,6 +95,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![BG3 mod warning message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-warning.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you're in the game, you can either load up your save game and wait until you get to a section of narration, or you can quickly start a new game with a preset character, run to the first nursery in front of your pod, and check for the voice this way. As you can see in this clip.
 
 Your browser does not support the video tag. 
@@ -116,10 +109,10 @@ Your browser does not support the video tag.
  Now you can play the game like normal with your new narrator.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Removing Mods
@@ -127,6 +120,13 @@ Your browser does not support the video tag.
  To reverse this process and take the game back to the way it was, right-click on the mods under "Overrides" and select "Delete Mod."
 
 ![BG3 mod deletion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-deletion-menu.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll see two check boxes. Make sure the permanent deletion box is checked if you want to remove the mod files completely. Otherwise, simply leave the box to remove the mod from the load order checked. Then confirm your choice. Finally, export the mod order to the game again.
 
@@ -147,18 +147,14 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unveiling-the-power-of-social-media-video-marketing-strategies/"><u>[Updated] In 2024, Unveiling the Power of Social Media Video Marketing Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-magic-of-motion-in-video-text-elements/"><u>2024 Approved Unlock the Magic of Motion in Video Text Elements</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-v27-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo V27 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/e-imagery-stepwise-food-film-making/"><u>Edible Imagery Stepwise Food Film Making</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhance-connectivity-leading-wi-fi-expanders-for-a-stronger-signal/"><u>Enhance Connectivity: Leading Wi-Fi Expanders for a Stronger Signal</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-petsafe-automatic-pet-feeder-effective-tools-for-healthy-portion-sizes-and-weight-management/"><u>Evaluating the PetSafe Automatic Pet Feeder - Effective Tools for Healthy Portion Sizes & Weight Management</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-economy-and-efficiency-in-camera-technology-with-vixias-r800/"><u>Exploring the Economy and Efficiency in Camera Technology with VIXIA's R800</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/key-factors-to-influence-your-next-laptop-purchase/"><u>Key Factors to Influence Your Next Laptop Purchase</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavis-quick-guide-transform-snd-audio-clips-into-high-quality-wav-no-cost-required/"><u>Movavi's Quick Guide: Transform SND Audio Clips Into High-Quality WAV - No Cost Required</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-digital-readings-potential-with-the-2018-amazon-kindle-paperwhite-an-authoritative-review/"><u>Unlocking Digital Reading's Potential with the 2018 Amazon Kindle Paperwhite - An Authoritative Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-gopros-masterpiece-the-action-camera-revolution-with-hero7/"><u>Unveiling GoPro's Masterpiece - The Action Camera Revolution with HERO7</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-screen-partnership-contracts-downloadable-for-2024/"><u>[Updated] Screen Partnership Contracts, Downloadable for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-timeless-charm-and-modern-intelligence-a-comprehensive-review-of-withings-move/"><u>Discovering Timeless Charm & Modern Intelligence: A Comprehensive Review of Withings Move</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-capabilities-of-soundbot-sb210-an-efficient-audio-device-with-high-quality-performance/"><u>Exploring the Capabilities of SoundBot SB210: An Efficient Audio Device with High-Quality Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exquisite-scenery-tips-for-live-shows/"><u>Exquisite Scenery Tips for Live Shows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/future-of-fun-discover-2024s-most-popular-game-consoles/"><u>Future of Fun: Discover 2024'S Most Popular Game Consoles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-struggle-to-cultivate-freshness-in-vr-realms/"><u>In 2024, The Struggle to Cultivate Freshness in VR Realms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigating-macs-best-screen-capturing-apps-and-tech/"><u>Navigating Mac's Best Screen Capturing Apps & Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-best-led-lights/"><u>Ultimate Guide to Best LED Lights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-upgrade-to-spotify-premium/"><u>Why Upgrade to Spotify Premium?</u></a></li>
 </ul></div>
 

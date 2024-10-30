@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Standard PC Into a Gamers' Lair: Key Adjustments Needed"
-date: 2024-10-23T02:11:31.439Z
-updated: 2024-10-24T08:51:00.325Z
+date: 2024-10-26T18:05:00.358Z
+updated: 2024-10-29T17:23:58.065Z
 tags:
   - games
   - tv
@@ -37,6 +37,13 @@ EA
 
 ![A still from the Mario Vs. Donkey Kong game trailer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-still-from-the-mario-vs-donkey-kong-game-trailer.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But just because you don’t _have_ to play older titles [doesn’t mean you shouldn’t give them a try](https://vp-tips.techidaily.com/updated-2024-approved-pixels-of-laughter-mobile-apps-transform-images/). Not only will these be easier to run on your laptop thanks to the leaps in technology but they’re also a great look at where modern games have taken inspiration from (and [you can find some real hidden gems](https://screen-activity-recording.techidaily.com/streamline-control-switch-pro-in-steam-play/)).
 
  Two of my current favorite games are a “new to me” title from 2009 and a game from 2004 that I played as a kid.
@@ -51,6 +58,13 @@ EA
 
 ![A Razer eGPU enclosure on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/https___hybrismediaprod-blob-core-windows-net_sys-master-phoenix-images-container_h57_h88_9084458041374_razer-core-x-gallery-hero.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Razer
 
  Another area laptop gamers should turn their attention is RAM. This acts as your PC’s short-term memory, recalling information as soon as it’s needed. Most standard laptops are equipped with only 8GB of RAM, which is widely considered the bare minimum for gaming.
@@ -62,10 +76,10 @@ Razer
 ![A laptop RAM stick sitting on a laptop keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/laptop-ram-sitting-on-a-laptop-keyboard-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -76,22 +90,15 @@ Hannah Stryker / How-To Geek
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  If your laptop doesn’t support storage expansion, you can always turn to [cloud gaming platforms](https://facebook-video-recording.techidaily.com/2024-approved-biography-breakthroughs-101-expert-tips-and-tricks-for-facebook-biographers/) like Amazon Luna and NVIDIA GeForce Now. If cloud gaming isn’t your thing or isn't available in your area, you can purchase an [external solid state drive](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/) to free up some space. It's worth noting, though, that you’ll likely have a better experience [building one yourself](https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-14-activation-lock-by-drfone-ios/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Boost Your Setup With Peripherals and Accessories
@@ -111,13 +118,6 @@ Hannah Stryker / How-To Geek
  Another great accessory for laptop gaming is [a gaming headset](https://ai-video-apps.techidaily.com/new-in-2024-top-rated-free-wmv-video-editing-software-with-splitting-features/). Though laptop speakers have improved in quality across the board, a gaming headset can still be the difference between hearing someone sneak up behind you and being completely ambushed.
 
 ![An RGB-lit keyboard, gaming headset, mouse, and controller on a desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/shutterstock_1487069789.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/gamer-work-space-concept-top-view-1487069789)_
 
@@ -144,17 +144,22 @@ _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos/"><u>[New] The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/charting-the-course-for-aspiring-pilots-why-microsoft-flight-simulator-x-gold-still-soars-in-reviews/"><u>Charting the Course for Aspiring Pilots: Why Microsoft Flight Simulator X Gold Still Soars in Reviews</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exquisite-choice-over-iphone-discover-why-skagen-falster-2-deserves-your-attention/"><u>Exquisite Choice Over iPhone? Discover Why Skagen Falster 2 Deserves Your Attention</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-resolve-gta-v-from-crashing-unexpectedly/"><u>How to Prevent and Resolve GTA V From Crashing Unexpectedly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-missing-camera-issue-in-snapchat-a-step-by-step-guide/"><u>How to Resolve the Missing Camera Issue in Snapchat: A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Zero 30 5G Phone?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-ultimate-guide-choosing-powerful-notebooks-for-filmmakers/"><u>In 2024, Ultimate Guide Choosing Powerful Notebooks for Filmmakers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722982856458-ios-15-ready-heres-how-to-achieve-it/"><u>IOS 15 Ready? Here's How to Achieve It!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-using-the-portable-effective-and-sturdy-audew-air-compressor-pump-review-insights/"><u>The Ultimate Guide to Using the Portable, Effective & Sturdy AUDEW Air Compressor Pump - Review Insights</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-validated-youtube-growth-solutions-for-2024/"><u>Top 8 Validated Youtube Growth Solutions for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-features-and-controls-on-your-blink-security-camera-hands-on-approach/"><u>Unlocking Features and Controls on Your Blink Security Camera - Hands-On Approach</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-captivation-creator-for-articles/"><u>[New] 2024 Approved Captivation Creator for Articles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-compre-cookie-cutter-webinar-logging-a-windows-and-macos-manual/"><u>[New] 2024 Approved Compre Cookie Cutter Webinar Logging A Windows & macOS Manual</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-effortless-transfer-of-images-to-ios-device/"><u>[New] In 2024, Effortless Transfer of Images to iOS Device</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-simplifying-the-process-of-watching-fb-live-on-roku/"><u>[Updated] In 2024, Simplifying the Process of Watching FB Live on Roku</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-precision-filmmaking-high-definition-lens-recommendations-for-2024/"><u>[Updated] Precision Filmmaking High-Definition Lens Recommendations for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-powerhouse-unveiled-exploring-the-raspberry-pi-400-keyboard-pc/"><u>Compact Powerhouse Unveiled: Exploring the Raspberry Pi 400 Keyboard PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/exclusive-insight-into-budget-friendly-design-portals/"><u>Exclusive Insight Into Budget-Friendly Design Portals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-the-error-when-mscorwksdll-cant-be-found-easy-tips-and-tricks/"><u>Fix the Error When MSCORWKS.DLL Can’t Be Found: Easy Tips & Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/grasping-the-basics-of-telegram-marketing-strategies/"><u>Grasping the Basics of Telegram Marketing Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-premier-general-knowledge-trivia-hubs/"><u>In 2024, Premier General Knowledge Trivia Hubs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723077426560-minecraft-user-manual-the-best-all-age-sandbox-experience-ever/"><u>Minecraft User Manual: The Best All-Age Sandbox Experience Ever!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgear-powerline-1200-review-chunky-design-overwhelms-speed/"><u>Netgear Powerline 1200 Review: Chunky Design Overwhelms Speed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/razer-laptop-review-the-compact-beast-unleashed/"><u>Razer Laptop Review - The Compact Beast Unleashed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-power-inverter-models-comprehensive-review/"><u>Top Rated Power Inverter Models - Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-perfect-union-of-tradition-and-innovation-in-the-skagen-falster-3-watch-review/"><u>Unveiling the Perfect Union of Tradition and Innovation in the Skagen Falster 3 Watch Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-comprehensive-analysis-of-corsairs-one-pro-gaming-system/"><u>Unveiling the Powerhouse: Comprehensive Analysis of Corsair's One Pro Gaming System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-shift-to-an-electronic-book-collection/"><u>Why Shift to an Electronic Book Collection?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story"
-date: 2024-10-16T22:49:44.954Z
-updated: 2024-10-24T07:14:06.648Z
+date: 2024-10-29T05:03:57.220Z
+updated: 2024-10-29T18:21:16.707Z
 tags:
   - games
   - tv
@@ -23,31 +23,18 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  When I discovered ChatGPT, the first thing I wanted to do was see if I could use it in game development. As always, ChatGPT is eager to help and almost feels like the world's most into-it intern.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Can ChatGPT Code a Game for You?
 
 ![ChatGPT gives me a list of ideas that I could potentially make into a game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-1.png) 
 
- It's quickly apparent that GPT's willingness to [teach you to code](https://fox-helps.techidaily.com/navigating-gif-storage-and-use-in-the-digital-age-iphone/) a game is well-meaning but requires you to understand a bit about what you're doing. As someone who's been an amateur game developer for more than a decade, I know a little bit about coding a game. In using GPT to help me, I was interested in seeing how sophisticated it was for producing a playable game prototype.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It's quickly apparent that GPT's willingness to [teach you to code](https://fox-helps.techidaily.com/navigating-gif-storage-and-use-in-the-digital-age-iphone/) a game is well-meaning but requires you to understand a bit about what you're doing. As someone who's been an amateur game developer for more than a decade, I know a little bit about coding a game. In using GPT to help me, I was interested in seeing how sophisticated it was for producing a playable game prototype.
 
 ###  It Certainly Understands Game Engines
 
@@ -104,18 +91,25 @@ public class Projectile : MonoBehaviour
 
 ![GPT's responses doesn't fix the error I keep having](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-error-is-still-there.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I eventually fixed it myself, but it highlighted a major issue with using ChatGPT to code a game: there are some things it doesn't know.
 
 ![A Do-it-Yourself Fix For The Programming Problem](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/diy-fix.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I eventually put together the game using a few suggestions from GPT about the persistent score as well as the random generation algorithm and scrolling for the game background. You can [play the final game here](https://zandoliearts.itch.io/the-unfriendly-skies).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Does It Work With Other Game Engines?
 
@@ -124,22 +118,15 @@ public class Projectile : MonoBehaviour
 ![GPT gives me a piece of code that is outdated because of GPT's limitations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gpt-s-godot-problem-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 GPT's Godot Problem
 
  For those who use Godot regularly, the issue is immediately obvious. ChatGPT stopped learning in 2021 or thereabouts (at least for the free version). The script GPT gave me was based on its knowledge of Godot 2.x, which is a heavily outdated version of the current 4.x version. The glaring problem is the use of KinematicBody2D, which was replaced by CharacterBody2D in later iterations of the language.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Much Skill Do You Need to Code a Game With ChatGPT?
 
@@ -152,6 +139,19 @@ GPT's Godot Problem
 ##  Should You Code a Game With ChatGPT?
 
 ![Screenshot of My Game's Title Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-1-1.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Game development is a complex field, but thanks to engines like those mentioned above, it is much more approachable for the general public. A skilled developer could spend a few hours putting together a game that works and has all the things they want in it.
 
@@ -183,17 +183,22 @@ GPT's Godot Problem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-top-vimeo-downloader-tools-for-2024/"><u>[New] Top Vimeo Downloader Tools for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-forgotten-tiktok-reload-a-quick-fix-for-2024/"><u>[Updated] Forgotten TikTok Reload A Quick Fix for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/complete-review-eero-pro-mesh-system-as-your-solution-to-full-home-internet-reach/"><u>Complete Review: Eero Pro Mesh System as Your Solution to Full-Home Internet Reach</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-why-the-samsung-galaxy-tab-sn-is-a-top-choice-for-mid-range-tablet-seekers/"><u>Comprehensive Review: Why the Samsung Galaxy Tab Sn Is a Top Choice for Mid-Range Tablet Seekers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-best-combined-cable-modemrouter-systems-for-optimal-home-networking-2024/"><u>Discover the Best Combined Cable Modem/Router Systems for Optimal Home Networking, 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-itel-s23plus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Itel S23+ without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-your-perfect-playlist-best-12-pc-games-to-enjoy-more-clicks/"><u>In 2024, Your Perfect Playlist Best 12 PC Games to Enjoy More Clicks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-look-at-intel-extended-warranty-coverage-exclusive-list-of-protected-processors-core-i5-i7-i9-gen-13-and-14/"><u>In-Depth Look at Intel Extended Warranty Coverage: Exclusive List of Protected Processors (Core I5, I7, I9) – Gen 13 and 14</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reviewing-the-creative-labs-sound-blaster-zxr-a-solid-choice-for-gamers-in-201n/"><u>Reviewing the Creative Labs Sound Blaster ZxR - A Solid Choice for Gamers in 201N</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/rotating-reality-in-images-mastering-the-art-of-spinning-visual-content-for-maximum-impact-on-social-media-platforms/"><u>Rotating Reality in Images Mastering the Art of Spinning Visual Content for Maximum Impact on Social Media Platforms</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-13-ultra-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi 13 Ultra Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-amazon-halo-an-exceptionally-advanced-and-intrusive-exercise-monitor-device/"><u>The Amazon Halo: An Exceptionally Advanced and Intrusive Exercise Monitor Device</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-art-of-earning-money-with-your-facebook-page/"><u>[New] 2024 Approved The Art of Earning Money with Your Facebook Page</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-producing-quality-mobile-videos/"><u>[New] Step-by-Step Guide to Producing Quality Mobile Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-zenith-of-zest-elevate-with-elite-yoga-videos/"><u>[Updated] In 2024, Zenith of Zest Elevate with Elite Yoga Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-of-lgs-latest-360-cameras-for-the-year-2023/"><u>[Updated] In-Depth Analysis of LG's Latest 360 Cameras for the Year 2023</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/agptek-a01t-review/"><u>AGPTEK A01T Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/designed-for-success-a-closer-look-at-the-functional-lamicall-s-tablet-support-revealed/"><u>Designed for Success: A Closer Look at the Functional Lamicall S Tablet Support Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-shadowy-realms-of-bloodborne-an-immersive-review/"><u>Exploring the Shadowy Realms of Bloodborne - An Immersive Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-overcome-magic-mouse-movement-errors-effortlessly/"><u>How to Overcome Magic Mouse Movement Errors Effortlessly</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paww-audio-enlightenment-the-budget-friendly-review-of-series-3/"><u>Paww Audio Enlightenment - The Budget-Friendly Review of Series 3</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active-2-an-in-depth-review-showcasing-upgraded-control-superior-connection-and-insight-features-over-original/"><u>Samsung Galaxy Watch Active 2: An In-Depth Review Showcasing Upgraded Control, Superior Connection & Insight Features Over Original.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/seamless-connectivity-on-the-move-experience-unmatched-comfort-with-the-moko-universal-portable-bluetooth-keypad/"><u>Seamless Connectivity on The Move: Experience Unmatched Comfort with the MoKo Universal Portable Bluetooth Keypad</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-photographers-companion-to-master-color-correction-top-11/"><u>The Photographer's Companion to Master Color Correction (Top 11)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-poco-x5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Poco X5 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-rechargeable-battery-chargers-in-2e-the-ultimate-list/"><u>Top-Rated Rechargeable Battery Chargers in 2E: The Ultimate List</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-a-deep-dive-into-the-new-samsung-galaxy-s2-ultra-features-and-performance/"><u>Unveiling the Powerhouse: A Deep Dive Into the New Samsung Galaxy S2# Ultra Features & Performance</u></a></li>
 </ul></div>
 

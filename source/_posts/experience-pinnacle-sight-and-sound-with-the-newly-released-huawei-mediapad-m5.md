@@ -1,7 +1,7 @@
 ---
 title: Experience Pinnacle Sight & Sound with The Newly Released Huawei MediaPad M5
-date: 2024-08-15T05:55:46.136Z
-updated: 2024-08-16T05:55:46.136Z
+date: 2024-10-23T04:05:04.483Z
+updated: 2024-10-30T05:14:05.220Z
 categories:
   - BestProducts
 description: This Article Describes Experience Pinnacle Sight & Sound with The Newly Released Huawei MediaPad M5
@@ -40,9 +40,6 @@ Lifewire / Erika Rawes
 ## Antop AT-127
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -65,6 +62,13 @@ Lifewire / Erika Rawes
 
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -75,11 +79,21 @@ Lifewire / Erika Rawes
 
 ![Antop AT-127](https://www.lifewire.com/thmb/RWXekalxAMy_w61EH_Getqbfiy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-2-24f94c63d6164dc7a54542cc1e4262c9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup: Easier than most**
 
  Setting up the antenna is relatively intuitive. You just connect the antenna to the coaxial/antenna-in connection on your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) . The antenna has an easy-push connector, instead of a connector you have to twist onto the threading. This makes for easier setup because you don’t have to struggle behind your TV with trying to screw on the[coaxial cable](https://www.lifewire.com/coaxial-vs-optical-digital-cable-3134605) .
@@ -87,6 +101,13 @@ Lifewire / Erika Rawes
  Once you connect the antenna’s cable to your TV, you’ll need to find the best placement. This is perhaps the most difficult part of the setup process. My test home is in a wooded area, and I found the best placement was near or directly on the window. However,[to improve your antenna’s reception](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) , it’s usually a good idea to place the antenna high up in a room close to the home’s exterior (and nearest to the transmitter towers) and to avoid obstacles like walls and tree cover.
 
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Almost two dozen channels**
 
@@ -96,16 +117,15 @@ Lifewire / Erika Rawes
 
 ![Antop AT-127](https://www.lifewire.com/thmb/5o1YIUg5PeQto5h_Mm6uuK9o5JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-3-7f7ec909a6b944cabe60862b51a6ba2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -114,9 +134,6 @@ Lifewire / Erika Rawes
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
@@ -125,9 +142,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
  You can find indoor antennas for less than $15 (view on[Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845583%7Cna0f30cabffec4337b279a8df3e4c99b015%7C) ). The[AmazonBasics](https://www.lifewire.com/amazonbasics-flat-tv-antenna-review-4845569) 35-mile range antenna is a good example, though it doesn’t come with a stand or have the easy-push connector. Aesth etically, the AmazonBasics antenna doesn’t hold a candle to the Antop antenna, but it does cost significantly less.
@@ -138,9 +152,6 @@ Lifewire / Erika Rawes
 
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AT-127
@@ -157,14 +168,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +181,20 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-aligning-podcast-drop-dates-with-listener-patterns/"><u>2024 Approved Aligning Podcast Drop Dates with Listener Patterns</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-great-debate-continues-is-bandicam-or-camtasia-better/"><u>2024 Approved The Great Debate Continues Is Bandicam or Camtasia Better?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oneplus-nord-ce-3-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your OnePlus Nord CE 3 5G Device SIM</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-channel-finale-strategy-plus-best-templates-and-makers/"><u>In 2024, The Ultimate Channel Finale Strategy + Best Templates & Makers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-the-unbeatable-features-that-make-the-apple-ipad-pro-2018-a-market-champion/"><u>In Depth Review: The Unbeatable Features That Make the Apple iPad Pro 2018 a Market Champion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-huawei-p20-pro-impressive-cameras-set-on-a-quality-smartphone-platform/"><u>In-Depth Look at the Huawei P20 Pro: Impressive Cameras Set on a Quality Smartphone Platform</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-tp-link-ac1200-range-extender-model-re305-for-optimal-wifi-coverage/"><u>In-Depth Review of the TP-Link AC1200 Range Extender Model RE305 for Optimal WiFi Coverage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovation-meets-artistry-with-brookstone-frames/"><u>Innovation Meets Artistry with Brookstone Frames</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interactive-showcase-premium-dell-monitor-elite-noise-cancelling-headphones-superior-clarity-web-camera/"><u>Interactive Showcase: Premium Dell Monitor, Elite Noise Cancelling Headphones, Superior Clarity Web Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ipad-pro-vs-surface-pro-face-off-deciding-on-the-better-tablet-experience/"><u>IPad Pro Vs. Surface Pro Face-Off: Deciding on the Better Tablet Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kootek-notebook-thermoregulator-examination-an-impressive-whole-spectrum-gadget/"><u>Kootek Notebook Thermoregulator Examination - An Impressive Whole-Spectrum Gadget</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/project-pics-blend-outside-focus-with-radial-filters-psx/"><u>Project Pics Blend Outside Focus with Radial Filters PSX</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-volume-control-on-iphone-a-guide-to-7-effective-troubleshooting-steps/"><u>Unstuck Volume Control on iPhone: A Guide to 7 Effective Troubleshooting Steps</u></a></li>
+</ul></div>
 

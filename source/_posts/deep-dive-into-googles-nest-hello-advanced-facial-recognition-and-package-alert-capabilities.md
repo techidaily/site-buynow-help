@@ -1,7 +1,7 @@
 ---
 title: "Deep Dive Into Google's Nest Hello: Advanced Facial Recognition and Package Alert Capabilities"
-date: 2024-08-15T05:58:48.857Z
-updated: 2024-08-16T05:58:48.857Z
+date: 2024-10-22T20:11:21.396Z
+updated: 2024-10-30T01:23:02.452Z
 categories:
   - BestProducts
 description: "This Article Describes Deep Dive Into Google's Nest Hello: Advanced Facial Recognition and Package Alert Capabilities"
@@ -40,8 +40,12 @@ Lifewire / Andy Zahn
 4.3
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
@@ -78,9 +82,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -97,6 +98,13 @@ Lifewire / Andy Zahn
 
  We found it easy enough to set up the SX70 HS and start shooting. Language, time, and date options are presented upon initial startup. The battery charges externally in an included wall charger and takes only a few hours to power up completely from empty.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery life: No worries**
 
  Even after extended use, we had barely scratched the surface of the SX70 HS’s considerable battery life. It was still going strong after shooting dozens of photos and video clips, so you won’t have to worry about running out of battery life in the middle of a trip.
@@ -104,8 +112,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Display and Viewfinder: Saturated and clear**
 
  The three-inch, 920,000-dot screen on the SX70 HS looks amazing—perhaps_too_ amazing, as your photos will look better on it than on your phone or computer. The screen is fully articulating and solidly built. Our one complaint would be how easily it picks up smudges, and how difficult those smudges are to remove. An advantage of the articulating screen is that it can be turned face-in to avoid dirt and damage and to save on battery life.
@@ -114,9 +126,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Autofocus: Blazing fast**
 
  We were shocked by how fast and consistent the autofocus is in the SX70 HS, even in low-light situations. It rarely fails to lock on to your intended subject, and focus tracking works flawlessly.
@@ -126,8 +135,12 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Photo Quality: Great colors, average resolution**
 
  We love the warm, natural color tone that[Canon cameras](https://www.lifewire.com/best-new-canon-cameras-493499) produce, and the SX70 HS doesn’t disappoint. Its photos are vibrant and it captures particularly nice portraits.
@@ -144,9 +157,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -214,8 +224,12 @@ Lifewire / Andy Zahn
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  PowerShot SX70
@@ -241,8 +255,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +262,22 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-editors-pathway-for-diminishing-sound-levels/"><u>[Updated] 2024 Approved The Editor's Pathway for Diminishing Sound Levels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-horoscopes-which-is-more-accurate-in-forecasting-whats-ahead/"><u>ChatGPT vs Horoscopes: Which Is More Accurate in Forecasting What's Ahead?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-apple-powerhouse-detailed-comparison-of-m2-and-m3-macbook-air-models-for-tech-enthusiasts/"><u>Choosing the Right Apple Powerhouse: Detailed Comparison of M2 and M3 MacBook Air Models for Tech Enthusiasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/clash-of-kings-royal-games-top-10-titles/"><u>Clash of Kings Royal Games' Top 10 Titles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-image-export-skills-an-essential-guide-to-print-settings-in-photoshop/"><u>Elevate Your Image Export Skills: An Essential Guide to Print Settings in Photoshop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-performance-and-design-a-deep-dive-into-the-samsung-galaxy-s10-review/"><u>Elite Performance and Design: A Deep Dive Into the Samsung Galaxy S10 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/emperor-of-rome-critique-building-an-empire-against-all-odds/"><u>Emperor of Rome Critique: Building an Empire Against All Odds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-google-pixelbook-go-a-masterfully-designed-chromebook-with-a-premium-price-tag/"><u>Evaluating The Google Pixelbook Go - A Masterfully Designed Chromebook with a Premium Price Tag</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-toshiba-55-inch-fire-tv-edition-why-its-a-prime-asset-to-any-home/"><u>Expert Review of the Toshiba 55-Inch Fire TV Edition - Why It's a Prime Asset to Any Home</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-reviews-navigating-through-2024s-best-smartwatch-options/"><u>Expert Reviews: Navigating Through 2024'S Best Smartwatch Options</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-best-value-in-tablets-2020-review-of-lenovo-tab-m10-and-its-impressive-display-quality/"><u>Exploring the Best Value in Tablets: 2020 Review of Lenovo Tab M10 and Its Impressive Display Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-asus-usb-bt500-bluetooth-adapter-driver-version-for-windows-11108/"><u>Get the Latest Asus USB-BT500 Bluetooth Adapter Driver (Version for Windows 11/10/8)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-m14-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy M14 4G Safely | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/turning-vimeo-video-into-reusable-mp3-chunks/"><u>Turning Vimeo Video Into Reusable MP3 Chunks</u></a></li>
+</ul></div>
 

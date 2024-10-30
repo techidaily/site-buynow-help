@@ -1,7 +1,7 @@
 ---
 title: "Reliving Classic Arcade Fun: An Expert Take on Super Mario Bros.' Game & Watch Adventure"
-date: 2024-08-15T05:56:13.949Z
-updated: 2024-08-16T05:56:13.949Z
+date: 2024-10-24T23:54:33.042Z
+updated: 2024-10-30T00:11:01.806Z
 categories:
   - BestProducts
 description: "This Article Describes Reliving Classic Arcade Fun: An Expert Take on Super Mario Bros.' Game & Watch Adventure"
@@ -40,15 +40,15 @@ Lifewire / Yoona Wagener
 
 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Samsung Galaxy Watch Active2
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/pQyytjsyngWSMZ0b1hCE3_tAtsA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_HeroSquare-8ec2b040552f4e82b569c140246d3e1f.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
@@ -81,8 +81,12 @@ Lifewire / Yoona Wagener
  The Samsung Galaxy Watch Active2 is streamlined, sporty, and simple to navigate. It comes with a vibrant SUPER AMOLED 360x360 1.2-inch display that’s easy to view in all different lighting conditions with adjustable brightness levels, the ability to use an upward wrist gesture or tap to wake, and the option of an always-on display.
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/N4yT__TbwVbN6a39Bt2U0VY1NIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_02-4211271093364edba39310d3d9b09691.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
@@ -94,8 +98,12 @@ Lifewire / Yoona Wagener
  The swipe-down quick access menu comes with even more useful features for activating the most relevant settings based on the situation. These helpful aids include shortcuts for enabling night mode to inactivate the screen and any notices while you’re sleeping and freezing the screen from interferences in the pool by turning on the water lock button. I experienced strong feedback and responsiveness with every tap or menu navigation, never feeling as if I’d lost my place or that the watch failed to register my inputs.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What’s New: New sizing, connectivity, and fitness tracking in the Active2
 
  While the general appearance and feature set hasn’t changed dramatically, the Active2 presents some clear differences over the original[Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-active-review-4766873) . The Active2 increases the display by 0.1 inches or 0.3 inches in the new larger case size that appeals to more wrist sizes.
@@ -103,13 +111,17 @@ Lifewire / Yoona Wagener
  Samsung also added an upgraded stainless steel version in addition to the standard aluminum that comes with the option of[LTE connectivity](https://www.lifewire.com/what-is-lte-3426453) . This second-generation model boasts a fan-favorite feature or Samsung wearables: the bezel. The digital bezel feature on the Active2 allows users to cycle through all screens and widgets by tapping and rotating around the edge of the display for faster navigation.
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/gunjRIGy7Cir3f3FzUIqbpUlAys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_04-46b9b421390a44f0b0dd7ad8a48a428a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
  The Active2 also offers more effortless connectivity by remembering text history and offering the ease of quick replies, including[Bitmoji](https://www.lifewire.com/bitmoji-explained-4137793) and canned responses right from the watch. It also doubles down on fitness and wellness tech by improving running analysis and offering ECG monitoring and fall detection. These features put it in direct company with the[Apple Watch](https://www.lifewire.com/apple-watch-basics-4121197) and Fitbit and Garmin smartwatches that dial up the fitness and wellness focus.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comfort: Ideal for all-day wear
 
@@ -123,9 +135,6 @@ Lifewire / Yoona Wagener
 
  Though it has a sporty edge, the band is replaceable for a more formal style, and the color options add personality that rivals models from brands such as Apple, Fitbit, and Garmin. Take color coordination further by adding your favorite shades using the My style watch face. Even if you stick with basic black, the Active2 provides a strong case for 24/7 wear as a smartwatch that blends in nicely for daily wear.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Performance: A much-improved fitness tracker
 
  A device called Active2 should have the chops to track exercise and wellness, and this watch delivers even better than the original Active. Like the first-generation model, the Active2 tracks 39 different workouts, including automatic logging of popular exercises such as running. When running with the Active, I experienced underwhelming and slightly inaccurate GPS and heart rate capture compared with a Garmin device. That wasn’t my experience with the Active2.
@@ -159,9 +168,6 @@ Lifewire / Yoona Wagener
  Android users enjoy the ease of responding to emails, calls, and messages directly from the Active2 (when it’s nearby and connected) with canned responses, emojis, and even voice input and hand-drawn responses. There’s also a new SOS feature for alerting a contact if you’ve experienced a fall. All of these features are made more accessible in standalone mode with the LTE model. Samsung Galaxy smartphone users enjoy even more symbiosis with their phones with features such as Wireless PowerShare and ECG monitoring from the Samsung Health app.
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/FGyDnFtFBooJPFED4m8KKx1gHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_03-03f2d0ff893f44228dbd65b6ce357f43.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -169,12 +175,16 @@ Lifewire / Yoona Wagener
 
  Samsung Health for Android also provides access to those new advanced metrics such as VO2 max and running performance analysis along with much more detailed graphs that correspond with all the health data the Active2 captures in the background, such as heart rate, sleep, and stress levels. If you have an iPhone, you’ll get the basics but miss out on all of these advanced perks, unfortunately.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: Right in the sweet spot
 
  The Samsung Galaxy Watch Active2 starts at $250 for the Bluetooth model or $270 for the LTE version. These price points still slot this watch below the top-tier models that ask a premium of well over $400\. Even with the standard Bluetooth and Wi-Fi connected Active2, you’ll find a lineup of apps and tools that cover most smartwatch needs. From automatic fitness tracking and some advanced health metrics to call and text response and music storage, this small and capable wearable is multi-talented and priced reasonably for its abilities.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy Watch Active 2 vs. Fitbit Sense
 
@@ -191,6 +201,13 @@ Lifewire / Yoona Wagener
  **A versatile fitness-forward smartwatch for Android users.**
 
  The Samsung Galaxy Watch Active2 performs true to its name as a wearable that helps promote and match an active lifestyle with a slim and durable build, advanced running metrics, ECG monitoring, and a generous suite of apps and connected features. The full customization available on Android and Samsung Galaxy smartphones, in particular, makes the Active2 a compelling smartwatch choice for non-iOS users.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -215,14 +232,11 @@ Lifewire / Yoona Wagener
 * Waterproof  5ATM
 * Connectivity  Bluetooth, Wi-Fi, LTE
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -231,4 +245,21 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-engaging-oratory-insights-part-8/"><u>[New] 2024 Approved Engaging Oratory Insights Part 8</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-streamline-media-management-with-top-10plus-free-instagram-to-mp4-converters/"><u>[New] In 2024, Streamline Media Management with Top 10+ Free Instagram-to-MP4 Converters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-instant-video-link-up-using-whatsapp-desktop-for-pc-calls/"><u>[Updated] Instant Video Link-Up Using WhatsApp Desktop for PC Calls</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/add-more-games-to-the-nes-classic/"><u>Add More Games to the NES Classic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-books-application-a-comprehensive-review/"><u>Apple Books Application: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/approach-identify-alternative-tests-used-in-endodontic-diagnosis/"><u>Approach: Identify Alternative Tests Used in Endodontic Diagnosis.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-safe-and-personalized-training-programs-feasible-with-the-help-of-advanced-chatgpt-technology/"><u>Are Safe and Personalized Training Programs Feasible with the Help of Advanced ChatGPT Technology?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-for-home-entertainment-maisto-rc-rock-crawler-reviewed-enthralling-family-friendly-fun/"><u>Best for Home Entertainment: Maisto RC Rock Crawler Reviewed, Enthralling Family-Friendly Fun</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-linksys-ac1900-max-stream-wifi-router-ideal-choice-for-all-households/"><u>Comprehensive Evaluation of Linksys AC1900 Max-Stream WiFi Router: Ideal Choice for All Households</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-asus-chromebook-c2-grook-for-kids-and-students-sturdy-design-and-performance/"><u>Comprehensive Review of the Asus Chromebook C2 Grook for Kids & Students: Sturdy Design and Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-dvd-ripper-software-best-tools-for-converting-dvds-on-windows-11-10-8-7-vista-and-xp/"><u>Free DVD Ripper Software: Best Tools for Converting DVDs on Windows 11, 10, 8, 7, Vista & XP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-yuva-3-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-g24-power-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola G24 Power Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-desktop-management-the-ultimate-guide-to-controlling-your-google-nest-hub-with-a-computer/"><u>Mastering Desktop Management: The Ultimate Guide to Controlling Your Google Nest Hub with a Computer</u></a></li>
+</ul></div>
 

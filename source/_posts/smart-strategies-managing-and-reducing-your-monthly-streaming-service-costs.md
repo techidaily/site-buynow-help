@@ -1,7 +1,7 @@
 ---
 title: "Smart Strategies: Managing & Reducing Your Monthly Streaming Service Costs"
-date: 2024-10-20T16:49:22.391Z
-updated: 2024-10-23T17:46:06.917Z
+date: 2024-10-22T23:35:42.549Z
+updated: 2024-10-30T06:13:42.105Z
 tags:
   - games
   - tv
@@ -48,16 +48,10 @@ Jordan Gloor / How-To Geek
 ![Screenshot of the homepage on Kanopy's website on a desktop computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/kanopy-homepage.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Two apps allow you to stream free movies and shows with no ads whatsoever, all thanks to a system of public libraries and universities. The first is called Kanopy. This free streaming service offers classic films, indie favorites, and documentaries. If you’re a fan of A24, you’ll find a wide selection of their movies through Kanopy alongside classes from The Great Courses.
@@ -80,13 +74,6 @@ Jordan Gloor / How-To Geek
 
  For sports fans, this is particularly useful as you can subscribe to a live TV streaming service during a sports season and then cancel during the off-season. That’s something you wouldn’t be able to do with a cable service that has a long-term contract.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Take Advantage of Streaming Deals
 
  Almost every major streaming service offers promotional discounts at least once a year. The best time to look out for deals is Black Friday, but Prime Day, the start of the NFL season, and National Streaming Day (May 20th) are good times to look for deals, too. For the past few years, I've signed up for streaming services like Peacock and Hulu on Black Friday and have gotten some really steep savings.
@@ -105,6 +92,13 @@ Jordan Gloor / How-To Geek
 
 ![The Disney Bundle promotional page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/799bad5a-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Disney
 
  A growing number of streaming services offer “bundle” options. This consolidates multiple services into one bill that is also lower in cost than if you were to purchase the services separately. I've gotten bundles through my cell phone provider, Verizon, which has helped me cut back on expenses.
@@ -116,15 +110,22 @@ Disney
 * **Verizon Bundles**: Verizon customers can get various streaming deals, including a bundle with Netflix and Max for $10/month (both are the ad-supported plans).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Watch Free Local Channels With an Antenna
 
 ![Holding a TV antenna from Tablo 4th Gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/tablo-4th-gen-5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
 
@@ -133,28 +134,21 @@ Corbin Davenport / How-To Geek
  With an antenna, I get dozens of local channels like CBS, FOX, ABC, and NBC, all without paying anything. For comparison, the cheapest live TV streaming service to include the big four broadcasters is YouTube TV, which costs $73 a month. Plus, with an over-the-air DVR like the ones from Tablo and AirTV. I've been able to record shows and cast them on other devices.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
+<span id="1424529">
 					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Refer Friends and Get Bill Credits
 
 ![Screenshot of a form on Fubo's website where you can invite friends to get $30 off your bill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/fubo-refer-a-friend.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you subscribe to certain live TV services like YouTube TV or Fubo, you can save some money by referring friends and family. If you share your referral code with someone else and they enter it when checking out, you’ll both get a bill credit. So it’s a win-win! I've gotten some huge discounts on YouTube TV this way.
 
@@ -177,19 +171,18 @@ Corbin Davenport / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-social-narrative-this-years-twittale-highlights/"><u>[Updated] In 2024, The Social Narrative This Year's TwitTale Highlights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/d-link-powerline-kit-unveiled-swift-installation-rapid-file-sharing-insights/"><u>D-Link Powerline Kit Unveiled: Swift Installation, Rapid File Sharing Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-latest-ai-innovations-at-wwdc-why-they-might-not-excite-you-but-should-still-impress-insights-from-zdnet/"><u>Exploring Apple's Latest AI Innovations at WWDC: Why They Might Not Excite You, But Should Still Impress - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-features-and-benefits-of-the-netgear-nighthawk-c7000-wireless-networking-solution/"><u>Exploring the Features and Benefits of the Netgear Nighthawk C7000 Wireless Networking Solution</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-digital-file-to-physical-disc-mastering-the-art-of-dvd-burning-for-downloaded-series-and-films/"><u>From Digital File to Physical Disc: Mastering the Art of DVD Burning for Downloaded Series and Films</u></a></li>
-<li><a href="https://program-issues.techidaily.com/frozen-in-action-solve-warframes-freezing-problem-once-and-for-all/"><u>Frozen in Action? Solve Warframe's Freezing Problem Once & For All</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/grabacion-de-mp4-a-formato-matroska-mkv-sin-costo-alguno-guia-paso-a-paso-con-movavi/"><u>Grabación De MP4 a Formato Matroska (MKV) Sin Costo Alguno: Guía Paso a Paso Con Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-a1x-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Oppo A1x 5G.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/petcube-budget-smart-hd-pets-camera-review-quality-meets-affordability/"><u>Petcube Budget-Smart HD Pets Camera Review: Quality Meets Affordability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner/"><u>The Ultimate Guide to the Garmin Forerunner</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-understanding-the-fitbit-charge-6-expert-review-inside/"><u>The Ultimate Guide to Understanding the Fitbit Charge 6 - Expert Review Inside</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/toshiba-55-inch-fire-tv-edition-lcd-tv-review-a-perfect-choice-for-amazon-prime-subscribers/"><u>Toshiba 55-Inch Fire TV Edition LCD TV Review: A Perfect Choice for Amazon Prime Subscribers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/total-exploration-the-dji-phantom-4-experience-reviewed/"><u>Total Exploration The DJI Phantom 4 Experience Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-world-of-digital-photo-manipulation/"><u>[New] Exploring the World of Digital Photo Manipulation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-simple-steps-to-change-iphones-call-alert-sounds/"><u>[New] In 2024, Simple Steps to Change iPhones' Call Alert Sounds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-your-way-through-screen-recording-on-mac-os-x-for-2024/"><u>[Updated] Navigating Your Way Through Screen Recording on Mac OS X for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-tp-link-archer-ax6000-evaluation-superior-or-inferior-to-netgears-nighthawk-ax12/"><u>Comprehensive TP-Link Archer AX6000 Evaluation - Superior or Inferior to Netgear's Nighthawk AX12?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-performance-assessment-third-gen-apple-tv-4k-for-enthusiasts-and-casual-viewers/"><u>Detailed Performance Assessment: Third-Gen Apple TV 4K for Enthusiasts and Casual Viewers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-screening-pacts-how-to-choose-a-cms/"><u>Elite Screening Pacts How to Choose a CMS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nubia-z50-ultramirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nubia Z50 UltraMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-screenshot-expert-evaluator/"><u>In 2024, ScreenShot Expert Evaluator</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-wireless-connectivity-with-asuss-ax6000-rt-ax88u-router-the-top-wi-fi-6-device-for-enthusiasts-and-professionals/"><u>Mastering Wireless Connectivity with Asus's AX6000 RT-AX88U Router: The Top Wi-Fi 6 Device for Enthusiasts and Professionals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mobvoi-ticwatch-pro-with-lte-an-in-depth-analysis-and-top-smartwatch-pick/"><u>Mobvoi Ticwatch Pro with LTE: An In-Depth Analysis and Top Smartwatch Pick</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-stories-browser-world-quests/"><u>Step Into Stories: Browser World Quests</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-rounder-starter-watch-in-depth-review-and-analysis-of-the-amazfit-bips-features/"><u>The All-Rounder Starter Watch: In-Depth Review and Analysis of the Amazfit Bip's Features</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-10-photography-tools-the-ultimate-apps-for-seamless-object-removal/"><u>Top 10 Photography Tools: The Ultimate Apps for Seamless Object Removal</u></a></li>
 </ul></div>
 

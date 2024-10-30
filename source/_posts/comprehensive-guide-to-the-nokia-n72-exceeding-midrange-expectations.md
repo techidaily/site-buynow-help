@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to the Nokia N7.2: Exceeding Midrange Expectations"
-date: 2024-08-15T05:55:55.638Z
-updated: 2024-08-16T05:55:55.638Z
+date: 2024-10-28T23:03:20.806Z
+updated: 2024-10-29T18:56:50.029Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Guide to the Nokia N7.2: Exceeding Midrange Expectations"
@@ -36,9 +36,6 @@ Lifewire / Kelsey Simon
 
 2.7
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
@@ -66,9 +63,6 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -77,6 +71,13 @@ Lifewire / Kelsey Simon
  I did continue forward, even though I was already disinterested, hoping the game would become more gripping. After the memory room, you’ll wake to another platform where a being tells you you’ve suffered a great injury and they are in your mind. He tries to explain who you are but before he gets too far, you’ll be attacked by something called the Sorrow. Eventually, you’ll wake in the real world, enter the game’s main city, and be able to talk to the wealth of characters living there. You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
 
@@ -98,10 +99,6 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -109,16 +106,16 @@ Lifewire / Kelsey Simon
  The one positive is the originality in the world the developers have created. The setting feels unique―a mix of strange alien tech within a fantasy city. A wide range of characters will fill the game, and they respond and react in creative ways. It’s also a fun experience to run around and talk to these various characters and explore the game’s world and the lore of Numenera.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Only worth it if you’re keen on the story**
 
  Torment: Tides of Numenera is still an expensive game, costing $50 on[Steam](https://www.lifewire.com/best-free-steam-games-4176308) when it’s not on sale. It’s a game created with a very specific type of player in mind―and I suspect most people are not going to like it.
@@ -128,8 +125,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Other story focused RPGs**
 
  There are quite a few other games available that are story-focused RPGs besides Tides of Numenera. Wasteland 2 (view on[Amazon](https://www.amazon.com/Wasteland-2-Directors-Cut-PlayStation-4/dp/B013CQHQFU/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7C) ) is a very similar game, as it is made by the same developers, but where Numenera falls flat with its heavy-handed storytelling, Wasteland 2 stands apart with a fun, tactical combat system.
@@ -142,6 +143,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Torment: Tides of Numenera
@@ -150,14 +158,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * ESRB Rating  M for Mature
 * Available Platforms  PC, MaxOS,Xbox One, PlayStation 4
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +171,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-art-of-crafting-perfect-boomerangs-in-snap/"><u>[New] 2024 Approved The Art of Crafting Perfect Boomerangs in Snap</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-to-music-youtube-to-mp3-on-macos/"><u>[Updated] 2024 Approved From Video to Music YouTube to MP3 on MacOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-solving-youtube-pixel-monotony-a-quick-guide/"><u>[Updated] Solving YouTube Pixel Monotony A Quick Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/az-capture-in-depth-app-analysis-and-reviews/"><u>AZ Capture In-Depth App Analysis & Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-samsung-ru7300-55-4k-uhd-smart-led-tv-analysis-are-the-unique-features-justified/"><u>Comprehensive Samsung RU7300 55 4K UHD Smart LED TV Analysis - Are the Unique Features Justified?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/conquering-all-terrain-in-depth-review-of-the-top-race-rc-rock-crawler-vehicle/"><u>Conquering All Terrain: In-Depth Review of the Top Race RC Rock Crawler Vehicle</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-the-cord-a-comprehensive-review-of-the-amazon-basics-flat-antenna-for-free-tv-enthusiasts/"><u>Cutting the Cord: A Comprehensive Review of the Amazon Basics Flat Antenna for Free TV Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-affordable-excellence-in-surveillance-the-pruveeo-f5-1080p-dash-cam-evaluated/"><u>Discover Affordable Excellence in Surveillance: The Pruveeo F5 1080P Dash Cam Evaluated</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-battery-life-with-a-larger-battery-capacity-than-its-predecessor-users-can-expect-improved-battery-life-for-day-to-day-use/"><u>Enhanced Battery Life: With a Larger Battery Capacity than Its Predecessor, Users Can Expect Improved Battery Life for Day-to-Day Use.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-lg-k92s-5g-feature-a-step-too-far-or-innovative-leap-forward/"><u>Evaluating LG K92's 5G Feature: A Step Too Far or Innovative Leap Forward?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-sony-xperia-5-stylish-slimmer-and-costly-features-unveiled/"><u>Evaluating the Sony Xperia 5: Stylish, Slimmer, and Costly Features Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-long-lasting-power-with-our-test-on-the-27000mah-chargetech-bank/"><u>Experience Long-Lasting Power with Our Test on the 27000mAh ChargeTech Bank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-best-online-portals-featuring-movie-preview-highlights/"><u>Explore the Best Online Portals Featuring Movie Preview Highlights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-mac-basic-sound-recording-in-audacity-for-2024/"><u>Mastering Mac Basic Sound Recording in Audacity for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-complex-world-of-ai-as-a-mental-health-aide/"><u>Navigating the Complex World of AI as a Mental Health Aide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-to-your-distinctive-tiktok-tag-for-2024/"><u>Navigating to Your Distinctive TikTok Tag for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solutions-for-non-functional-printers/"><u>Solutions for Non-Functional Printers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-perfect-companion-elites-enhanced-strap-battery-backup-and-durable-case-for-oculus-quest-2-users/"><u>Unveiling the Perfect Companion: Elite's Enhanced Strap, Battery Backup & Durable Case for Oculus Quest 2 Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Rated Portable Laptop Power Supplies
-date: 2024-08-15T05:59:36.329Z
-updated: 2024-08-16T05:59:36.329Z
+date: 2024-10-27T01:27:14.251Z
+updated: 2024-10-29T19:42:27.211Z
 categories:
   - BestProducts
 description: This Article Describes Top Rated Portable Laptop Power Supplies
@@ -38,12 +38,16 @@ Lifewire / Jeremy Laukkonen
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Acer Aspire E 15
 
 ![Acer Aspire E 15](https://www.lifewire.com/thmb/HSg9y4iyVf3W5ur1W36JJhp-BNM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_1lW4043278-Acer-Aspire-5-c1e432cd86444d3a9d55eb391bdffb0b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -77,11 +81,15 @@ Lifewire / Jeremy Laukkonen
  We put an Acer Aspire E 15 to the test around the office and out in the world to see how it holds up outside of basic benchmarks. Read on to see how it did.
 
 ![Acer Aspire E 15](https://www.lifewire.com/thmb/urRsU5n3D2A-nzQe6NGdQgrDGwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1lW4043278-Acer-Aspire-2-4cb96f03e4c748a583d14f0c8c9224dc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Design: A decent plastic case, but not exactly a premium look**
 
@@ -105,15 +113,19 @@ Aesthetics may be the Acer Aspire E 15’s weakest area.
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Display: Full HD display with awesome contrast but washed-out color**
 
  While the Aspire E 15’s screen isn’t the brightest or most colorful in the world, it is a full HD display that absolutely shines compared to the low-resolution screens found on a lot of laptops in this category.
 
  The display has decent viewing angles and great contrast, but the colors are a bit washed out. It’s fine for watching videos on YouTube and Netflix—and DVDs, of course—but it wouldn’t be our first choice for movie night. It’s definitely a display that’s best suited for work, with media and gaming as afterthoughts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **Performance: Outperforms the competition, but suffers from a slow HDD**
 
  The Acer Aspire E 15 suffers a bit from a slow hard drive, and it could stand to have a bit more RAM, but it performs exceedingly well for a laptop in this category. It beats most of the competition in all important benchmarks and is a joy to use for productivity tasks, web browsing, and even light[gaming](https://www.lifewire.com/best-gaming-laptops-under-1000-4148125) .
@@ -136,9 +148,6 @@ Aesthetics may be the Acer Aspire E 15’s weakest area.
 
  The takeaway is that we absolutely wouldn’t recommend buying this laptop for the purpose of playing games, but it is capable of rising to the task if you’re willing to lower the settings and stick to older games.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Productivity: Gets the job done at work, home, or on the go**
 
  The Aspire E 15 is designed with productivity in mind. While we found that it was capable of some light gaming, it’s definitely intended for students and people who need a basic[business laptop](https://www.lifewire.com/best-laptops-to-buy-4043650) .
@@ -146,15 +155,16 @@ Aesthetics may be the Acer Aspire E 15’s weakest area.
  The full HD screen and snappy performance make productivity tasks a breeze. You won’t have to wait around every time you want to load or switch between apps. The keyboard is comfortable and responsive, which is great for long typing sessions, and the fantastic battery life means that you can unplug for an entire work or school day without worrying about power.
 
 ![Acer Aspire E 15](https://www.lifewire.com/thmb/0j4qIM8N-IXUlX66rWrHmqZTjxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1lW4043278-Acer-Aspire-3-8bdb945a491f4f4cbab64c65fa21d9af.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Audio: Decent speakers, but no bass response**
 
  The speakers are decent enough, but the audio quality is still one of the Aspire E 15’s weaker points. They just don’t get all that loud, and when we did crank the volume all the way up, we noticed a bit of distortion in some frequency ranges. There isn’t a whole lot of bass, either, so everything sounds a little tinny—and that only gets worse at louder volumes.
@@ -162,22 +172,12 @@ Aesthetics may be the Acer Aspire E 15’s weakest area.
  Strangely enough, the audio is actually louder and clearer when the[laptop](https://www.lifewire.com/14-16-inch-laptops-833846) is sitting on a flat surface. It seems like there is a lot of sound escaping from the vents as well as through the actual speaker grills, and placing it on a solid surface seems to improve the audio quality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network: Great speeds on both 5 GHz and 2.4 GHz networks**
 
  The Aspire E 15 includes a wireless card that’s capable of connecting to both 2.4 and 5 GHz wireless networks, which is a nice touch if you have a wireless router that lets you take advantage of this feature. 2.4 and 5 GHz network compatibility is standard on more expensive laptops, but a lot of competitors in the budget category leave it out.
@@ -186,16 +186,17 @@ Key features:
 
  We found that the Aspire E 15 was able to achieve download speeds of 260 Mbps and upload speeds of 65 Mbps when connected to our 5 GHz network. When connected to our 2.4 GHz network, it notched speeds of 66 Mbps down and 64 Mbps up. These speeds are pretty good across the board.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Camera: 720p webcam takes grainy stills**
 
  The included webcam is capable of capturing 720p video, and while it works well enough for basic video calls on Skype or Discord, it may not be up to the standards necessary for professional video conferencing. It also takes grainy still images, although that may not be a huge concern unless you really need to take[photos](https://www.lifewire.com/best-laptops-to-buy-4043650) with your webcam for some reason.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Battery: Fantastic battery life that goes all day**
 
  The battery in the Aspire E 15 is exceptional, especially compared to the mediocre offerings found in similarly-priced competitors. Acer advertises a 12-hour battery life, and we found that to be a pretty accurate claim.
@@ -215,6 +216,13 @@ Key features:
 ## **Price: Extremely competitive pricing**
 
  With an MSRP of just $380, the Aspire E 15 is a fantastic deal. If you can get it for even less than that, then it’s truly a steal. The more expensive configuration with an SSD, discrete graphics, and Core i7, is also a good deal at an MSRP of $599 if you have a little more room in your budget.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Blows the competition out of the water in almost every category**
 
@@ -252,14 +260,11 @@ Key features:
 * Camera  0.9 MP webcam
 * Display  15.6” 1920 x 1080
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,4 +273,20 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-secrets-to-proficient-mobile-and-desktop-film-recording/"><u>[New] In 2024, Secrets to Proficient Mobile and Desktop Film Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-quintessential-quotient-facebooks-top-5-adjustments/"><u>[New] The Quintessential Quotient Facebook's Top 5 Adjustments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-avi-gif-conversion-via-filmora-platform/"><u>[Updated] Master the Art of AVI-GIF Conversion via Filmora Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/escalating-game-speed-improving-windows-fps/"><u>Escalating Game Speed: Improving Window's FPS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-kobo-nia-how-it-stacks-up-against-kindle-on-amazon/"><u>Evaluating the Kobo Nia - How It Stacks Up Against Kindle on Amazon</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-excellence-with-apple-m1-2020-redefining-arm-powered-computing-today/"><u>Experience Excellence with Apple (M1, 2020) - Redefining ARM-Powered Computing Today</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-pioneer-bdr-xs06-blu-ray-drive-evaluating-its-mobile-usability-and-functional-capabilities/"><u>Expert Analysis of Pioneer BDR-XS06 Blu-Ray Drive: Evaluating Its Mobile Usability & Functional Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-mapmyrides-features-and-performance/"><u>Expert Analysis on MapMyRide's Features and Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-pros-and-cons-of-the-lg-k51-beautiful-design-meets-underpowered-cpu-challenges/"><u>Exploring the Pros and Cons of the LG K51: Beautiful Design Meets Underpowered CPU Challenges</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-revamped-echo-dot-4th-generation-whats-new/"><u>Exploring the Revamped Echo Dot (4Th Generation) - What's New?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-future-of-the-metaverse-next-steps-explored-by-zdnet/"><u>Navigating the Future of the Metaverse: Next Steps Explored by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-troubleshooting-and-repairing-your-lenovo-laptops-malfunctioning-webcam/"><u>Ultimate Guide: Troubleshooting and Repairing Your Lenovo Laptop's Malfunctioning Webcam</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-potential-explore-the-best-9-gpt-plugins-now/"><u>Unleash Potential: Explore the Best 9 GPT Plugins Now</u></a></li>
+</ul></div>
 

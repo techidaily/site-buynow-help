@@ -1,7 +1,7 @@
 ---
 title: "My Favorite Portable Gaming Device for On-the-Go Play: Beyond the JoyCon"
-date: 2024-10-18T01:29:11.449Z
-updated: 2024-10-23T20:27:24.283Z
+date: 2024-10-27T18:59:21.903Z
+updated: 2024-10-29T22:18:48.840Z
 tags:
   - games
   - tv
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 * The trademark crank feature sets the Playdate apart, offering transformative gameplay experiences.
 
  When I want to untether my long gaming sessions from a TV, it's hard to resist my Nintendo Switch. However, when I need a quick fix at home, the handheld I'm reaching for most often is one you might not have heard of: the Playdate.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Is a Playdate?
 
@@ -50,6 +43,13 @@ Tim Rattray / How-To Geek
 
  It's also noteworthy that unlike the bright screens we often spend much of our day starting at, the Playdate's screen isn't backlit. It's akin to reading on an [e-ink Kindle](https://facebook-video-files.techidaily.com/updated-the-key-to-captivating-audiences-crafting-fb-slideshows/), except you get to game instead. Thus, a quick Playdate session becomes a respite for the eyes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Games Are Satisfying in Quick Bursts
 
 ![Playdate playing 'Under the Castle.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/playdate-with-under-the-castle.jpeg) 
@@ -65,22 +65,15 @@ Tim Rattray / How-To Geek
  Also worth noting is that you can easily both sideload and buy games through your computer's web browser, which automatically download to your Playdate. This means that the quick game you intend to play will likely be waiting for you next time you grab the handheld. This fuss-free functionality ensures your quick session is spent playing instead of waiting for an install. It's a feature found on most modern hardware but is nonetheless critical to the Playdate's pick-up-and-play sensibility.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Longer Experiences Are Also Available
 
 ![Playdate and box on platform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/playdate-and-box-on-platform.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
 
@@ -89,15 +82,22 @@ Tim Rattray / How-To Geek
  You can even "dock" a Playdate via USB-C into your computer using Panic's [Mirror](https://play.date/mirror/) app. Beyond the benefit of a bigger screen for longer sessions, it also allows you to use your [controller of choice](https://hardware-reviews.techidaily.com/unlocking-the-potential-of-computer-components-with-toms-gear-guides/). However, some games work better than others depending on if and how they use the crank, and it runs counter to the true charm of using the Playdate as a handheld.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  We Need to Talk About the Crank
 
  No discussion of the Playdate is complete without remarking on its trademark feature: the crank. This pops out of a nook in the side of the device and is utilized by most games in some capacity. It's transformative at its best, be it adjusting a camera lens or operating it like a beer tap. The clever ways in which developers utilize the crank are endlessly surprising and provide an experience unavailable on any other console. Plus, it's hard to go wrong with the fun-factor of turning a crank.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Is The Playdate Right for You?
 
@@ -120,18 +120,17 @@ Tim Rattray / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-echoing-emptiness-guiding-graduated-gone-sounds-in-pp-for-2024/"><u>[New] Echoing Emptiness Guiding Graduated Gone Sounds in PP for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-speech-recognition-made-accessible-transforming-audio-to-text-with-ease-in-microsoft-word/"><u>[New] Speech Recognition Made Accessible Transforming Audio to Text with Ease in Microsoft Word</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/implementing-dynamic-filters-transform-your-videos-digitally-for-2024/"><u>Implementing Dynamic Filters Transform Your Videos Digitally for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionize-your-pets-eating-habits-with-the-cutting-edge-petsafe-multi-meal-feeder/"><u>Revolutionize Your Pet's Eating Habits with the Cutting-Edge PetSafe Multi-Meal Feeder</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sonic-extravagance-beoplay-h8i-diary/"><u>Sonic Extravagance - Beoplay H8i Diary</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-nokia-72-critique-a-flagship-contender-in-the-affordable-phone-arena/"><u>The Nokia 7.2 Critique: A Flagship Contender in the Affordable Phone Arena</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-amazonbasics-shredder-a-look-at-its-12-sheets-and-cutting-edge-safety-features/"><u>Top AmazonBasics Shredder: A Look at Its 12 Sheets and Cutting-Edge Safety Features</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-rated-cable-modems-for-fast-internet/"><u>Top-Rated Cable Modems for Fast Internet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/troubleshooting-steps-for-windows-10-photos-freeze-for-2024/"><u>Troubleshooting Steps for Windows 10 Photos Freeze for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-review-the-netgear-c3000-gateway-modem-router-combo-a-tech-relic-or-still-relevant-today/"><u>Unboxing Review: The Netgear C3000 Gateway Modem-Router Combo - A Tech Relic or Still Relevant Today?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-a-thoughtful-look-at-googles-pixel-phone/"><u>Unveiling the Potential: A Thoughtful Look at Google's Pixel Phone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide-for-2024/"><u>Updated Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/charting-the-financial-pathway-of-tseries-within-youtube-market-space-for-2024/"><u>Charting the Financial Pathway of TSeries Within YouTube Market Space for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-dji-air-2s-ultimate-drone-evaluation-and-ranking/"><u>Exploring the DJI Air 2S: Ultimate Drone Evaluation and Ranking</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30i to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-upgrade-from-windows-11-home-to-pro/"><u>How to Upgrade From Windows 11 Home to Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-hot-30i-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Infinix Hot 30i</u></a></li>
+<li><a href="https://fox-info.techidaily.com/nostalgic-notions-integrating-timeless-vhs-effects-into-modern-video-production-for-2024/"><u>Nostalgic Notions Integrating Timeless VHS Effects Into Modern Video Production for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixes-for-your-pc-when-it-gets-stuck-at-boot-up/"><u>Resolved: Fixes for Your PC When It Gets Stuck at Boot Up</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/retro-handheld-showdown-unveiling-the-magic-behind-the-nintendo-game-and-watch-super-mario-experience/"><u>Retro Handheld Showdown: Unveiling the Magic Behind the Nintendo Game & Watch Super Mario Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-future-of-home-cinema-unveiling-the-enhanced-siri-capabilities-and-stunning-hd-quality-of-the-apple-tv-4k/"><u>The Future of Home Cinema: Unveiling the Enhanced Siri Capabilities and Stunning HD Quality of the Apple TV 4K</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-v30-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-the-x-chair-x4-is-an-essential-addition-for-any-professionals-office-space-reviewed-here/"><u>Why the X-Chair X4 Is an Essential Addition for Any Professional's Office Space Reviewed Here</u></a></li>
 </ul></div>
 

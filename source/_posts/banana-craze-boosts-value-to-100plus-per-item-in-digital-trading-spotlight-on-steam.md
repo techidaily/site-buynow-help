@@ -1,7 +1,7 @@
 ---
 title: Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
-date: 2024-10-23T03:28:25.936Z
-updated: 2024-10-24T03:46:33.661Z
+date: 2024-10-27T16:21:42.047Z
+updated: 2024-10-29T17:42:08.699Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Steam’s latest clicker game sensation has users trading virtual bananas on the Steam Community Market for hundreds of real-world dollars. Just what is going on?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  This Game Is Bananas
@@ -35,10 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A virtual banana from the Banana game on Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ss_641d6402187d5335b1e345498f0eff293a054f75-1920x1080.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Pony / Sky / AestheticSpartan
@@ -48,10 +48,16 @@ Pony / Sky / AestheticSpartan
  These in-game items may be given out for free, but they can be traded on the Steam Community Market for real money. You can buy and sell bananas from as little as a few cents up to hundreds or thousands of dollars. The rarer the banana, the higher the value the community has assigned to it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's Really Going On Here?
@@ -63,10 +69,10 @@ Pony / Sky / AestheticSpartan
 ![The free-to-play Banana game in third place on the Steam charts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-12-at-12-32-52.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It’s still a bit of a mystery what’s really going on here. The game makes no claims that in-game items have any inherent value so on the surface, Banana seems innocent enough. The game doesn’t appear to be doing anything in the background (so it’s not a stealthy crypto miner), and you don’t even need to leave it open as long as you open it regularly for a few clicks to collect your fruit.
@@ -96,19 +102,17 @@ Pony / Sky / AestheticSpartan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-elevating-your-immersive-video-storytelling-mastering-360-degree-edits-in-premierepro-for-2024/"><u>[Updated] Elevating Your Immersive Video Storytelling Mastering 360-Degree Edits in PremierePro for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/at-lp120xusb-a-vinyl-enthusiasts-dream-digitalizer/"><u>AT-LP120XUSB: A Vinyl Enthusiast’s Dream Digitalizer</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/easycapture-pro-free-for-windows-10-for-2024/"><u>EasyCapture Pro - Free for Windows 10 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-vectors-top-10-online-image-havens/"><u>Elite Vectors Top 10 Online Image Havens</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-unveiling-the-power-of-playstation-4-pros-ultra-hd-capabilities/"><u>Expert Analysis: Unveiling the Power of PlayStation 4 Pro's Ultra HD Capabilities</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/how-to-optimize-and-minimize-your-videos-for-twitter-in-three-easy-steps-using-any-device/"><u>How to Optimize and Minimize Your Videos for Twitter in Three Easy Steps Using Any Device!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-unmasking-momentum-makers-seeking-out-niche-influencers/"><u>In 2024, Unmasking Momentum Makers Seeking Out Niche Influencers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s7plus-the-ultimate-android-tablet/"><u>In-Depth Analysis of the Samsung Galaxy Tab S7+: The Ultimate Android Tablet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/michael-kors-access-gen-5e-the-ultimate-guide-reviews-features-and-style/"><u>Michael Kors Access Gen 5E: The Ultimate Guide - Reviews, Features & Style</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/navigating-zoom-settings-for-top-notch-audio-capture/"><u>Navigating ZOOM Settings for Top-Notch Audio Capture</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionizing-digital-sketching-a-complete-guide-to-the-huion-kamvas-gt-191-tablet/"><u>Revolutionizing Digital Sketching: A Complete Guide to the Huion Kamvas GT-191 Tablet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/strategie-per-scappare-il-formato-m4v-cosa-significa-m4v-ed-esecuzione-dellapertura/"><u>Strategie per Scappare Il Formato M4V: Cosa Significa M4V Ed Esecuzione Dell'Apertura</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-guide-7-high-ranking-audio-transformation-apps/"><u>Ultimate Guide 7 High-Ranking Audio Transformation Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmatched-personalization-utilize-your-own-8-tailored-ais/"><u>Unmatched Personalization: Utilize Your Own 8 Tailored AIs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-enhancing-stardew-experience-discovering-the-top-7-modifications/"><u>[New] In 2024, Enhancing Stardew Experience Discovering the Top 7 Modifications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-your-creative-potential-an-exhaustive-tutorial-for-youtube-video-submission/"><u>[Updated] 2024 Approved Harnessing Your Creative Potential An Exhaustive Tutorial for YouTube Video Submission</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-simplify-your-internet-experience-step-by-step-guide-to-disabling-youtube-on-devices/"><u>[Updated] In 2024, Simplify Your Internet Experience Step-by-Step Guide to Disabling Youtube on Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turn-your-youtube-shorts-into-a-stream-of-income/"><u>[Updated] Turn Your YouTube Shorts Into a Stream of Income</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chromatic-magic-transform-your-video-with-color-knowledge/"><u>Chromatic Magic Transform Your Video with Color Knowledge</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/complete-immersive-camera-review/"><u>Complete Immersive Camera Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-samsung-galaxy-watch-brilliant-design-and-features/"><u>Comprehensive Evaluation of Samsung Galaxy Watch: Brilliant Design & Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-lightweight-lenovo-thinkpad-x1-nano-laptop-review/"><u>Expert Analysis of the Lightweight Lenovo ThinkPad X1 Nano Laptop Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unexpected-freezing-problems-when-booting-into-windows-10/"><u>Fixing Unexpected Freezing Problems When Booting Into Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-note-30-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Note 30 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-ring-video-doorbell-pro-unmatched-intelligence-in-home-security/"><u>In-Depth Analysis of the Ring Video Doorbell Pro: Unmatched Intelligence in Home Security</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-ultimate-gaming-experience-with-asus-vg2-the-ultimate-choice-for-console-gamers/"><u>Unleashing Ultimate Gaming Experience with Asus VG2# - The Ultimate Choice for Console Gamers</u></a></li>
 </ul></div>
 

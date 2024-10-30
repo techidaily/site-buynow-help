@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-10-23T03:26:32.958Z
-updated: 2024-10-24T04:55:34.084Z
+date: 2024-10-27T00:39:17.268Z
+updated: 2024-10-29T22:23:51.207Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Problem With Capacitive Touch Buttons
 
  Two things around the house routinely make me reach for the swear jar: cables and touch buttons. Cables are an unavoidable fact of life, the bane of [anyone who appreciates a nice clean setup](https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-profile-video-attraction/). But touch buttons are a deliberate choice.
@@ -30,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you’ve got wet hands, forget about it. If your hands are slightly damp, you’re rolling the dice on a 50-50 chance of success. If the button gets wet, who knows what will happen? Sometimes you don’t need moisture for these buttons to behave erratically, they just go haywire.
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
 
@@ -48,25 +48,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
 
@@ -76,6 +62,13 @@ Tim Brookes / How-To Geek
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  But this logic doesn’t extend to every device. Though the argument for longevity is a valid one, did we trade usability for reliability? And is that trade-off worth it?
@@ -83,13 +76,6 @@ Tim Brookes / How-To Geek
  Is it better to get more time out of an inferior user experience, or accept that moving parts occasionally require maintenance? Is your washing machine motor going to fail before the interface on the front of it? One of those things is far cheaper and easier to replace.
 
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Some Manufacturers Ditched Touch for a Reason
 
@@ -99,6 +85,13 @@ Tim Brookes / How-To Geek
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Occasionally the PS4 would turn itself on randomly, for seemingly no reason. Worse still, the console could randomly turn itself off or eject the disc for no reason. Add to this the constant threat of curious dog and cat noses that are perfect for triggering capacitive touch buttons, and the fact that it was way too easy to trigger these buttons when cleaning or simply walking past.
@@ -106,6 +99,13 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -126,16 +126,16 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-skybound-streaming-engaging-your-audience-on-facebook-for-2024/"><u>[New] Skybound Streaming Engaging Your Audience on Facebook for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unblock-mystery-solved-detecting-snapchat-shutout-for-2024/"><u>[Updated] Unblock Mystery Solved Detecting Snapchat Shutout for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/deep-dive-samsung-galaxy-s8s-4k-capabilities/"><u>Deep Dive Samsung Galaxy S8's 4K Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/economical-apple-watch-se-analysis-and-overview/"><u>Economical Apple Watch SE Analysis and Overview</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-extended-performance-with-the-incredibly-durable-lg-gram-156-inch-laptop-2018-a-detailed-analysis/"><u>Experience Extended Performance with the Incredibly Durable LG Gram 15.6-Inch Laptop (2018) - A Detailed Analysis</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-cutting-edge-techniques-for-captivating-online-advertising/"><u>In 2024, Cutting-Edge Techniques for Captivating Online Advertising</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v27e-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V27e Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-alienwares-premium-gaming-machine-the-unbeatable-aurora-r11-our-choice-for-best-pc-of-2021/"><u>In-Depth Analysis of Alienware's Premium Gaming Machine: The Unbeatable Aurora R11 - Our Choice for Best PC of 2021</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-samsung-galaxy-watch3-assessment-timeless-design-meets-cutting-edge-technology/"><u>In-Depth Samsung Galaxy Watch3 Assessment: Timeless Design Meets Cutting-Edge Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/powershot-g9x-mark-ii-review-a-retro-styled-photography-perfect-for-travelers/"><u>PowerShot G9X Mark II Review – A Retro-Styled Photography Perfect for Travelers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secure-and-unshakable-direct-url-addition-on-your-tiktok-profile/"><u>[New] Secure & Unshakable Direct URL Addition on Your TikTok Profile</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-samsung-picture-editor-features-and-proscons/"><u>[Updated] In-Depth Samsung Picture Editor Features and Pros/Cons</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-the-mysteries-of-smooth-audioshifts/"><u>2024 Approved Unraveling the Mysteries of Smooth Audioshifts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/before-making-your-purchase-here-are-the-5-most-important-things-to-consider-about-fitness-trackers/"><u>Before Making Your Purchase, Here Are the 5 Most Important Things to Consider About Fitness Trackers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-smart-doorbells-ring-versus-nest-a-detailed-review/"><u>Comparing Smart Doorbells: Ring versus Nest - A Detailed Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/petcube-economical-high-definition-pet-monitoring-system/"><u>Petcube Economical High Definition Pet Monitoring System</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-deal-elite-cleaner-app-for-iphones/"><u>Secure Your Deal: Elite Cleaner App for iPhones</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-tutorial-adding-internal-and-external-links-with-the-emeditor-software/"><u>Step-by-Step Tutorial: Adding Internal and External Links with the EmEditor Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-breakdown-and-insights-on-linksys-wrt1900acs-an-open-source-solution-for-home-networking/"><u>The Complete Breakdown and Insights on Linksys WRT1900ACS - An Open Source Solution for Home Networking</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-latest-microsoft-surface-pro-7-consistent-excellence-and-minor-enhancements-alike/"><u>Unpacking the Latest Microsoft Surface Pro 7 - Consistent Excellence and Minor Enhancements Alike</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unboxing Bose SoundSport Wires - Sturdy Quality Confirmed
-date: 2024-08-15T05:58:19.572Z
-updated: 2024-08-16T05:58:19.572Z
+date: 2024-10-24T01:58:38.860Z
+updated: 2024-10-30T04:19:36.223Z
 categories:
   - BestProducts
 description: This Article Describes Unboxing Bose SoundSport Wires - Sturdy Quality Confirmed
@@ -41,8 +41,12 @@ Lifewire / Yoona Wagener
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bose Frames Audio Sunglasses
 
 ![Bose Frames](https://www.lifewire.com/thmb/BuvZl2QelYzm4BKj83DqAyy0SR8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_01LW4051794-1-5af9a422af2d4d92b187e87b1bcbb1e7.jpg)
@@ -73,9 +77,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## **Design: Sleek, but not as refined as you’d expect**
 
  Bose Frames are available in two styles: Alto and Rondo. The Alto option is larger, with lenses that measure about two inches across, a distance of 0.7 inches between the lenses, and an overall length (from the lenses to the end of the arms) of 6.4 inches.
@@ -94,9 +95,6 @@ Lifewire / Yoona Wagener
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Comfort: Wearable but slightly heavy**
 
  The Bose Frames offer a fairly comfortable fit. While they’re not at all bulky or hefty in the hands, we did notice that wearing them for over an hour did start to feel heavy on the face. We experienced some discomfort particularly in the nose bridge area where the frames pressed into the skin, but this is not an uncommon fit issue with regular sunglasses or glasses.
@@ -106,6 +104,13 @@ Lifewire / Yoona Wagener
  In terms of overall lens quality, we appreciated how rugged they were. They picked up smudges, but scratching was a non-issue even when we dropped the frames on a hardwood floor and left them loose in a bag with keys.
 
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Sound Quality: Warm but not immersive**
 
@@ -128,9 +133,12 @@ Lifewire / Yoona Wagener
  The Bose Connect app is also the place to view current Bose AR ([augmented reality](https://www.lifewire.com/augmented-reality-ar-definition-4155104) ) apps. Clicking on the AR icon in the app leads to what Bose calls the Experience Showcase, which features third-party apps built around music, audio, gaming, sports, and travel experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance:** **Bose AR experience needs some work**
 
  The Bose AR platform is still new and emerging, and as of right now there are only three products that are enabled with the technology: Bose Frames, Bose Headphones 700, and Bose QC35 headphones II. Each of these devices have built-in sensors that pick up on head and body movements and orientation, and this information is used by the AR apps.
@@ -169,9 +177,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Bose Frames are an innovative and forward-thinking wearable for the busy, stylish, and music-loving consumer. If you like the idea of audio built in to your sunglasses and you don’t need sweat resistance or smartphone notifications, these not-quite smart sunglasses could be an ideal everyday accessory.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Bose QuietComfort 35 II](https://www.lifewire.com/bose-quietcomfort-35-ii-review-4589261)
@@ -179,8 +184,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * [Bose Noise Cancelling Headphones 700](https://www.lifewire.com/bose-noise-cancelling-headphones-700-review-4770549)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Frames Audio Sunglasses
@@ -203,8 +212,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +219,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-creating-stunning-hdr-portraits-step-by-step/"><u>[New] 2024 Approved Creating Stunning HDR Portraits Step-by-Step</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-eyemosaic-the-essential-photo-patcher/"><u>2024 Approved EyeMosaic The Essential Photo Patcher</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/achieve-optimal-pet-nutrition-with-our-in-depth-look-at-the-petsafe-auto-feeder-review/"><u>Achieve Optimal Pet Nutrition with Our In-Depth Look at the PetSafe Auto Feeder Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amp-up-your-drive-with-the-top-rated-mmock-18000mah-portable-vehicle-lifter-reviewed/"><u>Amp Up Your Drive with the Top-Rated MMOCK 18000mAh Portable Vehicle Lifter Reviewed!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/anthropics-smart-photo-editor-comprehensive-app-evaluation/"><u>Anthropics Smart Photo Editor: Comprehensive App Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/approach-recall-the-definitions-and-symptoms-of-reversible-and-irreversible-pulpitis/"><u>Approach: Recall the Definitions and Symptoms of Reversible and Irreversible Pulpitis.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-vive-cosmos-a-robust-entry-in-a-crowded-vr-headset-battlefield/"><u>Assessing the Vive Cosmos - A Robust Entry in a Crowded VR Headset Battlefield</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/byb-e4nce-reviews-the-pinnacle-of-led-lamps-with-superior-swing-arm-functionality/"><u>BYB E4nce Reviews: The Pinnacle of LED Lamps with Superior Swing Arm Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choose-your-e-reader-a-detailed-look-at-the-ipad-vs-kindle-vs-nook/"><u>Choose Your E-Reader: A Detailed Look at the iPad Vs. Kindle Vs. NOOK</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-samsung-galaxy-watch-active-2-to-its-predecessor-upgraded-connections-better-controls-and-advanced-insights/"><u>Comparing Samsung Galaxy Watch Active 2 to Its Predecessor - Upgraded Connections, Better Controls, and Advanced Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-reasons-behind-the-pixel-6s-sluggish-biometric-authentication/"><u>Exploring the Reasons Behind the Pixel 6'S Sluggish Biometric Authentication</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-best-drawing-apps-for-chromebook-for-2024/"><u>FREE Best Drawing Apps for Chromebook for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-fixing-half-muted-content-on-twitter-live-streams/"><u>In 2024, Fixing Half-Muted Content on Twitter Live Streams</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-x100-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo X100 FRP Locks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-high-definition-wonders-with-the-nikon-d500/"><u>In 2024, High Definition Wonders with the Nikon D500</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-8-methods-for-cracking-copyrighted-dvds-discover-5-no-cost-solutions/"><u>Top 8 Methods for Cracking Copyrighted DVDs: Discover 5 No-Cost Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/which-voice-assistant-should-you-choose-comparing-alexa-and-google-assistant/"><u>Which Voice Assistant Should You Choose?: Comparing Alexa and Google Assistant</u></a></li>
+</ul></div>
 

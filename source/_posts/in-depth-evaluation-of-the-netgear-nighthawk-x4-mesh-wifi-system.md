@@ -1,7 +1,7 @@
 ---
 title: In Depth Evaluation of the Netgear Nighthawk X4 Mesh WiFi System
-date: 2024-08-15T05:59:52.967Z
-updated: 2024-08-16T05:59:52.967Z
+date: 2024-10-22T16:33:40.538Z
+updated: 2024-10-30T03:47:49.724Z
 categories:
   - BestProducts
 description: This Article Describes In Depth Evaluation of the Netgear Nighthawk X4 Mesh WiFi System
@@ -38,9 +38,6 @@ thumbnail: https://www.lifewire.com/thmb/uxDV6gAMWH9kIOjex5JpDeJJBLY=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/AfRhNgqeOD7JfcVqpjzm5LwPSB4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
@@ -78,8 +75,12 @@ thumbnail: https://www.lifewire.com/thmb/uxDV6gAMWH9kIOjex5JpDeJJBLY=/400x300/fi
  It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: Avoid the app**
 
  The setup options for the Netgear Nighthawk AX8 are the same as with Netgear’s other extenders—even those without Wi-Fi 6 support. You’ll begin with the extender plugged in near your router. If your router supports[WPS](https://www.lifewire.com/what-is-wps-4842308) , then you can pair the extender with it easily by following the process listed in the included booklet, which is as simple as pressing a button on the router and then doing the same on the extender.
@@ -91,11 +92,21 @@ thumbnail: https://www.lifewire.com/thmb/uxDV6gAMWH9kIOjex5JpDeJJBLY=/400x300/fi
  Over and over, the setup process wouldn’t complete… and then it finally did. I ran into similar issues with the other Netgear extenders, in which setup processes didn’t work as expected on the first or second time, but this was a much longer and more arduous ordeal. Finally, however, I got the Nighthawk AX8 up and running. From there, you’ll need to find a new location for the extender—roughly halfway between the router and your Wi-Fi dead zone is ideal, but play around with positioning if you’re not getting the results you seek.
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Connectivity: Smooth sailing**
 
@@ -112,9 +123,6 @@ thumbnail: https://www.lifewire.com/thmb/uxDV6gAMWH9kIOjex5JpDeJJBLY=/400x300/fi
  Given the high max speeds, it wasn’t surprising to see strong gaming performance, as well. While playing Rocket League, I saw smooth gameplay across the wired Ethernet connection as well as both wireless networks, with a ping as low as 33 via the wired connection. The wireless ping was only a few points higher.
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -125,9 +133,12 @@ thumbnail: https://www.lifewire.com/thmb/uxDV6gAMWH9kIOjex5JpDeJJBLY=/400x300/fi
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: More than most**
 
  The Netgear Nighthawk AX8 Wi-Fi 6 Mesh Extender is listed at $250, although it’s being sold for $220 at multiple retailers as of this writing. That’s definitely on the higher end for an extender.
@@ -135,8 +146,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Should you really spend that much on an extender? If you don’t already have a new Wi-Fi 6 router, then probably not. You might see higher peaks of speed as I did, but rather than trying to mix and match old and new tech, you’re probably better off investing in a new Wi-Fi mesh system that can cover the entire house. Netgear’s Orbi is a favorite, as is Google’s similar Nest Wi-Fi system.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Netgear Nighthawk AX8 vs. Netgear Nighthawk X6S (EX8000)**
 
  Both of these Netgear Nighthawk Wi-Fi extenders will set you back $200 or more, and the key difference between them—aside from design—is the Wi-Fi 6 compatibility of the Nighthawk AX8\. The Nighthawk X6S (see on[Amazon](https://www.amazon.com/NETGEAR-Wi-Fi-Range-Extender-EX8000/dp/B074F3M2W8/?tag=lifewire-onsite-prod-20&ascsubtag=4846125%7Cn35b11b2c61b54fa1a2d951691d1a61ed04%7C) ) doesn’t have that, but it does deliver excellent 5GHz range and has four Gigabit Ethernet ports for wired devices. The Nighthawk AX8 is more future-proof as a result, but at a greater cost that becomes increasingly difficult to justify the higher, it climbs.
@@ -164,8 +179,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +186,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-demystifying-youtubes-seo-a-keyword-research-guide/"><u>2024 Approved Demystifying YouTube's SEO A Keyword Research Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/5-effiziente-schritte-um-ihre-daten-von-android-zu-ihrem-neuen-iphone-zu-transferieren/"><u>5 Effiziente Schritte, Um Ihre Daten Von Android Zu Ihrem Neuen iPhone Zu Transferieren</u></a></li>
+<li><a href="https://app-tips.techidaily.com/auto-enabled-security-for-half-a-billion-googles-bold-move-to-protect-users-with-mandatory-2fa/"><u>Auto-Enabled Security for Half a Billion: Google's Bold Move to Protect Users with Mandatory 2FA</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-list-of-digital-schooling-sites-for-your-course-needs/"><u>Discover the Ultimate List of Digital Schooling Sites for Your Course Needs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dive-into-our-in-depth-evaluation-of-the-samsung-galaxy-a2ts-value-for-money-as-a-midrange-device/"><u>Dive Into Our In-Depth Evaluation of the Samsung Galaxy A2t's Value for Money as a Midrange Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elgoog-explained-exploring-the-features-of-the-foremost-web-reflector-platform/"><u>ElgooG Explained: Exploring the Features of the Foremost Web Reflector Platform</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-strategies-for-getting-the-best-print-results-in-adobe-photoshop/"><u>Essential Strategies for Getting the Best Print Results in Adobe Photoshop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-cost-vs-speed-benefits-an-experts-take-on-tp-link-archer-a6-ac1200-router/"><u>Evaluating the Cost Vs. Speed Benefits: An Expert's Take on TP-Link Archer A6 AC1200 Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-trade-off-high-durability-yet-limited-velocity-in-a-thorough-review-of-the-cat-s42-rugged-phone/"><u>Evaluating the Trade-Off: High Durability Yet Limited Velocity in a Thorough Review of the Cat S42 Rugged Phone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experiencing-the-new-features-of-the-latest-iphone-15-pro/"><u>Experiencing the New Features of the Latest iPhone 15 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-the-top-features-of-microsofts-ergonomic-keyboard-for-surface-devices/"><u>Expert Evaluation: The Top Features of Microsoft’s Ergonomic Keyboard for Surface Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pccapcut/"><u>PCでCapCutアプリを使い動画の音楽部分を取り除くガイド</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/securing-your-scene-minimize-camera-jostle-for-2024/"><u>Securing Your Scene Minimize Camera Jostle for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-10-reliable-convertors-transforming-mkv-to-mp4-on-pcs-and-macs/"><u>Top 10 Reliable Convertors: Transforming MKV to MP4 on PCs and Macs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-solve-razer-microphone-issues-in-just-five-simple-stages/"><u>Troubleshoot and Solve Razer Microphone Issues in Just Five Simple Stages</u></a></li>
+</ul></div>
 

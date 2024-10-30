@@ -1,7 +1,7 @@
 ---
 title: Why You Might Reconsider the Necessity of Investing in Your Own Arcade Game Console
-date: 2024-10-21T06:02:52.508Z
-updated: 2024-10-24T00:58:09.749Z
+date: 2024-10-26T16:27:11.102Z
+updated: 2024-10-29T16:15:20.003Z
 tags:
   - games
   - tv
@@ -26,13 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I've been toying with the idea of getting an old-school arcade cabinet. Not the original single-game systems I grew up with, but a modern emulated multi-game system that has the look and feel of stand-up arcade cabs. It's the ultimate geeky white elephant and as you might imagine as a responsible adult, I'm conflicted.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Arcade Cabs Are Too Big (or Are They?)
 
  All of my gaming stuff has been getting smaller and smaller over time. Gone is my huge gaming PC tower, replaced by a gaming laptop. My TV is now a razor-thin [OLED](https://extra-tips.techidaily.com/discovering-the-best-in-display-tech-10-list-for-your-mac/) mounted up on a wall. My [OLED Nintendo Switch](https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-15-prevention-and-solution-drfone-by-drfone-ios/) won't quite go in a pocket but it's still pretty tiny. So the idea of bringing a virtually immovable gaming device into my house seems like a bad idea.
@@ -44,10 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I make reference to "JAMMA" boards below, and while it's not super-important information, you'll want to know that this is short for "Japan Amusement Machine and Marketing Association" and describes a wiring standard for arcade cabinets. Hence, a game on a JAMMA circuit board will work with a JAMMA arcade cabinet. This is the most common standard you'll encounter with both classic arcade cabinets and modern remakes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Finding Good Boards Is Getting Harder (Does It Matter?)
@@ -68,28 +61,48 @@ Mister
 
  You can, of course, also roll your own by running something like [MAME](https://fox-hovers.techidaily.com/2024-approved-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/) on a Raspberry Pi. There are plenty of [Raspberry Pi arcade projects](https://medium.com/swlh/how-to-build-a-raspberry-pi-arcade-machine-3de4df2894c6) to find online, but again, this is for casual fans because the emulation won't satisfy purists. If it were me, unless my editors graciously bought me a MisterCade to review (hint-hint!) I'd probably buy something like the Arcade Legends systems, and just accept that emulation will never be perfect.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  DIY Cabs Are Too Hard (But, Not Really?)
 
  I might be into 3D printing, and like building desktop computers, but I am not actually a DIY guy. So the idea of building a cabinet from scratch isn't appealing. Even [building one from a kit](https://www.youtube.com/watch?v=qHfnyZZzvuo) fills me with dread, though it looks only mildly more involved than assembling an IKEA-style flatpack bookshelf.
 
  The good news is that there's often a local company that will either build these kits for you, or make ones to your specifications,and then ship them a short distance to your door. Whether you actually live close enough to one of these outfits to make use of this depends on where you live, but I guess if I had no other choice, spending an afternoon assembling a kit isn't the worst way to spend your time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Maybe I’ll Just Buy an Arcade Stick (But It’s Just Not the Same)
 
 ![HORI Fighting Stick alpha](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/hori-fighting-stick-alpha.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _HORI_ 
 
  Maybe you don't have to buy the whole arcade cabinet. Instead, why not just buy a good arcade stick? If I just want to play casually, it doesn't even have to be that good. There are lots of great arcade sticks around thanks to the fighting game genre. Heck, you can even get those Pandora's Box arcade systems built into an arcade stick deck, that hooks up to your TV.
 
  That sounds sensible, and you can pack it all away when you're not playing. Still, it feels like it defeats the point of having a dedicated arcade system. It's like having a Chess board set up somewhere. You can just walk up to it and start playing with no friction. If you have friends over, people could just come and go as they felt like it, playing when the mood takes them.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  I Have Too Much Gaming Stuff Already (But Cabinets Are Cool)
 
@@ -100,19 +113,6 @@ _HORI_
  "Can't argue with that." adds the guy with the halo to my right.
 
  Well, I guess just _one_ more gaming thing can't hurt. Except maybe in the wallet area.
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  It’ll Be My Most Expensive Game (But Also My Coolest)
 
@@ -135,24 +135,22 @@ _HORI_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-cutting-edge-tools-for-unique-youtube-channel-names/"><u>[Updated] Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>[Updated] Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-the-newest-echo-generation-see-how-it-stacks-up/"><u>A Comprehensive Review of the Newest Echo Generation - See How It Stacks Up!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/advantages-and-disadvantages-of-using-pidgin-chat/"><u>Advantages & Disadvantages of Using Pidgin Chat</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-most-downloaded-torrent-sites-of-the-year-your-essential-top-1e-checklist/"><u>Explore the Most Downloaded Torrent Sites of the Year - Your Essential Top 1E Checklist</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-12-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 12 iOS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>In 2024, Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-aukey-usb-30-hub-assessment-uncomplicated-powerful-connectivity/"><u>In-Depth Aukey USB 3.0 Hub Assessment - Uncomplicated, Powerful Connectivity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-mp4950mp495d-printer-drivers-for-windows-versions-11-8-and-7/"><u>Latest Canon MP4950/MP495D Printer Drivers for Windows Versions: 11, 8 & 7</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-lithuanian-online-top-tutorials-guide/"><u>Mastering Lithuanian Online: Top Tutorials Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/outstanding-performance-unleashed-motorola-one-5g-ace-with-lightning-fast-connectivity-and-powerful-battery/"><u>Outstanding Performance Unleashed - Motorola One 5G Ace with Lightning-Fast Connectivity & Powerful Battery</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/photoscape-software-assessment-the-ultimate-guide-to-free-image-manipulation/"><u>PhotoScape Software Assessment: The Ultimate Guide to Free Image Manipulation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rethink-your-inbox-the-8-most-amazing-email-platforms-to-replace-gmail/"><u>Rethink Your Inbox - The 8 Most Amazing Email Platforms to Replace Gmail</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-navigating-windows-11s-boot-configuration-for-beginners/"><u>Solved: Navigating Windows 11'S Boot Configuration for Beginners</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/soundbot-sb210-appraisal-stellar-sonic-performance-when-running-smoothly-this-winter/"><u>Soundbot SB210 Appraisal: Stellar Sonic Performance when Running Smoothly This Winter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-topmate-c32-an-unbeatable-combination-of-affordability-and-excellence-in-laptop-cooling-solutions/"><u>The TopMate C3ˈ2 - An Unbeatable Combination of Affordability and Excellence in Laptop Cooling Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-discounted-offers-on-oneplus-during-prime-day-bonanza/"><u>Top Discounted Offers on OnePlus During Prime Day Bonanza</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-review-ring-doorbell-pro-plus-performance/"><u>Ultimate Review: Ring Doorbell Pro Plus Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elevate-your-playthroughs-secrets-of-ps3-video-capture/"><u>[Updated] In 2024, Elevate Your Playthroughs Secrets of PS3 Video Capture</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1-top-5-techniques-for-downloading-audio-from-videos-on-the-web/"><u>1. Top 5 Techniques for Downloading Audio From Videos on the Web</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-fundamentals-of-gif-animation-mastery/"><u>2024 Approved Fundamentals of GIF Animation Mastery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-server-cabinets-and-enclosures-expert-picks/"><u>Essential Server Cabinets & Enclosures - Expert Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-ultimate-picture-quality-with-samsung-qn55q6-in-depth-4k-uhd-and-hdr10plus-review/"><u>Experience Ultimate Picture Quality with Samsung QN55Q6지납습바 - In-Depth 4K UHD and HDR10+ Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-mobvoi-ticwatch-pro-leads-as-an-exceptional-smartwatch-with-advanced-connectivity/"><u>How the Mobvoi Ticwatch Pro Leads as an Exceptional Smartwatch with Advanced Connectivity</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-aural-and-visual-summary-synthesizer/"><u>In 2024, Aural and Visual Summary Synthesizer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-garmin-vivosmart-4-the-latest-in-personal-health-tracking-technology/"><u>In-Depth Review of Garmin Vivosmart 4: The Latest in Personal Health Tracking Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-great-outdoors-with-garmins-reliable/"><u>Mastering the Great Outdoors with Garmin's Reliable</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/minecraft-unveiled-a-complete-analysis-suitable-for-every-age-group/"><u>Minecraft Unveiled: A Complete Analysis Suitable for Every Age Group</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-free-music-making-software-a-comprehensive-guide/"><u>New The Best Free Music Making Software A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-physxloaderdll-not-found-error-when-starting-games/"><u>Resolving the 'physxloader.dll Not Found' Error When Starting Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-telnet-configuration-three-essential-steps-for-wins-oses/"><u>Secure Telnet Configuration: Three Essential Steps for Wins OSes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tt560-lights-up-reliability-in-a-simple-package/"><u>TT560 Lights Up: Reliability in a Simple Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-on-the-go-charging-with-halo-bolts-dual-purpose-power-unit-reviewed/"><u>Unlocking the Potential of On-the-Go Charging with Halo Bolt's Dual-Purpose Power Unit Reviewed</u></a></li>
 </ul></div>
 

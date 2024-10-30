@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Analysis: A Game of Imperfections and Untapped Potential"
-date: 2024-08-15T06:00:06.624Z
-updated: 2024-08-16T06:00:06.624Z
+date: 2024-10-23T21:37:40.840Z
+updated: 2024-10-30T06:35:45.745Z
 categories:
   - BestProducts
 description: "This Article Describes Cyberpunk 2077 Analysis: A Game of Imperfections and Untapped Potential"
@@ -40,9 +40,6 @@ Lifewire / Erika Rawes
 ## Antop AT-127
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/c44ZzplZZa-lUcjT4Z7AcaJ3E9w=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -66,8 +63,12 @@ Lifewire / Erika Rawes
 [TV antennas](https://www.lifewire.com/choosing-over-the-air-antenna-for-hdtv-4586507) , like the Antop AT-127, are a great way to get local channels without paying a monthly fee. As streaming services have become commonplace, some subscribers don’t have access to live TV and broadcast channels. Some of the[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) provide advanced features, but their designs leave something to be desired. I tested the attractive Antop AT-127 Antenna for a week to see if its design, setup, and performance make it a worthy option.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Reversible faux wood finish**
 
  The Antop AT-127 is one of the better-looking antennas I’ve come across. It’s a thin, plastic rectangular antenna that measures 13 inches wide by nine inches tall. At 0.02 inches in thickness, it’s almost paper-thin, but the plastic feels sturdy enough to withstand regular wear and tear.
@@ -80,6 +81,13 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup: Easier than most**
 
  Setting up the antenna is relatively intuitive. You just connect the antenna to the coaxial/antenna-in connection on your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) . The antenna has an easy-push connector, instead of a connector you have to twist onto the threading. This makes for easier setup because you don’t have to struggle behind your TV with trying to screw on the[coaxial cable](https://www.lifewire.com/coaxial-vs-optical-digital-cable-3134605) .
@@ -89,8 +97,12 @@ Lifewire / Erika Rawes
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
@@ -102,8 +114,12 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -120,9 +136,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
  You can find indoor antennas for less than $15 (view on[Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845583%7Cna0f30cabffec4337b279a8df3e4c99b015%7C) ). The[AmazonBasics](https://www.lifewire.com/amazonbasics-flat-tv-antenna-review-4845569) 35-mile range antenna is a good example, though it doesn’t come with a stand or have the easy-push connector. Aesth etically, the AmazonBasics antenna doesn’t hold a candle to the Antop antenna, but it does cost significantly less.
@@ -133,9 +146,6 @@ Lifewire / Erika Rawes
 
  Although its range isn’t as long as some of its competitors, the Antop AT-127 picks up channels well and delivers clear high definition television.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  AT-127
@@ -152,14 +162,11 @@ Lifewire / Erika Rawes
 * Screen Resolution  1080p
 * Connectivity Options  Quick push “E-Z connect” F connector (coaxial cable)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +175,22 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-transformative-audio-techniques-for-media-professionals/"><u>[New] 2024 Approved Transformative Audio Techniques for Media Professionals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-free-photos-for-every-project-an-exclusive-list-of-top-12-online-sources/"><u>[Updated] 2024 Approved Free Photos for Every Project - An Exclusive List of Top 12 Online Sources</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enjoy-endless-creativity-discover-the-best-in-cheap-online-video-downloading-for-2024/"><u>[Updated] Enjoy Endless Creativity Discover the Best in Cheap, Online Video Downloading for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-revolutionizing-content-creation-the-future-of-live-video-on-facebook/"><u>[Updated] Revolutionizing Content Creation The Future of Live Video on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/dive-into-full-rotation-cinematography-9-critical-tips/"><u>Dive Into Full Rotation Cinematography 9 Critical Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-frozen-windows-volume-backup-service/"><u>Fixes for Frozen Windows Volume Backup Service</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ideal-precision-stylus-options-for-ipad-users/"><u>Ideal Precision Stylus Options for iPad Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-petfeeding-solutions-discover-petsafes-precision-six-meal-dispenser/"><u>Innovative PetFeeding Solutions: Discover PetSafe's Precision Six Meal Dispenser</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-cyberpunk-2eruption-how-a-promising-vision-became-an-unfinished-work/"><u>Inside Cyberpunk 2Eruption: How a Promising Vision Became an Unfinished Work</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-capabilities-of-the-tp-link-av1300-powerline-wi-fi-repeater-an-in-depth-review/"><u>Inside the Capabilities of the TP-Link AV1300 Powerline Wi-Fi Repeater: An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insightful-review-on-the-samsung-galaxy-fit-empowering-your-active-routine/"><u>Insightful Review on the Samsung Galaxy Fit: Empowering Your Active Routine</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-cordless-communication-devices-2024-edition/"><u>Leading Cordless Communication Devices - 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-interstellar-dominance-the-ultimate-stellaris-strategies/"><u>Mastering Interstellar Dominance - The Ultimate Stellaris Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/proven-picks-leading-capture-cards-for-enthusiast-streamers-for-2024/"><u>Proven Picks Leading Capture Cards for Enthusiast Streamers for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-title-the-enigmatic-world-of-fibonacci-sequences-and-their-mathematical-implications-in-modern-science/"><u>Updated 2024 Approved Title The Enigmatic World of Fibonacci Sequences and Their Mathematical Implications in Modern Science</u></a></li>
+</ul></div>
 

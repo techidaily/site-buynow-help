@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2024-10-22T08:04:51.607Z
-updated: 2024-10-23T22:43:16.385Z
+date: 2024-10-23T02:40:38.709Z
+updated: 2024-10-29T22:32:10.577Z
 tags:
   - games
   - tv
@@ -20,6 +20,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * To avoid issues with cross-play, many games allow you to turn it off in the settings if needed.
 
  Remember when cross-platform multiplayer gaming was something we all wanted? Now that we've got it, I don't think it's panned out exactly how I expected. Here's why I'm so far unimpressed by cross-platform gaming.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Cross-Platform Multiplayer Offers Gamers
 
@@ -41,6 +48,13 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  A few games offer "controller matching" to avoid this issue, allowing players to match with other players who are using the same hardware. This would be a better feature if more games included it, but sadly, it's not seen on a lot of cross-platform titles. This is only an issue when you're playing competitive PVP titles, however. Co-op titles don't need any adjusting for this metric.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Mouse-and-Keyboard vs. Controller War
 
 ![An Xbox wireless controller on top of a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_2395089811-1.jpg) 
@@ -54,10 +68,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Problems That Impact Competitive Play
@@ -68,22 +82,15 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
 ![A Razer Firefly V2 Pro gaming mouse on a light-up mouse pad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/gaming-mouse-on-therazer-firefly-v2-pro_53678776130_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -106,13 +113,6 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You Can Always Turn Off Cross-Play
 
  I think that keeping cross-platform play to non-competitive titles would fix most of the problems. I like playing co-op with my friends. However, if cross-platform competitive play is to exist, developers may need to ensure that the players on both teams are matched based on their controller type.
@@ -134,20 +134,20 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/op-gear-for-youtube-beginners-essential-tech-guide/"><u>[New] Top Gear for YouTube Beginners Essential Tech Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-best-calling-solutions-7-1-ranked/"><u>[Updated] Windows' Best Calling Solutions, #7-#1 Ranked</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/accelerated-french-pronunciation-for-hues/"><u>Accelerated French Pronunciation for Hues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cultivating-lasting-partnerships-with-brands-in-youtube-land/"><u>Cultivating Lasting Partnerships with Brands in Youtube Land</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decision-time-which-is-better-a-head-to-head-analysis-of-apple-watch-s9-and-fitbit-charge-6/"><u>Decision Time! Which Is Better? A Head-to-Head Analysis of Apple Watch S9 & Fitbit Charge 6</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y36-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y36 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-samsung-galaxy-f04-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Samsung Galaxy F04</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v30-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo V30</u></a></li>
-<li><a href="https://extra-support.techidaily.com/magix-acid-pro-unveiled-and-options-examined-for-2024/"><u>Magix ACID Pro Unveiled & Options Examined for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mohu-blade-tv-antenna-review-a-unique-design-and-good-indoor-performance/"><u>Mohu Blade TV Antenna Review: A Unique Design And Good Indoor Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pedaling-towards-better-tracking-inside-look-at-mapmyride-app-review/"><u>Pedaling Towards Better Tracking? Inside Look at MapMyRide App Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-a51-5g-evaluation-excellent-deal-for-budget-conscious-tech-enthusiasts/"><u>Samsung Galaxy A51 5G Evaluation: Excellent Deal for Budget-Conscious Tech Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-a51-5g-unleashed-exceptional-value-for-next-gen-network-speed-enthusiasts/"><u>Samsung Galaxy A51 5G Unleashed - Exceptional Value for Next-Gen Network Speed Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-choice-for-budget-readers-a-comprehensive-amazon-kindle-2019-review/"><u>The Best Choice for Budget Readers? - A Comprehensive Amazon Kindle (2019) Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-tips-for-increasing-fps-performance-in-ring-of-elysium/"><u>Ultimate Tips for Increasing FPS Performance in Ring of Elysium</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlocking-advanced-screen-captures-on-android/"><u>[New] 2024 Approved Unlocking Advanced Screen Captures on Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-youtube-micro-clips-for-2024/"><u>[New] Mastering the Art of YouTube Micro Clips for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-creative-setbacks-sudden-content-expulsion-for-2024/"><u>[Updated] Creative Setbacks Sudden Content Expulsion for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-entry-level-gaming-edit-suite-reviews/"><u>[Updated] In 2024, Top Entry-Level Gaming Edit Suite Reviews</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-win11s-premier-selection-of-videography-software/"><u>2024 Approved Win11's Premier Selection of Videography Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-unveil-the-strengths-and-features-of-linksys-velop-mesh-router-system/"><u>Experts Unveil the Strengths and Features of Linksys Velop Mesh Router System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filmmaking-revolution-15-essential-gopro-luts-revealed-for-2024/"><u>Filmmaking Revolution 15 Essential GoPro LUTs Revealed for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-tecno-pova-6-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Tecno Pova 6 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-aviation-simulation-unveiled-in-x-plane-11-review-immersive-visuals-and-realistic-controls/"><u>Next-Level Aviation Simulation Unveiled in X-Plane 11 Review: Immersive Visuals & Realistic Controls</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nintendo-switch-lite-review/"><u>Nintendo Switch Lite Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pure-beetalk-in-every-chirp-under-20/"><u>Pure BeeTalk in Every Chirp, Under $20!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-chromecast-with-google-tv-a-new-contender-against-amazons-firetv/"><u>Review of Chromecast with Google TV - A New Contender Against Amazon's FireTV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-rebel-t6-review-affordable-camera-for-newbies/"><u>The Rebel T6 Review: Affordable Camera for Newbies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
 </ul></div>
 

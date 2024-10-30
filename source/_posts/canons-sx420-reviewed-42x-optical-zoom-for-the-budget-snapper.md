@@ -1,7 +1,7 @@
 ---
 title: "Canon's SX420 Reviewed: 42X Optical Zoom for the Budget Snapper"
-date: 2024-08-15T05:55:53.675Z
-updated: 2024-08-16T05:55:53.675Z
+date: 2024-10-25T18:21:33.503Z
+updated: 2024-10-30T03:31:22.053Z
 categories:
   - BestProducts
 description: "This Article Describes Canon's SX420 Reviewed: 42X Optical Zoom for the Budget Snapper"
@@ -63,10 +63,6 @@ Lifewire / Danny Chadwick
  If you’re on a budget and in the market for a dashboard camera, the Apeman C450 is a worthy consideration. For under $50, it captures smooth, detailed video in full 1080p HD resolution. It’s easy to use (even though the user manual is substandard) and it won’t give you any problems during the drive. It does have a few points of frustration, but that shouldn’t be a shock at this price point—it’s hard to make a truly good dashcam for this cheap.
 
 ![Apeman C540 Dashcam](https://www.lifewire.com/thmb/wyf8r7L4gDINa5Etodv7VR7ogds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4062264_03-3a8b995526fe491b9634a885db40804a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
 
@@ -86,11 +82,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Apeman C540 Dashcam](https://www.lifewire.com/thmb/A63ztrIxThbZlrb_lHJH3YL7778=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4062264_02-6ef4e204d0bd452b9601ec468e5358bf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup Process: You’ll have to figure a lot of stuff out for yourself**
 
  The user manual included with the Apeman C450 isn’t particularly useful, and though its written in English, the language is full of confusing phrases that feel like poor translations. The features are not fully explained and there are key omissions in the instructions that make understanding and using this dashcam much harder.
@@ -105,9 +112,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Your first time using the Apeman C450, you also have the option to set up a time and date stamp as well as a car identification number on your videos. This is a nice option to keep track of when a video was recorded, and which car it was recorded from if you have more than one camera in different vehicles.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Camera Quality: Acceptable for a budget device**
 
  You can set this dashcam to capture video in 1080p, 720p, and VGA resolution. That’s impressive for a camera this size, and Apeman puts 1080p Full HD front and center in their marketing materials. While it provides a good level of detail and clarity in the video, it’s worth noting that other dashcams out there can record in resolutions up to 1440p.
@@ -118,9 +122,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Travels as well as the rest of them**
 
  During our testing, the Apeman C450 performed exactly as we expected. It never shut down unexpectedly, it stayed attached to the windshield, and it yielded no problems during the drive.
@@ -142,15 +143,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  One thing to note about this car dashboard camera is that the battery life is quite short. When we tested the Apeman C450, it powered down 28 minutes after we unplugged it. If you want continuous recording, it must be connected to power at all times.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Affordable even on a budget**
 
  The defects of this dashcam can be forgiven pretty easily considering that it costs less than $50\. If you’re looking for a very inexpensive device, the Apeman C450 is a decent if somewhat flawed solution—it’s definitely not built as solidly and lacks the high resolution of its more expensive competitors, but if you are comfortable working around those shortcomings, this dashcam performs pretty well for the price.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Competition: Apeman C450 vs. Z-Edge Z3 Plus**
 
  We tested the Apeman C450 side by side with the Z-Edge Z3 Plus dashcam. The Z3 Plus is considerably more expensive, and while we found these two devices to be generally similar in form and function, we ultimately favored the Z3 Plus because it lacks the small annoyances that made the Apeman C450 frustrating.
@@ -164,6 +179,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  **A decent budget dashcam with some flaws that are annoying but not necessarily deal-breaking.**
 
  Despite a poor-quality build and some design quirks, the Apeman C450 does its job as a dashcam. It has a discreet design, captures pretty good-quality video, and has important extra features like collision detection and a surveillance mode. If you can get past some of its foibles, it's definitely worth the price tag.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -187,14 +209,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Storage  Up to 32GB SDHC card (Class 10)
 * Warranty  12 months
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -203,4 +222,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-capture-app-windows-10-edition/"><u>[New] Ultimate Capture App - Windows 10 Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-synergy-youtube-content-on-facebook-network-for-2024/"><u>[Updated] Unveiling Synergy YouTube Content on Facebook Network for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/guida-per-risolvere-lerrore-di-avvio-in-windows-nella-modalita-usb/"><u>Guida per Risolvere L'errore Di Avvio in Windows Nella Modalità USB</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Pro Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unveiling-the-reasons-behind-missing-shorts-thumbnails/"><u>In 2024, Unveiling the Reasons Behind Missing Shorts Thumbnails</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-oneplus-9-pro-style-meets-velocity-with-superior-cameras/"><u>In-Depth Look at the OnePlus 9 Pro - Style Meets Velocity with Superior Cameras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-patekfly-12-your-shape-shifting-tripod/"><u>Innovative Patekfly 12: Your Shape-Shifting Tripod</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-your-ipad-keeping-pace-with-the-latest-technology-trends/"><u>Is Your iPad Keeping Pace With the Latest Technology Trends?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lg-gram-156-ultra-lightweight-laptop-review-2018-long-battery-life-and-powerful-performance/"><u>LG Gram 15.6 Ultra-Lightweight Laptop Review (2018) - Long Battery Life & Powerful Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lightning-fast-lg-gram-17-the-ultimate-guide-to-its-slim-powerful-performance/"><u>Lightning-Fast LG Gram 17: The Ultimate Guide to Its Slim, Powerful Performance</u></a></li>
+</ul></div>
 

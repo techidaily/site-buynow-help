@@ -1,7 +1,7 @@
 ---
 title: "Top Picks for Android Lovers: In-Depth Look at Samsung Galaxy Tab S7 Features and Performance"
-date: 2024-08-15T05:57:20.517Z
-updated: 2024-08-16T05:57:20.517Z
+date: 2024-10-27T00:16:17.545Z
+updated: 2024-10-29T23:03:58.899Z
 categories:
   - BestProducts
 description: "This Article Describes Top Picks for Android Lovers: In-Depth Look at Samsung Galaxy Tab S7 Features and Performance"
@@ -42,9 +42,6 @@ Lifewire / Erika Rawes
 ## TP-Link Archer A9 AC1900 Smart Wireless Router
 
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/aMRk3dxCpK74Zcn9NCYLlSncVTA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_HeroSquare-05a827c48b274d8e9ccd0070e770f4d4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -66,9 +63,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer A9 is one of the brand’s[more popular routers](https://www.lifewire.com/best-long-range-routers-4122554) because of the features it offers at a low price point. With technologies like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) compatibility and[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , the Archer A9 should be convenient and project a Wi-Fi signal over a long range. These days, with more and more households containing home offices, multiple streaming devices, and several smart home products, how does the Archer A9 hold up? I tested the TP-Link Archer A9 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## **Design: Basic, but clever**
 
  There’s nothing striking about the design of the Archer A9\. It’s gloss black, with indicator lights on the front and the ports, power switch, WPS button, and antennas located in the back. The gloss finish fingerprints and smudges easily, so I would have rather seen a matte finish, but the A9 has an intelligent design otherwise. The branding is small—not tacky or obtrusive—and the A9’s venting is cleverly designed. Instead of just having vent holes conspicuously covering the device, it has recesses that segment the router into three portions and hide the venting. The venting recesses look purposeful, and they enhance A9’s aesthetic instead of taking away from the design.
@@ -81,9 +75,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## **Connectivity: Dual Band AC1900**
 
  The Archer A9 is a[dual-band](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) AC1900 router, so speeds max out at 1300 Mbps over the 5Ghz band and 600 Mbps over the 2.4 Ghz band. Setting up the networks was fast and easy, and I had my 5 Ghz and my 2.4 Ghz networks set up within five minutes using the companion app.
@@ -100,31 +91,49 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/FTFFrgOH8v5VhGXgjmzgjTUMPNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_03-ec9553f0029b4f2fba363745ab7b9778.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Network Performance: Not bad**
 
  I live in a suburb about 20 miles outside of Raleigh, NC, and I have Spectrum (a Charter company) as my internet service provider. Internet speeds in my home max out at 400 Mbps.
 
  In the same room as the router, speeds were excellent (naturally), getting up to 352 Mbps on the 5 Ghz band and 76 Mbps on the 2.4 Ghz band. I traveled upstairs, and speeds clocked in at a respectable 124 Mbps on the 5Ghz band and 36 Mbps over 2.4 Ghz. The signal remained strong almost everywhere in my two-level home, even in areas like closets, and many other places that could conceivably be Wi-Fi dead zones. However, I experienced a few slow zones in my garage, and in a guest room located on the opposite side of the home. I also experienced a spotty connection in the yard. The signal degraded significantly around the home’s exterior, so if you like to use your devices outside, you’ll want to invest in a[Wi-Fi extender](https://www.lifewire.com/best-wifi-extenders-4043312) , or go with a different router entirely.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## **Range: Around 2,000 square feet (give or take)**
 
  I didn’t see an exact range for the Archer A9 in the spec sheet, but I was able to get coverage in just about every area of my 3,000 square foot home. This is not to say the range is 3,000 square feet, as several factors like the type and number of devices you have, wall thickness, obstructions, your ISP, and other factors can all impact the signal quality and range. Generally speaking, it’s safe to say the A9 could probably cover at least a 2,000 square foot house.
 
 ![TP-Link Archer A9](https://www.lifewire.com/thmb/yosOFzPzSpoghULMfbOuUFI5_E0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_A9_06-94b9a314d8d24a37a7b4c90c7962e8a4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Tether app**
 
@@ -144,9 +153,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **TP-Link Archer A9 vs. Netgear AC2300 Nighthawk Smart Wi-Fi Router**
 
  The Netgear AC2300 router is a simultaneous dual-band router with advertised speeds of 1625/600 Mbps. The AC2300 has two USB ports (one USB 2.0 and one USB 3.0) instead of just one USB port like the Archer A9, and it has a 1Ghz dual-core processor. The two routers have some differences, but they also boast a lot of similar features—MU-MIMO, smart connect, Alexa compatibility, and a companion app. The Netgear AC2300 (view on[Amazon](https://www.amazon.com/R7000P-100NAS-Nighthawk-Ethernet-Compatible-Parental/dp/B01NA80JML/?tag=lifewire-onsite-prod-20&ascsubtag=5076937%7Cn2952d2b5973949d990fe5b789fed97f118%7C) ) is more expensive, with a price tag of $200\. Once you get up into the $200 plus range, you may want to go ahead and get a tri-band or even a Wi-Fi 6 router. The TP-Link Archer A9 provides a better balance in terms of affordability and features.
@@ -156,6 +162,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  **A capable long-range router for those with average to moderate networking demands.**
 
  The TP-Link Archer A9 is an ideal router for a household with an average number of devices, but homes full of gamers or home office workers may want something a little more robust.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -177,14 +190,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Range  Long range
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,4 +203,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/deal-websites-for-accessing-free-licensed-audio-files-for-2024/"><u>[New] Ideal Websites for Accessing Free, Licensed Audio Files for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-best-collection-sites-for-quick-access-to-youtube-vids/"><u>[New] In 2024, Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-viewing-experience-selecting-between-ultrawide-and-uhd-4k/"><u>[New] Optimal Viewing Experience Selecting Between UltraWide and UHD 4K</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-avoiding-obscurity-tips-for-staff-picked-videos-at-vimeo/"><u>[Updated] In 2024, Avoiding Obscurity Tips for Staff-Picked Videos at Vimeo</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unmasking-falsified-follower-fabrications-on-feeds/"><u>[Updated] Unmasking Falsified Follower Fabrications on Feeds</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-retrieve-forgotten-iphone-backup-key-a-step-by-nstep-guide/"><u>How to Retrieve Forgotten iPhone Backup Key: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-huawei-p20-pro-analysis-impressive-photography-capabilities-of-an-excellent-device/"><u>In-Depth Huawei P20 Pro Analysis: Impressive Photography Capabilities of an Excellent Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-google-pixel-6-camera-performance-a-comprehensive-review/"><u>In-Depth Look at Google Pixel 6 Camera Performance - A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-apples-premier-tracker-ideal-for-iphone-enthusiasts/"><u>In-Depth Review of Apple's Premier Tracker, Ideal for iPhone Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/long-hours-at-the-office-discover-how-the-ergohead-mat-enhances-long-term-standing-posture-and-comfort/"><u>Long Hours at the Office? Discover How the Ergohead Mat Enhances Long-Term Standing Posture & Comfort</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-tablet-choices-decoding-importance-of-dimensions-and-mass-for-optimal-use/"><u>Mastering Tablet Choices: Decoding Importance of Dimensions and Mass for Optimal Use</u></a></li>
+</ul></div>
 

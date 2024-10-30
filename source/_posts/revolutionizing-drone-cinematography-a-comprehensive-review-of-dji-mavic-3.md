@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Drone Cinematography: A Comprehensive Review of DJI Mavic 3"
-date: 2024-08-15T05:59:02.649Z
-updated: 2024-08-16T05:59:02.649Z
+date: 2024-10-28T23:40:10.086Z
+updated: 2024-10-30T00:08:05.330Z
 categories:
   - BestProducts
 description: "This Article Describes Revolutionizing Drone Cinematography: A Comprehensive Review of DJI Mavic 3"
@@ -37,12 +37,16 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AmazonBasics Ultra-Thin Antenna
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -73,9 +77,6 @@ Lifewire / Erika Rawes
 
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup: Relatively easy**
 
  Setting up the antenna is pretty straightforward. You start by plugging one end of the coaxial cable into the antenna, and then the other end to the coaxial/antenna-in connector to your[TV](https://www.lifewire.com/best-tvs-to-buy-4061107) .
@@ -85,8 +86,12 @@ Lifewire / Erika Rawes
  Next, you change your TV to the correct input (usually TV, antenna, or Coax). Then, go to your TV’s menus and start the auto-programming process, which[scans for available channels](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) . The process takes a few minutes, and sometimes your TV won’t start to locate channels until about halfway through the auto-programming process.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -96,6 +101,13 @@ Lifewire / Erika Rawes
  So many things[affect an antenna’s performance](https://www.lifewire.com/how-to-improve-tv-antenna-reception-4586904) —location, household electronics, tree cover, tower location, and more. The antenna displays channels of high quality. However, sometimes the channels would take a few seconds to load, and other times, I’d see a pixelated effect when I first changed the channel that would clear up after a few seconds. Once the picture was fully loaded, it was in clear high definition. The antenna is capable of displaying a clear HD picture, so I couldn’t tell the difference between the antenna’s picture and the picture from streaming services like Hulu or Netflix.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/GRXmDZjwX-_X2TyOZoHytHKrjDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-3-70b77c023b7049ef985c61cf6f5064ad.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -107,17 +119,11 @@ Lifewire / Erika Rawes
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Super affordable**
 
  The AmazonBasics Flat TV antenna sells in used condition on Amazon for only $13\. In new condition, it sells for $20, which is still a great deal. However, you can find other affordable antennas for between $20 and $50 that provide a much longer range, and many offer additional features, like a longer cable. With the AmazonBasics model, you can return the unit within 30 days if it doesn’t work in your area.
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/MN6DSsu9Myyo6CdrSW5MJTjHoug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-4-fd9968307cb44c9d9e824750413e0028.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -132,8 +138,12 @@ Lifewire / Erika Rawes
  The AmazonBasics Antenna is a good option for anyone who wants an ultra-cheap way to get broadcast TV.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Ultra-Thin Antenna
@@ -150,14 +160,11 @@ Lifewire / Erika Rawes
 * Ports  Coax
 * Cable length  10-foot Coax Cable
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +173,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-impressive-display-innovations-top-10-mac-displays-of-the-year/"><u>[New] 2024 Approved Impressive Display Innovations - Top 10 Mac Displays of the Year</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-essential-tips-direct-camera-roll-upload-to-snapchat/"><u>[New] Essential Tips Direct Camera Roll Upload to Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smartphonedslr-camerass-optimal-gimbals-uncovered-1-10/"><u>[New] Smartphone/DSLR Cameras's Optimal Gimbals Uncovered #1-#10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capturing-clarity-exploring-the-features-of-apeakscreen-software/"><u>[Updated] Capturing Clarity Exploring the Features of Apeakscreen Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-transforming-spontaneitous-tunes-into-structured-youtube-playlists/"><u>[Updated] In 2024, Transforming Spontaneitous Tunes Into Structured YouTube Playlists</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/disguising-faces-online-an-expedient-selection-of-apps/"><u>Disguising Faces Online An Expedient Selection of Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-financing-and-buying-ps-games-securely/"><u>Expert Tips: Financing and Buying PS Games Securely</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-visual-virtuosos-questions-addressed/"><u>In 2024, Visual Virtuosos Questions Addressed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-an-m3-macbook-air-worth-it-3-reasons-why-you-should-buy-one/"><u>Is an M3 MacBook Air Worth It? 3 Reasons Why You Should Buy One</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-pc-sound-card-picks-for-the-ultimate-gaming-and-recording-experience/"><u>Leading PC Sound Card Picks for the Ultimate Gaming and Recording Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-device-lifespan-with-poweradd-pilot-pro2-a-detailed-overview-of-its-charging-performance/"><u>Maximizing Device Lifespan with POWERADD Pilot Pro2: A Detailed Overview of Its Charging Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-new-horizinas-windows-10-)-11-evolution-guide/"><u>Navigating New Horizinas: Windows 10 -> 11 Evolution Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-best-cable-modem-options-in-202c-a-consumers-handbook/"><u>Navigating the Best Cable Modem Options in 202C: A Consumer's Handbook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/optimal-drone-choices-available-immediately-for-2024/"><u>Optimal Drone Choices Available Immediately for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/protecting-your-iphone-the-best-6-antivirus-solutions-reviewed/"><u>Protecting Your iPhone: The Best 6 Antivirus Solutions Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ps5-versus-ps5-slim-understanding-the-key-distinctions-between-models/"><u>PS5 Versus PS5 Slim – Understanding the Key Distinctions Between Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/scosche-revolt-dual-review/"><u>Scosche ReVolt Dual Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-enigmatic-identity-of-microsoft-surface-go-unveiled-in-our-affordable-tablet-review/"><u>The Enigmatic Identity of Microsoft Surface Go Unveiled in Our Affordable Tablet Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-best-flvto-alternatives-youtube-converter-for-2024/"><u>Top 10 Best Flvto Alternatives YouTube Converter for 2024</u></a></li>
+</ul></div>
 

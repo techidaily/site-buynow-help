@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing a Bursting Steam Game Collection
-date: 2024-10-21T17:14:40.922Z
-updated: 2024-10-24T10:46:24.148Z
+date: 2024-10-24T22:10:46.902Z
+updated: 2024-10-30T04:14:19.102Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After collecting games from sales, bundles, and elsewhere, I have over 200 games in my Steam library and not enough time to play them all. This called for some prioritization. Here's how I prioritized the games that are worth my time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What's In My Game Library: The Assessment Step
@@ -39,10 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Right away, I had a series of around twenty to thirty games I could reasonably get through, which interested me greatly. To narrow down the list further, I checked the Steam reviews on the store pages of each of these games. Those that came out as "mostly positive" went to the top of the queue, and those that had mixed or bad reviews dropped down the list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Lightweights: Trading Time For Fun
@@ -72,10 +72,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After going through this process, I whittled down the 200+ games in my inventory to a little over 25 titles, all of which appealed to me and which I was looking forward to playing. I still have the other 175+ games in my library, but I'm not really as interested in playing them. Maybe when I'm bored, I'll install something and give it a go, but the priority games have already been decided.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  My Methodology Isn't Perfect
@@ -86,14 +86,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![How Long to Beat entry for Elden Ring.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-20-at-08-18-46.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Arguably the biggest issue that someone attempting to copy my method will have is categorizing their games into games that can be completed relatively easily and those that will take a lot more time. Judging average playtime using a website like [How Long to Beat](https://howlongtobeat.com) for a game isn't a solid metric, and it's usually better to look at the reviews and comments on the game to get a better feel for that.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Clean Steam Library Is a Happy Steam Library
 
@@ -114,18 +120,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-no-cost-guide-to-capturing-your-favorite-shows/"><u>[Updated] 2024 Approved The No-Cost Guide to Capturing Your Favorite Shows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-saving-your-hangout-participation/"><u>[Updated] In 2024, Saving Your Hangout Participation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-clean-cut-windows-10-screen-logger/"><u>2024 Approved Clean-Cut Windows 10 Screen Logger</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-sound-on-your-apple-device-top-picks/"><u>2024 Approved Mastering Sound on Your Apple Device (Top Picks)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-secure-your-free-green-screen-assets-with-these-top-8-sites/"><u>2024 Approved Secure Your FREE Green Screen Assets with These Top 8 Sites</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro-for-2024/"><u>Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-top-performing-bluetooth-phones-of-2024/"><u>Discover the Top Performing Bluetooth Phones of 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/eero-pro-router-range-review-achieving-impeccable-internet-access-throughout-your-residence/"><u>Eero Pro Router Range Review: Achieving Impeccable Internet Access Throughout Your Residence</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-itel-a05s-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Itel A05s</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/neighborville-showdown-a-hilarious-critique-of-plants-vs-zombies/"><u>Neighborville Showdown: A Hilarious Critique of Plants Vs. Zombies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-video-rotation-apps-for-android-iphone-windows-and-mac/"><u>New Best Free Video Rotation Apps for Android, iPhone, Windows, and Mac</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/taking-e-readers-to-the-next-level-expert-insights-on-amazons-2018-kindle-paperwhite/"><u>Taking E-Readers to the Next Level: Expert Insights on Amazon's 2018 Kindle Paperwhite</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-tycoons-earning-the-most/"><u>YouTube Tycoons Earning the Most</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-future-of-fb-ads-predictions/"><u>[New] In 2024, Future of FB Ads Predictions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-fundamentals-of-narrative-crafting/"><u>[Updated] 2024 Approved Fundamentals of Narrative Crafting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-amplify-your-brands-impact-with-a-strategic-approach-to-smm-excellence/"><u>[Updated] Amplify Your Brand's Impact with a Strategic Approach to SMM Excellence</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enablingdisabling-youtube-video-comments-for-2024/"><u>[Updated] Enabling/Disabling YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/amplifying-visuals-android-video-guide-for-2024/"><u>Amplifying Visuals Android Video Guide for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723021756718-clearstream-2v-hd-antenna-reviewed-high-performance-technology-in-an-unattractive-package-what-you-need-to-know/"><u>ClearStream 2V HD Antenna Reviewed: High-Performance Technology in an Unattractive Package – What You Need to Know!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-samsung-un65nu8000fxza-assessment-evaluating-the-cost-to-quality-ratio-of-this-intelligent-television/"><u>Comprehensive Samsung UN65NU8000FXZA Assessment: Evaluating the Cost-to-Quality Ratio of This Intelligent Television</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-tips-for-utilizing-macos-preview-as-a-professional-grade-image-editor/"><u>Essential Tips for Utilizing macOS Preview as a Professional-Grade Image Editor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-sleek-sonic-player-sony-lx310bt/"><u>Unboxing the Sleek Sonic Player: Sony LX310BT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-wireless-potential-the-ultimate-guide-to-the-netgear-ac1200-range-extender-ex6200-and-its-performance-insights/"><u>Unleashing Wireless Potential: The Ultimate Guide to the Netgear AC1200 Range Extender (EX6200) and Its Performance Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-moto-g-stylus-outstanding-execution-and-acceptably-long-lasting-power-reserve/"><u>Unveiling the Moto G Stylus: Outstanding Execution & Acceptably Long-Lasting Power Reserve</u></a></li>
 </ul></div>
 

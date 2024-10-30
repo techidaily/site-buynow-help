@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers"
-date: 2024-10-23T10:37:28.862Z
-updated: 2024-10-24T02:03:10.110Z
+date: 2024-10-23T18:07:39.065Z
+updated: 2024-10-29T16:36:17.036Z
 tags:
   - games
   - tv
@@ -28,22 +28,15 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
  I love gaming on my PC because there’s a wider selection of games, and I have a desktop that is more powerful than any console on the market. Despite this, I exclusively play games using a controller and avoid using my keyboard and mouse. That may sound blasphemous, but I have some good reasoning.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1  The Pinky Problem 
 
 ![Fingers in awkward position on a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/fingers-in-awkward-position-on-a-keyboard.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
 
@@ -59,6 +52,13 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A collage of hypothetical 3rd person ARPG games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-collage-of-hypothetical-3rd-person-arpg-games.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Keyboard and mouse are the go-to for FPS and RTS enthusiasts, but those aren't my jam. I'm more into action RPGs, 2D and 3D platformers, _EA Sports FC_, and twin-stick shooters. For these genres, I find a gamepad is often the superior choice.
@@ -66,6 +66,13 @@ Dibakar Ghosh / How-To Geek | Midjourney
  Many of the games in these genres are designed with consoles in mind, where controllers are the default input. As a result, the controls are optimized for gamepads, offering me a smoother, more intuitive experience.
 
  Don't get me wrong, I've spent countless hours enjoying RTS games like _Warcraft 3_ and _Starcraft 2_ with a keyboard and mouse. I understand their strengths for certain genres. However, with the decline of RTS games and my waning interest in FPS titles, I find controllers better suited for the types of games I enjoy most these days.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3  A Poor Choice for Emulation 
 
@@ -89,13 +96,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![illustration of two people awkwardly trying to share a single keyboard and mouse setup for gaming.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/illustration-of-two-people-awkwardly-trying-to-share-a-single-keyboard-and-mouse-setup-for-gaming.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dibakar Ghosh / How-To Geek | Midjourney
 
  As a fan of hosting gaming sessions, I've found keyboard and mouse setups to be a real party pooper for [local co-op](https://facebook-videos.techidaily.com/updated-earnings-expertise-for-youtube-creators-fb-insights-and-tactics/) or PvP. I mean, how do you even make that work?
@@ -107,10 +107,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
  I've experienced this first-hand with _EA Sports FC 24_, my current go-to game for local multiplayer. But it translates to other titles like _Street Fighter_, _It Takes Two_, or _Overcooked_. Trust me, you don't want to play _Overcooked_ with one person on a gamepad and another fumbling with a keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  I’m Tied to My Desk 
@@ -130,10 +130,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
  By associating gaming with a gamepad and keeping it out of sight during work hours, I created just enough friction to resist sneaking into quick gaming sessions when work got challenging. I established a clear boundary: work mode is a keyboard and mouse, and play mode is a gamepad. It's simple, effective, and [keeps me disciplined](https://extra-information.techidaily.com/the-insiders-guide-to-captivating-youtube-headlines/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8  Because I Love My Keyboard and Mouse 
@@ -177,22 +177,24 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-freeplayvid-seamless-recording-for-the-avid-player/"><u>[New] 2024 Approved FreePlayVid Seamless Recording for the Avid Player</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-free-cutting-edge-beat-detection-for-aspiring-producers/"><u>[Updated] 2024 Approved Free, Cutting-Edge Beat Detection for Aspiring Producers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft/"><u>2024 Approved The Art of Intense Focus 5 Techniques for Zooming in Minecraft</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/amazon-luna-review/"><u>Amazon Luna Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-on-nulaxy-km18-car-fm-transmitter-last-gens-reliable-performer/"><u>Comprehensive Guide on Nulaxy KM18 Car FM Transmitter - Last Gen's Reliable Performer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-how-the-lenovo-tab-m10-hd-202e-transforms-web-browsing-and-media-streaming-for-less-a-comprehensive-guide/"><u>Discover How the Lenovo Tab M10 HD (202E) Transforms Web Browsing and Media Streaming for Less: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-a05s-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy A05s for Free? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-11-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme 11 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-a54-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy A54 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-budget-friendly-samsung-galaxy-s10e-compact-yet-captivating/"><u>In-Depth Analysis of the Budget-Friendly Samsung Galaxy S10e: Compact Yet Captivating</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-budget-friendly-and-portable-microsoft-surface-laptop-go-reviewed-a-competitive-entry-into-ultrabooks/"><u>The Budget-Friendly and Portable Microsoft Surface Laptop Go Reviewed: A Competitive Entry Into Ultrabooks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-lg-oled-c9-65-inch-4k-television-unveiling-the-ultimate-home-entertainment-center/"><u>The Definitive Guide to LG OLED C9 65-Inch 4K Television - Unveiling the Ultimate Home Entertainment Center</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-test-and-analysis-of-the-mavix-m9-gamers-throne-unmatched-comfort-on-extended-play-sessions/"><u>Ultimate Test and Analysis of the Mavix M9 Gamer's Throne: Unmatched Comfort on Extended Play Sessions</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-windows-clean-up-stellar-file-deleter-5-optimized-for-safe-file-and-folder-removal/"><u>Ultimate Window's Clean-Up: Stellar File Deleter 5 - Optimized for Safe File & Folder Removal</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-secrets-of-upgrading-from-windows-7-to-10/"><u>Unveiling the Secrets of Upgrading From Windows 7 To 10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-why-the-wii-u-became-a-noteworthy-success-story/"><u>Unveiling Why The Wii U Became A Noteworthy Success Story</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-avoidance-and-remedy-of-live-video-interruption-issues-fb/"><u>[New] Avoidance & Remedy of Live Video Interruption Issues (FB)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-record-and-save-every-sound-on-pc-exclusive-x-recorder/"><u>2024 Approved Record & Save Every Sound on PC - Exclusive X-Recorder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-look-at-solid-studiofx-large-light-setup/"><u>A Look at Solid StudioFX Large Light Setup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-allure-of-traditional-design-with-cutting-edge-technology-an-in-depth-look-at-withings-move-watches/"><u>Discover the Allure of Traditional Design with Cutting-Edge Technology: An In-Depth Look at Withings Move Watches</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-review-syma-s111g-remote-control-helicopter-for-budget-enthusiasts/"><u>Exclusive Review: Syma S111G Remote Control Helicopter for Budget Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-choice-elite-17-inch-desktop-replacements/"><u>Expert's Choice: Elite 17-Inch Desktop Replacements</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-features-and-value-of-tp-links-budget-friendly-archer-a9-wireless-router/"><u>Exploring the Features and Value of TP-Link's Budget-Friendly Archer A9 Wireless Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/flexible-illumination-with-spk10-037-studios-new-favourite/"><u>Flexible Illumination with SPK10-037: Studio's New Favourite</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-back-up-your-personalized-flipbook-settings-in-flipbuilder-for-ongoing-use/"><u>How to Back Up Your Personalized Flipbook Settings in FlipBuilder for Ongoing Use</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-increase-your-selection-of-games-on-the-nintendo-entertainment-system-nes-mini-console/"><u>How to Increase Your Selection of Games on the Nintendo Entertainment System (NES) Mini Console</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-man-o-war-microphone-problem-solved-a-step-by-step-guide/"><u>Razer Man O' War Microphone Problem Solved: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-essential-guide-to-editing-youtube-videos-seamlessly-in-imovie-for-2024/"><u>The Essential Guide to Editing YouTube Videos Seamlessly in iMovie for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ideal-destination-ranking-of-6-superior-stores-to-buy-a-new-laptop/"><u>The Ideal Destination: Ranking of 6 Superior Stores to Buy a New Laptop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-remastered-tale-of-demons-souls-breathtaking-art-with-classic-gaming-magic/"><u>The Remastered Tale of Demons' Souls: Breathtaking Art with Classic Gaming Magic</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-winner-of-wallet-friendlinnity-a-comprehensive-analysis-of-the-tp-link-archer-c9-router/"><u>The Winner of Wallet Friendlinnity: A Comprehensive Analysis of the TP-Link Archer C9 Router</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-unboxing-into-art-for-2024/"><u>Transforming Unboxing Into Art for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unleash-your-creativity-on-mobile-with-expert-video-editors-for-2024/"><u>Unleash Your Creativity on Mobile with Expert Video Editors for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vizio-smartcast-vs-firestick-a-comparison/"><u>Vizio SmartCast vs FireStick: A Comparison</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Critique of the Remastered Adventure – How Ratchet & Clank Evolves Yet Stays True to Its Roots
-date: 2024-08-15T05:56:58.832Z
-updated: 2024-08-16T05:56:58.832Z
+date: 2024-10-26T18:59:08.989Z
+updated: 2024-10-29T19:56:14.020Z
 categories:
   - BestProducts
 description: This Article Describes Critique of the Remastered Adventure – How Ratchet & Clank Evolves Yet Stays True to Its Roots
@@ -42,6 +42,13 @@ Lifewire / Yoona Wagener
 ## Withings Withings Move Hybrid Smartwatch
 
 ![Withings Move](https://www.lifewire.com/thmb/0q_63hnHYzqQ5_H2Q2RzjXF5Nls=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4161013-1-a308b649704344f6b5fd15dc900e5742.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -87,9 +94,6 @@ Lifewire / Yoona Wagener
  Depending on the category you fall into, the lack of a touchscreen could be the largest benefit or drawback of the design. Users who want the look of a regular analog watch will be pleased by the lack of a typical smartwatch screen on their wrist.
 
 ![Withings Move](https://www.lifewire.com/thmb/Qz1dlsE8jl99mXc7-kQ5LCVoiK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-3-b1e97631284d40829bd5714c59dc5f2a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -104,8 +108,12 @@ Lifewire / Yoona Wagener
  First, we paired the Withings Move with our phone via Bluetooth, which was instantaneous. Next, we provided profile information for better activity metrics, downloaded an update, made sure the watch dials were working and the time was set correctly, and we were good to go.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Comfort: Light as a feather, even while sleeping**
 
  Some watches can feel heavy by the end of the day, but we didn’t encounter that weighed-down feeling with the Withings Move. The watch is really lightweight and the band is soft, flexible, and slim, which made sleeping with it a non-issue. It was also easy to achieve a good fit—especially for smaller wrists—thanks to the plentiful notches and the tab to keep the band in place.
@@ -115,11 +123,28 @@ Lifewire / Yoona Wagener
  We did notice that both the front and back of the watch face scratched easily over the course of a week, and suspect this could be a bigger issue for those who are harder on their accessories.
 
 ![Withings Move](https://www.lifewire.com/thmb/WIXFA6BpXvAMWLdKpJ_jmzZh6o4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-5-cbc0f43d847b453bbfae994f03374cdb.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Limited activity tracking**
 
@@ -136,10 +161,6 @@ Lifewire / Yoona Wagener
  We also tested the water-resistance while washing dishes and in the shower. The Withings Move is water-resistant up to 50 meters, which, according to the manufacturer, makes it acceptable for lap swimming, splashing, and dishwashing. Even though we didn’t put it to the depth test, it held up to submersion in soapy water and never missed a beat.
 
 ![Withings Move](https://www.lifewire.com/thmb/vaUmI1isQP98tmL8uIZSghmAWGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-6-259d8034cfb64485be60f9c5754fec79.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
@@ -148,15 +169,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The Withings Move is reported to have a battery life of up to 18 months, and we really enjoyed that aspect over the week we tested it. Unlike typical smartwatches, we didn’t have to worry about draining the battery and recharging. The internal battery is a typical replaceable watch battery, and the user guide offers directions for removal and replacement when the time comes.
 
 ![Withings Move](https://www.lifewire.com/thmb/02bkMrpkzqBOue1ffhHNfQqaIuk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4161013-4-df866fafd70a44c592e0e06e0ea53ae7.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: An emphasis on general wellness**
 
  Though activity data is somewhat limited, the Withings Move does offer some other more in-depth insights. Sleep activity, for example, is automatically detected and doesn’t require any other action besides wearing the watch while sleeping. When you wake in the morning, you’ll be able to view your quality of sleep for the previous night based on the number of interruptions, duration, and even depth of sleep. There is a hiccup with this feature, though—we noticed when we took it off at our desk one morning, it seemed to think we had fallen back asleep and continued reading our sleep quality.
@@ -169,9 +191,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  There are also a number of other supplemental programs you can sign up for through the Health Connect app in order to up your general wellness. Most of these programs, which are free to join, require a specific type of Withings device, but others, like a meditation and pregnancy tracking program, don’t need any additional equipment.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## **Price: A bargain for the value**
 
  The Withings Move retails for $69.95, which is an attractive and affordable price for a hybrid smartwatch—most competitors tend to be well above $100\. While these other models, like the Fossil Harper and Fossil Q Commuter, typically come with more functionality like music storage or streaming, notifications, or taking a picture from your phone, there’s also a bigger price associated with those features.
@@ -193,8 +212,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The Withings Move is a strong entry-level fitness tracker for the person who wants to track activities without going all-in on a smartwatch. It’s inexpensive, sporty, and subtle, which makes it compelling for those who don’t want to be distracted by notifications and all the hands-on features smartwatches bring to the table.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Withings Move Hybrid Smartwatch
@@ -213,8 +236,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +243,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-optimal-aspect-ratios-for-video-content-creation/"><u>[New] 2024 Approved Optimal Aspect Ratios for Video Content Creation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-decision-time-choose-your-dream-video-editor-filmora-or-democracy-creator-for-2024/"><u>[Updated] Decision Time! Choose Your Dream Video Editor (Filmora or Democracy Creator) for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-se-2020-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-dawn-of-artificial-intelligence/"><u>Exploring the Dawn of Artificial Intelligence</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/lines-for-effective-use-of-cc-licenses-for-2024/"><u>Guidelines for Effective Use of CC Licenses for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721099236532-happy-campers-wacom-connected-everywhere/"><u>Happy Campers: Wacom Connected, Everywhere!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/improve-office-productivity-with-speech-to-text-conversion-in-microsoft-word/"><u>Improve Office Productivity with Speech to Text Conversion in Microsoft Word</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-lenovo-thinkphone-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Lenovo ThinkPhone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/spk10-037-kit-a-bright-idea-versatranexity-comes-packaged-in-light/"><u>SPK10-037 Kit - A Bright Idea, Versatranexity Comes Packaged in Light</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stay-fit-with-the-new-generation-tracker-the-fitbit-versa-3-packed-with-inbuilt-gps-and-health-apps/"><u>Stay Fit with the New Generation Tracker - The Fitbit Versa 3, Packed with Inbuilt GPS & Health Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-solving-common-problems-with-spotify-and-android-auto/"><u>Step-by-Step Guide: Solving Common Problems with Spotify and Android Auto</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategies-for-teaming-up-and-conquering-pokemon-go-together/"><u>Strategies for Teaming Up and Conquering 'Pokémon Go' Together</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-asus-bw-16d1x-u-in-focus-reviewing-its-chic-design-and-distinctive-quirks/"><u>The Asus BW-16D1X-U in Focus: Reviewing Its Chic Design and Distinctive Quirks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-home-theater-pcs-of-2024/"><u>The Best Home Theater PCs of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-cut-and-cover-method-is-most-suitable-for-shallow-tunnels-but-can-be-very-disruptive-due-to-the-surface-excavation-required/"><u>The Cut-and-Cover Method Is Most Suitable for Shallow Tunnels but Can Be Very Disruptive Due to the Surface Excavation Required.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-of-premium-smart-speakers-for-a-smarter-home-2024-edition/"><u>The Ultimate Selection of Premium Smart Speakers for a Smarter Home, 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/trustworthy-and-powerful-an-in-depth-look-at-the-m-mooc-1000a-peak-capacity-car-jump-starter/"><u>Trustworthy & Powerful: An In-Depth Look at the M MOOC 1000A Peak Capacity Car Jump Starter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-capabilities-of-the-orbi-whole-home-wi-fi-system-a-detailed-review-on-performance-and-reliability/"><u>Uncovering the Capabilities of the Orbi Whole Home Wi-Fi System - A Detailed Review on Performance and Reliability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-local-treasures-browse-free-classified-options-on-oodle-now/"><u>Unlock Local Treasures: Browse Free Classified Options on Oodle Now</u></a></li>
+</ul></div>
 

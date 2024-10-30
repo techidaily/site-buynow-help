@@ -1,7 +1,7 @@
 ---
 title: Hunt for the Best Price Drops on Roku During Prime Deals Weekend!
-date: 2024-08-15T05:57:47.971Z
-updated: 2024-08-16T05:57:47.971Z
+date: 2024-10-23T22:31:43.553Z
+updated: 2024-10-29T22:43:12.896Z
 categories:
   - BestProducts
 description: This Article Describes Hunt for the Best Price Drops on Roku During Prime Deals Weekend!
@@ -28,16 +28,30 @@ thumbnail: https://www.lifewire.com/thmb/LvLoQ9-K0KJwUj-Ozbt9jQn-RNk=/400x300/fi
 * [Apple Watch Band - Sport Band (41mm) - Bright Green - Regular](https://www.amazon.com/dp/B09V4QP9FL?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $25 (was $49)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Apple Watches
 
 * [ Apple Watch Series 9 \[GPS 41mm\] Smartwatch](https://www.amazon.com/Apple-Smartwatch-Aluminum-Fitness-Resistant/dp/B0CSV9Y331?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $280 (was $399)
 * [ Apple Watch SE (2nd Gen) \[GPS 40mm\] Smartwatch](https://www.amazon.com/dp/B0CHX7R6WJ?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $169 (was $249)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## AirPods
 
 * [Apple AirPods Pro (2nd Generation)](https://www.amazon.com/Apple-Generation-Cancelling-Transparency-Personalized-dp-B0D1XD1ZV3/dp/B0D1XD1ZV3?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $169 (was $249)
@@ -53,12 +67,16 @@ thumbnail: https://www.lifewire.com/thmb/LvLoQ9-K0KJwUj-Ozbt9jQn-RNk=/400x300/fi
 * [Apple 2024 MacBook Air 13-inch Laptop with M3 chip](https://www.amazon.com/dp/B071GGB84Y?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $899 (was $1099)
 * [Apple 2022 MacBook Air Laptop with M2 chip](https://www.amazon.com/2022-Apple-MacBook-Laptop-chip/dp/B0B3CDZLTB?tag=lifewire-onsite-prod-20&ascsubtag=8675891%7Cncd5a4dce533d4683bd835c8043a91a8c10%7C) , $799 (was $999)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple AirTag
 
 ![Apple AirTag, Amazon Apple](https://www.lifewire.com/thmb/FipFdA6HAHhnqkyPxPSxtPkhMbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/amazon-apple-after-christmas-deals-121923-8-34d5dafd52504e70ac9e89bc39b8aed6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
 Amazon
 
@@ -68,29 +86,27 @@ Amazon
 
  Need more? Grab a four-pack below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## AirTag 4 Pack
 
 ![A set of four Apple AirTags](https://www.lifewire.com/thmb/oSijRZK4BqdndZJLrET-tiN-Kp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleAirTag-6c3832f854c24710890ba380ef01ff86.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Amazon
 
  Orig.$99 [$75 at Amazon](https://united.elfm.net/zqobdx)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple Pencil (2nd generation)
 
 ![Apple Pencil (2nd Generation)](https://www.lifewire.com/thmb/s0BIvaUqu6ZcjV4a9mIbMddr6Hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ApplePencil2ndGeneration-c36a1762bd384a35bd468ba37708e1a3.jpg)
@@ -106,9 +122,6 @@ Apple
 ## Apple AirPods Pro (2nd Generation)
 
 ![Apple AirPods Pro (2nd Generation) Wireless Earbuds MagSafe Charging Case Bluetooth](https://www.lifewire.com/thmb/9LYkEpw7wOpkz--AFsFl9hcufdk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-airpods-pro-2nd-generation-wireless-earbuds-magsafe-charging-case-bluetooth-9ab1bb1064b048788597d1478ff047d8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Amazon
 
@@ -116,12 +129,16 @@ Amazon
 
  Apple's AirPods Pro (2nd gen) offer excellent wireless sound, active noise cancellation, and four pairs of silicone tips so you can get the perfect fit. (And keep them in your ears!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple iPad 10.2-inch (9th Generation)
 
 ![Apple 10.2-inch iPad 64GB (9th generation).](https://www.lifewire.com/thmb/Fz5fzdr5T2V7XBiWdboOc99fwHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleiPad9thGeneration_Amazon-0fbd83ca454840278d06c4a85943f974.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Amazon
 
@@ -159,8 +176,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +183,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-content-top-10-must-use-hashtags-on-ig/"><u>[New] Elevate Your Content Top 10 Must-Use Hashtags on IG</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-deep-dive-into-youtube-writers-workshop-space/"><u>[New] In 2024, A Deep Dive Into YouTube’ Writers' Workshop Space</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-revolutionizing-image-capture-with-ios-11-updates/"><u>[Updated] Revolutionizing Image Capture with iOS 11 Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/correcting-error-0x7b-database-what-happens-when-you-cant-find-helperdll/"><u>Correcting Error 0X7b Database: What Happens When You Can’t Find Helper.dll</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-preserving-and-reviewing-your-chatgpt-conversations-on-demand/"><u>Guide: Preserving and Reviewing Your ChatGPT Conversations on Demand</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y27-4g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y27 4G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pen-to-pixel-best-photography-caption-apps-iosandroid/"><u>Pen to Pixel Best Photography Caption Apps (iOS/Android)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smartwatch-insight-the-perfect-blend-of-tradition-and-innovation-in-the-skagen-falster-3/"><u>Smartwatch Insight: The Perfect Blend of Tradition and Innovation in the Skagen Falster 3</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-assassin-saga-completed-an-honest-take-on-hitman-3/"><u>The Assassin Saga Completed - An Honest Take on Hitman 3</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-breakdown-of-amazfits-helio-ring-release-timing-cost-analysis-and-core-features-revealed/"><u>The Complete Breakdown of Amazfit's Helio Ring: Release Timing, Cost Analysis, and Core Features Revealed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ichest-video-content-star-on-earth/"><u>The Richest Video Content Star on Earth</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-nest-audio-why-this-is-the-smart-choice-for-serious-music-lovers/"><u>The Ultimate Guide to Nest Audio: Why This Is the Smart Choice for Serious Music Lovers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-score-unveiling-our-xbox-one-elite-series-2-controller-evaluation-a-masterpiece-among-gamepads/"><u>Top Score! Unveiling Our Xbox One Elite Series 2 Controller Evaluation - A Masterpiece Among Gamepads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-ratings-top-long-distance-routers-to-enhance-your-internet-coverage/"><u>Ultimate Ratings: Top Long-Distance Routers to Enhance Your Internet Coverage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-performance-insights-for-googles-battery-operated-nest-video-doorbell/"><u>Unveiling Performance Insights for Google's Battery-Operated Nest Video Doorbell</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-mini-marvel-a-comprehensive-look-at-xbox-series-s-specs-and-capabilities/"><u>Unveiling the Mini Marvel: A Comprehensive Look at Xbox Series S Specs and Capabilities</u></a></li>
+</ul></div>
 

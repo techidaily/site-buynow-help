@@ -1,7 +1,7 @@
 ---
 title: "Plea to Netflix: Borrow These Must-Have Features From Spotify"
-date: 2024-10-21T02:03:21.556Z
-updated: 2024-10-24T08:59:56.381Z
+date: 2024-10-23T22:00:46.913Z
+updated: 2024-10-30T02:55:49.913Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  The best TV binges are the ones with all hits and no skips. Netflix, you’re the king of queues, so let me create my own playlists with individual episodes from shows on your service. While we’re on the topic of new features, I’ve got some other ideas too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Video Playlists Would Be Great for Better Binging
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Dear reader, I can see the skeptical wheels turning in your brain, thinking, “But content gets removed and added to Netflix all the time, what happens then?” That's easy. If shows or movies become unavailable, then they’re just grayed out from playlists. The same thing happens with songs on Spotify. Artists remove songs and albums all the time for various reasons. The playlist skips unavailable tracks and moves on. To spin this into a positive thing, Netflix could always use this info to ping you when a show or movie returns.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Add Back That Shuffle Button!
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Access to More Data For a Richer Experience
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
@@ -98,24 +98,22 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-marketing-mastery-discerning-real-engagement-from-skewed-statistics/"><u>[New] In 2024, Marketing Mastery Discerning Real Engagement From Skewed Statistics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-taking-stock-of-magix-project-management-app/"><u>[New] Taking Stock of MAGIX Project Management App</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-laugh-ledger-top-10-tweets-for-a-smile-for-2024/"><u>[Updated] Laugh Ledger Top 10 Tweets for a Smile for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagrams-peak-moments-a-how-to-guide-for-2024/"><u>[Updated] Mastering Instagram's Peak Moments A How-To Guide for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-google-pixel-4a-the-perfect-balance-of-features-and-affordability/"><u>Comprehensive Evaluation of the Google Pixel 4A: The Perfect Balance of Features and Affordability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-tp-link-archer-ax6000-evaluation-superior-or-inferior-to-netgears-nighthawk-ax12/"><u>Comprehensive TP-Link Archer AX6000 Evaluation - Superior or Inferior to Netgear's Nighthawk AX12?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/detailed-performance-assessment-third-gen-apple-tv-4k-for-enthusiasts-and-casual-viewers/"><u>Detailed Performance Assessment: Third-Gen Apple TV 4K for Enthusiasts and Casual Viewers</u></a></li>
-<li><a href="https://facebook.techidaily.com/halt-non-playing-vids-quick-fixes-for-facebook-issues/"><u>Halt Non-Playing Vids: Quick Fixes for Facebook Issues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/1724884621616-lenovo-yoga-slim-7x-windows-snapdragon/"><u>Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-wireless-connectivity-with-asuss-ax6000-rt-ax88u-router-the-top-wi-fi-6-device-for-enthusiasts-and-professionals/"><u>Mastering Wireless Connectivity with Asus's AX6000 RT-AX88U Router: The Top Wi-Fi 6 Device for Enthusiasts and Professionals</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mobvoi-ticwatch-pro-with-lte-an-in-depth-analysis-and-top-smartwatch-pick/"><u>Mobvoi Ticwatch Pro with LTE: An In-Depth Analysis and Top Smartwatch Pick</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-top-online-video-editing-tools-for-vertical-content-for-2024/"><u>New Top Online Video Editing Tools for Vertical Content for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smartwatch-face-off-exploring-the-differences-between-apple-watch-series-9-and-fitbit-charge-6/"><u>Smartwatch Face-Off: Exploring the Differences Between Apple Watch Series 9 and Fitbit Charge 6</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-all-rounder-starter-watch-in-depth-review-and-analysis-of-the-amazfit-bips-features/"><u>The All-Rounder Starter Watch: In-Depth Review and Analysis of the Amazfit Bip's Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-of-finties-durable-macbook-pro-13-encasement-maximizing-protection-without-breaking-the-bank/"><u>The Ultimate Review of Fintie's Durable MacBook Pro 13 Encasement: Maximizing Protection without Breaking the Bank</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/transformative-elegance-an-in-depth-review-of-the-stunningly-designed-dell-xps-13-7390-2-in-1-laptop/"><u>Transformative Elegance: An In-Depth Review of the Stunningly Designed Dell XPS 13 (7390) 2-in-1 Laptop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-keep-your-epson-wf-7720-printer-drivers-up-to-date-on-windows-systems/"><u>Troubleshooting Tips: Keep Your Epson WF-7720 Printer Drivers Up-to-Date on Windows Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/vpn-wont-connect-to-your-iphone-learn-how-to-solve-it-with-7-tips/"><u>VPN Won't Connect to Your iPhone? Learn How to Solve It With 7 Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-entry-level-sports-cameras-that-dont-break-the-bank/"><u>[New] 2024 Approved Entry-Level Sports Cameras that Don't Break the Bank</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>[New] Bringing Vision to Life The Art of Post-Color Enhancement</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unleashing-creativity-essential-angles-in-mobile-shooting/"><u>[New] In 2024, Unleashing Creativity Essential Angles in Mobile Shooting</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-navigating-the-world-of-ifunny-memes-for-2024/"><u>[New] Navigating the World of iFunny Memes for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/advanced-screen-recording-of-facetime-dialogues/"><u>Advanced Screen Recording of FaceTime Dialogues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-mophie-powerstation-ac-charger-evaluation-expensive-yet-handy/"><u>Comprehensive Mophie Powerstation AC Charger Evaluation - Expensive Yet Handy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-the-nintendo-switch-a-cut-above-the-rest-for-mobile-players/"><u>Expert Evaluation of the Nintendo Switch: A Cut Above the Rest for Mobile Players</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-how-the-new-apple-iphone-12-sets-the-bar-higher-than-ever/"><u>Expert Review: How the New Apple iPhone 12 Sets the Bar Higher Than Ever</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ignite-your-brands-success-with-a-10-step-blueprint-for-smm-dominance/"><u>Ignite Your Brand's Success with a 10-Step Blueprint for SMM Dominance</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-note-12r-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi Redmi Note 12R Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-obs-masterclass-for-beginners-stream-to-youtube-flawlessly/"><u>In 2024, OBS Masterclass for Beginners Stream to YouTube Flawlessly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kensun-portable-air-pump-test-report-a-reliable-compact-solution-for-easy-maintenprise-of-your-wheels/"><u>Kensun Portable Air Pump Test Report - A Reliable, Compact Solution for Easy Maintenprise of Your Wheels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oneplus-9-pro-assessment-exceptional-design-performance-and-photography-capabilities/"><u>OnePlus 9 Pro Assessment: Exceptional Design, Performance & Photography Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/roku-or-fire-tv-stick-which-smart-streaming-device-fits-your-needs-best/"><u>Roku or Fire TV Stick? Which Smart Streaming Device Fits Your Needs Best?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lightweight-contender-a-comprehensive-review-of-the-lenovo-thinkpad-x1-nano/"><u>The Lightweight Contender - A Comprehensive Review of the Lenovo ThinkPad X1 Nano</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-the-ideal-cable-modem-and-router-combo/"><u>The Ultimate Guide to Choosing the Ideal Cable Modem and Router Combo</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2024-10-19T11:20:15.659Z
-updated: 2024-10-24T09:46:34.100Z
+date: 2024-10-25T04:06:17.095Z
+updated: 2024-10-30T01:32:21.024Z
 tags:
   - games
   - tv
@@ -89,10 +89,10 @@ Expand
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -101,22 +101,16 @@ Jerome Thomas / How-To Geek
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -138,13 +132,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -154,6 +141,13 @@ Jerome Thomas / How-To Geek
  I did also experience some occasional stuttering. There’s a quad-core ARM CPU and a dedicated GPU inside, along with 2GB of RAM and 16GB of storage, which seems adequate to run Google TV, so I don’t know where the culprit was for the occasional freezing and buffering—I doubt it was my 2GB home internet connection.
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Battery Life
 
@@ -170,10 +164,10 @@ Jerome Thomas / How-To Geek
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -207,18 +201,21 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-creative-anime-characters-and-scenes-for-viral-tiktoks/"><u>[Updated] In 2024, Creative Anime Characters & Scenes for Viral TikToks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-from-shot-to-spectacle-pro-tips-for-transformative-photographic-edits/"><u>[Updated] In 2024, From Shot to Spectacle Pro Tips for Transformative Photographic Edits</u></a></li>
-<li><a href="https://win-popular.techidaily.com/customize-your-flipbook-experience-with-localized-languages-easy-guide-on-flipbuilder/"><u>Customize Your FlipBook Experience with Localized Languages - Easy Guide on FlipBuilder</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevated-home-assistant-experience-with-amazons-4th-generation-echo-a-review/"><u>Elevated Home Assistant Experience with Amazon's 4Th Generation Echo – A Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-lenovo-130s-laptop-constrained-energy-but-remarkable-ease-of-use/"><u>Exploring the Lenovo 130S Laptop: Constrained Energy but Remarkable Ease of Use</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-interactive-interface-for-podcasters/"><u>In 2024, Ideal Interactive Interface for Podcasters</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-asus-zenbook-pro-duo-2-balancing-power-with-portability/"><u>In-Depth Analysis of Asus ZenBook Pro Duo 2 - Balancing Power with Portability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-connectivity-problems-solving-the-teredo-cant-qualify-error/"><u>Overcoming Connectivity Problems - Solving the 'Teredo Can't Qualify' Error</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-essential-guide-to-blurring-images-with-your-iphone-for-2024/"><u>The Essential Guide to Blurring Images with Your iPhone for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-incredible-visual-experience-awaiting-you-with-the-sony-xbr49x900f-an-expert-review/"><u>The Incredible Visual Experience Awaiting You with the Sony XBR49X900F - An Expert Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-linksys-ea9500-a-comprehensive-review-of-its-cutting-edge-intelligence-and-power/"><u>The Linksys EA9500 - A Comprehensive Review of Its Cutting-Edge Intelligence and Power</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-pick-breakdown-the-enhanced-ring-doorbell-battery-experience-review/"><u>Top Pick Breakdown: The Enhanced Ring Doorbell Battery Experience Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-strategies-how-to-create-stellar-youtube-shorts/"><u>[New] 2024 Approved Step-by-Step Strategies How to Create Stellar YouTube Shorts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-record-computer-sound-and-microphone-for-2024/"><u>[New] Record Computer Sound and Microphone for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-secrets-to-costless-capturing-of-discord-media-on-all-platforms-for-2024/"><u>[New] Secrets to Costless Capturing of Discord Media on All Platforms for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-secrets-unveiled-the-ultimate-strategies-for-saving-disco-livestreams/"><u>[Updated] In 2024, Secrets Unveiled The Ultimate Strategies for Saving Disco Livestreams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ankers-affordable-life-q30-hearing-aid-with-active-noise-control/"><u>Anker's Affordable Life Q30 Hearing Aid with Active Noise Control</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-premiere-network-servers-rack-solutions-in-2cy24/"><u>Expert Picks: Premiere Network Servers Rack Solutions in 2CY24</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/full-reveal-how-orbis-tri-band-wi-fi-6-delivers-high-speed-internet-connectivity-across-your-household/"><u>Full Reveal: How Orbi's Tri-Band Wi-Fi 6 Delivers High-Speed Internet Connectivity Across Your Household</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-quick-guide-capturing-video-and-audio-from-youtube/"><u>In 2024, Quick Guide Capturing Video & Audio From YouTube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/powerful-performance-assessment-alienware-aurora-r7-is-it-worth-the-cost/"><u>Powerful Performance Assessment: Alienware Aurora R7 - Is It Worth the Cost?</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-address-post-win-11-upgrade-linux-issues/"><u>Steps to Address Post-Win 11 Upgrade Linux Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-battle-of-smart-speakers-google-nest-audio-versus-nest-mini/"><u>The Battle of Smart Speakers: Google Nest Audio Versus Nest Mini</u></a></li>
+<li><a href="https://win-webster.techidaily.com/titre-seo-ameliore-comment-eliminer-efficacement-une-page-specifique-en-un-clin-doeil-avec-cette-astucieuse-methode-pour-word/"><u>Titre SEO Amélioré : Comment Éliminer Efficacement Une Page Spécifique en Un Clin D'œil Avec Cette Astucieuse Méthode Pour Word !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-connectivity-in-naraka-bladepoint-to-enhance-gaming-experience/"><u>Troubleshooting Connectivity in Naraka Bladepoint to Enhance Gaming Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-xbox-one-x-evaluation-dominating-todays-gaming-landscape/"><u>Ultimate Xbox One X Evaluation: Dominating Today's Gaming Landscape</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncover-the-toughness-of-the-budget-friendly-coolpix-w100/"><u>Uncover the Toughness of the Budget-Friendly Coolpix W100</u></a></li>
 </ul></div>
 

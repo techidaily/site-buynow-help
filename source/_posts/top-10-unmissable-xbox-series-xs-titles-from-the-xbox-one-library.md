@@ -1,7 +1,7 @@
 ---
 title: Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library
-date: 2024-10-21T22:21:44.415Z
-updated: 2024-10-24T09:36:34.304Z
+date: 2024-10-24T04:23:20.227Z
+updated: 2024-10-30T04:47:08.323Z
 tags:
   - games
   - tv
@@ -29,10 +29,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Brand-new games arrive on Xbox all the time, so it's easy to forget about the many older Xbox One titles. But there are a ton of last-generation games that are worth playing again on the latest hardward thanks to some big upgrades that overhaul performance, visuals, and even features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 _Halo: The Master Chief Collection_ 
@@ -59,6 +65,13 @@ _The Witcher 3_ is one of the highest-selling games of all time for good reason.
 
 ![Gameplay from DOOM Eternal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/doom-eternal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bethesda Softworks
 
  There were a lot of ecstatic fans when the _DOOM_ 2016 reboot blew all expectations out of the water and brought the classic franchise back into the limelight. This meant that _DOOM Eternal_ had a ton of hype as well, and thankfully it met all expectations.
@@ -77,13 +90,6 @@ Electronic Arts
 
  The sequel, _Jedi Survivor_, came out in 2023 and is every bit as amazing as the first game. But the story is what drives these games, so I'd recommend playing Fallen Order first! Don't worry: it got plenty of upgrades for the Series X|S, including [improved loading times](https://extra-hints.techidaily.com/inspirational-article-leaderboard-maker/), stability fixes, and a higher resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 _DragonBall FighterZ_ 
 
 ![The title screen for DragonBall FighterZ.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/dbfz.png) 
@@ -92,22 +98,15 @@ Electronic Arts
 
  Fighting games aren't for everyone, but if you love _DragonBall_, it's worth a look just for that feeling of practically being in the anime. If you like other 2D fighters but haven't tried _FighterZ_ yet, I'd recommend it just for the team-based fighting system, super moves, and great music (ArcSys really never misses). The main upgrade from the Xbox One version to the X|S version was [the addition of rollback netcode](https://tech-haven.techidaily.com/localizing-your-legal-services-with-an-llm-is-it-worth-it-understanding-pros-and-cons/).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6 _Hellblade: Senua's Sacrifice_ 
 
 ![The main menu for Hellblade: Senua's Sacrifice.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hellblade.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _Hellblade: Senua's Sacrifice_ is not a game that everyone is going to enjoy. Some people think it's like _Dark Souls_, but it's not really. You spend a lot of time walking around, listening to voices in your head and trying to figure out challenging puzzles. Occasionally, you get to fight some nightmarish foes, but it's not really an action game.
@@ -128,22 +127,15 @@ Playstack
 
 _Mortal Shell_ has an enhanced edition for the Series X|S, improving its graphical fidelity. If you're looking for a quick but rewarding Souls-like experience, give _Mortal Shell_ a shot.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8 _Stellaris: Console Edition_ 
 
 ![Gameplay from Stellaris: Console Edition.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/stellaris.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Paradox Interactive
@@ -153,15 +145,28 @@ Paradox Interactive
  Destroy entire worlds, conquer other empires, take over the galaxy as a sentient fungal hivemind horror: you name it, _Stellaris_ probably lets you do it. I can personally attest that _Stellaris_ plays very intuitively with a controller, which many 4X games on console can't claim. Being a strategy game, graphics aren't _that_ important, but a performance-optimized version for the X|S does exist now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9 _Cyberpunk 2077_ 
 
 ![Gameplay from Cyberpunk 2077.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cyberpunk-2077.png) 
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 CD Projekt Red
 
@@ -172,6 +177,13 @@ CD Projekt Red
 ## 10 _Sea of Thieves_ 
 
 ![Gameplay from Sea of Thieves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/sea-of-thieves.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Microsoft Studios
 
@@ -198,16 +210,22 @@ Microsoft Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-reducing-excessive-encoding-obs-for-2024/"><u>[Updated] Reducing Excessive Encoding (OBS) for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-midland-lxt500vp3-a-radio-full-of-promises-but-short-on-deliverance/"><u>Comprehensive Analysis of the Midland LXT500VP3 - A Radio Full of Promises but Short on Deliverance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-kensuns-travel-friendly-tire-inflator-consistent-functionality-and-easy-mobility/"><u>Evaluating Kensun’s Travel-Friendly Tire Inflator: Consistent Functionality & Easy Mobility</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gogoanime/"><u>GOGOAnime経由で安全にアニメ映像ダウンロード手順</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-11-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 11 Pro?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/offizielle-winxvideo-ai-handbuch-wie-man-den-gpu-treiber-in-windows-aktualisiert/"><u>Offizielle WinxVideo AI Handbuch – Wie Man Den GPU-Treiber in Windows Aktualisiert</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-entryway-showdown-which-reigns-supreme-ring-or-nest-doorbell/"><u>Smart Entryway Showdown: Which Reigns Supreme - Ring or Nest Doorbell</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-future-of-smart-living-arrives-exploring-the-amazon-echo-show-10-3rd-generations-dynamic-capabilities-in-our-detailed-analysis/"><u>The Future of Smart Living Arrives: Exploring the Amazon Echo Show 10 (3Rd Generation's Dynamic Capabilities in Our Detailed Analysis</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-pixel-7a-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Pixel 7a</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-lenovo-p11-pro-an-amazing-tablet-experience-with-a-few-downsides/"><u>Unveiling the Lenovo P11 Pro - An Amazing Tablet Experience with a Few Downsides</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-reviving-past-joy-on-fb-the-look-back-video-editing-path-for-2024/"><u>[New] Reviving Past Joy on FB The Look Back Video Editing Path for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-novices-roadmap-to-youtube-traffic-success/"><u>[Updated] 2024 Approved A Novice's Roadmap to YouTube Traffic Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-5-simple-tricks-for-aspiring-photoshop-editors/"><u>[Updated] 5 Simple Tricks for Aspiring Photoshop Editors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bargain-entertainment-setup-the-md2380-unveiled/"><u>Bargain Entertainment Setup: The MD2380 Unveiled</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/best-iphone-data-retrieval-tools-a-comprehensive-guide-to-recovering-lost-ios-files-iphone-sexs-compatible/"><u>Best iPhone Data Retrieval Tools : A Comprehensive Guide to Recovering Lost iOS Files [iPhone SE/XS Compatible]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-wonders-how-snapchats-my-ai-transcends-being-merely-fun-gadgetry/"><u>Exploring the Wonders: How Snapchat's My AI Transcends Being Merely Fun Gadgetry</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-color-grading-using-luts-in-ae/"><u>In 2024, Leveraging Color Grading Using LUTs in AE</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-at-midlands-lxt500vp3-transceiver-high-capacity-mixed-results-on-usability/"><u>Inside Look at Midland's LXT500VP3 Transceiver: High Capacity, Mixed Results on Usability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-at-the-mohu-blade-tv-antenna-remarkable-performance-and-cutting-edge-aesthet-culet/"><u>Inside Look at the Mohu Blade TV Antenna - Remarkable Performance & Cutting-Edge Aesthet Culet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/master-your-live-videos-and-create-a-virtual-camera-experience-using-manycam-top-choice-for-online-streamers/"><u>Master Your Live Videos and Create a Virtual Camera Experience Using ManyCam - Top Choice for Online Streamers!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mophie-powerstation-ac-unit-evaluation-expensive-yet-ultra-convenient-charging-solution/"><u>Mophie Powerstation AC Unit Evaluation: Expensive Yet Ultra-Convenient Charging Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pre-purchase-tv-guide-key-factors-to-ponder/"><u>Pre-Purchase TV Guide: Key Factors to Ponder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/propeling-photos-into-the-future-with-nixplay-iriss-cloudtech/"><u>Propeling Photos Into the Future with Nixplay Iris's Cloudtech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-budget-pick-for-50-inch-televisions-meet-the-tcl-50s425-reviewed/"><u>The Best Budget Pick for 50-Inch Televisions? Meet the TCL 50S425 Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-11-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-best-long-range-router-picks/"><u>Ultimate Guide: Best Long Range Router Picks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-mkv-video-trimming-made-easy-best-mac-apps-2023/"><u>Updated 2024 Approved MKV Video Trimming Made Easy Best Mac Apps 2023</u></a></li>
 </ul></div>
 

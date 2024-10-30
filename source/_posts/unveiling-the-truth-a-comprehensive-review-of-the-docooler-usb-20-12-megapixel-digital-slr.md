@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: A Comprehensive Review of the Docooler USB 2.0 12 Megapixel Digital SLR"
-date: 2024-08-15T05:55:35.389Z
-updated: 2024-08-16T05:55:35.389Z
+date: 2024-10-24T18:11:20.462Z
+updated: 2024-10-29T17:35:01.637Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Truth: A Comprehensive Review of the Docooler USB 2.0 12 Megapixel Digital SLR"
@@ -38,8 +38,12 @@ Lifewire / Kelsey Simon
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/YWkGikwP23JK119N4M7J22dAPJY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
@@ -74,9 +78,6 @@ Lifewire / Kelsey Simon
  The first time you launch the game you'll be treated to an artistic video over the background of a news report. It explains the situation in Harran, the city where the game takes place. The game proper starts with a cut scene that shows you on a plane, about to parachute out. There’s no character creation here, although once you get a little further into the game, you’ll be able to pick your clothes.
 
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -95,8 +96,12 @@ Harran is a whole different city at night.
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Gameplay: Parkour and zombies galore**
 
  You won’t have to wait long in the game before you’re introduced to its main unique mechanic: parkour. Other zombie games focus on having slow zombies you can run away from, or dumb zombies you sneak past, but Dying Light takes a completely different approach. Instead, the basic zombies are fast and almost always know where you are―but they can’t climb or jump. This means you can stay safe by leaping between rooftops, running up ramps, balancing across bars, etc. The parkour feature is the biggest thing that makes Dying Light unique in an oversaturated genre, and also part of what makes the game so much fun. It’s entertaining to cross the city running as fast as you can without pausing, challenging yourself to get from point A to point B without ever touching the ground.
@@ -110,15 +115,22 @@ Harran is a whole different city at night.
  Harran is a whole different city at night. If you aren’t in a safe zone, you’ll quickly learn that running through the city at night is terrifying, specifically because of a zombie type called volatiles. Volatiles are crazy strong, super-fast, and will chase after you relentlessly until you get out of sight―not an easy thing to do when you’re freaking out. It can be a real rush to try to do a mission at night, so if things aren’t feeling tense enough for you, just wait until the sunsets.
 
 ![Dying Light](https://www.lifewire.com/thmb/YctEePpYKsIXQ5kU-hQ8w7o9CDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-4-1edeaf05c6ba435e9b81e68a13831ac6.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## **Graphics: Attention to detail**
 
  The graphics of Dying Light compare well to other triple-A titles, though it feels like the developers took more care with the scenery than the characters. Human models look a little plasticky, but the world around you is textured beautifully and rich with small details like posters and graffiti that help make the world around you feel real.
@@ -126,8 +138,18 @@ Harran is a whole different city at night.
  Character animation is also excellent, and the buildings and other objects within the world offer a variety of ways to jump, climb, and crawl. The open urban landscape of Harran allows players to decide how they want to explore, acquire materials, and fight. You’ll be able to come at certain locations from a variety of angles,and it's this sense of freedom and attention to the environments that brings Dying Light together.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -135,6 +157,13 @@ Harran is a whole different city at night.
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Other zombie and parkour games**
 
@@ -148,23 +177,17 @@ Harran is a whole different city at night.
 
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Dying Light
 * Price  $14.00
 * Available Platforms  PC (Steam) Playstation 4 Xbox One OS X Linux
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +196,22 @@ Harran is a whole different city at night.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-passport-self-portrait-maker-free-access-to-top-quality-images/"><u>[New] Passport Self-Portrait Maker – Free Access to Top Quality Images</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unparalleled-8-visual-augmentations-for-live-cams/"><u>[Updated] In 2024, Unparalleled 8 Visual Augmentations for Live Cams</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cookiebot-driven-insights-enhance-your-sites-seo-effortlessly/"><u>Cookiebot-Driven Insights: Enhance Your Site's SEO Effortlessly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-x50-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor X50 Through Google Earth?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-x9a-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor X9a and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no-experience-big-income-try-these-13-reddit-methods/"><u>No Experience, Big Income? Try These 13 Reddit Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-ultimate-setup-breakdown-error-1603-explained/"><u>Resolving the Ultimate Setup Breakdown - Error 1603 Explained</u></a></li>
+<li><a href="https://discover-community.techidaily.com/step-by-step-tutorial-installing-and-configuring-windows-11-on-your-new-hp-notebook/"><u>Step-by-Step Tutorial: Installing and Configuring Windows 11 on Your New HP Notebook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-assessment-apple-watch-series-4-soars-higher/"><u>The Ultimate Assessment: Apple Watch Series 4 Soars Higher</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-test-is-the-netgear-nighthawk-x6-ac3200-your-go-to-for-lightning-fast-and-secure-home-networking/"><u>The Ultimate Test: Is the Netgear Nighthawk X6 AC3200 Your Go-To for Lightning Fast & Secure Home Networking?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-uninterruptible-power-supply-ups-systems/"><u>Top Rated Uninterruptible Power Supply (UPS) Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/totobayn-awakening-glow-2nd-gen-unboxed-the-ultimate-affordable-morning-alarm-clock-review/"><u>Totobay'n Awakening Glow (2Nd Gen) Unboxed: The Ultimate Affordable Morning Alarm Clock Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-gamers-choice-samsung-q60r-quad-hd-smart-led-tv-assessment/"><u>Ultimate Gamer's Choice: Samsung Q60R Quad HD Smart LED TV Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-enhancing-mobile-connectivity-2024s-leading-signal-boosters/"><u>Ultimate Guide to Enhancing Mobile Connectivity: 2024'S Leading Signal Boosters</u></a></li>
+</ul></div>
 

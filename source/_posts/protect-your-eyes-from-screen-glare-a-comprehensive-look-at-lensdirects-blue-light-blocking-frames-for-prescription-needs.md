@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Eyes From Screen Glare: A Comprehensive Look at LensDirect's Blue Light Blocking Frames for Prescription Needs"
-date: 2024-08-15T05:57:32.412Z
-updated: 2024-08-16T05:57:32.412Z
+date: 2024-10-28T00:20:06.845Z
+updated: 2024-10-30T01:02:33.396Z
 categories:
   - BestProducts
 description: "This Article Describes Protect Your Eyes From Screen Glare: A Comprehensive Look at LensDirect's Blue Light Blocking Frames for Prescription Needs"
@@ -38,14 +38,15 @@ Lifewire / Andrew Hayward
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## TopMate C302 Laptop Cooling Pad
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Um5K58ex8qVMnW5PlEtqzPi9c-4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_HeroSquare-53c92cb3074b41d9b696fd9f6fa1a64e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -69,6 +70,13 @@ Lifewire / Andrew Hayward
 
  The TopMate C302 is a strong example of the latter. It’s affordable and solidly effective, but the plastic design feels a bit flimsy. I wouldn’t bet on it lasting for the long haul without gentle handling, but given the price, you might not worry about it too much.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: Light and a little flimsy
 
  The C302 measures just over 14 inches wide and is designed for laptops with screens up to 15.6 inches diagonal. It’s primarily made of lightweight plastic, with a thin metal grate on the top above the two 4.9-inch fans to help dissipate heat.
@@ -76,8 +84,12 @@ Lifewire / Andrew Hayward
  The entire pad weighs only 1.1 pounds, but the downside to it being so lightweight is that it feels a bit flimsy and rickety. It’ll do just fine holding your laptop and sitting on a desk, but I wouldn’t bet on it surviving a hard fall without some damage.
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3qjwZzxQ2KVhmQJOdD2R9jBegvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_03-ed7074949b6f4e4794ce30be2d582058.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
@@ -95,15 +107,16 @@ Lifewire / Andrew Hayward
  The C302 is a purely plug-and-play accessory with no flashy perks or settings to deal with, nor any need for software on your computer. Simply place it under your laptop, adjust the feet and holding nubs as desired, and plug the USB port into your computer to power on the pad. The fans will then activate and run at the only available speed, and you can unplug it when you’re done or don’t need it anymore.
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/xhFp_B4P4BG8gb4dtJAGBbXPAlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_05-4ce850d84f4a4e1d931588e23f39cb82.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Performance: It makes a difference
 
  I tested the C302 using the[Razer Blade 15 (2019) gaming laptop](https://www.lifewire.com/razer-blade-15-review-4845229) , which is equipped with an Intel Core i7-9750H processor and 16GB RAM, as well as a NVIDIA GeForce GTX 1660 Ti GPU (6GB).
@@ -117,21 +130,25 @@ Lifewire / Andrew Hayward
  In Dirt 5’s built-in benchmark test, the Razer Blade 15 hit 184 degrees internally and 117° externally, and those figures dropped to 175 degrees internally and 100 degrees externally with the cooling pad. There was no significant performance difference in the Dirt 5 benchmark when using the cooling pad: The average FPS mark was within one frame with or without the pad in use.
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Xs71AyeThjZwy-vZJ9LfxIhuXJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_04-eadbaf270b874af9bb8843b95efe8ca7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
  Lastly, UNIGINE’s Heaven Benchmark hit 162 degrees internally and 109 degrees externally on the Razer Blade 15 alone, and dropped to 154 degrees internally and 105 degrees externally when using the C302\. All told, this lightweight and affordable pad delivered solid cooling power that helped cut down on both the internal and external temperature of the laptop while under significant stress.
 
  Depending on test, the results were roughly comparable to or better than more expensive cooling pads, like the Kootek Laptop Cooling Pad and Thermaltake Massive TM, which have some added features onboard. It’s also pretty quiet in use—certainly quieter than the Razer Blade 15’s own internal fans.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: It’s very affordable
 
@@ -170,14 +187,11 @@ Lifewire / Andrew Hayward
 * Ports  USB-A
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,4 +200,26 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-seamless-nba-viewing-discover-the-best-15-streaming-options-for-2024/"><u>[New] Seamless NBA Viewing Discover the Best 15 Streaming Options for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streaming-showdown-is-streamlabs-or-obs-your-best-choice-in-2024/"><u>[New] Streaming Showdown Is Streamlabs or OBS Your Best Choice, In 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cash-cascade-the-monetary-movements-of-a-meme-star/"><u>[Updated] Cash Cascade The Monetary Movements of a Meme Star</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flawless-illustration-from-photographs-cross-platform-compatibility/"><u>[Updated] Flawless Illustration From Photographs Cross-Platform Compatibility</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-illuminating-ideas-the-basics-of-video-setup/"><u>[Updated] Illuminating Ideas The Basics of Video Setup</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapshot-hits-must-have-filters-to-enhance-your-snap-for-2024/"><u>[Updated] Snapshot Hits Must-Have Filters to Enhance Your Snap for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-quality-in-flight-holy-stone-hs1-628-predator-mini-rc-helicopter-in-depth-review/"><u>Affordable Quality in Flight: Holy Stone HS1 628 Predator Mini RC Helicopter – In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-value-proposition-a-comprehensive-review-of-alienwares-aurora-r7/"><u>Assessing the Value Proposition: A Comprehensive Review of Alienware's Aurora R7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-gratis-applicazioni-per-clonare-dvd-scarica-e-riproduci-interi-film-in-modo-facile/"><u>Best Gratis Applicazioni per Clonare DVD - Scarica E Riproduci Interi Film in Modo Facile</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-mice-compatible-with-ipads-a-comprehensive-review/"><u>Best Mice Compatible with IPads – A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/book-lovers-guide-to-portable-e-readers-unveiling-the-kobo-clara-hd/"><u>Book Lovers' Guide to Portable E-Readers: Unveiling the Kobo Clara HD</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oppo-k11-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo K11 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mod-format-transformation-seamless-online-conversion-tools/"><u>MOD Format Transformation: Seamless Online Conversion Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-secrets-of-samsung-cf591-the-ultimate-gamers-display-revealed/"><u>Uncovering the Secrets of Samsung CF591 – The Ultimate Gamer’s Display Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-full-potential-of-your-home-in-depth-review-of-asus-ax6600-mesh-wifi-system/"><u>Unlocking the Full Potential of Your Home: In-Depth Review of ASUS AX6600 Mesh WiFi System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-choice-in-depth-look-at-netgear-orbi-mesh-router-excellence/"><u>Unveiling the Best Choice: In-Depth Look at Netgear Orbi Mesh Router Excellence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-the-j5-tactical-v1-pro-a-comprehensive-review-for-enhanced-night-vision/"><u>Unveiling the Power of the J5 Tactical V1-Pro: A Comprehensive Review for Enhanced Night Vision</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-truth-about-tp-link-av1n300-extender-a-comprehensive-review/"><u>Unveiling the Truth About TP-Link AV1n300 Extender: A Comprehensive Review</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/vsdc-video-editor-for-mac-not-working-try-these-alternatives-for-2024/"><u>VSDC Video Editor for Mac Not Working? Try These Alternatives for 2024</u></a></li>
+</ul></div>
 
