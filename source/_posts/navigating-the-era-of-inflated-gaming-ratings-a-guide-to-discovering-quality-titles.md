@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles"
-date: 2024-10-29T05:15:01.733Z
-updated: 2024-10-30T01:59:54.631Z
+date: 2024-10-31T17:06:22.368Z
+updated: 2024-11-04T20:29:55.490Z
 tags:
   - games
   - tv
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  So, if a video game score doesn't help you figure out where to spend your money, is there another way?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Find a Reviewer Who Likes Games You Already Like
@@ -37,15 +37,22 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  Reviews are subjective, and attaching a score to them without a clear and consistent rubric might not be that smart to begin with. There are plenty of incredibly high-scoring games that I think are boring (Breath of the Wild) or barely games (Red Dead Redemption 2), which would make me an iconoclast in some cases. However, tehre are reviewers who have similar tastes to mine, so instead of worrying about an average score on Metacritic or what mainstream reviewers think of a game, try to find a reviewer who has given good scores to games you already love. Then look for games they've reviewed well to get an idea of what you should play next.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Read the Reviews, Not the Scores
 
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -55,28 +62,15 @@ Cianna Garrison / How-To Geek
 
  If you're reading reviews by other players, rather than professional reviewers, it's also worth looking at circumstantial information to get some context on their reviews. Did they post a gushing review five hours into a 100 hour game? Are they [console warring](https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-phone-and-remove-locked-screen-by-drfone-android/) in the review? Again, the substance of the review matters as well as some of what's between the lines.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Watch YouTube Gameplay
 
  There are tons of third-party gameplay videos of just about every game on YouTube. You may even prefer to watch clips with no commentary at all, so you can get an idea of what the minute-to-minute experience is like, without someone's opinion affecting you. Just be careful not to spoil the game for yourself. You may want to look for footage that's specifically labeled as spoiler-free, or that doesn't contain story content. It may also be a good idea to look at footage of the first hour of gameplay only, if you don't want any spoilers.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Try a Demo or Play on a Subscription Service
@@ -104,18 +98,18 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-thriving-on-instagram-vids-blueprint-for-effective-content-strategies/"><u>[New] Thriving on Instagram Vids Blueprint for Effective Content Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-charting-the-course-to-earnings-with-youtube-videos/"><u>[Updated] Charting the Course to Earnings with YouTube Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ideal-screen-recorder-picks-for-digital-educators/"><u>[Updated] Ideal Screen Recorder Picks for Digital Educators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-overcoming-solitude-effective-strategies/"><u>ChatGPT and Overcoming Solitude: Effective Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/december-3rd-jonny-kim-an-american-physician-specializing-in-neurosurgery-at-harvard-medical-school-and-a-nasa-astronaut-candidate-his-diverse-background-ad632/"><u>December 3Rd - Jonny Kim, an American Physician Specializing in Neurosurgery at Harvard Medical School and a NASA Astronaut Candidate. His Diverse Background Adds Depth to the Field of Space Exploration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/deep-dive-into-madden-19-superior-modules-but-beginning-to-wear-out/"><u>Deep Dive Into Madden 19: Superior Modules, But Beginning to Wear Out</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-connect-device-usbethernet-adapter/"><u>Instantly Connect Device - USB/Ethernet Adapter</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/is-this-a-pigeon-meme-generator-for-2024/"><u>Is This a Pigeon Meme Generator for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-mobile-vlog-editing-top-10-apps/"><u>New In 2024, The Ultimate Guide to Mobile Vlog Editing Top 10 Apps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-oneplus-8t-examined-swift-speed-tainted-by-flawed-photography/"><u>The OnePlus #8T Examined: Swift Speed Tainted by Flawed Photography</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-strategy-for-dominance-inside-the-world-of-stellaris-gaming/"><u>The Ultimate Strategy for Dominance: Inside the World of Stellaris Gaming</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-mouse-picks-for-2/"><u>Top-Rated Wireless Mouse Picks for 2</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-gamings-hidden-treasures-a-deep-dive-into-exceptional-portable-game-units-of-2024/"><u>Unveiling Gaming's Hidden Treasures: A Deep Dive Into Exceptional Portable Game Units of 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streaming-to-the-next-level-the-top-5-game-cameras-reviewed/"><u>[Updated] In 2024, Streaming to the Next Level The Top 5 Game Cameras Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-securing-your-snapchat-memories-mobile-recorders-guide-for-2024/"><u>[Updated] Securing Your Snapchat Memories Mobile Recorders' Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-desktop-image-blending-techniques/"><u>2024 Approved Mastering Desktop Image Blending Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-tasty-talent-a-filmmakers-recipe-for-success/"><u>2024 Approved Tasty Talent A Filmmaker's Recipe for Success</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decoding-ultimategoog-an-in-depth-look-at-the-ultimate-mirror-site-experience/"><u>Decoding Ultimategoog: An In-Depth Look at the Ultimate Mirror Site Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/editing-raw-photos-on-a-budget-discover-the-power-of-darktable-for-mac-os-xlinux-users/"><u>Editing RAW Photos on a Budget? Discover the Power of Darktable for Mac OS X/Linux Users!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-client-experience-using-chatgpt-to-develop-bespoke-workout-regimnents-for-trainers/"><u>Enhancing Client Experience: Using ChatGPT to Develop Bespoke Workout Regimnents for Trainers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gamers-guide-a-razer-portal-wireless-adapter-evaluation/"><u>Gamer's Guide: A Razer Portal Wireless Adapter Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immediate-availability-top-3-apple-innovations-from-the-latest-wwdc-showcase-and-expert-tips-for-securing-your-preorders-now-gadgetzen-by-zdnet/"><u>Immediate Availability: Top 3 Apple Innovations From the Latest WWDC Showcase & Expert Tips for Securing Your Preorders Now | GadgetZen by ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-androids-ear-4-easy-unrooted-ways/"><u>In 2024, Capture Android's Ear 4 Easy, Unrooted Ways</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-asus-ac68u-wifi-router-speed-and-security-for-your-5g-needs/"><u>In-Depth Review of Asus AC68U WiFi Router - Speed and Security for Your 5G Needs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-itel-a70-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/wiederherstellung-verlorener-bilder-schritt-fur-schritt-anleitung-zur-wiederherstellung-von-geloschten-bildern-auf-verschiedenen-endgeraten/"><u>Wiederherstellung Verlorener Bilder: Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Von Gelöschten Bildern Auf Verschiedenen Endgeräten</u></a></li>
 </ul></div>
 

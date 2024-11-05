@@ -1,7 +1,7 @@
 ---
 title: Why the Lack of Achievements on The Switch Could Be a Positive Thing
-date: 2024-10-27T18:23:04.147Z
-updated: 2024-10-29T21:14:25.092Z
+date: 2024-11-03T23:07:09.714Z
+updated: 2024-11-04T16:19:07.485Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Nintendo is the only console maker of the big three without an integrated achievement system for its consoles. Achievements are immensely popular, and many people want them on the Switch, but I think a lack of achievements is an overlooked unique selling point for Nintendo.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  No Achievements Means Pure Gaming On Switch
@@ -35,10 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now, the first thing everyone says to this is "you can just [disable the notifications](https://extra-skills.techidaily.com/2024-approved-mastering-high-dynamic-range-with-image-curving/)", but the way that Xbox and PlayStation achievements are designed means they are always in sight at some point. They clutter up the screen when you're browsing your games, litter your profile page, and try to get your eyes on them wherever possible. If Nintendo implemented a truly optional achievement system, I'd be less fussed about it, but their competition only offers half-measures, and that's not good enough for me. My Switch is currently the only place where I can play video games and only have to think about the game itself.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Achievements Can Make Gaming Worse
@@ -52,10 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The box art for Fire Emblem Engage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/b5827e3b.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Switch/dp/B0BF1W7K23/ref=sr%5F1%5F1%5Fsspa?crid=14DNO0YJ12XXC&keywords=fire+emblem+engage&qid=1674073683&sprefix=fire+emblem+engage%2Caps%2C522&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaM1cxNDBNMjBTSDcmZW5jcnlwdGVkSWQ9QTA2MzM3NjkxQjRIWFVaRUxNVU1LJmVuY3J5cHRlZEFkSWQ9QTA4MDc2NjYxWFU2Q0FCRkRHVDdLJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)_
@@ -63,10 +63,10 @@ _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Swit
  In light of the lack of achievements on the Switch, some developers have simply opted to build their own achievements into their games. For example, in Fire Emblem Engage there's an achievement list within the game to keep track of your progress. Even better, you get in-game currency when you unlock an achievement, so they are more than just window dressing. This isn't rare either, as this [list of Switch games with in-game achievements](https://www.reddit.com/r/NintendoSwitch/comments/xl00ju/list%5Fof%5Fswitch%5Fgames%5Fwith%5Fingame%5Fachievements%5Fin/) from Reddit shows.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Switch 2 Simply Doesn’t Need Them to Succeed
@@ -92,21 +92,22 @@ _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Swit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-spring-screens-reimagined-a-review-of-modern-tech-for-2024/"><u>[New] Spring Screens Reimagined A Review of Modern Tech for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-micro-movie-maker/"><u>[Updated] Micro Movie Maker</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adobe-advances-bringing-text-into-three-dimensional-space/"><u>Adobe Advances Bringing Text Into Three-Dimensional Space</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-lava-storm-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Lava Storm 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-the-latest-tech-with-the-new-apple-iphone-15-pro-a-comprehensive-hands-on-review/"><u>Experience the Latest Tech with the New Apple iPhone 15 Pro: A Comprehensive Hands-On Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-picks-fastest-and-reliable-cable-modems/"><u>Expert Picks: Fastest and Reliable Cable Modems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-slow-to-lightning-transform-your-mac-with-an-ssd/"><u>From Slow to Lightning: Transform Your Mac with an SSD</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-xs-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone XS Max Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-instagram-slowdowns-top-6-fixes-for-android-and-ios/"><u>How to Resolve Instagram Slowdowns: Top 6 Fixes for Android & iOS</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-long-distance-wifi-gadgets-the-ultimate-picks-for-2er/"><u>Leading Long-Distance WiFi Gadgets: The Ultimate Picks for 2Er</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/linksys-ea8300-router-review/"><u>Linksys EA8300 Router Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-into-better-imaging-with-these-gopro-extras-for-2024/"><u>Step Into Better Imaging with These GoPro Extras for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/switching-perspectives-evaluating-the-differences-between-nintendo-switch-lite-and-oled-models/"><u>Switching Perspectives: Evaluating the Differences Between Nintendo Switch Lite & OLED Models</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/testing-the-robustness-of-the-affordable-omoton-t1-stand-for-your-tablet-our-detailed-assessment/"><u>Testing the Robustness of the Affordable Omoton T1 Stand for Your Tablet – Our Detailed Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-owc-mercury-pro-ssd-reviewed-leading-the-market-with-superior-performance-metrics/"><u>The OWC Mercury Pro SSD Reviewed: Leading the Market with Superior Performance Metrics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/troubleshooting-steps-for-call-of-duty-vanguard-dev-error-5573-what-you-need-to-know/"><u>Troubleshooting Steps for Call of Duty: Vanguard Dev Error 5573 – What You Need To Know</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-watch-facebook-live-in-2024/"><u>[New] How to Watch Facebook Live, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-your-first-adobe-presenter-video/"><u>[New] In 2024, The Ultimate Guide to Your First Adobe Presenter Video</u></a></li>
+<li><a href="https://win-docs.techidaily.com/touch-id-iphones-ios-15/"><u>如何當 Touch ID iPhones 因 iOS 15 版本而無法使用時修復？</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieve-a-thriving-twitter-presence-tips-for-increasing-your-follower-count/"><u>Achieve a Thriving Twitter Presence: Tips for Increasing Your Follower Count</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-unveiled-how-the-iphone-12-pro-max-shapes-up-in-larger-form-factor/"><u>Apple Unveiled: How the iPhone 12 Pro Max Shapes Up in Larger Form Factor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-nokia-31-smartphone-assessment-ideal-entry-level-device/"><u>Comprehensive Nokia 3.1 Smartphone Assessment - Ideal Entry-Level Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/convenience-meets-comfort-with-kobo-clara-hd-review-for-the-modern-mobile-bibliophile/"><u>Convenience Meets Comfort with Kobo Clara HD Review for the Modern Mobile Bibliophile</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-best-deals-on-high-quality-sports-watches-from-fossil-expert-opinions-and-ratings/"><u>Discover the Best Deals on High-Quality Sports Watches From Fossil: Expert Opinions & Ratings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-organizing-your-day-using-slack-reminder-features/"><u>Expert Tips for Organizing Your Day Using Slack Reminder Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/first-encounter-with-agptek-mp3-player-a01/"><u>First Encounter with AGPTEK MP3 Player A01</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/future-proof-internet-devices-top-cable-modem-picks/"><u>Future-Proof Internet Devices: Top Cable Modem Picks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-moto-g-5g-2023-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Moto G 5G (2023) Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mastering-selection-of-top-8-high-quality-free-online-translators/"><u>In 2024, Mastering Selection of Top 8 High-Quality Free Online Translators</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-motorola-mg7700-evaluation-unmatched-fast-performance/"><u>In-Depth Motorola MG7700 Evaluation: Unmatched Fast Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-rayman-legends-a-masterclass-in-2d-platformer-design/"><u>In-Depth Review of Rayman Legends - A Masterclass in 2D Platformer Design</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleash-potential-the-best-instagram-hashtags-of-the-day/"><u>Unleash Potential The Best Instagram Hashtags of the Day</u></a></li>
 </ul></div>
 

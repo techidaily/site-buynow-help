@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-10-27T00:39:17.268Z
-updated: 2024-10-29T22:23:51.207Z
+date: 2024-10-30T21:38:05.266Z
+updated: 2024-11-04T22:03:46.659Z
 tags:
   - games
   - tv
@@ -22,10 +22,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Problem With Capacitive Touch Buttons
@@ -37,6 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you’ve got wet hands, forget about it. If your hands are slightly damp, you’re rolling the dice on a 50-50 chance of success. If the button gets wet, who knows what will happen? Sometimes you don’t need moisture for these buttons to behave erratically, they just go haywire.
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
 
@@ -62,13 +75,6 @@ Tim Brookes / How-To Geek
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  But this logic doesn’t extend to every device. Though the argument for longevity is a valid one, did we trade usability for reliability? And is that trade-off worth it?
@@ -86,10 +92,10 @@ Tim Brookes / How-To Geek
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -101,10 +107,10 @@ Tim Brookes / How-To Geek
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
@@ -126,16 +132,17 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-secure-and-unshakable-direct-url-addition-on-your-tiktok-profile/"><u>[New] Secure & Unshakable Direct URL Addition on Your TikTok Profile</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-samsung-picture-editor-features-and-proscons/"><u>[Updated] In-Depth Samsung Picture Editor Features and Pros/Cons</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-the-mysteries-of-smooth-audioshifts/"><u>2024 Approved Unraveling the Mysteries of Smooth Audioshifts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/before-making-your-purchase-here-are-the-5-most-important-things-to-consider-about-fitness-trackers/"><u>Before Making Your Purchase, Here Are the 5 Most Important Things to Consider About Fitness Trackers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-smart-doorbells-ring-versus-nest-a-detailed-review/"><u>Comparing Smart Doorbells: Ring versus Nest - A Detailed Review</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/petcube-economical-high-definition-pet-monitoring-system/"><u>Petcube Economical High Definition Pet Monitoring System</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-your-deal-elite-cleaner-app-for-iphones/"><u>Secure Your Deal: Elite Cleaner App for iPhones</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/step-by-step-tutorial-adding-internal-and-external-links-with-the-emeditor-software/"><u>Step-by-Step Tutorial: Adding Internal and External Links with the EmEditor Software</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-breakdown-and-insights-on-linksys-wrt1900acs-an-open-source-solution-for-home-networking/"><u>The Complete Breakdown and Insights on Linksys WRT1900ACS - An Open Source Solution for Home Networking</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-latest-microsoft-surface-pro-7-consistent-excellence-and-minor-enhancements-alike/"><u>Unpacking the Latest Microsoft Surface Pro 7 - Consistent Excellence and Minor Enhancements Alike</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-video-promo-tips-for-startups-infographic/"><u>[New] In 2024, Essential Video Promo Tips for Startups (Infographic)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-simple-windows-11-techniques-for-video-editing/"><u>[Updated] In 2024, Simple Windows 11 Techniques for Video Editing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-insiders-guide-to-youtube-tv-features-and-functions/"><u>[Updated] The Insider's Guide to YouTube TV Features & Functions</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/essential-tips-for-designing-engaging-fb-video-covers/"><u>Essential Tips for Designing Engaging FB Video Covers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-pioneer-bdr-xs06-assessing-blu-ray-burning-power-and-portability-features/"><u>Expert Review on the Pioneer BDR-XS06: Assessing Blu-Ray Burning Power & Portability Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-choose-the-right-fitness-band-5-critical-aspects-you-shouldnt-ignore/"><u>How to Choose the Right Fitness Band: 5 Critical Aspects You Shouldn't Ignore</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sb210-soundbot-evaluation-exceptional-audio-performance-in-peak-condition/"><u>SB210 Soundbot Evaluation: Exceptional Audio Performance in Peak Condition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-gap-in-your-tech-arsenal-discover-our-review-of-the-samsung-galaxy-tab-a-2020/"><u>The Essential Gap in Your Tech Arsenal? Discover Our Review of the Samsung Galaxy Tab A (2020)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2669774-9781785354458-the-secret-people/"><u>The Secret People | Free Book</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/king-youtube-success-mastering-the-art-of-shorts-thumbnails-for-2024/"><u>Unlocking YouTube Success Mastering the Art of Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-you-should-skip-out-on-these-4-latest-apple-gadgets-expert-advice/"><u>Why You Should Skip Out on These 4 Latest Apple Gadgets: Expert Advice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy-to-Use AT-LP120XUSB for Digital Vinyl Lovers
-date: 2024-08-15T05:50:00.071Z
-updated: 2024-08-16T05:50:00.071Z
+date: 2024-10-31T19:58:58.975Z
+updated: 2024-11-04T23:27:31.118Z
 categories:
   - BestProducts
 description: This Article Describes Easy-to-Use AT-LP120XUSB for Digital Vinyl Lovers
@@ -38,9 +38,6 @@ Lifewire / Jeff Dojillo
 
 ## Audio-Technica AT-LP120XUSB
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Audio-Technica AT-LP120XUSB-BK](https://www.lifewire.com/thmb/gUSGcxbX4twCFknmSc1Ok71bc1A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/03LW4066854-HeroSquare-b64d56107a3247e685fc7fdbff3f1663.jpg)
 
 Lifewire / Jeff Dojillo
@@ -68,8 +65,12 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Modern but plastic**
 
  The Audio-Technica AT-LP120XUSB-BK is a lightweight turntable with a modern design. The all black, polished metal turntable comes with a professional-grade, anti-resonance, die-cast aluminum platter and a felt mat to help reduce vibration when playing records.
@@ -84,14 +85,18 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Set up: Quick and painless**
 
  Removing the Audio-Technica AT-LP120XUSB-BK from the box, we were able to assemble it pretty quickly, though the instructions were a bit vague. We installed the platter and the felt mat on the turntable easily, and the headshell and phono cartridge on the Audio-Technica AT-LP120XUSB-BK were also a breeze to install. Balancing the tonearm was fairly straightforward as well, it just required a few trial and error adjustments of the counterweight.
 
  Lifewire / Jeff Dojillo
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Great audio output and format support**
 
@@ -104,8 +109,18 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Sound Quality: Varies from system to system**
 
  The Audio-Technica AT-LP120XUSB-BK generally sounds great, but audio quality can vary significantly depending on the system to which the turntable is attached. When testing the AT-VM95E Dual Magnet phono cartridge with a dedicated stereo amp it created a wonderful soundstage with crisp high tones and rich bass. Even though our tests were positive, the sound produced from the turntable relies more on the quality of speakers, amp, and sound dynamics of the room than other models.
@@ -118,9 +133,6 @@ Lifewire / Jeff Dojillo
 
  According to the instructions that were provided with the Audio-Technica AT-LP120XUSB-BK, all we had to do to convert vinyl records to digital audio was to connect the turntable via[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) and download Audacity recording software. Converting analog audio to digital was then as simple as selecting the turntable as our input device. This turntable is perfect for those looking for a simple way to record their favorite records or archive a rare vinyl collection.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Price: Decent price for what it delivers**
 
  Retailing at around $250 the Audio-Technica AT-LP120XUSB-BK is a great direct-drive turntable. Geared toward those that enjoy high-definition music through vinyl records, this is a great turntable that not only looks wonderful but delivers great functionality.
@@ -138,8 +150,12 @@ Lifewire / Jeff Dojillo
  The Audio-Technica AT-LP120XUSB-BK is a great turntable for those that are looking for a serious, enthusiast option. Vinyl lovers that are serious about sound will want this turntable due to its customizable features and excellent sound quality—as long as it’s paired with a similarly high-end system.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Audio-Technica AT-LP60XBT-BK](https://www.lifewire.com/audio-technica-at-lp60xbt-bk-review-4772401)
@@ -179,8 +195,6 @@ Lifewire / Jeff Dojillo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +202,19 @@ Lifewire / Jeff Dojillo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-10-leading-4k-displays/"><u>[New] 2024 Approved 10 Leading 4K Displays</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717708460135-new-in-2024-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[New] In 2024, How to Block Youtube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chuckle-craftsman-imgur-composer/"><u>2024 Approved Chuckle Craftsman Imgur Composer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-textual-tricks-for-tickling-funny-bones/"><u>2024 Approved Textual Tricks for Tickling Funny Bones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ace-picks-top-ranked-gaming-screens-in-4k/"><u>Ace Picks Top-Ranked Gaming Screens in 4K</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/acurites-model-01036m-weather-station-reviewed-hassle-free-installation-and-reliable-construction-insights/"><u>AcuRite's Model 01036M Weather Station Reviewed: Hassle-Free Installation & Reliable Construction Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/affordable-digital-screen-recorders-reviewed-and-rated-for-2024/"><u>Affordable Digital Screen Recorders Reviewed & Rated for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-privilege-levels-for-non-administrators-on-windows-os/"><u>Altering Privilege Levels for Non-Administrators on Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-temu-and-amazon-a-comprehensive-guide-on-the-top-online-retailer-for-your-purchases/"><u>Comparing Temu and Amazon: A Comprehensive Guide on the Top Online Retailer for Your Purchases</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-elite-linkedin-learning-courses-curated-success/"><u>Explore Elite LinkedIn Learning Courses Curated Success</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/head-to-head-showdown-apple-tv-4k-stacked-against-roku-ultra/"><u>Head-to-Head Showdown: Apple TV 4K Stacked Against Roku Ultra</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-guide-and-expert-insight-on-maximizing-your-investment-with-a-185-wh50k-mah-power-bank-from-maxoak/"><u>User Guide and Expert Insight on Maximizing Your Investment with a 185 Wh/50k mAh Power Bank From MaxOak</u></a></li>
+</ul></div>
 

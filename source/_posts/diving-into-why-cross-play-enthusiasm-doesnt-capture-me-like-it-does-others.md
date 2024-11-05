@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2024-10-23T02:40:38.709Z
-updated: 2024-10-29T22:32:10.577Z
+date: 2024-10-28T19:56:30.047Z
+updated: 2024-11-05T00:34:02.318Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Remember when cross-platform multiplayer gaming was something we all wanted? Now that we've got it, I don't think it's panned out exactly how I expected. Here's why I'm so far unimpressed by cross-platform gaming.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Cross-Platform Multiplayer Offers Gamers
@@ -35,6 +35,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  One of the best things about cross-platform gaming is the lack of wait times in matchmaking lobbies. As someone who has spent way too much time waiting for matchmaking on some of my PC-only titles, I appreciate jumping into a game with console players. Pooling all players together means it's a lot easier to find a game.
 
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Controller Mis-Matching and Aim Assist
 
@@ -47,13 +54,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  Some games offer an [aim-assist for console players](https://youtube-sure.techidaily.com/approved-transform-video-vendoring-into-virtual-ventures-and-valuables/) to give them a more even footing with PC players. _Call of Duty Warzone_ offers a pretty well-defined aim assist setting for controller players, sometimes making it even better than playing with a mouse and keyboard. However, if you're not a controller owner, it's likely that you'll still have better base accuracy and may dominate in online play.
 
  A few games offer "controller matching" to avoid this issue, allowing players to match with other players who are using the same hardware. This would be a better feature if more games included it, but sadly, it's not seen on a lot of cross-platform titles. This is only an issue when you're playing competitive PVP titles, however. Co-op titles don't need any adjusting for this metric.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Mouse-and-Keyboard vs. Controller War
 
@@ -68,10 +68,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Problems That Impact Competitive Play
@@ -85,13 +85,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
 ![A Razer Firefly V2 Pro gaming mouse on a light-up mouse pad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/gaming-mouse-on-therazer-firefly-v2-pro_53678776130_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -112,6 +105,13 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
  Gameplay in cross-platform titles requires a bit more work on the developer's part. The reason so many games traditionally lacked this functionality is because of how much work goes into porting games between hardware, including testing for compatibility across platforms. It's very likely updates may cause a game to become unplayable on one platform or another.
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Can Always Turn Off Cross-Play
 
@@ -134,20 +134,24 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlocking-advanced-screen-captures-on-android/"><u>[New] 2024 Approved Unlocking Advanced Screen Captures on Android</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-youtube-micro-clips-for-2024/"><u>[New] Mastering the Art of YouTube Micro Clips for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-creative-setbacks-sudden-content-expulsion-for-2024/"><u>[Updated] Creative Setbacks Sudden Content Expulsion for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-entry-level-gaming-edit-suite-reviews/"><u>[Updated] In 2024, Top Entry-Level Gaming Edit Suite Reviews</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-win11s-premier-selection-of-videography-software/"><u>2024 Approved Win11's Premier Selection of Videography Software</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experts-unveil-the-strengths-and-features-of-linksys-velop-mesh-router-system/"><u>Experts Unveil the Strengths and Features of Linksys Velop Mesh Router System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filmmaking-revolution-15-essential-gopro-luts-revealed-for-2024/"><u>Filmmaking Revolution 15 Essential GoPro LUTs Revealed for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-tecno-pova-6-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Tecno Pova 6 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-level-aviation-simulation-unveiled-in-x-plane-11-review-immersive-visuals-and-realistic-controls/"><u>Next-Level Aviation Simulation Unveiled in X-Plane 11 Review: Immersive Visuals & Realistic Controls</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nintendo-switch-lite-review/"><u>Nintendo Switch Lite Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pure-beetalk-in-every-chirp-under-20/"><u>Pure BeeTalk in Every Chirp, Under $20!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-chromecast-with-google-tv-a-new-contender-against-amazons-firetv/"><u>Review of Chromecast with Google TV - A New Contender Against Amazon's FireTV</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-rebel-t6-review-affordable-camera-for-newbies/"><u>The Rebel T6 Review: Affordable Camera for Newbies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pinnacle-12-apps-for-unlimited-screen-recording-for-2024/"><u>[Updated] Pinnacle 12 Apps for Unlimited Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-amplify-engagement-a-compilation-of-powerful-30-freegame-tags/"><u>2024 Approved Amplify Engagement A Compilation of Powerful 30 FreeGame Tags</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-ambient-ws-2902a-osprey-weather-station-revealed-packed-with-advanced-capabilities/"><u>Affordable Ambient WS-2902A Osprey Weather Station Revealed: Packed with Advanced Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-choosing-a-great-phone-the-oneplus-nord-n10-5g-highlighted/"><u>Comprehensive Guide to Choosing a Great Phone: The OnePlus Nord N10 5G Highlighted</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/converting-win10-32-bit-to-powerful-64-bit-version/"><u>Converting Win10 32-Bit to Powerful 64-Bit Version</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-seatechs-portable-usb-blue-ray-burner-inconsistent-output-quality/"><u>Expert Evaluation of SeaTech's Portable USB Blue-Ray Burner - Inconsistent Output Quality</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a24-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy A24 Phone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-cutting-edge-techniques-for-your-instagram-story-success/"><u>In 2024, Cutting-Edge Techniques for Your Instagram Story Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-success-youtubes-keyword-research-secrets-revealed/"><u>In 2024, Unlocking Success YouTube's Keyword Research Secrets Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-360-eye-viewing-experience/"><u>In-Depth 360° Eye Viewing Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-90-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor 90 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/overwatch-analysis-engaging-skillful-squad-combat-game/"><u>Overwatch Analysis: Engaging, Skillful Squad Combat Game</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-razr-40-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Razr 40, is it possible?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-to-upgrade-your-sata-ahci-driver/"><u>Simple Steps to Upgrade Your SATA AHCI Driver</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-indispensable-jaco-smartpro-reviews-a-mini-high-powered-air-compressor-for-tires/"><u>The Indispensable Jaco SmartPro Reviews: A Mini, High-Powered Air Compressor for Tires</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-on-samsung-galaxy-tab-s7-best-in-class-for-android-tablet-lovers/"><u>The Ultimate Review on Samsung Galaxy Tab S7: Best in Class for Android Tablet Lovers</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-six-no-cost-video-converters-the-ultimate-list-for-pc-and-mac-users/"><u>Top Six No-Cost Video Converters: The Ultimate List for PC and MAC Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lenovo-thinkpad-x1-titanium-yoga-the-ultimate-2-in-1-solution-for-true-thinkpad-fans/"><u>Unveiling the Lenovo ThinkPad X1 Titanium Yoga - The Ultimate 2-in-1 Solution for True ThinkPad Fans</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/which-stands-out-a-comprehensive-review-of-the-apple-watch-series-9-vs-fitbit-charge-6/"><u>Which Stands Out? A Comprehensive Review of the Apple Watch Series 9 vs Fitbit Charge 6</u></a></li>
 </ul></div>
 

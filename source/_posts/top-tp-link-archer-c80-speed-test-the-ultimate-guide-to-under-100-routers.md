@@ -1,7 +1,7 @@
 ---
 title: "Top TP-Link Archer C80 Speed Test: The Ultimate Guide to Under-$100 Routers"
-date: 2024-08-15T05:54:49.893Z
-updated: 2024-08-16T05:54:49.893Z
+date: 2024-10-30T16:06:10.484Z
+updated: 2024-11-04T21:20:32.192Z
 categories:
   - BestProducts
 description: "This Article Describes Top TP-Link Archer C80 Speed Test: The Ultimate Guide to Under-$100 Routers"
@@ -99,18 +99,12 @@ PHOTO: Amazon
 
 **Wireless Spec:** Wi-Fi 5 (802.11ac) |**Security:** WPA2 |**Standard/Speed:** AC2200 |**Bands:** Dual-band |**MU-MIMO:** Yes |**Beamforming:** No |**Wired Ports:** 1
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netgear Nighthawk EX7300](https://www.lifewire.com/thmb/8z39PHsPjAqU7hEOMwuSu2QWR1E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetgearNighthawkX4-f402d794160a4b6abaeb27471ecaaed7.jpg)
 
 Lifewire / Andrew Hayward
 
 [Netgear Nighthawk X4 Wi-Fi Mesh Extender Review](https://www.lifewire.com/netgear-nighthawk-x4-wi-fi-mesh-extender-review-4846224)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Budget Buy
 
 [Netgear EX3700](https://www.amazon.com/dp/B00R92CL5E?tag=lifewire-onsite-prod-20&ascsubtag=4043312%7Cn8f2a58e80eec4ac08678f4a92a94a7d414%7CB00R92CL5E)
@@ -146,6 +140,13 @@ Lifewire / Scot Braswell
 
 [Netgear EX3700 Wi-Fi Range Extender (AC750) Review](https://www.lifewire.com/netgear-ex3700-wifi-range-extender-ac750-review-4589551)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Wi-Fi 6
 
 [TP-Link Wi-Fi 6 Range Extender](https://www.walmart.com/ip/TP-LINK-RE505X-AX1500-Wi-Fi-6-Range-Extender/157871510)
@@ -174,9 +175,6 @@ PHOTO: Amazon
 
 **Wireless Spec:** Wi-Fi 6 (802.11ax) |**Security:** WPA2 |**Standard/Speed:** AX1500 |**Bands:** Dual-band |**MU-MIMO:** Yes |**Beamforming:** No |**Wired Ports:** 1
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link RE505X](https://www.lifewire.com/thmb/CQa9ezEL-_6ZO4VXlhB73v1byEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link-RE505X-Wi-Fi-Extender-3-e4243ff5fbc14a1fbd5ba9d9e23059f0.jpg)
 
 Lifewire / Erika Rawes
@@ -215,13 +213,17 @@ PHOTO: Amazon
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
 [Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender Review](https://www.lifewire.com/netgear-nighthawk-ax8-wi-fi-6-mesh-extender-review-4846125)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Best Range
 
 [TP-Link RE650](https://www.amazon.com/dp/B01MR90E3A?tag=lifewire-onsite-prod-20&ascsubtag=4043312%7Cn8f2a58e80eec4ac08678f4a92a94a7d414%7CB01MR90E3A)
@@ -251,8 +253,12 @@ PHOTO: Amazon
 **Wireless Spec:** Wi-Fi 5 (802.11ac) |**Security:** WPA2 |**Standard/Speed:** AC2600 |**Bands:** Dual-band |**MU-MIMO:** Yes |**Beamforming:** Yes |**Wired Ports:** 1
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Best Powerline
 
 [Netgear PLW1000](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-powerline-ac1000-wi-fi-access-point-and-adapter-white%2F4760605.p%3FskuId%3D4760605)
@@ -308,10 +314,14 @@ PHOTO: Amazon
 
 **Wireless Spec:** Wi-Fi 5 (802.11ac) | **Security:** WPA2, Guest Wi-Fi Secure Access | **Standard/Speed:** AC750 | **Bands:** Dual-band | **MU-MIMO:** No | **Beamforming:** No | **Wired Ports:** 1
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link TL-WR902AC Travel Router](https://www.lifewire.com/thmb/7kKuuIyfD30duxgd5jNyVnVEyyA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link-TL-WR902AC-Wifi-Extender-3-ba81405b8f1f42e3a9c6e53e9fb520b9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -372,8 +382,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -381,4 +389,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-virtual-impression-sculpting-a-playful-digital-identity/"><u>[Updated] 2024 Approved Virtual Impression Sculpting a Playful Digital Identity</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-streams-vimeo-versus-youtube-for-2024/"><u>Comparing Streams Vimeo Versus YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/guide-to-silent-screen-time-view-unseen-stories-on-devices-for-2024/"><u>Guide to Silent Screen Time View Unseen Stories on Devices for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-c110-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia C110 Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/introducing-windows-xps-media-production-hub-for-2024/"><u>Introducing Windows XP's Media Production Hub for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/logitech-c920-pro-hd-webcam-review/"><u>Logitech C920 Pro HD Webcam Review</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/losungsansatze-zur-behandlung-von-datei-in-gebrauch-fehlern-in-windows-10-tipps-and-techniken/"><u>Lösungsansätze Zur Behandlung Von 'Datei in Gebrauch' Fehlern in Windows 10 - Tipps & Techniken</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/molecular-research-may-uncover-biomarkers-for-predicting-treatment-response-and-identifying-patients-at-risk-for-severe-complications-from-cancer-induced-bo109/"><u>Molecular Research May Uncover Biomarkers for Predicting Treatment Response and Identifying Patients at Risk for Severe Complications From Cancer-Induced Bone Disease.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-tablet-shopping-consider-these-8-important-tips-first/"><u>Navigating Tablet Shopping? Consider These 8 Important Tips First!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/perfect-your-sketches-free-wacom-intuos-4-drivers-on-windows/"><u>Perfect Your Sketches: Free Wacom Intuos 4 Drivers on Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pet-cube-reveals-how-to-keep-families-together-anywhere/"><u>Pet Cube Reveals How to Keep Families Together Anywhere</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/practical-insights-on-msis-pro-mp161-e2-mobile-display-unit/"><u>Practical Insights on MSI's Pro MP161 E2 Mobile Display Unit</u></a></li>
+</ul></div>
 

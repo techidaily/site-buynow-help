@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Maisto RC Rock Crawler - The Ultimate Kid's Remote Control Adventure
-date: 2024-08-15T05:51:06.444Z
-updated: 2024-08-16T05:51:06.444Z
+date: 2024-11-03T16:34:54.261Z
+updated: 2024-11-04T16:00:30.937Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Maisto RC Rock Crawler - The Ultimate Kid's Remote Control Adventure
@@ -13,14 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/2rxvJM_2S4-UWzYzj1U7sBmJqbw=/400x300/fi
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beatit 800A BT-D11 Car Jump Starter
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/OIHJ0F8VMR0yFUpC8veJBJ39E6A=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
 
  Lifewire / Tony Mitera
@@ -47,10 +41,14 @@ thumbnail: https://www.lifewire.com/thmb/2rxvJM_2S4-UWzYzj1U7sBmJqbw=/400x300/fi
 
 ## Beatit 800A BT-D11 Car Jump Starter
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/7R_IVd_cu2-li0Lw4-mRkmgyF1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Tony Mitera
 
@@ -75,9 +73,6 @@ thumbnail: https://www.lifewire.com/thmb/2rxvJM_2S4-UWzYzj1U7sBmJqbw=/400x300/fi
 
  Lifewire / Tony Mitera
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: A lot of power packed into a small frame**
 
  The Beatit Jump Starter D11’s main unit's effectively a small black brick with red accents. Roughly the size of a small paperback book, the unit's constructed out of durable plastic and features a flashlight at one end. Along one of the long sides there's a small display that shows battery status, the on/off switch, two USB power outputs, and the device’s charging port. On the opposing side a rubber flap covers the jumper cable port; a unique port that the jumper cable accessory plugs in to.
@@ -97,8 +92,12 @@ thumbnail: https://www.lifewire.com/thmb/2rxvJM_2S4-UWzYzj1U7sBmJqbw=/400x300/fi
  If it's your other devices that are having some battery issues, the D11’s two USB ports can be used to charge them up. The 2.1A port provides for faster charging, and while the 1A port also works it really doesn’t provide power in a hurry and should only be used with specific devices that can’t handle the other port's amperage. For most modern phones you’re just going to want to plug it into the 2.1A port and enjoy the faster recharge.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Performance: Plenty of power for all your needs**
 
  Time and again, the Beatit Jump Starter D11 was able to get a car with a very[depleted battery](https://www.lifewire.com/car-batteries-are-made-to-die-534765) started. Even after repeated testing the unit’s own battery only dropped down to 85% capacity.
@@ -116,8 +115,12 @@ thumbnail: https://www.lifewire.com/thmb/2rxvJM_2S4-UWzYzj1U7sBmJqbw=/400x300/fi
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: A ton of value for a tiny cost**
 
  The MSRP of the Beatit Jump Starter D11 is $70 which makes it one of the most affordable jump starters on the market. Indeed, at that price, it's the least expensive one we tested, yet no part of it feels like any corners were cut in terms of quality or performance.
@@ -139,6 +142,19 @@ thumbnail: https://www.lifewire.com/thmb/2rxvJM_2S4-UWzYzj1U7sBmJqbw=/400x300/fi
 **For the price, it's perfect.**
 
  In a crowded field, there are few units that are as easy to recommend as the Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter. It has relatively few features when compared to some of its competitors but otherwise excels at what it's designed to do. Charge it up, keep it stashed in your vehicle, and you’ll have a perfect tool to easily provide a jump to whatever vehicle needs it.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -162,8 +178,6 @@ thumbnail: https://www.lifewire.com/thmb/2rxvJM_2S4-UWzYzj1U7sBmJqbw=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +185,26 @@ thumbnail: https://www.lifewire.com/thmb/2rxvJM_2S4-UWzYzj1U7sBmJqbw=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-your-journey-to-youtubes-command-center-of-creativity/"><u>[New] In 2024, Your Journey to YouTube's Command Center of Creativity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-your-best-freefire-videos-with-key-insights/"><u>[New] Unlock Your Best FreeFire Videos with Key Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-the-world-of-instagram-streams-with-ease-through-obs/"><u>[Updated] Navigating the World of Instagram Streams with Ease Through OBS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-reverse-youtube-video-in-creative-ways/"><u>2024 Approved How to Reverse YouTube Video in Creative Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-timeout-issue-windows-1110-semaphore-error-0x80070079/"><u>Addressing Timeout Issue - Windows 11/10 Semaphore Error 0X80070079</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gaming-on-an-8gb-graphics-card-is-this-adequate-for-modern-titles/"><u>Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-tv-vs-android-tv-explained-understanding-key-contrasts-in-streaming-devices/"><u>Google TV Vs. Android TV Explained - Understanding Key Contrasts in Streaming Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hdr-revolutionizes-gaming-with-new-update-on-dolphin-emulator-for-wiigamecube-classics/"><u>HDR Revolutionizes Gaming with New Update on Dolphin Emulator for Wii/GameCube Classics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hidden-insights-20-often-missed-techniques-for-the-ultimate-nintendo-switch-experience/"><u>Hidden Insights: 20 Often-Missed Techniques for the Ultimate Nintendo Switch Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-microsofts-new-focus-in-ai-may-signal-trouble-for-compact-computing-systems-used-in-handheld-pc-gaming/"><u>How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-13-pro-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 13 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-my-adventure-in-3d-printed-lego-creations-surprising-outcomes-revealed/"><u>Inside My Adventure in 3D-Printed LEGO Creations – Surprising Outcomes Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-out-what-really-transpires-in-ai-bot-interactions/"><u>Inside Out: What Really Transpires in AI Bot Interactions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/last-chance-alert-start-streaming-these-popular-games-before-extinction-hits/"><u>Last Chance Alert! Start Streaming These Popular Games Before Extinction Hits!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-graphics-processor-units-the-ultimate-2024-lineup-guide/"><u>Leading Graphics Processor Units: The Ultimate 2024 Lineup Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-value-unlocking-the-full-potential-of-your-hulu-subscription/"><u>Maximizing Value: Unlocking the Full Potential of Your Hulu Subscription</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-bamboo-simple-software-update-path/"><u>Wacom Bamboo: Simple Software Update Path</u></a></li>
+</ul></div>
 
