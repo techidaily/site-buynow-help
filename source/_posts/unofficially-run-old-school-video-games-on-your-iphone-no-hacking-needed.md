@@ -1,7 +1,7 @@
 ---
 title: Unofficially Run Old-School Video Games on Your iPhone - No Hacking Needed!
-date: 2024-10-19T10:06:11.541Z
-updated: 2024-10-23T21:48:43.215Z
+date: 2024-11-13T02:27:27.877Z
+updated: 2024-11-15T00:48:19.422Z
 tags:
   - games
   - tv
@@ -21,6 +21,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Make Use of Delta's Full Feature Set](https://some-knowledge.techidaily.com/ideal-webcams-to-upgrade-your-zoom-video-quality-for-2024/)
 * [More Emulators Are Coming](https://tiktok-clips.techidaily.com/2024-approved-funhouse-finds-unveiling-the-hottest-tiktok-gaming-phenoms/)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Emulators are now officially available for iPhone, legally, but you'll need to supply your own games (and downloading ROMs you do not own is illegal).
@@ -28,6 +41,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Transfer games to Delta via cloud, AirDrop, or USB connection, and play using touch controls or a controller.
 
  The days of jailbreaking your iPhone to play emulated games are over. Here’s how easy it is to play retro games on iOS and iPadOS, for free.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Emulators Are Now (Officially) Available for iPhone
 
@@ -43,21 +63,7 @@ Tim Brookes / How-To Geek
 
 ![Game Boy ROMs within iPhone emulator Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gbc_roms_delta.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So why the sudden change? Apple is probably jumping before it is pushed. The EU has mandated that the iPhone open up to third-party App Stores, so Apple may be trying to avoid future problems. There’s also nothing inherently illegal about emulators, even though big players like Nintendo are vehemently opposed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Play Classic Nintendo Games With Delta
 
@@ -77,11 +83,31 @@ Tim Brookes / How-To Geek
 
  You can also open the relevant app on your iPhone (you’ll need to do this for Google Drive and cloud storage providers that don’t integrate with Files). You should be able to tap on a ROM file to automatically have it open in Delta. If you have more than one app that can handle that file type, you’ll be asked which app you want to use.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Transfer Games via AirDrop
 
  AirDrop works in much the same way. Simply find the native ROM file on the device you want to AirDrop from (like a Mac) and send it to your target device. The file will be saved in your device’s Downloads folder. Use Files to find Downloads, tap on the ROM and it will open in Delta (or prompt you to select an app, after which you can choose Delta).
 
  The game will now be added to Delta and you can delete the file from your Downloads folder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Transfer Games via USB
 
@@ -90,13 +116,6 @@ Tim Brookes / How-To Geek
  With your iPhone connected, make sure you trust the connection when prompted on your iPhone, then open Finder or iTunes. Select your device either in the sidebar on a Mac or by clicking the device icon at the top of the screen in iTunes. Now select “Files” or “File Sharing” from the list of options.
 
  Find the Delta app and drag and drop your ROM files over. They should be copied to the root folder. Now open Delta and tap on the plus “+” icon in the top-right corner of the screen. Select “iTunes” and then tap “Import” when prompted and Delta will ingest the ROMs into its database.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Play With Touch Controls or a Controller
 
@@ -123,10 +142,10 @@ Kris Henges / How-To Geek
 ![The Delta emulator pause menu with save, load, and other options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/pause_menu.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The “Menu” button also hides a few other features, like a “Fast Forward” option for skipping ahead, a “Hold Buttons” option for automating certain operations, and the “Cheat Codes” section which allows you to use Game Genie or GameShark cheat codes in your games.
@@ -136,13 +155,6 @@ Kris Henges / How-To Geek
  Delta supports multiplayer play, but you’ll need controllers to make this happen. You can define who gets which controller under the “Settings” cog by tapping on a player identifier and then choosing the appropriate controller.
 
 ![Assining multiple controllers in Delta for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/controller_assign.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also set up a Delta Sync under “Settings” which not only syncs your game library but all of your game saves, save states, controller skins, cheats, and controller mappings. Toggle “Delta Sync” on then use the Dropbox or Google Drive buttons to link your cloud storage account.
 
@@ -169,18 +181,20 @@ Kris Henges / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-youtubes-untapped-markets-niche-strategies/"><u>[New] In 2024, Charting Youtube's Untapped Markets Niche Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-tips-downloading-and-installing-obs-for-mac-users-for-2024/"><u>[Updated] Essential Tips Downloading & Installing OBS for Mac Users for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-top-ten-nintendo-switch-battle-titles-max-156/"><u>2024 Approved Ultimate Top Ten Nintendo Switch Battle Titles (Max 156)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>2024 Approved Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-hp-printer-software-installation-package-for-officejet-pro-e8610-on-various-windows-systems/"><u>Complete HP Printer Software Installation Package for Officejet Pro E8610 on Various Windows Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-real-value-do-you-truly-benefit-from-having-a-personalized-arcade-system/"><u>Evaluating the Real Value: Do You Truly Benefit From Having a Personalized Arcade System?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-todays-top-tracks-via-apple-music-radio-a-must-try-experience-for-every-music-lover/"><u>Explore Today's Top Tracks via Apple Music Radio – A Must-Try Experience for Every Music Lover!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/exploring-the-length-limits-for-instagram-videos/"><u>Exploring the Length Limits for Instagram Videos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/federal-assistance-concludes-comcasts-new-low-cost-30-broadband-deals/"><u>Federal Assistance Concludes - Comcast's New Low-Cost $30 Broadband Deals</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/introducing-the-collaborative-playlist-youtube-musics-latest-innovation-in-shared-listening-experiences/"><u>Introducing the Collaborative Playlist: YouTube Music's Latest Innovation in Shared Listening Experiences</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-it-time-to-say-goodbye-to-your-favorite-roku-streambar-pro/"><u>Is It Time to Say Goodbye to Your Favorite Roku StreamBar Pro?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-persistent-lag-issues-in-dota-2-expert-advice/"><u>Solving Persistent Lag Issues in Dota 2: Expert Advice</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-magic-v2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor Magic V2 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-expert-insights-for-saving-and-curating-insta-stories/"><u>[New] 2024 Approved Expert Insights for Saving and Curating Insta Stories</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-art-of-image-detection-opposite-on-facebook-networks/"><u>[New] 2024 Approved The Art of Image Detection Opposite on Facebook Networks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-learn-video-editing-on-vimeo-a-budget-friendly-approach/"><u>[New] Learn Video Editing on Vimeo A Budget-Friendly Approach</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-days-gone-a-motorcyclists-perspective-on-surviving-a-zombie-outbreak/"><u>Exploring 'Days Gone': A Motorcyclist's Perspective on Surviving a Zombie Outbreak</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-joys-and-challenges-in-pokemon-shining-pearl-gameplay/"><u>Exploring the Joys and Challenges in Pokémon Shining Pearl Gameplay</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gamers-guide-to-iphones-finding-the-best-model-for-your-games/"><u>Gamer's Guide to iPhones: Finding the Best Model for Your Games</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huaweis-mediapad-m5-an-expert-look-at-its-stunning-visuals-and-rich-audio/"><u>Huawei's MediaPad M5: An Expert Look at Its Stunning Visuals and Rich Audio</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oneplus-nord-n30-se-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How OnePlus Nord N30 SE Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-kobo-nia-the-new-force-to-reckon-with-for-amazon-kindle-users/"><u>In-Depth Analysis of the Kobo Nia - The New Force to Reckon With for Amazon Kindle Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-nokia-71s-stellar-screen-and-camera-performance-with-wallet-friendly-pricing/"><u>In-Depth Look: Nokia 7.1'S Stellar Screen and Camera Performance with Wallet-Friendly Pricing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-fitbit-charge-3-a-continued-winner-in-wearable-tech-reviews/"><u>Is the Fitbit Charge 3 a Continued Winner in Wearable Tech Reviews?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-edgeplus-2023-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Edge+ (2023), is it possible?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-graphic-gaze-decoding-youtubes-factful-17-narrative/"><u>The Graphic Gaze Decoding YouTube's Factful '17 Narrative</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/your-ultimate-guide-to-selecting-between-iphone-or-android-devices/"><u>Your Ultimate Guide to Selecting Between iPhone or Android Devices</u></a></li>
 </ul></div>
 

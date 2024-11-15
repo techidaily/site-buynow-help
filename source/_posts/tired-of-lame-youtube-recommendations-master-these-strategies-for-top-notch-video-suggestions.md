@@ -1,7 +1,7 @@
 ---
 title: Tired of Lame YouTube Recommendations? Master These Strategies for Top-Notch Video Suggestions!
-date: 2024-10-17T08:14:03.115Z
-updated: 2024-10-24T04:15:40.799Z
+date: 2024-11-10T21:52:21.061Z
+updated: 2024-11-15T04:10:14.201Z
 tags:
   - games
   - tv
@@ -29,13 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  As someone whose productivity is frequently hampered by watching way too much YouTube in a workday, I’ve come up with a few tips about how to improve what the “Home” screen looks like and which video recommendations you see.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Watch and Like the Things You Want to See
 
  This sounds obvious, but how often do you click the “Like” button under a video? Not only does this help out the creator who made the video, but it also signals to YouTube that you want to see more. That means more videos from this creator, more on this topic, and more videos like it based on the hivemind's watching habits.
@@ -56,6 +49,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Opening a YouTube video in a private browsing window using Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/incognito_youtube.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many browsers allow you to right-click and open in an incognito window directly, while other platforms use a modifier key like Option in Safari on a Mac. You can also get browser extensions like Open in Private Mode for [Chrome](https://chromewebstore.google.com/detail/open-in-private-mode/fcmoifjllifgjedihhcmbhjmfakcadcm?pli=1) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-in-private-mode/) to make this even simpler.
 
 ##  Tell YouTube What You Don't Like
@@ -66,7 +66,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Using the "Not interested" button to tell YouTube what you don't want to see.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/not_interested.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There’s also a “Don’t Recommend Channel” button that is far more creator-specific. This is a good way to tell YouTube that you don’t mind the topic or content, but that you’d rather experience it from other creators’ points of view.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  YouTube Shorts Have an Impact Too
 
@@ -76,22 +90,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![YouTube Shorts in the desktop version of YouTube.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/youtube_shorts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I’ve noticed that some creators are pushing Shorts heavily. As a result of watching these Shorts, I’ve started to see recommendations for standalone videos and live streams from these creators on my main Home screen.
 
  The threshold here seems to be a bit higher than your standard YouTube video, but be aware that YouTube Shorts will eventually start to affect the topics and creators you see appearing in your feed.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Clean Up or Wipe Your History
@@ -101,13 +108,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This isn’t for everyone. Micro-managing your YouTube watch history is a chore, and deleting everything will leave you with nothing. If you’re thinking of going the nuclear route, we’d recommend making a playlist of videos you like so that you can get a head start on training your account once the slate is clean.
 
 ![Wipe your entire YouTube history using the "Your Data in YouTube" settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/delete_history.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do the same for any searches you have made, either removing them one by one or deleting the whole lot. You’ll find these settings under the “Your data in YouTube” section, accessible on desktop or mobile via your profile icon in the top-right corner of the screen.
 
@@ -138,19 +138,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discover-your-latest-fb-watch-list/"><u>[New] In 2024, Discover Your Latest FB Watch List</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mac-screen-alignment-rapid-video-format-changes/"><u>[New] In 2024, Mac Screen Alignment Rapid Video Format Changes</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[Updated] In 2024, Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-use-youtube-enhancements/"><u>[Updated] In 2024, How to Use YouTube Enhancements</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-decode-facebooks-algorithm-change-and-protect-your-reach/"><u>2024 Approved Decode Facebook’s Algorithm Change & Protect Your Reach</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-your-first-impression-matters-8-must-try-youtube-tools-for-thumbnails/"><u>2024 Approved Your First Impression Matters 8 Must-Try YouTube Tools for Thumbnails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/einfach-perfekt-wie-macx-mediatrans-alle-multimedia-inhalte-von-ihrem-iphone-auf-ihren-computer-ubertragen-kann/"><u>Einfach Perfekt: Wie MacX MediaTrans Alle Multimedia-Inhalte Von Ihrem iPhone Auf Ihren Computer Übertragen Kann</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-powers-not-delegated-to-the-united-states-by-the-constitution-nor-prohibited-by-it-to-the-states-are-reserved-to-the-states-respectively-or-to-the-peopl32/"><u>The Powers Not Delegated to the United States by the Constitution, nor Prohibited by It to the States, Are Reserved to the States Respectively, or to the People.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-truth-about-pokemon-microsd-cards-what-not-to-invest-in/"><u>The Truth About Pokemon MicroSD Cards - What Not to Invest In!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-converting-printed-textbooks-to-e-books-in-just-three-steps/"><u>The Ultimate Guide: Converting Printed Textbooks to E-Books in Just Three Steps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-10-unmissable-xbox-series-xs-titles-from-the-xbox-one-library/"><u>Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/2-vlogger-friendly-cameras-unveiled/"><u>Top 12 Vlogger-Friendly Cameras Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-performing-gopro-cameras-a-comprehensive-review/"><u>Top Performing GoPro Cameras - A Comprehensive Review</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-artist-wondershare-virbo-glossary/"><u>Updated What Is an AI Artist? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-calculating-monetary-gain-for-a-milion-of-youtube-watchers-for-2024/"><u>[Updated] Calculating Monetary Gain for a Milion of YouTube Watchers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplifying-windows-11-sound-logging/"><u>[Updated] Simplifying Windows 11 Sound Logging</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-spice-up-social-media-create-memes-on-kapwing/"><u>2024 Approved Spice Up Social Media - Create Memes on Kapwing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-hue-refiner-app/"><u>In 2024, Optimal Hue Refiner App</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks-for-2024/"><u>In-Depth Insights Perfecting the Craft of Screen Recording on MacBooks for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-upgrade-paperless-print-error-rectified/"><u>Post-Upgrade, Paperless Print Error Rectified</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-hidden-costs-of-buying-a-tv-recorder-without-research/"><u>The Hidden Costs of Buying a TV Recorder Without Research</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-miniature-powerhouse-ourlink-u631-usb-wi-fi-adapter-for-superior-speed-and-durability/"><u>The Miniature Powerhouse: OURLINK U631 USB Wi-Fi Adapter for Superior Speed & Durability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-how-the-linksys-velop-reinvents-mesh-networking-technology/"><u>The Ultimate Review: How the Linksys Velop Reinvents Mesh Networking Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tiny-yet-mighty-a-comprehensive-echo-dot-gen-3-review-covering-all-alexa-features/"><u>Tiny Yet Mighty: A Comprehensive Echo Dot (Gen 3) Review Covering All Alexa Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uniform-velocity-implies-consistent-flow-rate-across-the-cross-sectional-area-of-the-entry-point-into-the-tank/"><u>Uniform Velocity Implies Consistent Flow Rate Across the Cross-Sectional Area of the Entry Point Into the Tank.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exceptional Value: Collector's Edition Bundles, Separate From Games"
-date: 2024-10-27T00:43:29.026Z
-updated: 2024-10-30T04:51:59.429Z
+date: 2024-11-08T01:16:04.609Z
+updated: 2024-11-15T03:08:57.396Z
 tags:
   - games
   - tv
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
  You may have noticed that some collector's editions of video games these days come with a heap of swag, but no actual copy of the game! Understandably, plenty of gamers have voiced dissatisfaction with this trend, but not only does this make perfect sense for publishers, it's actually good for players too.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  It Means a Single Stock Pool for All Platforms
@@ -41,33 +41,40 @@ Gearbox Entertainment
 
  Now, you can argue that if I had infinite money I could just have bought the wrong edition and the regular game for my console, but having a single version of the collector's edition that isn't platform specific would have solved this issue. Not only does it mean that all platforms draw from the same pool of stock, it also means that these editions can be cheaper to make because you have economies of scale that apply to just one product, rather than being split over three or four versions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Physical and Digital Players Can Both Buy the Same Edition
 
  If you prefer, as most people do, to have a digital version of a game, then including a copy of the game in the collector's edition makes it less attractive. I think leaving the disc out is a good compromise that caters to the majority of gamers (who are no digital) and those who still want physical media. Pick whichever game format or version you want, and then pick up the collector's edition of the game alongside it.
 
  After all, whether you're a digital or physical game media supporter, that doesn't make you more or less likely to want a cool statue or T-shirt. Personally I think the overwhelming shift to digital game distribution was one of the main factors driving the trend of not including the game with collector's editions, but either way it's a net benefit for both types of player.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It Means PC Gamers Can Get In on the Action
 
 ![NVIDIA GeForce RTX GPU inside a gaming PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/53487822647_b3c12b8c9e_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
  Almost all fancy collector's editions are aimed at console gamers, or at least they have been in the past. Since physical gaming has been dead on PC for years now, this meant buying a console copy of a multiplatform game you'll never use. It's perhaps a small concession, but by leaving the game out of the collector's edition, PC gamers don't have to be second-class citizens.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Better Quality Swag
 
@@ -78,13 +85,6 @@ Justin Duino / How-To Geek
  I've argued in the past that the [worst time to buy a game is when it releases](https://sound-issues.techidaily.com/voice-chat-malfunction-solved-steps-to-reconnect-and-communicate-effectively-in-call-of-duty-modern-warfare/), and there's [no point in pre-ordering](https://some-tips.techidaily.com/updated-striding-forward-a-comprehensive-review-of-vr-walkers/) purely digital games since the supply is effectively infinite. That's not the case for a collectors' edition of a game, which has a fixed physical number of units. In most cases there won't be a second production run either so if you miss your chance, that's it. Being scalped on Ebay is your only other option.
 
  With discless collectors' editions you can pre-order the goodies, and leave buying the game until the first few patches have released. If you're truly patient, you can wait for the definite patched version to be released on disc. I understand the FOMO of wanting to play that game the instant it releases, but at least these discless editions let you split the commitment between the physical goodies and the game itself.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Collector's Editions Are Truly Optional
 
@@ -107,21 +107,20 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-saving-big-on-vr-equipment-from-china-for-2024/"><u>[New] Saving Big on VR Equipment From China for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-top-picks-expert-recommended-8-convertors-from-sub-to-srt/"><u>[New] Top Picks Expert-Recommended 8 Convertors From Sub to Srt</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/webpmovavi/"><u>高画質で効率的なWEBP画像変換、Movaviのフリーオンラインツール - すぐに始める方法</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bluetooth-fm-transmitter-criacr-comprehensive-review-of-the-compact-cp24/"><u>Bluetooth FM Transmitter CRIACR - Comprehensive Review of the Compact CP24</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-ideapad-laptop-analysis-unveiling-the-quality-and-design/"><u>Comprehensive Lenovo IdeaPad Laptop Analysis: Unveiling the Quality and Design</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/critical-points-to-reflect-on-before-selecting-a-new-print-device/"><u>Critical Points to Reflect on Before Selecting a New Print Device</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/cut-costs-improve-videos-learn-free-vimeo-editing-for-2024/"><u>Cut Costs, Improve Videos Learn Free Vimeo Editing for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-the-power-of-huggingchat-a-cost-free-rival-to-chatgpt/"><u>Discovering the Power of HuggingChat – A Cost-Free Rival to ChatGPT</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/easy-ways-to-recover-your-files-after-performing-a-factory-reset-on-your-iphone/"><u>Easy Ways to Recover Your Files After Performing a Factory Reset on Your iPhone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-midland-lxt500vp3-a-radio-built-for-extraordinary-but-plagued-by-underwhelming-performance/"><u>Evaluating the Midland LXT500VP3: A Radio Built for Extraordinary, But Plagued by Underwhelming Performance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lensdirect-blue-light-glasses-review-block-blue-light-with-prescription-lenses/"><u>LensDirect Blue Light Glasses Review: Block Blue Light With Prescription Lenses</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-restore-roadblocks-effective-solutions-to-the-notorious-windows-11-pc-reset-error/"><u>No More Restore Roadblocks: Effective Solutions to the Notorious Windows 11 PC Reset Error</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/study-shows-totobay-as-leading-contender-for-cost-effective-sunrise-alarm-clocks/"><u>Study Shows Totobay as Leading Contender for Cost-Effective Sunrise Alarm Clocks!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/value-meets-performance-in-our-comprehensive-oneplus-nord-n1-review/"><u>Value Meets Performance in Our Comprehensive OnePlus Nord N1^ Review!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-ultrawide-vs-uhd-4k-monitors-the-experts-advice/"><u>[New] 2024 Approved UltraWide VS UHD 4K Monitors The Expert's Advice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-honing-the-craft-of-question-design-in-interviews/"><u>[New] Honing the Craft of Question Design in Interviews</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-webinar-recording-on-a-budget/"><u>[Updated] In 2024, Mastering Webinar Recording on a Budget</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streaming-fb-video-content-on-television-devices/"><u>[Updated] In 2024, Streaming FB Video Content On Television Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-social-lift-transform-from-zero-to-millionth-follower-in-months-for-2024/"><u>[Updated] The Social Lift Transform From Zero to Millionth Follower in Months for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996074410-actively-monitor-customer-support-channels-email-phone-live-chat-for-incoming-requests-or-inquiries-from-customers-requiring-assistance/"><u>Actively Monitor Customer Support Channels (Email, Phone, Live Chat) for Incoming Requests or Inquiries From Customers Requiring Assistance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/high-quality-action-captured-by-the-ion-pro-3-camera-for-2024/"><u>High-Quality Action Captured by the ION Pro 3 Camera for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/msrp-analysis-of-microsoft-surface-go-when-a-budget-tablet-questions-its-own-functionality/"><u>MSRP Analysis of Microsoft Surface Go: When a Budget Tablet Questions Its Own Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/must-haves-buying-a-refurbished-laptop-guide/"><u>Must Haves: Buying a Refurbished Laptop Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oneplus-6t-review/"><u>OnePlus 6T Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliability-ranking-jabra-steelheadphones-reviewed/"><u>Reliability Ranking: Jabra Steelheadphones Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-virtual-reality-gaming-with-highly-rated-oculus-quest/"><u>Revolutionizing Virtual Reality Gaming with Highly Rated Oculus Quest</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stay-in-shape-and-stay-tuned-with-the-ultimate-garmin-vivoactive-3-music-enabled-tracker/"><u>Stay in Shape & Stay Tuned with the Ultimate Garmin Vivoactive 3 Music-Enabled Tracker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-comparison-chart-for-choosing-a-lightweight-compact-tablet/"><u>The Definitive Comparison Chart for Choosing a Lightweight, Compact Tablet</u></a></li>
 </ul></div>
 

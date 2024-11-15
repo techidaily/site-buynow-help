@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
-date: 2024-10-26T17:34:55.769Z
-updated: 2024-10-30T02:42:51.083Z
+date: 2024-11-11T02:20:59.563Z
+updated: 2024-11-14T21:47:30.530Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
 
  By far the most popular chips powering the current generation of [handheld gaming PCs](https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-devices-by-toms-authority-in-hardware/) are AMD’s [APUs](https://youtube-videos.techidaily.com/diy-split-screen-video-tutorials-for-youtube-enthusiasts-for-2024/), which combine a powerful mobile [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) with a potent [integrated](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/) [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/), allowing these handheld devices to run the latest and greatest games.
@@ -32,10 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _AMD_
@@ -66,19 +73,6 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
@@ -86,16 +80,10 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
@@ -109,10 +97,10 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -146,20 +134,22 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-best-of-the-best-compilation-of-top-10-4k-phone-cameras-for-2024/"><u>[New] Best of the Best Compilation of Top 10 4K Phone Cameras for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-echoes-of-antiquity-tracing-the-footsteps-of-ancient-scribes-for-2024/"><u>[New] Echoes of Antiquity Tracing the Footsteps of Ancient Scribes for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-navigating-the-use-of-look-up-tables-in-photoshop-cc-for-2024/"><u>[New] Navigating the Use of Look-Up Tables in Photoshop CC for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tech-driven-pleasure-exploring-vr-in-media/"><u>[New] Tech-Driven Pleasure Exploring VR in Media</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dodging-doubts-a-guide-to-vloggings-most-common-anxieties/"><u>[Updated] 2024 Approved Dodging Doubts A Guide to Vlogging's Most Common Anxieties</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-ssls-secure-for-how-much-less/"><u>Budget-Friendly SSLs: Secure for How Much Less?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-leading-smartwatch-models/"><u>Discover the Leading Smartwatch Models</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-cost-effective-quality-with-our-comprehensive-oneplus-nord-n100-review/"><u>Experience Cost-Effective Quality with Our Comprehensive OnePlus Nord N100 Review</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/passive-watchers-to-profit-youtube-monetization/"><u>From Passive Watchers To Profit YouTube Monetization</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-level-relaxation-techniques-through-smarter-sleep-tools/"><u>Next-Level Relaxation Techniques Through Smarter Sleep Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-v-purse-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor V Purse</u></a></li>
-<li><a href="https://win-forum.techidaily.com/simple-steps-to-remove-kernel-memory-snapshots-in-windows-10/"><u>Simple Steps to Remove Kernel Memory Snapshots in Windows ‪10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-review-for-ambients-ws-1002-wifi-weather-station-exquisite-quality-with-a-premium-tag/"><u>Top Review for Ambient's WS-1002 WiFi Weather Station: Exquisite Quality with a Premium Tag</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-in-depth-analysis-of-apples-2020-mac-mini-with-m1-chip-dominates-over-rivals/"><u>Unveiling the Powerhouse: In-Depth Analysis of Apple's 2020 Mac Mini with M1 Chip Dominates Over Rivals</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-battlefront-bastion-100plus-epic-game-battles-for-2024/"><u>[Updated] Battlefront Bastion 100+ Epic Game Battles for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-funny-faces-for-iphone-users/"><u>[Updated] Funny Faces for iPhone Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unlocking-a-world-of-talent-with-the-top-10-low-cost-youtube-creators-for-2024/"><u>[Updated] Unlocking a World of Talent with the Top 10 Low-Cost YouTube Creators for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-viral-photo-trends-capturing-memes-true-essence/"><u>[Updated] Viral Photo Trends Capturing Memes' True Essence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-best-selling-vr-games-on-oculus-devices/"><u>2024 Approved Best-Selling VR Games on Oculus Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harness-the-power-of-gopro-studio-essential-editing-techniques/"><u>2024 Approved Harness the Power of GoPro Studio Essential Editing Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/excellent-text-plugin-compendium/"><u>Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-tecno-camon-30-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Tecno Camon 30 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-accessory-alert-the-essential-elite-strap-battery-boost-and-secure-travel-case-for-oculus-quest-2-scrutinized/"><u>Innovative Accessory Alert: The Essential Elite Strap, Battery Boost and Secure Travel Case for Oculus Quest 2 Scrutinized</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-iris-plus-graphics-655-driver-for-windows-11-11/"><u>Intel Iris Plus Graphics 655 Driver for Windows 11, 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/introducing-the-amazon-halo-the-cutting-edge-gadget-for-an-intimate-wellness-experience/"><u>Introducing the Amazon Halo – The Cutting-Edge Gadget for an Intimate Wellness Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-netflixs-price-tag-justified-heres-why-it-might-be/"><u>Is Netflix's Price Tag Justified? Here’s Why It Might Be</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-extra-cost-justified-a-thorough-review-of-the-mighty-alienware-aurora-r7/"><u>Is the Extra Cost Justified? A Thorough Review of the Mighty Alienware Aurora R7.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/marvels-spider-man-miles-morales-critique-concentrated-plot-with-enhanced-effect/"><u>Marvel's Spider-Man: Miles Morales Critique – Concentrated Plot with Enhanced Effect</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-mobile-class-a-comprehensive-review-of-the-premium-samsung-galaxy-s1-0/"><u>Mastering Mobile Class: A Comprehensive Review of the Premium Samsung Galaxy S1 0</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-productivity-with-the-updated-ipad-pro-unveiling-changes-in-the-latest-7th-generation-model/"><u>Mastering Productivity with the Updated iPad Pro - Unveiling Changes in the Latest 7Th Generation Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-pros-and-cons-of-the-anker-roav-dashcam-c1-a-full-featured-review/"><u>Navigating the Pros and Cons of the Anker Roav Dashcam C1 – A Full-Featured Review</u></a></li>
 </ul></div>
 

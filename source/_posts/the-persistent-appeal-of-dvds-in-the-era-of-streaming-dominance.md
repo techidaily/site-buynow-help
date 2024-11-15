@@ -1,7 +1,7 @@
 ---
 title: The Persistent Appeal of DVDs in the Era of Streaming Dominance
-date: 2024-10-19T04:55:23.677Z
-updated: 2024-10-24T04:32:07.929Z
+date: 2024-11-11T23:04:22.180Z
+updated: 2024-11-14T19:59:24.026Z
 tags:
   - games
   - tv
@@ -21,19 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  It’s a weird time for physical media. While big companies have gone all-in on streaming, regular movie lovers have other plans. Maybe you’re like me and have kept buying discs (even if you might have slowed down), or maybe you’re coming back or even discovering the benefits of collecting for the first time.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  We've Seen This Before
 
  It’s not the first major shift in viewing habits and media ownership we’ve seen in the home video market. For those of us around, we may have bought and amassed collections of VHS tapes back in the 80s and 90s, but most of us just rented them from their local video store, where our choices were limited to what was available and pan-and-scan transfers were the norm. That started to change with the introduction of LaserDisc, which both improved picture quality and added special features like commentary tracks, but things really shifted when DVDs hit the market.
@@ -45,10 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Then streaming came along.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Streaming’s Conveniences Come With Growing Compromises
@@ -56,10 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Click streaming channels on the Roku home screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/roku-home-screen-open-on-a-tv-streaming.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While it didn’t happen overnight, it’s not hard to see why streaming would soon vastly overtake physical media. Even the most die-hard collectors among us can't deny the convenience, and while audio and video quality may still come up short—especially compared to 4K UHD discs—those trade-offs haven’t been dealbreakers for most people.
@@ -67,6 +54,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  It’s also not like [streaming services](https://howto.techidaily.com/fix-samsung-galaxy-m14-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/) are resting on their laurels. They’re continuing to evolve and expand their offerings and some, like The Criterion Channel and Shudder, have even embraced many of the benefits we’ve seen from DVDs and Blu-rays by offering carefully curated collections, commentary tracks, and special features.
 
  But you don’t have to dig too deep to find growing dissatisfaction with streaming in general. Prices keep going up, more services are introducing ads, and viewers have to deal with movies and TV shows [shifting](https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-105-classic-devices-by-drfone-android/) from one service to another (or sometimes find a favorite show pulled from streaming altogether). Some of those drawbacks may be different to the days of video store rentals, but they’re similarly opened up an opportunity for folks to consider (or reconsider) the [benefits](https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a78-drfone-by-drfone-virtual-android/) of [physical media ownership](https://fox-http.techidaily.com/crafting-stunning-slideshows-on-iphone-series-13-for-2024/).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  New Players and a New Focus For Physical Media
 
@@ -79,10 +73,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In many cases, those labels are also now able to license titles the studios otherwise would have kept for themselves, and give some movies a level of attention they’ve never gotten. For many collectors, it’s not just the idea of owning a physical copy of a movie that appeals to them, but owning the best possible edition of it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  An Uncertain Future
@@ -108,16 +102,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-from-mundane-to-marvelous-proven-methods-to-record-everyday-life-and-adventures-in-sims-4/"><u>[New] 2024 Approved From Mundane to Marvelous Proven Methods to Record Everyday Life and Adventures in Sims 4</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-accelerating-the-playback-of-instagram-videos-tips/"><u>[New] In 2024, Accelerating the Playback of Instagram Videos (Tips)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mp4-capture-and-analysis-toolkit/"><u>[New] MP4 Capture & Analysis Toolkit</u></a></li>
-<li><a href="https://win-able.techidaily.com/google-meet-camera-not-working-heres-how-you-can-get-it-up-and-running-again/"><u>Google Meet Camera Not Working? Here's How You Can Get It Up and Running Again!</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-alternatives-to-microsofts-snipping-feature-in-os-xlinux/"><u>Leading Alternatives to Microsoft's Snipping Feature in OS X/Linux</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-playtime-effective-strategies-to-upgrade-your-xboxs-performance/"><u>Maximizing Playtime: Effective Strategies to Upgrade Your Xbox's Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-value-5-strategies-for-unlocking-the-full-potential-of-owning-a-peacock/"><u>Maximizing Value: 5 Strategies for Unlocking the Full Potential of Owning a Peacock</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mobile-match-made-in-heaven-comparing-iphones-and-androids-for-the-perfect-fit/"><u>Mobile Match Made in Heaven: Comparing iPhones and Androids for the Perfect Fit</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-safely-around-second-hand-nintendo-switch-account-listings-online/"><u>Navigating Safely Around Second-Hand Nintendo Switch Account Listings Online</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-era-of-inflated-gaming-ratings-a-guide-to-discovering-quality-titles/"><u>Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diving-into-the-factors-contributing-to-slower-frame-rates-in-fortnites-latest-update/"><u>Diving Into the Factors Contributing to Slower Frame Rates in Fortnite's Latest Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-rig-with-corsair-icue-free-windows-11-and-10-downloads-available/"><u>Enhance Your Rig with Corsair iCUE: Free Windows 11 and 10 Downloads Available</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-the-driverpowerstatefailure-problem/"><u>Expert Advice: Overcoming the DRIVER_POWER_STATE_FAILURE Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-11-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme 11 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-c22-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia C22</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/j5-tactical-v1-pro-assessment-sturdy-and-portable-low-light-performance/"><u>J5 Tactical V1-Pro Assessment: Sturdy & Portable Low Light Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mars-landings-with-urban-twists-unexpected-gusts-of-fun-await/"><u>Mars Landings with Urban Twists: Unexpected Gusts of Fun Await!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/master-the-switch-step-by-step-instructions-for-duplicating-your-steam-decks-sd-card-content-onto-a-new-memory-unit/"><u>Master the Switch: Step-by-Step Instructions for Duplicating Your Steam Deck's SD Card Content Onto a New Memory Unit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/miniaturized-audio-excellence-with-yamaha-mcr-b020bl/"><u>Miniaturized Audio Excellence with Yamaha MCR-B020BL</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/new-marshall-vision-for-anc-chic-design-and-unforgettable-soundscape/"><u>New Marshall Vision for ANC: Chic Design & Unforgettable Soundscape</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/overcooked-2-critique-savoring-the-chaos/"><u>Overcooked! 2 Critique: Savoring the Chaos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/playstation-5-showdown-exploring-differences-between-standard-and-slim-variants/"><u>PlayStation 5 Showdown: Exploring Differences Between Standard and Slim Variants</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/prioritizing-these-5-points-can-make-or-break-your-fitness-tracker-experience/"><u>Prioritizing These 5 Points Can Make or Break Your Fitness Tracker Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stay-chilled-with-a-bargain-a-detailed-examination-of-the-effective-topmate-c302-laptop-fan-stand/"><u>Stay Chilled with a Bargain: A Detailed Examination of the Effective TopMate C302 Laptop Fan Stand</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316753-9781401929008-the-mother-of-invention/"><u>The Mother of Invention | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-reading-experience-how-to-switch-out-fonts-on-windows-11/"><u>Upgrade Your Reading Experience: How to Switch Out Fonts on Windows 11</u></a></li>
 </ul></div>
 

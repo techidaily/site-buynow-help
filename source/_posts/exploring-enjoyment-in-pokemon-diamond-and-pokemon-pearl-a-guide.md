@@ -1,7 +1,7 @@
 ---
 title: "Exploring Enjoyment in 'Pokémon Diamond & Pokémon Pearl': A Guide"
-date: 2024-10-23T06:39:32.974Z
-updated: 2024-10-24T11:46:47.299Z
+date: 2024-11-11T02:35:15.000Z
+updated: 2024-11-15T02:59:31.464Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring Enjoyment in 'Pokémon Diamond & Pokémon Pearl': A Guide"
@@ -37,15 +37,22 @@ Lifewire / Kelsey Simon
 2.7
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -79,13 +86,6 @@ Lifewire / Kelsey Simon
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Gameplay: Dialogue prompts and effort**
 
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
@@ -106,13 +106,6 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -123,6 +116,13 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Only worth it if you’re keen on the story**
 
  Torment: Tides of Numenera is still an expensive game, costing $50 on[Steam](https://www.lifewire.com/best-free-steam-games-4176308) when it’s not on sale. It’s a game created with a very specific type of player in mind―and I suspect most people are not going to like it.
@@ -130,6 +130,19 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -142,13 +155,6 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,15 +179,20 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/vidvault-screen-recording-review-for-2efficiency-seekers-for-2024/"><u>'VidVault' Screen Recording Review for 2Efficiency Seekers for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-missing-high-end-display-settings-in-win11/"><u>[Fixed] Missing High-End Display Settings in Win11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ear-capsule-epic-airpods-pro-versus-the-dynamic-samsung-buds-pro/"><u>Ear Capsule Epic: Airpods Pro Versus the Dynamic Samsung Buds Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevate-your-pc-vision-with-a-graphics-upgrade/"><u>Elevate Your PC Vision with a Graphics Upgrade</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-assessment-why-the-dji-mavic-2-pro-is-king-among-expert-drones/"><u>Elite Assessment: Why the DJI Mavic 2 Pro Is King Among Expert Drones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-heimvision-a8s-alarm-clock-innovative-morning-rituals-through-advanced-light-technology/"><u>Evaluating the HeimVision A8s Alarm Clock: Innovative Morning Rituals Through Advanced Light Technology</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-honor-90-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor 90 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-90-gt-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor 90 GT to iPod | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/leading-tech-choices-for-virtual-meetings-for-2024/"><u>Leading Tech Choices for Virtual Meetings for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcome-operating-errors-fixing-coredll-issues-for-smoother-system-performance/"><u>Overcome Operating Errors: Fixing Core.dll Issues for Smoother System Performance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-cheat-sheet-for-inserting-songs-into-youtube-clips/"><u>[New] 2024 Approved The Ultimate Cheat Sheet for Inserting Songs Into YouTube Clips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-capturing-moving-images-mirrorless-versus-dslr/"><u>[New] In 2024, Capturing Moving Images Mirrorless Versus DSLR</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-swapping-sequence-a-simple-guide-to-reversed-playlists/"><u>[New] Swapping Sequence A Simple Guide to Reversed Playlists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-choice-of-steadicams-for-drone-shooting/"><u>[New] Ultimate Choice of Steadicams for Drone Shooting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-customizable-mcb-visuals-for-youtube-banners/"><u>[Updated] In 2024, Customizable MCB Visuals for YouTube Banners</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boost-your-electronics-the-definitive-review-of-the-mighty-beatit-bt-d11-portable-charger/"><u>Boost Your Electronics: The Definitive Review of the Mighty Beatit BT-D11 Portable Charger</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-apples-new-offering-how-series-6-retains-its-crown-with-understated-improvements/"><u>Evaluating Apple's New Offering: How Series 6 Retains Its Crown with Understated Improvements</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c51-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C51 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-assessment-of-the-amplifi-hd-wireless-networking-solution-defeat-wi-fi-weak-spots-with-ease/"><u>In-Depth Assessment of the Amplifi HD Wireless Networking Solution: Defeat Wi-Fi Weak Spots with Ease!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/power-on-the-go-zmi-powerpack-groovy-our-thoughts-and-insights-in-a-complete-review/"><u>Power on the Go? ZMI PowerPack Groovy! - Our Thoughts and Insights in a Complete Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-new-samsung-galaxy-watch-active-2-unveiled-improved-linkages-and-features-beyond-the-original-model-reviewed/"><u>The New Samsung Galaxy Watch Active 2 Unveiled: Improved Linkages & Features Beyond the Original Model Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-verdict-on-microsoft-surface-duo-an-expensive-and-troublesome-multitasking-experience/"><u>The Verdict on Microsoft Surface Duo: An Expensive and Troublesome Multitasking Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-next-gen-conversational-agents-as-great-replacements-for-chatgpt/"><u>Top 10 Next-Gen Conversational Agents as Great Replacements for ChatGPT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-spacious-acer-chromebook-15-in-this-comprehensive-overview/"><u>Unveiling the Features of the Spacious Acer Chromebook 15 in This Comprehensive Overview</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Verdict on Microsoft Surface Duo: An Expensive and Troublesome Multitasking Experience"
-date: 2024-08-22T12:55:38.870Z
-updated: 2024-08-23T12:55:38.870Z
+date: 2024-11-12T18:25:05.135Z
+updated: 2024-11-15T00:36:51.394Z
 categories:
   - BestProducts
 description: "This Article Describes The Verdict on Microsoft Surface Duo: An Expensive and Troublesome Multitasking Experience"
@@ -41,18 +41,6 @@ thumbnail: https://thmb.techidaily.com/2bac998ab21448eec5a8cc247cfff1c8109a4e151
 
 [Jump to Review](https://www.lifewire.com/#toc-best-for-gaming-kinesis-gaming-freestyle-edge-rgb)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best Overall
 
 [Logitech Ergo K860](https://www.amazon.com/Logitech-Wireless-Ergonomic-Keyboard-Wrist/dp/B07ZWK2TQT/?tag=lifewire-onsite-prod-20&ascsubtag=4147386%7Cn326e10e09a2e4a42be05879465b0c31513%7CB07ZWK2TQT)
@@ -82,9 +70,6 @@ PHOTO: Amazon
 
 **Type:** Membrane | **Connectivity:** Wireless receiver, Bluetooth | **RGB:** None | **Tenkeys:** Yes | **Palm Rest:** Yes | **Dedicated Media Controls:** No
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Best Bluetooth
 
 [Logitech K350](https://www.walmart.com/ip/13215113)
@@ -113,14 +98,6 @@ PHOTO: Amazon
 
 **Type:** Membrane | **Connectivity:** Wireless receiver | **RGB:** None | **Tenkeys:** Yes | **Palm Rest:** Yes | **Dedicated Media Controls:** Yes
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Best for Macs
 
 [Kinesis Freestyle2 Blue](https://www.amazon.com/dp/B00NMVJYEW/?tag=lifewire-onsite-prod-20&ascsubtag=4147386%7Cn326e10e09a2e4a42be05879465b0c31513%7CB00NMVJYEW)
@@ -151,8 +128,12 @@ PHOTO: Amazon
 [Kinesis Freestyle2 Blue (Mac) Review](https://www.lifewire.com/freestyle2-blue-review-4780187)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Best for Gaming
 
 [KINESIS Gaming Freestyle Edge RGB](https://www.amazon.com/KINESIS-Gaming-Freestyle-Mechanical-Keyboard/dp/B07SXX7P6D/?tag=lifewire-onsite-prod-20&ascsubtag=4147386%7Cn326e10e09a2e4a42be05879465b0c31513%7CB07SXX7P6D)
@@ -185,18 +166,33 @@ PHOTO: Amazon
 ## What to Look For in an Ergonomic Keyboard
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Usage**
 
  Where will you be using this keyboard? Is it mainly for personal use, or will you take it to the office? Do you need an ergonomic keyboard explicitly made with gamers in mind? While you can use a keyboard for multiple purposes, you may enjoy customizing which one you buy based on how you will use it the most.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Mac vs. PC**
 
  Do you have a Mac or a PC? While it seems like keyboards should be usable with both, that’s not always the case. You need to make sure whatever keyboard you buy is compatible with your system (this is usually a bigger problem for Macs rather than PCs). Additionally, the two operating systems have slightly different keys. While you can often use mapping software to alleviate these issues, you may want to purchase a keyboard specifically designed for your type of machine.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Keyboard size**
 
@@ -233,8 +229,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +236,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-in-the-moment-to-lasting-images-how-to-save-from-snapchat/"><u>[New] From In-the-Moment to Lasting Images How to Save From Snapchat</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-tactics-for-preserving-your-snapchat-streak-for-2024/"><u>[New] Tactics for Preserving Your Snapchat Streak for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-redesign-instant-twitter-video-view/"><u>[Updated] In 2024, Redesign Instant Twitter Video View</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-m1-macbook-air-video-editors-dream-machine/"><u>[Updated] M1 MacBook Air Video Editor's Dream Machine?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turnback-artisan-hub/"><u>2024 Approved Turnback Artisan Hub</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-affordability-and-quality-the-49-lg-um7300-ultra-hd-tv-unveiled/"><u>Evaluating Affordability and Quality: The 49'' LG UM7300 Ultra HD TV Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-amazon-prime-day-gadget-bargains-save-on-latest-technology/"><u>Exclusive Amazon Prime Day Gadget Bargains: Save on Latest Technology !</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lava-blaze-pro-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lava Blaze Pro 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-netgear-ex6200-ac1200-wifi-booster-reviews-and-performance/"><u>In-Depth Analysis: Netgear EX6200 AC1200 WiFi Booster - Reviews & Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-titles-to-unlock-on-google-play-pass-a-ranking-of-the-8-greatest-games/"><u>Leading Titles to Unlock on Google Play Pass: A Ranking of the 8 Greatest Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-tips-to-fix-lag-problems-in-avatar-frontiers-of-pandora/"><u>Mastering Smooth Gameplay: Tips to Fix Lag Problems in Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precision-review-of-elite-parrots-ar-model-20/"><u>Precision Review of Elite Parrot's AR Model 2.0</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-servers-and-rack-units-for-businesses-2024-edition/"><u>The Premier Selection of Servers & Rack Units for Businesses, 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-power-companion-in-depth-look-at-the-chargetech-27000mah-battery/"><u>The Ultimate Power Companion: In-Depth Look at the ChargeTech 27000mAh Battery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tomorrows-scrutiny-innovative-perspectives-for-2024/"><u>Tomorrow’s Scrutiny Innovative Perspectives for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-considerations-for-buying-a-smartphone-outside-of-carrier-contracts/"><u>Top Considerations for Buying a Smartphone Outside of Carrier Contracts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranked-philips-somneo-clock-review-a-master-of-timekeeping/"><u>Top-Ranked Philips Somneo Clock Review: A Master of Timekeeping</u></a></li>
+</ul></div>
 

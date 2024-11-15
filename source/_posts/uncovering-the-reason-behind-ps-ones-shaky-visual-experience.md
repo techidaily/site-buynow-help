@@ -1,7 +1,7 @@
 ---
 title: Uncovering the Reason Behind PS One's Shaky Visual Experience
-date: 2024-11-03T22:56:01.876Z
-updated: 2024-11-04T17:40:24.925Z
+date: 2024-11-09T23:58:51.190Z
+updated: 2024-11-15T03:30:02.657Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they're still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn't find in the competition, so what gives?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It’s All About Floating Points
 
  Modern GPU performance is often measured ([controversially](https://hardware-help.techidaily.com/brother-hl-2280dw-driver-package-universal-download-for-windows-11-windows-10-windows-8-and-7-users/)) in FLOPs or FLoating Point Operations. This is simply math involving floating point numbers, which in turn are simply whole numbers with a decimal point. The PlayStation's graphics processor had zero FLOPs, because it lacked an FPU or Floating Point Unit. Instead, it uses fixed-point integers to calculate the positions of vertices.
@@ -28,13 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A "vertice" is a point where two or more lines meet. So in a polygon, which is typically (but not always) a triangle in 3D graphics, there are three vertices. A 3D model consists of multiple polygons, and as that object moves on screen, the positions of the vertices must be calculated in 3D space.
 
  Since you can only use integers, any position for a vertice that's not an integer will simply be skipped over. So you'll see polygons "snap" between positions with certain types of motion. For example, a character that's standing still and has a subtle idle animation will look like they're jittering a little.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Z-Buffer Not Found
 
@@ -49,16 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what's known as affine texture warping.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Fast, Cheap, or Complex: Pick Two
@@ -70,10 +64,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The bottom line is that the console could have had that extra hardware, but it would have driven the cost up significantly, without any clear benefit to Sony or its players at the time. The company went with "fast and cheap," leaving complexity at the door. History has shown this was the right decision.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Emulators Can Correct This (But Should You?)
@@ -81,10 +75,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An iPad running G-Police next a  physical original copy of the game and a PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -110,19 +104,15 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-channel-descriptions/"><u>[Updated] Mastering YouTube Channel Descriptions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-petsafe-automatic-pet-feeder-ideal-for-weight-management/"><u>Comprehensive Review of the PetSafe Automatic Pet Feeder – Ideal for Weight Management</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-aspect-ratios-for-effective-youtube-videos-for-2024/"><u>Decoding Aspect Ratios for Effective YouTube Videos for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-14-pro-max-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 14 Pro Max iCloud Lock</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-z-fold-5-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy Z Fold 5 Is Unlocked</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-your-gameplay-a-comprehensive-review-of-the-asus-rog-rapture-gt-ax11000-gaming-router-with-lightning-fast-speeds/"><u>Maximizing Your Gameplay: A Comprehensive Review of the ASUS ROG Rapture GT-AX11000 Gaming Router with Lightning Fast Speeds</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-the-samsung-ru7300-a-worthy-addition-to-the-world-of-55-4k-oled-tvs/"><u>Review of the Samsung RU7300 – A Worthy Addition to the World of 55 4K OLED TVs?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch3-review-a-classic-look-with-modern-upgrades/"><u>Samsung Galaxy Watch3 Review: A Classic Look with Modern Upgrades</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-asus-bw-16d1x-u-blu-ray-writer-an-analysis-of-its-chic-appearance-and-unique-quirks/"><u>The Asus BW-16D1X-U Blu-Ray Writer - An Analysis of Its Chic Appearance and Unique Quirks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2213961-9780008138165-the-rooster-in-2016-your-chinese-horoscope/"><u>The Rooster in 2016: Your Chinese Horoscope | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-z-fold-5-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy Z Fold 5 Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tp-links-cost-efficient-champion-unpacking-the-archer-c9-review/"><u>TP-Link's Cost-Efficient Champion: Unpacking The Archer C9 Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-transition-the-rise-of-electric-cars/"><u>Understanding the Transition: The Rise of Electric Cars</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-consolidating-zoom-schedules-on-android-ios-and-desktop-platforms/"><u>[New] In 2024, Consolidating Zoom Schedules on Android, iOS & Desktop Platforms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-photographers-blueprint-for-stunning-hdr-portraits-for-2024/"><u>[New] The Photographer's Blueprint for Stunning HDR Portraits for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-file-flow-fixtures-easy-moves-for-your-machine/"><u>[Updated] In 2024, File Flow Fixtures Easy Moves for Your Machine</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-under-100-budget-friendly-action-cams-top-choices-guide/"><u>[Updated] Under-$100 Budget-Friendly Action Cams – Top Choices Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-depths-of-strategy-with-the-wasteland-2-directors-cut-an-in-depth-review/"><u>Exploring The Depths of Strategy with The Wasteland 2 Director's Cut: An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-excellence-of-kooteks-laptop-thermal-protection-comprehensive-review-and-recommendation/"><u>Exploring the Excellence of Kootek's Laptop Thermal Protection: Comprehensive Review and Recommendation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/first-look-at-the-syma-x5c-remote-controlled-drone-great-value-for-beginners/"><u>First Look at the SYMA X5C Remote Controlled Drone - Great Value for Beginners!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/forefront-picks-premier-storm-monitoring-tools-available/"><u>Forefront Picks: Premier Storm Monitoring Tools Available</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-definitive-ranking-of-11-top-audio-capture-gadgets-for-2024/"><u>The Definitive Ranking of 11 Top Audio Capture Gadgets for 2024</u></a></li>
 </ul></div>
 

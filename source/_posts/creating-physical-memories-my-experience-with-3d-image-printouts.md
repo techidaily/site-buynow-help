@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2024-10-31T20:20:37.555Z
-updated: 2024-11-04T23:25:46.390Z
+date: 2024-11-13T16:55:16.290Z
+updated: 2024-11-15T02:02:42.912Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
  Photos are 2D, and so surely you'd only want to print them using a normal everyday 2D printer? However, it turns out you can create a "lithophane" from a photo and turn your snaps into actual plastic models.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is a Lithophane Exactly?
 
  True lithophanes are porcelain pieces that have designs pressed into them when the porcelain is soft. Then, when held up to a light, the image becomes visible. The different thicknesses of the porcelain let through different amounts of light, and you effectively have a grayscale image.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
@@ -57,15 +50,28 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
 
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
@@ -83,10 +89,10 @@ Close
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -108,20 +114,18 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-affordable-video-editors-in-the-market-2023-edition/"><u>[New] 2024 Approved Best Affordable Video Editors in the Market - 2023 Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-definitive-guide-to-efficient-screen-recording-on-an-hp-notebook/"><u>[New] In 2024, The Definitive Guide to Efficient Screen Recording on an HP Notebook</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-perfecting-professional-productions-using-vimeos-tools/"><u>[New] Perfecting Professional Productions Using Vimeo's Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-class-top-online-aids-for-improving-media-captions-quality/"><u>[Updated] Master Class Top Online Aids for Improving Media Captions' Quality</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/se-titans-the-10-most-subscribed-youtube-creators/"><u>Fanbase Titans The 10 Most Subscribed YouTube Creators</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-does-the-amazonbasics-12-sheet-security-micro-cut-shredder-stack-up-detailed-examination-and-user-satisfaction-review/"><u>How Does the AmazonBasics 12-Sheet Security Micro-Cut Shredder Stack Up? - Detailed Examination and User Satisfaction Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/immerse-yourself-in-the-elder-scrolls-v-skyrim-nintendo-switch-edition-reviewed/"><u>Immerse Yourself in The Elder Scrolls V: Skyrim - Nintendo Switch Edition Reviewed!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-lg-k92-5g-device-is-superior-connectivity-enough-to-warrant-its-cost/"><u>In-Depth Review of LG K92 5G Device: Is Superior Connectivity Enough to Warrant Its Cost?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-restfulness-gadgets-your-guide-to-the-best-sleep-tech-on-the-market/"><u>Innovative Restfulness Gadgets: Your Guide to the Best Sleep Tech on the Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insights-on-the-motorola-one-5g-ace-unmatched-speeds-and-enduring-power/"><u>Insights on the Motorola One ˈ5G Ace - Unmatched Speeds and Enduring Power</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lenovo-chromebook-duet-the-budget-friendly-2-in-1-device-that-offers-more/"><u>Lenovo Chromebook Duet: The Budget-Friendly 2-in-1 Device That Offers More</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/no-pay-all-praise-tailor-made-outro-videos-here/"><u>No Pay, All Praise Tailor-Made Outro Videos Here</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11s-update-failure-code-0x80246007/"><u>Overcoming Windows 11'S Update Failure: Code 0X80246007</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-top-rated-free-video-editing-apps-with-effects-for-mobile/"><u>Updated Top-Rated Free Video Editing Apps with Effects for Mobile</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-transitioning-from-smartphone-to-watching-fb-videos-on-appletv-for-2024/"><u>[New] Transitioning From Smartphone to Watching FB Videos on AppleTV for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-4-ways-to-watch-facebook-live-on-tv/"><u>[Updated] 2024 Approved 4 Ways To Watch Facebook Live On TV</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-making-sporting-scenes-spectacomed/"><u>[Updated] 2024 Approved Making Sporting Scenes Spectacomed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-news-endings-as-a-narrative-tool/"><u>[Updated] 2024 Approved News Endings as a Narrative Tool</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-illustrate-effortlessly-prime-ios-design-software/"><u>[Updated] In 2024, Illustrate Effortlessly Prime iOS Design Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-websnd/"><u>「Movaviで簡単! 無料Web上のSNDファイルを自由に変換」</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-compact-to-capacious-the-ps3-storage-guide/"><u>From Compact to Capacious: The PS3 Storage Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-the-best-bang-for-your-buck-with-lgs-budget-friendly-24lh4830-smart-tv/"><u>Get the Best Bang for Your Buck with LG's Budget-Friendly 24LH4830 Smart TV</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-meizu-21-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Meizu 21 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-srt-a-complete-reference-guide-for-conversion/"><u>In 2024, Transforming SRT A Complete Reference Guide for Conversion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-garmin-forerunner-945-a-premier-gps-smartwatch-guide/"><u>In Depth Evaluation of the Garmin Forerunner 945: A Premier GPS Smartwatch Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insta360s-underwater-exploration-made-easy-the-one-x2-reviewed/"><u>Insta360's Underwater Exploration Made Easy - The One X2 Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-rise-of-amd-transforming-pc-gaming-experience-across-platforms/"><u>The Rise of AMD: Transforming PC Gaming Experience Across Platforms</u></a></li>
 </ul></div>
 

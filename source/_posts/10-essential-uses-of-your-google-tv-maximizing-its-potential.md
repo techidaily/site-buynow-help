@@ -1,7 +1,7 @@
 ---
 title: "10 Essential Uses of Your Google TV: Maximizing Its Potential"
-date: 2024-10-28T01:34:57.422Z
-updated: 2024-10-30T03:44:32.233Z
+date: 2024-11-08T00:06:13.095Z
+updated: 2024-11-14T23:54:26.571Z
 tags:
   - games
   - tv
@@ -28,30 +28,44 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
 
  Google TV packs a punch, but are you using it to its full potential? From hidden gems to time-saving tricks, there are probably some features you didn't know about. We've got ten tips and tricks to help improve your Google TV experience and get the most out of your precious couch time.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Add a Quick Settings Shortcut for the Remote
 
 ![Google TV remote quick settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240806-165910.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One of the best things about an internet-connected streaming device is the ability to [use your phone as a remote](https://extra-tips.techidaily.com/in-2024-comprehensive-guide-to-audiovisual-transmitters/). If you have a Google TV device and an Android phone, you can make it super quick and easy to pull up the virtual remote. Once you install the official Google TV app (and open it and sign in), you'll have [a new Quick Settings toggle available](https://video-content-creator.techidaily.com/updated-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/) called "Remote." Tapping it instantly opens up the remote on top of whatever you're doing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Install Apps on the TV From Your Phone
 
 ![Play Store remote app install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240806-165959.png) 
 
  Thanks to Google hiding the Play Store on Google TV devices, it's not as easy as it could be to [install apps directly on your TV](https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-m6-5g-drfone-by-drfone-virtual-android/). The good news is you can do it from your phone or a web browser. The Play Store's web version allows you to [install apps on any device connected to your account remotely](https://win-howtos.techidaily.com/resolving-device-detection-issues-with-bluetooth-on-microsofts-latest-os-windows-n11/), and the Play Store on Android phones can [install apps to multiple devices at once](https://instagram-video-files.techidaily.com/updated-in-2024-keeping-content-copyright-compliant-with-instra-watermarking/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remap the Buttons on Your Remote
 
@@ -60,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
 Justin Duino / How-To Geek
 
  Your Google TV device almost certainly came with a remote that features shortcuts to streaming services. If you don't use those services, the buttons are completely useless. So, why not remap them to something else? Thanks to a handy app called "Button Mapper," [you can do exactly that](https://digital-screen-recording.techidaily.com/updated-innovative-strategies-for-displaying-your-screen-in-google-meet-for-2024/). Reprogram any button to launch apps or perform various actions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Add Content to Your Watchlist From Your Phone
 
@@ -79,39 +86,33 @@ Justin Duino / How-To Geek
 ![kids profile home screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/PXL_20210401_142818270.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Google TV devices offer [multiple profiles](https://facebook.techidaily.com/customizing-profile-information-emailphone-switch/), including a [dedicated Kids profile with parental controls](https://facebook-videos.techidaily.com/new-in-2024-top-facebook-video-mp4-downloaders/). This profile (which will add your child to your [Google Family](https://extra-tips.techidaily.com/exclusive-android-3d-video-enthusiasts-choice/)) doesn't require a separate Gmail account. By setting up a Kid's profile, you can easily manage bedtimes and screen time limits, monitor app usage, and restrict content, ensuring a safe viewing experience for your children on your Google TV device.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Put the Home Screen in Apps Only Mode
 
 ![Google TV apps only home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240725-081803.png) 
 
- Google TV's home screen can be overwhelming with recommendations. Fortunately, ["Apps Only Mode" simplifies the interface by focusing solely on installed apps](https://hardware-help.techidaily.com/inside-look-at-the-asus-rog-swift-pg3nce-oled-monitor-a-game-changer-reviewed/). This hidden feature eliminates distracting content like "Top Picks For You" and "Continue Watching," replacing them with a clean grid of app icons. The only part of the home screen recommendations that can't be removed is the big "Highlights" carousel at the top, but everything else is wiped clean.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Google TV's home screen can be overwhelming with recommendations. Fortunately, ["Apps Only Mode" simplifies the interface by focusing solely on installed apps](https://hardware-help.techidaily.com/inside-look-at-the-asus-rog-swift-pg3nce-oled-monitor-a-game-changer-reviewed/). This hidden feature eliminates distracting content like "Top Picks For You" and "Continue Watching," replacing them with a clean grid of app icons. The only part of the home screen recommendations that can't be removed is the big "Highlights" carousel at the top, but everything else is wiped clean.
 
 ##  Get Recommendations for the Services You Use
 
@@ -122,13 +123,6 @@ Justin Duino / How-To Geek
 ##  Turn off Autoplaying Trailers
 
  One of the annoying things about recommendations is when videos start auto-playing on the home screen and in apps. Thankfully, there's an easy way to prevent this from happening. Simply go to Settings > Accounts and Sign-in > Your account > Auto-play Trailers. Toggle the switch off.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Reorder the Apps
 
@@ -153,24 +147,22 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-converting-yt-to-igtv-3-effective-methods/"><u>[Updated] In 2024, Converting YT to IGTV 3 Effective Methods</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-outro-mastery-top-6-free-video-closers/"><u>[Updated] In 2024, Outro Mastery Top 6 Free Video Closers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boost-your-smartphone-reception-elite-signal-amplifiers-ranked/"><u>Boost Your Smartphone Reception: Elite Signal Amplifiers Ranked</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-google-wi-fi-the-perfect-choice-for-seamless-wireless-connectivity/"><u>Comprehensive Review of Google Wi-Fi: The Perfect Choice for Seamless Wireless Connectivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-edge-lightweight-laptop-analysis-how-the-lg-gram-17-balances-power-with-portability/"><u>Cutting-Edge Lightweight Laptop Analysis: How the LG Gram 17 Balances Power with Portability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722945843888-embrace-active-living-with-the-fitbit-versa-3-its-internal-gps-and-diverse-health-app-selection-provide-continuous-encouragement/"><u>Embrace Active Living with the Fitbit Versa 3 - Its Internal GPS & Diverse Health App Selection Provide Continuous Encouragement!</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-ready-to-play-chatgpt-introduces-its-6-intense-games/"><u>Get Ready To Play: ChatGPT Introduces Its 6 Intense Games</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/getting-to-know-the-wallet-friendly-moto-g-with-built-in-stylus/"><u>Getting to Know the Wallet-Friendly Moto G with Built-In Stylus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-s18-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo S18 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/new-era-of-roku-audio-and-streaming-elevated-synergy/"><u>New Era of Roku: Audio & Streaming Elevated Synergy</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photo-mastery-top-8-web-based-creation-suite-for-2024/"><u>Photo Mastery Top 8 Web-Based Creation Suite for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/razer-portal-review/"><u>Razer Portal Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/showdown-the-ultimate-face-off-between-apples-iphone-15-pro-and-pro-max-models/"><u>Showdown: The Ultimate Face-Off Between Apple's iPhone 15 Pro and Pro Max Models</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/stepwise-quietening-routine-for-mixes-for-2024/"><u>Stepwise Quietening Routine for Mixes for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essentials-what-to-look-for-when-purchasing-your-first-smartwatch/"><u>Top 5 Essentials: What to Look For When Purchasing Your First Smartwatch</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210861590-9798822917514-understanding-the-essence-of-your-soul/"><u>Understanding the Essence of Your Soul | Free Book</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-strengths-a-review-on-kensuns-resilient-and-easy-to-carry-portable-air-pump/"><u>Unveiling the Strengths: A Review on Kensun's Resilient and Easy-to-Carry Portable Air Pump</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/xbox-one-x-the-unrivaled-champion-in-todays-competitive-console-arena/"><u>Xbox One X: The Unrivaled Champion in Today's Competitive Console Arena</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stepping-into-the-unseen-mastering-windows-11-through-less-known-tips/"><u>[Updated] Stepping Into the Unseen Mastering Windows 11 Through Less-Known Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ace-your-skills-with-the-top-picks-from-linkedin-learnings-2024-catalog/"><u>Ace Your Skills with the Top Picks From LinkedIn Learning's 2024 Catalog</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assassins-creed-iii-critique-exceptional-final-chapter/"><u>Assassin's Creed III Critique - Exceptional Final Chapter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/blissful-tunes-protected-skin-a-look-at-bose-soundsport-frames/"><u>Blissful Tunes, Protected Skin - A Look at Bose SoundSport Frames</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/breaking-down-the-release-date-and-specs-of-amazfit-helio-ring-with-price-points/"><u>Breaking Down the Release Date and Specs of Amazfit Helio Ring with Price Points</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compare-and-contrast-the-battle-between-nintendos-switch-lite-vs-oled-edition/"><u>Compare & Contrast: The Battle Between Nintendo's Switch Lite Vs. OLED Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-dreame-bot-l10-pro-the-advanced-mopping-and-vacuuming-robot/"><u>Comprehensive Review of Dreame Bot L10 Pro: The Advanced Mopping & Vacuuming Robot</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-tp-link-reviews-enhancing-your-network-with-the-re5nfyx/"><u>Comprehensive TP-Link Reviews: Enhancing Your Network with the RE5nfyX</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creative-labs-sound-blaster-zxr-is-this-the-pinnacle-of-flagship-gaming-audio-in-2er/"><u>Creative Labs' Sound Blaster ZXR - Is This the Pinnacle of Flagship Gaming Audio in 2Er?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-bsod-a-comprehensive-guide-to-the-notorious-blue-screen-errors-on-pc/"><u>Decoding BSOD - A Comprehensive Guide to the Notorious Blue Screen Errors on PC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-free-mcb-logo-templates/"><u>Download Free MCB Logo Templates</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-12-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 12?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-6-bargains-for-your-homes-ultimate-viewing-for-2024/"><u>Prime 6 Bargains for Your Home's Ultimate Viewing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/streamlining-post-production-mastering-the-green-screen-process-kinemaster/"><u>Streamlining Post-Production Mastering the Green Screen Process (KineMaster)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-computer-components/"><u>Tom's Tech Insights - Your Guide to Computer Components</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-local-gpo-control-on-windows-11/"><u>Unlock the Power of Local GPO Control on Windows 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-what-is-daw-digital-audio-workstation-myth-solved-for-2024/"><u>Updated What Is DAW (Digital Audio Workstation) -Myth Solved for 2024</u></a></li>
 </ul></div>
 

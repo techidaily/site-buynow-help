@@ -1,7 +1,7 @@
 ---
 title: Exploring the Absence of Built-In Screenshots in Modern Gaming Mice
-date: 2024-10-27T19:04:39.174Z
-updated: 2024-10-30T04:27:28.208Z
+date: 2024-11-07T19:10:56.039Z
+updated: 2024-11-15T06:34:48.345Z
 tags:
   - games
   - tv
@@ -18,13 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Remap Your Mouse Button to Capture Screenshots With It](https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-11x-5g-drfone-by-drfone-virtual-android/)
 * [Sacrificing a Button to Take Screenshots Is Far From Ideal](https://win11-tips.techidaily.com/switchtonightvisioninnotepadwin/)
 * [We Need Mice with Dedicated Screenshot Buttons](https://sound-tweaking.techidaily.com/in-2024-top-5-digital-audio-file-organizers-for-seamless-mp3-management/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,16 +41,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Logitech G Hub disabling on-board memory mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-02.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, click the “Assignments,” then the “Macros” menu, and finally the “Create New Macro” button.
 
 ![Logitech G Hub button customization menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-03.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll need to name the new macro. In my case, I named it “Screenshot.” Press Enter to move to the next step.
 
@@ -68,26 +61,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Selecting the type of macro in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, click the “Start Now” button.
 
 ![Logitech G Hub macro recording menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-06.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Since we're going to record the Win+PrtSc combo that captures screenshots and automatically saves them in the Screenshots folder, select the “Record Keystrokes” option on the following screen.
 
 ![Logitech G Hub showing types of macros you can record.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-07.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, press Win+PrtSc, click the “Stop Recording” button, and click Save.
 
@@ -110,10 +103,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Hellblade II screenshot captured with a mouse button macro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-1319.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Goran Damnjanovic / How-To Geek
@@ -125,6 +118,13 @@ Goran Damnjanovic / How-To Geek
  However, sacrificing a mouse button to be able to quickly take screenshots is far from ideal, especially since a large majority of modern gaming mice have only a couple of extra buttons. The only reason I have done it now is because [I switched to a dual mouse setup](https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-s23-to-other-android-devices-drfone-by-drfone-android/) so I don’t need the “Forward” button on my gaming mouse anymore since I only use it when gaming.
 
  That said, there’s a chance you own a mouse with lots of extra buttons, such as an MMO mouse like the [Razer Naga](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2004276&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fpc%2Fgaming-mice%2Fnaga-line), or a rodent with a bunch of extra buttons, such as the [Logitech G502](https://some-skills.techidaily.com/master-iphone-cams-with-these-hacks-for-2024/), [Logitech G903](https://www.logitechg.com/en-us/products/gaming-mice/g903-hero-wireless-gaming-mouse.910-005670.html), or the [Razer Basilisk V3 Pro](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2004276&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fgaming-mice%2Frazer-basilisk-v3-pro). In that case, reserving one of the buttons for taking screenshots shouldn’t be a big deal.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  We Need Mice with Dedicated Screenshot Buttons
 
@@ -153,17 +153,24 @@ Goran Damnjanovic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-the-best-video-aspect-ratio-experience/"><u>[New] Crafting the Best Video Aspect Ratio Experience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-ios-guide-to-superior-psp-emulators/"><u>[New] In 2024, The Ultimate iOS Guide to Superior PSP Emulators</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-optimal-video-kick-offs-selecting-the-top-16-for-more-viewers/"><u>[Updated] In 2024, Optimal Video Kick-Offs Selecting the Top 16 for More Viewers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-range-locomotion-appraisal/"><u>2024 Approved Full Range Locomotion Appraisal</u></a></li>
-<li><a href="https://win-blog.techidaily.com/age-of-empires-iv-overcoming-download-obstacles-on-the-microsoft-store-platform/"><u>Age of Empires IV: Overcoming Download Obstacles on the Microsoft Store Platform</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/avantree-aria-me-review-unique-headphones-from-a-lesser-known-brand/"><u>Avantree Aria Me Review: Unique Headphones From a Lesser-Known Brand</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elevate-audio-visual-sync-with-caption-addition-in-wmp/"><u>Elevate Audio-Visual Sync with Caption Addition in WMP</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/future-proof-asus-router-solutions-dominating-2024/"><u>Future-Proof Asus Router Solutions Dominating 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-motorola-moto-g13-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Motorola Moto G13 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-smart-ring-doorbells-your-ultimate-guide/"><u>In-Depth Analysis of the Smart Ring Doorbells – Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nintendo-showdown-a-comparison-of-the-switch-lite-and-switch-oled-models/"><u>Nintendo Showdown: A Comparison of the Switch Lite and Switch OLED Models</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-thrifty-audio-odyssey-unveiling-the-oneplus-buds/"><u>The Thrifty Audio Odyssey – Unveiling the OnePlus Buds</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-essential-guide-to-youtubes-premier-unboxers/"><u>[New] In 2024, Essential Guide to YouTube's Premier Unboxers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-explore-artistic-possibilities-premier-android-graphics-app-selection/"><u>[New] In 2024, Explore Artistic Possibilities Premier Android Graphics App Selection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-scriptwriting-essentials-for-authentic-and-engaging-documentaries/"><u>[Updated] Scriptwriting Essentials for Authentic and Engaging Documentaries</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/der8auers-admission-the-issue-with-lackluster-performance-of-thermal-grizzly-heatsinks-and-direct-die-cooling-units/"><u>Der8auer's Admission: The Issue With Lackluster Performance of Thermal Grizzly Heatsinks and Direct-Die Cooling Units</u></a></li>
+<li><a href="https://fox-http.techidaily.com/detailed-assessment-of-simple-high-dynamic-range-for-2024/"><u>Detailed Assessment of Simple High-Dynamic Range for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-sony-xperia-5-a-slim-marvel-with-a-hefty-cost/"><u>Evaluating the Sony Xperia 5: A Slim Marvel with a Hefty Cost</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-omnicharge-omni/"><u>Expert Insights on the Omnicharge Omni</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-take-on-google-nest-wi-fi-the-pinnacle-of-speed-with-a-flawless-seamless-mesh-experience/"><u>Experts' Take on Google Nest Wi-Fi - The Pinnacle of Speed with a Flawless, Seamless Mesh Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-finest-online-education-portals-to-advance-your-knowledge-base/"><u>Explore the Finest Online Education Portals to Advance Your Knowledge Base</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-best-features-of-mobvois-ticwatch-pro-smartwatch/"><u>Exploring the Best Features of Mobvoi's Ticwatch Pro Smartwatch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/getting-started-with-blinks-outdoor-security-cameras-a-hands-on-approach/"><u>Getting Started with Blink's Outdoor Security Cameras: A Hands-On Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-forcibly-update-login-credentials-for-windows-accounts-admin-only/"><u>How To Forcibly Update Login Credentials for Windows Accounts (Admin Only)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-optimize-single-browsing-seamless-multiclip-engagement/"><u>In 2024, Optimize Single Browsing Seamless Multiclip Engagement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-microsoft-surface-laptop-4s-exceptional-quality/"><u>In-Depth Evaluation of Microsoft Surface Laptop 4'S Exceptional Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-maxoaks-top-tier-power-solution-a-versatile-185whr-and-50k-mah-energy-pack/"><u>In-Depth Review of MaxOak's Top-Tier Power Solution: A Versatile 185W/Hr and 50K mAh Energy Pack</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-gaming-potential-with-the-asus-rt-ac88u-wireless-router-uncovered/"><u>Maximizing Your Gaming Potential with the ASUS RT-AC88U Wireless Router Uncovered</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/organizational-culture-is-a-set-of-shared-values-beliefs-norms-and-practices-that-influence-employee-behavior-and-the-organizations-performance/"><u>Organizational Culture Is a Set of Shared Values, Beliefs, Norms, and Practices that Influence Employee Behavior and the Organization's Performance.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/secure-windows-11-against-spying-comprehensive-guide-to-privacy-remedies-and-malwarefox-insights/"><u>Secure Windows 11 Against Spying: Comprehensive Guide to Privacy Remedies and MalwareFox Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-tips-for-overcoming-itunes-error-9-on-ios-devices-post-update/"><u>Troubleshooting Tips for Overcoming iTunes Error 9 on iOS Devices Post-Update</u></a></li>
 </ul></div>
 

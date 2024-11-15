@@ -1,7 +1,7 @@
 ---
 title: "Review of ZTE Blade A3Y: Quality Performance Meets Budget Pricing"
-date: 2024-10-17T01:21:32.195Z
-updated: 2024-10-23T21:34:23.773Z
+date: 2024-11-07T17:21:05.346Z
+updated: 2024-11-15T01:10:53.863Z
 categories:
   - BestProducts
 description: "This Article Describes Review of ZTE Blade A3Y: Quality Performance Meets Budget Pricing"
@@ -41,13 +41,6 @@ Lifewire / Danny Chadwick
 
 ![Apeman C450 Dashcam](https://www.lifewire.com/thmb/qtPoWkWW4veIi00rgbPVt6Q4pu8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4062264_HeroSquare2-c752b8527e31471e9018279dea42a8ca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Danny Chadwick
 
 [View On Apemans.com](https://apemans.com/products/apeman-dash-cam-c450a)
@@ -73,13 +66,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: All the basics**
 
  The Apeman C450 has a three-inch screen that’s bright, detailed, and provides an at-a-glance view of the camera’s status. If it were much bigger, it would be both a distraction and dangerous visual obstruction.
@@ -95,6 +81,13 @@ Lifewire / Danny Chadwick
  This car camera stores video on a[MicroSD card](https://www.lifewire.com/move-apps-to-sd-card-on-android-4178982) . There isn’t one included, so you’ll have to buy one. And while Apeman claims that the maximum size is 32GB, we tried out a 64GB card and it worked just fine—we filled it up to capacity and didn’t notice any problems with the device or the footage.
 
 ![Apeman C540 Dashcam](https://www.lifewire.com/thmb/A63ztrIxThbZlrb_lHJH3YL7778=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4062264_02-6ef4e204d0bd452b9601ec468e5358bf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
 
@@ -120,13 +113,20 @@ Lifewire / Danny Chadwick
 
 ![Apeman C540 Dashcam](https://www.lifewire.com/thmb/Hp7FvJ_BMgl0S2-Dsd-hd2qiQ7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW4062264_04-82d0af63043344a6b7b44863790050d7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Travels as well as the rest of them**
@@ -149,16 +149,16 @@ Lifewire / Danny Chadwick
 
  One thing to note about this car dashboard camera is that the battery life is quite short. When we tested the Apeman C450, it powered down 28 minutes after we unplugged it. If you want continuous recording, it must be connected to power at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Affordable even on a budget**
 
  The defects of this dashcam can be forgiven pretty easily considering that it costs less than $50\. If you’re looking for a very inexpensive device, the Apeman C450 is a decent if somewhat flawed solution—it’s definitely not built as solidly and lacks the high resolution of its more expensive competitors, but if you are comfortable working around those shortcomings, this dashcam performs pretty well for the price.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Apeman C450 vs. Z-Edge Z3 Plus**
 
@@ -181,16 +181,10 @@ Lifewire / Danny Chadwick
 * [Anker Roav DashCam C1](https://www.lifewire.com/anker-roav-dashcam-c1-review-4773139)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -224,20 +218,19 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-web-based-gag-generator/"><u>[New] In 2024, Web-Based Gag Generator</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-authenticating-a-step-by-step-for-youtube-users/"><u>[Updated] Authenticating A Step-by-Step for Youtube Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cultivate-creativity-10plus-channel-driven-video-suggestions-for-2024/"><u>[Updated] Cultivate Creativity 10+ Channel-Driven Video Suggestions for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-inventory-management-for-2024/"><u>[Updated] Inventory Management for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-3d-text-design-in-ps/"><u>[Updated] The Ultimate Guide to 3D Text Design in PS</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1-seamlessly-move-your-samsung-phone-numbers-to-an-iphone-a-step-by-step-guide/"><u>1. Seamlessly Move Your Samsung Phone Numbers to an iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-tech-marvels-unveiled-the-complete-oneplus-nord-n100-review/"><u>Affordable Tech Marvels Unveiled - The Complete OnePlus Nord N100 Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-rebel-t6-examined/"><u>Budget-Friendly Rebel T6 Examined</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-kobo-forma-the-ultimate-e-reading-experience-for-literature-lovers/"><u>Comprehensive Analysis of the Kobo Forma: The Ultimate E-Reading Experience for Literature Lovers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-apple-iphone-xs-max-analysis-premium-quality-at-a-high-price/"><u>Comprehensive Apple iPhone XS Max Analysis: Premium Quality at a High Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-google-maps-on-ios-devices/"><u>Comprehensive Evaluation of Google Maps on iOS Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-tab-p11-pro-assessment-stunning-features-with-minor-flaws/"><u>Comprehensive Lenovo Tab P11 Pro Assessment - Stunning Features with Minor Flaws</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206213816-guide-to-fixing-windows-unable-to-access-sen-issue-resolved/"><u>Guide to Fixing 'Windows Unable to Access SEN' - Issue Resolved!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-kid-friendly-cinema-a-list-of-top-6-sites-offering-free-childrens-flicks/"><u>Navigating Kid-Friendly Cinema: A List of Top 6 Sites Offering Free Children's Flicks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-a-kink-free-3d-printing-experience-with-no-tangles/"><u>The Ultimate Guide to a Kink-Free 3D Printing Experience with No Tangles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-method-to-archive-webcam-discussions-for-2024/"><u>[New] Method to Archive Webcam Discussions for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-hd-action-recorders-under-100/"><u>[Updated] Best HD Action Recorders Under $100</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-set-up-an-impromptu-zoom-meeting-with-your-android-smartphone/"><u>[Updated] How to Set Up an Impromptu Zoom Meeting with Your Android Smartphone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-hottest-25-minds-in-the-digital-age-for-2024/"><u>[Updated] Instagram's Hottest 25 Minds in the Digital Age for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bring-the-beat-home-add-songs-to-your-inshot-app/"><u>2024 Approved Bring the Beat Home Add Songs to Your InShot App</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apples-laptop-lineup-explained-how-does-macbook-air-stack-up-against-macbook-pro/"><u>Apple's Laptop Lineup Explained: How Does MacBook Air Stack Up Against MacBook Pro?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-leading-6-iphone-antivirus-solutions-for-optimal-device-safety/"><u>Discover the Leading 6 iPhone Antivirus Solutions for Optimal Device Safety</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-handheld-joy-of-nintendos-switch-lite-budget-friendly-version-reviewed/"><u>Exploring the Handheld Joy of Nintendo's Switch Lite – Budget-Friendly Version Reviewed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fifa-19-gaming-breakdown-why-it-dominates-the-world-of-virtual-football-leagues/"><u>FIFA 19 Gaming Breakdown: Why It Dominates the World of Virtual Football Leagues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-reality-expertly-reviewed-peripherals/"><u>In 2024, Revolutionizing Reality Expertly Reviewed Peripherals</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-elevate-your-video-game-6-expert-adobe-premiere-techniques-to-know/"><u>New In 2024, Elevate Your Video Game 6 Expert Adobe Premiere Techniques to Know</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nokia-31-analysis-your-ideal-entry-level-smartphone-guide/"><u>Nokia 3.1 Analysis: Your Ideal Entry-Level Smartphone Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oneplus-ace-2-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing OnePlus Ace 2 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-tv-antenna-why-the-mohu-leaf-30-stands-out/"><u>The Ultimate Guide to Choosing a TV Antenna: Why the Mohu Leaf #30 Stands Out</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master PC Gameplay by Seamlessly Integrating Controller and Mouse
-date: 2024-10-22T09:57:38.309Z
-updated: 2024-10-23T16:06:46.221Z
+date: 2024-11-11T07:43:11.680Z
+updated: 2024-11-15T01:14:49.700Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The "Why Not Both?" meme is more than a little overused when it comes to decisions between two good things, but it's the perfect answer to the question of whether you should use a controller or a mouse to play your favorite games.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Keyboards Suck for Movement, Controllers Suck for Aim
 
  The main problem is that keyboards are not analogue. A key is either depressed or it isn't. This makes it essentially impossible to implement manual movement control for games using a keyboard. You have a walking speed and a sprinting speed, with nothing in between, and a significant amount of imprecision as a result. That analog thumb stick on the controller lets you precisely control the velocity of your character, and it's intuitive.
@@ -37,10 +30,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  So we have two halves of a good control scheme, which brings us back to...
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Not Both?
@@ -51,6 +50,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There are a few ways to address this beyond what I just mentioned. For example, many mice these days have numerous side and thumb buttons that can be assigned to take over common things you might want to do during a game, such as tossing a grenade or melee attacks. Also, don't forget that you have an entire D-pad on the left side of a standard controller, which is perfect for common functions like using a healing item or swapping weapons.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Configure Controller and Mouse Together
 
  Whether this approach will actually work largely depends on the game that you're trying to play. Some might not like the idea, but I've found that a lot of the time games will happily take inputs from multiple devices at once. One thing that does happen is that some games will rapidly switch between keyboard and controller button prompts if you use both input devices at the same time. That's pretty annoying, but some games also have the option to set which prompts to show permanently, which might be a fix in those cases.
@@ -59,16 +65,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  So, all that's left is to dig through the key binding settings for your game, and assign the right function to the right button either on your controller or mouse. If you're lucky, they should all sort into something that's quite playable!
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Dedicated Combo Peripherals
 
 ![Hori Tactical Assault Commander controller combo with half controller and mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/hori-tactical-assault-commander.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hori
 
@@ -77,10 +83,10 @@ Hori
  There's the [SplitFish Shark](https://eu.splitfish.com/fragfx-game-controllers/fragfx-shark-ps4.html?%5F%5F%5Fstore=english&%5F%5F%5Ffrom%5Fstore=default) which has various iterations for different consoles. Even HORI, which is one of the most eminent controller makers in the world, took a stab at it with the [HORI Tactical Assault Commander G2](https://www.amazon.com/Tactical-Assault-Commander-KeyPad-Gamepad-Controller/dp/B01L8QL2N8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002794&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fforget-picking-between-controller-or-mouse-for-pc-gaming-use-both-and-never-look-back%2F&asc%5Fcampaign=Evergreen).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Is Dual-Wielding Better?
@@ -104,18 +110,18 @@ Hori
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-surging-up-the-search-results-with-effective-podcast-seo/"><u>[New] 2024 Approved Surging Up the Search Results with Effective Podcast SEO</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-social-media-stardom-with-these-9-strategies/"><u>[New] Master the Art of Social Media Stardom with These 9 Strategies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streamlined-approach-to-capturing-youtube-content/"><u>[New] Streamlined Approach to Capturing YouTube Content</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/buying-xbox-n-game-downloads-despite-the-shutdown-of-microsofts-xbox-360-storefront/"><u>Buying Xbox N Game Downloads Despite the Shutdown of Microsoft's Xbox 360 Storefront</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-unistellar-odyssey-pro-redefining-astronomy-for-tech-savvy-enthusiasts/"><u>Comprehensive Analysis of the Unistellar Odyssey Pro – Redefining Astronomy for Tech-Savvy Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/compressive-strength-of-concrete-is-a-measure-of-its-ability-to-withstand-loads-that-tend-to-compress-it/"><u>Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-top-9-streaming-platforms-with-no-cost-trial-periods-available-now/"><u>Discover the Top 9 Streaming Platforms with No-Cost Trial Periods Available Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/effective-strategies-for-managing-a-bursting-steam-game-collection/"><u>Effective Strategies for Managing a Bursting Steam Game Collection</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/exploring-the-rules-and-regulations-in-mirilliss-service-contract/"><u>Exploring the Rules & Regulations in Mirillis's Service Contract</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capturing-chats-complete-fbm-conversation-history/"><u>In 2024, Capturing Chats Complete FBM Conversation History</u></a></li>
-<li><a href="https://fox-that.techidaily.com/is-your-iphones-contact-app-giving-you-grief-tackle-it-with-these-three-quick-fixes/"><u>Is Your iPhone's Contact App Giving You Grief? Tackle It With These Three Quick Fixes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/optimizing-online-team-discussions/"><u>Optimizing Online Team Discussions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/seo-sensation-a-comprehensive-guide-for-podcast-ranking-upliftment-for-2024/"><u>SEO Sensation A Comprehensive Guide for Podcast Ranking Upliftment for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-master-the-mind-discovering-elite-game-rooms/"><u>[Updated] 2024 Approved Master the Mind Discovering Elite Game Rooms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-amateurs-to-experts-shooting-spectacentic-photos-and-videos/"><u>2024 Approved From Amateurs to Experts Shooting Spectacentic Photos & Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-top-choices-premium-wrist-pads-for-enhanced-typing-ergonomics/"><u>2024’S Top Choices: Premium Wrist Pads for Enhanced Typing Ergonomics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-close-look-at-star-wars-squadrons-experience-the-thrill-of-hyper-realistic-space-skirmishes/"><u>A Close Look At Star Wars Squadrons – Experience the Thrill of Hyper-Realistic Space Skirmishes!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/free-software-for-ipod-video-format-changeover-easy-mp4-video-download/"><u>Free Software for iPod Video Format Changeover - Easy MP4 Video Download</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-honor-play-40c-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Honor Play 40C</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tech-talk-optimizing-for-the-apple-store/"><u>Tech Talk Optimizing for the Apple Store</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-high-performance-capabilities-of-fujitsus-ix1600-document-scanner-desktop-review/"><u>Unveiling the High-Performance Capabilities of Fujitsu's iX1600 Document Scanner - Desktop Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-chatgpts-preinstalled-addons-their-purpose-demystified/"><u>Unveiling the Power of ChatGPT's Preinstalled Addons – Their Purpose Demystified</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/what-is-elgoog/"><u>What Is elgooG?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wireless-ears-delight-at-economic-prices-senso-buds/"><u>Wireless Ears' Delight at Economic Prices: Senso Buds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/z7-review-nearly-perfect-practically-exceptional-photography/"><u>Z7 Review: Nearly Perfect, Practically Exceptional Photography</u></a></li>
 </ul></div>
 

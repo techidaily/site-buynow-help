@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2024-10-28T21:21:22.316Z
-updated: 2024-11-04T18:45:21.830Z
+date: 2024-11-12T22:03:40.762Z
+updated: 2024-11-14T18:07:25.916Z
 tags:
   - games
   - tv
@@ -23,13 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The 2024 Summer Olympics are landing in Paris at the end of July, and you don't need cable to access a lot of the action. NBC will broadcast many daytime and primetime events. With the aid of an over-the-air (OTA) antenna, you can watch for free.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Which Channels are Broadcasting the Olympics?
 
  NBCUniversal networks are the home of the 2024 Summer Olympics. During the day, NBC will air [at least nine hours](https://www.peacocktv.com/blog/2024-olympics-events-to-stream-live-on-peacock) of event coverage. If you have a local NBC affiliate in your area (and you almost certainly do), this is where you can [watch a lot of free events with an OTA antenna](https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-steelseries-arctis-pro-microphone-complete-solution/).
@@ -47,10 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Most modern televisions have an integrated tuner, meaning they are ready to be connected to an antenna. This makes setting up an antenna to watch the 2024 Olympics a lot easier than it might sound.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting Up an Antenna
@@ -58,10 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
@@ -72,22 +65,35 @@ Jordan Gloor / How-To Geek
 
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Which Olympic Events I Can Watch for Free?
 
  You will be able to watch NBC Olympics coverage using an antenna in most places. You'll find the [full schedule on the Olympics' official website](https://www.nbcolympics.com/full-schedule). NBC Sports has also [published a schedule](https://www.nbcsports.com/olympics/news/paris-2024-olympic-day-by-day-competition-schedule) adjusted for Eastern Standard Time in the United States (six hours behind Paris).
 
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Watch 2024 Olympic Gymnastics
 
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
 
@@ -112,24 +118,18 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-decoding-fast-techniques-for-ssgnature-bg-cleansing/"><u>[New] In 2024, Decoding Fast Techniques for Ssgnature Bg Cleansing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-innovative-techniques-for-igtv-backgrounds-for-2024/"><u>[New] Innovative Techniques for IGTV Backgrounds for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unlock-the-potential-of-your-youtube-videos-in-movie-maker/"><u>[Updated] In 2024, Unlock the Potential of Your YouTube Videos in Movie Maker</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-hash-tactics-for-thriving-gaming-vids-for-2024/"><u>[Updated] Mastering Hash Tactics for Thriving Gaming Vids for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/5-best-wifi-routers-for-on-the-go-connections-reviewed/"><u>5 Best WiFi Routers for On-the-Go Connections Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-amazon-kindle-paperwhite-7th-generation-assessment-your-ultimate-reading-companion/"><u>Comprehensive Amazon Kindle Paperwhite (7Th Generation) Assessment - Your Ultimate Reading Companion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-perfect-match-with-these-best-5-iphone-pods/"><u>In 2024, Find Your Perfect Match with These Best 5 iPhone Pods</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-lava-yuva-3-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Lava Yuva 3 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-tech-handbook-working-with-srt-files-on-a-mac/"><u>In 2024, The Ultimate Tech Handbook Working with SRT Files on a Mac</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nano-filled-composite-resins-offer-better-wear-resistance-smoother-surfaces-for-esthetics-and-can-incorporate-antimicrobial-agents-to-inhibit-bacterial-grow129/"><u>Nano-Filled Composite Resins Offer Better Wear Resistance, Smoother Surfaces for Esthetics, and Can Incorporate Antimicrobial Agents to Inhibit Bacterial Growth.</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-highlight-settings-in-windows-11/"><u>Navigating Highlight Settings in Windows 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/premium-performance-unleashed-in-depth-analysis-of-the-microsoft-surface-studio-2/"><u>Premium Performance Unleashed: In-Depth Analysis of the Microsoft Surface Studio 2</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reviewing-the-new-features-in-apple-watch-series-6-a-steady-climb-to-greatness/"><u>Reviewing the New Features in Apple Watch Series 6: A Steady Climb to Greatness</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-features-in-a-stylish-frame-detailed-review-of-the-michael-kors-access-gen-5e-mkgo-watch/"><u>Smart Features in a Stylish Frame: Detailed Review of the Michael Kors Access Gen 5E MKGO Watch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/taking-wifi-speeds-to-new-heights-the-ultimate-guide-and-assessment-of-the-netgear-nighthawk-x1ad7200-router/"><u>Taking WiFi Speeds to New Heights: The Ultimate Guide and Assessment of the Netgear Nighthawk X1^AD7200 Router</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/universally-compatible-moko-bluetooth-keyboard-with-easy-portability/"><u>Universally Compatible MoKo Bluetooth Keyboard with Easy Portability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-that-make-microsofts-ergonomic-keyboard-a-top-notch-choice-for-professionals/"><u>Unveiling the Features that Make Microsoft's Ergonomic Keyboard a Top-Notch Choice for Professionals</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-enhancing-mobile-broadcasting-via-obs-strategies/"><u>[New] 2024 Approved Enhancing Mobile Broadcasting via OBS Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-an-inside-look-at-magix-vpxs-advanced-techniques/"><u>[Updated] An Inside Look at Magix VPX's Advanced Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-virtual-victory-channel-over-a-hundred-heroes-rise/"><u>[Updated] In 2024, Virtual Victory Channel Over a Hundred Heroes Rise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airpod-setup-on-hp-laptops-the-ultimate-walkthrough/"><u>AirPod Setup on HP Laptops - The Ultimate Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-your-pc-ready-for-win-11-essential-usb-setup-strategies/"><u>Get Your PC Ready for Win 11: Essential USB Setup Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-nubia-red-magic-8s-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nubia Red Magic 8S Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-how-to-change-your-voice-in-free-fire-game-free-solution-included/"><u>In 2024, How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-quintessential-travel-gadget-collection/"><u>The Quintessential Travel Gadget Collection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-anker-powercoreplus-26800b-battery-kit-breakdown-and-performance-testing/"><u>The Ultimate Anker PowerCore+ 26800B Battery Kit Breakdown and Performance Testing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-budget-picked-detailed-look-into-asuss-convertible-marvel-the-chromebook-flip-c302ca/"><u>The Ultimate Budget Picked: Detailed Look Into Asus's Convertible Marvel, the Chromebook Flip C302CA</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-evaluating-key-aspects-before-purchasing-a-tablet/"><u>The Ultimate Guide: Evaluating Key Aspects Before Purchasing a Tablet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-journey-through-challenging-landscapes-top-race-rc-rock-crawler-breakdown/"><u>The Ultimate Journey Through Challenging Landscapes: Top Race RC Rock Crawler Breakdown</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-zte-nubia-flip-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from ZTE Nubia Flip 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

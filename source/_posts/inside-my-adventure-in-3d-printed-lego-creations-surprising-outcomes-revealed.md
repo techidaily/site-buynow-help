@@ -1,7 +1,7 @@
 ---
 title: Inside My Adventure in 3D-Printed LEGO Creations – Surprising Outcomes Revealed
-date: 2024-10-29T03:21:28.187Z
-updated: 2024-10-30T08:04:12.426Z
+date: 2024-11-08T02:38:23.308Z
+updated: 2024-11-14T23:39:53.612Z
 tags:
   - games
   - tv
@@ -21,24 +21,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Proper LEGO is expensive, and sometimes you just need a specific brick or a brick that no one makes anymore. So what about simply 3D printing LEGO? I took a shot at it, and it's not as simple as I thought.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Great LEGO Patent Expiration and “Compatible” Bricks
 
  Before we get onto my mini LEGO-printing adventure, it is worth covering why this is even possible from a legal standpoint. You've probably noticed that there are plenty of LEGO "compatible" bricks on the market, and the Danish toy company doesn't seem to be doing anything about it. The fact is that the [patents covering the locking mechanism of LEGO bricks](https://www.freepatentsonline.com/3005282.pdf) have expired. So, while the LEGO trademark is protected, there's nothing illegal about making bricks that are compatible with genuine LEGO.
 
  Not that LEGO let this happen without a fight, its failed legal battles with companies like Mega Blocks make for [fascinating reading](https://www.nytimes.com/2005/02/02/business/worldbusiness/building-a-legal-case-block-by-block.html). For our purposes here, all you need to know is that regular folks making LEGO models for 3D printing is fine, as long as they don't pretend to be real LEGO or use the company's trademarks.
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Where to Find Brick Model Files
 
@@ -50,13 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  As far as possible, I try to avoid using supports for my prints, because they leave markers on the model that require cleaning later. So I've printed these bricks in place, right-way-up to ensure there are no overhangs that would fail. However, some more exotic brick types might need supports, which you'll have to generate using your 3D printing software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Results
 
  My first attempt at printing a few test bricks did not go well. The K1 uses a smooth print bed out of the box, and you're supposed to rub a glue stick all over it before printing to help with adhesion. As a rule, I have not found this necessary, and so I can dispense with the messy cleanup and just get on with printing. Not so for my poor bricks, which very much did not remain stuck to the bed, and the print had to be abandoned. Two bricks did make it, giving me viable 0.2mm standard quality samples.
@@ -65,20 +58,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Two 3D-printed LEGO-compatible bricks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/bad-blocks.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sydney Louw Butler/How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Testing Compatibility With Real LEGO
@@ -89,9 +75,29 @@ Sydney Louw Butler/How-To Geek
 
 ![Two 3D-printed LEGO-compatible blocks stuck together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/good-blocks.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sydney Louw Butler/How-To Geek
 
  After printing out two test blocks, I got a pretty decent fit with real LEGO, but an incredible fit between the 3D-printed blocks themselves. In fact, they may be a little _too_ tight-fitting because them to come apart is much harder than with real LEGO. I can however, see myself printing out enough bricks to complete a build using this particular set, knowing that it won't fall apart.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Printed LEGO Rabbit Hole
 
@@ -116,16 +122,19 @@ Sydney Louw Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-comprehensible-guide-to-skypes-mp3-recorder/"><u>[New] 2024 Approved The Comprehensible Guide to Skype's MP3 Recorder</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-steps-to-post-music-on-social-media-stories/"><u>[New] In 2024, Steps to Post Music on Social Media Stories</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138588672-9781449735630-2251-acoustic-neuroma/"><u>225.1 Acoustic Neuroma | Free Book</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cumuluspro-standing-desk-pad-evaluation-your-ultimate-comfortable-workstation/"><u>CumulusPro Standing Desk Pad Evaluation: Your Ultimate Comfortable Workstation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-the-samsung-galaxy-watch-active-a-revolutionary-approach-to-wellness-tracking/"><u>Experts Weigh in on the Samsung Galaxy Watch Active – A Revolutionary Approach to Wellness Tracking</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-samsung-galaxy-watch3-timeless-style-meets-contemporary-enhancements/"><u>Review of Samsung Galaxy Watch3 - Timeless Style Meets Contemporary Enhancements</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/settling-around-the-virtual-campfire-an-in-depth-look-at-minecrafts-storytelling-through-skins/"><u>Settling Around the Virtual Campfire: An In-Depth Look at Minecraft’s Storytelling Through Skins</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-evolution-continues-a-comprehensive-review-of-djis-latest-drone-phantom-4-pro-v20/"><u>The Evolution Continues: A Comprehensive Review of DJI's Latest Drone - Phantom 4 Pro V.2.0</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-surge-of-conversational-agents-exploring-how-ai-chatbots-capture-user-interest/"><u>The Surge of Conversational Agents: Exploring How AI Chatbots Capture User Interest</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/tomorrows-tongues-revolutionizing-language-acquisition-today/"><u>Tomorrow's Tongues: Revolutionizing Language Acquisition Today</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-unlocking-audio-fidelity-top-advice-for-playing-m4a-on-android-devices-for-2024/"><u>Updated Unlocking Audio Fidelity Top Advice for Playing M4A on Android Devices for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-craft-clever-comical-content/"><u>[New] Craft Clever, Comical Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-real-time-videography-scaler/"><u>[New] Real-Time Videography Scaler</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-essential-tips-for-mobile-screen-recording-of-snapchat/"><u>[Updated] Essential Tips for Mobile Screen Recording of Snapchat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-spectaculous-fb-ad-videos-with-creativity/"><u>2024 Approved Crafting Spectaculous Fb Ad Videos with Creativity</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-to-get-your-bluetooth-mouse-functional-again-on-windows-systems/"><u>Effective Fixes to Get Your Bluetooth Mouse Functional Again on Windows Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-meizu-21-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Meizu 21 FRP Bypass Instantly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-nightmares-in-bloodborne-insights-and-impressions/"><u>Navigating Through Nightmares in Bloodborne: Insights and Impressions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-wearables-is-fitbits-charge-3-still-your-best-fitness-tracking-option/"><u>Navigating Through Wearables: Is Fitbit's Charge 3 Still Your Best Fitness Tracking Option?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-wet-pages-afloat-unveiling-the-secrets-of-the-waterproof-kobo-libra-h2o-e-reader/"><u>Navigating Wet Pages Afloat: Unveiling the Secrets of the Waterproof Kobo Libra H2O E-Reader</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nikon-coolpix-a10-an-inexpensive-camera-that-takes-great-photos-but-is-hamstrung-by-a-frustrating-user-experience/"><u>Nikon COOLPIX A10: An Inexpensive Camera That Takes Great Photos But Is Hamstrung by a Frustrating User Experience.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/not-ideal-for-high-viscosity-or-abrasive-materials-without-proper-design-considerations/"><u>Not Ideal for High Viscosity or Abrasive Materials without Proper Design Considerations.</u></a></li>
+<li><a href="https://win-top.techidaily.com/personal-brand-building-on-social-platforms-the-leading-11-trends-of-2011-part-two-featuring-massmail-techniques/"><u>Personal Brand Building on Social Platforms: The Leading 11 Trends of 2011 - Part Two Featuring Massmail Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-call-of-duty-wwii-mistake-code-4220-a-complete-fix-guide/"><u>Resolving Call of Duty: WWII Mistake Code 4220 - A Complete Fix Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/young-users-in-the-spotlight-balancing-digital-consumption-with-real-life-experiences-as-suggested-by-facebook/"><u>Young Users in the Spotlight: Balancing Digital Consumption with Real-Life Experiences, as Suggested by Facebook</u></a></li>
 </ul></div>
 

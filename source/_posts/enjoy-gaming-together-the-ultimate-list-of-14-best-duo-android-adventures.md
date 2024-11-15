@@ -1,7 +1,7 @@
 ---
 title: "Enjoy Gaming Together: The Ultimate List of 14 Best Duo Android Adventures"
-date: 2024-10-29T04:56:00.614Z
-updated: 2024-10-29T21:10:56.541Z
+date: 2024-11-13T20:38:44.534Z
+updated: 2024-11-15T03:27:45.434Z
 tags:
   - games
   - tv
@@ -50,6 +50,13 @@ _Minecraft_ is probably the most versatile game you can play with friends, as it
 
 _PewPew Live_ is a chaotic top-down shooter with support for LAN co-op and five different game modes. Its twin-joystick controls and colorful vector graphics make the game look deceptively simple; it requires a fast reaction time, as you have to dodge spheres and projectiles while destroying these spheres simultaneously.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 [Sky: Children of the Light](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en%5FUS) 
 
 _Sky: Children of the Light_ is the most relaxing multiplayer puzzle adventure game you've ever seen. It's one of the few games with 100% cross-platform co-op, meaning you can play it with friends on PC or consoles as well. You spend a lot of time just exploring the world, so it's a perfect game to play while discussing unrelated topics with your friends.
@@ -59,16 +66,10 @@ _Sky: Children of the Light_ is the most relaxing multiplayer puzzle adventure g
 _Soul Knight_ is another roguelite game made by the same developer, ChillyRoom, as Otherworld Legends. Although these two games have the same pixel art style and share the same core mechanics, they're still distinct games with different feelings, gameplay, characters, enemies, and spells. There's also the [_Soul Knight Prequel_](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel) once you're done with the original game. Just like Otherworlds Legends, you can play co-op with up to three other players.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 [Bloons TD 6](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd6&hl=en%5FUS) 
@@ -80,22 +81,15 @@ _Bloons TD 6_ is one of the best tower defense games on Android, so it's great t
  If you want a serious co-op game, maybe it's best to get a co-op-only game, which is what we have here with _The Past Within_. The game is a two-player cross-platform co-op game that requires constant communication with your teammate. You're in the same environment, but one of you is in the future, and the other in the past, and you have to work together to solve puzzles in both 2D and 3D. The puzzles aren't too challenging, so it's the perfect type of game to play with [someone who isn't into games](https://some-techniques.techidaily.com/in-2024-explore-the-best-dvd-players-for-your-portable-laptop/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9 [Keep Talking & Nobody Explodes](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.steelcrategames.keeptalkingandnobodyexplodes&hl=en%5FUS) 
 
 _Keep Talking & Nobody Explodes_ is a bonafide in-person-only party game where you have to defuse a bomb before the timer goes off. The catch is that your friends are the ones with the manual, which is purposefully complicated to navigate. The bomb contains up to 11 modules that you have to disarm. The only downside is the relatively steep price tag, but you only need one copy, as the defusal manual is in PDF format and [available online](https://bombmanual.com/) for free.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10 [Pepelo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.Tafusoft.Pepelo&hl=en) 
 
@@ -106,26 +100,26 @@ _Pepelo_ is a 3D puzzle platformer that you can play alone or with friends. The 
 _Maximus 2_ is an old-school beat-em-up brawler that doesn't take itself too seriously. The game supports co-op with up to four players, but the coolest part is that you can all play on a single device if you have Bluetooth controllers. You progress through different levels, fight bosses, and you heal and revive your teammates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 12 [Northgard](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.playdigious.northgard) 
 
  Good strategy games on Android are rare, and multiplayer ones are even rarer. So, I'm glad to say that _Northgard_ fits the description perfectly. You build settlements, assign workers, manage resources while trying to survive the harsh Northgard winter, and combat enemies. The game supports up to six players, and you can play with or against them, so it's perfect if you want to play 2v2 or 3v3 with friends.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 13 [TMNT: Shredder's Revenge](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.netflix.NGP.TMNTShreddersRevenge&hl=en) 
 
  Here we have another 2D beat-em-up side-scroller, but this time, it's a childhood franchise we all love and cherish—_Teenage Mutant Ninja Turtles_. _TMNT: Shredder's Revenge_ supports six-player cross-platform co-op; you can play as one of the four iconic turtles, but there are a few other characters as well, like Splinter and April. By the way, you can heal your friends by [high-fiving](https://screenrant.com/tmnt-shredders-revenge-how-to-heal-teammates-guide/) them.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 14 [Storiado](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.beakbyte.storiado) 
 
@@ -150,21 +144,22 @@ _Storiado_ is a fun new party game where you and your friends create stories abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-choreographed-chaos-blending-dance-and-dissonance-in-tiktoks/"><u>[Updated] In 2024, Choreographed Chaos Blending Dance & Dissonance in TikToks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-filtering-the-truth-in-your-insta-network/"><u>[Updated] In 2024, Filtering the Truth in Your Insta Network</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-decode-and-resolve-your-guide-to-instagram-video-problems/"><u>2024 Approved Decode and Resolve Your Guide to Instagram Video Problems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boost-gaming-and-multimedia-learn-how-to-replace-a-graphic-processor-unit/"><u>Boost Gaming and Multimedia: Learn How to Replace a Graphic Processor Unit</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-erasing-your-yahoo-email-account-forever/"><u>Complete Guide: Erasing Your Yahoo Email Account Forever</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-blueear-wireless-earmuff-headband-assessment-stylish-and-functional-audio-with-solid-performance/"><u>Comprehensive BlueEar Wireless Earmuff Headband Assessment: Stylish and Functional Audio with Solid Performance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-uncharted-audio-territory-avantrees-aria/"><u>Exploring Uncharted Audio Territory: Avantree's Aria</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/incredible-value-of-the-asus-chromebook-flip-c302ca-budget-friendly-convertible-laptop-with-outstanding-quality/"><u>Incredible Value of the ASUS Chromebook Flip C302CA - Budget-Friendly Convertible Laptop with Outstanding Quality</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/leading-edge-robust-tripod-inspection/"><u>Leading Edge, Robust Tripod Inspection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/politicas-de-resarcimiento-en-proyectos-de-implementacion-winxdvd-por-digiarty-que-puedes-expectar/"><u>Políticas De Resarcimiento en Proyectos De Implementación WinXDVD Por Digiarty: ¿Qué Puedes Expectar?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-creating-your-unique-nintendo-network-id-on-the-3ds/"><u>Step-by-Step Guide: Creating Your Unique Nintendo Network ID on the 3DS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-reduce-lag-in-windows-based-discord/"><u>Strategies to Reduce Lag in Windows-Based Discord</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-revolutionary-amazon-fire-tv-cube-guide-blazing-fast-media-device-for-everyone/"><u>The Revolutionary Amazon Fire TV Cube Guide: Blazing Fast Media Device for Everyone</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-of-voice-transcription-tools-224/"><u>The Ultimate Selection of Voice Transcription Tools - 2#24</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ffortless-conversions-selecting-the-10-prime-flv-to-youtubes-options/"><u>[New] Effortless Conversions Selecting the 10 Prime Flv to YouTubes Options</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-understanding-facebooks-chat-language-through-its-blue-signature-marker/"><u>[New] Understanding Facebook's Chat Language Through Its Blue Signature Marker</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-taking-on-screen-capture-giants-how-bandicam-stacks-up-against-camtasia-for-2024/"><u>[Updated] Taking on Screen Capture Giants How Bandicam Stacks Up Against Camtasia for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-3-step-formula-how-to-check-youtube-income-for-2024/"><u>[Updated][3-Step Formula] How To Check YouTube Income for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-does-the-amazonbasics-12-sheet-security-micro-cut-shredder-stack-up-detailed-examination-and-user-satisfaction-review/"><u>How Does the AmazonBasics 12-Sheet Security Micro-Cut Shredder Stack Up? - Detailed Examination and User Satisfaction Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immerse-yourself-in-the-elder-scrolls-v-skyrim-nintendo-switch-edition-reviewed/"><u>Immerse Yourself in The Elder Scrolls V: Skyrim - Nintendo Switch Edition Reviewed!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-90-lite-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor 90 Lite FRP Bypass</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-lg-k92-5g-device-is-superior-connectivity-enough-to-warrant-its-cost/"><u>In-Depth Review of LG K92 5G Device: Is Superior Connectivity Enough to Warrant Its Cost?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-restfulness-gadgets-your-guide-to-the-best-sleep-tech-on-the-market/"><u>Innovative Restfulness Gadgets: Your Guide to the Best Sleep Tech on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insights-on-the-motorola-one-5g-ace-unmatched-speeds-and-enduring-power/"><u>Insights on the Motorola One ˈ5G Ace - Unmatched Speeds and Enduring Power</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-chromebook-duet-the-budget-friendly-2-in-1-device-that-offers-more/"><u>Lenovo Chromebook Duet: The Budget-Friendly 2-in-1 Device That Offers More</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-tri-band-wireless-network-the-asus-ax6600-mesh-wifi-system-detailed-review/"><u>Mastering the Tri-Band Wireless Network: The ASUS AX6600 Mesh WiFi System Detailed Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mlb-the-show-19-reviewed-aesthetic-sports-simulation-blends-with-unexpected-rpg-elements/"><u>MLB The Show 19 Reviewed: Aesthetic Sports Simulation Blends with Unexpected RPG Elements</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-of-the-best-top-timecode-calculators-for-iphone-android-and-web-for-2024/"><u>New The Best of the Best Top Timecode Calculators for iPhone, Android, and Web for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nokia-c12-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nokia C12 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-windows-net-framework-obstacle-error/"><u>Remedying the Windows .NET Framework Obstacle Error</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Smart 8 | Dr.fone</u></a></li>
 </ul></div>
 

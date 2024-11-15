@@ -1,7 +1,7 @@
 ---
 title: Expert Reveal on Twelve South's Compass Pro Gear for Optimal Balance & Control
-date: 2024-10-23T03:01:47.124Z
-updated: 2024-10-23T16:14:14.146Z
+date: 2024-11-12T23:59:38.799Z
+updated: 2024-11-15T05:42:40.967Z
 categories:
   - BestProducts
 description: This Article Describes Expert Reveal on Twelve South's Compass Pro Gear for Optimal Balance & Control
@@ -63,13 +63,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Punching above the price point**
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master features a robust design that doesn’t feel like the manufacturer skimped on build quality — one of our biggest concerns with budget-minded flashes like this. When adjusting the position of the[flash head](https://www.lifewire.com/using-the-dslr-pop-up-flash-492975) through its 90 degrees of vertical and 270 degrees of horizontal range, it felt very solid.
@@ -83,10 +76,10 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Features & Functionality: Full suite manual control**
@@ -109,13 +102,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup: A lot of reading before use**
 
  Once you unpack your flash and install the four AA batteries, you’re going to want to familiarize yourself with the buttons and menu system a little. The YN560 IV has a lot of functionality, but it doesn’t have the most intuitive interface. The front of the device contains a top row of four buttons (a Light/Music icon, Mode, a Wi-Fi icon, and Zoom). Below this is a charge indicator button marked “PILOT”, a direction pad, and an On/Off button.
@@ -130,18 +116,18 @@ Lifewire / Jonno Hill
 
  Overall, the YN560 IV gives you a lot of functionality and control, but definitely requires some reading and troubleshooting before you can master the device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Significant savings for manual users**
 
  Buyers that need a lot of manual control for complex flash setups will be very pleased with what the get for the approximately $60 the YN560 IV costs. It sits at a price that’s a fraction of its TTL-enabled Canon and Nikon counterparts, but twice that of even simpler options. Do you need all the functionality that the YN560 IV offers? Are you willing to troubleshoot a bit with returns to make sure you get good, non-defective units? If the answer to those questions is yes, this is definitely the flash for you.
 
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Yongnuo YN560 IV Wireless Flash Speedlite Master vs Neewer TT560 Flash Speedlite**
 
@@ -157,11 +143,25 @@ Lifewire / Jonno Hill
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master may not be a very simple flash, but it packs enough functionality to make a very versatile platform for more aspirational photographers. Buyers that want full manual control and radio transmission without paying an arm and a leg will be more than pleased with what they get.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Canon Speedlite 430EX III-RT Flash](https://www.lifewire.com/canon-speedlite-430ex-iii-rt-flash-review-4686835)
 * [Nikon D3400](https://www.lifewire.com/nikon-d3400-review-4776644)
 * [Fovitec SPK10-037 Softbox Lighting Kit](https://www.lifewire.com/fovitec-spk10-037-softbox-lighting-kit-review-4692503)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -195,22 +195,24 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-perfect-your-story-a-roundup-of-best-editing-apps-for-2024/"><u>[New] Perfect Your Story A Roundup of Best Editing Apps for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-strategic-insights-for-triumph-in-smm-for-2024/"><u>[New] Strategic Insights for Triumph in SMM for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-comprehensible-guide-to-selecting-popular-youtube-openings/"><u>[New] The Comprehensible Guide to Selecting Popular YouTube Openings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastery-in-motion-advanced-techniques-for-tiktok-edits/"><u>[Updated] Mastery in Motion Advanced Techniques for TikTok Edits</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-optimize-your-media-output-with-our-top-10-online-subtitles-tools/"><u>2024 Approved Optimize Your Media Output With Our Top 10 Online Subtitles Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/aeonis-portable-solar-generator-reviewed-excellent-pure-sine-wave-inverter-option-for-essential-medical-apparatuses/"><u>Aeonis Portable Solar Generator Reviewed: Excellent Pure Sine Wave Inverter Option for Essential Medical Apparatuses</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/anker-powercoreplus-26800-battery-pack-bundle-review/"><u>Anker PowerCore+ 26800 Battery Pack Bundle Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/aquaaudio-check-reliable-underwater-clarity/"><u>AquaAudio Check: Reliable Underwater Clarity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/artistry-in-darkness-reimagining-the-iconic-action-rpg-demons-souls/"><u>Artistry in Darkness: Reimagining the Iconic Action-RPG, Demon's Souls</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessing-pros-and-cons-navigating-through-pidgin-instant-messengers-features/"><u>Assessing Pros and Cons: Navigating Through Pidgin Instant Messenger's Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/asus-bw-16d1x-u-blu-ray-player-assessment-elegant-design-with-notable-idiosyncrasies/"><u>Asus BW-16D1X-U Blu-Ray Player Assessment: Elegant Design with Notable Idiosyncrasies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-between-the-latest-flagships-iphone-15-pro-max-and-samsung-s24-ultra-reviewed/"><u>Choosing Between the Latest Flagships: IPhone 15 Pro Max and Samsung S24 Ultra Reviewed!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-amplifi-hd-networking-solution-evaluation-eliminate-wi-fi-black-spots/"><u>Comprehensive Amplifi HD Networking Solution Evaluation: Eliminate Wi-Fi Black Spots</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-11-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme 11 Pro?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-a-step-by-step-path-to-authentic-selfie-verification-on-ig/"><u>In 2024, A Step-by-Step Path to Authentic Selfie Verification on IG</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone XR?</u></a></li>
-<li><a href="https://win11.techidaily.com/introduction-windows-terminal-and-quake-mods/"><u>Introduction: Windows Terminal and Quake Mods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-stream-it-record-it-facebook-live-tips-and-tricks/"><u>2024 Approved Stream It, Record It Facebook Live Tips & Tricks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-yokus-adventure-in-island-express/"><u>A Comprehensive Review of Yoku’s Adventure in Island Express</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-netgear-nighthawk-c7000-top-tier-wireless-router-unveiled/"><u>Comprehensive Evaluation of the Netgear Nighthawk C7000 - Top-Tier Wireless Router Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-havit-5-gaming-laptop-cooling-pad-keep-your-system-chilled/"><u>Expert Analysis of the HAVIT 5 Gaming Laptop Cooling Pad - Keep Your System Chilled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-nest-wi-fi-exposed-a-swift-and-seamless-home-internet-solution-reviewed/"><u>Google Nest Wi-Fi Exposed: A Swift and Seamless Home Internet Solution Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hisense-50h8f-ultra-hd-hdr-smart-tv-the-best-value-for-money/"><u>Hisense 50H8F Ultra HD HDR Smart TV: The Best Value for Money?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-dxgierrordeviceremoved-error-in-windows-11-and-11/"><u>How to Fix the DXGI_ERROR_DEVICE_REMOVED Error in Windows 11 & 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-firefox-freezing-issues-a-step-by-step-tutorial/"><u>How to Resolve Firefox Freezing Issues: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-a38-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo A38</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-note-50-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme Note 50</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-11-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for OnePlus 11 5G Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lightweight-long-range-wi-fi-for-any-adventure-the-tp-link-tl-wr902ac/"><u>Lightweight, Long-Range Wi-Fi for Any Adventure - The TP-Link TL-WR902AC</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/schritt-fur-schritt-anleitung-vergleich-zwischen-in-place-upgrades-und-neuinstallationen-auf-windows-server/"><u>Schritt-Für-Schritt-Anleitung: Vergleich Zwischen In-Place Upgrades Und Neuinstallationen Auf Windows Server</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719205412582-shed-light-on-dark-windows-11-desktops-tips-inside/"><u>Shed Light on Dark Windows 11 Desktops - Tips Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-adaptable-ally-for-travel-discovering-patekfly-12/"><u>The Adaptable Ally for Travel: Discovering Patekfly 12</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-apc-back-ups-be600m1-surge-protector-how-it-performs-with-usb-charging-capabilities-reviewed/"><u>The APC Back-UPS BE600M1 Surge Protector - How It Performs with USB Charging Capabilities Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-entrepreneurs-lifeline-critical-items-every-startup-needs-right-now-for-2024/"><u>The Entrepreneur's Lifeline Critical Items Every Startup Needs Right Now for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-test-intova-xs-video-capabilities/"><u>The Ultimate Test Intova X's Video Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-dbpowers-600a-peak-charger-a-deep-dive-into-its-18k-mah-features/"><u>Top Review of DBPower's 600A Peak Charger: A Deep Dive Into Its 18K mAh Features</u></a></li>
 </ul></div>
 

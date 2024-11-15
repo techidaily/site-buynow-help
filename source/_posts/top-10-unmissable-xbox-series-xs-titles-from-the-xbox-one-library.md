@@ -1,7 +1,7 @@
 ---
 title: Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library
-date: 2024-10-29T21:25:23.729Z
-updated: 2024-11-04T22:35:20.549Z
+date: 2024-11-10T03:17:56.290Z
+updated: 2024-11-15T00:29:24.994Z
 tags:
   - games
   - tv
@@ -28,13 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Brand-new games arrive on Xbox all the time, so it's easy to forget about the many older Xbox One titles. But there are a ton of last-generation games that are worth playing again on the latest hardward thanks to some big upgrades that overhaul performance, visuals, and even features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 _Halo: The Master Chief Collection_ 
 
 ![The campaign selection screen in Halo: The Master Chief Collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/halo-mcc.png) 
@@ -56,28 +49,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 _The Witcher 3_ is one of the highest-selling games of all time for good reason. It has been upgraded for the Series X|S with many graphical improvements such as ray-tracing and higher-resolution textures. The latest release also includes all DLC and even has some extra main game content compared to the Xbox One release.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 _DOOM Eternal_ 
 
 ![Gameplay from DOOM Eternal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/doom-eternal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bethesda Softworks
 
  There were a lot of ecstatic fans when the _DOOM_ 2016 reboot blew all expectations out of the water and brought the classic franchise back into the limelight. This meant that _DOOM Eternal_ had a ton of hype as well, and thankfully it met all expectations.
 
  It's _DOOM_. It's frenetic, violent, deceptively complex, full of awesome music, and includes a deeper story than most realize. It already looked great on the Xbox One, but it also received an update for the Series X|S, allowing it to look even better and play more smoothly. [If you love fast-paced shooters](https://common-error.techidaily.com/solving-unable-to-connect-issues-with-a-remote-server-a-step-by-step-guide/), _DOOM Eternal_ is worth a look.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4 _Star Wars Jedi: Fallen Order_ 
 
@@ -91,16 +84,16 @@ Electronic Arts
 
  The sequel, _Jedi Survivor_, came out in 2023 and is every bit as amazing as the first game. But the story is what drives these games, so I'd recommend playing Fallen Order first! Don't worry: it got plenty of upgrades for the Series X|S, including [improved loading times](https://extra-hints.techidaily.com/inspirational-article-leaderboard-maker/), stability fixes, and a higher resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 _DragonBall FighterZ_ 
 
 ![The title screen for DragonBall FighterZ.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/dbfz.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are surely some people reading this who fondly remember playing the Budokai games in their childhood. For a time, nothing could hold a candle to those titles in the world of _DragonBall Z_ fighting games. _DragonBall FighterZ_ made a huge splash in 2018, bringing an incredible aesthetic, epic soundtracks, and a complex but easy-to-pick-up combat system.
 
@@ -117,22 +110,15 @@ _Hellblade: Senua's Sacrifice_ is not a game that everyone is going to enjoy. So
  Moreover, the sequel, _Hellblade 2_, arrived in 2024\. Now is a great time to play the original game. On the Series X|S, the game is even more visually incredible, thanks to [the inclusion of ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) and other graphical upgrades.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 _Mortal Shell_ 
 
 ![Gameplay from Mortal Shell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mortal-shell.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Playstack
 
@@ -141,6 +127,19 @@ Playstack
  In Mortal Shell, you can possess different armors, which are your classes. This means you can re-spec your character at any time to focus on stealth, balanced combat, or tankiness, all of which are viable throughout the game. It's not a particularly long game, being easily completed in less than 12 hours, but that's not always a bad thing.
 
 _Mortal Shell_ has an enhanced edition for the Series X|S, improving its graphical fidelity. If you're looking for a quick but rewarding Souls-like experience, give _Mortal Shell_ a shot.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8 _Stellaris: Console Edition_ 
 
@@ -157,10 +156,16 @@ Paradox Interactive
 ![Gameplay from Cyberpunk 2077.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cyberpunk-2077.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 CD Projekt Red
@@ -172,6 +177,13 @@ CD Projekt Red
 ## 10 _Sea of Thieves_ 
 
 ![Gameplay from Sea of Thieves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/sea-of-thieves.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Microsoft Studios
 
@@ -198,16 +210,17 @@ Microsoft Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-pinnacle-teaser-film-assortment-for-2024/"><u>[New] Pinnacle Teaser Film Assortment for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-chilly-champs-beijings-best-of-the-2022-games/"><u>[Updated] In 2024, Chilly Champs Beijing's Best of the 2022 Games</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-flight-tech-ready-to-buy/"><u>2024 Approved Prime Flight Tech Ready to Buy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-top-storm-alert-and-tracking-mobile-apps-reviewed/"><u>2024'S Top Storm Alert and Tracking Mobile Apps Reviewed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-screen-capture-alternatives-for-the-cost-conscious-user-for-2024/"><u>Best Screen Capture Alternatives for the Cost-Conscious User for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-leading-online-tech-education-sites-code-mastery/"><u>Discover The Leading Online Tech Education Sites - Code Mastery</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-power-of-tangos-free-messaging-and-calls-comprehensive-analysis-inside/"><u>Discover the Power of Tango's Free Messaging & Calls – Comprehensive Analysis Inside!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-choices-for-portable-power-in-pc-gaming-expertly-compact-systems/"><u>Elite Choices for Portable Power in PC Gaming: Expertly Compact Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-and-personalize-a-win11-desk-makeover/"><u>Simplify and Personalize: A Win11 Desk Makeover</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-next-gen-conversational-agents-as-great-replacements-for-chatgpt/"><u>Top 10 Next-Gen Conversational Agents as Great Replacements for ChatGPT</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-benefits-of-the-maxoak-battery-pack-a-high-performance-185wh-5000flya-review/"><u>Unpacking the Benefits of the MaxOak Battery Pack - A High-Performance 185Wh / 50,00Flya Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-key-approaches-to-elicit-trust-in-product-reviews-through-videography-for-2024/"><u>[New] Key Approaches to Elicit Trust in Product Reviews Through Videography for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-io-scanner-insiders-handbook/"><u>[Updated] 2024 Approved The Ultimate IO Scanner Insider's Handbook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-global-viewership-kings-youtubes-viral-royalty-for-2024/"><u>[Updated] Global Viewership Kings YouTube's Viral Royalty for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-disqus-poster-pixel-arrangement/"><u>[Updated] In 2024, Disqus Poster Pixel Arrangement</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-13-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reformatting-large-win11-screen/"><u>Reformatting Large Win11 Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sleek-design-smooth-travels-a-detailed-review-of-the-swagtron-swagger-e-scooter-for-modern-commuters/"><u>Sleek Design, Smooth Travels - A Detailed Review of the Swagtron Swagger E-Scooter for Modern Commuters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/software-tweaks-for-bug-fixes-not-total-reimagining/"><u>Software Tweaks for Bug Fixes, Not Total Reimagining</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sony-wh-1000xm4-review/"><u>Sony WH-1000XM4 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/spk10-037-kit-a-bright-idea-versatranexity-comes-packaged-in-light/"><u>SPK10-037 Kit - A Bright Idea, Versatranexity Comes Packaged in Light</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stay-fit-with-the-new-generation-tracker-the-fitbit-versa-3-packed-with-inbuilt-gps-and-health-apps/"><u>Stay Fit with the New Generation Tracker - The Fitbit Versa 3, Packed with Inbuilt GPS & Health Apps</u></a></li>
 </ul></div>
 

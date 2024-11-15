@@ -1,7 +1,7 @@
 ---
 title: Top Rated Memory Cards for Digital Cameras
-date: 2024-11-03T23:56:26.940Z
-updated: 2024-11-04T20:31:26.576Z
+date: 2024-11-11T04:13:16.828Z
+updated: 2024-11-14T21:41:25.947Z
 tags:
   - games
   - tv
@@ -45,10 +45,10 @@ Best Micro SD Card For Cameras
 [See at amazon](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What to Look For With an SD Card in 2024
@@ -81,10 +81,10 @@ Best Micro SD Card For Cameras
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Best SD Card for Cameras Overall: [Lexar Professional 2000x](https://www.bhphotovideo.com/c/product/1592045-REG/lexar%5Flsd2000064g%5Fbnnnu%5F64gb%5F2000x%5Fsd%5Fuhs%5Fii.html/BI/22163/KBID/28708/SID/UUhtgUeUpU205942) 
@@ -114,21 +114,7 @@ Best Micro SD Card For Cameras
 
 ![lexar profesisonal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/lexar-profesisonal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Best SD Card For Cameras Overall
 
@@ -141,6 +127,13 @@ Lexar offers pro-level speed and performance for a very affordable price.
 [](https://www.amazon.com/dp/B07DRP77YW?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce)
 
 [![Transcend SD card on blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/transcend-sd.jpg) Transcend](https://www.amazon.com/dp/B07DRP77YW?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [](https://www.amazon.com/dp/B07DRP77YW?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
@@ -187,6 +180,13 @@ A powerful SD card for photographers on a budget, the V90 can stand toe-to-toe w
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best SD Card for Cameras Under $25
 
 #####  SanDisk 64GB Extreme PRO SDXC UHS-I Card
@@ -221,6 +221,13 @@ SanDisk
 
 ![SanDisk 1TB Extreme PRO SDXC UHS-II](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/sandisk-1tb-extreme-pro-sdxc-uhs-ii-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Best High Capacity SD Card for Cameras
 
 #####  SanDisk 1TB Extreme PRO SDXC UHS-II
@@ -229,25 +236,11 @@ The SanDisk 1TB Extreme Pro SDXC UHS-II is a fast, high-capacity SD card for pro
 
 [$286 at Amazon](https://www.amazon.com/SanDisk-Extreme-UHS-II-Memory-SDSDXEP-1T00-GN4IN/dp/B0BXZ6DXFL?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/SanDisk-1TB-Extreme-PRO-SDXC-UHS-II-Memory-Card-SDSDXEP-1T00-GN4IN/5221162024?athbdg=L1600) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best Micro SD Card for Cameras: [Kingston Canvas React Plus](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce)
 
 [![Kingston Canvas React](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Kingston-Canvas-React.jpg) Kingston](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
@@ -269,13 +262,6 @@ The SanDisk 1TB Extreme Pro SDXC UHS-II is a fast, high-capacity SD card for pro
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Best Micro SD Card For Cameras
 
 #####  Kingston 128GB microSDXC Canvas React Plus Micro SD Card
@@ -284,18 +270,32 @@ Need a microSD for your camera? Kingston has a high-storage, high-speed card tha
 
 [See at amazon](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How do you format an SD card for a camera?
 
  The best way to format your SD card is generally on the camera itself. See our guide on[safely formatting SD cards for your camera](https://facebook-videos.techidaily.com/updated-2024-approved-bringing-your-outdoor-experiences-home-gopro-livestreams-on-facebookperiscope/) for a full walkthrough.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do I transfer photos from an SD card?
 
@@ -328,20 +328,20 @@ Need a microSD for your camera? Kingston has a high-storage, high-speed card tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-youtube-craft-your-ultimate-music-collection/"><u>[New] In 2024, Mastering YouTube Craft Your Ultimate Music Collection</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-skyrocketing-to-million-dollar-views-best-hashtags/"><u>[New] In 2024, Skyrocketing to Million-Dollar Views Best Hashtags</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-symphonic-selection-ideal-websites-for-ringtones/"><u>[Updated] Symphonic Selection Ideal Websites for Ringtones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-xbox-recorders-handbook-for-gamers-for-2024/"><u>[Updated] The Xbox Recorder’s Handbook for Gamers for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-moto-g-play-features-exceptional-battery-endurance-and-respectable-performance-metrics/"><u>Comprehensive Review of Moto G Play Features – Exceptional Battery Endurance and Respectable Performance Metrics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/detailed-assessment-of-viber-out-features-and-user-satisfaction/"><u>Detailed Assessment of Viber Out Features and User Satisfaction</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expertly-curated-selection-of-brands-and-phones-at-reputable-retailers/"><u>Expertly Curated Selection of Brands and Phones at Reputable Retailers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-value-proposition-in-depth-look-at-the-hp-stream-14-windows-laptop-on-a-shoestring-budget/"><u>Exploring the Value Proposition: In-Depth Look at the HP Stream 14 Windows Laptop on a Shoestring Budget</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-20-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 20 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-haul-vids-creation-and-editing-basics/"><u>In 2024, Mastering Haul Vids Creation & Editing Basics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-portable-energy-with-maxoaks-185wh-bank-a-detailed-product-assessment/"><u>Mastering Portable Energy with MaxOak's 185Wh Bank: A Detailed Product Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-rechargeable-battery-charger-units-in-2-cups/"><u>Top-Rated Rechargeable Battery Charger Units in 2 Cups</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-14-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 14 Pro Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ering-youtubes-top-viewed-comments-for-2024/"><u>Uncovering YouTube's Top Viewed Comments for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-excellence-of-soundbots-sb210-model-exceptional-auditory-experience-under-ideal-conditions/"><u>Unpacking the Excellence of Soundbot's SB210 Model: Exceptional Auditory Experience Under Ideal Conditions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-zoom-webcams-compared-the-elite-six/"><u>[New] Best Zoom Webcams Compared - The Elite Six</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-strategies-for-securing-an-original-tiktok-hashtag/"><u>[Updated] In 2024, Strategies for Securing an Original TikTok Hashtag</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-narrative-techniques-for-impactful-documentaries/"><u>2024 Approved Narrative Techniques for Impactful Documentaries</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210563523-9789391028848-ashramed/"><u>Ashramed | Free Book</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/b550-xts-voice-technology-precision-and-acoustic-serenity/"><u>B550-XT's Voice Technology: Precision & Acoustic Serenity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-processor-driven-tablets-in-depth-evaluation-and-comparison/"><u>Best Processor-Driven Tablets: In-Depth Evaluation and Comparison</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budgeted-bird-and-dog-dvr-exploration/"><u>Budgeted Bird & Dog DVR Exploration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/complete-tutorial-setting-up-your-nintendo-account-for-3ds-gaming/"><u>Complete Tutorial: Setting Up Your Nintendo Account for 3DS Gaming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-acer-chromebook-15-assessment-solid-performance-on-a-large-display/"><u>Comprehensive Acer Chromebook 15 Assessment: Solid Performance on a Large Display</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-blade-e-flite-mcx2-rtf-remote-control-helicopter-top-choice-in-flying-toys/"><u>Comprehensive Analysis of the Blade E-Flite mCX2 RTF Remote Control Helicopter - Top Choice in Flying Toys</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/critical-assessment-unveiling-the-strengths-and-weaknesses-of-pioneer-bdr-xd05b-blu-ray-burner-design/"><u>Critical Assessment: Unveiling the Strengths & Weaknesses of Pioneer BDR-XD05B Blu-Ray Burner Design</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-access-denial-windows-11-graphic-issue/"><u>Device Access Denial - Windows 11 Graphic Issue</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cing-video-discoverability-through-youtube-images/"><u>Enhancing Video Discoverability Through Youtube Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/gamers-choice-top-software-for-live-scenes/"><u>Gamers' Choice Top Software for Live Scenes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-free-whiteboard-animation-makers-for-windows-mac-and-beyond/"><u>New 10 Free Whiteboard Animation Makers for Windows, Mac, and Beyond</u></a></li>
 </ul></div>
 

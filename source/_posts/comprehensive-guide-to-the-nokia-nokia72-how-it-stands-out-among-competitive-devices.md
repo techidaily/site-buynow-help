@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to the Nokia Nokia7.2: How It Stands Out Among Competitive Devices"
-date: 2024-10-17T17:41:48.092Z
-updated: 2024-10-24T02:59:42.486Z
+date: 2024-11-12T20:48:51.230Z
+updated: 2024-11-15T01:03:41.153Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Guide to the Nokia Nokia7.2: How It Stands Out Among Competitive Devices"
@@ -40,6 +40,19 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
@@ -72,13 +85,6 @@ Lifewire / Kelsey Simon
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Gameplay: Dialogue prompts and effort**
 
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
@@ -99,6 +105,13 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -110,16 +123,16 @@ Lifewire / Kelsey Simon
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -131,10 +144,10 @@ Lifewire / Kelsey Simon
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
@@ -148,13 +161,6 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,20 +185,24 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-cultivating-a-unique-vibe-in-your-own-mukbang-content/"><u>[Updated] Cultivating a Unique Vibe in Your Own Mukbang Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-gamers-fbx-filming-techniques/"><u>[Updated] Pro Gamers' FBX Filming Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-simple-guide-youtube-to-mp3-on-mac/"><u>[Updated] Simple Guide YouTube to MP3 on Mac,</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-audiovisual-debut-breakdown/"><u>2024 Approved Audiovisual Debut Breakdown</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/blade-e-flite-mcx2-rtf-rc-helicopter-review/"><u>Blade E-Flite mCX2 RTF RC Helicopter Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breaking-down-the-performance-of-nokia-72-why-this-mid-tier-phone-is-worth-your-attention/"><u>Breaking Down the Performance of Nokia 7.2 - Why This Mid-Tier Phone Is Worth Your Attention</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-hands-on-tour-unlocking-the-potential-of-arlo-security-devices/"><u>Comprehensive Hands-On Tour: Unlocking the Potential of Arlo Security Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-powerful-samsung-galaxy-tab-s6-with-dynamic-s-pen-functionality/"><u>Comprehensive Review of the Powerful Samsung Galaxy Tab S6 with Dynamic S Pen Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-the-perfect-blend-of-old-world-aesthetics-and-new-age-smartwatch-features-in-skagen-falster-3/"><u>Comprehensive Review: The Perfect Blend of Old World Aesthetics and New Age Smartwatch Features in Skagen Falster 3</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-tp-link-ac1200-wifi-repeater-re305-evaluation-uncomplicated-user-experience/"><u>Comprehensive TP-Link AC1200 WiFi Repeater RE305 Evaluation: Uncomplicated User Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/crucial-considerations-before-investing-in-a-new-gaming-platform/"><u>Crucial Considerations Before Investing in a New Gaming Platform</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-rtx-3080-ti-driver-installation-guide-for-windows-1087/"><u>Latest NVIDIA GeForce RTX 3080 Ti Driver Installation Guide for Windows 10/8/7</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-rapid-srt-to-txt-transformation-techniques-for-2024/"><u>Mastering Rapid SRT to TXT Transformation Techniques for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-streamline-video-editing-fast-and-easy-ways-to-trim-large-files-on-mac/"><u>New 2024 Approved Streamline Video Editing Fast and Easy Ways to Trim Large Files on Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-notch-mac-visual-archiver-for-2024/"><u>Top-Notch Mac Visual Archiver for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-loop-video-magic-keep-your-followers-hooked-with-instagram-boomers/"><u>[New] Loop Video Magic Keep Your Followers Hooked with Instagram Boomers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-steadicams-for-professional-grade-dslr-shoots/"><u>[New] Optimal Steadicams for Professional-Grade DSLR Shoots</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-accelerating-instagram-videos-mobile-and-desktop-tips/"><u>[Updated] 2024 Approved Accelerating Instagram Videos Mobile & Desktop Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-affordable-high-definition-top-mirrorless-under-(1k/"><u>[Updated] Affordable High Definition - Top Mirrorless Under <$1K</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-secure-your-content-copyright-checks-before-tiktok-sharing-for-2024/"><u>[Updated] Secure Your Content Copyright Checks Before TikTok Sharing for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/all-about-the-apple-watch-se-top-features-for-less-money/"><u>All About the Apple Watch SE – Top Features for Less Money</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/audio-library-accessibility-the-ultimate-audible-benefits-guide/"><u>Audio Library Accessibility: The Ultimate Audible Benefits Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creative-labs-sound-blaster-zxr-the-definitive-flagship-of-2013-headsets-review/"><u>Creative Labs Sound Blaster ZxR: The Definitive Flagship of 2013 Headsets Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-next-level-of-portable-productivity-with-the-newly-launched-samsung-galaxy-chromebook-n-a-thorough-review/"><u>Evaluating the Next Level of Portable Productivity with the Newly Launched Samsung Galaxy Chromebook N – A Thorough Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-performance-of-googles-telephony-offerings/"><u>Evaluating the Performance of Google’s Telephony Offerings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-enhanced-browsing-bings-ai-driven-search-on-mobile/"><u>Experience Enhanced Browsing: Bing's AI-Driven Search on Mobile</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-rca-video-doorbell-high-performance-camera-evaluation/"><u>Expert Analysis of the RCA Video Doorbell: High-Performance Camera Evaluation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-guide-to-online-gif-video-converters/"><u>In 2024, The Ultimate Guide to Online GIF Video Converters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-why-rings-video-doorbell-2-stands-above-the-competition/"><u>Inside Look: Why Ring's Video Doorbell 2 Stands Above the Competition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-productivity-for-free-optimal-gpt-4-usage-with-copilot-support/"><u>Maximize Your Productivity for Free - Optimal GPT-4 Usage with Copilot Support</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/score-amazing-discounts-with-these-exclusive-oneplus-prime-day-bargains/"><u>Score Amazing Discounts with These Exclusive OnePlus Prime Day Bargains!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-experts-insights-on-iphone-based-podcast-acquisition/"><u>The Expert's Insights on iPhone-Based Podcast Acquisition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-powerhouse-in-a-pocket-exploring-features-of-apples-newest-ipad-mini-5/"><u>The Powerhouse in a Pocket: Exploring Features of Apple's Newest iPad Mini 5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-top-8-windows-11-pitfalls-beginners-must-escape/"><u>The Top 8 Windows 11 Pitfalls Beginners Must Escape</u></a></li>
 </ul></div>
 

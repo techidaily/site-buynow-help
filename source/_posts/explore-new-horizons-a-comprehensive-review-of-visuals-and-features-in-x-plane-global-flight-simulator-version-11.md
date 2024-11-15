@@ -1,7 +1,7 @@
 ---
 title: Explore New Horizons - A Comprehensive Review of Visuals & Features in X-Plane Global Flight Simulator Version 11
-date: 2024-08-27T06:34:19.847Z
-updated: 2024-08-28T06:34:19.847Z
+date: 2024-11-07T20:55:29.006Z
+updated: 2024-11-15T04:32:48.070Z
 categories:
   - BestProducts
 description: This Article Describes Explore New Horizons - A Comprehensive Review of Visuals & Features in X-Plane Global Flight Simulator Version 11
@@ -13,14 +13,8 @@ thumbnail: https://www.lifewire.com/thmb/MBcm7iL0UxUxBoeT9Kt0_tihqzQ=/400x300/fi
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## X-Plane 11 Global Flight Simulator
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/6zqUG0dXodiu77fxFaPt_4CTLHM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_HeroSquare-05bcd9665c244e8591478794f6732934.jpg)
 
 Lifewire / Zach Sweat
@@ -45,10 +39,14 @@ Lifewire / Zach Sweat
 
 ## X-Plane 11 Global Flight Simulator
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/8OsXHzWBVNEzvelLnfybKyzm3bk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_HeroSquare-05bcd9665c244e8591478794f6732934.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Zach Sweat
 
@@ -76,6 +74,13 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Preflight checklist**
 
  Currently, the game is available to be purchased from a number of online retailers in either disc or digital download format. We opted to go the old-school route and purchased the game in a pack of discs, so we’ll cover this option, but if you want to grab the software online, the steps are mostly the same (even simpler).
@@ -94,16 +99,10 @@ Lifewire / Zach Sweat
 
  Once you’ve got it hooked up, Windows should recognize the device and download the necessary drivers. When those have completed installing, you should be able to see the HOTAS connected in X-Plane 11 under the control settings. You’ll also be able to fine-tune things based on your preference from there.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/O9MXEQGpCTKXA5qNcF6nXai8L2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_03-90ad9c4205af48bcbd8fcc163c630a5a.jpg)
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Gameplay: As close as you can get to flying a plane in your home**
 
  Booting up X-Plane 11, you’re greeted with a host of available options to choose from before your flight. While not nearly as deep as FSX, there are a lot of things you can pick between. If you’re just getting started, the Flight School will teach you the basics of flight in the game and allow you to get acclimated. If you’re not a newcomer, however, you can jump straight into the plane and environment of your choosing.
@@ -119,6 +118,13 @@ Lifewire / Zach Sweat
  While testing out X-Plane 11, we did experience some issues, but more so in the graphics department than the gameplay itself, which we’ll touch on in the next section.
 
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/GF7rAjDnQ1m4Lngb7N3ShcMRA6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_05-4039c04a1e16492e8b1c6024167e28f8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -142,10 +148,14 @@ Lifewire / Zach Sweat
 
  Lastly, we do recommend running the game on an SSD if you can, as HDDs are known to create annoying pop-ins while loading landscapes during flights.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![X-Plane 11 Global Flight Simulator](https://www.lifewire.com/thmb/vw51Z13aohls1Ebaej2J6l1z-0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW840502X-Plane11FlightSim_02-ae4e2d16b4db412aaa3e933fd3dfc7ab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -160,8 +170,18 @@ Lifewire / Zach Sweat
  One nice feature with X-Plane is that you do have the option to install mods. These free packs of user-generated content can really spice things up by providing custom aircraft and environments if you’re looking to add content without adding more money. They aren’t as numerous as the mod options for FSX, but they’re there if you want them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **X-Plane 11 Global Flight Simulator vs. Microsoft Flight Simulator X**
 
  Comparing a classic staple in flight simulators like FSX to a more modern one like X-Plane 11 might feel a bit strange, but these two games are the most popular around even today. Given that FSX is about a decade older than X-Plane 11, you’ll need to understand that there are some big differences in terms of modernization between the two.
@@ -198,14 +218,11 @@ Lifewire / Zach Sweat
 * Genre  Simulator
 * ESRB rating  E
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,4 +231,22 @@ Lifewire / Zach Sweat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/evenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[New] Revenue Revolution Leveraging the YouTube Premium Opportunity</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-youtube-livestreaming-screen-recorders/"><u>[Updated] In 2024, Best YouTube Livestreaming Screen Recorders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-is-image-stabilization-a-feature-worth-your-time/"><u>[Updated] In 2024, Is Image Stabilization a Feature Worth Your Time?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-bulk-lowering-your-cpu-use-for-smoother-zooms-top-tips/"><u>Beat the Bulk: Lowering Your CPU Use for Smoother Zooms – Top Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-and-effective-morning-aid-totobay-wake-up-light-2nd-generation-reviewed/"><u>Budget Friendly and Effective Morning Aid: Totobay Wake-Up Light (2Nd Generation) Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-pioneer-bdr-xd05b-blu-ray-burner-uncovering-potential-drawbacks/"><u>Comprehensive Analysis of the Pioneer BDR-XD05B Blu-Ray Burner: Uncovering Potential Drawbacks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-note-12-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi Note 12 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-12-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme 12 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-apple-laptops-how-does-the-macbook-air-differ-from-the-pro/"><u>Navigating Apple Laptops: How Does the MacBook Air Differ From the Pro?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nokia-72-showdown-top-performances-and-why-it-deserves-a-spot-on-your-radar/"><u>Nokia 7.2 Showdown: Top Performances and Why It Deserves a Spot on Your Radar</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/perfecting-the-art-of-twitter-broadcasts-for-2024/"><u>Perfecting the Art of Twitter Broadcasts for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revamp-your-drive-with-the-lihan-bluetooth-transmitter-an-in-depth-lhfm1039-assessment/"><u>Revamp Your Drive with the LIHAN Bluetooth Transmitter - An In-Depth LHFM1039 Assessment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-complete-guide-to-facebooks-live-feature-how-to-and-best-practices/"><u>The Complete Guide to Facebook's Live Feature How-To & Best Practices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-cell-phone-signal-amplifiers-enhancing-your-connectivity/"><u>Top-Rated Cell Phone Signal Amplifiers : Enhancing Your Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/yokus-island-escapade-critique-where-grand-tales-unexpectedly-take-shape/"><u>Yoku's Island Escapade Critique: Where Grand Tales Unexpectedly Take Shape</u></a></li>
+</ul></div>
 

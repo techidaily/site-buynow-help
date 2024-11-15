@@ -1,7 +1,7 @@
 ---
 title: "Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure"
-date: 2024-10-28T04:45:31.035Z
-updated: 2024-10-30T07:06:07.576Z
+date: 2024-11-10T16:21:49.455Z
+updated: 2024-11-15T04:50:00.384Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
  You can now turn your iPhone into a retro gaming machine, no jailbreak required. But just because you can, doesn’t necessarily mean you should. Here’s what I’ve learned so far.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Emulators on _My_ iPhone?
@@ -52,14 +52,14 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
 ![Brain Age for Nintendo DS running on an iPhone with Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/brain_age_delta.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Emulation is powered by well-known cores like [Snes9x](https://github.com/snes9xgit/snes9x) and [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), open-source projects that ensure excellent compatibility with game libraries. The experience may not be pixel-perfect (you’ll need original hardware or an [FPGA-based device like the MiSTeR for that](https://visual-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-captures-top-10-online-video-recorders/)), but with an emulator like Delta you get bonuses like save states, fast forward, and the ability to use cheat codes if you want.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The iPhone Is the Worst Part
 
@@ -83,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
  The good news is that you’ll be playing in no time if you have a collection of ROMs stored in the cloud, and Delta even comes with a feature called Delta Sync which not only syncs ROMs but also save files, save states, cheat codes, and controller mappings between devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Improving Your Experience
 
  Arguably the biggest improvement you can make to your iPhone emulator experience is to add a physical controller. You can pair most Bluetooth controllers with your iPhone including Xbox, PlayStation, and [purpose-built retro efforts](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-by-drfone-ios/) from the likes of 8bitdo.
@@ -90,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
  But the form factor still leaves a lot to be desired. Even with a clip that [attaches to your iPhone to your controller](https://fox-boxes.techidaily.com/updated-2024-approved-masterful-viewing-for-artists-best-monitor-guide/), the weight distribution can make things feel unwieldy. You’re much better off mimicking the Nintendo Switch form factor and buying a controller like the [Backbone](https://playbackbone.com) or [Razer Kishi](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2002862&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fmobile-controllers%2Frazer-kishi) instead. Apple recently switched its iPhone range to USB-C, so make sure you buy the right controller for the job.
 
 ![Backbone One with no phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/backbone-one-no-phone.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
@@ -115,10 +115,10 @@ Jason Montoya / How-To Geek
  Now whenever you open Delta, you’ll see a notification to let you know that the “Gaming” Focus has been enabled. When you close the app, Gaming will be disabled. This can massively cut down the number of notifications and unwanted communication you receive when you’re playing games.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatively, Buy a Handheld PC (Like the Steam Deck)
@@ -126,19 +126,6 @@ Jason Montoya / How-To Geek
  The [Steam Deck](https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual/) might just be the best handheld emulator on the market, and it can play a huge number of modern Steam games too. You might not consider buying a Steam Deck purely for emulation purposes, but the dedicated form factor, excellent ergonomics, and always-improving software support make it a compelling choice.
 
 ![A Steam Deck with a low-profile keyboard in front of it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/here-s-how-to-pick-a-keyboard-for-your-steam-deck.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Goran Damnjanovic / How-To Geek
 
@@ -149,6 +136,13 @@ Goran Damnjanovic / How-To Geek
  You have other options like the [ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), but these Windows-based machines are all more expensive than Valve’s handheld. They can use the full gamut of emulators available for the Windows platform, but buying a handheld like this purely for emulation purposes feels like overkill.
 
  There are also [portable retro handhelds from Retroid and Anbernic](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/). These devices are inexpensive and come in all manner of form factors, without relying on touchscreen controls. Just make sure you [avoid the cheapest, nastiest knock-offs](https://screen-recording.techidaily.com/updated-2024-approved-top-tier-tools-transforming-remote-discussions/).
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Give It a Try
 
@@ -171,21 +165,20 @@ Goran Damnjanovic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-effortless-glamour-examples/"><u>[New] 2024 Approved Effortless Glamour Examples</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-navigating-through-excellent-alternatives-to-gopro-cams/"><u>[New] 2024 Approved Navigating Through Excellent Alternatives to GoPro Cams</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-synchronized-device-tutorial-for-efficient-movie-logging-for-2024/"><u>[New] Synchronized Device Tutorial for Efficient Movie Logging for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-an-all-inclusive-examination-of-inshots-video-edits/"><u>[Updated] An All-Inclusive Examination of InShot's Video Edits</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/applecareplus-evaluation-is-extra-device-protection-worth-the-price-tag/"><u>AppleCare+ Evaluation: Is Extra Device Protection Worth the Price Tag?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comment-telecharger-et-utiliser-makemkv-gratuit-sur-mac-pour-extraire-des-films-en-hd/"><u>Comment Télécharger Et Utiliser MakeMKV Gratuit Sur Mac Pour Extraire Des Films en HD</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-ergohead-anti-fatigue-mat-assessment-for-extended-standing-workstations/"><u>Comprehensive Ergohead Anti Fatigue Mat Assessment for Extended Standing Workstations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-gigglegenius-funniest-memes-await/"><u>In 2024, GiggleGenius Funniest Memes Await</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nhl-19-gaming-experience-evaluation-exceptional-virtual-matches/"><u>NHL '19 Gaming Experience Evaluation: Exceptional Virtual Matches</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/pixel-perfect-memes-with-kinemaster/"><u>Pixel Perfect Memes with KineMaster</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/say-goodbye-to-wi-fi-problem-areas-with-a-comprehensive-review-of-the-amplifi-hd-mesh-system/"><u>Say Goodbye to Wi-Fi Problem Areas with a Comprehensive Review of the Amplifi HD Mesh System</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-discreet-and-dependable-dashcam-the-rexing-v1-reviewed/"><u>The Ultimate Guide to Choosing a Discreet and Dependable DashCam - The Rexing V1 Reviewed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-3-best-free-windows-10-dvd-players-read-all-your-discs-effortlessly/"><u>Top 3 Best Free Windows 10 DVD Players : Read All Your Discs Effortlessly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-key-finder-devices/"><u>Top Rated Key Finder Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlock-extra-memory-in-ps3-with-a-new-hard-drive/"><u>Unlock Extra Memory in PS3 with a New Hard Drive</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-complete-course-on-managing-and-editing-srt-on-mac/"><u>[New] 2024 Approved A Complete Course on Managing and Editing SRT on Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-brainless-beats-continue-selecting-top-8-zombie-masterpieces/"><u>[New] 2024 Approved Brainless Beats Continue Selecting Top 8 Zombie Masterpieces</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-expert-strategies-for-seamless-green-screening-in-kinemaster-for-2024/"><u>[Updated] Expert Strategies for Seamless Green Screening in KineMaster for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-captivating-audience-with-these-innovative-videos/"><u>2024 Approved Captivating Audience with These Innovative Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-dachat-de-votre-collection-dvd-sur-le-nuage-amazon-toutes-les-etapes-detaillees/"><u>Guide D'achat De Votre Collection DVD Sur Le Nuage Amazon : Toutes Les Étapes Détaillées</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-6-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/master-your-tasks-on-the-102-inch-apple-ipad-7th-generation-how-ipados-revolutionizes-efficiency-and-creativity/"><u>Master Your Tasks on the 10.2-Inch Apple iPad (7Th Generation): How IPadOS Revolutionizes Efficiency and Creativity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/miniature-powerhouses-discover-the-leading-gaming-mini-pcs/"><u>Miniature Powerhouses: Discover the Leading Gaming Mini PCs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/must-haves-in-a-high-performance-gaming-device/"><u>Must-Haves in a High-Performance Gaming Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/narrative-analysis-torment-where-science-meets-fantasy-in-a-world-building-masterpiece/"><u>Narrative Analysis: Torment - Where Science Meets Fantasy in a World Building Masterpiece</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-2024s-top-handheld-gaming-platforms-for-enthusiasts/"><u>Navigating 2024'S Top Handheld Gaming Platforms for Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/optimizing-ps3-swapping-for-bigger-hdd/"><u>Optimizing PS3: Swapping for Bigger HDD</u></a></li>
+<li><a href="https://video-capture.techidaily.com/outstanding-5-streamer-gadgets-online-for-2024/"><u>Outstanding 5 Streamer Gadgets Online for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/register-now-navigate-through-microsofts-ai-integrated-bing-search-platform-easily/"><u>Register Now: Navigate Through Microsoft's AI Integrated Bing Search Platform Easily</u></a></li>
 </ul></div>
 

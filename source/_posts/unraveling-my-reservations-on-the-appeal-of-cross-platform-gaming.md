@@ -1,7 +1,7 @@
 ---
 title: Unraveling My Reservations on the Appeal of Cross-Platform Gaming
-date: 2024-10-17T22:10:22.549Z
-updated: 2024-10-24T07:56:22.515Z
+date: 2024-11-09T21:44:43.708Z
+updated: 2024-11-14T20:34:33.039Z
 tags:
   - games
   - tv
@@ -30,10 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Controller Mis-Matching and Aim Assist
@@ -49,10 +49,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  A few games offer "controller matching" to avoid this issue, allowing players to match with other players who are using the same hardware. This would be a better feature if more games included it, but sadly, it's not seen on a lot of cross-platform titles. This is only an issue when you're playing competitive PVP titles, however. Co-op titles don't need any adjusting for this metric.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Mouse-and-Keyboard vs. Controller War
@@ -75,6 +75,13 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
 ![A Razer Firefly V2 Pro gaming mouse on a light-up mouse pad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/gaming-mouse-on-therazer-firefly-v2-pro_53678776130_o.jpg) 
@@ -88,28 +95,21 @@ Jerome Thomas / How-To Geek
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  A Few Other Considerations
 
 ![Several electronic devices sharing the same screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/cross-platform-computer-smartphone-gaming.png) 
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-illustration-on-theme-cross-platform-1335072044)_
 
@@ -140,19 +140,17 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagram-stories-step-by-step-recording-guide/"><u>[Updated] 2024 Approved Mastering Instagram Stories Step-by-Step Recording Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-toddler-tycoon-ryan-kaji-and-the-wealthy-web-world/"><u>[Updated] 2024 Approved Toddler Tycoon Ryan Kaji and the Wealthy Web World</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expertise-unlocked-in-depth-tutorial-for-apples-screen-recording-techniques/"><u>[Updated] In 2024, Expertise Unlocked In-Depth Tutorial for Apple's Screen Recording Techniques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/digital-diaries-of-daily-displays-fb-live-downloads/"><u>Digital Diaries of Daily Displays FB Live Downloads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-new-features-in-chatgpt-top-additions-you-should-know-about/"><u>Explore New Features in ChatGPT: Top Additions You Should Know About</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/infinite-screen-shot-device/"><u>Infinite Screen Shot Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/join-baldurs-gate-3-adventures-voiced-by-sir-david-attenborough-brought-to-life-through-ai-voice-mod-innovation/"><u>Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/latest-update-paramountplus-begins-phasing-out-selected-shows-and-movies/"><u>Latest Update: Paramount+ Begins Phasing Out Selected Shows and Movies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-3d-printing-at-home-the-ultimate-strategy-for-your-domestic-workshop/"><u>Mastering 3D Printing at Home - The Ultimate Strategy for Your Domestic Workshop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-retro-gaming-a-step-by-step-guide-to-enjoying-dosbox-classics-on-your-ipad/"><u>Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-the-playstation-5-controller-connection-in-windows-11-a-comprehensive-guide/"><u>Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-voice-chat-a-step-by-step-guide-to-using-discord-with-your-playstation-5/"><u>Mastering Voice Chat: A Step-by-Step Guide to Using Discord with Your PlayStation 5</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/optimizing-screencapture-techniques-for-maximum-results-for-2024/"><u>Optimizing ScreenCapture Techniques for Maximum Results for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/pioneering-techniques-in-documentary-scripting/"><u>Pioneering Techniques in Documentary Scripting</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-cut-costs-gain-space-the-best-compiled-list-of-20-free-cloud-storages-1tbplus/"><u>[New] 2024 Approved Cut Costs, Gain Space The Best Compiled List of 20 Free Cloud Storages (1TB+)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-best-conversion-techniques-youtube-to-mpeg-encoding-for-2024/"><u>[New] Best Conversion Techniques YouTube to MPEG Encoding for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-ten-dos-and-donts-in-the-youtube-world/"><u>[New] In 2024, Top Ten Do's and Don'ts in the YouTube World</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-steps-for-skype-capture-via-obs/"><u>[Updated] Essential Steps for Skype Capture via OBS</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effektive-wege-um-wbadmin-fur-backups-und-wiederherstellungen-unter-windows-server-2016-zu-verwenden/"><u>Effektive Wege, Um Wbadmin Für Backups Und Wiederherstellungen Unter Windows Server 2016 Zu Verwenden</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kensun-tire-inflator-assessment-durable-trustworthy-and-easy-to-carry/"><u>Kensun Tire Inflator Assessment: Durable, Trustworthy & Easy-to-Carry</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-home-meteorological-devices-reviewed-2024-edition/"><u>Leading Home Meteorological Devices Reviewed: 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maisto-rc-rock-crawler-evaluation-perfect-family-entertainment-in-a-remote-control-car-package/"><u>Maisto RC Rock Crawler Evaluation: Perfect Family Entertainment in a Remote Control Car Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-elegance-with-technology-inside-look-at-the-michael-kors-access-gen-5e-collection/"><u>Mastering Elegance with Technology: Inside Look at the Michael Kors Access Gen 5E Collection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-gaming-with-the-asus-rt-ac88u-is-this-router-a-game-changer-or-just-hype/"><u>Mastering Gaming with the Asus RT-AC88U – Is This Router a Game-Changer or Just Hype?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/multiple-youtube-channels-is-it-possible-to-manage-several-on-the-platform/"><u>Multiple YouTube Channels: Is It Possible To Manage Several On The Platform?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/xiaomis-budget-gaming-masterpiece-the-34-180hz-display-with-exceptional-color-and-contrast-unveiled-in-comprehensive-reveiw/"><u>Xiaomi's Budget Gaming Masterpiece: The 34 180Hz Display with Exceptional Color & Contrast Unveiled in Comprehensive Reveiw</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad"
-date: 2024-11-02T23:12:41.096Z
-updated: 2024-11-04T23:26:51.988Z
+date: 2024-11-13T07:35:13.859Z
+updated: 2024-11-15T00:06:12.292Z
 tags:
   - games
   - tv
@@ -34,9 +34,23 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The context menu to show the contents of a macOS app package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-12-46-23-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this case the .exe file was in Content > Resources > Game, so I copied the entire contents of the "game" folder to my iPad in a folder named "Jazz."
 
  As to how you can get the files on your iPad, the options are endless. You can AirDrop it from your Mac, transfer the files using a USB flash drive, email them to yourself, use iCloud. It doesn't matter where you choose to save the game files, as long as you remember it for later.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Running Your Game
 
@@ -48,15 +62,22 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The floppy drive menu in iDOS 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-floppy-drive-menu-in-idos-3.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now navigate to the folder where you saved your DOS game files, and select "Open."
 
 ![The iDOS 3 file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-file-browser.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll see a message that the game folder has been mounted as a virtual drive in iDOS. So next we want to change to that drive. Type "D:" using the on-screen keyboard and then tap on the Enter button.
@@ -67,15 +88,22 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 interface with the name of the executable file ready to run](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-interface-with-the-name-of-the-executable-file-ready-to-run.PNG) 
 
- Now the game is running, but how to control it?
-
-![Jazz Jackrabbit running on iDOS 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/jazz-jackrabbit-running-on-idos-3.PNG) 
-
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
   <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Now the game is running, but how to control it?
+
+![Jazz Jackrabbit running on iDOS 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/jazz-jackrabbit-running-on-idos-3.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In portrait mode, you can use the virtual keyboard to control your game, and if you tap the little gamepad button you'll have an on-screen gamepad with buttons that are bound to certain keyboard keys.
@@ -85,19 +113,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  If you put the iPad into landscape mode, you'll see a little bar with options pop up at the top.
 
 ![The iDOS 3 quick bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar.PNG) 
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use the little pin icon to make it stay, but you can just tap the top edge of the screen to make it appear. Here you can tap on buttons to see a virtual mouse, keyboard, or gamepad appear on-screen.
 
@@ -109,29 +124,9 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 quick bar with blutooth icon highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar-with-blutooth-icon-highlighted.PNG) 
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hold the button on the controller you want to rebind, and then press the corresponding key on the virtual keyboard.
 
 ![The iDOS 3 gamepad configuration screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-gamepad-configuration-screen.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some DOS games supported joysticks or gamepads, and if you want to use your gamepad as a true controller with these games, tap on the settings gear in the iDOS 3 quick bar and choose "Settings."
 
@@ -140,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  Then under "optional inputs" enable the gamepad option. Just remember that you'll have to set up the joystick or gamepad in the game itself, since back then games calibrated these peripherals on an individual basis.
 
 ![The iDOS 3 optional input settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-optional-input-settings.PNG) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Personally, I wouldn't bother with this most of the time, since there was rarely any sort of analog joystick control in old DOS games, but it's great to have the option nonetheless.
 
@@ -167,22 +155,19 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-access-all-shows-seamless-apods-installation-tips/"><u>[New] Access All Shows Seamless APods Installation Tips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-harnessing-iphone-downloads-top-podcast-strategies/"><u>[New] In 2024, Harnessing iPhone Downloads Top Podcast Strategies</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-efficient-video-storing-in-google-chat/"><u>[Updated] 2024 Approved Efficient Video Storing in Google Chat</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-chuckles-on-a-budget-memetic-creators-guide/"><u>[Updated] Unlocking Chuckles on a Budget - Memetic Creator’s Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-controlling-bitrate-overload-in-obs/"><u>2024 Approved Controlling Bitrate Overload in OBS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-optimize-your-video-conferencing-experience-with-zoom-and-win10/"><u>2024 Approved Optimize Your Video Conferencing Experience with Zoom & Win10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dissecting-the-knack-how-one-distinctive-hero-transforms-a-conventional-gaming-experience/"><u>Dissecting 'The Knack': How One Distinctive Hero Transforms a Conventional Gaming Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expand-your-networks-horizon-with-the-netgear-ex3700-ac750-range-extender-a-detailed-user-guide-and-assessment/"><u>Expand Your Network's Horizon with the Netgear EX3700 (AC750) Range Extender - A Detailed User Guide and Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-the-epitome-of-fantasy-gaming-a-review-of-the-remastered-demons-souls-graphics/"><u>Experience the Epitome of Fantasy Gaming: A Review of the Remastered Demon's Souls Graphics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-viber-out-calling-app-performance-and-reviews/"><u>Expert Insights on Viber Out Calling App Performance & Reviews</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-compact-prowess-of-apples-ipad-mini-model-5/"><u>Expert Review on the Compact Prowess of Apple's iPad Mini Model 5</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-value-of-ambients-ws-290n-ambiant-weather-station-a-budget-friendly-review/"><u>Exploring the Value of Ambient's WS-290n Ambiant Weather Station: A Budget Friendly Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/get-insightful-reviews-on-the-nokia-71-premium-screen-camera-quality-and-cost-effectiveness/"><u>Get Insightful Reviews on the Nokia 7.1 - Premium Screen, Camera Quality and Cost Effectiveness</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-make-a-tiktok-outro-for-2024/"><u>How To Make A Tiktok Outro for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-render-and-upload-youtube-videos-faster-in-2024/"><u>How to Render and Upload YouTube Videos Faster, In 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-genius-widecam-f100-understanding-its-blurry-images-and-reverberant-audio/"><u>In-Depth Analysis of Genius WideCam F100: Understanding Its Blurry Images & Reverberant Audio</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-process-of-converting-vob-videos-to-mp4-effective-solutions-for-windows-1011-and-macos-systems/"><u>Step-by-Step Process of Converting VOB Videos to MP4: Effective Solutions for Windows 10/11 & macOS Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-big-sur-readiness-system-and-hardware-guide/"><u>[New] 2024 Approved Big Sur Readiness System & Hardware Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/s-it-prohibited-to-save-youtube-footage/"><u>[New] Is It Prohibited to Save YouTube Footage?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-creative-expression-master-device-based-filters-and-effects/"><u>[New] Unlock Creative Expression Master Device-Based Filters and Effects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-interactive-events-recorder-yearly-edition/"><u>[Updated] In 2024, Interactive Events Recorder - Yearly Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-and-functional-fitbit-versa-smartwatch-review/"><u>Affordable and Functional Fitbit Versa Smartwatch Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-and-efficient-ourlink-u631-wireless-usb-wi-fi-adapter-top-rated-performance/"><u>Compact & Efficient Ourlink U631 Wireless USB Wi-Fi Adapter - Top Rated Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-the-benefits-and-features-of-linksyss-wrt1900acs-open-source-router-unveiled/"><u>Comprehensive Assessment: The Benefits & Features of Linksys's WRT1900ACS Open Source Router Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-ipad-vs-kindle-vs-nook-which-tablet-readers-reign-supreme/"><u>Comprehensive Review: IPad Vs. Kindle Vs. Nook - Which Tablet Readers Reign Supreme?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deciding-between-echo-dot-and-homepod-mini-heres-how-they-stack-up/"><u>Deciding Between Echo Dot and HomePod Mini? Here's How They Stack Up</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-critique-how-does-the-acer-chromebook-15s-big-screen-stack-up/"><u>Detailed Critique: How Does the Acer Chromebook 15'S Big Screen Stack Up?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptclosedqs-reopening-schedule-pursuit/"><u>GPTClosedQs: Reopening Schedule Pursuit</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maintain-uninterrupted-youtube-experience-on-phones/"><u>Maintain Uninterrupted YouTube Experience on Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/record-whole-page-visuals-for-2024/"><u>Record Whole Page Visuals for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-video-editing-on-mac-os-x-yosemite-for-beginners-for-2024/"><u>Unleash Your Creativity Video Editing on Mac OS X Yosemite for Beginners for 2024</u></a></li>
 </ul></div>
 

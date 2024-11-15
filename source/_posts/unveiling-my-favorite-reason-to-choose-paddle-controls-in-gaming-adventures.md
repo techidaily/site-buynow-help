@@ -1,7 +1,7 @@
 ---
 title: Unveiling My Favorite Reason to Choose Paddle Controls in Gaming Adventures
-date: 2024-10-24T22:52:30.104Z
-updated: 2024-10-30T00:26:21.909Z
+date: 2024-11-10T23:32:35.190Z
+updated: 2024-11-15T07:46:13.707Z
 tags:
   - games
   - tv
@@ -20,6 +20,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [A Paddle Controller Gives Me an Edge in Multiplayer Games](https://facebook-clips.techidaily.com/updated-in-2024-streaming-sounds-into-your-social-story-arcs/)
 * [On Steam Deck and ROG Ally, Rear Paddles Take Things to the Next Level](https://fox-links.techidaily.com/updated-in-2024-elevate-your-drone-game-with-these-top-mods/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Remap often-used and hard-to-reach controls to rear paddle buttons for easier access.
@@ -27,6 +34,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Native support for rear buttons on devices like the Steam Deck and ROG Ally allows for in-depth mapping and modifier functions.
 
  The best thing about my 8Bitdo Ultimate 2.4G controller is the pair of paddle buttons on the back. Add to that the fact that both my Steam Deck and ROG Ally come with paddle buttons and I’ve gotten so used to this setup that I don’t want to game with an old-fashioned controller anymore.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Controls Hard to Reach? Remap to a Rear Paddle
 
@@ -37,10 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Steam Deck OLED With a Focus on the new, orange, power button against a pitch black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/steam-deck-oled-power-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Valve
@@ -48,6 +62,13 @@ Valve
  This was around the time I purchased a Steam Deck, which has _four_ paddle buttons. So, naturally, I started mapping bumpers to the paddles in most games, especially those that have moves you often use mapped to one or both triggers. Since then, I've never looked back.
 
  Considering that I have medium-sized hands, I found that using paddles is much more convenient than having to reach for bumpers. Nowadays, I use paddles instead of bumpers in most games I play. If you have small hands, I reckon back paddles could massively improve your gaming experience, especially on devices like the Steam Deck, which is not very friendly to gamers with small hands.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Rear Paddles Make Some Control Schemes Easier to Use
 
@@ -57,25 +78,11 @@ Valve
 
 ![rear-of-the-asus-rog-ally-3jpg_53307363035_o](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/rear-of-the-asus-rog-ally-3jpg_53307363035_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  The solution is to remap L3 and R3 to the paddles, and the result is glorious. I can’t explain just how delightful it is not to have to press and hold the thumbsticks and instead use easy-to-reach and easy-to-press paddle buttons. Because of this, I even forgo using one of the two paddle buttons on my ROG Ally as a modifier in _Everspace 2_.
 
  Paddle buttons also allowed me to finally try playing racing games with manual transmission. I just can’t bother using manual on a regular controller because it’s either mapped to the bumpers, which are hard to reach, or face buttons, which leads to me pressing the wrong button in tense moments. Now, I can finally enjoy driving cars with manual shifting without needing a wheel, which is great considering [I much prefer gaming on my handhelds](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) than on my PC.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  A Paddle Controller Gives Me an Edge in Multiplayer Games
 
@@ -92,13 +99,6 @@ Hannah Stryker / How-To Geek
  This is super cool to have in RPGs where I can map the usual keys used for opening the map, inventory, and quest journal to the face buttons and get a PC-like RPG gaming experience. Better yet, I can also map quicksave and quickload as secondary functions. This allowed me to play _Mass Effect_ as I would on a PC without going to the pause menu every five minutes to open the map or create a quick save.
 
 ![Sony's DualSense Edge controller rear paddles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dualsense_paddles.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sony
 
@@ -123,17 +123,21 @@ Sony
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>[New] In 2024, Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-between-tech-giants-why-fitbit-sense-takes-on-the-apple-watch-for-holistic-health-management/"><u>Choosing Between Tech Giants: Why Fitbit Sense Takes on the Apple Watch for Holistic Health Management</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-royal-match-what-are-the-number-of-tiers-involved/"><u>Demystifying Royal Match: What Are The Number Of Tiers Involved?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-fongos-canadian-ip-telephony-services/"><u>Expert Analysis of Fongo's Canadian IP Telephony Services</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-huawei-nova-y71-phone-by-drfone-android/"><u>How to Unlock a Network Locked Huawei Nova Y71 Phone?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-mastering-quick-face-blurring-on-picscroller/"><u>In 2024, Mastering Quick Face-Blurring on PicScroller</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-instagrams-video-upload-feature/"><u>In 2024, Unlocking Instagram's Video Upload Feature</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/storage-solutions-to-keep-you-connected/"><u>Storage Solutions to Keep You Connected</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-apex-of-wireless-connectivity-premier-mesh-wi-fi-options/"><u>The Apex of Wireless Connectivity: Premier Mesh Wi-Fi Options</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-blend-of-beauty-and-practicality-in-modern-computing-a-review-of-the-newly-released-dell-xps-13-7390-2-in-1-ultrabook/"><u>The Blend of Beauty and Practicality in Modern Computing – A Review of the Newly Released Dell XPS 13 (7390) 2-in-1 Ultrabook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-can-you-view-all-shared-videos-and-photos-on-messenger/"><u>[New] In 2024, How Can You View All Shared Videos And Photos on Messenger?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-streamline-game-saves-mastering-fbx-recording/"><u>[Updated] 2024 Approved Streamline Game Saves Mastering FBX Recording</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-harmonizing-content-with-ig-beats-for-2024/"><u>[Updated] Harmonizing Content with IG Beats for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-gaming-hub-vs-content-creators-haven-twitch-and-youtube-compared/"><u>2024 Approved The Gaming Hub vs Content Creator's Haven Twitch & YouTube Compared</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199704023-breeze-through-any-hidclasssys-complications-quick-fixes-at-hand/"><u>Breeze Through Any HIDCLASS.SYS Complications - Quick Fixes at Hand</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-battery-life-with-a-larger-battery-capacity-than-its-predecessor-users-can-expect-improved-battery-life-for-day-to-day-use/"><u>Enhanced Battery Life: With a Larger Battery Capacity than Its Predecessor, Users Can Expect Improved Battery Life for Day-to-Day Use.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-lg-k92s-5g-feature-a-step-too-far-or-innovative-leap-forward/"><u>Evaluating LG K92's 5G Feature: A Step Too Far or Innovative Leap Forward?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-sony-xperia-5-stylish-slimmer-and-costly-features-unveiled/"><u>Evaluating the Sony Xperia 5: Stylish, Slimmer, and Costly Features Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-long-lasting-power-with-our-test-on-the-27000mah-chargetech-bank/"><u>Experience Long-Lasting Power with Our Test on the 27000mAh ChargeTech Bank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-best-online-portals-featuring-movie-preview-highlights/"><u>Explore the Best Online Portals Featuring Movie Preview Highlights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-high-quality-video-capture-with-logitechs-premium-c920-pro-hd-webcam-a-thorough-overview/"><u>Exploring High-Quality Video Capture with Logitech's Premium C920 Pro HD Webcam - A Thorough Overview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-does-the-samsung-galaxy-s10plus-stand-against-its-successor-the-s20-insights-and-reviews/"><u>How Does the Samsung Galaxy S10+ Stand Against Its Successor, the S20? Insights and Reviews</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-twitch-not-loading-error-discover-the-best-7-fixes/"><u>How to Resolve 'Twitch Not Loading' Error? Discover the Best 7 Fixes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-webcam-tech-unveiled-best-recording-practices/"><u>In 2024, WebCam Tech Unveiled Best Recording Practices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fix-for-windows-driver-issue-code-41-error-handling/"><u>Step-by-Step Fix for Windows Driver Issue - Code 41 Error Handling</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-xbox-series-ss-digital-media-focus/"><u>The Xbox Series S's Digital Media Focus</u></a></li>
 </ul></div>
 

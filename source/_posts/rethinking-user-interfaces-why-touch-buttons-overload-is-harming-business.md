@@ -1,7 +1,7 @@
 ---
 title: "Rethinking User Interfaces: Why Touch Buttons Overload Is Harming Business"
-date: 2024-10-29T20:23:29.100Z
-updated: 2024-11-04T17:03:23.480Z
+date: 2024-11-08T19:19:25.123Z
+updated: 2024-11-14T16:25:41.702Z
 tags:
   - games
   - tv
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 * Some companies abandoned touch for physical buttons due to issues with usability over a decade ago.
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Problem With Capacitive Touch Buttons
 
@@ -48,18 +41,18 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
 
@@ -68,6 +61,13 @@ Tim Brookes / How-To Geek
  The iPhone 7 skirted many potential problems with clever use of haptic feedback and a tactile design. Muscle memory plays a big part in an established design too, since existing iPhone users already knew where the Home button was so the user experience was identical.
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -78,10 +78,10 @@ Tim Brookes / How-To Geek
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Some Manufacturers Ditched Touch for a Reason
@@ -93,16 +93,10 @@ Tim Brookes / How-To Geek
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -132,21 +126,19 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2020s-windows-updates-a-quick-overview/"><u>[New] 2020'S Windows Updates A Quick Overview</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rack-the-code-unearthing-hidden-gems-in-youtubes-archive-for-2024/"><u>[New] Crack the Code Unearthing Hidden Gems in YouTube's Archive for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-typography-online-a-curated-list-of-the-best-9-websites-for-innovative-texts/"><u>2024 Approved Pioneering Typography Online A Curated List of The Best 9 Websites for Innovative Texts</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/como-transferir-gratis-um-dvd-para-pen-drive-no-computador-tutorial-completo/"><u>Como Transferir Grátis Um DVD Para Pen Drive No Computador: Tutorial Completo</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-request-a-refund-for-a-digital-game-on-the-xbox-series-xs/"><u>How to Request a Refund for a Digital Game on the Xbox Series X|S</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-best-cameras-elevating-podcast-engagement/"><u>In 2024, Best Cameras Elevating Podcast Engagement</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-insta-vid-techniques-scaling-videos-to-perfect-size-in-fcpx/"><u>In 2024, Insta-Vid Techniques Scaling Videos to Perfect Size in FCPX</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-students-path-to-affordable-music-on-tidal-insider-tips-and-tricks/"><u>The Student's Path to Affordable Music on Tidal - Insider Tips & Tricks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-replacement-options-for-microsoft-office/"><u>Top Replacement Options for Microsoft Office</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-virtual-reality-oculus-quest-2-elite-strap-plus-battery-bundle-assessment/"><u>Unlocking the Potential of Virtual Reality: Oculus Quest ^2 Elite Strap + Battery Bundle Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-innovation-how-amazon-halo-redefines-comprehensive-health-monitoring-devices/"><u>Unveiling Innovation: How Amazon Halo Redefines Comprehensive Health Monitoring Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-linksys-max-stream-ac1e-networking-solution-ideal-for-wide-audiences/"><u>Unveiling the Linksys Max-Stream AC1e Networking Solution - Ideal for Wide Audiences</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-minds-of-tech-a-detailed-look-at-the-2019-tcl-32s325-with-roku-tv/"><u>Unveiling the Minds of Tech: A Detailed Look at the 2019 TCL 32S325 with Roku TV</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-of-netgears-ex3700-wi-fi-range-extender-ac750-a-detailed-review/"><u>Unveiling the Performance of Netgear's EX3700 Wi-Fi Range Extender (AC750) - A Detailed Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-a-closer-look-at-the-samsung-galaxy-s2-impressions/"><u>Unveiling the Potential: A Closer Look at the Samsung Galaxy S2# Impressions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/windows-fehlercode-0x80070005-losung-mit-visuellen-beispielen/"><u>Windows Fehlercode 0X80070005 - Lösung Mit Visuellen Beispielen</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s17t-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-revitalize-your-lagging-iphone-a-guide-to-diagnosing-and-remedying-the-issues/"><u>How To Revitalize Your Lagging iPhone: A Guide to Diagnosing And Remedying The Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-live-feed-frames/"><u>In 2024, Excellent Live Feed Frames</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-power-your-day-with-essential-windows-10-hacks/"><u>In 2024, Power Your Day with Essential Windows 10 Hacks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/quick-tips-efficiently-post-videos-on-igtv-for-2024/"><u>Quick Tips Efficiently Post Videos on IGTV for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-z-flip-5-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy Z Flip 5 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-top-advice-on-securely-erasing-your-digital-footprint/"><u>Stellar's Top Advice on Securely Erasing Your Digital Footprint</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-inexpensive-cams/"><u>The Ultimate Guide to Inexpensive Cams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-holy-stone-predator-mini-rc-helicopter-hs170-on-a-budget-reviewers-insight/"><u>The Ultimate Guide to the Holy Stone Predator Mini RC Helicopter (HS170) on a Budget – Reviewer's Insight!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-how-the-clearstream-2v-indooroutdoor-hdtv-antenna-delivers-excellent-performance-in-an-attractive-package/"><u>The Ultimate Review: How the ClearStream 2V Indoor/Outdoor HDTV Antenna Delivers Excellent Performance in an Attractive Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-best-ergonomic-keyboard-wrist-pads-for-optimal-typing-comfort-2024-edition/"><u>The Ultimate Selection: Best Ergonomic Keyboard Wrist Pads for Optimal Typing Comfort - 2024 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-films-with-immersive-dolby-atmos-sound-perfect-for-your-home-theater-experience/"><u>Top 15 Films with Immersive Dolby Atmos Sound: Perfect for Your Home Theater Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/twelve-south-compass-pro-evaluation-expertly-engineered-for-ultimate-precision/"><u>Twelve South Compass Pro Evaluation: Expertly Engineered for Ultimate Precision</u></a></li>
 </ul></div>
 

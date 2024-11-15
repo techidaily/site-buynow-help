@@ -1,7 +1,7 @@
 ---
 title: Microsoft Announces Closure of Xbox 360 Marketplace in Current Month
-date: 2024-10-21T09:00:39.235Z
-updated: 2024-10-24T10:52:24.980Z
+date: 2024-11-08T05:48:27.906Z
+updated: 2024-11-15T03:26:33.468Z
 tags:
   - games
   - tv
@@ -22,10 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After almost 20 years, Microsoft is officially closing the Xbox 360 storefront. After July 29, 2024, you will no longer be able to purchase games on your vintage 360\. Here’s what that means.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Xbox 360 Store Is Closing
@@ -35,10 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Used copies of Dragon's Dogma, Darksiders II, and Unreal Tournament III for Xbox 360.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/used_games.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -46,13 +46,6 @@ Tim Brookes / How-To Geek
  Microsoft’s announcement only affects the purchasing of digital titles on the Xbox 360, which means that as long as you own a game (or another item, like an add-on) you’ll still be able to download it from your Download History (under Settings > Account) after this date.
 
  Since everything was made available via the store, the shutdown will affect a huge variety of items from games and trials to add-ons, avatar items, gamerpics, trailers, and apps for non-games. In-game purchases, subscriptions, and video content in the Movies & TV app will also be pulled from sale.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Many Games Are Discounted Right Now
 
@@ -65,16 +58,16 @@ Tim Brookes / How-To Geek
 [Delisted Games](https://delistedgames.com/xbox-360-marketplace-resources/) has a list of 47 titles that never saw release anywhere else (not even the PlayStation 3), that will officially be “lost forever” on July 29\. Most of these are obscure indie titles, but there are some big names in there like _Fruit Ninja Kinect_, Xbox Live Arcade exclusive two _South Park_ games, and forgettable arcade port _Double Dragon II: Wander of the Dragons_.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Online Play and Updates Are Unaffected
@@ -84,6 +77,13 @@ Tim Brookes / How-To Geek
  Xbox Live will also still be active, so you can play online for as long as the servers for your chosen games are still up.
 
 ![Xbox Live Gold vs Game Pass Core compared.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-04-at-10-39-08.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Xbox
 
@@ -110,20 +110,22 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-empowering-visual-communication-integrating-s2t-into-your-powerpoint/"><u>[New] 2024 Approved Empowering Visual Communication Integrating S2T Into Your Powerpoint</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhancing-social-media-visibility-with-quality-livestreams-on-wirecast/"><u>[New] 2024 Approved Enhancing Social Media Visibility with Quality Livestreams on Wirecast</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-10plus-best-online-screen-recorders/"><u>[New] Top 10+ Best Online Screen Recorders</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-transform-your-tone-and-texture-with-easy-snapchat-voice-tweaks-for-2024/"><u>[New] Transform Your Tone and Texture with Easy Snapchat Voice Tweaks for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-beam-your-best-selecting-the-stirring-photos-on-instagram/"><u>[Updated] Beam Your Best Selecting the Stirring Photos on Instagram</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-hot-30-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Hot 30 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-motorola-moto-g04-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Motorola Moto G04 Data? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-titles-essential-hd-video-playback-tools-freepaid/"><u>In 2024, Top Titles Essential HD Video Playback Tools (Free/Paid)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reliving-pixelated-nostalgia-lessons-and-fun-from-an-iphone-powered-emulation-adventure/"><u>Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reviving-the-random-joy-of-tv-a-guide-to-replicating-netflixs-missing-shuffle-feature/"><u>Reviving the Random Joy of TV: A Guide to Replicating Netflix's Missing Shuffle Feature</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/section-2c-increasingly-complex-questions-with-solutions/"><u>Section 2C: Increasingly Complex Questions with Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-strategies-managing-and-reducing-your-monthly-streaming-service-costs/"><u>Smart Strategies: Managing & Reducing Your Monthly Streaming Service Costs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/spotifys-jam-collaboration-function-a-rarely-explored-opportunity-for-music-makers/"><u>Spotify's Jam Collaboration Function: A Rarely Explored Opportunity for Music Makers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/stream-live-nbawnba-matches-all-you-need-to-know-about-upcoming-platforms/"><u>Stream Live NBA/WNBA Matches: All You Need To Know About Upcoming Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-mini-tablets-comprehensive-reviews-and-performance-testing-by-tech-experts-zdnet/"><u>Top Rated Mini Tablets : Comprehensive Reviews & Performance Testing by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-avoiding-objections-to-autoplay-videos-on-fb/"><u>[New] 2024 Approved Avoiding Objections to Autoplay Videos on FB</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-effective-ways-how-to-block-facebook-video-ads-for-2024/"><u>[New] Effective Ways | How to Block Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-start-a-new-story-install-xps-videographer-tools/"><u>[New] Start a New Story, Install XP’s Videographer Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-smile-more-using-emojis-in-youtube-conversations/"><u>[Updated] 2024 Approved Smile More Using Emojis in YouTube Conversations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-enabling-effortless-speech-translation-to-text-within-powerpoint-slides/"><u>[Updated] Enabling Effortless Speech Translation to Text Within PowerPoint Slides</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-time-warp-techniques/"><u>[Updated] Instagram Video Time Warp Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-apple-ipad-air-2019-the-ultimate-multimedia-device/"><u>Comprehensive Analysis of the Apple iPad Air (2019): The Ultimate Multimedia Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-value-of-ambients-ws-290n-ambiant-weather-station-a-budget-friendly-review/"><u>Exploring the Value of Ambient's WS-290n Ambiant Weather Station: A Budget Friendly Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-insightful-reviews-on-the-nokia-71-premium-screen-camera-quality-and-cost-effectiveness/"><u>Get Insightful Reviews on the Nokia 7.1 - Premium Screen, Camera Quality and Cost Effectiveness</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-beyond-illusory-boundaries-understanding-the-spectrum-vr-ar-and-mr/"><u>In 2024, Beyond Illusory Boundaries Understanding the Spectrum (VR, AR, & MR)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-sony-xperia-1-v-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Sony Xperia 1 V For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-genius-widecam-f100-understanding-its-blurry-images-and-reverberant-audio/"><u>In-Depth Analysis of Genius WideCam F100: Understanding Its Blurry Images & Reverberant Audio</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-amazon-fire-hd-10-for-children-unparalleled-parental-control-capabilities-explored/"><u>In-Depth Look at the Amazon Fire HD 10 for Children: Unparalleled Parental Control Capabilities Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-radpowers-radcity-5-plus-exceptional-functionality-with-a-heavier-build/"><u>In-Depth Review of RadPower's RadCity 5 Plus: Exceptional Functionality with a Heavier Build</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/incorrect-applications-for-tig-welding-may-involve-scenarios-where-other-properties-such-as-ductility-are-the-primary-concern-rather-than-precision-and-fini140/"><u>Incorrect Applications for TIG Welding May Involve Scenarios Where Other Properties, Such as Ductility, Are the Primary Concern Rather than Precision and Finish.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-fire-tv-edition-toshibas-55lf711u20-review-and-ideal-features-for-prime-video-enthusiasts/"><u>Innovative Fire TV Edition: Toshiba's 55LF711U20 Review & Ideal Features for Prime Video Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ipad-pro-review-how-apples-latest-m1-2-redefines-portable-power-for-professionals-and-gamers-alike/"><u>IPad Pro Review - How Apple's Latest (M1, 2지급) Redefines Portable Power for Professionals and Gamers Alike</u></a></li>
 </ul></div>
 

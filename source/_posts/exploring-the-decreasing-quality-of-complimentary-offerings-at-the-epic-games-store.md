@@ -1,7 +1,7 @@
 ---
 title: Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store
-date: 2024-10-25T21:57:03.534Z
-updated: 2024-10-30T05:55:50.337Z
+date: 2024-11-08T07:25:24.323Z
+updated: 2024-11-14T23:18:43.853Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The Epic Game Store has been offering free games since it first launched in 2018\. Though much of my own game collection comes from the storefront, the quality has been on a steady downward decline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Games Aren't What They Used to Be
 
  When the Epic Games Store launched its free games initiative, it captivated gamers by giving away blockbuster titles such as _Pathfinder: Kingmaker_, _Civilization VI_, and _Mirror's Edge_. These are high-quality, well-known games that Epic hopes would attract a broad audience. Even for [beginner PC gamers](https://tech-revival.techidaily.com/ethical-study-habits-sidestepping-chatgpt-misuse/), this was a big deal.
@@ -29,16 +36,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  A steady drip of niche, free games continued through 2023 and into 2024\. This year, we've seen some dismal free offerings, including in-game items to try to get more people interested in games they already don't care about.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Epic's Free Games Are Repetitive and Lack Variety
 
 ![Screenshot of Epic Games Store browsing page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/156005c5-5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As someone open to new gaming experiences, I'm always willing to try out something new, assuming it falls into one of the genres I enjoy. Many recent free games fall into this category, like indie puzzlers or management simulators, which do not necessarily appeal to all gamers. While some of them appeal to me, there can be too much of a good thing.
 
@@ -50,6 +57,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![8BitDo Ultimate Controller with 2.4GHz wireless.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-ultimate-c-2-4g.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8BitDo
 
  When I was young, I had fewer games available so I could dedicate more time to them. Fast-forward to today, and the Epic Games Store's free games are making a bad problem worse. I already have a [backlog of titles that I've bought and haven't picked up yet](https://bypass-frp.techidaily.com/in-2024-about-poco-m6-pro-4g-frp-bypass-by-drfone-android/). The additional pressure of collecting free games I might never play only serves to pad my library.
@@ -59,10 +73,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  More Marketing, Less Promise
@@ -89,23 +103,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The downside is that no one on Epic's side seems to check the quality of these games. While none of them are outright shovelware, a few titles make a gamer raise their eyebrows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Keep Collecting Epic's Free Games?
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
 
@@ -126,22 +126,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-craft-eye-catching-youtubes-end-titles-for-2024/"><u>[New] How to Craft Eye-Catching YouTubes End Titles for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-improving-user-experience-vimeo-video-subtitles/"><u>[New] In 2024, Improving User Experience Vimeo Video Subtitles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-televised-content-ease-youtube-loop-integration-guide/"><u>[Updated] 2024 Approved Televised Content Ease YouTube Loop Integration Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-fire-hd-10-review-a-multimedia-tablet-made-for-the-whole-family/"><u>Amazon Fire HD 10 Review: A Multimedia Tablet Made for the Whole Family</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/changing-the-game-in-media-players-is-it-time-to-switch-from-firetv-to-chromecast-with-google-tv/"><u>Changing the Game in Media Players: Is It Time to Switch From FireTV to Chromecast with Google TV?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/classic-elegance-meets-ergonomics-an-in-depth-look-at-the-flexispot-theodore-adjustable-standing-desk/"><u>Classic Elegance Meets Ergonomics: An In-Depth Look at the Flexispot Theodore Adjustable Standing Desk</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comment-convertir-facilement-votre-fichier-rom-au-format-mp3-gratuitement-sur-la-plateforme-movavi/"><u>Comment Convertir Facilement Votre Fichier ROM Au Format MP3 Gratuitement Sur La Plateforme Movavi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-acer-chromebook-15-spacious-display-meets-reliable-performance/"><u>Comprehensive Analysis of the Acer Chromebook 15: Spacious Display Meets Reliable Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-incoming-calls-with-numbers-instead-of-name-display-on-your-iphone/"><u>How to Fix Incoming Calls with Numbers Instead of Name Display on Your iPhone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-thermaltake-massive-laptop-cooling-pad-great-benefits-but-expensive-price-tag/"><u>In-Depth Analysis of Thermaltake Massive Laptop Cooling Pad - Great Benefits but Expensive Price Tag</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimizing-mac-ipad-iphone-browsing-via-pip-for-2024/"><u>Optimizing Mac, iPad, iPhone Browsing via PIP for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-recommended-ipad-mouse-options-a-comprehensive-guide/"><u>Top Recommended IPad Mouse Options: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranking-asus-router-models-in-2er-2024/"><u>Top-Ranking Asus Router Models in 2Er 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-video-game-systems-in-2e-2024-a-comprehensive-guide/"><u>Top-Rated Video Game Systems in 2E 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vlog-like-a-pro-10-essential-editing-apps-for-mobile-devices/"><u>Vlog Like a Pro 10 Essential Editing Apps for Mobile Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-the-samsung-galaxy-tab-s4-leads-as-a-must-have-android-tablet-choice-a-detailed-review/"><u>Why the Samsung Galaxy Tab S4 Leads as a Must-Have Android Tablet Choice - A Detailed Review</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-v30-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-voice-of-volume-6-free-apps-for-channeling-youtube-music-onto-android-devices/"><u>[New] Voice of Volume 6 Free Apps for Channeling YouTube Music Onto Android Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-youtube-beats-on-android-the-ultimate-6-app-guide/"><u>[Updated] 2024 Approved Download YouTube Beats on Android The Ultimate 6-App Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-11x-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme 11X 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-into-the-samsung-galaxy-watch-active-your-ally-for-personal-fitness-goals/"><u>Expert Insights Into the Samsung Galaxy Watch Active: Your Ally for Personal Fitness Goals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-strongly-built-uniden-r3-with-exceptional-long-range-features/"><u>Expert Review: The Strongly Built Uniden R3 with Exceptional Long Range Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-elegance-and-efficiency-of-aukeys-no-nonsense-usb-30-hub-package/"><u>Exploring the Elegance & Efficiency of Aukey's No-Nonsense USB 3.0 Hub Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-escort-max-360-high-tech-radar-detection-meets-accurate-gps-navigation/"><u>Exploring the Features of Escort Max 360: High-Tech Radar Detection Meets Accurate GPS Navigation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fast-and-reliable-or-just-ugly-evaluating-tp-links-av2000-powerline-adapter/"><u>Fast and Reliable or Just Ugly? - Evaluating TP-Link's AV2000 Powerline Adapter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-2018-amazon-kindle-paperwhite-revolutionized-reading/"><u>How the 2018 Amazon Kindle Paperwhite Revolutionized Reading</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-create-flawless-animation-movies/"><u>In 2024, Step-by-Step Guide to Create Flawless Animation Movies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-hp-stream-14-affordable-performance-with-notable-tradeoffs/"><u>In-Depth Analysis of the HP Stream 14: Affordable Performance with Notable Tradeoffs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-a71-5g-smart-choice-against-high-end-models/"><u>In-Depth Analysis of the Samsung Galaxy A71 5G - Smart Choice Against High-End Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-apple-watch-series-6-elevates-yet-remains-unrivaled-in-its-class/"><u>In-Depth Analysis: How the Apple Watch Series 6 Elevates Yet Remains Unrivaled in Its Class</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-interactions-in-virtuosity-the-top-30-quotes-for-2024/"><u>Innovative Interactions in Virtuosity The Top 30 Quotes for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/phoenix-wizard-setup-guide-ultimate-tips-for-optimizing-phoenix-kodi-19/"><u>Phoenix Wizard Setup Guide: Ultimate Tips for Optimizing Phoenix Kodi 19</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pro-tips-to-perfectly-capture-your-mac-with-ease-and-speed/"><u>Pro Tips to Perfectly Capture Your Mac with Ease and Speed</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g23-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-ultimate-video-editing-solution-for-windows-8-users/"><u>Updated 2024 Approved Discover the Ultimate Video Editing Solution for Windows 8 Users</u></a></li>
 </ul></div>
 

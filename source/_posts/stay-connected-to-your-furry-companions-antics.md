@@ -1,7 +1,7 @@
 ---
 title: Stay Connected to Your Furry Companion's Antics
-date: 2024-08-27T06:36:48.247Z
-updated: 2024-08-28T06:36:48.247Z
+date: 2024-11-08T01:23:48.888Z
+updated: 2024-11-14T18:57:18.078Z
 categories:
   - BestProducts
 description: This Article Describes Stay Connected to Your Furry Companion's Antics
@@ -39,14 +39,8 @@ Andy Zahn / Lifewire
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Namco Bandai Games Demon's Souls
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Demon's Souls](https://www.lifewire.com/thmb/eabUhH4mU5iDNuSzJxTCU2ZDjWI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_HeroHoriz-c20445163c3a41d1a3cc903b397f80c0.jpg)
 
 Andy Zahn / Lifewire
@@ -72,6 +66,13 @@ Andy Zahn / Lifewire
 
  When it first arrived on the[PlayStation 3](https://www.lifewire.com/playstation-3-all-you-need-to-know-2717718) in 2009, Demon’s Souls was adored by critics but passed over by general audiences. The brilliance of developer From Software went unrecognized until they brought the series back with Dark Souls, and from there the Souls games grew into a gaming phenomenon. Now, Bluepoint Games has rebuilt Demon’s Souls from the ground up to be one of the biggest titles to release at launch for the[PS5](https://www.lifewire.com/sony-playstation-5-review-5088394) , and 12 years later this lovingly authentic remake aims to deliver all the murderously difficult gameplay of the original with a fresh coat of next-gen graphics.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Gameplay: Prepare for casualties
 
  Let me start by saying that though I have long been a fan of the Souls games, I have never been much good at them. I love playing them for their atmosphere and creative design, and the incredible challenge they present, but it requires great patience and perseverance. I wouldn’t have it any other way.
@@ -81,6 +82,19 @@ Andy Zahn / Lifewire
  If that wasn’t punishment enough, if you die in body form your world tendency will shift from white to black, reducing your maximum health and impacting the story of the game. Once in spirit form, casualties don’t affect your world tendency, but you can affect world tendency intentionally by helping out other players with boss fights to shift your tendency towards white. Killing friendly NPCs, on the other hand, will cause you to shift further towards black.
 
 ![Demon's Souls](https://www.lifewire.com/thmb/nhDABDvD3Q_L9cQazAzwaVqKve0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_02-1bb17b67cec04909b913e5da616ab22e.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
 
@@ -93,8 +107,12 @@ Andy Zahn / Lifewire
  Demon’s Souls on PS5 is stunning to behold, yet has lost none of the atmosphere of oppressive gloom that fans of the PS3 classic adored.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Graphics: Spectacular Gothic grandeur
 
  Demon’s Souls on PS5 is stunning to behold, yet has lost none of the atmosphere of oppressive gloom that fans of the PS3 classic adored. The amped-up fidelity of this remake, along with its higher frame rate, only adds to the gloomy Gothic aesthetic and helps to immerse you in the medieval post-apocalyptic world. Every time I walked out of a gloomy corridor or cavern to discover a new grand vista of fantastic decaying splendor in hyper-realistic detail, it was truly jaw-dropping, and all the more rewarding for the grueling slog required to reach it.
@@ -104,6 +122,13 @@ Andy Zahn / Lifewire
 ![Demon's Souls](https://www.lifewire.com/thmb/XVCPqjpTou9RZKUKnaew3lZimgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_03-bf9cbbe6eb9f4a01a98f10853b7b7f51.jpg)
 
 Andy Zahn / Lifewire
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Controls: Different things to different people
 
@@ -119,9 +144,6 @@ Andy Zahn / Lifewire
 
 Andy Zahn / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Multiplayer: A helping hand or a dagger in your back
 
  On the face of it, Souls Games don’t seem like a natural fit for multiplayer, yet it is indeed an integral component of the experience. You can leave messages for fellow travelers, warning of danger, hinting at secrets, or slyly tricking gullible adventurers into bottomless pits. The ghostly mirages of other players run past you on their own errands, and by touching bloodstains you can witness their final moments to inform your own actions.
@@ -136,23 +158,14 @@ Andy Zahn / Lifewire
 
  There’s a wide variety of armor and weapons hidden throughout the game, though your chosen build will largely determine which gear you will use on a particular playthrough. Be sure to collect crafting materials, since they’re used for leveling up your weapons. Souls are spent on upgrading your character’s stats, and both character and weapon upgrades become progressively more expensive as you progress.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: The cost of next-gen gaming
 
  With an MSRP of $70, Demon’s Souls is more expensive now than when it originally launched more than a decade ago. Though the price may seem high, Demon’s Souls is something of a special case. It’s well worth the cost of admission, and it doesn’t hurt that there are no microtransactions or other hidden fees.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Demon's Souls](https://www.lifewire.com/thmb/nrL-L23OmKNq6svUEwmoReap2Ow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Demons_Souls_05-4df0f853dcb34652888c8b408ccd93be.jpg)
 
 Andy Zahn / Lifewire
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Demon’s Souls vs. Assassin’s Creed: Valhalla
 
  Maybe it’s odd to compare Demon’s Souls with[Assassin’s Creed: Valhalla](https://www.lifewire.com/assassin-s-creed-valhalla-review-an-epic-viking-adventure-across-the-medieval-world-5086782) , but at their core, both are third-person action-adventure RPGs that were released around the same time. Valhalla is much more welcoming to new players than Demon’s Souls. It has variable difficulty levels and in general is a very accessible experience compared to the trial by fire learning curve of Demon's Souls. It’s also $10 cheaper and available on most platforms, while Demon’s Souls is only on the PlayStation 5\.
@@ -170,8 +183,12 @@ Andy Zahn / Lifewire
  Demon’s Souls on the PS5 is the remake this classic game deserved, bringing this pioneering title to a new generation of gamers with a fresh coat of paint. Its steep learning curve will challenge your determination to progress through its Gothic splendor, but the promise of plunder and grand vistas ahead push you to continue despite casualty after despair-inducing casualty.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Demon's Souls
@@ -189,8 +206,6 @@ Andy Zahn / Lifewire
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +213,22 @@ Andy Zahn / Lifewire
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/uilding-a-stronger-presence-with-effective-youtube-pairings/"><u>[New] Building a Stronger Presence with Effective YouTube Pairings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-seamless-switch-exchanging-playlists-across-streaming-platforms/"><u>[New] In 2024, Seamless Switch Exchanging Playlists Across Streaming Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/blade-e-flite-mcx2-rtf-rc-helicopter-review/"><u>Blade E-Flite mCX2 RTF RC Helicopter Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/breaking-down-the-performance-of-nokia-72-why-this-mid-tier-phone-is-worth-your-attention/"><u>Breaking Down the Performance of Nokia 7.2 - Why This Mid-Tier Phone Is Worth Your Attention</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-hands-on-tour-unlocking-the-potential-of-arlo-security-devices/"><u>Comprehensive Hands-On Tour: Unlocking the Potential of Arlo Security Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-powerful-samsung-galaxy-tab-s6-with-dynamic-s-pen-functionality/"><u>Comprehensive Review of the Powerful Samsung Galaxy Tab S6 with Dynamic S Pen Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-the-perfect-blend-of-old-world-aesthetics-and-new-age-smartwatch-features-in-skagen-falster-3/"><u>Comprehensive Review: The Perfect Blend of Old World Aesthetics and New Age Smartwatch Features in Skagen Falster 3</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-tp-link-ac1200-wifi-repeater-re305-evaluation-uncomplicated-user-experience/"><u>Comprehensive TP-Link AC1200 WiFi Repeater RE305 Evaluation: Uncomplicated User Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-content-masterpieces-with-these-essential-youtube-tips-for-2024/"><u>Crafting Content Masterpieces with These Essential YouTube Tips for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/crucial-considerations-before-investing-in-a-new-gaming-platform/"><u>Crucial Considerations Before Investing in a New Gaming Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-preserve-your-gameplay-for-future-replays/"><u>How to Preserve Your Gameplay for Future Replays</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016657907-logitech-g733-mic-failure-heres-how-you-can-fix-it/"><u>Logitech G733 Mic Failure? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/methods-for-propelling-humankind-forward-successfully/"><u>Methods for Propelling Humankind Forward Successfully</u></a></li>
+</ul></div>
 

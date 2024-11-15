@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Trusty PS4: Why Upgrading to the PS5 Pro Isn't a Must Yet"
-date: 2024-10-20T09:59:07.953Z
-updated: 2024-10-24T11:40:19.168Z
+date: 2024-11-12T23:20:01.320Z
+updated: 2024-11-14T19:03:46.177Z
 tags:
   - games
   - tv
@@ -22,10 +22,16 @@ thumbnail: https://thmb.techidaily.com/2b40a723a6077cb6c79bfb5924e552b293609acaf
  We're closing in on the PS5's fourth anniversary. Rumor has it that a "Pro" version of the console will arrive in time for the holiday season, but I couldn't care less. My PS4 Pro still fulfills all of my gaming needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  I'm Still Working Through All the Great PS4 Games
@@ -37,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/2b40a723a6077cb6c79bfb5924e552b293609acaf
 ![The backside of a DVD disc.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53105419298_22f9e512a8_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -50,6 +56,13 @@ Hannah Stryker / How-To Geek
  I'm willing to play devil's advocate a bit. The standard PS5 is more graphically capable than the PS4 Pro and offers an enhanced experience for my old, cheap PS4 games. Sony will take things to the next level with the PS5 Pro, which is rumored to support DLSS-like AI upscaling and enhanced ray tracing. You could also argue that some new games, like _Cyberpunk 2077_, aren't worth playing on the PS4 due to poor optimization.
 
  But do I care about a minor graphical upgrade? No, and if I did, I'd already own a standard PS5\. As for games like _Cyberpunk 2077_—well, I'll upgrade to a new game console at some point. It's no rush.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The PS5 Pro Rumors Are Boring
 
@@ -62,10 +75,10 @@ Hannah Stryker / How-To Geek
 ![The PS5 logo on a PlayStation 5's chassis.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53398531200_04eab5f89c_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Kris Henges / How-To Geek
@@ -75,13 +88,6 @@ Kris Henges / How-To Geek
  We're still waiting for Sony to reveal the PS5 Pro. But rumors suggest that the console will offer enhanced ray tracing, a DLSS-like AI upscaling algorithm that brings games up to 8K (while introducing a few milliseconds of latency), and a 60FPS "performance" mode à la PS4 Pro. Per _[Digital Trends](https://www.digitaltrends.com/gaming/ps5-pro-release-date-price-specs-news-rumors/)_, a game can be labeled as "PS5 Pro Enhanced" by implementing just one of these graphical upgrades. Whether ray tracing, 8K upscaling, and 60FPS modes can be used concurrently is unknown.
 
  Very few people can take advantage of 8K video. An 8K TV currently costs about $2,500, and 8K TVs account for less than 1% of TV sales. So, for most people, the PS5 Pro upgrade is just a frame rate enhancement and a boost in ray tracing quality (though, again, it's up to developers to implement this stuff). I'm sure that the PS5 Pro will encourage 8K TV adoption, but 8K TVs won't be ubiquitous until several years from now. By that time, we may be celebrating the PS6 Pro launch.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  When the Time Comes, I'll Get a Used PS5
 
@@ -112,24 +118,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-channel-conclusion-mastery-customized-screens-in-focus/"><u>[Updated] Channel Conclusion Mastery Customized Screens in Focus</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-outros-that-grow-your-channel-faster/"><u>[Updated] In 2024, YouTube Outros that Grow Your Channel Faster</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-find-your-next-favorite-free-video-player-in-our-top-12-picks-pcmobile/"><u>2024 Approved Find Your Next Favorite Free Video Player in Our Top 12 Picks (PC/Mobile)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-innovative-windows-10-cameras-unveiled/"><u>2024 Approved Innovative Windows 10 Cameras Unveiled</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-a-hit-list-youtubes-way-for-fans-for-2024/"><u>Crafting a Hit-List Youtube's Way for Fans for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-itel-a60s-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-how-to-profit-on-tiktok-the-8-essential-steps-you-need/"><u>In 2024, How to Profit on TikTok The 8 Essential Steps You Need</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/mastering-video-and-screenshots-with-simple-steps-for-2024/"><u>Mastering Video & Screenshots with Simple Steps for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/modularity/"><u>Modularity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/most-durable-and-stylish-ipad-sleeves-of-2023-find-the-perfect-match/"><u>Most Durable and Stylish iPad Sleeves of 2023: Find the Perfect Match</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/outlining-a-strategy-for-integrating-multimedia-elements-such-as-images-or-videos-to-enhance-user-engagement-and-dwell-time-on-your-guide/"><u>Outlining a Strategy for Integrating Multimedia Elements Such as Images or Videos to Enhance User Engagement and Dwell Time on Your Guide.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/picking-powerhouse-gpus-a-comprehensive-guide-to-the-best-graphics-cards-available/"><u>Picking Powerhouse GPUs : A Comprehensive Guide to the Best Graphics Cards Available</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/premier-exterior-solid-state-drives-review-the-ultimate-guide-for-202n4/"><u>Premier Exterior Solid State Drives Review: The Ultimate Guide for 202N4</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/premier-protection-gear-for-your-samsung-galaxy-s24-the-2024-guide-to-premium-cases/"><u>Premier Protection Gear for Your Samsung Galaxy S24 - The 2024 Guide to Premium Cases</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-re-entry-to-your-shared-windows-spot/"><u>Seamless Re-Entry to Your Shared Windows Spot</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-to-making-spectacular-slow-motion-images-for-instagram/"><u>Step-by-Step Guide to Making Spectacular Slow Motion Images for Instagram</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/storage-solutions/"><u>Storage Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-top-rated-iphone-13-pro-protective-covers/"><u>The Ultimate Selection: Top-Rated iPhone 13 Pro Protective Covers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranking-samsung-mobile-devices/"><u>Top-Ranking Samsung Mobile Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-10plus-top-tips-for-accessing-the-best-of-international-cricket-online-for-2024/"><u>[New] 10+ Top Tips for Accessing the Best of International Cricket Online for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-easy-steps-alter-clownespeak-through-windows-interface-for-2024/"><u>[New] Easy Steps Alter Clown'espeak Through Windows Interface for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-polishing-your-presentations-expert-video-editing-for-instagram/"><u>[Updated] 2024 Approved Polishing Your Presentations Expert Video Editing for Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-laugh-cry-or-shout-out-on-these-top-10-instagram-memes-hubs/"><u>[Updated] In 2024, Laugh, Cry or Shout Out on These Top 10 Instagram Memes Hubs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quietude-in-a-click-the-ultimate-calm-list/"><u>[Updated] Quietude in a Click The Ultimate Calm List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-lipo-power-sources-for-aerial-vehicles/"><u>2024 Approved Top Tips LiPo Power Sources for Aerial Vehicles</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-13-proplus-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 13 Pro+ 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quality-commitment-msi-responds-to-z790-chipset-flaws-with-immediate-replacement-of-defective-units/"><u>Quality Commitment: MSI Responds to Z790 Chipset Flaws with Immediate Replacement of Defective Units</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-benefits-of-using-the-kootek-temperature-regulator-with-laptops/"><u>Uncovering the Benefits of Using the Kootek Temperature Regulator with Laptops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-high-speed-internet-anywhere-with-the-slim-and-sturdy-ourlink-u631-usb-nac-wireless-adaptor/"><u>Unleash High-Speed Internet Anywhere with the Slim and Sturdy Ourlink U631 USB N/AC Wireless Adaptor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unraveling-the-sci-fi-adventure-in-torment-tides-of-numenera-an-immersive-rpg-experience/"><u>Unraveling the Sci-Fi Adventure in 'Torment: Tides of Numenera': An Immersive RPG Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-2019-kindle-oasis-an-innovative-journey-towards-a-seamless-papyrus-texture-read/"><u>Unveiling the 2019 Kindle Oasis: An Innovative Journey Towards a Seamless, Papyrus Texture Read</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-elite-top-mesh-wi-fi-networks-of-2024-rankings/"><u>Unveiling the Elite: Top Mesh Wi-Fi Networks of 2024 Rankings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-a-closer-look-at-the-one-of-a-kind-design-and-performance-of-the-mohu-blade-tv-antenna-indoors/"><u>Unveiling the Features: A Closer Look at the One-of-a-Kind Design & Performance of the Mohu Blade TV Antenna Indoors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-a-detailed-guide-to-kobos-clarity-colour-edition/"><u>Unveiling the Features: A Detailed Guide to Kobo's Clarity Colour Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-microsoft-surface-go-how-this-cost-effective-tablet-balances-utility-and-confusion/"><u>Unveiling the Microsoft Surface Go: How This Cost-Effective Tablet Balances Utility and Confusion</u></a></li>
 </ul></div>
 

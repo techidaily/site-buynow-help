@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis: Microsoft Flight Simulator X - Gold Edition Remains a Top Choice in Aviation Gaming"
-date: 2024-08-27T06:34:38.628Z
-updated: 2024-08-28T06:34:38.628Z
+date: 2024-11-13T22:40:00.968Z
+updated: 2024-11-15T06:35:49.899Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis: Microsoft Flight Simulator X - Gold Edition Remains a Top Choice in Aviation Gaming"
@@ -38,13 +38,14 @@ Lifewire / Jonno Hill
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Yongnuo YN560 IV Wireless Flash Speedlite Master](https://www.lifewire.com/thmb/UOD6afkRh-xS-Dh1-iagOeoOSdY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_3LW4072366-Yongnuo-YN560-1-33b6547cc9014731ab6e144b0613aaef.jpg)
 
 Lifewire / Jonno Hill
@@ -69,9 +70,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## **Design: Punching above the price point**
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master features a robust design that doesn’t feel like the manufacturer skimped on build quality — one of our biggest concerns with budget-minded flashes like this. When adjusting the position of the[flash head](https://www.lifewire.com/using-the-dslr-pop-up-flash-492975) through its 90 degrees of vertical and 270 degrees of horizontal range, it felt very solid.
@@ -83,6 +81,13 @@ Lifewire / Jonno Hill
  Finally, on the rear of the device users will see the LCD display and a suite of buttons and indicators, which we will cover in the next section.
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Features & Functionality: Full suite manual control**
 
@@ -105,8 +110,12 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Setup: A lot of reading before use**
 
  Once you unpack your flash and install the four AA batteries, you’re going to want to familiarize yourself with the buttons and menu system a little. The YN560 IV has a lot of functionality, but it doesn’t have the most intuitive interface. The front of the device contains a top row of four buttons (a Light/Music icon, Mode, a Wi-Fi icon, and Zoom). Below this is a charge indicator button marked “PILOT”, a direction pad, and an On/Off button.
@@ -141,9 +150,6 @@ Lifewire / Jonno Hill
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master may not be a very simple flash, but it packs enough functionality to make a very versatile platform for more aspirational photographers. Buyers that want full manual control and radio transmission without paying an arm and a leg will be more than pleased with what they get.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Canon Speedlite 430EX III-RT Flash](https://www.lifewire.com/canon-speedlite-430ex-iii-rt-flash-review-4686835)
@@ -151,8 +157,12 @@ Lifewire / Jonno Hill
 * [Fovitec SPK10-037 Softbox Lighting Kit](https://www.lifewire.com/fovitec-spk10-037-softbox-lighting-kit-review-4692503)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  YN560 IV Wireless Flash Speedlite Master
@@ -176,8 +186,6 @@ Lifewire / Jonno Hill
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +193,24 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-ranking-the-leading-free-srt-translation-tools-for-2024/"><u>[Updated] Ranking the Leading Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-ultimate-guide-5-top-earning-instagram-strategies/"><u>2024 Approved Ultimate Guide 5 Top-Earning Instagram Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dbpower-600a-high-peak-charger-analysis-18000mah-capacity-evaluation/"><u>DBPower 600A High-Peak Charger Analysis: 18,000MAh Capacity Evaluation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo Y78 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/must-have-iphone-gadgets-and-enhancements-for-optimal-use/"><u>Must-Have iPhone Gadgets and Enhancements for Optimal Use</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/next-level-mini-smart-speaker-insights-in-depth-look-at-the-third-gen-echo-dot-and-its-alexa-integration/"><u>Next-Level Mini Smart Speaker Insights: In-Depth Look at the Third Gen Echo Dot and Its Alexa Integration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-error-887a0005-in-call-of-duty-black-ops-cold-war/"><u>Resolving the 'Error: 887A0005' In Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-and-price-analysis/"><u>Review and Price Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/swim-to-new-viewpoints-with-the-ultimate-x2-camera-by-insta360/"><u>Swim to New Viewpoints with the Ultimate X2 Camera by Insta360</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-lg-k51-smartphone-assessment-stylish-exterior-marred-by-slow-chip-technology/"><u>The LG K51 Smartphone Assessment: Stylish Exterior Marred by Slow Chip Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-next-generation-of-powerhouse-computing-meet-apples-latest-m4-processor/"><u>The Next Generation of Powerhouse Computing: Meet Apple’s Latest M4 Processor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-102-inch-ipad-7th-generation-and-its-game-changing-ipados-features/"><u>The Ultimate Review: 10.2-Inch iPad (7Th Generation) and Its Game-Changing IPadOS Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/thermopros-tp67-reviewed-wallet-friendly-yet-questioning-its-reliability/"><u>ThermoPro's TP67 Reviewed: Wallet-Friendly Yet Questioning Its Reliability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-evaluating-the-enduring-appeal-of-samsung-galaxy-tab-s/"><u>Unboxing and Evaluating the Enduring Appeal of Samsung Galaxy Tab S</u></a></li>
+</ul></div>
 

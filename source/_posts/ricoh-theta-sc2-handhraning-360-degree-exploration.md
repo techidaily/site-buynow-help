@@ -1,7 +1,7 @@
 ---
 title: "Ricoh Theta SC2: Handhraning 360-Degree Exploration"
-date: 2024-10-19T02:39:09.142Z
-updated: 2024-10-24T05:11:46.875Z
+date: 2024-11-09T00:20:29.861Z
+updated: 2024-11-15T06:14:26.605Z
 categories:
   - BestProducts
 description: "This Article Describes Ricoh Theta SC2: Handhraning 360-Degree Exploration"
@@ -40,16 +40,22 @@ Lifewire / Jeremy Laukkonen
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Omni 20+ Wireless Power Bank
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/_EV0MTLRfFPHdqFJ2gKyMJff5YY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-HERO-SQ-e459d44e1a2c432f80fec058b858ccfe.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -78,13 +84,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/lFGiT6009F_OKGOJ-sLcNKNylt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-2-9a3217b3ee154a3ebcb38e61aac3be52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
 
 ## **Design: Slick all-black appearance that’s dulled a bit by soft-touch rubber**
@@ -100,10 +99,10 @@ Lifewire / Jeremy Laukkonen
  For a premium device with a premium price like the Omni 20+, I’d like to see a different material used for the case.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Initial Setup: Frustrating due to a lack of documentation**
@@ -123,6 +122,13 @@ Lifewire / Jeremy Laukkonen
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/QOfV3Sc5THi3Z0gKZq0e-ciPUEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-5-000854ae3c4347b7adc13130dcb9d1b9.jpg)
 
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Display: Crisp and easy to read, but confusing**
 
@@ -145,13 +151,6 @@ Lifewire / Jeremy Laukkonen
  If you don’t mind packing extra adapters, or you have a device that won’t accept a fast charge over the included USB-C port, then the Omni 20+ does include a perfectly functional AC outlet on the other side. This is a nice touch for the sake of compatibility, but I see a power bank like the Omni 20+ as a way to reduce clutter, so I look at the power outlet as more of a useful backup than something I want to use every day.
 
  On the front of the power bank, next to the display, you’ll find two USB-A ports. These ports are capable of charging all your standard USB devices. One is a Qualcomm 3.0 compatible quick charge port, and the other is a standard USB port that’s capable of putting out up to 3A.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Battery: Decent battery capacity for the size**
 
@@ -184,15 +183,22 @@ Lifewire / Jeremy Laukkonen
  The built-in Qi charger is capable of putting out 10 watts, and I found it to work just as well as other 10 watt Qi chargers I’ve used. It is a bit touchy in terms of positioning, but I was able to get the hang of it pretty fast.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: High end**
 
  With an MSRP of $200, Omni 20+ is a high-end battery bank with a high-end price. You get a whole lot of functionality for that price, but the device does lag behind in terms of both battery capacity and included accessories. The glaring issue is that you can find more powerful battery banks for less money, even if you won’t find one with the exact same functionality.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Omni 20+ vs. Pilot Pro 2**
 
@@ -236,24 +242,19 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-facebook-follower-verification-techniques-for-professionals/"><u>[New] In 2024, Facebook Follower Verification Techniques for Professionals</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-premium-viewership-the-ultimate-youtube-wealth-for-2024/"><u>[Updated] Premium Viewership The Ultimate YouTube Wealth for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-sharpen-the-scene-expert-insights-for-cropping-videos-with-insta-flair-for-2024/"><u>[Updated] Sharpen the Scene Expert Insights for Cropping Videos with Insta Flair for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-list-14-animation-illustration-cases/"><u>A-List 14 Animation Illustration Cases</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/craft-impeccable-sequences-editor-supreme-for-vimeo-for-2024/"><u>Craft Impeccable Sequences Editor Supreme for Vimeo for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tricks-to-start-command-line-tools-in-windows-os/"><u>Easy Tricks to Start Command Line Tools in Windows OS</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-the-samsung-galaxy-watch-active-a-fitness-and-well-being-review/"><u>Exploring the Features of the Samsung Galaxy Watch Active: A Fitness and Well-Being Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/find-the-perfect-sound-enhancement-top-notch-pc-audio-cards-of-2024-reviewed/"><u>Find the Perfect Sound Enhancement: Top-Notch PC Audio Cards of 2024 Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/find-your-lost-keys-effortlessly-the-elite-picks/"><u>Find Your Lost Keys Effortlessly: The Elite Picks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/google-nest-wi-fi-unveiled-a-deep-dive-into-its-high-speed-efficiency-and-impeccable-mesh-network-capabilities/"><u>Google Nest Wi-Fi Unveiled: A Deep Dive Into Its High-Speed Efficiency and Impeccable Mesh Network Capabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/huge-apple-vision-pro-deal-get-a-200-discount-now-on-amazon-before-its-gone-insights/"><u>Huge Apple Vision Pro Deal: Get a $200 Discount Now on Amazon Before It's Gone | Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/illuminate-your-ride-top-5-lighting-improvements/"><u>Illuminate Your Ride: Top 5 Lighting Improvements</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-kobo-clara-colour-ereader-features-performance-and-user-experience/"><u>In-Depth Evaluation of Kobo Clara Colour eReader: Features, Performance & User Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-owc-mercury-pro-unmatched-speed-and-reliability-in-storage-drives/"><u>In-Depth Review of the OWC Mercury Pro: Unmatched Speed & Reliability in Storage Drives</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-tp-link-av1300-a-wireless-range-booster-with-constraints/"><u>In-Depth Review of the TP-Link AV1300: A Wireless Range Booster with Constraints</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-uniden-r3-radar-detector-evaluation-robust-construction-and-extended-range-features/"><u>In-Depth Uniden R3 Radar Detector Evaluation: Robust Construction & Extended Range Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/squamous-cell-carcinoma-usually-appears-as-a-central-tumor-and-can-lead-to-local-obstruction-symptoms/"><u>Squamous Cell Carcinoma Usually Appears as a Central Tumor and Can Lead to Local Obstruction Symptoms</u></a></li>
-<li><a href="https://win-popular.techidaily.com/tutorial-pemulihan-gambar-yang-hilang-secara-terperinci-pada-iphone-langkah-langkah-kecil-dan-easy/"><u>Tutorial Pemulihan Gambar Yang Hilang Secara Terperinci Pada iPhone: Langkah-Langkah Kecil Dan Easy!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-enriching-mp4-soundtracks-with-srt-a-compreomedium-guide-for-2024/"><u>[New] Enriching MP4 Soundtracks with SRT – A Compreomedium Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ifunbox/"><u>「最新iFunBox日本語版を無料で入手し、スムーズに設置するためのチュートリアル」</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bandicam-analise-comparativa-do-movavi-custo-e-funcoes-explicadas-em-revisao-extensa/"><u>Bandicam Análise Comparativa Do Movavi: Custo E Funções Explicadas Em Revisão Extensa</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/classy-elegance-meets-functionality-a-detailed-look-at-flexispots-modern-theodore-standing-desk-for-a-productive-office-atmosphere/"><u>Classy Elegance Meets Functionality: A Detailed Look at Flexispot's Modern Theodore Standing Desk for a Productive Office Atmosphere</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-affordable-pruveeo-f5-full-hd-dash-cam/"><u>Comprehensive Analysis of the Affordable Pruveeo F5 Full HD Dash Cam</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decoding-the-power-of-asus-ax6600-mesh-wifi-features-performance-and-user-experience-explored/"><u>Decoding the Power of ASUS AX6600 Mesh WiFi - Features, Performance & User Experience Explored</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/estandarizar-la-copia-de-discos-gpt-mediante-clonador-profesional-clonezilla-tutorial-detallado/"><u>Estandarizar La Copia De Discos GPT Mediante Clonador Profesional Clonezilla - Tutorial Detallado</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-performance-of-seatechs-wireless-blu-ray-burner-unit-with-usb-support-a-closer-look-at-its-variable-output/"><u>Expert Insights on the Performance of SeaTech's Wireless Blu-Ray Burner Unit with USB Support: A Closer Look at Its Variable Output</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lava-storm-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Lava Storm 5G Without PUK Codes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-experience-with-lenovo-tab-m10-fhd-plus-in-2amidst-budget-friendly-tablets/"><u>Maximize Your Experience with Lenovo Tab M10 FHD Plus in 2Amidst Budget-Friendly Tablets</u></a></li>
+<li><a href="https://facebook.techidaily.com/metaai-unveiling-its-potential-versus-traditional-chatbots/"><u>MetaAI: Unveiling Its Potential Versus Traditional Chatbots</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-poco-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Poco FRP Bypass</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-features-of-the-pioneer-bdr-xs06-an-external-usb-30-blu-ray-drive-reviewed-for-convenience-and-output/"><u>Unpacking the Features of the Pioneer BDR-XS06: An External USB 3.0 Blu-Ray Drive Reviewed for Convenience and Output</u></a></li>
+<li><a href="https://discover-help.techidaily.com/western-digital-top-migration-software-solutions-for-ssds/"><u>Western Digital: Top Migration Software Solutions for SSDs</u></a></li>
 </ul></div>
 

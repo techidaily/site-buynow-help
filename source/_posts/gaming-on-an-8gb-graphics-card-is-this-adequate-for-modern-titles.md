@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2024-10-28T06:33:17.237Z
-updated: 2024-10-29T19:32:19.930Z
+date: 2024-11-10T07:46:28.504Z
+updated: 2024-11-14T21:11:55.786Z
 tags:
   - games
   - tv
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The latest and greatest AAA games can use a boatload of video memory when you crank the visuals to high or ultra. With such an insatiable appetite for VRAM, is an 8GB GPU enough to play the latest games in 2024? I've got an 8GB GPU, and here's what I've learned.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8GB of Memory Is Plenty for Indie, eSports, and Older Games
 
  Gamers who play less demanding indie titles, eSports multiplayer games, and older AAA games (released in 2020 and earlier) shouldn’t worry about their 8GB GPUs. I have yet to have any issues playing these types of games, even at my monitor's native 1440p ultrawide resolution (3440x1440).
@@ -31,13 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A screenshot of a virtual bar from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204942.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
@@ -47,10 +47,10 @@ Cianna Garrison / How-To Geek
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Things Get Complicated With Newer AAA Games
@@ -60,6 +60,13 @@ Cianna Garrison / How-To Geek
  But after some time—about half an hour at 1440p ultrawide, a bit longer at 1080p—you will notice slowdowns, corrupted textures, and you might even experience a crash or two. Lowering the texture quality to ultra fixes the issue, but _Forza Horizon 5_ is far from the only game that doesn’t play nice with 8GB of VRAM.
 
 ![A screenshot of a virtual Corvette driving in a race from the game "Forza Horizon 5."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-01-172430.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -87,22 +94,15 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Buy an 8GB GPU in 2024?
@@ -128,22 +128,24 @@ _GIGABYTE_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/osandroid-playback-silent-youtube-autoplay-tips/"><u>[New] IOS/Android Playback Silent YouTube Autoplay Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-your-marketing-journey-begins-here-experience-the-full-spectrum-of-over-50-free-ads/"><u>[Updated] Your Marketing Journey Begins Here - Experience the Full Spectrum of Over 50 FREE Ads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-honor-90-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Honor 90 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/advanced-computing-solutions-by-toms-guides/"><u>Advanced Computing Solutions by Tom's Guides</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/amazons-echo-vs-alphabets-voice-which-is-the-superior-ai-assistant-for-you/"><u>Amazon's Echo Vs. Alphabet's Voice: Which Is the Superior AI Assistant for You?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-gotrax-gxl-v2-electric-scooter-analysis-perfect-for-swift-city-rides/"><u>Comprehensive GOTRAX GXL V2 Electric Scooter Analysis: Perfect for Swift City Rides</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-finest-sites-offering-fresh-movie-teasers/"><u>Discover The Finest Sites Offering Fresh Movie Teasers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-business-efficiency-with-movavis-customer-service-platform/"><u>Enhance Your Business Efficiency with Movavis Customer Service Platform</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/gamespotlight-yakuza-like-a-dragon-analysis-unmissable-rpg-experience/"><u>GameSpotlight: Yakuza - Like a Dragon Analysis – Unmissable RPG Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-improved-video-card-drivers-can-fix-your-windows-based-minecraft-gaming-glitches/"><u>How Improved Video Card Drivers Can Fix Your Windows-Based Minecraft Gaming Glitches</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-owc-mercury-pro-premium-storage-solutions-meet-unmatched-performance/"><u>In-Depth Analysis of the OWC Mercury Pro: Premium Storage Solutions Meet Unmatched Performance</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/optimale-nutzung-von-aol-mail-strategien-fur-eine-nahtlose-e-mail-bereitstellung/"><u>Optimale Nutzung Von AOL Mail: Strategien Für Eine Nahtlose E-Mail-Bereitstellung</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speedy-strategies-for-mastering-new-languages/"><u>Speedy Strategies for Mastering New Languages</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-next-level-in-computing-evaluating-the-groundbreaking-performance-of-the-2020-macbook-air-m1/"><u>The Next Level in Computing: Evaluating the Groundbreaking Performance of the 2020 MacBook Air (M1)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-features-of-samsung-galaxy-s20-fe-5g-in-depth-user-testimonials/"><u>Unveiling the Best Features of Samsung Galaxy S20 FE (5G): In-Depth User Testimonials</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-timeless-appeal-a-detailed-review-of-the-huawei-p3-pro/"><u>Unveiling the Timeless Appeal: A Detailed Review of the Huawei P3# Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-dissecting-apowersoft-an-in-depth-screen-recorder-study-for-2024/"><u>[New] Dissecting Apowersoft An In-Depth Screen Recorder Study for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-periscope-uncovered-free-entry-details-and-signup-method/"><u>[New] Periscope Uncovered Free Entry Details and Signup Method</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-picking-powerful-yt-thumbnails/"><u>[Updated] The Ultimate Guide to Picking Powerful YT Thumbnails</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-retrieval-tool-restore-lost-data-from-asus-rog-phone-7-by-fonelab-android-recover-data/"><u>Asus Data Retrieval tool – restore lost data from Asus ROG Phone 7</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/beijings-big-leap-ambitious-goal-to-boost-public-supercomputing-performance-by-30-reaching-300-exaflops-in-two-years/"><u>Beijing's Big Leap: Ambitious Goal to Boost Public Supercomputing Performance by 30%, Reaching 300 ExaFLOPS in Two Years</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-the-shadows-crafting-discreet-snaps-for-2024/"><u>Mastering the Shadows Crafting Discreet Snaps for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-through-onetastics-offerings-a-microsoft-onenote-add-in-breakdown/"><u>Navigating Through Onetastic's Offerings - A Microsoft OneNote Add-In Breakdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/original-design-potential-utilize-free-logo-templates-and-customization-tools/"><u>Original Design Potential Utilize FREE Logo Templates & Customization Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962403972-quick-and-simple-get-your-microsoft-4000-ergonomic-keyboard-up-and-running/"><u>Quick and Simple: Get Your Microsoft 4000 Ergonomic Keyboard Up & Running</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-future-of-home-cinema-in-depth-review-of-apple-tv-4ks-2021-release-exceptional-clarity-and-intuitive-siri-interactions-await/"><u>The Future of Home Cinema: In-Depth Review of Apple TV 4K's 2021 Release - Exceptional Clarity and Intuitive Siri Interactions Await</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-great-debate-unveiling-differences-between-ipad-pro-and-macbook-pro-models/"><u>The Great Debate: Unveiling Differences Between IPad Pro & MacBook Pro Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lg-gram-156-inch-laptop-2018-breakdown-a-weightless-powerhouse-with-remarkable-battery-life/"><u>The LG Gram 15.6-Inch Laptop (2018) Breakdown – A Weightless Powerhouse with Remarkable Battery Life</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-sleek-space-saving-acer-aspire-c2-7-your-ideal-all-in-one-pc/"><u>The Sleek, Space-Saving Acer Aspire C2 7 – Your Ideal All-In-One PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-between-sonys-ps5-slim-and-regular-ps5/"><u>The Ultimate Guide to Choosing Between Sony's PS5 Slim and Regular PS5</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-updated-guide-to-google-nest-hub-2nd-generation-the-benefits-of-integrating-a-camera/"><u>The Updated Guide to Google Nest Hub, 2Nd Generation - The Benefits of Integrating a Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-the-flexible-and-beautifully-designed-dell-xps-13-7390-ultrabook-2in1/"><u>Top Review of the Flexible and Beautifully Designed Dell XPS 13 (7390) Ultrabook-2in1</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-performance-showdown-hp-zbook-firefly-15-g8-reviewed-for-business-and-creatives/"><u>Top-Tier Performance Showdown: HP ZBook Firefly 15 G8 Reviewed for Business and Creatives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unihertz-atom-xl-analysis-the-compact-durable-device-that-packs-a-mighty-punch/"><u>Unihertz Atom XL Analysis: The Compact, Durable Device That Packs a Mighty Punch</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unmasking-the-linguistic-landscape-in-israel/"><u>Unmasking the Linguistic Landscape in Israel?</u></a></li>
 </ul></div>
 

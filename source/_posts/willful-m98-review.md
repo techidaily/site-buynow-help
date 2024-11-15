@@ -1,7 +1,7 @@
 ---
 title: Willful M98 Review
-date: 2024-10-19T20:46:42.401Z
-updated: 2024-10-24T11:39:42.389Z
+date: 2024-11-12T05:49:57.109Z
+updated: 2024-11-14T16:02:26.284Z
 categories:
   - BestProducts
 description: This Article Describes Willful M98 Review
@@ -37,16 +37,22 @@ Lifewire / Gannon Burgett
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MAXOAK 185Wh/50000mAh External Battery Power Bank
 
 ![Max Oak](https://www.lifewire.com/thmb/0sYGw-7sF6j5aqPA13sWjU-Y2b4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_5WebHero-5c8ff106c9e77c0001a926f8.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -70,18 +76,18 @@ Lifewire / Gannon Burgett
 
  While there's no shortage of options on the market, there aren’t many that can keep you going for days. That’s not the case with the MaxOak 50000mAh, an absolutely massive and robust charger that attempts to be the jack of all when it comes to charging gadgets on the go. It’s power comes at the cost of massive size and the charging ports aren’t too fast, but if you need tons of power, this is the battery pack to get.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Bulky for travelers**
 
  First and foremost, this thing is a tank. At 2.77 pounds, it weighs many times more than most smartphones and nearly as much as most compact laptops. It also measures in at 8.1 x 5.3 x 1.3 inches (HWD), making it quite the behemoth to lug around. A small detail regarding the weight of the MaxOak is that it isn't balanced. The side without the ports holds a fair bit more weight than the side with the various ports. It's not a significant detail, but one you might notice with time.
 
 ![Max Oak](https://www.lifewire.com/thmb/SHsB9QkFaBbOrU6sw55TzNOqC7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_4Web-5c8ff4adc9e77c0001ff0b36.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
 
@@ -92,13 +98,6 @@ Lifewire / Gannon Burgett
  At 2.77 pounds, it weighs many times more than most smartphones and nearly as much as most compact laptops.
 
  Charging the device is done via a small 16.8-volt 2.5A plug-in style port on the opposite side of the power button. Overall, the design is roughly what you'd expect from a 50000mAh laptop battery charger. Yes, it's heavy, yes it's quite beefy in size, but it comes with the territory.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process: Simple to start, but yet another adapter to carry around**
 
@@ -112,6 +111,19 @@ Lifewire / Gannon Burgett
 
 ![Max Oak](https://www.lifewire.com/thmb/FlP4JZUVLoJ3DjKoSRUIFuf1peY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-1_6Web-5c8ff3e6c9e77c0001a926ff.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
  One nice bonus is the power bank can be charged while also giving a charge to a laptop or mobile device, adding an extra element of convenience.
@@ -124,22 +136,22 @@ Lifewire / Gannon Burgett
 
  Moving onto laptops, our ASUS X555LA was able to be charged four and a half times from 0% with the MaxOak power bank, with an average charge time of three hours or so. The ASUS X555LA has a relatively small battery compared to most laptops, which means it falls in line with MaxOak’s claims that its power bank can charge a laptop two times over give or take a little.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Right down the middle**
 
  The MaxOak 50000mAh power bank comes in at $135.99 at the time of this review. This is a reasonable price when taking into consideration how much battery capacity you're getting with it.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: One in the same**
 
@@ -193,20 +205,17 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-market-prowess-the-art-of-strategy-unpacked/"><u>[New] 2024 Approved Market Prowess The Art of Strategy Unpacked</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-lightning-labs-loading-slides-in-ppt/"><u>[Updated] In 2024, Lightning Labs Loading Slides in PPT</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-jesters-junction-laughter-without-price-tags/"><u>[Updated] Jester’s Junction Laughter Without Price Tags</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-10-groundbreaking-final-cut-pro-extensions/"><u>2024 Approved 10 Groundbreaking Final Cut Pro Extensions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-effortless-background-management-for-cohesive-remote-collaborations/"><u>2024 Approved Effortless Background Management for Cohesive Remote Collaborations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-task-manager-admin-mode-on-windows-11/"><u>Boosting Task Manager: Admin Mode on Windows 11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-optimizing-engagement-how-to-block-on-insta/"><u>In 2024, Optimizing Engagement How to Block on Insta</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-showdown-top-rated-voice-controlled-speakers-of-2024/"><u>The Ultimate Showdown: Top-Rated Voice Controlled Speakers of 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/to-purchase-or-not-the-value-of-applecareplus-coverage-explained/"><u>To Purchase or Not: The Value of AppleCare+ Coverage Explained</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-smart-home-speakers-a-comprehensive-guide/"><u>Top-Rated Smart Home Speakers : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-evaluation-why-xbox-one-x-reigns-supreme-in-gaming-consoles/"><u>Ultimate Evaluation: Why Xbox One X Reigns Supreme in Gaming Consoles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-your-inner-innovator-dive-into-the-exciting-world-of-coding-and-battle-with-djis-robomaster-s1-tank-drone/"><u>Unleash Your Inner Innovator: Dive Into the Exciting World of Coding and Battle With DJI's RoboMaster S1 Tank Drone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-home-security-with-less-than-50-iseebell-video-doorbells-reviewed/"><u>Unlocking Home Security with Less Than $50 - ISeeBell Video Doorbells Reviewed!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-cleverly-designed-bookbook-v2-macbook-case-by-twelve-south/"><u>Unpacking the Cleverly Designed BookBook V2 MacBook Case by Twelve South</u></a></li>
-<li><a href="https://media-tips.techidaily.com/windows-11-and-7mkv/"><u>Windows 11 & 7簡易MKV播放器免費下載：最佳遊戲影片解碼工具</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-your-audio-voice-match-the-perfect-mic-to-your-channels-character-for-2024/"><u>[Updated] Finding Your Audio Voice Match the Perfect Mic to Your Channel's Character for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-optimize-your-workday-with-io-screen-capture-expertise-for-2024/"><u>[Updated] Optimize Your Workday with IO Screen Capture Expertise for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-frame-sequencer-pro-package/"><u>Elite Frame Sequencer Pro Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huawei-mediapad-m5-review-a-tablet-focused-on-sight-and-sound/"><u>Huawei MediaPad M5 Review: A Tablet Focused on Sight and Sound</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>In 2024, The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-ps4-pro-review-how-sony-transforms-standard-playstation-4-into-a-4k-powerhouse/"><u>Inside the PS4 Pro Review: How Sony Transforms Standard PlayStation 4 Into a 4K Powerhouse</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interactive-experience-test-drive-dell-monitor-elite-noise-cancelling-headphones-and-high-definition-webcam/"><u>Interactive Experience: Test Drive Dell Monitor, Elite Noise Cancelling Headphones, & High-Definition Webcam</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-podcast-scheduling-for-2024/"><u>Mastering the Art of Podcast Scheduling for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-shrink-your-videos-the-top-free-compression-apps-for-iphone-and-ipad/"><u>New Shrink Your Videos The Top Free Compression Apps for iPhone and iPad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-tab-s7plus-review-a-premium-android-powerhouse/"><u>Samsung Galaxy Tab S7+ Review: A Premium Android Powerhouse</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-addressing-stability-issues-with-final-fantasy-xv-on-pcs/"><u>Troubleshooting Guide: Addressing Stability Issues with Final Fantasy XV on PCs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-guide-test-drive-the-google-nest-doorbell-with-batteries/"><u>User Guide: Test Drive the Google Nest Doorbell with Batteries</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools"
-date: 2024-10-22T21:58:42.327Z
-updated: 2024-10-30T00:39:22.581Z
+date: 2024-11-07T20:01:44.878Z
+updated: 2024-11-15T01:51:19.449Z
 tags:
   - games
   - tv
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 * You can add support for retro achievements and play multiplayer games with additional Bluetooth controllers.
 
  Gaming handhelds like the Steam Deck are great for emulation, allowing you to play a variety of games from classic systems on the go. With EmuDeck, you can see your emulated games alongside your regular Steam Library and launch them without launching a separate emulator first.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Is EmuDeck?
 
@@ -41,7 +48,21 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![Various emulators detected and installed directly on Steam through Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240803_095604.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You do have some control over which emulators are installed, however. I'd recommend only choosing the ones designed for the platforms that you actually want to use, since there are lots of options. Adding more emulators at a later date is as simple as opening up the EmuDeck app in Desktop Mode and selecting the ones that you're missing. It's easy!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Before Getting Started With EmuDeck
 
@@ -54,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
  With your microSD card prepared, put your Steam Deck into desktop mode by pressing the Steam button followed by Power > Switch to Desktop. Now open up a web browser and head to [EmuDeck.com](http://www.EmuDeck.com), download the EmuDeck installer for SteamOS using the link provided, put the installer somewhere you can access it (you might want to run it again later), then run it.
 
  Confirm that you want to run it and the installer will download the necessary files, and then install. From here you can follow the on-screen instructions to configure EmuDeck to your liking.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Adding Emulated Games to Your Steam Library
 
@@ -76,39 +90,32 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![Various game files inside the "PS2" ROMs folder in Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/files3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I recommend using an external mouse and keyboard to navigate Desktop Mode while moving files around, as the touch screen controls can make this process a little cumbersome.
 
  Once this is complete, open the EmuDeck app in Desktop mode and select "Steam ROM Manager." Click "Yes" if a pop-up window appears and it will bring you to the "Parsers" window where you can select which emulators you want to add to your Steam library, which I'd recommend so you can easily change settings later on.
 
 ![The ROM Manager application in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the "Add Games" button in the bottom left corner to see a list of all the games you've added as long as you put them in the right folder.
 
 ![The Parsers menu in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/parsers2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you have selected all of your desired games, select "Save to Steam" and the program should automatically parse all your installed games directly to your Steam library.
 
 ![The Emudeck ROM manager adding games to Steam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Multiplayer, Quality of Life Features, and Easy Expansion
@@ -118,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![Two people holding controllers playing a video game together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2019/11/3973a927.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shutterstock/REDPIXEL.PL
@@ -131,13 +138,6 @@ Shutterstock/REDPIXEL.PL
  Save states are also a given, since emulators usually allow them by default. EmuDeck goes the extra mile and creates button mappings to save and load state automatically. You can set a custom keybinding to save or load states. switch between files. and cut out load times or unskippable cutscenes.
 
  EmuDeck is also easy to expand and adding new games is as simple as dropping the files into the proper emulation folder and letting the program do the rest for you. You can add new emulators and update current ones automatically through the EmuDeck application in Desktop Mode without much hassle with just an internet connection.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Add Retro Achievement Support (Optional)
 
@@ -168,16 +168,18 @@ Shutterstock/REDPIXEL.PL
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-turn-onoff-picture-in-picture-mode-in-youtube-app/"><u>[Updated] Step by Step Guide Turn On/Off Picture In Picture Mode in YouTube App</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-six-picks-online-shopping-for-hdtvs/"><u>Discover the Ultimate Six Picks: Online Shopping for HDTVs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-casting-techniques-connect-your-android-to-fire-stick-seamlessly/"><u>Easy Casting Techniques: Connect Your Android to Fire Stick Seamlessly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/engulf-yourself-in-game-soundscapes-pro-x-style/"><u>Engulf Yourself In Game Soundscapes, Pro X Style</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-to-upgrade-and-add-games-to-your-nes-classic-console/"><u>How to Upgrade and Add Games to Your NES Classic Console</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/qnap-nasssd/"><u>QNAP NASデータの安全なバックアップ：外部SSDへの転送手順</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/real-time-media-magic-the-pmix-vs-wirecast-faceoff-for-2024/"><u>Real-Time Media Magic The PMix Vs. Wirecast Faceoff for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/skyrocket-productivity-with-mastered-windows-shortcut-combos/"><u>Skyrocket Productivity with Mastered Windows Shortcut Combos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-logitech-g-hub-fails-in-windows/"><u>Troubleshooting Steps When Logitech G Hub Fails in Windows</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unbeatable-oneplus-bargains-your-essential-prime-day-shopping-list/"><u>Unbeatable OnePlus Bargains: Your Essential Prime Day Shopping List</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/weighing-up-the-advantages-of-applecare-plus-warranty-extension/"><u>Weighing Up the Advantages of AppleCare Plus Warranty Extension</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprerancing-the-cutting-edge-tech-in-b550-xt/"><u>Comprerancing The Cutting-Edge Tech in B550-XT</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-site-management-streamline-your-web-experience/"><u>Cookiebot-Enabled Site Management: Streamline Your Web Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-a-winning-combo-with-rotiboxs-bluetooth-beanie-hat-a-reviewers-take-on-audio-experience-and-ease/"><u>Discover a Winning Combo with Rotibox's Bluetooth Beanie Hat - A Reviewer’s Take on Audio Experience & Ease</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-elite-audio-upgrades-the-creme-de-la-creme-sound-cards-of-the-2024-market/"><u>Discover Elite Audio Upgrades: The Crème De La Crème Sound Cards of the 2024 Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-your-inner-adventurer-the-incredible-compact-camera-sx70/"><u>Discover Your Inner Adventurer: The Incredible Compact Camera SX70</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/echo-pop-or-echo-dot-understanding-the-key-differences/"><u>Echo Pop or Echo Dot – Understanding The Key Differences</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elysian-estates-transforming-simple-nests-into-grand-homes/"><u>Elysian Estates: Transforming Simple Nests Into Grand Homes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-f54-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy F54 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-five-must-know-tech-tools-for-business/"><u>Leveraging AI: Five Must-Know Tech Tools for Business</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-10-free-video-translators-to-mitigate-translation-risks/"><u>New 2024 Approved Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-rated-free-apps-to-download-reels-from-instagram-effortlessly/"><u>Top-Rated, Free Apps to Download Reels From Instagram Effortlessly</u></a></li>
+<li><a href="https://fox-making.techidaily.com/tutoriel-pratique-pour-la-synchronisation-croisee-de-documents-via-robocopy-sur-windows-111087-guide-easy-to-use/"><u>Tutoriel Pratique Pour La Synchronisation Croisée De Documents via Robocopy Sur Windows 11/10/8/7 – Guide Easy-to-Use</u></a></li>
 </ul></div>
 

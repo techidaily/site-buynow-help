@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2024-11-03T18:40:09.305Z
-updated: 2024-11-04T19:48:18.406Z
+date: 2024-11-10T03:53:46.088Z
+updated: 2024-11-15T00:19:07.807Z
 tags:
   - games
   - tv
@@ -84,6 +84,13 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
@@ -94,23 +101,9 @@ Jerome Thomas / How-To Geek
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -133,10 +126,10 @@ Jerome Thomas / How-To Geek
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -149,11 +142,25 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -170,13 +177,6 @@ Jerome Thomas / How-To Geek
  But if you don’t mind hunting for the shadowy corners of a room during the day or waiting until nightfall, then there’s not much to dislike about what this projector can do. It’s a solid value from a reputable brand with modern software onboard.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -201,19 +201,16 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-photography-fundamentals-tips-and-apps-for-android/"><u>[New] 2024 Approved Photography Fundamentals Tips & Apps for Android</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-democratize-music-distribution-via-social-media/"><u>[New] In 2024, Democratize Music Distribution via Social Media</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dslr-vs-mirrorless-optimal-choice-for-video-production/"><u>[Updated] 2024 Approved DSLR vs Mirrorless Optimal Choice for Video Production</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-navigating-through-gesture-detection-methods/"><u>[Updated] 2024 Approved Navigating Through Gesture Detection Methods</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/classic-elegance-meets-modern-design-skagens-falster-2-the-refined-rival-of-the-iconic-iphone/"><u>Classic Elegance Meets Modern Design: Skagen's Falster 2 - The Refined Rival of the Iconic iPhone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-processor-performance-a-guide-to-choosing-the-right-tablet-pc/"><u>Comparing Processor Performance: A Guide to Choosing the Right Tablet PC</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dell-xps-13-gen-7-7390-2-in-1-laptop-review-unveiling-the-stunning-versatility-of-an-ultrabook/"><u>Dell XPS 13 Gen 7 (7390) 2-in-1 Laptop Review: Unveiling the Stunning Versatility of an Ultrabook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevate-your-garden-wi-fi-game-expert-insights-on-the-netgear-orbi-rbs50y-features-and-performance/"><u>Elevate Your Garden Wi-Fi Game - Expert Insights on the Netgear Orbi RBS50Y Features and Performance</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/empowerment-through-knowledge-lut-design-for-the-aspiring-film-professional/"><u>Empowerment Through Knowledge LUT Design for the Aspiring Film Professional</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-aphacas-bt69-wireless-fm-transmitter-revolutionizing-in-car-audio-with-bluetooth-connectivity/"><u>Expert Insights on Aphaca's BT69 Wireless FM Transmitter: Revolutionizing In-Car Audio with Bluetooth Connectivity</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-7-plus-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 7 Plus SIM Lock?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mounting-dream-md2380-tv-wall-mount-review-a-low-cost-tv-with-quality/"><u>Mounting Dream MD2380 TV Wall Mount Review: A Low-Cost TV With Quality</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/streamlining-your-digital-memories-eliminating-photo-doubles-on-both-macos-and-apple-mobile-os/"><u>Streamlining Your Digital Memories: Eliminating Photo Doubles on Both MacOS & Apple Mobile OS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-best-practices-for-sensational-video-loops/"><u>[New] In 2024, Instagram's Best Practices for Sensational Video Loops</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversion-gratuite-des-images-png-vers-le-format-jpeg-sur-internet-decouvrez-les-solutions-efficaces-avec-movavi/"><u>Conversion Gratuite Des Images PNG Vers Le Format JPEG Sur Internet: Découvrez Les Solutions Efficaces Avec Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empowering-websites-with-cookiebots-dynamic-tracking-technology/"><u>Empowering Websites with Cookiebot's Dynamic Tracking Technology</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/leveraging-your-google-id-for-private-yt-video-distribution/"><u>Leveraging Your Google ID for Private YT Video Distribution</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/professional-blk-design-collection-enhanced-bootstrap-4-template-package-from-creative-tim/"><u>Professional BLK Design Collection - Enhanced Bootstrap 4 Template Package From Creative Tim</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-review-of-samsung-galaxy-s20-fe-5g-captivating-all-who-love-5g-technology/"><u>The Definitive Review of Samsung Galaxy S20 FE 5G - Captivating All Who Love 5G Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-for-budget-minded-traffic-alert-devices-uncover-escortpassports-insightful-s55-examination/"><u>The Ultimate Guide for Budget-Minded Traffic Alert Devices - Uncover EscortPassport’s Insightful S55 Examination.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-tablet-spotlight-on-the-2021-samsung-galaxy-tab-s7-for-android-lovers/"><u>The Ultimate Guide to Choosing a Tablet: Spotlight on the 2021 Samsung Galaxy Tab S7 for Android Lovers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-best-in-class-open-source-routers-spotlight-on-linksys-wrt3200acm/"><u>The Ultimate Guide to the Best in Class Open Source Routers: Spotlight on Linksys WRT3200ACM</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-reliable-and-rechargeable-romer-illuminator-a-bright-companastern-for-outdoor-enthusiasts/"><u>The Ultimate Guide to the Reliable and Rechargeable Romer Illuminator: A Bright Companastern for Outdoor Enthusiasts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-qualcomm-atheros-bluetooth-driver-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing Qualcomm Atheros Bluetooth Driver Issues in Windows 11</u></a></li>
 </ul></div>
 

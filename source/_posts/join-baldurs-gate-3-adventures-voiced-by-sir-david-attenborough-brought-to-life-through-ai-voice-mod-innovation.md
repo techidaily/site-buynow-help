@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2024-11-02T18:45:37.123Z
-updated: 2024-11-05T00:39:12.989Z
+date: 2024-11-13T19:06:23.231Z
+updated: 2024-11-15T04:35:43.864Z
 tags:
   - games
   - tv
@@ -28,10 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Thanks to AI, we're seeing some truly out-there mods for games, and one of the most impressive might be one that swaps out the Baldur's Gate 3 narrator for a voice that almost (but not quite) sounds like Sir David Attenborough. Here's how to try it for yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What You Need
@@ -50,6 +50,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step 1: Open the Mod Manager
 
  With the mod manager file unzipped, open the folder and run BG3ModManager.exe. You should see this program window open. It looks a little complicated, but we're going to follow a very basic process.
@@ -57,16 +64,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 2: Import the Mod Fixer
@@ -80,22 +87,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Step 4: Export Mod Order
 
@@ -106,13 +106,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You should see a green message pop up at the bottom of the window in the mod manager.
 
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This means we're ready to go!
 
@@ -127,6 +120,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 Your browser does not support the video tag. 
 
  Now you can play the game like normal with your new narrator.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Removing Mods
 
@@ -153,22 +153,21 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-pros-and-cons-ios-screen-recorder-apps-for-2024/"><u>[Updated] Pros and Cons IOS Screen Recorder Apps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-striking-the-balance-visual-strategies-for-podcast-identity/"><u>[Updated] Striking the Balance Visual Strategies for Podcast Identity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-love-and-light-nine-essential-filmora-elements/"><u>2024 Approved Love and Light Nine Essential Filmora Elements</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-broadcast-your-play-obs-studio-techniques/"><u>In 2024, Broadcast Your Play - OBS Studio Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-itel-p55plus-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Itel P55+ Without PUK Codes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-12-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 12 Making It Possible</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-extract-audio-from-mp4-top-rated-mp4-to-mp3-converters/"><u>New In 2024, Extract Audio From MP4 Top-Rated MP4 to MP3 Converters</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210187823-9781250763150-this-is-your-destiny/"><u>This Is Your Destiny | Free Book</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tidy-up-your-pictures-top-10-online-unblur-tools-for-2024/"><u>Tidy Up Your Pictures Top 10 Online Unblur Tools for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-score-in-depth-analysis-of-the-amazfit-bip-the-budget-friendly-smartwatch/"><u>Top Score! In-Depth Analysis of the Amazfit BIP - The Budget-Friendly Smartwatch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-a-tablet-by-its-chip-performance/"><u>Ultimate Guide to Choosing a Tablet by Its Chip Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-asus-orbi-tri-band-mesh-network-with-wi-fi-6-for-robust-household-internet-coverage/"><u>Ultimate Guide to the Asus Orbi Tri-Band Mesh Network with Wi-Fi 6 for Robust Household Internet Coverage</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-and-review-a-closer-look-at-features-camera-and-more-on-google-pixel-6/"><u>Unboxing & Review: A Closer Look at Features, Camera, and More on Google Pixel 6</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-professional-photo-editing-skills-with-darktables-free-linux-and-macos-raw-processor/"><u>Unleash Professional Photo Editing Skills with Darktable's FREE Linux & macOS RAW Processor.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-budget-friendly-phones-with-a-moto-g-stylus-review/"><u>Unlocking the Potential of Budget-Friendly Phones with a Moto G Stylus Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-strengths-of-nokias-72-a-comprehensive-look-at-a-mid-range-market-disruptor/"><u>Unpacking the Strengths of Nokia's 7.2: A Comprehensive Look at a Mid-Range Market Disruptor</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-high-performance-capabilities-of-fujitsus-ix1600-document-scanner-desktop-review/"><u>Unveiling the High-Performance Capabilities of Fujitsu's iX1600 Document Scanner - Desktop Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-conversion-companion-best-youtubes-to-avis/"><u>[New] 2024 Approved The Ultimate Conversion Companion Best YouTubes to AVIs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-filmora-editing-traits-for-fan-loyalty/"><u>[Updated] Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unraveling-the-warped-world-of-gopro-fisheye-effects/"><u>[Updated] Unraveling The Warped World of GoPro Fisheye Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-picture-warping-techniques-with-various-apps/"><u>2024 Approved Mastering Picture Warping Techniques with Various Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/basic-techniques-for-effective-color-grading-in-ps-for-2024/"><u>Basic Techniques for Effective Color Grading in PS for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-bose-quietcontrol-30-as-good-as-promised-a-look-in/"><u>Is Bose QuietControl 30 as Good as Promised? A Look-In</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/motorola-one-vs-iphone-comparing-design-and-costs-for-savvy-shoppers/"><u>Motorola One Vs. IPhone: Comparing Design and Costs for Savvy Shoppers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nokia-72-review-an-exceptional-contender-in-the-crowded-mid-range-phone-market/"><u>Nokia 7.2 Review: An Exceptional Contender in the Crowded Mid-Range Phone Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/premium-e-reader-insights-unveiling-the-amazon-kindle-oasiss-exquisite-design-vs-price-tag/"><u>Premium E-Reader Insights: Unveiling the Amazon Kindle Oasis's Exquisite Design Vs. Price Tag</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/roku-express-streaming-device-reviewed-high-storage-low-spending/"><u>Roku Express Streaming Device Reviewed: High Storage, Low Spending</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-qn55q6f-unveiled-next-gen-hdr-and-4k-brilliance-in-a-smart-television/"><u>Samsung QN55Q6F Unveiled: Next-Gen HDR and 4K Brilliance in a Smart Television</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsungs-latest-offering-the-innovative-55-ru7300-4k-smart-tv-reviewed/"><u>Samsung's Latest Offering: The Innovative 55 Ru7300 4K Smart TV Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-for-fixing-an-absent-d3dx939dll-error-on-your-pc/"><u>Steps for Fixing an Absent d3dx9_39.dll Error on Your PC</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-10-audio-enhancement-software-for-ios-devices-for-2024/"><u>Top 10 Audio Enhancement Software for iOS Devices for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Vivo Y78 5G</u></a></li>
 </ul></div>
 

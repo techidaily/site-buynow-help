@@ -1,7 +1,7 @@
 ---
 title: "The Wasteland II - Director's Edition Reviewed: An Engrossing Turn-By-Turn Adventure"
-date: 2024-10-18T00:00:44.777Z
-updated: 2024-10-24T11:09:50.957Z
+date: 2024-11-09T19:21:26.333Z
+updated: 2024-11-14T19:06:30.577Z
 categories:
   - BestProducts
 description: "This Article Describes The Wasteland II - Director's Edition Reviewed: An Engrossing Turn-By-Turn Adventure"
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 ![AC Vallhalla](https://www.lifewire.com/thmb/1uTfLpDv2WlYuf-Ekg6qBUTQqP4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Assassins-Creed-Valhalla-1-b7cabc5b5656439bbb47518048f57aa5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
@@ -73,19 +73,6 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 
  I played the game on PC for several days, but it’s also available on all other major platforms including the upcoming[Xbox Series X](https://www.lifewire.com/price-release-date-specs-xbox-series-x-5077092) , Xbox One, upcoming[PlayStation 5](https://www.lifewire.com/playstation-5-4778089) , and PlayStation 4\.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Story: A lot going on, and none of it to be spoiled**
 
  There’s a lot to say here, but not much that can be said without spoilers. Given how engaging I found the plot, it would be a shame to spoil it in any way. Suffice it to say that, though it begins as a typical revenge story, it soon becomes more complex and interesting. You play as Eivor, a male or female warrior who raids England during the reign of Alfred the Great.
@@ -104,14 +91,14 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 
 ![AC sneak](https://www.lifewire.com/thmb/Vk4XvoE4lJwcjde1C_tJUVBc0Ac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-9-a5e8ef2a5bef455d8cbaa9e749167f53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Gameplay: Easy to pick up, challenging to master**
 
@@ -130,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 ![AC Valhalla 3](https://www.lifewire.com/thmb/giaP-JV9QK6uFcdU_di4iWkvszw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-5-56a01de51a2a4540ae8650bece502873.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
@@ -151,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 ![AC ship](https://www.lifewire.com/thmb/n9S5L4JClTiqP1vYa_7cTGw6o0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-7-d89d4a9941b8488ea6ef1aeba6486895.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
@@ -174,10 +161,10 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Customization: Lots of stuff to tweak**
@@ -186,6 +173,13 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 
  I was particularly struck by the amber rays of the setting sun that slanted through the rigging of my longboat as I returned from a mountain climbing excursion.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Graphics: Epic good looks**
 
  Valhalla is an absolutely gorgeous game. Everything from the detailed character models to the vibrant open world is beautiful to look upon. Changing weather alters the mood of landscapes, and can create breathtaking moments. I was particularly struck by the amber rays of the setting sun that slanted through the rigging of my longboat as I returned from a mountain climbing excursion.
@@ -193,6 +187,13 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
  Towns and cities are richly detailed, with people going about their daily business in this muddy and gritty medieval setting. The wilderness is also magnificent, with wild natural beauty and towering ruins in equal measure. Wildlife and farm animals are both present in this world, adding vibrancy to the countryside.
 
 ![AC Mountain](https://www.lifewire.com/thmb/YazM4IIiw6qfR_cd-AfR8Cek9pg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-10-b813058de14c4b92978d22f84715ab98.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
 
@@ -219,13 +220,6 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 ![AC horse](https://www.lifewire.com/thmb/teY5MG-6xAT5sxNurIFy_iYPPvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Assassins-Creed-Valhalla-2-58ab82ef1f624e01b1c1c6dab8bca06b.jpg)
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Assassin’s Creed: Valhalla vs. Watch Dogs: Legion**
 
@@ -260,20 +254,22 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-timed-success-organizing-video-conferences-via-slackplusfilmora/"><u>[New] 2024 Approved Timed Success Organizing Video Conferences via Slack+Filmora</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-deciphering-youtube-conversations-for-2024/"><u>[New] Deciphering YouTube Conversations for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-cut-cost-and-clutter-together-top-45-best-free-apps-for-saving-videos-on-android-for-2024/"><u>[Updated] Cut Cost and Clutter Together Top 45 Best Free Apps for Saving Videos on Android for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-savory-scenes-mastering-the-art-of-eating-focused-filmography/"><u>2024 Approved Savory Scenes Mastering the Art of Eating-Focused Filmography</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-note-12r-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi Note 12R?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-designing-engrossing-videography-storylines/"><u>In 2024, Designing Engrossing Videography Storylines</u></a></li>
-<li><a href="https://video-capture.techidaily.com/minecraft-sustainable-house-projects-6-10/"><u>Minecraft Sustainable House Projects #6-10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-copywriting-ethically-integrating-ai-techniques/"><u>The Future of Copywriting: Ethically Integrating AI Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-unobtrusive-and-cost-effective-rexing-v1-a-complete-dashcam-evaluation/"><u>The Unobtrusive and Cost-Effective Rexing V1 - A Complete DashCam Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/theodore-by-flexispot-a-chic-and-contemporary-stand-up-workspace-evaluation/"><u>Theodore by Flexispot: A Chic & Contemporary Stand-Up Workspace Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-most-advanced-voice-controlled-speakers/"><u>Ultimate Guide to the Most Advanced Voice Controlled Speakers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-high-quality-display-for-less-2020-lenovo-tab-m10-fhd-plus-reviewed/"><u>Unlocking High-Quality Display for Less: 2020 Lenovo Tab M10 FHD Plus Reviewed!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-1200mbps-netgear-powerline-adapter-a-look-at-how-form-impacts-function/"><u>Unpacking the 1200Mbps Netgear Powerline Adapter: A Look at How Form Impacts Function</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-a-comprehensive-look-at-the-resilient-high-performing-unihertz-atom-xl/"><u>Unveiling the Potential: A Comprehensive Look at the Resilient, High-Performing Unihertz Atom XL</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722928904975-why-you-need-to-dive-into-yakuza-like-a-dragon-the-definitive-jrpg-experience/"><u>Why You Need to Dive Into Yakuza: Like A Dragon – The Definitive JRPG Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-deciding-between-obs-and-streamlabs-for-live-broadcasting/"><u>[New] 2024 Approved Deciding Between OBS and Streamlabs for Live Broadcasting</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-ultimate-guide-to-selecting-8-best-instagram-scheduler-tools/"><u>[Updated] In 2024, The Ultimate Guide to Selecting 8 Best Instagram Scheduler Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/all-about-the-mavix-m9-gamers-seat-expert-review-highlighting-uncompromised-comfort-during-lengthy-gameplay/"><u>All About the Mavix M9 Gamer's Seat - Expert Review Highlighting Uncompromised Comfort During Lengthy Gameplay</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/are-you-holding-on-to-an-old-school-ipad/"><u>Are You Holding on to an Old-School iPad?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-and-impressions-on-sonys-49-inch-4k-uhd-smart-tv-the-xbr49x900f-model/"><u>Comprehensive Analysis and Impressions on Sony's 49-Inch 4K UHD Smart TV: The XBR49X900F Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-an-objective-review-of-the-truecaller-platform/"><u>Expert Insights: An Objective Review of the TrueCaller Platform</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-15-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 15 Pro without Password?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-effectively-use-the-print-functionality-in-adobe-photoshop/"><u>How to Effectively Use the Print Functionality in Adobe Photoshop</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-deciding-to-display-understanding-and-managing-off-facebook-activity/"><u>In 2024, Deciding to Display Understanding and Managing Off-Facebook Activity</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic-5-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic 5 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-soundbot-sb210-superior-audio-output-on-demand/"><u>In-Depth Analysis of the Soundbot SB210: Superior Audio Output on Demand</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-runners-timepieces-best-performing-watches-for-athletes-2n24-edition/"><u>Leading Runner's Timepieces: Best Performing Watches for Athletes, 2N24 Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/nba-game-broadcasting-select-the-best-platforms-for-2024/"><u>NBA Game Broadcasting Select the Best Platforms for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-philips-hf3505-sunrise-simulation-timer-your-basic-yet-advanced-alarm-clock/"><u>Reviewing the Philips HF3505 Sunrise Simulation Timer – Your Basic yet Advanced Alarm Clock</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-screen-recorder-pro-win11-edition-for-2024/"><u>Ultimate Screen Recorder Pro - Win11 Edition for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g73-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G73 5G fingerprint</u></a></li>
 </ul></div>
 
