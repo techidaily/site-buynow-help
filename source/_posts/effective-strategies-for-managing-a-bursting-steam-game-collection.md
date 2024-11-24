@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing a Bursting Steam Game Collection
-date: 2024-11-11T02:50:26.248Z
-updated: 2024-11-15T00:51:57.961Z
+date: 2024-11-18T17:14:12.059Z
+updated: 2024-11-24T16:30:06.755Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Effective Strategies for Managing a Bursting Steam Game Collection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Prioritizing short games with strong storylines helps maximize enjoyment in limited gaming windows.
@@ -22,10 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After collecting games from sales, bundles, and elsewhere, I have over 200 games in my Steam library and not enough time to play them all. This called for some prioritization. Here's how I prioritized the games that are worth my time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's In My Game Library: The Assessment Step
@@ -57,10 +58,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Games making up my steam library before I prioritized them by what I needed to play first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/my-library-before-prioritizing.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, for the longer games, I implemented a strict playtime window. A long game had exactly one hour of playtime to hook me. If I wasn't interested in the game, the characters, or the plot at the end of that playtime, I would drop it. This is where my subjectivity came in since I knew that some of these games already had weak plotlines (or none at all).
@@ -72,10 +70,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After going through this process, I whittled down the 200+ games in my inventory to a little over 25 titles, all of which appealed to me and which I was looking forward to playing. I still have the other 175+ games in my library, but I'm not really as interested in playing them. Maybe when I'm bored, I'll install something and give it a go, but the priority games have already been decided.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  My Methodology Isn't Perfect
@@ -86,14 +81,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![How Long to Beat entry for Elden Ring.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-20-at-08-18-46.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Arguably the biggest issue that someone attempting to copy my method will have is categorizing their games into games that can be completed relatively easily and those that will take a lot more time. Judging average playtime using a website like [How Long to Beat](https://howlongtobeat.com) for a game isn't a solid metric, and it's usually better to look at the reviews and comments on the game to get a better feel for that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Clean Steam Library Is a Happy Steam Library
 
@@ -114,18 +106,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-essential-open-worlds-you-cant-ignore-in-2024/"><u>[New] Essential Open Worlds You Can't Ignore, In 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-avoiding-piracy-safe-techniques-for-youtube-to-mp4-for-2024/"><u>[Updated] Avoiding Piracy Safe Techniques for Youtube-to-MP4 for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-chuckle-filled-chapters-best-comedy-video-plans-in-a-nutshell/"><u>[Updated] In 2024, Chuckle-Filled Chapters Best Comedy Video Plans in a Nutshell</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-10t-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Realme 10T 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-android-tablets-compared-spotlight-on-the-lenovo-tab-4s-pros-and-cons/"><u>Budget Android Tablets Compared: Spotlight on the Lenovo Tab 4'S Pros and Cons</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/can-you-extend-a-notebooks-memory-capacity-easily/"><u>Can You Extend a Notebook’s Memory Capacity Easily?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/combining-protection-with-performance-discovering-bose-soundsport-frames/"><u>Combining Protection with Performance: Discovering Bose SoundSport Frames</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/compact-criacr-bluetooth-fm-transmitter-cp2n-comprehensive-review-and-analysis/"><u>Compact CRIACR Bluetooth FM Transmitter (CP2n) - Comprehensive Review and Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-beantech-bitwatch-s1plus-smartwatch-analysis-exceptional-value-for-money/"><u>Comprehensive Beantech Bitwatch S1+ Smartwatch Analysis - Exceptional Value for Money</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-print-settings-in-photoshop/"><u>Comprehensive Guide to Print Settings in Photoshop</u></a></li>
-<li><a href="https://win11.techidaily.com/experience-the-future-first-steps-with-windows-11-widgets/"><u>Experience the Future: First Steps with Window's 11 Widgets</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-fringe-to-fortune-the-power-of-reels-creators-and-the-metric-marketplace/"><u>From Fringe to Fortune: The Power of Reels, Creators & the Metric Marketplace</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211494794-resolved-unplanned-automatic-reboots-on-windows-10-fixed/"><u>Resolved: Unplanned Automatic Reboots on Windows 10 – Fixed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-command-and-conquer-triumphant-tales-of-the-best-7-total-wars-for-2024/"><u>[New] Command & Conquer Triumphant Tales of the Best 7 Total Wars for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pro-video-capture-solutions-on-mac-beyond-the-bandicamp-era/"><u>[Updated] 2024 Approved Pro Video Capture Solutions on Mac Beyond the Bandicamp Era</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infuse-sound-into-your-whatsapp-status-update/"><u>[Updated] Infuse Sound Into Your WhatsApp Status Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/academic-citation-techniques-for-using-gpt-3-powered-chatbots/"><u>Academic Citation Techniques for Using GPT-3 Powered Chatbots</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-philips-hf3520-clock-radio-value-meets-performance/"><u>Comprehensive Guide to the Philips HF3520 Clock Radio: Value Meets Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-lg-k51-evaluation-gorgeous-presentation-counterbalanced-by-modest-processing-speed/"><u>Comprehensive LG K51 Evaluation: Gorgeous Presentation Counterbalanced by Modest Processing Speed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-lg-watch-style-examination-mastering-the-classic-wear-os-20-timepiece/"><u>Comprehensive LG Watch Style Examination - Mastering the Classic Wear OS 2.0 Timepiece</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-logitech-c615-webcam-assessment-balancing-quality-with-cost/"><u>Comprehensive Logitech C615 Webcam Assessment: Balancing Quality with Cost</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creation-of-international-institutions/"><u>Creation of International Institutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/delving-into-the-design-brilliance-of-rayman-legends-platform-playgrounds/"><u>Delving Into the Design Brilliance of Rayman Legends' Platform Playgrounds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-ssl-certificate-exploration/"><u>Economical SSL Certificate Exploration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevating-ps3-space-tips-for-hdd-expansion/"><u>Elevating PS3 Space: Tips for HDD Expansion</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/implementazione-della-crittografia-del-contenuto-risoluto-garantire-la-sicurezza-e-la-privacy-dei-dati-nonostante-il-blocco-della-crittografia-in-windows-11190/"><u>Implementazione Della Crittografia Del Contenuto Risoluto: Garantire La Sicurezza E La Privacy Dei Dati Nonostante Il Blocco Della Crittografia in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-a2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi A2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-techniques-for-awesome-instagram-videos/"><u>In 2024, Top Techniques for Awesome Instagram Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-depth-app-insights-the-az-reporters-cut/"><u>In-Depth App Insights - The AZ Reporter's Cut</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unable-to-load-devices-wudfrd-driver-event-id-219/"><u>Unable to Load Device's WudfRd Driver (Event ID: 219)</u></a></li>
 </ul></div>
 

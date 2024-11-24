@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2024-11-12T22:03:40.762Z
-updated: 2024-11-14T18:07:25.916Z
+date: 2024-11-23T16:50:27.451Z
+updated: 2024-11-24T16:29:03.551Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Which Channels are Broadcasting the Olympics?](https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/)
@@ -22,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Watch 2024 Olympic Gymnastics](https://ai-vdieo-software.techidaily.com/on-december-3rd-google-play-announced-its-choice-and-also-presented-the-best-android-apps-that-were-selected-by-users-so-without-further-ado-lets-take-a-loo/)
 
  The 2024 Summer Olympics are landing in Paris at the end of July, and you don't need cable to access a lot of the action. NBC will broadcast many daytime and primetime events. With the aid of an over-the-air (OTA) antenna, you can watch for free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Which Channels are Broadcasting the Olympics?
 
@@ -39,22 +47,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Most modern televisions have an integrated tuner, meaning they are ready to be connected to an antenna. This makes setting up an antenna to watch the 2024 Olympics a lot easier than it might sound.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Setting Up an Antenna
 
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
@@ -65,13 +63,6 @@ Jordan Gloor / How-To Geek
 
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Which Olympic Events I Can Watch for Free?
 
  You will be able to watch NBC Olympics coverage using an antenna in most places. You'll find the [full schedule on the Olympics' official website](https://www.nbcolympics.com/full-schedule). NBC Sports has also [published a schedule](https://www.nbcsports.com/olympics/news/paris-2024-olympic-day-by-day-competition-schedule) adjusted for Eastern Standard Time in the United States (six hours behind Paris).
@@ -79,21 +70,16 @@ Jordan Gloor / How-To Geek
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Watch 2024 Olympic Gymnastics
 
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
 
@@ -118,18 +104,22 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-enhancing-mobile-broadcasting-via-obs-strategies/"><u>[New] 2024 Approved Enhancing Mobile Broadcasting via OBS Strategies</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-an-inside-look-at-magix-vpxs-advanced-techniques/"><u>[Updated] An Inside Look at Magix VPX's Advanced Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-virtual-victory-channel-over-a-hundred-heroes-rise/"><u>[Updated] In 2024, Virtual Victory Channel Over a Hundred Heroes Rise</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/airpod-setup-on-hp-laptops-the-ultimate-walkthrough/"><u>AirPod Setup on HP Laptops - The Ultimate Walkthrough</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-your-pc-ready-for-win-11-essential-usb-setup-strategies/"><u>Get Your PC Ready for Win 11: Essential USB Setup Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-nubia-red-magic-8s-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nubia Red Magic 8S Pro Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-how-to-change-your-voice-in-free-fire-game-free-solution-included/"><u>In 2024, How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-quintessential-travel-gadget-collection/"><u>The Quintessential Travel Gadget Collection</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-anker-powercoreplus-26800b-battery-kit-breakdown-and-performance-testing/"><u>The Ultimate Anker PowerCore+ 26800B Battery Kit Breakdown and Performance Testing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-budget-picked-detailed-look-into-asuss-convertible-marvel-the-chromebook-flip-c302ca/"><u>The Ultimate Budget Picked: Detailed Look Into Asus's Convertible Marvel, the Chromebook Flip C302CA</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-evaluating-key-aspects-before-purchasing-a-tablet/"><u>The Ultimate Guide: Evaluating Key Aspects Before Purchasing a Tablet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-journey-through-challenging-landscapes-top-race-rc-rock-crawler-breakdown/"><u>The Ultimate Journey Through Challenging Landscapes: Top Race RC Rock Crawler Breakdown</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-zte-nubia-flip-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from ZTE Nubia Flip 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-ideal-tools-for-group-online-communication/"><u>[New] In 2024, Ideal Tools for Group Online Communication</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-obs-guide-seamless-youtube-and-twitch-streaming/"><u>[New] In 2024, OBS Guide Seamless YouTube and Twitch Streaming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-introduction-to-moving-graphics-core-principles-for-2024/"><u>[New] Introduction to Moving Graphics Core Principles for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-the-world-of-giant-file-movement-between-iphone-and-macos/"><u>2024 Approved Navigating the World of Giant File Movement Between iPhone and macOS</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/advanced-argon-dashboard-pro-with-material-ui-integration-enhanced-react-dashboards-by-creative-tim/"><u>Advanced Argon Dashboard Pro with Material UI Integration – Enhanced React Dashboards by Creative Tim</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convertidor-online-gratuito-de-webm-a-swf-movavi/"><u>Convertidor Online Gratuito De WEBM a SWF - Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-a54-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy A54 5G online without jailbreak</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/long-hours-at-the-office-discover-how-the-ergohead-mat-enhances-long-term-standing-posture-and-comfort/"><u>Long Hours at the Office? Discover How the Ergohead Mat Enhances Long-Term Standing Posture & Comfort</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-tablet-choices-decoding-importance-of-dimensions-and-mass-for-optimal-use/"><u>Mastering Tablet Choices: Decoding Importance of Dimensions and Mass for Optimal Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nikon-coolpix-b500-promising-wifi-delivering-disappointment/"><u>Nikon COOLPIX B500 - Promising Wifi, Delivering Disappointment</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/234291-9781135636258-optimal-human-being/"><u>Optimal Human Being | Free Book</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/playstation-5-original-vs-playstation-5-slim-unveiling-their-similarities-and-differences/"><u>PlayStation 5 Original vs PlayStation 5 Slim: Unveiling Their Similarities and Differences</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rca-titanium-foam-ear-protectors-testing/"><u>RCA Titanium Foam Ear Protectors Testing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reality-check-how-effective-is-the-tp-link-avn1300-as-a-wi-fi-signal-amplifier/"><u>Reality Check: How Effective Is the TP-Link AVn1300 as a Wi-Fi Signal Amplifier?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/remobell-under-100-dollars-your-ultimate-guide-to-a-secure-smart-home/"><u>RemoBell Under 100 Dollars: Your Ultimate Guide to a Secure Smart Home</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-your-streaming-experience-the-new-chromecast-with-google-tv/"><u>Revolutionizing Your Streaming Experience: The New Chromecast with Google TV</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-mac-subtitling-workshop-for-2024/"><u>The Ultimate Mac Subtitling Workshop for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Deep Dive Into the Director's Cut: Why Wasteland 2 Is a Must-Play Turn-Based RPG"
-date: 2024-09-04T16:12:02.786Z
-updated: 2024-09-05T16:12:02.786Z
+date: 2024-11-17T16:20:38.221Z
+updated: 2024-11-24T16:40:25.222Z
 categories:
   - BestProducts
 description: "This Article Describes A Deep Dive Into the Director's Cut: Why Wasteland 2 Is a Must-Play Turn-Based RPG"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 ## Apple MacBook Pro 16-inch (2021)
 
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/L5Mbsc5JB_OpmoLJkqia2EonbI8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-hero-8413a7aa67ca443bb241da703c1025b2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Sascha Brodsky
 
@@ -40,6 +44,10 @@ Lifewire / Sascha Brodsky
 ## Apple MacBook Pro 16-inch (2021)
 
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/Bj4JU3ddfkgYppYQYoy1GmCukCA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-hero-8413a7aa67ca443bb241da703c1025b2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Sascha Brodsky
 
@@ -68,12 +76,6 @@ Lifewire / Sascha Brodsky
 
  I’ve been using Apple portables ever since the Powerbook 100 was released in 1991\. After spending several weeks with the new MacBook Pro, it offers the responsiveness previously associated only with iPads and iPhones, matched with the refined form factor of Apple’s best laptops.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: Back to the future
 
  On the surface, the new MacBook Pro doesn’t look radically different from Apple’s previous Pro laptop models. It’s got a similar aluminum case, and the screen is about the same size as the 2019 model.
@@ -82,23 +84,15 @@ Lifewire / Sascha Brodsky
 
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/dFndxams3xUoua0_gkYqRycgBdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-1-db37ffedba744e8eb2070780c0d8de10.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Sascha Brodsky
 
  The Pro could be considered a step back in some areas. For one thing, at 0.66 by 14 by 9.8 inches and 4.8 pounds, the MacBook Pro is chunkier and heavier than the model it replaces. This is definitely not a laptop you’ll forget you are carrying in your backpack. On the other hand, the heft of the new MacBook is reassuring and in keeping with its target market of professionals.
 
  Apple has also gone full circle and replaced the ports it removed in previous iterations of the MacBook. You get a MagSafe connector, headphone jack, SD card slot, HDMI port, and three Thunderbolt 4 ports, which should be enough for almost any user. There’s no USB-A port but most people won’t miss it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Keyboard: Precision is everything
 
@@ -120,6 +114,10 @@ Lifewire / Sascha Brodsky
 
  The new MacBook’s trackpad works perfectly, which is more than you can about the one on most Windows laptops. I had no trouble flicking the cursor accurately around the screen when spending hours editing documents.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Display: Bright and beautiful
 
  The Pro sports the best display I’ve ever used on any computer and might be a reason to buy this model all by itself. It screams quality.
@@ -135,11 +133,9 @@ Lifewire / Sascha Brodsky
  Text looks terrific on the Pro, and I ended up spending time gazing at Word documents just to admire the way words look so crisp and defined. Video playback was equally impressive, with the Mini-LED screen revealing a level of detail that made me want to rewatch my favorite movies. The no-glare coating also works very well, even when using the Pro in direct sunlight.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Performance: Sizzling speed that stays cool
 
  The MacBook Pro uses the same cutting-edge M1 chip, designed by Apple, that’s been powering some of the company’s other machines over the past year.
@@ -150,12 +146,6 @@ Lifewire / Sascha Brodsky
 
 ![Apple MacBook Pro 16-inch (M1, 2021)](https://www.lifewire.com/thmb/UM5_acSqOhRJtIaZE3CeAWp45y0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-pro-2-2be1639ee44f489286cb43a53aaf6454.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Sascha Brodsky
 
  For those who want to know the details, the PCMark benchmarking software found the following scores for the MacBook Pro:
@@ -190,6 +180,10 @@ Lifewire / Sascha Brodsky
 
  A less expensive MacBook will be just fine for many users who just need a light work and fun machine. But for anyone who wants arguably the best laptop ever made, only the new MacBook Pro will do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MacBook Pro (M1, 2021) vs. MacBook Air (M1, 2020)
 
  There’s an excellent case to be made that for many people, the much less expensive MacBook Air is a better option than the Pro model.
@@ -208,24 +202,12 @@ Lifewire / Sascha Brodsky
 
  As one of the newest and more expensive laptops on the market, it’s no surprise that I’m giving the MacBook Pro top marks in practice. Blazing speed, a great screen, and all day and then some battery life make this a great laptop for almost any use. However, the design is back to the basics and road warriors might want to consider a lighter, less bulky model. But, if you depend on your MacBook for demanding tasks, this is a must-buy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Apple MacBook Pro 13-inch (M1, 2020)](https://www.lifewire.com/macbook-pro-13-inch-m1-2020-review-5092658)
 * [Apple MacBook Air 13-inch](https://www.lifewire.com/macbook-air-13-inch-m1-2020-review-5092793)
 * [Dell XPS 13 7390 (2020)](https://www.lifewire.com/dell-xps-13-7390-2-in-1-review-5113106)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  MacBook Pro 16-inch (2021)
@@ -245,14 +227,11 @@ Lifewire / Sascha Brodsky
 * Battery Life  Up to 21 hours
 * Ports  3x Thunderbolt 4 (USB-C), HDMI, SDXC card slot
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -261,4 +240,17 @@ Lifewire / Sascha Brodsky
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-achieving-a-natural-sound-curve-dimming-audio-smoothly/"><u>[New] Achieving a Natural Sound Curve Dimming Audio Smoothly</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-aeropixel-remastering-toolkit-windowsmac/"><u>[Updated] In 2024, AeroPixel Remastering Toolkit (Windows/Mac)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>[Updated] Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-budget-friendly-z-edge-z3plus/"><u>Comprehensive Review of the Budget-Friendly Z-Edge Z3+</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/guia-paso-a-paso-deshabilite-el-bloqueo-de-orientacion-de-pantalla-en-windows-nuevo-windows-11-con-estas-3-soluciones-simples/"><u>Guía Paso a Paso: Deshabilite El Bloqueo De Orientación De Pantalla en Windows Nuevo Windows 11 Con Estas 3 Soluciones Simples</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-8-best-zombie-games/"><u>In 2024, The 8 Best Zombie Games</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-newest-ring-video-doorbell-power-solution-insights/"><u>In-Depth Look at the Newest Ring Video Doorbell Power Solution Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/into-the-digital-frontier-vr-today-and-tomorrow-for-2024/"><u>Into the Digital Frontier VR Today & Tomorrow for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-affordable-microsoft-surface-go-bridging-gaps-with-a-unique-identity-challenge/"><u>The Affordable Microsoft Surface Go - Bridging Gaps with a Unique Identity Challenge</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-perfect-travel-companion-for-avid-readers-an-in-depth-review-of-the-kobo-clara-hd/"><u>The Perfect Travel Companion for Avid Readers: An In-Depth Review of the Kobo Clara HD</u></a></li>
+</ul></div>
 

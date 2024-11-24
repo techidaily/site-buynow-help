@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2024-11-10T03:53:46.088Z
-updated: 2024-11-15T00:19:07.807Z
+date: 2024-11-17T17:00:08.570Z
+updated: 2024-11-24T16:23:42.870Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -84,16 +88,13 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -125,13 +126,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -143,10 +137,7 @@ Jerome Thomas / How-To Geek
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Battery Life
@@ -156,10 +147,7 @@ Jerome Thomas / How-To Geek
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Price and Availability
@@ -177,6 +165,10 @@ Jerome Thomas / How-To Geek
  But if you don’t mind hunting for the shadowy corners of a room during the day or waiting until nightfall, then there’s not much to dislike about what this projector can do. It’s a solid value from a reputable brand with modern software onboard.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -201,16 +193,19 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-best-practices-for-sensational-video-loops/"><u>[New] In 2024, Instagram's Best Practices for Sensational Video Loops</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/conversion-gratuite-des-images-png-vers-le-format-jpeg-sur-internet-decouvrez-les-solutions-efficaces-avec-movavi/"><u>Conversion Gratuite Des Images PNG Vers Le Format JPEG Sur Internet: Découvrez Les Solutions Efficaces Avec Movavi</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/empowering-websites-with-cookiebots-dynamic-tracking-technology/"><u>Empowering Websites with Cookiebot's Dynamic Tracking Technology</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/leveraging-your-google-id-for-private-yt-video-distribution/"><u>Leveraging Your Google ID for Private YT Video Distribution</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/professional-blk-design-collection-enhanced-bootstrap-4-template-package-from-creative-tim/"><u>Professional BLK Design Collection - Enhanced Bootstrap 4 Template Package From Creative Tim</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-review-of-samsung-galaxy-s20-fe-5g-captivating-all-who-love-5g-technology/"><u>The Definitive Review of Samsung Galaxy S20 FE 5G - Captivating All Who Love 5G Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-for-budget-minded-traffic-alert-devices-uncover-escortpassports-insightful-s55-examination/"><u>The Ultimate Guide for Budget-Minded Traffic Alert Devices - Uncover EscortPassport’s Insightful S55 Examination.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-tablet-spotlight-on-the-2021-samsung-galaxy-tab-s7-for-android-lovers/"><u>The Ultimate Guide to Choosing a Tablet: Spotlight on the 2021 Samsung Galaxy Tab S7 for Android Lovers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-best-in-class-open-source-routers-spotlight-on-linksys-wrt3200acm/"><u>The Ultimate Guide to the Best in Class Open Source Routers: Spotlight on Linksys WRT3200ACM</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-reliable-and-rechargeable-romer-illuminator-a-bright-companastern-for-outdoor-enthusiasts/"><u>The Ultimate Guide to the Reliable and Rechargeable Romer Illuminator: A Bright Companastern for Outdoor Enthusiasts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-qualcomm-atheros-bluetooth-driver-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing Qualcomm Atheros Bluetooth Driver Issues in Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discover-everything-in-stardews-hidden-gem-ginger-isle/"><u>[New] Discover Everything in Stardew's Hidden Gem, Ginger Isle</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-all-about-io-screen-capture-mastery-guidebook/"><u>[New] In 2024, All About IO Screen Capture Mastery Guidebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-classic-cinema-revisited-step-by-step-video-guide/"><u>[New] In 2024, Classic Cinema Revisited Step-by-Step Video Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-quintessential-guide-to-secret-story-viewing/"><u>[Updated] In 2024, The Quintessential Guide to Secret Story Viewing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-free-alternatives-to-watch-shows-on-netflix/"><u>Discover These Free Alternatives to Watch Shows on Netflix</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-system-how-to-add-and-protect-your-bios-hyperlink-on-tiktok/"><u>In 2024, Perfect System How to Add and Protect Your Bio's Hyperlink on TikTok</u></a></li>
+<li><a href="https://article-posts.techidaily.com/influential-vr-development-studios-for-2024/"><u>Influential VR Development Studios for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/should-you-replace-iphoneipod-battery/"><u>Should You Replace iPhone/iPod Battery?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sonys-spectacular-49-4k-ultra-hd-smart-led-tv-the-xbr-49x900f-expert-review/"><u>Sony's Spectacular 49 4K Ultra HD Smart LED TV - The XBR-49X900F Expert Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-battle-of-giants-which-should-you-pick-amazon-fire-or-samsung-tablet-explained/"><u>The Battle of Giants: Which Should You Pick? Amazon Fire or Samsung Tablet Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lg-k51-phone-reviewed-aesthetic-appeal-hindered-by-underwhelming-processor-speed/"><u>The LG K51 Phone Reviewed: Aesthetic Appeal Hindered by Underwhelming Processor Speed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ring-video-doorbell-n-review-revolutionizing-home-security-experience/"><u>The Ring Video Doorbell N Review: Revolutionizing Home Security Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-the-elite-selection-of-smartwatches/"><u>Ultimate Guide: The Elite Selection of Smartwatches</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-this-article-weve-reviewed-a-list-of-the-best-music-video-makers-for-you-it-includes-free-music-video-makers-used-on-pc-and-online-video-maker-ap/"><u>Updated In This Article, Weve Reviewed a List of the Best Music Video Makers for You. It Includes Free Music Video Makers Used on PC and Online Video Maker App for 2024</u></a></li>
 </ul></div>
 

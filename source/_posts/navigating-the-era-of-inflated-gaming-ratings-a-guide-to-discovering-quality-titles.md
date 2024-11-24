@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles"
-date: 2024-11-08T02:04:47.117Z
-updated: 2024-11-15T03:06:35.320Z
+date: 2024-11-17T16:23:45.995Z
+updated: 2024-11-24T16:47:53.679Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ---
 
 ## Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  So, if a video game score doesn't help you figure out where to spend your money, is there another way?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Find a Reviewer Who Likes Games You Already Like
@@ -37,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  Reviews are subjective, and attaching a score to them without a clear and consistent rubric might not be that smart to begin with. There are plenty of incredibly high-scoring games that I think are boring (Breath of the Wild) or barely games (Red Dead Redemption 2), which would make me an iconoclast in some cases. However, tehre are reviewers who have similar tastes to mine, so instead of worrying about an average score on Metacritic or what mainstream reviewers think of a game, try to find a reviewer who has given good scores to games you already love. Then look for games they've reviewed well to get an idea of what you should play next.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Read the Reviews, Not the Scores
@@ -48,10 +46,7 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -63,10 +58,7 @@ Cianna Garrison / How-To Geek
  If you're reading reviews by other players, rather than professional reviewers, it's also worth looking at circumstantial information to get some context on their reviews. Did they post a gushing review five hours into a 100 hour game? Are they [console warring](https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-phone-and-remove-locked-screen-by-drfone-android/) in the review? Again, the substance of the review matters as well as some of what's between the lines.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Watch YouTube Gameplay
@@ -98,24 +90,19 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-building-a-youtubing-brand-from-scratch-with-these-8-courses/"><u>[New] 2024 Approved Building a YouTubing Brand From Scratch with These 8 Courses</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-seek-and-succeed-hunt-down-instagrams-top-thinkers-in-your-space/"><u>[New] 2024 Approved Seek and Succeed Hunt Down Instagram's Top Thinkers in Your Space</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-decoding-the-art-of-time-lapses-a-comprehensible-guide-with-gopro/"><u>[New] Decoding the Art of Time Lapses A Comprehensible Guide with GoPro</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-first-choice-top-15-videography-power-tools/"><u>[New] In 2024, First Choice Top 15 Videography Power Tools</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-top-7-affordable-solutions-to-watch-movies-on-pcs/"><u>[Updated] Top 7 Affordable Solutions to Watch Movies on PCs</u></a></li>
-<li><a href="https://win-docs.techidaily.com/convertir-rapida-y-facilmente-tu-caf-en-un-formato-aiff-sin-costo-alguno-utilizando-movavi/"><u>Convertir Rápida Y Fácilmente Tu CAF en Un Formato AIFF Sin Costo Alguno Utilizando Movavi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-dbpower-unichargers-robust-portable-design-and-extraordinary-mains-charging-speed-expert-insights/"><u>Exploring the DBPOWER UniCharger's Robust, Portable Design & Extraordinary Mains Charging Speed - Expert Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-dichotomy-of-cyberpunk-2077-magnificent-but-incomplete/"><u>Exploring the Dichotomy of Cyberpunk 2077: Magnificent but Incomplete</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-world-with-ease-top-5-wireless-travel-routers/"><u>Exploring the World with Ease: Top 5 Wireless Travel Routers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fm-transmitter-cp24-by-criacr-a-miniature-marvel-with-some-limitations-in-depth-analysis/"><u>FM Transmitter CP24 by Criacr - A Miniature Marvel with Some Limitations: In-Depth Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/gopro-hero7-black-the-ultimate-companion-for-extreme-sports/"><u>GoPro HERO7 Black: The Ultimate Companion for Extreme Sports</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hisense-50h8f-review/"><u>Hisense 50H8F Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/holy-stone-hs170s-predator-quadcopter-the-ultimate-budget-friendly-rc-helicopter-guide/"><u>Holy Stone HS1,70's Predator Quadcopter: The Ultimate Budget-Friendly RC Helicopter Guide!</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-dusks-descent-pre-pro-screen-transitions/"><u>In 2024, Dusk's Descent Pre-Pro Screen Transitions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-dell-alienware-aurora-r9-a-cutting-edge-gamers-dream/"><u>In-Depth Analysis of Dell Alienware Aurora R9: A Cutting-Edge Gamer's Dream</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-top-tier-garmin-forerunner-745-multisport-watch/"><u>In-Depth Analysis of the Top-Tier Garmin Forerunner 745 Multisport Watch</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-hp-laserjet-p2035-printer-drivers-problems-on-windows-a-comprehensive-guide/"><u>Resolving HP LaserJet P2035 Printer Drivers Problems on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-stepwise-pathway-to-becoming-a-streaming-maestro-on-discord/"><u>The Stepwise Pathway to Becoming a Streaming Maestro on Discord</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-explanation-of-how-dts-play-fi-enhances-your-music-experience/"><u>The Ultimate Explanation of How DTS Play-Fi Enhances Your Music Experience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-strategies-for-harvesting-fb-status-video-archives/"><u>[New] 2024 Approved Strategies for Harvesting FB Status Video Archives</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/discovering-an-uncommon-combo-displayport-and-hdmi-integrated-in-the-infamous-piston-xi3-from-steam-box-series/"><u>Discovering an Uncommon Combo! DisplayPort and HDMI Integrated in the Infamous Piston Xi3 From Steam Box Series</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/efficient-techniques-to-reduce-video-size-for-smooth-sharing-on-whatsapp/"><u>Efficient Techniques to Reduce Video Size for Smooth Sharing on WhatsApp</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enthralling-thesis-fabricator-for-2024/"><u>Enthralling Thesis Fabricator for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-how-to-fix-an-inverted-display-on-your-portable-computer/"><u>Expert Advice on How to Fix an Inverted Display on Your Portable Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/first-look-at-the-syma-x5c-remote-controlled-drone-great-value-for-beginners/"><u>First Look at the SYMA X5C Remote Controlled Drone - Great Value for Beginners!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/forefront-picks-premier-storm-monitoring-tools-available/"><u>Forefront Picks: Premier Storm Monitoring Tools Available</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/foremost-8-smartphone-gaming-experiences-on-the-market/"><u>Foremost 8 Smartphone Gaming Experiences on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/guide-to-choosing-a-tablet-based-on-size-and-weight/"><u>Guide to Choosing a Tablet Based on Size and Weight</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-upgrade-from-a-standard-ssd-to-a-larger-ssd-on-windows-111087/"><u>How to Upgrade From a Standard SSD to a Larger SSD on Windows 11/10/8/7</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hp-omen-obelisk-analysis-exceptional-performance-at-an-unbeatable-price/"><u>HP Omen Obelisk Analysis: Exceptional Performance at an Unbeatable Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-reviews-on-google-nest-wi-fi-fast-reliable-and-advanced-mesh-networking-technology/"><u>In-Depth Analysis & Reviews on Google Nest Wi-Fi - Fast, Reliable, and Advanced Mesh Networking Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-binkw32dll-error-expert-strategies-and-solutions/"><u>Troubleshooting the Binkw32.dll Error: Expert Strategies and Solutions</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1725285606432-10/"><u>コロナ時代に必要!家から買い得な健康促進レシピトップ10</u></a></li>
 </ul></div>
 

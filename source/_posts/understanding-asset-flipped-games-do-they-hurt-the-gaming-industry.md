@@ -1,7 +1,7 @@
 ---
 title: Understanding Asset-Flipped Games – Do They Hurt the Gaming Industry?
-date: 2024-11-09T02:42:24.271Z
-updated: 2024-11-14T19:45:31.937Z
+date: 2024-11-21T17:14:05.043Z
+updated: 2024-11-24T16:28:49.386Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Understanding Asset-Flipped Games – Do They Hurt the Gaming Industry?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * "Asset flip" games reuse pre-made assets from libraries or other games, aiming for quick profit.
@@ -21,13 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You may have heard some poorly-received games being accused of being "asset flip" titles, but I bet more than a few people have no idea what this particular insult means in the context of video games. Thankfully, we can rectify that right away.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Not Every Asset in Games Is Bespoke
 
  An "asset flip" game is a title that reuses game assets from other games, or more commonly uses pre-made assets from libraries of assets. It's basically like using stock photos in a project. If a particular stock photo is popular, you'll see it in lots of different places, and some people play so many games that they can spot a common stock asset easily.
@@ -35,10 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For a game to count as an "asset flip," it generally needs to use pre-made assets for most to all of its in-game assets. The idea is that the creators of the game put in as little effort as possible, and just wanted some sort of game out the door. It's basically creating a hodgepodge game from existing bits and pieces and selling it as your own original creative work.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pre-made Assets Help Out Indie and Double-A Developers
@@ -48,10 +42,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The same goes for sound effects. An M16 is an M16, there's no need for every developer to go out and record a new one. As with the production of any medium, budget allocations have to be smart to get the most out of your resources. Also, don't think that "triple A" big-budget games don't do the same thing. A penny saved, and all that!
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Asset Flipped Games Are Usually a Form of Shovelware
@@ -60,15 +51,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A man sorting through piles of Nintendo Switch games into a dumpster](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-man-sorting-through-piles-of-nintendo-switch-games-into-a-dumpster.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  In fact, with modern game creation tools like Unity and Unreal Engine 5, it's not hard for a single person with some free time to knock something out in a few days to weeks. There have even been cases where people publish what's essentially an unaltered [Unity template](https://assetstore.unity.com/search#cf-ec%5Fcategory=templates) with a new name and try to sell that. There are some good Steam curators, such as [Asset Flip Reviews](https://store.steampowered.com/curator/41754370-Asset-Flip-Reviews/) who make a point of highlighting these games so that people can safely avoid them. Even if you buy them on a platform where you can easily get your money back, they've still wasted your time and that's worth something too!
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Just Because a Game Uses “Flipped” Assets Doesn’t Make It Bad
@@ -94,20 +86,20 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-simplified-game-recording-setups-for-stardew-villagers/"><u>[New] 2024 Approved Simplified Game Recording Setups for Stardew Villagers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-mastering-the-art-of-retrieving-tweets-as-gifs-for-2024/"><u>[New] Mastering the Art of Retrieving Tweets as GIFs for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-synthesize-sounds-and-images-in-ppts/"><u>2024 Approved Synthesize Sounds and Images in PPTS</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/foremost-8-smartphone-gaming-experiences-on-the-market/"><u>Foremost 8 Smartphone Gaming Experiences on the Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/guide-to-choosing-a-tablet-based-on-size-and-weight/"><u>Guide to Choosing a Tablet Based on Size and Weight</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hp-omen-obelisk-analysis-exceptional-performance-at-an-unbeatable-price/"><u>HP Omen Obelisk Analysis: Exceptional Performance at an Unbeatable Price</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/identifying-premium-free-online-tools-for-efficient-srt-translations-for-2024/"><u>Identifying Premium Free Online Tools for Efficient SRT Translations for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-transitions-the-art-of-editing-with-garagebands-power-tools/"><u>In 2024, Seamless Transitions The Art of Editing with GarageBand's Power Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-reviews-on-google-nest-wi-fi-fast-reliable-and-advanced-mesh-networking-technology/"><u>In-Depth Analysis & Reviews on Google Nest Wi-Fi - Fast, Reliable, and Advanced Mesh Networking Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-all-purpose-linksys-max-stream-ac1900-router-exceeds-expectations/"><u>In-Depth Analysis of the All-Purpose Linksys Max-Stream AC1900 Router – Exceeds Expectations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-ac68u-fast-safe-and-superior-5g-networking-experience/"><u>In-Depth Analysis of the Asus AC68U - Fast, Safe, and Superior 5G Networking Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-amazonbasics-affordable-and-reliable-6-sheets-cross-cut-paper-shredder/"><u>In-Depth Look at AmazonBasics' Affordable and Reliable 6-Sheets Cross-Cut Paper Shredder</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/motivational-cinema-the-ultimate-guide-to-empowerment-films/"><u>Motivational Cinema The Ultimate Guide to Empowerment Films</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/photographic-tapestry-assembly-techniques/"><u>Photographic Tapestry Assembly Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-xbox-sx-issues-and-repair-options/"><u>Troubleshooting Xbox S/X Issues & Repair Options</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/onthly-revenue-streams-for-video-content-creators/"><u>[New] Monthly Revenue Streams for Video Content Creators</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-snaplink-collage-harmonize-photos-for-instagram/"><u>[New] SnapLink Collage Harmonize Photos for Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-quintessential-video-tools-for-perfecting-instagram-reels/"><u>[Updated] 2024 Approved Quintessential Video Tools for Perfecting Instagram Reels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-free-resources-for-perfect-presentation-slides-for-2024/"><u>10 Free Resources for Perfect Presentation Slides for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-8-gpt-suggestions-for-sharpening-focus-in-a-digital-age/"><u>Critical 8 GPT Suggestions for Sharpening Focus in a Digital Age</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-2018-amazon-kindle-paperwhite-revolutionized-reading/"><u>How the 2018 Amazon Kindle Paperwhite Revolutionized Reading</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009089644-how-to-fix-fortnite-error-code-84-unable-to-join-a-party/"><u>How to Fix Fortnite Error Code 84 'Unable to Join a Party'</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-redesigning-the-perception-of-sony-s3700-review/"><u>In 2024, Redesigning the Perception of Sony S3700 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-hp-stream-14-affordable-performance-with-notable-tradeoffs/"><u>In-Depth Analysis of the HP Stream 14: Affordable Performance with Notable Tradeoffs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-a71-5g-smart-choice-against-high-end-models/"><u>In-Depth Analysis of the Samsung Galaxy A71 5G - Smart Choice Against High-End Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-a-2020-lacking-essential-function/"><u>In-Depth Analysis of the Samsung Galaxy Tab A (2020): Lacking Essential Function</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-apple-watch-series-6-elevates-yet-remains-unrivaled-in-its-class/"><u>In-Depth Analysis: How the Apple Watch Series 6 Elevates Yet Remains Unrivaled in Its Class</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-dreame-bot-l10-pro-transforms-home-cleaning-using-lidar-navigation-tech/"><u>In-Depth Review: How Dreame Bot L10 Pro Transforms Home Cleaning Using LiDAR Navigation Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-personal-tracker-primetrackings-pocket-size-companion-for-peace-of-mind-with-your-belongings/"><u>Innovative Personal Tracker: PrimeTracking's Pocket-Size Companion for Peace of Mind with Your Belongings</u></a></li>
 </ul></div>
 

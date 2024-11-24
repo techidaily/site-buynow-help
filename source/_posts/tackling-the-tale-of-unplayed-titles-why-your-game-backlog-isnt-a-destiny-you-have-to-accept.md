@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept"
-date: 2024-11-07T22:00:27.489Z
-updated: 2024-11-15T01:21:33.227Z
+date: 2024-11-19T17:22:43.611Z
+updated: 2024-11-24T17:03:58.924Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 ## Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Think of your game collection as entertainment, not an obligation to clear a "backlog".
@@ -22,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Have you got backlog dread? Do you stare at your pile of games forlornly as you swipe your credit card once again to put even more on the pile? I'm here to tell you that your "backlog" shouldn't be weighing you down.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s This “Backlog” Stuff?
@@ -35,10 +36,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Games are entertainment, not an obligation. So it might be better psychologically-speaking, to stop thinking of your video game collection as a "backlog" in the first place!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Backlogs Are a Rainy-Day Blessing
@@ -52,16 +50,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Don’t Have to Finish All Your Games
@@ -71,16 +60,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Did I waste my time playing them? No! They were fun while they lasted, and I enjoyed my time with them, but just like any healthy relationship, you need to know when the right time is to walk away.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don’t Let the Sunk Cost Fallacy Stop Your Fun
@@ -108,17 +88,20 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-insight-dji-paper-bird-goggles-functionality/"><u>[Updated] Insight DJI Paper Bird Goggles Functionality</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722976433220-easy-access-to-updated-asus-notebook-drivers-get-them-here/"><u>Easy Access to Updated ASUS Notebook Drivers - Get Them Here</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-file-comparison-techniques-using-notepadplusplus-tools/"><u>Effective File Comparison Techniques Using Notepad++ Tools</u></a></li>
-<li><a href="https://win-unique.techidaily.com/facil-creacion-de-un-dispositivo-usb-para-recuperacion-de-windows-7-tecnicas-simplificadas/"><u>Fácil Creación De Un Dispositivo USB Para Recuperación De Windows 7 - Técnicas Simplificadas</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-ensure-smooth-printing-update-your-epson-xp-640-printer-drivers-on-windows/"><u>How to Ensure Smooth Printing: Update Your Epson XP-640 Printer Drivers on Windows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-14-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/simplifying-connectivity-a-complete-review-of-google-wifi-your-essential-mesh-router-companion/"><u>Simplifying Connectivity: A Complete Review of Google WiFi, Your Essential Mesh Router Companion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-setup-for-the-ultimate-protection-with-blinks-outdoor-cameras/"><u>Step-by-Step Setup for the Ultimate Protection with Blink's Outdoor Cameras</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-advanced-tech-tools-for-tranquil-slumber/"><u>The Ultimate Guide to Advanced Tech Tools for Tranquil Slumber</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-blueear-bluetooth-headgear-fashionable-earmuffs-with-a-promising-audio-experience/"><u>The Ultimate Guide to BlueEar Bluetooth Headgear: Fashionable Earmuffs with a Promising Audio Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-8-must-play-titles-exclusive-to-google-play-pass-unlock-gaming-bliss/"><u>Top 8 Must-Play Titles Exclusive to Google Play Pass - Unlock Gaming Bliss!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-path-to-tiktok-audial-success-for-2024/"><u>[Updated] The Path to TikTok Audial Success for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-zooms-full-power-with-share-screen-expertise-for-2024/"><u>[Updated] Unlock Zoom’s Full Power with Share Screen Expertise for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1-how-to-retrieve-voice-memos-from-icloud-a-step-by-step-guide/"><u>1. How to Retrieve Voice Memos From iCloud: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-phasmophobia-solutions-for-the-persistent-90-load-screens/"><u>Overcoming Phasmophobia: Solutions for the Persistent 90% Load Screens</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-qn55q60rafxza-smart-tv-review-a-stellar-4k-hdr10plus-capable-tv/"><u>Samsung QN55Q60RAFXZA Smart TV Review: A Stellar 4K HDR10+ Capable TV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/select-the-best-ergonomic-mouse-solutions-premier-desk-pad-picks-for-a-comfortable-workspace/"><u>Select the Best Ergonomic Mouse Solutions: Premier Desk Pad Picks for a Comfortable Workspace</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-update-your-drivers-in-windows-1011/"><u>Step-by-Step Guide: Update Your Drivers in Windows 10/11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/testing-the-cumuluspro-mat-a-detailed-review-of-a-supportive-desk-surface-solution/"><u>Testing the CumulusPRO Mat - A Detailed Review of a Supportive Desk Surface Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-kobo-libra-h2o-ereader-revolutionizing-wet-weather-bookworms-delight-with-its-innovative-design/"><u>The Kobo Libra H2O eReader: Revolutionizing Wet-Weather Bookworm’s Delight with Its Innovative Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-masterpiece-graphic-pad-2024s-finest/"><u>The Ultimate Guide to Choosing a Masterpiece Graphic Pad: 2024'S Finest</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-long-distance-router/"><u>The Ultimate Guide to Choosing the Perfect Long-Distance Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-no-nonsense-economical-procase-for-your-macbook-pro-13/"><u>The Ultimate Guide to the No-Nonsense, Economical ProCase for Your MacBook Pro 13</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultra-fast-winx-dvd-ripper-pro-convert-dvds-to-high-quality-mp4-videos-in-under-5-minutes/"><u>Ultra-Fast WinX DVD Ripper Pro: Convert DVDs to High-Quality MP4 Videos in Under 5 Minutes</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oneplus-ace-2v-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from OnePlus Ace 2V? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

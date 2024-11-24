@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the TP-Link AC1200 Range Extender Model RE305 for Optimal WiFi Coverage
-date: 2024-09-04T16:12:32.837Z
-updated: 2024-09-05T16:12:32.837Z
+date: 2024-11-22T16:13:45.186Z
+updated: 2024-11-24T16:36:02.433Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Review of the TP-Link AC1200 Range Extender Model RE305 for Optimal WiFi Coverage
@@ -36,6 +36,10 @@ Lifewire / Claire Cohen
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TP-Link RE305 AC1200 Wi-Fi Range Extender
 
 ![TP-Link AC1200 Wi-Fi Range Extender RE305](https://www.lifewire.com/thmb/C8f1R4cMjb3MUZ1ViPdvQ67Q7tE=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_4LW4043312-0cb211cf35c746879e5136b3f9d62b63.jpg)
@@ -64,11 +68,9 @@ Lifewire / Claire Cohen
  We spent over a week testing it in our home, evaluating design, ease of setup and network performance.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design:** **Neither seen nor heard**
 
  The RE305 is quite small and unobtrusive, with a plastic white exterior and silver accents that’s meant to blend in, not stand out. At just 3.1 x 3.1 x 2.4 (LWH) inches unboxed and 6.4 ounces, it's one of the most diminutive Wi-Fi solutions on the market. That means it's simple to plug into a spare outlet anywhere your wireless signal needs bolstering.
@@ -90,11 +92,9 @@ Lifewire / Claire Cohen
 ![TP-Link AC1200 (RE305)](https://www.lifewire.com/thmb/PS8-Iywv5MsnOo99Fir-jNOiPF8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4043312-4-5c924206c9e77c0001ff0bb8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Lifewire / Claire Cohen
 
  You'll create a password, let the device scan your network for an applicable router, and then enter the SSID and password to your current wireless network from there. There are options to change the extender network’s SSID and password if you so choose, but otherwise, it’ll remain the same as your default network. Once completed, the 2.4 GHz and/or 5GHz lights on the device should come on, depending on[your router's functionality](https://www.lifewire.com/what-is-a-router-2618162) . The entire process from unboxing to surfing the web took about 7 minutes.
@@ -104,6 +104,10 @@ Lifewire / Claire Cohen
  The RE305 is a value-priced, no-frills extender that promises quick setup, a low-key design, and typically smooth connectivity at a great price.
 
  There is one important pain point, however, to keep in mind during setup. The extender's administrative password utilizes a default "admin/admin" login, so you'll want to change that to keep unauthorized users out. It can be changed via the TP-Link Tether app, which isn't clearly lined out in the instructions. It isn't required, but if you want to keep your network as secure as possible, it's an important part of setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Connectivity and Network Performance:** **Strong, multi-device connectivity**
 
@@ -116,17 +120,9 @@ Lifewire / Claire Cohen
  Lifewire / Claire Cohen
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Software: Clean and easy to understand**
 
  The browser-based setup procedure couldn't be easier, and there's no extraneous software to concern yourself with save for the aforementioned optional app for device management. It's a pleasant, minimalistic mint green website with a clean interface and easy-to-read text. Two tabs at the top include the Quick Setup option or Settings, where more advanced users can tweak options to their liking.
@@ -139,26 +135,8 @@ Lifewire / Claire Cohen
 
 ![TP-Link AC1200 (RE305)](https://www.lifewire.com/thmb/bG-oXoYxR83gVSUH4vzz37hfYxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4043312-1-5c92424b46e0fb000172f127.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Claire Cohen
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: More of the same**
 
  There are a variety of different extenders on the market with similar price points, and many are pricier, with fewer promised features and lesser range. If you’re looking to stay “on brand,” you might opt for competition such as the[Netgear EX3700](https://www.lifewire.com/netgear-ex3700-wifi-range-extender-ac750-review-4589551) , but there’s no real reason to do so when they offer a good amount of the same features for a similar price. We also found the RE305 to be much more aesthetically pleasing overall if that’s of importance to you.
@@ -171,18 +149,6 @@ Lifewire / Claire Cohen
 
  The TP-Link AC1200 Wi-Fi Range Extender RE305 is a no-frills extender with supports dual-band Wi-Fi support and an Ethernet port for wired connectivity. It won’t fare well in homes beyond 2,000 square feet, but it's a value-priced extender that can be relied on at shorter ranges.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  RE305 AC1200 Wi-Fi Range Extender
@@ -207,8 +173,6 @@ Lifewire / Claire Cohen
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +180,26 @@ Lifewire / Claire Cohen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/hannel-name-inspiration-strategies-for-success-for-2024/"><u>[New] Channel Name Inspiration Strategies for Success for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-steps-for-clear-ipad-recording-for-2024/"><u>[New] Essential Steps for Clear iPad Recording for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-quick-face-blurring-on-picscroller/"><u>[New] In 2024, Mastering Quick Face-Blurring on PicScroller</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/7800-plus-revival-experience-the-classic-80s-nostalgia-with-modern-technology/"><u>7800 Plus Revival: Experience the Classic 80'S Nostalgia with Modern Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/act-now-steams-annual-mid-year-discount-event-has-started/"><u>Act Now: Steam's Annual Mid-Year Discount Event Has Started</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932756-9781906999704-anthroposophy/"><u>Anthroposophy | Free Book</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beyond-discord-why-gaming-communities-are-calling-for-an-upgrade-with-modern-alternatives/"><u>Beyond Discord: Why Gaming Communities Are Calling for an Upgrade with Modern Alternatives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/buying-xbox-n-game-downloads-despite-the-shutdown-of-microsofts-xbox-360-storefront/"><u>Buying Xbox N Game Downloads Despite the Shutdown of Microsoft's Xbox 360 Storefront</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-unistellar-odyssey-pro-redefining-astronomy-for-tech-savvy-enthusiasts/"><u>Comprehensive Analysis of the Unistellar Odyssey Pro – Redefining Astronomy for Tech-Savvy Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compressive-strength-of-concrete-is-a-measure-of-its-ability-to-withstand-loads-that-tend-to-compress-it/"><u>Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-top-9-streaming-platforms-with-no-cost-trial-periods-available-now/"><u>Discover the Top 9 Streaming Platforms with No-Cost Trial Periods Available Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effective-strategies-for-managing-a-bursting-steam-game-collection/"><u>Effective Strategies for Managing a Bursting Steam Game Collection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/emulate-and-enjoy-a-step-by-step-tutorial-for-adding-classic-games-to-steam-deck-with-emudeck-tools/"><u>Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-video-broadcasts-wirecast-and-its-allies/"><u>Mastering Video Broadcasts Wirecast and Its Allies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-and-excel-indispensable-services-for-every-twitch-user/"><u>Streamline and Excel: Indispensable Services for Every Twitch User</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/thrifty-filmmaker-best-economical-camera-lineup-for-2024/"><u>Thrifty Filmmaker Best Economical Camera Lineup for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-choices-in-video-collaboration-software-for-2024/"><u>Ultimate Choices in Video Collaboration Software for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-instagrams-and-facebooks-ad-innovations/"><u>Unveiling Instagram's and Facebook's Ad Innovations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo A58 4G | Dr.fone</u></a></li>
+</ul></div>
 

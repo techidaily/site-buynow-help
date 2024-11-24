@@ -1,7 +1,7 @@
 ---
 title: "Five Years On: The Critical Functions Yet To Be Added To Apple TV+"
-date: 2024-11-11T21:30:08.211Z
-updated: 2024-11-15T06:16:30.437Z
+date: 2024-11-23T16:32:53.701Z
+updated: 2024-11-24T16:13:03.072Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 ---
 
 ## Five Years On: The Critical Functions Yet To Be Added To Apple TV+
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,10 +36,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 ![Apple services running on Apple devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-services-running-on-apple-devices.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -51,10 +52,7 @@ Apple
 ![Apple TV app on the Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-tv-app-on-the-play-store.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're not entirely locked out as an Android user, mind. You can stream Apple TV+ in a web browser on mobile, but it's not as smooth as a native app would be—you may encounter plentiful buffering, for instance, and there's no support for [features like offline viewing](https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-z-fold-5-by-drfone-android/).
@@ -66,15 +64,16 @@ Apple
 ![Up Next on Apple TV+ in a web browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/up-next-on-apple-tv-in-a-web-browser.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The issue comes when you want to mark something you're interested in so you can easily find it later. There's no separate watchlist, like there is on Netflix or Prime Video. Instead, you can only add it to your Up Next, which means that list quickly becomes a mess of things you're currently watching and what you want to watch.
 
  Having at least two lists, one to track current viewing and another for things to watch later, would solve this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Robust and Reliable Search
 
@@ -83,13 +82,6 @@ Apple
  You can browse by a handful of categories, like "Drama Series" and "Feature Films", but there's no way to pair these with more specific filters (like if you only want 90-minute movies).
 
 ![Searching on Apple TV+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/searching-on-apple-tv.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The search functionality itself is also unreliable. A search for "kids" includes the likes of adult-orientated _The Tragedy of Macbeth_. You'll also get different results depending on whether you search "kids" and then select "Movies", or just search "kids movies".
 
@@ -114,24 +106,16 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/5plus-best-iphoneipad-video-editing-tools-in-free-market/"><u>[New] 15+ Best iPhone/iPad Video Editing Tools in Free Market</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-phantom-v-flip-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Phantom V Flip to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-guide-for-mobile-filmmakers-on-crafting-youtube-thumbnails/"><u>2024 Approved A Guide for Mobile Filmmakers on Crafting YouTube Thumbnails</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-click-issues-in-windows-11-a-step-by-step-guide/"><u>Fixing Click Issues in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-8-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 8 Plus? Learn All 4 Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-features-on-systems-lacking-compatible-graphics-driver-support/"><u>How to Enable Miracast Features on Systems Lacking Compatible Graphics Driver Support</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-gt-5-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-a-2020-lacking-essential-function/"><u>In-Depth Analysis of the Samsung Galaxy Tab A (2020): Lacking Essential Function</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-dreame-bot-l10-pro-transforms-home-cleaning-using-lidar-navigation-tech/"><u>In-Depth Review: How Dreame Bot L10 Pro Transforms Home Cleaning Using LiDAR Navigation Tech</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-personal-tracker-primetrackings-pocket-size-companion-for-peace-of-mind-with-your-belongings/"><u>Innovative Personal Tracker: PrimeTracking's Pocket-Size Companion for Peace of Mind with Your Belongings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-the-world-of-minecraft-an-engaging-journey-through-an-age-defying-playground/"><u>Inside the World of Minecraft: An Engaging Journey Through an Age-Defying Playground</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-document-management-with-fujitsu-scansnap-ix1600-a-rigorous-desktop-scanner-review/"><u>Mastering Document Management with Fujitsu ScanSnap iX1600 - A Rigorous Desktop Scanner Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-coverage-the-ultimate-guide-to-using-netgear-nighthawk-wi-fi-amplifier/"><u>Maximize Coverage: The Ultimate Guide to Using Netgear Nighthawk Wi-Fi Amplifier</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/michael-kors-gen-5e-mkgo-watch-reviews-fusing-elegance-with-intelligent-features/"><u>Michael Kors Gen 5E MKGO Watch Reviews: Fusing Elegance with Intelligent Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/motorolas-moto-g-power-examined-superior-battery-life-paired-with-robust-performance/"><u>Motorola's Moto G Power Examined: Superior Battery Life Paired with Robust Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netatmo-weather-station-unveiled-a-high-tech-solution-for-smart-home-devotees/"><u>Netatmo Weather Station Unveiled: A High-Tech Solution for Smart Home Devotees</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-most-effective-instatags-to-grow-your-audience-today/"><u>The Most Effective #InstaTags To Grow Your Audience Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-ultimate-step-by-step-tutorial-how-to-start-pokemon-go/"><u>Your Ultimate Step-by-Step Tutorial: How to Start Pokémon GO</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-understanding-image-validity-on-insta/"><u>[New] 2024 Approved Understanding Image Validity on Insta</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pairing-podcast-with-picture/"><u>[Updated] Pairing Podcast with Picture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-professional-approach-to-screen-capturing-in-adobe-captive-environment-for-2024/"><u>[Updated] Professional Approach to Screen Capturing in Adobe Captive Environment for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-game-launchers-on-your-steam-deck/"><u>How to Install Game Launchers on Your Steam Deck</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-m14-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy M14 4G Pattern Lock Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/optimizing-ps3-swapping-for-bigger-hdd/"><u>Optimizing PS3: Swapping for Bigger HDD</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/philips-hf3505-clock-reviewed-a-staple-alarm-solution-for-your-mornings/"><u>Philips HF3505 Clock Reviewed: A Staple Alarm Solution for Your Mornings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/poweradd-pilot-pro2-analysis-an-in-depth-look-at-its-battery-capacity-for-multiple-device-charging/"><u>POWERADD Pilot Pro2 Analysis: An In-Depth Look at Its Battery Capacity for Multiple Device Charging</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rca-video-doorbell-camera-review/"><u>RCA Video Doorbell Camera Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-hidden-gem-discover-asuss-surprisingly-compact-design-with-high-performance-capabilities-for-creative-professionals/"><u>Unveiling the Hidden Gem: Discover Asus's Surprisingly Compact Design with High-Performance Capabilities for Creative Professionals</u></a></li>
 </ul></div>
 

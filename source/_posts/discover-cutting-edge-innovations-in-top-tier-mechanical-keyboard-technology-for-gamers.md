@@ -1,7 +1,7 @@
 ---
 title: Discover Cutting-Edge Innovations in Top-Tier Mechanical Keyboard Technology for Gamers.
-date: 2024-11-11T19:19:26.909Z
-updated: 2024-11-15T06:34:00.950Z
+date: 2024-11-22T16:01:47.249Z
+updated: 2024-11-24T17:18:36.884Z
 tags:
   - games
   - tv
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  In 2019, a relatively unknown keyboard manufacturer introduced the world's first Hall Effect mechanical keyboard. The company was Wooting, and the keyboard was the Wooting two Lekker Edition. Five years later, HE keyboards are starting to gain traction, and that’s great news for gamers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Hall Effect Sensors Aren’t Limited to Controllers
 
  Most gamers and gaming hardware enthusiasts are familiar with [Hall Effect thumbsticks](https://youtube-blog.techidaily.com/esthetic-alignment-for-online-glamour-content-for-2024/). These sticks are immune to stick drift thanks to a contactless design that uses a magnet and a sensor. As you move the joystick, you also move the magnet relative to the sensor, resulting in changes in voltage. This change is measured and used to report the position of the joystick.
@@ -31,6 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![An exploded view of a Hall Effect keyboard switch assembly.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/hall-effect-keyboard-switch.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Corsair
 
  The bottom of the switch has a hole so that the magnet can fully bottom out. The sensor—the tiny chip at the bottom of the image—is located on the printed circuit board. This measures the change in voltage and determines the position of the magnet.
@@ -40,13 +48,6 @@ Corsair
  You can then reactivate the key again as soon as you press it instead of waiting for the switch to pass a fixed reset point. Unlike HE switches, regular mechanical switches have a fixed reset point because the two metal leaves have to be physically separated before the switch can register a new keystroke.
 
  Rapid Trigger is also adjustable. On some keyboards, the lower bound is set at only 0.1mm. This means that after you bottom out a key, the switch only has to lift by 0.1mm before being ready to register another keypress, allowing you to pull off super-precise strafing movements, for instance.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Benefits of Hall Effect Gaming Keyboards
 
@@ -63,10 +64,7 @@ Corsair
  Finally, magnetic switches also have a dramatically longer lifespan compared to regular mechanical switches. Most HE switches are rated for 100 million keystrokes because they register input in a contactless fashion instead of relying on two metal leaves that have to touch.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Here Comes a Flood of Mechanical Hall Effect Keyboards
@@ -83,16 +81,13 @@ Corsair
 
 ![Double Rail magnetic keyboard switch design.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/double-rail-magnetic-keyboard-switch-design.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Keychron / Gateron
 
  If you’re thinking about buying an HE keyboard, make sure to read trusted reviews and user comments on forums like Reddit because not all HE keyboards offer the same Rapid Trigger precision and quality.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Hall Effect Keyboards Live and Die by the Quality of Their Software
 
@@ -107,10 +102,7 @@ Keychron / Gateron
  Considering the relatively high average price of magnetic HE gaming keyboards, you don’t want to make a mistake and end up with an expensive keyboard that behaves like a regular mechanical gaming keyboard or comes with an app custom-made for ruining your day over and over again.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should I Get a Hall Effect Mechanical Gaming Keyboard?
@@ -144,18 +136,21 @@ Keychron / Gateron
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-become-a-pro-at-hosting-virtual-meetings-with-zoom-an-android-users-guide/"><u>[New] Become a Pro at Hosting Virtual Meetings with Zoom An Android User's Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-convert-twitter-vids-into-aacmp4-files-for-2024/"><u>[New] Convert Twitter Vids Into AAC/MP4 Files for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-the-beginners-pathway-to-leveraging-facebook-statistics/"><u>[New] The Beginner's Pathway to Leveraging Facebook Statistics</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-in-depth-analysis-the-top-7-android-apps-to-combat-ads-effectively/"><u>[Updated] 2024 Approved In-Depth Analysis The Top 7 Android Apps to Combat Ads Effectively</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-quality-in-flight-holy-stone-hs1-628-predator-mini-rc-helicopter-in-depth-review/"><u>Affordable Quality in Flight: Holy Stone HS1 628 Predator Mini RC Helicopter – In-Depth Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessing-the-value-proposition-a-comprehensive-review-of-alienwares-aurora-r7/"><u>Assessing the Value Proposition: A Comprehensive Review of Alienware's Aurora R7</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mens-college-basketball-showdowns-live-from-march-madness-to-final-four-on-airwaves/"><u>Men's College Basketball Showdowns – Live From March Madness to Final Four on Airwaves.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-factors-behind-poor-iphone-wi-fi-performance-a-7-point-guide/"><u>Understanding the Factors Behind Poor iPhone Wi-Fi Performance: A 7-Point Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-choice-in-depth-look-at-netgear-orbi-mesh-router-excellence/"><u>Unveiling the Best Choice: In-Depth Look at Netgear Orbi Mesh Router Excellence</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-the-j5-tactical-v1-pro-a-comprehensive-review-for-enhanced-night-vision/"><u>Unveiling the Power of the J5 Tactical V1-Pro: A Comprehensive Review for Enhanced Night Vision</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-truth-about-tp-link-av1n300-extender-a-comprehensive-review/"><u>Unveiling the Truth About TP-Link AV1n300 Extender: A Comprehensive Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-re-enable-windows-photo-viewer-methods-for-win-11-users-for-2024/"><u>[New] Re-Enable Windows Photo Viewer - Methods for Win 11 Users for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-comprehensive-guide-for-dynamic-snaps-and-boomers/"><u>[Updated] In 2024, The Comprehensive Guide for Dynamic Snaps & Boomers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-securing-your-online-sessions-pcmobile-recording/"><u>[Updated] Securing Your Online Sessions PC/Mobile Recording</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transitioning-from-smartphone-to-watching-fb-videos-on-appletv/"><u>[Updated] Transitioning From Smartphone to Watching FB Videos on AppleTV</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tutorial-transferring-youtube-videos-to-social-media-facebook-edition/"><u>[Updated] Tutorial Transferring YouTube Videos to Social Media - Facebook Edition</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gsl-revolutionized-by-pearson-and-mondly-together/"><u>GSL Revolutionized by Pearson and Mondly Together</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-euro-truck-simulator-2-errors-on-windows-a-comprehensive-guide/"><u>How to Fix Euro Truck Simulator 2 Errors on Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-top-trending-iphone-apps-in-depth-reviews-and-analysis/"><u>New Discover the Top-Trending iPhone Apps In-Depth Reviews and Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nokia-c12-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nokia C12 Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-5-long-distance-wifi-routers-your-ultimate-guide/"><u>Top 5 Long-Distance WiFi Routers : Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-fifa-19-analysis-setting-new-records-in-sport-simulations/"><u>Top FIFA 19 Analysis: Setting New Records in Sport Simulations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-netatmo-weather-station-reviewed-perfect-choice-for-smartphone-enthusiasts/"><u>Top Netatmo Weather Station Reviewed: Perfect Choice for Smartphone Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-cell-phone-reception-enhancers/"><u>Top-Rated Cell Phone Reception Enhancers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-ultrabook-standards-with-our-detailed-review-of-the-cutting-edge-razer-blade-stealth-13/"><u>Transforming Ultrabook Standards with Our Detailed Review of the Cutting-Edge Razer Blade Stealth 13</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-capabilities-of-the-affordable-and-portable-asus-vivobook-11/"><u>Uncovering The Capabilities Of The Affordable And Portable ASUS VivoBook 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-gems-within-spyro-reignited-trilogy-a-tiny-dragons-epic-quest-delivers-exceptional-value/"><u>Unveiling the Gems Within Spyro Reignited Trilogy – A Tiny Dragon's Epic Quest Delivers Exceptional Value</u></a></li>
 </ul></div>
 

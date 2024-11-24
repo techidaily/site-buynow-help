@@ -1,7 +1,7 @@
 ---
 title: Buying Xbox N Game Downloads Despite the Shutdown of Microsoft's Xbox 360 Storefront
-date: 2024-11-12T21:30:51.976Z
-updated: 2024-11-15T04:54:51.379Z
+date: 2024-11-17T16:51:38.128Z
+updated: 2024-11-24T16:36:19.444Z
 tags:
   - games
   - tv
@@ -22,10 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  With the Xbox 360 digital storefront's [recent closure](https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-enlightenment-joshi-and-youtube-success-stories/), you might be wondering if it's still possible to buy digital games for your console. Although some titles were permanently delisted after the store shut down, much of the 360's digital library is still available to purchase and download.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Where to Find Xbox 360 Digital Games
@@ -42,20 +39,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A dropdown menu on Xbox.com with "Backward Compatible" circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox-website-dropdown.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will lead to a page that contains backward compatible titles for all Xbox consoles, including Xbox One games that run on the Series X|S. You can narrow the results to just Xbox 360 games by scrolling down to the "Collections" list and clicking on "Xbox 360 games."
 
 ![A screenshot of Xbox.com with a filter for "Xbox 360" circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox-website-360-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you find a game you want, purchase it with the same account you use on your Xbox 360\. This will attach the digital game to your account, allowing you to play it on the Xbox 360, Xbox One, or Xbox Series X|S.
 
  It's also worth noting that all three digital storefronts also sell downloadable content for backward-compatible titles. If you missed out on any paid expansion packs or free DLC, you can still get them from these stores. However, any games and downloadable content packs that were delisted from the Xbox 360 store or were never made backward compatible won't be available on these platforms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Download Digital Games on the Xbox 360
 
@@ -63,27 +61,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The settings page of the Xbox 360 dashboard with "Account" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-settings.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will open the Account Management menu. From here, scroll down and select "Download History" under the "Your Billing Options" menu.
 
 ![The Xbox 360 Account Management screen with "Download History" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-account.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your download history will provide a complete list of every game or demo you have purchased that works on an Xbox 360\. At the top of this list will be your most recent purchases, which is where you'll find the digital games you have bought from the other Xbox storefronts. Select the title you wish to download onto the console, then select "Download Again." This will begin the download process.
 
 ![The download screen for BattleBlock Theater on the Xbox 360, with "Download Again" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-digital-download.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once your game is finished downloading, you can finally play it on your Xbox 360.
 
@@ -114,24 +106,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-convert-talk-to-text-the-costless-alternative/"><u>[New] Convert Talk to Text The Costless Alternative</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-channel-titling-101-the-quest-for-an-original-label/"><u>[Updated] 2024 Approved Channel Titling 101 The Quest for an Original Label</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-vs-roku-a-comprehensive-review-of-streaming-devices-to-suit-your-needs/"><u>Amazon Vs. Roku: A Comprehensive Review of Streaming Devices to Suit Your Needs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/game-like-never-before-with-cyberpowers-steal-at-999-includes-nvidia-intel-and-ddr5-ram/"><u>Game Like Never Before with CyberPower's Steal at $999: Includes NVIDIA, Intel, and DDR5 RAM</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-your-play-the-philips-evonia-a-giant-leap-in-49-inch-gaming-monitors/"><u>Maximize Your Play: The Philips Evonia - A Giant Leap in 49-Inch Gaming Monitors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-productivity-with-onetastic-add-in-an-expert-review-for-microsoft-onenote/"><u>Maximizing Productivity with Onetastic Add-In - An Expert Review for Microsoft OneNote</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-literature-with-apple-books-a-users-guide/"><u>Navigating Literature with Apple Books - A User's Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-world-with-toms-hardware-reviews-and-advice/"><u>Navigating the Digital World with Tom’s Hardware Reviews & Advice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgear-nighthawk-x6-mesh-extender-a-detailed-review-on-its-cutting-edge-functionality/"><u>Netgear Nighthawk X6 Mesh Extender - A Detailed Review on Its Cutting-Edge Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-level-gaming-experience-with-the-asus-rog-rapture-gt-ax11000-an-in-depth-performance-evaluation/"><u>Next-Level Gaming Experience with the Asus ROG Rapture GT-AX11000: An In-Depth Performance Evaluation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pendulum-assembly-set-for-2024/"><u>Pendulum Assembly Set for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-excel-files-unreadable-in-windows-notepad/"><u>Resolve: Excel Files Unreadable in Windows Notepad</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionary-value-how-the-caixun-75-4k-android-tv-delivers-quality-entertainment-at-a-bargain-price/"><u>Revolutionary Value: How the Caixun 75 4K Android TV Delivers Quality Entertainment at a Bargain Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionizing-readers-habits-with-the-high-quality-kobo-forma-tablet/"><u>Revolutionizing Readers' Habits with the High-Quality Kobo Forma Tablet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/seeing-my-friends-video-and-pics-on-chat-apps/"><u>Seeing My Friends' Video and Pics on Chat Apps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/status-bt-assessment-economical-and-accessible-but-not-without-hitches/"><u>Status BT Assessment: Economical and Accessible but Not Without Hitches</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-in-class-unveiling-the-brilliance-of-the-samsung-qn55q6f-4k-hdr-tv-set/"><u>The Best in Class: Unveiling the Brilliance of the Samsung QN55Q6F 4K HDR TV Set</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-8-methods-for-unlocking-copyrighted-dvd-content-discover-5-complimentary-techniques/"><u>Top 8 Methods for Unlocking Copyrighted DVD Content - Discover 5 Complimentary Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oneplus-11-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On OnePlus 11 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-add-personality-to-your-device-a-comprehensively-tailored-sound-and-ringtone-guide-for-android/"><u>[New] In 2024, Add Personality to Your Device A Comprehensively Tailored Sound & Ringtone Guide for Android</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-10-youtube-makeup-gurus-for-stunning-looks/"><u>[New] In 2024, Top 10 YouTube Makeup Gurus for Stunning Looks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-mobile-photography-boosters-iphone-vs-android/"><u>[Updated] In 2024, Essential Mobile Photography Boosters IPhone vs Android</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-cut-down-catch-more-the-best-url-reducers-for-youtube/"><u>2024 Approved Cut Down, Catch More The Best URL Reducers for YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-advice-on-securing-the-latest-version-of-the-epson-et-3760-printer-driver-for-your-pc/"><u>Expert Advice on Securing the Latest Version of the Epson ET-3760 Printer Driver for Your PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-an-entrepreneurial-journey-with-just-a-click-on-mobile-devices-for-2024/"><u>Initiating an Entrepreneurial Journey with Just a Click on Mobile Devices for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/roku-vs-amazon-fire-tv-stick-comprehensive-guide-on-choosing-the-best-streaming-device/"><u>Roku vs Amazon Fire TV Stick - Comprehensive Guide on Choosing the Best Streaming Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-efficaces-denregistrement-de-videos-ininterrompues-sur-apple-machines/"><u>Stratégies Efficaces D'Enregistrement De Vidéos Ininterrompues Sur Apple Machines</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/streamline-your-connectivity-opt-for-the-portable-ourlink-u631-wi-fi-usb-stick/"><u>Streamline Your Connectivity - Opt for the Portable Ourlink U631 Wi-Fi USB Stick</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sub-100-excellence-in-routers-a-closer-look-at-the-tp-link-archer-c80-specs-and-reviews/"><u>Sub-$100 Excellence in Routers: A Closer Look at the TP-Link Archer C80 Specs & Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-lg-watch-style-embracing-the-traditional-design-of-wear-os-smartwatches/"><u>The Definitive Guide to LG Watch Style: Embracing the Traditional Design of Wear OS Smartwatches</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-elegant-compact-sony-ps-lx310bt-unveiled/"><u>The Elegant, Compact Sony PS-LX310BT Unveiled</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/otation-ritual-youtube-video-techniques-for-visual-impact-for-2024/"><u>The Rotation Ritual Youtube Video Techniques for Visual Impact for 2024</u></a></li>
 </ul></div>
 

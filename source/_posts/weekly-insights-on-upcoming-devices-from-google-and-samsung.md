@@ -1,7 +1,7 @@
 ---
 title: Weekly Insights on Upcoming Devices From Google & Samsung
-date: 2024-11-11T20:59:25.811Z
-updated: 2024-11-14T21:23:35.019Z
+date: 2024-11-20T16:28:02.465Z
+updated: 2024-11-24T16:23:35.037Z
 tags:
   - games
   - tv
@@ -18,15 +18,16 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 ##  The Big News
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
@@ -44,34 +45,13 @@ Valve
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
@@ -83,28 +63,27 @@ Valve
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Motorola
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -127,17 +106,24 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-maximize-your-youtube-shorts-earnings/"><u>[Updated] In 2024, How to Maximize Your YouTube Shorts Earnings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-becoming-an-smm-virtuoso-the-ultimate-pathway-of-10-strategic-steps/"><u>2024 Approved Becoming an SMM Virtuoso The Ultimate Pathway of 10 Strategic Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999974111-cod-modern-warfare-stability-improvements-no-more-game-crashes/"><u>Cod: Modern Warfare Stability Improvements - No More Game Crashes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-obtaining-and-implementing-the-latest-windows-drivers-for-your-lenovo-ideapad-t420-complete/"><u>Effortless Guide to Obtaining & Implementing the Latest Windows Drivers for Your Lenovo Ideapad T420 [Complete]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-private-data-to-smart-conversations-a-guide-to-assembling-your-bespoke-chatgpt-version/"><u>From Private Data to Smart Conversations: A Guide to Assembling Your Bespoke ChatGPT Version</u></a></li>
-<li><a href="https://fox-access.techidaily.com/reinstallation-steps-to-restore-photo-viewer-in-windows-10-for-2024/"><u>Reinstallation Steps to Restore Photo Viewer in Windows 10 for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/soundbots-newest-creation-the-sb210-top-notch-winter-audio-experience-when-active/"><u>Soundbot's Newest Creation, The SB210 - Top Notch Winter Audio Experience When Active</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/tailor-your-narrative-crafting-engaging-youtube-descriptions-using-pre-set-templates-for-2024/"><u>Tailor Your Narrative Crafting Engaging YouTube Descriptions Using Pre-Set Templates for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-new-era-of-computing-imac-with-m1-a-revolutionary-design-and-powerful-cpu-analysis/"><u>The New Era of Computing: IMac with M1 - A Revolutionary Design & Powerful CPU Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-dying-light-experience-engaging-first-person-co-op-play-combined-with-parkour-skills/"><u>The Ultimate Dying Light Experience: Engaging First-Person Co-Op Play Combined with Parkour Skills</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-smart-mornings-with-totobays-2nd-gen-wake-up-light-budget-friendly-and-effective/"><u>The Ultimate Guide to Smart Mornings with Totobay's 2Nd Gen Wake-Up Light - Budget Friendly and Effective.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-7-premium-mobile-plans-for-seniors/"><u>Top 7 Premium Mobile Plans for Seniors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-best-of-the-best-20-hilarious-incarceration-posts-to-brighten-your-digital-world/"><u>[New] Best of the Best - 20 Hilarious Incarceration Posts to Brighten Your Digital World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-transformative-power-of-augmented-vision/"><u>[New] The Transformative Power of Augmented Vision</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-reviving-the-past-essential-vhs-visuals-in-todays-edits/"><u>[Updated] In 2024, Reviving the Past Essential VHS Visuals in Today's Edits</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202709258-bitraser-disk-cleaner-and-eraser-for-safe-usb-deletion-buy-today/"><u>BitRaser Disk Cleaner & Eraser for Safe USB Deletion – Buy Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g14-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Motorola Moto G14</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enhanced-sites-boost-your-seo-and-user-experience/"><u>Cookiebot-Enhanced Sites: Boost Your SEO and User Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-14-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 14 without Apple Account</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-voice-over-techniques-video-production-edition/"><u>In 2024, Voice Over Techniques Video Production Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-confluence-bluetooth-and-sonys-console/"><u>Tech Confluence: Bluetooth & Sony's Console</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lg-gram-156-inch-laptop-2018-breakdown-a-weightless-powerhouse-with-remarkable-battery-life/"><u>The LG Gram 15.6-Inch Laptop (2018) Breakdown – A Weightless Powerhouse with Remarkable Battery Life</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-sleek-space-saving-acer-aspire-c2-7-your-ideal-all-in-one-pc/"><u>The Sleek, Space-Saving Acer Aspire C2 7 – Your Ideal All-In-One PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-between-sonys-ps5-slim-and-regular-ps5/"><u>The Ultimate Guide to Choosing Between Sony's PS5 Slim and Regular PS5</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-updated-guide-to-google-nest-hub-2nd-generation-the-benefits-of-integrating-a-camera/"><u>The Updated Guide to Google Nest Hub, 2Nd Generation - The Benefits of Integrating a Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-the-flexible-and-beautifully-designed-dell-xps-13-7390-ultrabook-2in1/"><u>Top Review of the Flexible and Beautifully Designed Dell XPS 13 (7390) Ultrabook-2in1</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-performance-showdown-hp-zbook-firefly-15-g8-reviewed-for-business-and-creatives/"><u>Top-Tier Performance Showdown: HP ZBook Firefly 15 G8 Reviewed for Business and Creatives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unihertz-atom-xl-analysis-the-compact-durable-device-that-packs-a-mighty-punch/"><u>Unihertz Atom XL Analysis: The Compact, Durable Device That Packs a Mighty Punch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-perfect-slumber-top-tier-technology-for-your-ideal-rest/"><u>Unlocking Perfect Slumber: Top-Tier Technology For Your Ideal Rest</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-capabilities-of-the-fujitsu-scansnap-ix1400-a-comprehensive-review-tailored-for-home-workers-and-entrepreneurial-ventures/"><u>Unveiling the Capabilities of the Fujitsu ScanSnap iX1400 - A Comprehensive Review Tailored for Home Workers & Entrepreneurial Ventures</u></a></li>
 </ul></div>
 

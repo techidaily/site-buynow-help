@@ -1,7 +1,7 @@
 ---
 title: "Unboxing & Review: A Closer Look at Features, Camera, and More on Google Pixel 6"
-date: 2024-09-04T16:10:50.353Z
-updated: 2024-09-05T16:10:50.353Z
+date: 2024-11-19T16:41:06.325Z
+updated: 2024-11-24T16:10:28.816Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing & Review: A Closer Look at Features, Camera, and More on Google Pixel 6"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 ## SunBriteTV Weatherproof Outdoor 55-Inch Veranda (2nd Gen)
 
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/SbA6fOgyA9EEgVGvd2P96Gc5Jqw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_HERO_Square-c68f638988064b98b6d844f1c9b06c47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -34,6 +38,10 @@ Lifewire / Gannon Burgett
 [View On Amazon](https://www.amazon.com/dp/B07H45Y2LL/?tag=lifewire-onsite-prod-20&ascsubtag=5077345%7Cnffea76a6fff14380a36b75d7c313b3ba21%7CB07H45Y2LL) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsunbritetv-veranda-series-55-class-led-outdoor-full-shade-2160p-4k-uhd-tv-with-hdr%2F6297105.p%3FskuId%3D6297105)
 
 3.5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SunBriteTV Weatherproof Outdoor 55-Inch Veranda (2nd Gen)
 
@@ -75,11 +83,9 @@ Lifewire / Gannon Burgett
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Durability: Come hell or high water**
 
  Ultimately, testing the durability of the SunBrite 55 Veranda is something only time will be able to prove. However, after more than a month of near-daily use (and abuse), I’ve struggled to find anything this TV can’t handle, even in the chilling winters of northern Michigan.
@@ -98,32 +104,12 @@ Lifewire / Gannon Burgett
 
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/OXDu2alZGi-BU3sWsISvhfwGSDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_11_Horiz-b20abbf925284d3fb1936ceb762e3fe1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Image and Audio Quality: Good, but not great**
 
  The SunBrite Veranda is designed specifically to be used in full shade areas. This could include a three-seasons room, an outdoor area with a canopy or, as I opted for in this review, an outdoor shed that will block the sun, but is still exposed to the elements throughout the year.
@@ -143,11 +129,9 @@ Lifewire / Gannon Burgett
 ![SunBriteTV 55-Inch Veranda 4K TV](https://www.lifewire.com/thmb/gWc18UfkuRaLKxubOAFv0zceMlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SunBrite_55inch_OutdoorTV_2LW4154865_17_Horiz-e1118b39b8ae43f5a135c249d3d6f741.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
 ## **Price: Not cheap, but worth it**
@@ -156,18 +140,6 @@ Lifewire / Gannon Burgett
 
  For better or worse, its $2,000 price is roughly middle-of-the-line as far as outdoor TVs go and if you have the cash to spare, I can guarantee it’ll be a worthwhile luxury purchase if you enjoy spending your time outside in the sun (or snow, in my case).
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **SunBriteTV 55-inch Veranda vs Sealoc Lanai LG 7-series**
 
  SunBriteTV knows a thing or two about creating outdoor entertainment systems, but they’re not alone. Outdoor TV company Sealoc has its own line of outdoor TVs meant for the shade and has a lot to offer with its[55-inch Sealoc Lanai LG 7-series outdoor TV.](https://www.lifewire.com/skyvue-sealoc-coastal-silver-55-inch-4k-outdoor-tv-review-5077335)
@@ -182,12 +154,6 @@ Lifewire / Gannon Burgett
 
  Overall, the SunBrite 55 Veranda is a fantastic outdoor TV that seems to withstand nearly anything you can throw at it (both literally and metaphorically). Sure, the price is absurd compared to a standard 4K HDR TV, but an outdoor TV takes extra work to prepare for the elements and that extra time and material comes with a cost.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Weatherproof Outdoor 55-Inch Veranda (2nd Gen)
@@ -210,8 +176,6 @@ Lifewire / Gannon Burgett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +183,17 @@ Lifewire / Gannon Burgett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-eliminated-invisible-youtube-micro-videos-for-2024/"><u>[New] Eliminated Invisible YouTube Micro Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-infinix-zero-30-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Zero 30 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultural-mosaic-benefits-of-embracing-multiple-languages/"><u>Cultural Mosaic: Benefits of Embracing Multiple Languages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-online-playful-activities-for-kids-top-7-picks/"><u>Discover the Best Online Playful Activities for Kids: Top 7 Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-extended-performance-with-the-incredibly-durable-lg-gram-156-inch-laptop-2018-a-detailed-analysis/"><u>Experience Extended Performance with the Incredibly Durable LG Gram 15.6-Inch Laptop (2018) - A Detailed Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-alienwares-premium-gaming-machine-the-unbeatable-aurora-r11-our-choice-for-best-pc-of-2021/"><u>In-Depth Analysis of Alienware's Premium Gaming Machine: The Unbeatable Aurora R11 - Our Choice for Best PC of 2021</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-samsung-galaxy-watch3-assessment-timeless-design-meets-cutting-edge-technology/"><u>In-Depth Samsung Galaxy Watch3 Assessment: Timeless Design Meets Cutting-Edge Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/powershot-g9x-mark-ii-review-a-retro-styled-photography-perfect-for-travelers/"><u>PowerShot G9X Mark II Review – A Retro-Styled Photography Perfect for Travelers</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-issues-with-scroll-using-arrow-keys-on-your-excel-spreadsheet/"><u>Resolving Issues with Scroll Using Arrow Keys on Your Excel Spreadsheet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wii-u-triumph-explained-what-made-this-gaming-system-a-hit-among-gamers/"><u>Wii U Triumph Explained: What Made This Gaming System a Hit Among Gamers?</u></a></li>
+</ul></div>
 

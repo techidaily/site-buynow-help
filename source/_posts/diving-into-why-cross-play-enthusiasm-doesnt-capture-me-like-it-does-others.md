@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2024-11-14T05:41:33.984Z
-updated: 2024-11-15T05:48:23.096Z
+date: 2024-11-17T17:12:25.457Z
+updated: 2024-11-24T16:46:26.691Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Playing cross-platform means less wait time in matchmaking lobbies, making it easier to find a game.
@@ -22,16 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Remember when cross-platform multiplayer gaming was something we all wanted? Now that we've got it, I don't think it's panned out exactly how I expected. Here's why I'm so far unimpressed by cross-platform gaming.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Cross-Platform Multiplayer Offers Gamers
@@ -42,16 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Controller Mis-Matching and Aim Assist
 
 ![mouse keyboard controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/mouse-keyboard-controller.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
@@ -65,13 +57,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
 ![An Xbox wireless controller on top of a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_2395089811-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [FabrikaSimf/Shutterstock.com](https://www.shutterstock.com/image-photo/headphones-joystick-computer-keyboard-on-black-2395089811)
 
  The [controller vs mouse-and-keyboard debate](https://screen-sharing-recording.techidaily.com/1715859805411-2024-approved-seeking-the-best-ps2-games-try-these-5-android-emulators/) will probably never be settled in our lifetimes. A [study done in 2011](https://dl.acm.org/doi/10.1145/2181037.2181052) shows that players who switch platforms tend to feel a little out-to-sea when it comes to their control scheme, which explains why players who are used to keyboard-and-mouse may feel like controllers just don't feel right.
@@ -81,10 +66,7 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Problems That Impact Competitive Play
@@ -94,6 +76,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  PVP play in titles like _War Thunder_ and _Overwatch 2_ requires players to have more-or-less the same footing. Unfortunately, that's not always the case. As someone who's played both of these titles with both control schemes, there's a distinct difference in how they handle that's more than just getting used to the controls.
 
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
@@ -140,17 +126,24 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-harmonic-frames-filming-music-tracks-using-iphones-for-2024/"><u>[New] Harmonic Frames Filming Music Tracks Using iPhones for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-mastering-video-visibility-settings-on-youtube/"><u>[New] Mastering Video Visibility Settings on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-synchronizing-realism-advanced-green-screen-applications-for-viewers-for-2024/"><u>[New] Synchronizing Realism Advanced Green Screen Applications for Viewers for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-understanding-the-impact-of-igtv-videos-through-analysis-for-2024/"><u>[New] Understanding the Impact of IGTV Videos Through Analysis for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-higher-view-counts-through-sustained-compliance-with-youtube-cc/"><u>[Updated] Unlocking Higher View Counts Through Sustained Compliance with YouTube CC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-intelligence-is-it-declining-or-stable-according-to-openai/"><u>ChatGPT's Intelligence: Is It Declining or Stable According to OpenAI?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-success-with-gps-a-comprehensive-review-of/"><u>Navigating Success with GPS: A Comprehensive Review Of</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-transition-from-old-to-new-macos-version/"><u>Navigating the Transition From Old to New MacOS Version</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/panasonic-fz80-a-versatile-budget-friendly-pro/"><u>Panasonic FZ80: A Versatile, Budget-Friendly Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/protect-your-apple-device-with-our-selection-of-the-greatest-6-antivirus-apps/"><u>Protect Your Apple Device with Our Selection of the Greatest 6 Antivirus Apps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/save-big-during-prime-day-exclusive-offers-on-benq-screens-and-visual-tech/"><u>Save Big During Prime Day: Exclusive Offers on BenQ Screens and Visual Tech</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-11-best-free-update-utilities-for-your-software/"><u>Top 11 Best Free Update Utilities for Your Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlocking-creative-potential-integrating-custom-graphic-elements-into-your-story/"><u>[New] 2024 Approved Unlocking Creative Potential Integrating Custom Graphic Elements Into Your Story</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-engineering-unique-tiktok-outro-animations/"><u>[New] In 2024, Engineering Unique TikTok Outro Animations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-razer-kiyo-webcam-detailed-review/"><u>[New] In 2024, Razer Kiyo Webcam - Detailed Review</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-v30-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme V30 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-dbpower-unichargers-robust-portable-design-and-extraordinary-mains-charging-speed-expert-insights/"><u>Exploring the DBPOWER UniCharger's Robust, Portable Design & Extraordinary Mains Charging Speed - Expert Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-dichotomy-of-cyberpunk-2077-magnificent-but-incomplete/"><u>Exploring the Dichotomy of Cyberpunk 2077: Magnificent but Incomplete</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-world-with-ease-top-5-wireless-travel-routers/"><u>Exploring the World with Ease: Top 5 Wireless Travel Routers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fm-transmitter-cp24-by-criacr-a-miniature-marvel-with-some-limitations-in-depth-analysis/"><u>FM Transmitter CP24 by Criacr - A Miniature Marvel with Some Limitations: In-Depth Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gopro-hero7-black-the-ultimate-companion-for-extreme-sports/"><u>GoPro HERO7 Black: The Ultimate Companion for Extreme Sports</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-repairing-user-profile-service-malfunctions-and-ensuring-successful-logins-in-windows-1011/"><u>Guide: Repairing 'User Profile Service' Malfunctions and Ensuring Successful Logins in Windows 10/11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hisense-50h8f-review/"><u>Hisense 50H8F Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/holy-stone-hs170s-predator-quadcopter-the-ultimate-budget-friendly-rc-helicopter-guide/"><u>Holy Stone HS1,70's Predator Quadcopter: The Ultimate Budget-Friendly RC Helicopter Guide!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-diagnose-and-repair-your-kurtzpel-software-malfunction-successfully/"><u>How To Diagnose and Repair Your KurtzPel Software Malfunction Successfully</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-a-comprehensive-look-at-benq-sw320s-4k-features/"><u>In 2024, A Comprehensive Look at BenQ SW320's 4K Features</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-g2-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo G2 FRP Bypass</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-dell-alienware-aurora-r9-a-cutting-edge-gamers-dream/"><u>In-Depth Analysis of Dell Alienware Aurora R9: A Cutting-Edge Gamer's Dream</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-top-tier-garmin-forerunner-745-multisport-watch/"><u>In-Depth Analysis of the Top-Tier Garmin Forerunner 745 Multisport Watch</u></a></li>
 </ul></div>
 

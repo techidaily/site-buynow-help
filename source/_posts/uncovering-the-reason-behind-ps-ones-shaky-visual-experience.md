@@ -1,7 +1,7 @@
 ---
 title: Uncovering the Reason Behind PS One's Shaky Visual Experience
-date: 2024-11-09T23:58:51.190Z
-updated: 2024-11-15T03:30:02.657Z
+date: 2024-11-17T16:15:36.794Z
+updated: 2024-11-24T17:04:58.431Z
 tags:
   - games
   - tv
@@ -22,10 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they're still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn't find in the competition, so what gives?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It’s All About Floating Points
@@ -36,11 +33,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Since you can only use integers, any position for a vertice that's not an integer will simply be skipped over. So you'll see polygons "snap" between positions with certain types of motion. For example, a character that's standing still and has a subtle idle animation will look like they're jittering a little.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Z-Buffer Not Found
 
  Apart from the lack of an FPU, the PlayStation also lacked a hardware Z-buffer. You might remember XYZ coordinates from school, where you can describe any point within a 3D space using three numbers. The PlayStation lacked a hardware buffer to store depth or Z-axis values, sorted in order of how far away something is from the "camera."
 
  This meant that game developers had to create their own in-house Z-buffering solution, and since it was not done in hardware, they had to be economical with their depth-sorting algorithms. This led to a common situation in PS1 games where small sorting errors were made and polygons that should have been hidden from view pop in and out of sight.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Affine Texture Mapping Is Not So Fine After All
 
@@ -49,10 +54,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what's known as affine texture warping.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Fast, Cheap, or Complex: Pick Two
@@ -63,22 +65,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The bottom line is that the console could have had that extra hardware, but it would have driven the cost up significantly, without any clear benefit to Sony or its players at the time. The company went with "fast and cheap," leaving complexity at the door. History has shown this was the right decision.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Emulators Can Correct This (But Should You?)
 
 ![An iPad running G-Police next a  physical original copy of the game and a PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -104,15 +96,24 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-consolidating-zoom-schedules-on-android-ios-and-desktop-platforms/"><u>[New] In 2024, Consolidating Zoom Schedules on Android, iOS & Desktop Platforms</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-photographers-blueprint-for-stunning-hdr-portraits-for-2024/"><u>[New] The Photographer's Blueprint for Stunning HDR Portraits for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-file-flow-fixtures-easy-moves-for-your-machine/"><u>[Updated] In 2024, File Flow Fixtures Easy Moves for Your Machine</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-under-100-budget-friendly-action-cams-top-choices-guide/"><u>[Updated] Under-$100 Budget-Friendly Action Cams – Top Choices Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-depths-of-strategy-with-the-wasteland-2-directors-cut-an-in-depth-review/"><u>Exploring The Depths of Strategy with The Wasteland 2 Director's Cut: An In-Depth Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-excellence-of-kooteks-laptop-thermal-protection-comprehensive-review-and-recommendation/"><u>Exploring the Excellence of Kootek's Laptop Thermal Protection: Comprehensive Review and Recommendation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/first-look-at-the-syma-x5c-remote-controlled-drone-great-value-for-beginners/"><u>First Look at the SYMA X5C Remote Controlled Drone - Great Value for Beginners!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/forefront-picks-premier-storm-monitoring-tools-available/"><u>Forefront Picks: Premier Storm Monitoring Tools Available</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-definitive-ranking-of-11-top-audio-capture-gadgets-for-2024/"><u>The Definitive Ranking of 11 Top Audio Capture Gadgets for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-tweet-reactions-a-complete-guide-for-23/"><u>[New] 2024 Approved Mastering Tweet Reactions - A Complete Guide for '23</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/kyrocket-your-channel-to-over-a-million-subscribers/"><u>[New] Skyrocket Your Channel to Over a Million Subscribers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-photos-with-photoshops-dynamic-motion-blur-feature/"><u>[New] Tailoring Photos with Photoshop's Dynamic Motion Blur Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-to-using-vivavideo-app/"><u>[New] Unveiling the Secrets to Using VivaVideo App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-effortless-methods-to-archive-slideshows-for-2024/"><u>[Updated] Effortless Methods to Archive Slideshows for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>[Updated] Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-elite-audio-upgrades-the-creme-de-la-creme-sound-cards-of-the-2024-market/"><u>Discover Elite Audio Upgrades: The Crème De La Crème Sound Cards of the 2024 Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-your-inner-adventurer-the-incredible-compact-camera-sx70/"><u>Discover Your Inner Adventurer: The Incredible Compact Camera SX70</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/echo-pop-or-echo-dot-understanding-the-key-differences/"><u>Echo Pop or Echo Dot – Understanding The Key Differences</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elysian-estates-transforming-simple-nests-into-grand-homes/"><u>Elysian Estates: Transforming Simple Nests Into Grand Homes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-into-the-samsung-galaxy-watch-active-your-ally-for-personal-fitness-goals/"><u>Expert Insights Into the Samsung Galaxy Watch Active: Your Ally for Personal Fitness Goals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-strongly-built-uniden-r3-with-exceptional-long-range-features/"><u>Expert Review: The Strongly Built Uniden R3 with Exceptional Long Range Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-elegance-and-efficiency-of-aukeys-no-nonsense-usb-30-hub-package/"><u>Exploring the Elegance & Efficiency of Aukey's No-Nonsense USB 3.0 Hub Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-escort-max-360-high-tech-radar-detection-meets-accurate-gps-navigation/"><u>Exploring the Features of Escort Max 360: High-Tech Radar Detection Meets Accurate GPS Navigation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fast-and-reliable-or-just-ugly-evaluating-tp-links-av2000-powerline-adapter/"><u>Fast and Reliable or Just Ugly? - Evaluating TP-Link's AV2000 Powerline Adapter</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-videos-to-mp3s-free-online-convert-2023-for-2024/"><u>FB Videos to MP3s - Free Online Convert 2023 for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-poco-c50-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Poco C50</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-11-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 11 Making It Possible</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-tak-audio-formats-unlock-high-quality-music-experience/"><u>Mastering TAK Audio Formats: Unlock High-Quality Music Experience</u></a></li>
 </ul></div>
 

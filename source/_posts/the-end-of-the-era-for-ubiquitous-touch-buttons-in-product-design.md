@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-11-13T04:52:08.418Z
-updated: 2024-11-14T23:19:28.310Z
+date: 2024-11-17T17:06:10.460Z
+updated: 2024-11-24T16:55:49.450Z
 tags:
   - games
   - tv
@@ -22,10 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Problem With Capacitive Touch Buttons
@@ -38,6 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Capacitive Touch Buttons Are Everywhere
 
  There was a period in the late 2010s when touch buttons seemed to appear on almost everything, whether their use was justified or not. Though some manufacturers have moved away from the practice, others seem to be shoehorning capacitive panels into anything and everything.
@@ -48,18 +49,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
 
@@ -69,6 +67,10 @@ Tim Brookes / How-To Geek
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  But this logic doesn’t extend to every device. Though the argument for longevity is a valid one, did we trade usability for reliability? And is that trade-off worth it?
@@ -76,13 +78,6 @@ Tim Brookes / How-To Geek
  Is it better to get more time out of an inferior user experience, or accept that moving parts occasionally require maintenance? Is your washing machine motor going to fail before the interface on the front of it? One of those things is far cheaper and easier to replace.
 
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Some Manufacturers Ditched Touch for a Reason
 
@@ -92,6 +87,10 @@ Tim Brookes / How-To Geek
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Occasionally the PS4 would turn itself on randomly, for seemingly no reason. Worse still, the console could randomly turn itself off or eject the disc for no reason. Add to this the constant threat of curious dog and cat noses that are perfect for triggering capacitive touch buttons, and the fact that it was way too easy to trigger these buttons when cleaning or simply walking past.
@@ -99,13 +98,6 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -126,20 +118,17 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-facebook-live-capturing-your-broadcasts-for-2024/"><u>[New] Mastering Facebook Live Capturing Your Broadcasts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-fast-track-your-fame-on-instagram-our-ultimate-list-of-15-must-try-techniques/"><u>[Updated] In 2024, Fast-Track Your Fame on Instagram Our Ultimate List of 15 Must-Try Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-fades-in-adobe-audition-basics/"><u>[Updated] Mastering Fades in Adobe Audition Basics</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-enhancing-images-with-motion-blur-in-illustrator/"><u>2024 Approved Enhancing Images with Motion Blur in Illustrator</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-tablet-showdown-amazon-fire-vs-samsung-finding-your-perfect-match/"><u>Best Tablet Showdown: Amazon Fire Vs. Samsung - Finding Your Perfect Match</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/check-out-this-sturdy-dependable-and-portable-recommendation-for-your-cars-flat/"><u>Check Out This Sturdy, Dependable & Portable Recommendation for Your Car's Flat</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-orbis-tri-band-wi-fi-6-mesh-networking-solution-for-enhanced-speed-and-coverage-at-home/"><u>Comprehensive Review of Orbi's Tri-Band Wi-Fi 6 Mesh Networking Solution for Enhanced Speed and Coverage at Home</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dbpower-600a-peak-charger-18000mah-top-notch-performance-for-on-the-go-charging-a-review/"><u>DBPower 600A Peak Charger 18000mAh - Top Notch Performance for On-the-Go Charging: A Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/deciphering-amazon-halo-an-intriguingly-detailed-guide-to-its-unconventional-activity-monitoring/"><u>Deciphering Amazon Halo: An Intriguingly Detailed Guide to Its Unconventional Activity Monitoring</u></a></li>
-<li><a href="https://driver-error.techidaily.com/drivers-not-recognized-by-os/"><u>Drivers Not Recognized by OS</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhance-mobile-communication-elite-signal-booster-picks-to-maximize-range-2024-edition/"><u>Enhance Mobile Communication: Elite Signal Booster Picks to Maximize Range - 2024 Edition</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-eye-catching-thumbnails-select-the-best-fonts/"><u>In 2024, Eye-Catching Thumbnails Select the Best Fonts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/photo-file-access-issue-post-recovery/"><u>Photo File Access Issue Post-Recovery</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m54-5g-video-recovery-recover-deleted-videos-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-video/"><u>Samsung Galaxy M54 5G Video Recovery - Recover Deleted Videos from Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-money-on-snapchat/"><u>[New] How To Make Money On Snapchat</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>[Updated] The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-6s-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 6s without Password</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-the-apple-iphone-15-pro-and-pro-max-features-performance-and-pricing/"><u>Comparing the Apple iPhone 15 Pro and Pro Max: Features, Performance & Pricing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-apples-giant-the-iphone-12-pro-max-benefits-unveiled/"><u>Comprehensive Evaluation of Apple's Giant - The iPhone 12 Pro Max Benefits Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-look-at-the-lenovo-ideapad-quality-craftsmanship-meets-essential-tech/"><u>Comprehensive Look at the Lenovo Ideapad: Quality Craftsmanship Meets Essential Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/debunking-or-validating-amazon-primes-worthiness/"><u>Debunking or Validating Amazon Prime's Worthiness?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/electronics-showdown-choosing-between-an-ipad-kindle-or-a-nook-device/"><u>Electronics Showdown: Choosing Between an iPad, Kindle or a NOOK Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-direct-pathway-iphone-files-on-your-desktop/"><u>In 2024, Direct Pathway IPhone Files on Your Desktop</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-from-screenplays-to-screens-youtubes-filmmaker-training/"><u>In 2024, From Screenplays to Screens YouTube's Filmmaker Training</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-z-flip-5-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy Z Flip 5 Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-13-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 13 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
 

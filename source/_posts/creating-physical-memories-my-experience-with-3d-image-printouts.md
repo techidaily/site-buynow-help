@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2024-11-13T16:55:16.290Z
-updated: 2024-11-15T02:02:42.912Z
+date: 2024-11-23T16:44:41.775Z
+updated: 2024-11-24T16:52:43.465Z
 tags:
   - games
   - tv
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
  Photos are 2D, and so surely you'd only want to print them using a normal everyday 2D printer? However, it turns out you can create a "lithophane" from a photo and turn your snaps into actual plastic models.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is a Lithophane Exactly?
 
  True lithophanes are porcelain pieces that have designs pressed into them when the porcelain is soft. Then, when held up to a light, the image becomes visible. The different thicknesses of the porcelain let through different amounts of light, and you effectively have a grayscale image.
@@ -38,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
@@ -51,30 +52,18 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
 
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Printing Your Lithophane
 
@@ -89,10 +78,7 @@ Close
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -114,18 +100,19 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-transitioning-from-smartphone-to-watching-fb-videos-on-appletv-for-2024/"><u>[New] Transitioning From Smartphone to Watching FB Videos on AppleTV for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-4-ways-to-watch-facebook-live-on-tv/"><u>[Updated] 2024 Approved 4 Ways To Watch Facebook Live On TV</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-making-sporting-scenes-spectacomed/"><u>[Updated] 2024 Approved Making Sporting Scenes Spectacomed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-news-endings-as-a-narrative-tool/"><u>[Updated] 2024 Approved News Endings as a Narrative Tool</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-illustrate-effortlessly-prime-ios-design-software/"><u>[Updated] In 2024, Illustrate Effortlessly Prime iOS Design Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-websnd/"><u>「Movaviで簡単! 無料Web上のSNDファイルを自由に変換」</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-compact-to-capacious-the-ps3-storage-guide/"><u>From Compact to Capacious: The PS3 Storage Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/get-the-best-bang-for-your-buck-with-lgs-budget-friendly-24lh4830-smart-tv/"><u>Get the Best Bang for Your Buck with LG's Budget-Friendly 24LH4830 Smart TV</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-meizu-21-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Meizu 21 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-srt-a-complete-reference-guide-for-conversion/"><u>In 2024, Transforming SRT A Complete Reference Guide for Conversion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-garmin-forerunner-945-a-premier-gps-smartwatch-guide/"><u>In Depth Evaluation of the Garmin Forerunner 945: A Premier GPS Smartwatch Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insta360s-underwater-exploration-made-easy-the-one-x2-reviewed/"><u>Insta360's Underwater Exploration Made Easy - The One X2 Reviewed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-rise-of-amd-transforming-pc-gaming-experience-across-platforms/"><u>The Rise of AMD: Transforming PC Gaming Experience Across Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-complete-list-where-to-find-high-quality-music-files/"><u>[New] 2024 Approved A Complete List Where to Find High-Quality Music Files</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-confronting-giants-picking-your-powerhouse-t5-or-sjcam-s6/"><u>[Updated] In 2024, Confronting Giants Picking Your Powerhouse - T5 or SJCAM S6</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-clarity-with-leading-photo-gridding-services/"><u>Capture Clarity with Leading Photo Gridding Services</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-critique-how-does-the-acer-chromebook-15s-big-screen-stack-up/"><u>Detailed Critique: How Does the Acer Chromebook 15'S Big Screen Stack Up?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-selection-6-prime-stores-for-your-next-laptop-purchase/"><u>Discover the Ultimate Selection: 6 Prime Stores for Your Next Laptop Purchase</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/eero-pro-mesh-router-analysis-for-expansive-and-consistent-home-internet-access/"><u>Eero Pro Mesh Router Analysis for Expansive and Consistent Home Internet Access</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ensuring-regular-meals-for-your-furry-friends-using-petsafes-automated-feeder/"><u>Ensuring Regular Meals for Your Furry Friends Using PetSafe's Automated Feeder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-iphone-security-suites-discover-the-best-available-protection/"><u>Essential iPhone Security Suites: Discover The Best Available Protection</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-kodi-connection-issues-overcome-could-not-get-directory-info/"><u>Fixing Kodi Connection Issues - Overcome 'Could Not Get Directory Info'</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-explore-the-best-15-standout-stop-motion-films-of-all-time/"><u>In 2024, Explore the Best 15 Standout Stop-Motion Films of All Time</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introducing-the-premier-audio-augmented-app/"><u>Introducing the Premier Audio-Augmented App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-smart-way-to-scale-and-slash-iphone-videos/"><u>The Smart Way to Scale & Slash iPhone Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x8024a205-in-winupdate/"><u>Troubleshooting Error 0X8024a205 in WinUpdate</u></a></li>
 </ul></div>
 
