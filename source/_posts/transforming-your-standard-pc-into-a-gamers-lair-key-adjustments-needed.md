@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Standard PC Into a Gamers' Lair: Key Adjustments Needed"
-date: 2024-11-12T05:19:00.003Z
-updated: 2024-11-14T18:40:07.015Z
+date: 2024-11-29T07:33:15.425Z
+updated: 2024-12-02T17:33:18.667Z
 tags:
   - games
   - tv
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
  You don't need a gaming laptop to play games, you just need to make some sensible decisions, careful tweaks, and perhaps a few inexpensive additional purchases. If you're determined enough you can turn even the most boring work laptop into a gaming machine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Games You Play Will Determine Your Gaming Experience
 
  Before we start looking for problems to fix within the laptop itself, let’s get a baseline reading of your hardware requirements and see how your current or prospective laptop stacks up.
@@ -35,10 +28,7 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 ![EA SPORTS FC24 promotional picture.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ea-sports-fc24-promotional-picture.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 EA
@@ -55,6 +45,10 @@ EA
 
  Two of my current favorite games are a “new to me” title from 2009 and a game from 2004 that I played as a kid.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check Your Specs
 
  Let’s say you love graphics-heavy, AAA titles, but you only have a standard laptop that’s below spec requirements. One obvious solution is to adjust your settings accordingly. However, this can defeat the purpose of playing these titles to some degree.
@@ -64,13 +58,6 @@ EA
  A better solution may be to purchase an [external GPU, commonly called an eGPU](https://hardware-help.techidaily.com/freshly-updated-guide-to-installing-new-drivers-on-dell-latitude-e6430-running-windows-issue-resolved/). If you decide to go this route, you'll want to be careful [not to create a bottleneck in your CPU](https://digital-screen-recording.techidaily.com/new-secrets-to-preserving-online-broadcasts-professionally/), which would ultimately lead to major lag issues. Getting the wrong eGPU can be a costly mistake because of how expensive this hardware is.
 
 ![A Razer eGPU enclosure on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/https___hybrismediaprod-blob-core-windows-net_sys-master-phoenix-images-container_h57_h88_9084458041374_razer-core-x-gallery-hero.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Razer
 
@@ -83,10 +70,7 @@ Razer
 ![A laptop RAM stick sitting on a laptop keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/laptop-ram-sitting-on-a-laptop-keyboard-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -96,6 +80,10 @@ Hannah Stryker / How-To Geek
  Most gaming laptops offer the recommended amount of storage and are almost as easily upgraded as a desktop PC. As we saw with RAM, though, standard laptops are also offering more upgrade options.
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -118,6 +106,10 @@ Hannah Stryker / How-To Geek
  Another great accessory for laptop gaming is [a gaming headset](https://ai-video-apps.techidaily.com/new-in-2024-top-rated-free-wmv-video-editing-software-with-splitting-features/). Though laptop speakers have improved in quality across the board, a gaming headset can still be the difference between hearing someone sneak up behind you and being completely ambushed.
 
 ![An RGB-lit keyboard, gaming headset, mouse, and controller on a desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/shutterstock_1487069789.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/gamer-work-space-concept-top-view-1487069789)_
 
@@ -144,24 +136,18 @@ _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-adding-richness-youtube-videos-in-slideshows/"><u>[New] In 2024, Adding Richness YouTube Videos in Slideshows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/trategies-for-dominant-click-through-rates-in-youtube-advertising/"><u>[New] Strategies for Dominant Click-Through Rates in YouTube Advertising</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-effective-strategies-to-capture-and-save-google-voice-dialogues/"><u>[Updated] 2024 Approved Effective Strategies to Capture and Save Google Voice Dialogues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beat-the-hum-effective-fixes-for-quieter-and-crisper-sound-outputs/"><u>Beat the Hum: Effective Fixes for Quieter and Crisper Sound Outputs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/deathloop-on-pc-say-goodbye-to-crashing-with-these-simple-fixes/"><u>Deathloop on PC - Say Goodbye to Crashing with These Simple Fixes!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-zero-5g-2023-turbo-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-100-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 100 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-secrets-to-recording-high-quality-overwatch-matches/"><u>In 2024, Secrets to Recording High-Quality Overwatch Matches</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-budget-friendly-asus-vivobook-11-for-everyday-use/"><u>In-Depth Analysis of the Budget-Friendly Asus VivoBook 11 for Everyday Use</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-guide-to-the-apple-homepod-mini-evaluating-sound-performance-and-integration-with-siri/"><u>In-Depth Guide to the Apple HomePod Mini – Evaluating Sound Performance & Integration with Siri</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-samsung-galaxy-budsplus/"><u>In-Depth Review: Samsung Galaxy Buds+</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/jabra-talk-45-review/"><u>Jabra Talk 45 Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/linksys-velop-test-drive-mastering-seamless-connectivity-with-a-leading-mesh-system/"><u>Linksys Velop Test Drive: Mastering Seamless Connectivity with a Leading Mesh System</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mid-gen-vs-next-gen-gaming-which-consoles-reign-supreme/"><u>Mid-Gen vs Next Gen Gaming: Which Consoles Reign Supreme?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-senior-mobility-the-top-7-phone-plans-to-choose-from-in-24/"><u>Navigating Senior Mobility: The Top 7 Phone Plans to Choose From in 2#4</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-through-2024-a-comprehensive-review-of-top-performing-cable-modems/"><u>Navigating Through 2024: A Comprehensive Review of Top-Performing Cable Modems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgear-orbi-examined-why-its-the-premier-mesh-router-on-the-market-now/"><u>Netgear Orbi Examined: Why It's the Premier Mesh Router on The Market Now</u></a></li>
-<li><a href="https://win-tips.techidaily.com/transformar-imagenes-de-rw2-a-jpg-sin-coste-adicional-con-la-herramienta-online-de-muoviavi/"><u>Transformar Imágenes De RW2 a JPG Sin Coste Adicional Con La Herramienta Online De MuoviAVI</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-edit-with-precision-mastery-of-photoshops-eraser/"><u>[New] In 2024, Edit with Precision Mastery of Photoshop's Eraser</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-perfect-visual-experience-on-youtube-with-professional-techniques/"><u>[New] In 2024, Perfect Visual Experience on YouTube with Professional Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-your-online-influence-for-earnings-through-brand-collaborations-on-youtube/"><u>[New] Maximizing Your Online Influence for Earnings Through Brand Collaborations on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft/"><u>[New] The Art of Intense Focus 5 Techniques for Zooming in Minecraft</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-navigate-the-best-free-photography-enhancers-worldwide/"><u>[Updated] 2024 Approved Navigate the Best Free Photography Enhancers Worldwide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stabilize-your-gameplay-fixing-bugs-in-mass-effect-trilogy-definitive-edition-on-pc-and-xbox/"><u>How to Stabilize Your Gameplay - Fixing Bugs in Mass Effect Trilogy Definitive Edition on PC and Xbox</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-netgear-orbi-assessment-your-ideal-choice-for-optimal-wi-fi-coverage/"><u>Top Netgear Orbi Assessment: Your Ideal Choice for Optimal Wi-Fi Coverage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranked-soundproof-earpieces-for-24/"><u>Top-Ranked Soundproof Earpieces for '24</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gps-running-watch-the-essential-guide-to/"><u>Top-Rated GPS Running Watch: The Essential Guide To</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-and-assessment-of-the-lenovo-ideapad-3-the-new-contender-in-line-with-yoga-a940s-legacy/"><u>Ultimate Guide & Assessment of the Lenovo IdeaPad 3: The New Contender in Line with Yoga A940's Legacy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-best-laptop-battery-packs-of-2024/"><u>Ultimate Guide to the Best Laptop Battery Packs of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unbeatable-prime-day-offers-shop-benq-monitor-specials/"><u>Unbeatable Prime Day Offers: Shop BenQ Monitor Specials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-best-free-screen-recorders-on-windows-10/"><u>Unlocking the Best Free Screen Recorders on Windows 10</u></a></li>
 </ul></div>
 

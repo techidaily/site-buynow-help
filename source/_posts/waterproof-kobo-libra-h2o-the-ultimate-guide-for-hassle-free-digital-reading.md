@@ -1,7 +1,7 @@
 ---
 title: Waterproof Kobo Libra H2O - The Ultimate Guide for Hassle-Free Digital Reading
-date: 2024-09-09T04:05:55.287Z
-updated: 2024-09-10T04:05:55.287Z
+date: 2024-11-30T21:38:25.794Z
+updated: 2024-12-02T20:04:34.671Z
 categories:
   - BestProducts
 description: This Article Describes Waterproof Kobo Libra H2O - The Ultimate Guide for Hassle-Free Digital Reading
@@ -9,12 +9,6 @@ excerpt: This Article Describes Waterproof Kobo Libra H2O - The Ultimate Guide f
 thumbnail: https://www.lifewire.com/thmb/PT2hBx6hnjIGur_buZlIb8iAhXE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kobo_EReaders_1LW4046778_HeroSquare-ea9a5889b98f49fa8e64f46c7199f5b8.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ultimate Guide to the Beatit BT-D11 Power Bank - Strength Unleashed
 
 4.8
@@ -22,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/PT2hBx6hnjIGur_buZlIb8iAhXE=/400x300/fi
 ## Beatit 800A BT-D11 Car Jump Starter
 
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/OIHJ0F8VMR0yFUpC8veJBJ39E6A=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Tony Mitera
 
@@ -45,9 +43,17 @@ thumbnail: https://www.lifewire.com/thmb/PT2hBx6hnjIGur_buZlIb8iAhXE=/400x300/fi
 
 4.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Beatit 800A BT-D11 Car Jump Starter
 
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/7R_IVd_cu2-li0Lw4-mRkmgyF1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Tony Mitera
 
@@ -72,12 +78,6 @@ thumbnail: https://www.lifewire.com/thmb/PT2hBx6hnjIGur_buZlIb8iAhXE=/400x300/fi
 
  Lifewire / Tony Mitera
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: A lot of power packed into a small frame**
 
  The Beatit Jump Starter D11’s main unit's effectively a small black brick with red accents. Roughly the size of a small paperback book, the unit's constructed out of durable plastic and features a flashlight at one end. Along one of the long sides there's a small display that shows battery status, the on/off switch, two USB power outputs, and the device’s charging port. On the opposing side a rubber flap covers the jumper cable port; a unique port that the jumper cable accessory plugs in to.
@@ -97,11 +97,9 @@ thumbnail: https://www.lifewire.com/thmb/PT2hBx6hnjIGur_buZlIb8iAhXE=/400x300/fi
  If it's your other devices that are having some battery issues, the D11’s two USB ports can be used to charge them up. The 2.1A port provides for faster charging, and while the 1A port also works it really doesn’t provide power in a hurry and should only be used with specific devices that can’t handle the other port's amperage. For most modern phones you’re just going to want to plug it into the 2.1A port and enjoy the faster recharge.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: Plenty of power for all your needs**
 
  Time and again, the Beatit Jump Starter D11 was able to get a car with a very[depleted battery](https://www.lifewire.com/car-batteries-are-made-to-die-534765) started. Even after repeated testing the unit’s own battery only dropped down to 85% capacity.
@@ -111,17 +109,9 @@ thumbnail: https://www.lifewire.com/thmb/PT2hBx6hnjIGur_buZlIb8iAhXE=/400x300/fi
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Key Features: The flashlight is nice but is basically a spotlight**
 
  There aren’t a ton of other features present with the Beatit Jump Starter D11 but there are some of note, including the unit’s built-in flashlight. It’s a nice addition to have if you must jump start a car in the middle of the night, but it doesn’t put out of a ton of light and the beam is pretty narrow. You can pick the unit up and use it as a large flashlight, though doing so while also trying to get the clamps attached is cumbersome.
@@ -130,12 +120,6 @@ thumbnail: https://www.lifewire.com/thmb/PT2hBx6hnjIGur_buZlIb8iAhXE=/400x300/fi
 
  Lifewire / Tony Mitera
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: A ton of value for a tiny cost**
 
  The MSRP of the Beatit Jump Starter D11 is $70 which makes it one of the most affordable jump starters on the market. Indeed, at that price, it's the least expensive one we tested, yet no part of it feels like any corners were cut in terms of quality or performance.
@@ -158,12 +142,6 @@ thumbnail: https://www.lifewire.com/thmb/PT2hBx6hnjIGur_buZlIb8iAhXE=/400x300/fi
 
  In a crowded field, there are few units that are as easy to recommend as the Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter. It has relatively few features when compared to some of its competitors but otherwise excels at what it's designed to do. Charge it up, keep it stashed in your vehicle, and you’ll have a perfect tool to easily provide a jump to whatever vehicle needs it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  800A BT-D11 Car Jump Starter
@@ -186,8 +164,6 @@ thumbnail: https://www.lifewire.com/thmb/PT2hBx6hnjIGur_buZlIb8iAhXE=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +171,17 @@ thumbnail: https://www.lifewire.com/thmb/PT2hBx6hnjIGur_buZlIb8iAhXE=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfecting-obs-streams-for-direct-facebook-engagement/"><u>[New] In 2024, Perfecting OBS Streams for Direct Facebook Engagement</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-kinemaster-advanced-perfecting-visual-continuity-for-2024/"><u>[New] Kinemaster Advanced Perfecting Visual Continuity for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-tech-best-drone-gimbals-reviewed-for-2024/"><u>[New] Top Tech Best Drone Gimbals Reviewed for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-the-best-practices-for-timing-and-organizing-google-collaborations-for-2024/"><u>[New] Unveiling the Best Practices for Timing and Organizing Google Collaborations for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-lenovo-tab-p11-pro-impressive-features-and-notable-limitations/"><u>Exploring the Lenovo Tab P11 Pro: Impressive Features and Notable Limitations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-performance-features-of-netgears-nighthawk-x4-wi-fi-mesh-expansion-kit-reviewed-here/"><u>Exploring the Performance Features of Netgear's Nighthawk X4 Wi-Fi Mesh Expansion Kit - Reviewed Here</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v29-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pickup-vs-competitors-an-incisive-review-of-androids-top-editor/"><u>PickUp Vs. Competitors An Incisive Review of Android's Top Editor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-performance-analyzed-the-samsung-galaxy-s21-ultra-as-androids-best-choice/"><u>Top-Tier Performance Analyzed: The Samsung Galaxy S21 Ultra as Android’s Best Choice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-fun-games-when-unoccupied/"><u>Ultimate Selection of Fun Games When Unoccupied</u></a></li>
+</ul></div>
 

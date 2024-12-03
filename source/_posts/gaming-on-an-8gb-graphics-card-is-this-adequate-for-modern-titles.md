@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2024-11-20T17:17:14.199Z
-updated: 2024-11-24T16:33:00.868Z
+date: 2024-11-26T04:27:08.251Z
+updated: 2024-12-03T09:18:28.762Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Highlights
 
 * 8GB GPUs are suitable for indie, eSports, and older AAA games at high resolutions without performance issues, as long as they pack enough raw performance.
@@ -22,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The latest and greatest AAA games can use a boatload of video memory when you crank the visuals to high or ultra. With such an insatiable appetite for VRAM, is an 8GB GPU enough to play the latest games in 2024? I've got an 8GB GPU, and here's what I've learned.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  8GB of Memory Is Plenty for Indie, eSports, and Older Games
@@ -35,10 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A screenshot of a virtual bar from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204942.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
@@ -48,7 +48,7 @@ Cianna Garrison / How-To Geek
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Things Get Complicated With Newer AAA Games
@@ -60,7 +60,7 @@ Cianna Garrison / How-To Geek
 ![A screenshot of a virtual Corvette driving in a race from the game "Forza Horizon 5."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-01-172430.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -90,7 +90,7 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _GIGABYTE_
@@ -120,18 +120,24 @@ _GIGABYTE_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/eam-it-up-15-must-haves-for-your-youtube-live-stream-for-2024/"><u>[New] Beam It Up! 15 Must-Haves for Your YouTube Live Stream for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-live-streamers-analyzed-and-ranked/"><u>[Updated] Top Live Streamers Analyzed and Ranked</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-srt-essentials-decoded-for-easy-understanding/"><u>2024 Approved SRT Essentials Decoded for Easy Understanding</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/add-more-games-to-the-nes-classic/"><u>Add More Games to the NES Classic</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-books-application-a-comprehensive-review/"><u>Apple Books Application: A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/approach-identify-alternative-tests-used-in-endodontic-diagnosis/"><u>Approach: Identify Alternative Tests Used in Endodontic Diagnosis.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-download-blues-effective-tips-for-a-smooth-cyberpunk-2077-experience-on-steam/"><u>Beat the Download Blues! Effective Tips for a Smooth Cyberpunk 2077 Experience on Steam</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-for-home-entertainment-maisto-rc-rock-crawler-reviewed-enthralling-family-friendly-fun/"><u>Best for Home Entertainment: Maisto RC Rock Crawler Reviewed, Enthralling Family-Friendly Fun</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-linksys-ac1900-max-stream-wifi-router-ideal-choice-for-all-households/"><u>Comprehensive Evaluation of Linksys AC1900 Max-Stream WiFi Router: Ideal Choice for All Households</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-speech-finesse-in-online-combat-for-2024/"><u>Free Speech Finesse in Online Combat for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-canvas-clearance-techniques-for-uncluttered-image-frames/"><u>In 2024, Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-excel-2019-files-from-virus-infected-pen-drives-for-free-by-stellar-guide/"><u>Recover Excel 2019 Files from Virus-Infected Pen Drives for Free</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/xbox-series-s-reviewed-high-end-gaming-in-a-smaller-form-factor/"><u>Xbox Series S Reviewed: High-End Gaming in a Smaller Form Factor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-master-video-cutting-and-splicing-with-vimeo-for-free/"><u>[New] 2024 Approved Master Video Cutting & Splicing with Vimeo, for Free</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-front-runners-graphic-cards-for-4k-games/"><u>2024 Approved Front-Runners Graphic Cards for 4K Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-top-10-mac-friendly-artist-tools-free/"><u>2024 Approved Ultimate Guide Top 10 Mac-Friendly Artist Tools (Free)</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/wdsshd2/"><u>高優先度のWD外部SSHDデータ消去法トップ2選択肢</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-performance-and-design-a-deep-dive-into-the-samsung-galaxy-s10-review/"><u>Elite Performance and Design: A Deep Dive Into the Samsung Galaxy S10 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/emperor-of-rome-critique-building-an-empire-against-all-odds/"><u>Emperor of Rome Critique: Building an Empire Against All Odds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-google-pixelbook-go-a-masterfully-designed-chromebook-with-a-premium-price-tag/"><u>Evaluating The Google Pixelbook Go - A Masterfully Designed Chromebook with a Premium Price Tag</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-toshiba-55-inch-fire-tv-edition-why-its-a-prime-asset-to-any-home/"><u>Expert Review of the Toshiba 55-Inch Fire TV Edition - Why It's a Prime Asset to Any Home</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-reviews-navigating-through-2024s-best-smartwatch-options/"><u>Expert Reviews: Navigating Through 2024'S Best Smartwatch Options</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-best-value-in-tablets-2020-review-of-lenovo-tab-m10-and-its-impressive-display-quality/"><u>Exploring the Best Value in Tablets: 2020 Review of Lenovo Tab M10 and Its Impressive Display Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-fun-facelift-to-survival-tactics-navigating-the-world-of-7-days-to-life-in-one-week-review/"><u>From Fun Facelift to Survival Tactics: Navigating the World of '7 Days to Life' In One Week Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/godfall-critique-underwhelming-narrative-and-gameplay-as-ps5-exclusive-debut/"><u>Godfall Critique: Underwhelming Narrative and Gameplay as PS5 Exclusive Debut</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/head-to-head-comparison-which-is-right-for-you-the-latest-iphone-or-a-top-samsung-phone/"><u>Head-to-Head Comparison: Which Is Right for You - The Latest iPhone or a Top Samsung Phone?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-v30-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo V30 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-essential-facts-about-choosing-youtube-premium/"><u>In 2024, The Essential Facts About Choosing YouTube Premium</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-5-displays-for-immersive-ps5-gaming-for-2024/"><u>Optimal 5 Displays for Immersive PS5 Gaming for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mscorwksdll-file-absent-issue-a-comprehensive-guide/"><u>Solving the 'mscorwks.dll' File Absent Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-online-presence-with-manycam-top-tier-live-video-production-and-virtual-camera-tech/"><u>Transform Online Presence with ManyCam - Top-Tier Live Video Production & Virtual Camera Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-11-tablet-mode-everything-you-need-to-know/"><u>Windows 11 Tablet Mode: Everything You Need to Know</u></a></li>
 </ul></div>
 

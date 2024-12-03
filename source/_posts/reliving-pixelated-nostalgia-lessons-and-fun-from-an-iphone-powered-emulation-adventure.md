@@ -1,7 +1,7 @@
 ---
 title: "Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure"
-date: 2024-11-10T16:21:49.455Z
-updated: 2024-11-15T04:50:00.384Z
+date: 2024-11-28T20:59:34.024Z
+updated: 2024-12-03T03:30:49.416Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
 ## Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The iPhone now supports emulators, starting with Delta for Nintendo, offering a nostalgic gaming experience.
@@ -20,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 * Enhance your emulator experience with a physical controller, by managing notifications, and keeping your battery topped up. Alternatively, explore handheld PC options like the Steam Deck.
 
  You can now turn your iPhone into a retro gaming machine, no jailbreak required. But just because you can, doesn’t necessarily mean you should. Here’s what I’ve learned so far.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Emulators on _My_ iPhone?
 
@@ -54,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
  Emulation is powered by well-known cores like [Snes9x](https://github.com/snes9xgit/snes9x) and [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), open-source projects that ensure excellent compatibility with game libraries. The experience may not be pixel-perfect (you’ll need original hardware or an [FPGA-based device like the MiSTeR for that](https://visual-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-captures-top-10-online-video-recorders/)), but with an emulator like Delta you get bonuses like save states, fast forward, and the ability to use cheat codes if you want.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The iPhone Is the Worst Part
 
  Smartphones are incredible devices that can do just about everything, but they’re not necessarily well suited to all tasks. Arguably the worst part of using an emulator like Delta on an iPhone is the fact that you’re still playing on an iPhone.
@@ -83,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
  The good news is that you’ll be playing in no time if you have a collection of ROMs stored in the cloud, and Delta even comes with a feature called Delta Sync which not only syncs ROMs but also save files, save states, cheat codes, and controller mappings between devices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Improving Your Experience
 
  Arguably the biggest improvement you can make to your iPhone emulator experience is to add a physical controller. You can pair most Bluetooth controllers with your iPhone including Xbox, PlayStation, and [purpose-built retro efforts](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-by-drfone-ios/) from the likes of 8bitdo.
@@ -97,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
  But the form factor still leaves a lot to be desired. Even with a clip that [attaches to your iPhone to your controller](https://fox-boxes.techidaily.com/updated-2024-approved-masterful-viewing-for-artists-best-monitor-guide/), the weight distribution can make things feel unwieldy. You’re much better off mimicking the Nintendo Switch form factor and buying a controller like the [Backbone](https://playbackbone.com) or [Razer Kishi](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2002862&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fmobile-controllers%2Frazer-kishi) instead. Apple recently switched its iPhone range to USB-C, so make sure you buy the right controller for the job.
 
 ![Backbone One with no phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/backbone-one-no-phone.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
@@ -108,18 +95,19 @@ Jason Montoya / How-To Geek
 
 ![Apple's default Gaming Focus mode trigger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/wireless_trigger_focus.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  First, launch Shortcuts and create a new shortcut. Find the “Set Focus” action and change “Turn” to “Toggle” and “Do Not Disturb” to “Gaming” and save it (giving it a suitable name). Now head to the Automation tab, create a new Automation, and use “App” as the Trigger. Choose Delta, select both “is Opened” and “is Closed”, pick “Run Immediately”, and then choose the Shortcut you just made as the action.
 
 ![An iPhone automation that triggers a shortcut to toggle a Focus mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/shortcuts_delta.jpg) 
 
- Now whenever you open Delta, you’ll see a notification to let you know that the “Gaming” Focus has been enabled. When you close the app, Gaming will be disabled. This can massively cut down the number of notifications and unwanted communication you receive when you’re playing games.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now whenever you open Delta, you’ll see a notification to let you know that the “Gaming” Focus has been enabled. When you close the app, Gaming will be disabled. This can massively cut down the number of notifications and unwanted communication you receive when you’re playing games.
 
 ##  Alternatively, Buy a Handheld PC (Like the Steam Deck)
 
@@ -138,10 +126,7 @@ Goran Damnjanovic / How-To Geek
  There are also [portable retro handhelds from Retroid and Anbernic](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/). These devices are inexpensive and come in all manner of form factors, without relying on touchscreen controls. Just make sure you [avoid the cheapest, nastiest knock-offs](https://screen-recording.techidaily.com/updated-2024-approved-top-tier-tools-transforming-remote-discussions/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give It a Try
@@ -165,20 +150,16 @@ Goran Damnjanovic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-complete-course-on-managing-and-editing-srt-on-mac/"><u>[New] 2024 Approved A Complete Course on Managing and Editing SRT on Mac</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-brainless-beats-continue-selecting-top-8-zombie-masterpieces/"><u>[New] 2024 Approved Brainless Beats Continue Selecting Top 8 Zombie Masterpieces</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-expert-strategies-for-seamless-green-screening-in-kinemaster-for-2024/"><u>[Updated] Expert Strategies for Seamless Green Screening in KineMaster for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-captivating-audience-with-these-innovative-videos/"><u>2024 Approved Captivating Audience with These Innovative Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-dachat-de-votre-collection-dvd-sur-le-nuage-amazon-toutes-les-etapes-detaillees/"><u>Guide D'achat De Votre Collection DVD Sur Le Nuage Amazon : Toutes Les Étapes Détaillées</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-6-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/master-your-tasks-on-the-102-inch-apple-ipad-7th-generation-how-ipados-revolutionizes-efficiency-and-creativity/"><u>Master Your Tasks on the 10.2-Inch Apple iPad (7Th Generation): How IPadOS Revolutionizes Efficiency and Creativity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/miniature-powerhouses-discover-the-leading-gaming-mini-pcs/"><u>Miniature Powerhouses: Discover the Leading Gaming Mini PCs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/must-haves-in-a-high-performance-gaming-device/"><u>Must-Haves in a High-Performance Gaming Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/narrative-analysis-torment-where-science-meets-fantasy-in-a-world-building-masterpiece/"><u>Narrative Analysis: Torment - Where Science Meets Fantasy in a World Building Masterpiece</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-2024s-top-handheld-gaming-platforms-for-enthusiasts/"><u>Navigating 2024'S Top Handheld Gaming Platforms for Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/optimizing-ps3-swapping-for-bigger-hdd/"><u>Optimizing PS3: Swapping for Bigger HDD</u></a></li>
-<li><a href="https://video-capture.techidaily.com/outstanding-5-streamer-gadgets-online-for-2024/"><u>Outstanding 5 Streamer Gadgets Online for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/register-now-navigate-through-microsofts-ai-integrated-bing-search-platform-easily/"><u>Register Now: Navigate Through Microsoft's AI Integrated Bing Search Platform Easily</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-mobile-shots-ios-11s-camera-innovations/"><u>[New] 2024 Approved Mastering Mobile Shots IOS 11'S Camera Innovations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capture-kings-list-the-ultimate-screen-recorder-showdown/"><u>[New] In 2024, Capture Kings List The Ultimate Screen Recorder Showdown</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/analyzing-the-new-google-nest-hub-gen-2-wish-it-came-with-a-camera-option/"><u>Analyzing the New Google Nest Hub Gen 2 - Wish It Came with a Camera Option</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-ax6000-rt-ax88u-the-comprehensive-review-of-a-top-notch-wi-fi-6-smart-router-for-enhanced-connectivity/"><u>Asus AX6000 RT-AX88U: The Comprehensive Review of a Top-Notch Wi-Fi 6 Smart Router for Enhanced Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-personal-gps-trackers-from-minute-miniaturization-of-technology-comprehensive-analysis-and-user-friendly-design-reviews-for-a-safe-lifestyle/"><u>Best Personal GPS Trackers – From Minute Miniaturization of Technology, Comprehensive Analysis and User-Friendly Design Reviews for a Safe Lifestyle</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bringing-zombies-alive-with-excitement-the-ultimate-insight-into-7-days-to-die-day-by-day-and-platform-by-platform/"><u>Bringing Zombies Alive with Excitement: The Ultimate Insight Into '7 Days to Die,' Day by Day and Platform by Platform.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/child-friendly-durable-cameras-a-familys-choice-review/"><u>Child-Friendly Durable Cameras - A Family's Choice Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-the-0x80240034-update-issue-in-your-windows-10-system/"><u>Expert Tips for Fixing the 0X80240034 Update Issue in Your Windows 10 System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oneplus-ace-2vs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your OnePlus Ace 2Vs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/l-storytelling-hack-crafting-youtube-thumbnails-on-mobiles-for-2024/"><u>Visual Storytelling Hack Crafting YouTube Thumbnails on Mobiles for 2024</u></a></li>
 </ul></div>
 

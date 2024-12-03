@@ -1,7 +1,7 @@
 ---
 title: "Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools"
-date: 2024-11-17T16:18:12.214Z
-updated: 2024-11-24T17:22:00.515Z
+date: 2024-12-02T05:15:14.718Z
+updated: 2024-12-03T01:21:27.757Z
 tags:
   - games
   - tv
@@ -21,25 +21,21 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  Gaming handhelds like the Steam Deck are great for emulation, allowing you to play a variety of games from classic systems on the go. With EmuDeck, you can see your emulated games alongside your regular Steam Library and launch them without launching a separate emulator first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is EmuDeck?
 
  EmuDeck is essentially an installer package that automatically installs and sets up a variety of emulators for various gaming platforms in a matter of minutes. It achieves this by running an installation script that automatically finds the best emulators for each available system and installs them directly to your Steam library for easy access.
 
 ![The "Collections" tab on the Steam Deck Library with emulated games added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-3.jfif) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Can You Run With EmuDeck?
 
  On a Steam Deck, EmuDeck can reliably run almost everything from the earliest home consoles to the PS2 and Wii with few problems in terms of performance. It can run some Wii U games and Switch titles too, but performance largely depends on the game. Emulating these systems is more complicated and taxing on the hardware.
 
 [PS3 emulation is technically possible with RPCS3](https://some-skills.techidaily.com/new-the-no-fuss-podcast-streaming-handbook/) and is offered as an installation option, but getting it to run properly is a hassle due to the notoriously complex nature of the original console. That being said, a Steam Eck with EmuDeck installed runs nearly everything else flawlessly and, in some cases, even better than the original hardware. This makes EmuDeck a perfect option for creating your own [retro gaming handheld](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don't Worry About Finding the Right Emulators
 
@@ -57,29 +53,17 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  While it is less critical than a flash drive, it's also a good idea to have a microSD card specifically for emulation purposes to avoid cluttering your storage with emulated games. An A2 microSD card from SanDisk is a good choice, but there are [lots of good microSD options](https://media-tips.techidaily.com/quick-and-simple-turn-any-video-into-samsung-galaxy-friendly-format-with-a-mac/) depending on how much space you might need.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Installing EmuDeck
 
  With your microSD card prepared, put your Steam Deck into desktop mode by pressing the Steam button followed by Power > Switch to Desktop. Now open up a web browser and head to [EmuDeck.com](http://www.EmuDeck.com), download the EmuDeck installer for SteamOS using the link provided, put the installer somewhere you can access it (you might want to run it again later), then run it.
 
  Confirm that you want to run it and the installer will download the necessary files, and then install. From here you can follow the on-screen instructions to configure EmuDeck to your liking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Adding Emulated Games to Your Steam Library
 
  My favorite EmuDeck feature is the ability to add emulated games directly to the Steam Library, complete with their respective box art. This means that instead of opening up an emulator manually and loading ROMs or ISO files, you can boot into games directly from your library like you would any other game.
 
 ![PS2 games in the Steam Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-4.jfif) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It is, of course, up to you to make sure that you're staying on the right side of the law when it comes to emulated games. Assuming you're aware of the law, adding ROMs is fairly simple. EmuDeck has an automatic system to detect ROMs from a USB-C flash drive, but I'd recommend doing it manually to be safe.
 
@@ -89,29 +73,41 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![Various game files inside the "PS2" ROMs folder in Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/files3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I recommend using an external mouse and keyboard to navigate Desktop Mode while moving files around, as the touch screen controls can make this process a little cumbersome.
 
  Once this is complete, open the EmuDeck app in Desktop mode and select "Steam ROM Manager." Click "Yes" if a pop-up window appears and it will bring you to the "Parsers" window where you can select which emulators you want to add to your Steam library, which I'd recommend so you can easily change settings later on.
 
 ![The ROM Manager application in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the "Add Games" button in the bottom left corner to see a list of all the games you've added as long as you put them in the right folder.
 
 ![The Parsers menu in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/parsers2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have selected all of your desired games, select "Save to Steam" and the program should automatically parse all your installed games directly to your Steam library.
 
 ![The Emudeck ROM manager adding games to Steam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Multiplayer, Quality of Life Features, and Easy Expansion
 
  Now that you've added your games and verified that they all appear in your library, you can start doing some retro gaming. Playing them handheld might already be a nice perk as it is, but [with a dock and a Bluetooth controller](https://techidaily.com/will-moto-g-5g-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/) (or several) you can even simulate playing on the real thing.
 
 ![Two people holding controllers playing a video game together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2019/11/3973a927.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shutterstock/REDPIXEL.PL
 
@@ -120,6 +116,10 @@ Shutterstock/REDPIXEL.PL
  Save states are also a given, since emulators usually allow them by default. EmuDeck goes the extra mile and creates button mappings to save and load state automatically. You can set a custom keybinding to save or load states. switch between files. and cut out load times or unskippable cutscenes.
 
  EmuDeck is also easy to expand and adding new games is as simple as dropping the files into the proper emulation folder and letting the program do the rest for you. You can add new emulators and update current ones automatically through the EmuDeck application in Desktop Mode without much hassle with just an internet connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add Retro Achievement Support (Optional)
 
@@ -150,24 +150,17 @@ Shutterstock/REDPIXEL.PL
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-refining-shots-with-gopros-advanced-color-tools/"><u>[New] Refining Shots with GoPro's Advanced Color Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-cutting-edge-microphones-synergy-with-4k-cameras/"><u>[Updated] 2024 Approved Cutting-Edge Microphones Synergy with 4K Cameras</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/bout-youtube-tv-your-comprehensive-resource/"><u>All About YouTube TV Your Comprehensive Resource</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/break-barriers-with-these-17-simple-spanish-idioms/"><u>Break Barriers with These 17 Simple Spanish Idioms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/democratizing-discussions-sharing-your-gpt-conversations/"><u>Democratizing Discussions: Sharing Your GPT Conversations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/embracing-tamriels-wilderness-an-in-depth-review-of-skyrim-on-the-nintendo-switch/"><u>Embracing Tamriel's Wilderness: An In-Depth Review of Skyrim on the Nintendo Switch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-evaluation-how-the-tiny-unihertz-atom-xl-outperforms-in-durability-and-power/"><u>Expert Evaluation: How the Tiny Unihertz Atom XL Outperforms in Durability & Power</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-depths-of-narrative-worldbuilding-in-torment-tides-of-numenera-a-sci-fi-crpg-overview/"><u>Exploring the Depths of Narrative Worldbuilding in 'Torment: Tides of Numenera' - A Sci-Fi CRPG Overview</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-imac-with-m1-stunning-display-and-impressive-performance/"><u>Exploring the iMac with M1: Stunning Display & Impressive Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-sound-spectrum-with-nest-audio-perfect-harmony-for-melody-aficionados/"><u>Exploring the Sound Spectrum with Nest Audio: Perfect Harmony for Melody Aficionados</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-wont-start-heres-how-to-get-past-the-launch-blockade-fixed/"><u>Football Manager 2022 Won't Start? Here’s How to Get Past the Launch Blockade - Fixed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/furbo-spotlight-celebrating-the-pinnacle-in-canine-surveillance-technology/"><u>Furbo Spotlight: Celebrating the Pinnacle in Canine Surveillance Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-havit-5-way-gaming-laptop-cooler-transforms-overheating-issues/"><u>How the HAVIT 5-Way Gaming Laptop Cooler Transforms Overheating Issues</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-itel-p55-phone-by-drfone-android/"><u>How to Unlock a Network Locked Itel P55 Phone?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-find-n3-flip-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo Find N3 Flip Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-evaluation-xp-pen-artist-16-pro-graphic-tablet-unveiled/"><u>In-Depth Analysis and Evaluation: XP-Pen Artist 16 Pro Graphic Tablet Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-googles-pixelbook-go-top-notch-chrome-experience-for-a-hefty-price-tag/"><u>In-Depth Look at Google's Pixelbook Go: Top-Notch Chrome Experience for a Hefty Price Tag</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-your-iphones-best-selfie-techniques-for-2024/"><u>[New] Mastering Your Iphone's Best Selfie Techniques for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-spice-up-content-kapwings-meme-builder/"><u>[Updated] 2024 Approved Spice Up Content Kapwing's Meme Builder</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-enhance-visibility-essential-youtube-seo-strategies-revealed/"><u>2024 Approved Enhance Visibility Essential YouTube SEO Strategies Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uniting-fandoms-top-20-best-anime-songs/"><u>In 2024, Uniting Fandoms Top 20 Best Anime Songs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-way-to-trim-vlc-videos-on-mac-maintain-original-quality-for-2024/"><u>New The Best Way to Trim VLC Videos on Mac Maintain Original Quality for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-battle-of-the-titans-how-does-ipad-pro-stack-up-against-macbook-pro/"><u>The Battle of the Titans: How Does IPad Pro Stack up Against MacBook Pro?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/onnoisseurs-guide-to-youtube-music-orchestration-for-2024/"><u>The Connoisseur's Guide to YouTube Music Orchestration for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-asus-vg2nh-s-gaming-display-perfectly-tailored-for-console-players/"><u>The Ultimate Asus VG2nh-S Gaming Display: Perfectly Tailored for Console Players</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-links-archer-c80-unleashed-the-best-sub-100-router-on-the-market-today/"><u>TP-Link's Archer C80 Unleashed: The Best Sub-$100 Router on the Market Today!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-face-off-discover-how-the-new-samsung-galaxy-s24-ultra-stacks-up-against-the-s23-ultra/"><u>Ultimate Face-Off: Discover How the New Samsung Galaxy S24 Ultra Stacks Up Against the S23 Ultra</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-a-new-world-in-depth-insights-into-watch-dogs-legion-gameplay-and-setting-changeover/"><u>Unpacking a New World: In-Depth Insights Into Watch Dogs: Legion Gameplay and Setting Changeover</u></a></li>
 </ul></div>
 

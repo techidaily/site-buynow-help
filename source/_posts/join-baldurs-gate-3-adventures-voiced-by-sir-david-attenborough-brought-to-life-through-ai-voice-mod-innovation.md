@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2024-11-23T16:02:36.341Z
-updated: 2024-11-24T17:20:05.012Z
+date: 2024-11-27T03:52:12.893Z
+updated: 2024-12-03T10:28:03.797Z
 tags:
   - games
   - tv
@@ -27,10 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Thanks to AI, we're seeing some truly out-there mods for games, and one of the most impressive might be one that swaps out the Baldur's Gate 3 narrator for a voice that almost (but not quite) sounds like Sir David Attenborough. Here's how to try it for yourself.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What You Need
 
  Apart from owning a PC copy of Baldur's Gate 3, you also need three pieces of software:
@@ -48,7 +44,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 1: Open the Mod Manager
@@ -57,29 +53,41 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 2: Import the Mod Fixer
 
  The mod fixer is necessary for many mods to work in the game, since it forces the game to recompile the campaign data, without which some mods would not work. To install it, Select File>Import Mod in the mod manager.
 
 ![BG3 mod importing menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-importing-menu-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to the folder where the mod fixer's zipped file is, select it and then select "Open." You should see "ModFixer" listed under "Overrides."
 
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 4: Export Mod Order
 
  Next, all you have to do is select File>Export Order to Game.
 
 ![BG3 export mod order menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-export-mod-order-menu.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should see a green message pop up at the bottom of the window in the mod manager.
 
@@ -99,19 +107,11 @@ Your browser does not support the video tag.
 
  Now you can play the game like normal with your new narrator.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Removing Mods
 
  To reverse this process and take the game back to the way it was, right-click on the mods under "Overrides" and select "Delete Mod."
 
 ![BG3 mod deletion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-deletion-menu.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll see two check boxes. Make sure the permanent deletion box is checked if you want to remove the mod files completely. Otherwise, simply leave the box to remove the mod from the load order checked. Then confirm your choice. Finally, export the mod order to the game again.
 
@@ -132,22 +132,16 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-integration-of-dvd-playback-on-your-system/"><u>[Updated] Seamless Integration of DVD Playback on Your System</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>2024 Approved Cutting-Edge Method Quick Erasure of Youtube Comments</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/captivating-cinematic-experience-elevate-video-quality-with-filters-pc-and-mobile/"><u>Captivating Cinematic Experience Elevate Video Quality with Filters (PC & Mobile)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expedited-photographic-viewing-in-windows-10-for-2024/"><u>Expedited Photographic Viewing in Windows 10 for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/future-proof-vision-enhancements-top-smart-frames-to-look-forward-to/"><u>Future-Proof Vision Enhancements: Top Smart Frames to Look Forward To</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hewlett-packards-affordable-15-notebook-with-amd-processor-is-it-efficient-for-your-needs/"><u>Hewlett-Packard's Affordable 15 Notebook with AMD Processor: Is It Efficient for Your Needs?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/illuminate-your-world-the-powerful-flash-of-the-430ex-iii-rt-review/"><u>Illuminate Your World: The Powerful Flash of the 430EX III-RT Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insightful-overwatch-critique-engaging-squad-battles-galore/"><u>Insightful Overwatch Critique: Engaging Squad Battles Galore</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/key-points-to-evaluate-headphonesspeakers/"><u>Key Points to Evaluate Headphones/Speakers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nhl-19-gameplay-examined-captivating-virtual-competitions-unveiled/"><u>NHL '19 Gameplay Examined: Captivating Virtual Competitions Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/optimizing-your-pcs-performance-with-windows-11/"><u>Optimizing Your PC's Performance with Windows 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/outstanding-value-and-efficiency-in-the-tp-link-archer-a6-ac1200-our-review-reveals-all/"><u>Outstanding Value & Efficiency in the TP-Link Archer A6 AC1200: Our Review Reveals All</u></a></li>
-<li><a href="https://fox-info.techidaily.com/power-play-the-ultimate-guide-to-selecting-lipos-for-uavs-for-2024/"><u>Power Play The Ultimate Guide to Selecting LiPos for UAVS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/spacebar-key-malfunctions-in-windows-10-solutions-and-fixes/"><u>Spacebar Key Malfunctions in Windows 10: Solutions and Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-step-by-step-methodology-for-spotless-flat-screen-viewing-experience/"><u>The Complete Step-by-Step Methodology for Spotless Flat-Screen Viewing Experience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210411419-9781734677348-une-ame-saine-pour-une-sante-parfaite/"><u>Une âme Saine Pour une Santé Parfaite | Free Book</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-vn-video-editor-apk-pros-cons-and-features-review-for-2024/"><u>Updated VN Video Editor APK Pros, Cons, and Features Review for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-noworrycapture-quick-and-easy-win11-recordings/"><u>[Updated] NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-top-20-open-source-pubg-slideshows/"><u>2024 Approved Exclusive List Top 20 Open-Source PUBG Slideshows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-11-proplus-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme 11 Pro+ Phone?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/simple-steps-to-successfully-convert-your-dvds-into-avi-files/"><u>Simple Steps to Successfully Convert Your DVDs Into AVI Files</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-new-samsung-qn55q6f-top-review-on-how-this-4k-smart-tv-transforms-your-viewing-experience/"><u>The All-New Samsung QN55Q6F - Top Review on How This 4K Smart TV Transforms Your Viewing Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-editing-images-with-gimp-your-free-multiplatform-solution/"><u>The Complete Guide to Editing Images with GIMP - Your Free, Multiplatform Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-the-samsung-galaxy-tab-s7plus-mastery-of-advanced-android-tablet-tech/"><u>The Definitive Guide to the Samsung Galaxy Tab S7+: Mastery of Advanced Android Tablet Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-e-reader-upgrade-amazon-kindle-2019-review-and-value-analysis/"><u>The Essential E-Reader Upgrade: Amazon Kindle (2019) Review and Value Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-quest-for-perfection-in-drones-a-thorough-review-of-the-newly-upgraded-dji-phantom-4-pro-v20/"><u>The Quest for Perfection in Drones - A Thorough Review of the Newly Upgraded DJI Phantom 4 Pro V2.0</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-a05-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy A05.</u></a></li>
 </ul></div>
 

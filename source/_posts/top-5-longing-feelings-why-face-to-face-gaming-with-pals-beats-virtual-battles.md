@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Longing Feelings: Why Face-to-Face Gaming with Pals Beats Virtual Battles"
-date: 2024-11-19T16:16:31.248Z
-updated: 2024-11-24T17:02:07.337Z
+date: 2024-12-02T10:29:44.395Z
+updated: 2024-12-03T02:26:17.921Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 ## Top 5 Longing Feelings: Why Face-to-Face Gaming with Pals Beats Virtual Battles
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  Modern gaming technology and fast internet connections are wonderful, but so too were in-person LAN parties. I spent my youth lugging CRTs and PC towers to friends' houses or whatever space we could borrow for a weekend, and I miss it with all my heart. Here's why it was awesome.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Getting Ready for the Event
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  This was the geek's equivalent of prepping for a hike or a hunting trip with your friends that you've been looking forward to for weeks. A mini vacation where you got to leave school or work behind for a few days and forget about everything happening in the real world. Except there's zero chance of sunburn!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Making New Friends
@@ -47,15 +47,15 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
  More friendships were forged on the battlefields of _Diablo II_, _Warcraft_, _StarCraft_, _Quake_, _Doom_, and numerous other absolute classic LAN games than you could fathom. You might have your TikTok and Instagram followers, but would any of them take a thunderbolt spell for you? No, real friends who you'd stay in touch with for the rest of your life were waiting for you at the next LAN party.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Discovering New Media
 
  One of the best parts of going to a LAN party was the downtime between games, where people would share and show the video clips they'd been collecting, before the modern idea of the "meme" had been coined. You'd get to learn about movies, TV shows, books, and comics you'd never heard of.
 
  This was a cultural exchange as much as an excuse to play video games. It's not an exaggeration to say many people were introduced to lifelong fandoms at LAN parties, and you never knew what wacky thing you'd be exposed to next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Face-to-Face Multiplayer
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  This is the feeling that online multiplayer will never replicate, even in an age of Discord or Xbox Live chat. Nothing beats eight or twelve people in one room slaying demons and blowing up aliens for 20 hours straight.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Learning About PCs and Networking
@@ -88,18 +88,17 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-level-iphone-photo-tips-and-tricks/"><u>[Updated] Pro-Level iPhone Photo Tips and Tricks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-tutorial-download-youtube-videos-in-pieces/"><u>[Updated] Step-by-Step Tutorial Download YouTube Videos in Pieces</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/spectacular-14-text-animation-art-pieces-for-2024/"><u>Spectacular 14 Text Animation Art Pieces for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-netgear-orbi-assessment-your-ideal-choice-for-optimal-wi-fi-coverage/"><u>Top Netgear Orbi Assessment: Your Ideal Choice for Optimal Wi-Fi Coverage</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranked-soundproof-earpieces-for-24/"><u>Top-Ranked Soundproof Earpieces for '24</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-gps-running-watch-the-essential-guide-to/"><u>Top-Rated GPS Running Watch: The Essential Guide To</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-and-assessment-of-the-lenovo-ideapad-3-the-new-contender-in-line-with-yoga-a940s-legacy/"><u>Ultimate Guide & Assessment of the Lenovo IdeaPad 3: The New Contender in Line with Yoga A940's Legacy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-best-laptop-battery-packs-of-2024/"><u>Ultimate Guide to the Best Laptop Battery Packs of 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unbeatable-prime-day-offers-shop-benq-monitor-specials/"><u>Unbeatable Prime Day Offers: Shop BenQ Monitor Specials</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/which-screen-recorder-prevails-bandicam-vs-camtasia-in-2024/"><u>Which Screen Recorder Prevails Bandicam vs Camtasia, In 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/xpert-strategies-to-maximize-income-with-video-ads-on-youtube/"><u>[New] Expert Strategies to Maximize Income with Video Ads on Youtube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-geeky-gatherings-best-general-trivia-streams/"><u>[New] Geeky Gatherings Best General Trivia Streams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-leveraging-obs-features-to-boost-zoom-performance/"><u>[Updated] Leveraging OBS' Features to Boost Zoom Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-standard-to-spectacular-the-journey-with-vce-22/"><u>2024 Approved From Standard to Spectacular The Journey with VCE 2.2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-tips-for-repairing-non-functional-microphones-in-windows-7-systems/"><u>Essential Tips for Repairing Non-Functional Microphones in Windows 7 Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-google-wifi-revolutionizing-home-networking-for-users-everywhere/"><u>Expert Insights on Google Wifi – Revolutionizing Home Networking for Users Everywhere</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-thermaltakes-massive-tm-portable-notebook-cooler-high-value-but-pricey-purchase/"><u>Expert Review of Thermaltake's Massive TM Portable Notebook Cooler - High Value, but Pricey Purchase</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-curated-picks-premier-mesh-networking-systems/"><u>Expertly Curated Picks: Premier Mesh Networking Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-creative-engineering-behind-the-twelve-south-bookbook-v2-macbook-sleeve/"><u>Exploring the Creative Engineering Behind the Twelve South BookBook V2 MacBook Sleeve</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-f23-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo F23 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-15-free-web-based-image-enhancers-2023/"><u>In 2024, Top 15 Free Web-Based Image Enhancers 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-10-leading-christian-church-streamers-for-2024/"><u>Unveiling The 10 Leading Christian Church Streamers for 2024</u></a></li>
 </ul></div>
 

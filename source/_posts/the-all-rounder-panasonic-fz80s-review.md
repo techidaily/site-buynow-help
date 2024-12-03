@@ -1,7 +1,7 @@
 ---
 title: "The All-Rounder: Panasonic FZ80's Review"
-date: 2024-09-09T04:06:51.555Z
-updated: 2024-09-10T04:06:51.555Z
+date: 2024-12-01T07:14:40.451Z
+updated: 2024-12-03T07:56:56.431Z
 categories:
   - BestProducts
 description: "This Article Describes The All-Rounder: Panasonic FZ80's Review"
@@ -13,16 +13,14 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
 5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## DDpai Dash Cam mini3
 
 ![DDpai mini3](https://www.lifewire.com/thmb/m-JiQKEOfEZO6ef5cqKE0iCn6mQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04LW4062264_HeroSquare-49298d637a2d4aeb9ef1213bafb0ebf7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Danny Chadwick
 
  What We Like
@@ -71,12 +69,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: 21st Century Dashcam**
 
  The first thing you notice about the mini3 is that the camera housing is smooth and cylindrical. Other dash cams are very square and bulky, so right out of the box, you know this is a different kind of camera. It’s very sleek and feels like it belongs in the 21st century.
@@ -106,11 +98,9 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Setup Process: Read the manual first**
 
  The user manual for the DDPAI mini3 is detailed enough that you’ll know what everything does and how to use it. It starts you off by prompting you to download the app, which will walk you through the process of connecting to the camera’s Wi-Fi and give you a tour of its features. After that, you’re ready to go—it only takes about 10 minutes to be comfortably familiar with the mini3.
@@ -119,18 +109,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Mobile App: What sets it apart**
 
  What really sets the mini3 apart from other dashcams is its mobile app. The user manual instructs you to download the DDPai app before you use the camera for the first time. Once it’s on your phone and paired with your camera, the app’s “Camera” tab contains all the tools you need to watch the live feed, control the camera, review footage, and adjust settings—all the things that make a car cam useful.
@@ -156,11 +134,9 @@ Lifewire / Danny Chadwick
  Once it was installed and ready to go, we drove this dashcam through the cities, suburbs, mountains, forests, and red rocks of Utah. Because the camera is so well-hidden behind the rearview mirror, we often forgot it was there. But when we passed a particularly scenic lake or rock formation, it was natural to just reach down and push the remote button to snap a picture.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: Surprising low for what you get**
 
  As of the time of this writing, you can pick up the DDPAI mini3 for about $130\. For what you get out of this camera, we think this is a great value. Similarly-priced models we tested don’t nearly match the quality and utility you get from the mini3.
@@ -182,17 +158,9 @@ Lifewire / Danny Chadwick
  If you’re a road-tripper, travel vlogger, or plugged-in social media user, then the DDPAI mini3 is made for you. Not only is this dashcam stylish and discreet, it also captures beautiful photos and video of your travels that are perfect for sharing or simply saving to revisit down the road.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apeman C450 Dashcam](https://www.lifewire.com/apeman-c450-review-4770598)
@@ -200,11 +168,9 @@ Lifewire / Danny Chadwick
 * [Anker Roav DashCam C1](https://www.lifewire.com/anker-roav-dashcam-c1-review-4773139)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Dash Cam mini3
@@ -224,8 +190,6 @@ Lifewire / Danny Chadwick
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +197,16 @@ Lifewire / Danny Chadwick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-roadmap-to-profit-via-instagram-platform-for-2024/"><u>[New] The Ultimate Roadmap to Profit via Instagram Platform for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-save-your-fb-pages-download-8-best-tools-online-and-free-for-2024/"><u>[Updated] Save Your FB Pages Download 8 Best Tools Online & Free for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unnoticed-consumers-of-fb-stories-for-2024/"><u>[Updated] Unnoticed Consumers of Fb Stories for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-gemini-googles-latest-ai-research-venture/"><u>Demystifying Gemini: Google’s Latest AI Research Venture</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exceptional-endurance-moto-g-power-a-comprehensive-look-at-its-impressive-battery-performance/"><u>Exceptional Endurance Moto G Power: A Comprehensive Look at Its Impressive Battery Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-economy-and-efficiency-in-camera-technology-with-vixias-r800/"><u>Exploring the Economy and Efficiency in Camera Technology with VIXIA's R800</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-x8b-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor X8b Lock Screen Password</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-ups-solutions-reviewed-the-definitive-guide/"><u>Leading UPS Solutions Reviewed: The Definitive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-gopros-masterpiece-the-action-camera-revolution-with-hero7/"><u>Unveiling GoPro's Masterpiece - The Action Camera Revolution with HERO7</u></a></li>
+</ul></div>
 

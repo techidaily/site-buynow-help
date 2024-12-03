@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Observing the Spectacular Lyrid Meteor Display
-date: 2024-11-21T16:47:51.519Z
-updated: 2024-11-24T16:44:25.924Z
+date: 2024-11-28T20:08:26.348Z
+updated: 2024-12-02T16:08:47.212Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Comprehensive Guide to Observing the Spectacular Lyrid Meteor Display
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Photograph the Lyrid Meteor Shower](https://facebook-video-share.techidaily.com/2024-approved-youtube-fixed-shorts-are-now-easily-accessible/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,10 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While January to March offers some of the darkest skies for stargazing in the Northern Hemisphere, it's when meteor showers are at their quietest. That's why we're really excited about the upcoming Lyrid meteor shower. Let's look at what it is, how you can see it, and how to capture it on camera.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What and Where Is the Lyrid Meteor Shower?
 
  The Lyrid meteor shower is caused by small pieces of debris falling from and trailing behind the C/1861 G1 (Thatcher) comet, which was discovered by amateur astronomer A. E. Thatcher in 1861\. As the Earth passes through Thatcher's solar orbit, the trailing debris collides with our atmosphere to create a stunning meteor display. It's called the Lyrid meteor shower because the shoots of light appear to originate near the [Lyra constellation](https://en.wikipedia.org/wiki/Lyra), but in fact, the shower has nothing to do with Lyra other than this apparent positional coherence.
@@ -46,7 +42,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Our planet passes through Thatcher's trail once a year in April. More specifically, it lasts from April 14-30, peaking on the night of April 22-23\. The Lyra constellation is best viewable in Northern-Hemisphere skies, and the Lyrid meteor shower's radiant point is far north on the sky's dome. While you might see some meteors if you're in Cape Town or Canberra, you're more likely to appreciate its spectacle in Montreal, Memphis, and Manchester.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Watch the Lyrid Meteor Shower
@@ -54,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Cygnus constellation, with Deneb and Albireo highlighted, and the Lyra constellation, with Vega highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cygnus-constellation-2711349.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 BBC Sky at Night
@@ -70,6 +66,10 @@ BBC Sky at Night
  Once you've located a safe spot, grab a mug of something hot, set a blanket on the ground, and simply look upwards. Be warned: blink, and you might miss one. You might even have to wait an hour before witnessing this astronomical spectacle—meteor showers are frustratingly unpredictable—but if you're patient (and lucky), you can expect to see between 10 and 30 an hour in the right conditions. Your eyes will need to take time to adjust to the darkness, anyway, so waiting around for a while won't do any harm.
 
  The biggest final obstacles to shooting star success are things you can't control. First, the moon will be in its waxing gibbous phase as the meteor shower hits its peak (the full moon is on April 24th), so you can expect some unwanted light to obscure your view of the faintest meteors. Try to plan your time between the setting of the moon and the rising of the sun (between 5 am and 6 am on April 23rd) for the darkest skies. Second, clouds—the biggest thorn in any stargazer's side. But remember, all things being well, you'll catch some shooting stars at some point between April 14-30 if you find the right conditions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Photograph the Lyrid Meteor Shower
 
@@ -98,20 +98,20 @@ BBC Sky at Night
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-high-level-behavior-tips-for-youtube-users/"><u>[New] In 2024, High-Level Behavior Tips for YouTube Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-android-photo-tech-tips-and-apps-guide/"><u>[New] Top Android Photo-Tech Tips & Apps Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-vivo-y36i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y36i Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204990574-error-code-0x80073cf9-in-windows-11-explained-understand-and-solve-the-issue-today/"><u>Error Code 0X80073CF9 in Windows 11 Explained - Understand and Solve the Issue Today</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-next-move-integrating-reels-and-rooms-into-stories/"><u>Facebook's Next Move: Integrating Reels & Rooms Into Stories</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/free-tools-how-to-retrieve-ssd-data-post-format-using-top-2-recovery-applications/"><u>Free Tools: How to Retrieve SSD Data Post-Format Using Top 2 Recovery Applications</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-underappreciated-film-phenoms-of-this-year/"><u>In 2024, The Underappreciated Film Phenoms of This Year</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722998098327-reliable-performance-unveiling-the-ultimate-portability-of-dbpowers-newest-jump-starter-rated-at-6000mah-experts-reviews/"><u>Reliable Performance: Unveiling the Ultimate Portability of DBPOWER's Newest Jump Starter, Rated at 6000mAh - Experts Reviews</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/reviving-camera-victory-over-obs-glitches/"><u>Reviving Camera Victory Over OBS Glitches</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-creating-a-bootable-win-11-usb-drive-from-iso-file/"><u>Step-by-Step Guide: Creating a Bootable Win 11 USB Drive From ISO File</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-your-potential-budget-friendly-action-in-stunning-4k/"><u>Unleash Your Potential: Budget-Friendly Action in Stunning 4K</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-motorola-one-t5g-ace-unmatched-speed-and-long-lasting-power-review/"><u>Unveiling the Motorola One T5g Ace: Unmatched Speed and Long-Lasting Power Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-thrills-of-overwatch-dynamic-gaming-experience-with-a-twist-of-friendly-rivalry/"><u>Unveiling the Thrills of Overwatch - Dynamic Gaming Experience with a Twist of Friendly Rivalry</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/upgrade-pathway-moving-your-homes-to-windows-pro-on-win11/"><u>Upgrade Pathway: Moving Your Homes to Windows Pro on Win11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/withings-move-review/"><u>Withings Move Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-elevate-your-content-youtube-thumbnail-artistry-on-mac-for-2024/"><u>[New] Elevate Your Content YouTube Thumbnail Artistry on Mac for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-humor-hive-undead-jester-creators/"><u>[New] In 2024, Humor Hive Undead Jester Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pixel-power-face-off-sj6-prodigy-meets-yi-4k-creator/"><u>[Updated] Pixel Power Face-Off SJ6 Prodigy Meets Yi 4K Creator</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cut-the-clutter-organizing-chatgpt-exchanges-through-folders/"><u>Cut the Clutter: Organizing ChatGPT Exchanges Through Folders</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-creative-composition-concepts-fostering-joyful-spaces/"><u>In 2024, Creative Composition Concepts Fostering Joyful Spaces</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-7-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 15 Plus</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/iphone-face-off-detailed-analysis-of-iphone-15-plus-versus-pro-max-specifications/"><u>IPhone Face-Off: Detailed Analysis of iPhone 15 Plus Versus Pro Max Specifications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-fitbit-charge-3-a-worthy-contender-in-todays-fitness-tracker-market/"><u>Is the Fitbit Charge 3 a Worthy Contender in Today's Fitness Tracker Market?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/low-cost-lenovo-chromebook-duet-unveiled-in-our-comprehensive-product-evaluation-the-perfect-compact-hybrid/"><u>Low-Cost Lenovo Chromebook Duet Unveiled in Our Comprehensive Product Evaluation - The Perfect Compact Hybrid</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/low-profile-powerhouse-unveiling-the-versatile-acer-aspire-c27-desktop/"><u>Low-Profile Powerhouse: Unveiling the Versatile Acer Aspire C27 Desktop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-monster-mayhem-inside-look-at-challenging-creatures-in-monster-hunter-world/"><u>Mastering Monster Mayhem: Inside Look at Challenging Creatures in Monster Hunter: World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-creativity-scaling-design-with-canva-and-ai/"><u>Maximizing Creativity: Scaling Design with Canva & AI</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mophie-powerstation-ac-unit-testing-expensive-yet-highly-practical-charging-solution/"><u>Mophie Powerstation AC Unit Testing: Expensive Yet Highly Practical Charging Solution</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/year-of-unboxing-the-worlds-hottest-yt-channels-listed/"><u>Year of Unboxing The World’s Hottest YT Channels Listed</u></a></li>
 </ul></div>
 

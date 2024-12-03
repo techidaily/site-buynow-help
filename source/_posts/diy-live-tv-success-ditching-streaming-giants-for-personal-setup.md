@@ -1,7 +1,7 @@
 ---
 title: "DIY Live TV Success: Ditching Streaming Giants for Personal Setup"
-date: 2024-11-08T23:47:20.715Z
-updated: 2024-11-14T22:06:03.458Z
+date: 2024-11-25T21:23:55.554Z
+updated: 2024-12-03T06:15:34.424Z
 tags:
   - games
   - tv
@@ -22,16 +22,7 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  If you're like me, you're tired of seeing the phrase "price hike" in headlines about the streaming services you're paying for. I got so tired I decided to use my movie collection to build what you might call a personal streaming service. Here's what it involved.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Can You Stream Movies Yourself?
@@ -41,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  We have resources if you want to [learn more about running Jellyfin](https://extra-approaches.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry-for-2024/) yourself. Instead of retreading that ground, I'm just going to cover some key information about home streaming that I wish I'd known before going in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Early Hiccups in Building a Streaming Server
@@ -56,10 +44,7 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 ![An external Blu-ray drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52781571646_3bd529ceb6_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
@@ -69,6 +54,10 @@ Jordan Gloor / How-To Geek
  One regret I had was where I first installed the server: my personal computer. It worked fine until someone wanted to stream something while I was using my computer for anything resource-intensive, like gaming. That led me to finally invest in a [network-attached storage (NAS)](https://fox-access.techidaily.com/new-in-2024-unleashing-potential-in-4k-with-top-gimbals-selection/) device. One of these can hold and run your server as a dedicated device instead of relying on your personal computer. There are several [streaming-capable NAS devices we recommend](https://screen-recording.techidaily.com/updated-2024-approved-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices/), but I chose the Asustor AS5202T.
 
 ![Asustor AS5202T](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/asustor-as5202t.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Asustor AS5202T
 
@@ -81,10 +70,7 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
  Once I got the NAS, though, I learned that a Jellyfin server is difficult to move. There's no built-in function for it at all. There are scripts you can find online that are meant to partially automate it for you, but they still require some technical knowledge to use and aren't guaranteed to work. I ultimately decided figuring it all out wasn't worth my time, so I started a new Jellyfin instance on my NAS and copied over all my movies and shows. That was a much simpler, albeit slow, process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Was It All Worth It?
@@ -108,18 +94,17 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-secrets-for-skillful-extraction-of-superior-quality-videos/"><u>[New] Secrets for Skillful Extraction of Superior Quality Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-avoid-youtube-previews-on-all-platforms-and-devices-for-2024/"><u>[Updated] Avoid YouTube Previews on All Platforms & Devices for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-flair-up-your-stories-and-feeds-instagrams-simplified-method-of-sharing-gifs/"><u>[Updated] Flair Up Your Stories & Feeds Instagram's Simplified Method of Sharing GIFs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-address-and-overcome-a-youtube-content-id-issue/"><u>2024 Approved How to Address and Overcome a YouTube Content ID Issue</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722938368875-a-deep-dive-into-the-high-performance-world-of-hero7-black/"><u>A Deep Dive Into the High-Performance World of HERO7 Black</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-peek-into-hugging-faces-workings-and-uses/"><u>A Peek Into Hugging Face’s Workings and Uses</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722918625013-best-value-apeman-c450-dashcam-overview-ideal-for-savvy-shoppers/"><u>Best Value Apeman C450 Dashcam Overview – Ideal for Savvy Shoppers!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722958868071-boost-your-gaming-sessions-with-the-havit-five-fan-cooling-pad-in-depth-insights-and-benefits/"><u>Boost Your Gaming Sessions with the HAVIT Five-Fan Cooling Pad - In-Depth Insights and Benefits!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-3-ways-for-ipad-voice-recording/"><u>In 2024, 3 Ways for iPad Voice Recording</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-70-lite-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor 70 Lite 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-itel-p55plus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Itel P55+ FRP Without Computer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-vive-cosmos-premium-quality-vr-device-facing-tough-challengers/"><u>Unveiling Vive Cosmos: Premium Quality VR Device Facing Tough Challengers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wastelands-ii-the-directors-cut-version-critique-an-engaging-strategy-and-adventure-game/"><u>Wastelands II - The Director's Cut Version Critique: An Engaging Strategy and Adventure Game</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mobile-panorama-tips-for-skyward-shots-for-2024/"><u>[New] Mobile Panorama Tips for Skyward Shots for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-visual-harmony-how-m1-chips-enhance-editing-speed-and-precision-for-2024/"><u>[New] Visual Harmony How M1 Chips Enhance Editing Speed and Precision for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-render-your-social-media-footage/"><u>[Updated] In 2024, Render Your Social Media Footage</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-instant-best-picture-viewer-pro/"><u>[Updated] Instant Best Picture Viewer Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-realities-of-youtube-view-calculation-for-2024/"><u>[Updated] The Realities of YouTube View Calculation for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cubefits-terramat-an-in-depth-look-at-staying-fit-while-stationary/"><u>CubeFit's TerraMat – An In-Depth Look at Staying Fit While Stationary</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-code-39-malfunctions-on-windows/"><u>Diagnosing and Repairing Code 39 Malfunctions on Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-benefits-of-the-propella-n7s-40-budget-friendly-compact-and-easy-to-handle/"><u>Discover the Benefits of the Propella N7s 4.0: Budget-Friendly, Compact & Easy to Handle!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dive-into-smartwatch-excellence-with-our-review-of-the-classic-styled-tech-forward-skagen-falster-3/"><u>Dive Into Smartwatch Excellence with Our Review of the Classic-Styled, Tech-Forward Skagen Falster 3</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/efficient-and-comfy-reading-anywhere-with-the-kobo-clara-hd-bookworms-guide-and-review/"><u>Efficient and Comfy Reading Anywhere with the Kobo Clara HD – Bookworm's Guide & Review</u></a></li>
+<li><a href="https://discover-best.techidaily.com/effortless-photo-syncing-discover-the-best-10-techniques-to-move-images-from-your-iphone-to-a-mac-device/"><u>Effortless Photo Syncing: Discover the Best 10 Techniques to Move Images From Your iPhone to a Mac Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-kid-friendly-movie-websites-with-free-screenings/"><u>Top 6 Kid-Friendly Movie Websites with Free Screenings</u></a></li>
 </ul></div>
 

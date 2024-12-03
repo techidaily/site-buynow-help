@@ -1,7 +1,7 @@
 ---
 title: "Sub-$100 Excellence in Routers: A Closer Look at the TP-Link Archer C80 Specs & Reviews"
-date: 2024-09-09T04:03:30.063Z
-updated: 2024-09-10T04:03:30.063Z
+date: 2024-12-01T00:03:30.424Z
+updated: 2024-12-03T05:49:20.407Z
 categories:
   - BestProducts
 description: "This Article Describes Sub-$100 Excellence in Routers: A Closer Look at the TP-Link Archer C80 Specs & Reviews"
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/8C75gQD4ejCmb8g3h8JLdip8mxU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_3LW4153328-1-e9bb0f4c17224eaf9a9f53245a5ca98c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Hayley Prokos
 
  What We Like
@@ -42,22 +36,10 @@ Lifewire / Hayley Prokos
 
 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fintie Protective Case for MacBook Pro 13
 
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/goOcXE2tO9SSh1hSY-ThVo2fno0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_3LW4153328-1-e9bb0f4c17224eaf9a9f53245a5ca98c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Hayley Prokos
 
 [View On Amazon $19](https://www.amazon.com/Fintie-Protective-MacBook-Release-A1706/dp/B01N4B8NB4/?tag=lifewire-onsite-prod-20&ascsubtag=4689944%7Cnd0502e6653644e159b07a2e5c849497123%7CB01N4B8NB4)
@@ -80,19 +62,15 @@ Lifewire / Hayley Prokos
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/2wqi6_bwCagRwxsWzy7XtPKD9nI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4153328-2-fac9328a4d334a5bb04be08e857d3157.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Lifewire / Hayley Prokos
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: Fetching and functional**
 
  This two-piece Fintie case is designed for the most recent 13-inch MacBook Pro models, with or without TouchBar. It’s robust enough to protect your laptop from scratches, abrasions, and impact from minor drops without feeling too bulky.
@@ -108,11 +86,9 @@ Lifewire / Hayley Prokos
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/oLEmxLNytxQINRktM9nWjKfhTZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4153328-4-ec18ce2eec6b4e73853f562114489d01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Lifewire / Hayley Prokos
 
 ## **Setup Process: No instructions needed**
@@ -130,6 +106,10 @@ Lifewire / Hayley Prokos
  Given the value it offers, the affordable pricing of this case is another big perk. For just $18.99, this Fintie Protective Case for MacBook Pro hit on everything we needed in a laptop cover.
 
 ![Fintie Protective Case for MacBook Pro 13](https://www.lifewire.com/thmb/pAJBO_JxTmzt9zzSECdDLtQl7VI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4153328-5-990a37f415024718b17d4b36b6e1dc3f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Hayley Prokos
 
@@ -149,18 +129,16 @@ Lifewire / Hayley Prokos
 
  The Fintie Protective Case for MacBook Pro 13 is neither flimsy nor ill-fitting and is made from premium materials. If you want a case that protects your computer from scratches, dings, and the overall impact of minor drops, this one will certainly meet, if not exceed, your expectations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [Urban Armor Gear MacBook Pro 13-inch Laptop Case](https://www.lifewire.com/urban-armor-gear-macbook-pro-case-review-4689954)
 * [Twelve South BookBook V2 MacBook Case](https://www.lifewire.com/twelve-south-bookbook-v2-macbook-case-review-4689949)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Protective Case for MacBook Pro 13
@@ -171,14 +149,11 @@ Lifewire / Hayley Prokos
 * Color  Black, Vintage Brown, Z-Blossom, Z-Constellation, Z-Emerald Illusions, Z-Galaxy
 * Compatibility  13-inch MacBook Pro with/without Touch Bar (2016 models and newer)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,4 +162,20 @@ Lifewire / Hayley Prokos
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-jumpstart-your-screen-recording-skills-expert-guide-to-aiseesoft/"><u>[Updated] In 2024, Jumpstart Your Screen Recording Skills Expert Guide to Aiseesoft</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamlessly-navigating-ifunnys-meme-space/"><u>[Updated] Seamlessly Navigating iFunny's Meme Space</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/advanced-sleep-solutions-that-will-transform-how-you-unwind/"><u>Advanced Sleep Solutions That Will Transform How You Unwind</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-unveiling-the-power-and-versatility-of-the-samsung-galaxy-tab-s5e/"><u>Comprehensive Guide: Unveiling the Power and Versatility of the Samsung Galaxy Tab S5e</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-your-online-presence-with-this-all-inclusive-youtube-upload-manual/"><u>Elevate Your Online Presence with This All-Inclusive YouTube Upload Manual</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-automotive-encryption-masters-2024-edition/"><u>Elite Automotive Encryption Masters, 2024 Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-elite-groups-top-12-camcorders-featuring-gps-mapping-capabilities/"><u>In 2024, Elite Group's Top 12 Camcorders Featuring GPS Mapping Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-mobile-and-web-photo-booster-at-no-cost/"><u>In 2024, Ultimate Mobile & Web Photo Booster at No Cost</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-immersive-video-expert-techniques-to-enhance-your-360-edits-in-premierepro-for-2024/"><u>Mastering Immersive Video Expert Techniques to Enhance Your 360° Edits in PremierePro for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-art-of-intel-macintosh-upgrades-guide-for-older-models/"><u>Mastering the Art of Intel Macintosh Upgrades: Guide for Older Models</u></a></li>
+<li><a href="https://win-lab.techidaily.com/retrieve-your-lost-whatsapp-messages-on-iphone-without-a-backup-a-step-by-step-guide/"><u>Retrieve Your Lost WhatsApp Messages on iPhone Without a Backup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unexpected-duality-of-mlb-the-show-19-a-visual-masterpiece-with-layers-of-role-playing-gameplay/"><u>The Unexpected Duality of MLB The Show 19: A Visual Masterpiece with Layers of Role-Playing Gameplay</u></a></li>
+</ul></div>
 

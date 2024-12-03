@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Latest Computer with These Spectacular Retro Game Challenges!
-date: 2024-11-13T18:17:56.709Z
-updated: 2024-11-15T02:18:50.537Z
+date: 2024-11-30T05:10:03.572Z
+updated: 2024-12-03T00:54:37.763Z
 tags:
   - games
   - tv
@@ -28,13 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The best thing about upgrading or buying a shiny new gaming PC is loading up games that have been in your library for years, but that you could never run in all their maxed-out glory. The question used to be "Can it run Crysis?", but now even my Nintendo Switch can do a decent job of that, so what are some other hardware-crushing titles from yesteryear?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1  Kingdom Come: Deliverance 
 
 ![Kingdom Come Deliverance official screenshot showing knights in battle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/kingdom-come-deliverance-official-screenshot.jpg) 
@@ -46,15 +39,16 @@ Warhorse Studios
  Kingdom Come: Deliverance is also well worth playing in its own right, despite its learning curve. Trying to survive as a 15th-century Bohemian peasant has never looked this good.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Metro Exodus Enhanced Edition 
 
 ![Metro Exodus screenshot showing landscape with global illumination](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/metro-exodus-screenshot-showing-landscape-with-global-illumination.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4A Games
 
@@ -63,13 +57,6 @@ Warhorse Studios
 ## 3  Control 
 
 ![Control screenshot showing a surreal scene with floating objects and a starfield](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/control-screenshot-showing-a-surreal-scene-with-floating-objects-and-a-starfield.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Remedy Entertainment
 
@@ -94,10 +81,7 @@ CD Projekt RED
 ![Red Dead Redemption 2 official screenshot showing two coqboys riding through a field](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/red-dead-redemption-2-official-screenshot-showing-two-coqboys-riding-through-a-field.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Rockstar
@@ -106,15 +90,16 @@ Rockstar
 
  All but the most powerful current gaming PCs will struggle to offer a completely smooth experience with all of RDR2's options cranked as high as they will go, especially if you want to play at 1440p or higher, or with an ultrawide monitor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  A Plague Tale: Innocence 
 
 ![A Plague Tale Innocence official screenshot showig two characters standing among buildings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-plague-tale-innocence-official-screenshot-showig-two-characters-standing-among-buildings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Asobo
@@ -125,23 +110,9 @@ Asobo
 
 ![Shadow of the Tomb Raider official screenshot showing Lara Croft about to backstab an enemy soldier.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shadow-of-the-tomb-raider.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Crystal Dyamics
 
  Yes, I'm cheating a little here since this is a trilogy of games, but each of the [_Tomb Raider_ reboot](https://store.steampowered.com/bundle/34203/Tomb%5FRaider%5FDefinitive%5FSurvivor%5FTrilogy/) games are still 100% worth loading up on modern systems. The later games, such as _Shadow of the Tomb Raider_ offer more modern features such as ray-traced shadows and DLSS, but they all look pretty spectacular maxed-out and at higher resolutions.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8  Grand Theft Auto V 
 
@@ -150,6 +121,10 @@ Crystal Dyamics
 Rockstar
 
  Like Red Dead Redemption 2, [_Grand Theft Auto V_](https://store.steampowered.com/app/271590/Grand%5FTheft%5FAuto%5FV/) offers fidelity settings that are practically from outer space compared to the original Xbox 360 and PlayStation 3 releases. Push all the sliders to the right, and even current high-end systems will choke. Especially if you're aiming for 4K. While it doesn't look anywhere as good as Rockstar's slavish cowboy sim, GTA V is still jaw-dropping in the complexity of its urban sprawl and myriad little systems and simulations, all working together like some sort of sleazy clockwork diorama.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9  Quake II RTX 
 
@@ -160,6 +135,10 @@ Lightspeed Studios
  This is a bit of a strange one on the list, I'll admit. This version of Quake II was overhauled to show off the potential of ray-traced graphics, and it was also something I first played on my RTX 2060\. Despite being a new lick of paint on a very old game, _[Quake II RTX](https://store.steampowered.com/app/1089130/Quake%5FII%5FRTX/)_ is gob-smackingly pretty to look at. On that old 2060 GPU, I had to really crank the upscaling slider, and fine-tune the RTX options, but on a good modern card you can have it all with only a touch of upscaling to keep those frame rates above 60.
 
  It's funny, because when I bought my first proper 3D accelerator, the [3Dfx Voodo 3 2000](https://win-howtos.techidaily.com/guide-addressing-windows-problem-inability-to-locate-a-suitable-printer-driver-fixed/), it was specifically to play Quake II. I guess not that much has changed over the decades.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10  Batman: Arkham Knight 
 
@@ -184,22 +163,18 @@ Rocksteady Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-quicknetflix-screenshots-a-mac-users-guide/"><u>[Updated] 2024 Approved QuickNetflix Screenshots A Mac User's Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-withings-move-where-vintage-style-meets-smartwatch-technology/"><u>A Closer Look at Withings Move: Where Vintage Style Meets Smartwatch Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-homepod-vs-google-nest-audio-a-comprehensive-sound-showdown/"><u>Apple HomePod Vs. Google Nest Audio: A Comprehensive Sound Showdown</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/asus-ac88u-gaming-router-performance-analysis-delivers-as-promised/"><u>Asus AC88U Gaming Router Performance Analysis: Delivers as Promised</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/beyond-the-branches-a-new-era-of-animal-architectural-mastery/"><u>Beyond the Branches: A New Era of Animal Architectural Mastery</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/blur-faces-objects-or-text-in-videos-for-free-a-simple-guide-for-2024/"><u>Blur Faces, Objects, or Text in Videos for Free A Simple Guide for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boosting-brightness-on-android-devices-for-2024/"><u>Boosting Brightness on Android Devices for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breaking-down-the-newly-released-apple-m4-chip-detailed-insights-into-its-capabilities-and-availability/"><u>Breaking Down the Newly Released Apple M4 Chip – Detailed Insights Into Its Capabilities and Availability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-step-by-step-imac-upgrade-tips-transforming-your-intel-mac/"><u>Comprehensive Step-by-Step iMac Upgrade Tips: Transforming Your Intel Mac</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-6-cost-free-closers-for-your-youtube-video/"><u>In 2024, 6 Cost-Free Closers for Your YouTube Video</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-10t-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 10T 5G Phones with/without a PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 13 Pro Max</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-equipment-for-cutting-edge-livestreams/"><u>In 2024, Premier Equipment for Cutting-Edge Livestreams</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-creative-vanguard-top-6-redefining-digital-arts/"><u>In 2024, The Creative Vanguard Top 6 Redefining Digital Arts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-simple-video-editing-for-windows-get-started-with-microsoft-video-editor-for-2024/"><u>Updated Simple Video Editing for Windows Get Started with Microsoft Video Editor for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/xbox-one-x-review-taking-the-crown-as-todays-console-king/"><u>Xbox One X Review: Taking the Crown as Today’s Console King</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/zte-blade-a3y-evaluation-exceptional-value-in-an-affordable-smartphone/"><u>ZTE Blade A3Y Evaluation: Exceptional Value in an Affordable Smartphone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-essential-chromes-leading-fb-video-grabs/"><u>[New] 2024 Approved Essential Chromes Leading FB Video Grabs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-shadowed-browsing-in-fb-stories/"><u>[New] 2024 Approved Shadowed Browsing in Fb Stories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveil-your-narrative-transforming-photos-to-videos-using-your-phone-for-2024/"><u>[Updated] Unveil Your Narrative Transforming Photos to Videos Using Your Phone for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-shorts-dividing-profits-among-making-crew/"><u>2024 Approved YouTube Shorts Dividing Profits Among Making Crew</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/chrome-pip-integration-a-cross-platform-tutorial-for-2024/"><u>Chrome PIP Integration A Cross-Platform Tutorial for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-the-locator-a-comprehensive-tutorial-on-rebooting-your-iphones-positioning-functionality/"><u>Fixing the Locator: A Comprehensive Tutorial on Rebooting Your iPhone's Positioning Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204109263-how-to-get-your-laptops-usb-mouse-working-again-step-by-step-fixes/"><u>How to Get Your Laptop's USB Mouse Working Again – Step by Step Fixes!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-diy-robot-building-in-depth-review-of-makeblocks-mbot-learning-system/"><u>Mastering DIY Robot Building: In-Depth Review of Makeblock's mBot Learning System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/microsoft-surface-pro-7-analysis-efficient-update-with-minor-enhancements/"><u>Microsoft Surface Pro 7 Analysis: Efficient Update with Minor Enhancements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgears-nighthawk-x4-unveiled-an-in-depth-look-at-its-efficient-wi-fi-extending-powers/"><u>Netgear's Nighthawk X4 Unveiled: An In-Depth Look at Its Efficient Wi-Fi Extending Powers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/purewave-analysis-depth-resistant-audio-clarity/"><u>PureWave Analysis: Depth-Resistant Audio Clarity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-the-perfect-blend-of-elegance-and-performance-in-the-apple-imac-215/"><u>Review: The Perfect Blend of Elegance and Performance in the Apple iMac 21.5</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/tailoring-video-dimensions-on-youtube-a-users-guide-to-perfect-uploads/"><u>Tailoring Video Dimensions on YouTube A User's Guide to Perfect Uploads</u></a></li>
 </ul></div>
 

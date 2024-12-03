@@ -1,7 +1,7 @@
 ---
 title: "Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide"
-date: 2024-11-18T16:27:36.291Z
-updated: 2024-11-24T16:40:32.688Z
+date: 2024-11-25T18:51:04.431Z
+updated: 2024-12-02T18:16:57.773Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ---
 
 ## Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 * Outside of Steam, use the third-party apps DualSenseX or ReWASD to connect and configure your PS5 controller.
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
@@ -59,26 +59,26 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, click on "Manage Sound Devices".
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pairing and Configuring a PS5 Controller for Steam
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
@@ -108,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
 
@@ -140,24 +140,21 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-jovial-jingles-a-compilation-of-easy-download-links/"><u>[Updated] 2024 Approved Jovial Jingles A Compilation of Easy Download Links</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cosmetics-confidentials-building-a-beauty-channel-on-youtube/"><u>[Updated] In 2024, Cosmetics Confidentials Building a Beauty Channel on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-free-ways-to-save-your-desktop-on-windows-8/"><u>[Updated] In 2024, Free Ways to Save Your Desktop on Windows 8</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlined-techniques-for-ios-image-sharing/"><u>[Updated] Streamlined Techniques for iOS Image Sharing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-your-browsing-bliss-discover-the-most-effective-7-android-adblockers-for-2024/"><u>[Updated] Your Browsing Bliss Discover the Most Effective 7 Android AdBlockers for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-apple-sports-showdown-unlock-your-ultimate-free-iphone-experience-a-dream-come-true-for-enthusiasts/"><u>1. Apple Sports Showdown: Unlock Your Ultimate Free iPhone Experience - A Dream Come True for Enthusiasts!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-memorable-literary-trail-videos/"><u>2024 Approved Memorable Literary Trail Videos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-the-newest-titans-samsung-galaxy-s23-vs-s21/"><u>Comparing the Newest Titans: Samsung Galaxy S23 Vs. S21</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-nokia-n309-an-excellent-beginners-cellphone-option/"><u>Comprehensive Evaluation of the Nokia N309: An Excellent Beginner's Cellphone Option</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-kootek-laptop-cooler-evaluation-an-excellent-choice-for-thermal-management/"><u>Comprehensive Kootek Laptop Cooler Evaluation: An Excellent Choice for Thermal Management</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-offworld-trading-company-analysis-mastering-the-ruthless-business-game/"><u>Comprehensive Offworld Trading Company Analysis - Mastering the Ruthless Business Game</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/conquer-your-favorite-games-on-an-asus-vg245h-the-console-gamers-dream-screen/"><u>Conquer Your Favorite Games on an Asus VG245H - The Console Gamer's Dream Screen</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-edge-connectivity-a-detailed-examination-of-the-linksys-wrt1900acs-modified-by-open-source-technology/"><u>Cutting Edge Connectivity: A Detailed Examination of the Linksys WRT1900ACS Modified by Open Source Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-elegance-a-skagen-falster-2-and-apple-comparison/"><u>Discovering the Elegance: A Skagen Falster 2 and Apple Comparison</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-economy-youtube-income-horizon-2024/"><u>E-Gaming Economy YouTube Income Horizon 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-smartphone-showdown-why-the-samsung-galaxy-s21-ultra-reigns-supreme-among-android-options/"><u>Elite Smartphone Showdown: Why the Samsung Galaxy S2^1 Ultra Reigns Supreme Among Android Options</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-considerations-when-investing-in-a-non-subscribed-phone/"><u>Essential Considerations When Investing in a Non-Subscribed Phone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-7-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 7 Plus in the Best Ways</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-best-practices-for-engaging-with-facebook-live-content-for-2024/"><u>[New] Best Practices for Engaging with Facebook Live Content for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-best-value-budget-friendly-pros-for-high-impact-sports-for-2024/"><u>[New] Best Value Budget-Friendly Pros for High-Impact Sports for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-chapter-tactics-to-complement-your-youtube-presentations-for-2024/"><u>[New] Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagram-stories-your-complete-tune-up-guide/"><u>[Updated] Mastering Instagram Stories Your Complete Tune-Up Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-perfecting-10-must-know-pixlr-hacks/"><u>[Updated] Precision Perfecting 10 Must-Know Pixlr Hacks</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719151766914-breaking-down-barriers-to-private-conversations-facebooks-revolutionary-end-to-end-encrypted-services-rollout-for-messenger-and-instagram/"><u>Breaking Down Barriers to Private Conversations: Facebook's Revolutionary End-to-End Encrypted Services Rollout for Messenger and Instagram.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-glion-dolly-electric-scooter-assessment-luxurious-design-and-swift-performance/"><u>Comprehensive Glion Dolly Electric Scooter Assessment: Luxurious Design & Swift Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-netgear-c3000-cabledsl-gateway-is-it-still-effective/"><u>Comprehensive Review of the Netgear C3000 Cable/DSL Gateway - Is It Still Effective?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-test-drive-analysis-of-the-maisto-rc-rock-crawler-perfect-toy-for-kids-and-adults/"><u>Comprehensive Test Drive Analysis of the Maisto RC Rock Crawler - Perfect Toy for Kids and Adults!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/conquering-fearsome-foes-an-insiders-look-into-monster-hunter-world-gameplay/"><u>Conquering Fearsome Foes: An Insider's Look Into Monster Hunter: World Gameplay</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-finest-gaming-experiences-google-play-pass-edition/"><u>Discover the Finest Gaming Experiences: Google Play Pass Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exceptional-value-with-lg-24lh4830-smart-television-saving-money-not-on-picture-quality/"><u>Exceptional Value with LG 24LH4830 Smart Television - Saving Money, Not on Picture Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-gaomon-pd15n-drawing-pad-innovative-artists-tool/"><u>Expert Insights on the Gaomon PD15n Drawing Pad: Innovative Artists' Tool</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-restore-a-damaged-or-lost-partition-on-your-pc-using-the-latest-windows-11-tools-and-techniques/"><u>How to Restore a Damaged or Lost Partition on Your PC Using the Latest Windows 11 Tools and Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-10-pro-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 10 Pro 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1120228-9780988432741-uppvaknande-genom-en-kurs-i-mirakler/"><u>Uppvaknande genom En Kurs i Mirakler | Free Book</u></a></li>
 </ul></div>
 

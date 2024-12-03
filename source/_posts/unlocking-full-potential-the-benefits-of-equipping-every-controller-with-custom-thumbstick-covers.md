@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full Potential: The Benefits of Equipping Every Controller with Custom Thumbstick Covers"
-date: 2024-11-08T19:29:46.582Z
-updated: 2024-11-14T17:59:31.446Z
+date: 2024-11-30T19:23:08.125Z
+updated: 2024-12-02T19:50:23.356Z
 tags:
   - games
   - tv
@@ -22,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
  For years, I used controllers with naked analog sticks. But after I dressed up my first pair of thumbsticks with some removable thumbstick covers, I never looked back. Here’s why.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Thumbstick Grips Prevent Joystick Rubber Degradation
@@ -36,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 
 ![A pair of thumbsticks with degraded rubber covering the plastic body.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-02.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By then, I had heard about thumbstick covers and decided to slip them on said controller. The result was phenomenal. I used the controller until mid-2022 before it died, with the sticks staying the same as they were the moment I put the thumbstick covers on. There was no further rubber degradation after almost half a decade of heavy use.
 
  Impressed by the results on my Xbox controller, I equipped my [Nintendo Switch Lite](https://win11.techidaily.com/1719355296197-dimming-windows-11-brightness-simple-fixes-unveiled/) with thumbstick covers on day one. As you can see below, its analog sticks still look pristine even though I’ve enjoyed the tiny console for hundreds, if not a thousand-plus hours. I did the same with my two PS4 controllers, and those, too, looked pristine when I sold the console in 2021.
@@ -43,19 +44,13 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 ![The left analog stick on a Nintendo Switch Lite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-01.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re not someone who likes to collect controllers and instead only use one or two gamepads, thumbstick covers will prevent thumbstick rubber degradation many controllers suffer from. But that’s not the only thing they’re good at.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Covers Massively Improve Thumbstick Grip
@@ -73,10 +68,7 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 ![A pair of tall thumbstick covers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-03.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  They’re Cheap and You Can Buy Them Anywhere
@@ -102,17 +94,22 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-solutions-to-decipher-muted-facebook-videos/"><u>[New] 2024 Approved Solutions to Decipher Muted Facebook Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-memories-in-motion-the-premier-archive-for-tweeter-gifs-for-2024/"><u>[New] Memories in Motion The Premier Archive for Tweeter GIFs for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-seamless-username-switching-in-google-meet-settings-for-2024/"><u>[New] Seamless Username Switching in Google Meet Settings for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-novices-selection-guide-to-ideal-filming-cameras/"><u>2024 Approved Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-ultimate-selection-of-premium-mesh-wi-fi-setups/"><u>2024'S Ultimate Selection of Premium Mesh Wi-Fi Setups</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-f5-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco F5 5GFRP Lock</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-power-of-compact-gaming-a-comprehensive-look-at-the-xbox-series-s-hardware-and-packaging/"><u>The Power of Compact Gaming - A Comprehensive Look at the Xbox Series S Hardware & Packaging.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unfolding-the-lenovo-thinkpad-x1-fold-experience-a-revolutionary-design-with-imperfections/"><u>Unfolding the Lenovo ThinkPad X1 Fold Experience: A Revolutionary Design with Imperfections</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleashing-long-conversations-analyzing-jabras-speak-25/"><u>Unleashing Long Conversations: Analyzing Jabra's Speak 25</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-samsung-un65ru80txfa-a-review-of-its-smart-features-on-a-luxurious-display-unit/"><u>Unveiling the Samsung UN65RU80TXFA: A Review of Its Smart Features on a Luxurious Display Unit</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-skagen-falster-2-deserves-a-spot-on-your-radar-an-elegant-contender-against-apple-devices/"><u>Why Skagen Falster 2 Deserves a Spot on Your Radar - An Elegant Contender Against Apple Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-educations-new-dimension-with-vr/"><u>[New] Education's New Dimension with VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-a-deep-dive-into-metaverse-meme-culture/"><u>[New] Unleash Creativity A Deep Dive Into Metaverse Meme Culture</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/break-of-dawn-greetings-a-multilingual-morning-salutation-list/"><u>Break of Dawn Greetings: A Multilingual Morning Salutation List</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-longevity-before-new-gadgets/"><u>Evaluating Longevity Before New Gadgets</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-all-in-one-maxoak-185wh5000aster-review-for-enhanced-portable-charging-solutions/"><u>Evaluating the All-in-One MaxOak 185Wh/50,00aster Review for Enhanced Portable Charging Solutions</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/expand-your-pcs-capacity-a-guide-by-yl-software-for-freeing-up-hard-drive-space/"><u>Expand Your PC's Capacity: A Guide by YL Software for Freeing Up Hard Drive Space</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-excellence-with-samsung-galaxy-s21-ultra-leading-android-device-on-the-market/"><u>Experience Excellence with Samsung Galaxy S21 Ultra - Leading Android Device on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-unboxed-a-first-look-at-the-new-samsung-galaxy-budsplus/"><u>Experience Unboxed: A First Look at the New Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-lg-65-inch-oled-c9-tv-a-visual-treat-for-enthusiasts/"><u>Expert Analysis of the LG 65-Inch OLED C9 TV - A Visual Treat for Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-nature-with-nikons-waterproof-w100/"><u>Explore Nature with Nikon's Waterproof W100</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-cutting-edge-technology-within-the-iphone-15-pro/"><u>Explore the Cutting Edge Technology Within the iPhone 15 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fun-meets-fear-in-7-days-to-die-a-game-changing-adventure-through-zombie-apocalypse/"><u>Fun Meets Fear in '7 Days to Die': A Game-Changing Adventure Through Zombie Apocalypse</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-11-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 11 Pro? How to Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-ensuring-your-hardware-drivers-work-seamlessly-with-windows-update-solved/"><u>Resolved! Ensuring Your Hardware Drivers Work Seamlessly With Windows Update (Solved)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-easy-steps-to-crafting-a-heart-icon-with-keyboard-keys/"><u>The Easy Steps to Crafting a Heart Icon with Keyboard Keys</u></a></li>
 </ul></div>
 

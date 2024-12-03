@@ -1,7 +1,7 @@
 ---
 title: "My Favorite Portable Gaming Device for On-the-Go Play: Beyond the JoyCon"
-date: 2024-11-09T16:38:23.393Z
-updated: 2024-11-15T05:51:06.711Z
+date: 2024-12-02T04:09:01.820Z
+updated: 2024-12-02T23:56:33.881Z
 tags:
   - games
   - tv
@@ -36,10 +36,7 @@ Tim Rattray / How-To Geek
 ![Playdate with cases and box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/htg-playdate-feature-header.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -50,15 +47,16 @@ Tim Rattray / How-To Geek
 
  It's also noteworthy that unlike the bright screens we often spend much of our day starting at, the Playdate's screen isn't backlit. It's akin to reading on an [e-ink Kindle](https://facebook-video-files.techidaily.com/updated-the-key-to-captivating-audiences-crafting-fb-slideshows/), except you get to game instead. Thus, a quick Playdate session becomes a respite for the eyes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Games Are Satisfying in Quick Bursts
 
 ![Playdate playing 'Under the Castle.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/playdate-with-under-the-castle.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -71,13 +69,6 @@ Tim Rattray / How-To Geek
 
  Also worth noting is that you can easily both sideload and buy games through your computer's web browser, which automatically download to your Playdate. This means that the quick game you intend to play will likely be waiting for you next time you grab the handheld. This fuss-free functionality ensures your quick session is spent playing instead of waiting for an install. It's a feature found on most modern hardware but is nonetheless critical to the Playdate's pick-up-and-play sensibility.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Longer Experiences Are Also Available
 
 ![Playdate and box on platform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/playdate-and-box-on-platform.jpeg) 
@@ -88,15 +79,16 @@ Tim Rattray / How-To Geek
 
  You can even "dock" a Playdate via USB-C into your computer using Panic's [Mirror](https://play.date/mirror/) app. Beyond the benefit of a bigger screen for longer sessions, it also allows you to use your [controller of choice](https://hardware-reviews.techidaily.com/unlocking-the-potential-of-computer-components-with-toms-gear-guides/). However, some games work better than others depending on if and how they use the crank, and it runs counter to the true charm of using the Playdate as a handheld.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  We Need to Talk About the Crank
 
  No discussion of the Playdate is complete without remarking on its trademark feature: the crank. This pops out of a nook in the side of the device and is utilized by most games in some capacity. It's transformative at its best, be it adjusting a camera lens or operating it like a beer tap. The clever ways in which developers utilize the crank are endlessly surprising and provide an experience unavailable on any other console. Plus, it's hard to go wrong with the fun-factor of turning a crank.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is The Playdate Right for You?
@@ -120,22 +112,22 @@ Tim Rattray / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-enhance-your-media-experience-mastering-hdr-videos-with-windows/"><u>[Updated] In 2024, Enhance Your Media Experience Mastering HDR Videos with Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-c300-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia C300 Phone When You Forget the Password</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-deep-dive-into-the-lg-um7300-essential-reviews-for-your-first-budget-49-4k-tv/"><u>A Deep Dive Into the LG UM7300: Essential Reviews for Your First Budget 49 4K TV</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canine-capers-puzzles-for-two/"><u>Canine Capers: Puzzles for Two</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canon-powershot-sx420-a-zoom-marvel-in-a-small-form/"><u>Canon PowerShot SX420: A Zoom Marvel in a Small Form</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-dell-xps-13-7390-the-perfect-fusion-of-elegance-and-functionality/"><u>Comprehensive Analysis of the Dell XPS 13 (7390): The Perfect Fusion of Elegance and Functionality</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-assessment-of-the-anker-superspeed-usb-30-multiport-charger/"><u>Comprehensive Assessment of the Anker SuperSpeed USB 3.0 Multiport Charger</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-netgear-nighthawk-x6-ac3200-the-ultimate-tri-band-wireless-router-for-high-speed-and-home-use/"><u>Comprehensive Guide to Netgear Nighthawk X6 AC3200 – The Ultimate Tri-Band Wireless Router for High Speed & Home Use</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-linksys-max-stream-ac1900-the-perfect-network-solution-for-all-users/"><u>Comprehensive Guide to the Linksys Max-Stream AC1900: The Perfect Network Solution for All Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-philips-hf3520-clock-radio-value-meets-performance/"><u>Comprehensive Guide to the Philips HF3520 Clock Radio: Value Meets Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lg-k51-evaluation-gorgeous-presentation-counterbalanced-by-modest-processing-speed/"><u>Comprehensive LG K51 Evaluation: Gorgeous Presentation Counterbalanced by Modest Processing Speed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lg-watch-style-examination-mastering-the-classic-wear-os-20-timepiece/"><u>Comprehensive LG Watch Style Examination - Mastering the Classic Wear OS 2.0 Timepiece</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-infinix-smart-7-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Infinix Smart 7 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mastering-light-manipulation-for-captivating-gopro-time-lapse-scenes-for-2024/"><u>Mastering Light Manipulation for Captivating GoPro Time Lapse Scenes for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/professional-approach-to-convert-webp-images-to-jpeg-for-2024/"><u>Professional Approach to Convert WebP Images to JPEG for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-vivo-v29-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Vivo V29 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/zoom-for-broadcasts-bridging-the-gap-to-fb-live/"><u>ZOOM for Broadcasts Bridging the Gap to FB Live</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-brand-with-these-biz-channel-standouts/"><u>[New] 2024 Approved Elevate Your Brand with These Biz Channel Standouts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-go-big-go-viral-channel-tiktok-trends-into-instagram-reels/"><u>[Updated] 2024 Approved Go Big, Go Viral Channel TikTok Trends Into Instagram Reels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-forget-youtube-try-these-top-5-video-editor-options/"><u>[Updated] Forget Youtube? Try These Top 5 Video Editor Options</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/exploring-options-for-advanced-livestreaming-setups-for-2024/"><u>Exploring Options for Advanced Livestreaming Setups for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-does-a-browser-fingerprint-reveal-your-online-identity-and-what-steps-can-you-take-to-guard-it/"><u>How Does a Browser Fingerprint Reveal Your Online Identity & What Steps Can You Take to Guard It?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-12-mini-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 12 mini Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-it-worth-getting-a-new-apple-tv/"><u>Is It Worth Getting a New Apple TV?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-lg-k92-smartphone-a-justifiable-purchase-for-5g-users/"><u>Is The LG K92 Smartphone A Justifiable Purchase For 5G Users?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/jackery-powerbar-battery-pack-review-built-in-ac-outlet/"><u>Jackery PowerBar Battery Pack Review: Built-In AC Outlet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-weather-monitoring-tools-a-guide-to-the-top-storm-tracker-apps/"><u>Leading Weather Monitoring Tools: A Guide to the Top Storm Tracker Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-seamless-internet-connectivity-with-a-review-on-google-wireless-router/"><u>Mastering Seamless Internet Connectivity with a Review on Google Wireless Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-features-contrasting-samsungs-newest-marvel-the-galaxy-s2e-ultra-with-its-predecessor-the-s21-ultra/"><u>Next-Level Features: Contrasting Samsung's Newest Marvel, the Galaxy S2e ULtra with Its Predecessor, the S21 ULtra</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/parsing-through-the-cosmic-mystique-a-review/"><u>Parsing Through the Cosmic Mystique: A Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-halo-bolt-portable-jump-starter-and-power-bank-ultimate-mobile-power-solution/"><u>Review of Halo Bolt Portable Jump Starter & Power Bank - Ultimate Mobile Power Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-non-responsive-iphone-volume-issues-with-these-7-quick-fixes/"><u>Solve Your Non-Responsive iPhone Volume Issues with These 7 Quick Fixes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlocking-content-proven-pathways-to-live-video-conversion/"><u>Unlocking Content Proven Pathways to Live Video Conversion</u></a></li>
 </ul></div>
 

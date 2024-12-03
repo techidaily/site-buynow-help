@@ -1,7 +1,7 @@
 ---
 title: "Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective"
-date: 2024-11-12T04:45:34.692Z
-updated: 2024-11-15T05:08:37.883Z
+date: 2024-12-02T01:54:22.227Z
+updated: 2024-12-02T16:15:46.601Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
 ## Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Highlights
 
 * PS2 could render games at 60fps easily due to optimized architecture.
@@ -22,16 +26,7 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
  The PlayStation 2 had no shortage of games that ran at a smooth 60fps, but for the console generations that followed, this performance figure became rather scarce. Why did hitting that magic 60fps mark become so difficult and rare?
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The HD Era
@@ -40,16 +35,13 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
 ![Sony PlayStation 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Sony-PlayStation-3-large.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Sony_
 
  Which is why most games on these consoles target 30fps, and more often than not failed to maintain or even reach that figure. Offering frame rates in the 20s, for the most "cinematic" gaming experience possible.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Weak CPUs
 
@@ -63,16 +55,13 @@ Tim Brookes / How-To Geek
 
  These consoles had GPUs that had no problems giving us a consistent 30fps experience in most cases, but their CPUs were essentially weak power-efficient laptop components that really struggled to go beyond the 30fps mark. This is why when the PlayStation 4 Pro and Xbox One X consoles were released with significantly upgraded GPUs, developers could only increase graphical fidelity, but not frame rate. Even with a mild increase in clock speed, the CPUs in the half-generation refreshed consoles just couldn't muster faster frames.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pushing for Nicer Screenshots
 
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -86,16 +75,13 @@ Cianna Garrison / How-To Geek
 
  According to a wonderful [deep dive by Modern Vintage Gamer](https://www.youtube.com/watch?v=%5FPiiXM51oBo) the PS2's "Emotion Engine" had an architecture well-optimised, with sub-processors specialized in accelerating different aspects of rendering which, in turn, could feed that Graphics Synthesizer quickly and efficiently. In other words, developers would hit the "spatial" detail limit before hitting the "temporal" limit. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  An Apathetic Customer Base
 
  Apart from a few vocal people on gaming forums and platforms like X (formerly Twitter), it's not clear that the typical console gamer really cares about frame rate at all. While a cool-looking trailer or screenshots will impress prospective buyers, 60fps gameplay doesn't seem to move the needle much. With the current generation of consoles, console gamers do seem a little more aware of 60fps and its benefits, but quite a few games have 60fps modes that compromise the visuals far too much to actually play them that way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  We’re Back to 30FPS Again.
 
@@ -116,24 +102,19 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-amplify-youtube-visibility-crafting-effective-descriptions-and-tags-for-2024/"><u>[New] Amplify YouTube Visibility Crafting Effective Descriptions & Tags for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-asserting-ownership-on-social-platforms-instagrams-watermarking-secrets/"><u>[New] Asserting Ownership on Social Platforms Instagram's Watermarking Secrets</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-brilliant-strategies-for-instant-signature-cleanup/"><u>[New] Brilliant Strategies for Instant Signature Cleanup</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722968328202-complete-tutorial-on-insignias-usb-to-vga-adapter-download-driver-installation-and-setup/"><u>Complete Tutorial on Insignia's USB-to-VGA Adapter - Download, Driver Installation, and Setup</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a15-4g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A15 4G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-crafting-comic-relief-in-the-metaverse-meme-basics-unveiled/"><u>In 2024, Crafting Comic Relief in the Metaverse – Meme Basics Unveiled</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-latest-pro-cams-for-full-spheres/"><u>Navigating the Latest Pro Cams for Full Spheres</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/practical-alternatives-for-installing-apps-bypassing-the-official-app-store/"><u>Practical Alternatives for Installing Apps Bypassing the Official App Store</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revamping-undead-gaming-the-ultimate-review-of-7-days-to-lives-fun-and-fresh-approach/"><u>Revamping Undead Gaming: The Ultimate Review of 7 Days to Live's Fun and Fresh Approach</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/rexing-v1-dashcam-examined-the-perfect-blend-of-discretion-and-dependability/"><u>Rexing V1 Dashcam Examined - The Perfect Blend of Discretion and Dependability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/score-the-ultimate-savings-with-roku-specials-this-prime-day/"><u>Score the Ultimate Savings with Roku Specials This Prime Day</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/secure-premium-savings-topmost-acer-offers-at-amazons-prime-day-event-year-2e4/"><u>Secure Premium Savings: Topmost Acer Offers at Amazon's Prime Day Event - Year 2E4</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sing-your-heart-out-on-a-budget-discover-the-wonders-of-karaoke-usa-at-just-149plus/"><u>Sing Your Heart Out on a Budget - Discover the Wonders of Karaoke USA at Just $149+</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/streamlined-and-effective-a-comprehensive-look-at-why-the-google-pixel-4a-fits-most-consumers-lifestyle/"><u>Streamlined and Effective: A Comprehensive Look at Why the Google Pixel 4a Fits Most Consumers' Lifestyle</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-all-inclusive-guide-to-testing-the-budget-friendly-z-edge-z3plus-dashcam-model/"><u>The All-Inclusive Guide to Testing the Budget-Friendly Z-Edge Z3+ Dashcam Model</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-google-pixel-grope-review-rediscovering-androids-essence/"><u>The Definitive Google Pixel Grope Review: Rediscovering Android's Essence</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-review-of-huaweis-mediapad-m5-a-tablet-revolutionizing-audio-visual-engagement/"><u>The Definitive Review of Huawei's MediaPad M5 - A Tablet Revolutionizing Audio-Visual Engagement</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-15-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 15 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-androids-very-own-podcasters/"><u>[New] Android's Very Own Podcasters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-essential-elements-creating-striking-podcast-covers/"><u>[Updated] 2024 Approved Essential Elements Creating Striking Podcast Covers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-quick-tips-eradicate-online-ads-from-your-feed/"><u>[Updated] 2024 Approved Quick Tips Eradicate Online Ads From Your Feed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-and-functional-fitbit-versa-smartwatch-review/"><u>Affordable and Functional Fitbit Versa Smartwatch Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-and-efficient-ourlink-u631-wireless-usb-wi-fi-adapter-top-rated-performance/"><u>Compact & Efficient Ourlink U631 Wireless USB Wi-Fi Adapter - Top Rated Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-the-benefits-and-features-of-linksyss-wrt1900acs-open-source-router-unveiled/"><u>Comprehensive Assessment: The Benefits & Features of Linksys's WRT1900ACS Open Source Router Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-ipad-vs-kindle-vs-nook-which-tablet-readers-reign-supreme/"><u>Comprehensive Review: IPad Vs. Kindle Vs. Nook - Which Tablet Readers Reign Supreme?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intelligent-conversations-creating-personalized-chatgpt/"><u>Intelligent Conversations: Creating Personalized ChatGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/t-from-youtube-monetize-youtube-shorts-and-boost-your-income-for-2024/"><u>Profit From YouTube Monetize YouTube Shorts and Boost Your Income for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resolving-issues-with-pvpnets-stalled-kernel-update/"><u>Quick Fix Guide: Resolving Issues with PvP.net's Stalled Kernel Update</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722998098327-reliable-performance-unveiling-the-ultimate-portability-of-dbpowers-newest-jump-starter-rated-at-6000mah-experts-reviews/"><u>Reliable Performance: Unveiling the Ultimate Portability of DBPOWER's Newest Jump Starter, Rated at 6000mAh - Experts Reviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/snapshot-surge-pro-high-quality-mobile-images-with-zero-cost/"><u>Snapshot Surge Pro High-Quality Mobile Images with Zero Cost</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-non-functioning-voice-communication-in-valorant/"><u>Solving the Issue of Non-Functioning Voice Communication in Valorant</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/withings-move-review/"><u>Withings Move Review</u></a></li>
 </ul></div>
 
