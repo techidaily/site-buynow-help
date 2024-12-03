@@ -27,8 +27,8 @@
 <meta property="og:description" content="Uncovering the Reason Behind PS One’s Shaky Visual ExperienceHighlights PlayStation 1 lacked FLOPs due to not having an FPU. No Z-buffer resulted in small errors &amp; visible polygons. Affine texture">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg">
-<meta property="article:published_time" content="2024-11-17T08:15:36.794Z">
-<meta property="article:modified_time" content="2024-11-24T09:04:58.431Z">
+<meta property="article:published_time" content="2024-11-25T13:07:21.152Z">
+<meta property="article:modified_time" content="2024-12-03T03:00:38.228Z">
 <meta property="article:author" content="Edward">
 <meta property="article:tag" content="games">
 <meta property="article:tag" content="tv">
@@ -715,15 +715,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-11-17 16:15:36</span>
-        <span class="mobile">2024-11-17 16:15:36</span>
+        <span class="desktop">2024-11-25 21:07:21</span>
+        <span class="mobile">2024-11-25 21:07:21</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-11-24 17:04:58</span>
-            <span class="mobile">2024-11-24 17:04:58</span>
+            <span class="desktop">2024-12-03 11:38</span>
+            <span class="mobile">2024-12-03 11:38</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -788,31 +788,31 @@
 </ul>
 <p> Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they’re still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn’t find in the competition, so what gives?</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="It’s-All-About-Floating-Points"><a href="#It’s-All-About-Floating-Points" class="headerlink" title="It’s All About Floating Points"></a>It’s All About Floating Points</h2><p> Modern GPU performance is often measured (<a class="link"   target="_blank" rel="noopener" href="https://hardware-help.techidaily.com/brother-hl-2280dw-driver-package-universal-download-for-windows-11-windows-10-windows-8-and-7-users/" >controversially <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>) in FLOPs or FLoating Point Operations. This is simply math involving floating point numbers, which in turn are simply whole numbers with a decimal point. The PlayStation’s graphics processor had zero FLOPs, because it lacked an FPU or Floating Point Unit. Instead, it uses fixed-point integers to calculate the positions of vertices.</p>
 <p> A “vertice” is a point where two or more lines meet. So in a polygon, which is typically (but not always) a triangle in 3D graphics, there are three vertices. A 3D model consists of multiple polygons, and as that object moves on screen, the positions of the vertices must be calculated in 3D space.</p>
 <p> Since you can only use integers, any position for a vertice that’s not an integer will simply be skipped over. So you’ll see polygons “snap” between positions with certain types of motion. For example, a character that’s standing still and has a subtle idle animation will look like they’re jittering a little.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Z-Buffer-Not-Found"><a href="#Z-Buffer-Not-Found" class="headerlink" title="Z-Buffer Not Found"></a>Z-Buffer Not Found</h2><p> Apart from the lack of an FPU, the PlayStation also lacked a hardware Z-buffer. You might remember XYZ coordinates from school, where you can describe any point within a 3D space using three numbers. The PlayStation lacked a hardware buffer to store depth or Z-axis values, sorted in order of how far away something is from the “camera.”</p>
 <p> This meant that game developers had to create their own in-house Z-buffering solution, and since it was not done in hardware, they had to be economical with their depth-sorting algorithms. This led to a common situation in PS1 games where small sorting errors were made and polygons that should have been hidden from view pop in and out of sight.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Affine-Texture-Mapping-Is-Not-So-Fine-After-All"><a href="#Affine-Texture-Mapping-Is-Not-So-Fine-After-All" class="headerlink" title="Affine Texture Mapping Is Not So Fine After All"></a>Affine Texture Mapping Is Not So Fine After All</h2><p> Texture mapping is the process of adding textures (which are basically digital pictures) to a polygon wireframe. It’s basically the “skin” of a 3D object. The PS1 uses a method known as “affine” texture mapping, which uses simple math to determine the coordinates on the polygon where the texture should be drawn. Affine texture mapping does not take Z-coordinates into account, and so perspective projection will appear incorrect for 3D objects. Remember the PS1 has no Z-buffer!</p>
 <p> Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what’s known as affine texture warping.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Fast-Cheap-or-Complex-Pick-Two"><a href="#Fast-Cheap-or-Complex-Pick-Two" class="headerlink" title="Fast, Cheap, or Complex: Pick Two"></a>Fast, Cheap, or Complex: Pick Two</h2><p> Different developers did find ways to work around these limitations, and so some PS1 games exhibit these issues to varying degrees. However, trying to address these issues in software almost always means eating up processing power that could have gone to something else. Despite these cutbacks, the PS1’s hardware was above all fast. It could pump out polygons faster than anything else at the time.</p>
 <p> It also helps that CRT displays mask most of these issues quite well, and that would have been what the console was designed for. Modern flat panel displays have a negative effect on how PS1 games are presented, making the graphics uglier now than they were back then!</p>
 <p> The bottom line is that the console could have had that extra hardware, but it would have driven the cost up significantly, without any clear benefit to Sony or its players at the time. The company went with “fast and cheap,” leaving complexity at the door. History has shown this was the right decision.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Emulators-Can-Correct-This-But-Should-You"><a href="#Emulators-Can-Correct-This-But-Should-You" class="headerlink" title="Emulators Can Correct This (But Should You?)"></a>Emulators Can Correct This (But Should You?)</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
@@ -820,7 +820,7 @@
                       alt="An iPad running G-Police next a  physical original copy of the game and a PS4 controller"
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p>Sydney Louw Butler &#x2F; How-To Geek</p>
@@ -840,25 +840,25 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-tweet-reactions-a-complete-guide-for-23/"><u>[New] 2024 Approved Mastering Tweet Reactions - A Complete Guide for '23</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-docs.techidaily.com/kyrocket-your-channel-to-over-a-million-subscribers/"><u>[New] Skyrocket Your Channel to Over a Million Subscribers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-tips.techidaily.com/new-tailoring-photos-with-photoshops-dynamic-motion-blur-feature/"><u>[New] Tailoring Photos with Photoshop's Dynamic Motion Blur Feature</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-to-using-vivavideo-app/"><u>[New] Unveiling the Secrets to Using VivaVideo App</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/updated-effortless-methods-to-archive-slideshows-for-2024/"><u>[Updated] Effortless Methods to Archive Slideshows for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-direct.techidaily.com/updated-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>[Updated] Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-elite-audio-upgrades-the-creme-de-la-creme-sound-cards-of-the-2024-market/"><u>Discover Elite Audio Upgrades: The Crème De La Crème Sound Cards of the 2024 Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-your-inner-adventurer-the-incredible-compact-camera-sx70/"><u>Discover Your Inner Adventurer: The Incredible Compact Camera SX70</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/echo-pop-or-echo-dot-understanding-the-key-differences/"><u>Echo Pop or Echo Dot – Understanding The Key Differences</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elysian-estates-transforming-simple-nests-into-grand-homes/"><u>Elysian Estates: Transforming Simple Nests Into Grand Homes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-into-the-samsung-galaxy-watch-active-your-ally-for-personal-fitness-goals/"><u>Expert Insights Into the Samsung Galaxy Watch Active: Your Ally for Personal Fitness Goals</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-the-strongly-built-uniden-r3-with-exceptional-long-range-features/"><u>Expert Review: The Strongly Built Uniden R3 with Exceptional Long Range Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-elegance-and-efficiency-of-aukeys-no-nonsense-usb-30-hub-package/"><u>Exploring the Elegance & Efficiency of Aukey's No-Nonsense USB 3.0 Hub Package</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-escort-max-360-high-tech-radar-detection-meets-accurate-gps-navigation/"><u>Exploring the Features of Escort Max 360: High-Tech Radar Detection Meets Accurate GPS Navigation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fast-and-reliable-or-just-ugly-evaluating-tp-links-av2000-powerline-adapter/"><u>Fast and Reliable or Just Ugly? - Evaluating TP-Link's AV2000 Powerline Adapter</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/fb-videos-to-mp3s-free-online-convert-2023-for-2024/"><u>FB Videos to MP3s - Free Online Convert 2023 for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-poco-c50-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Poco C50</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-11-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 11 Making It Possible</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://discover-alternatives.techidaily.com/mastering-tak-audio-formats-unlock-high-quality-music-experience/"><u>Mastering TAK Audio Formats: Unlock High-Quality Music Experience</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-tips.techidaily.com/024-approved-vimeo-vs-youtube-dissecting-the-streamers-choices/"><u>[New] 2024 Approved Vimeo vs YouTube Dissecting the Streamers' Choices</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://video-screen-grab.techidaily.com/new-masterclass-selection-top-7-precision-games/"><u>[New] Masterclass Selection Top 7 Precision Games</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/new-tips-on-finding-unparalleled-videographers/"><u>[New] Tips on Finding Unparalleled Videographers</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/updated-selecting-the-ideal-imagery-for-remote-meetings/"><u>[Updated] Selecting the Ideal Imagery for Remote Meetings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-beginners-guide-to-leveraging-preview-for-advanced-image-manipulation-on-mac/"><u>A Beginner's Guide to Leveraging Preview for Advanced Image Manipulation on Mac</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-quality-and-comfort-the-definitive-review-of-microsoft-surface-ergonomic-keyboard/"><u>Assessing Quality and Comfort: The Definitive Review of Microsoft Surface Ergonomic Keyboard</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://article-helps.techidaily.com/elevating-your-footage-pro-tips-for-impressive-gopro-timelapses/"><u>Elevating Your Footage Pro Tips for Impressive GoPro Timelapses</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find N3 Flip</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-motorola-edge-2023-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Motorola Edge 2023 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/tackling-windows-zero-x-eight-oh-three-one-f-error-in-email-app/"><u>Tackling Windows' Zero X Eight Oh Three One F Error in Email App</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-a05-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy A05 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-zero.techidaily.com/alent-spotlights-inspiring-recruitment-chronicles-1-10/"><u>Top Talent Spotlights Inspiring Recruitment Chronicles #1-10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-of-the-most-effective-signal-enhancer-gadgets-for-your-mobile-device/"><u>Ultimate List of the Most Effective Signal Enhancer Gadgets for Your Mobile Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-premium-all-in-one-a-comprehensive-microsoft-surface-studio-2-review/"><u>Unboxing the Premium All-in-One: A Comprehensive Microsoft Surface Studio 2 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-high-speed-internet-with-the-netgear-nighthawk-x10-ad7200-a-thorough-review/"><u>Unleashing High-Speed Internet with the Netgear Nighthawk X10 AD7200: A Thorough Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-future-of-gaming-a-detailed-look-at-alienwares-best-pc-the-aurora-r11/"><u>Unlocking the Future of Gaming: A Detailed Look at Alienware's Best PC , The Aurora R11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-photoscapes-features-a-review-of-costless-image-editing-mastery/"><u>Unveiling PhotoScape's Features - A Review of Costless Image Editing Mastery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-google-nest-hello-a-deep-dive-into-its-advanced-security-capabilities/"><u>Unveiling the Google Nest Hello: A Deep Dive Into Its Advanced Security Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lg-gram-156-inch-2018-the-perfect-blend-of-portability-and-endurance-in-a-laptop/"><u>Unveiling the LG Gram 15.6-Inch (2018) - The Perfect Blend of Portability and Endurance in a Laptop</u></a></li>
 </ul></div>
 
 
@@ -871,11 +871,11 @@
         <li><strong>Title:</strong> Uncovering the Reason Behind PS One&#39;s Shaky Visual Experience</li>
         <li><strong>Author:</strong> Edward</li>
         <li><strong>Created at
-                :</strong> 2024-11-17 16:15:36</li>
+                :</strong> 2024-11-25 21:07:21</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-11-24 17:04:58
+                    :</strong> 2024-12-03 11:00:38
             </li>
         
         <li>
@@ -923,13 +923,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/leading-smart-spectacles-trends-and-picks/"
+                        href="/unlock-free-fun-your-guide-to-checking-out-video-games-from-public-libraries/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Leading Smart Spectacles Trends and Picks</span>
+                                <span class="post-nav-title-item">Unlock Free Fun: Your Guide to Checking Out Video Games From Public Libraries</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -939,10 +939,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/diving-deep-into-android-gaming-key-insights-and-tips-i-learned-along-the-way/"
+                        href="/deciphering-amazon-halo-an-intriguingly-detailed-guide-to-its-unconventional-activity-monitoring/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Diving Deep Into Android Gaming: Key Insights and Tips I Learned Along the Way</span>
+                                <span class="post-nav-title-item">Deciphering Amazon Halo: An Intriguingly Detailed Guide to Its Unconventional Activity Monitoring</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
