@@ -1,7 +1,7 @@
 ---
 title: Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store
-date: 2024-11-28T22:58:29.294Z
-updated: 2024-12-02T23:32:51.241Z
+date: 2024-12-05T05:05:41.358Z
+updated: 2024-12-10T05:27:33.935Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Epic's free game quality has declined from popular titles to less niche offerings, leading to gamer fatigue.
@@ -20,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * While beneficial for building a user base, Epic's tactics may not be sustainable in the long-term.
 
  The Epic Game Store has been offering free games since it first launched in 2018\. Though much of my own game collection comes from the storefront, the quality has been on a steady downward decline.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Games Aren't What They Used to Be
 
@@ -34,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A steady drip of niche, free games continued through 2023 and into 2024\. This year, we've seen some dismal free offerings, including in-game items to try to get more people interested in games they already don't care about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Epic's Free Games Are Repetitive and Lack Variety
@@ -46,10 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The problem with offering so many games as freebies that share the same theme is that the audience gets fatigued. After my fifth management game, I realized I might not be getting a bit bored of the free lunch. I was pretty much only extending the number of games in my catalog that I had yet to finish.
 
  The biggest issue I've had with Epic's free games offering is how limited it is compared to competitors. Other outlets like Steam and GOG have free games and massively discounted gems spanning dozens of genres. There's something to be said when a game's price tag is free, and it still can't compete with a classic like _Celeste_ at $1.99, courtesy of [Steam's amazing sales](https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Game Saturation, or Having Too Much To Play
 
@@ -64,16 +60,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  More Marketing, Less Promise
 
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
 
@@ -85,6 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The EGS has a long way to go before becoming as usable as storefronts like Steam. But the approach of offering weekly free games is paying off in some ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  There Are Some Benefits to This Approach
 
  Despite the criticisms, the strategy of offering free games has helped EGS build a significant user base. The increased number of users is good for Epic since it means that they can get more eyes on their products. What's more, offering free games seems to be working out by keeping their existing audience engaged.
@@ -94,6 +90,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Epic still seems to be getting some game developers to offer their wares up for free on the platform, driving connection and user engagement. The gains here are a little skewed, with Epic getting the exposure and the studios getting their games into people's libraries (who probably won't play them) and user emails they can market to directly.
 
  The downside is that no one on Epic's side seems to check the quality of these games. While none of them are outright shovelware, a few titles make a gamer raise their eyebrows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Keep Collecting Epic's Free Games?
 
@@ -118,24 +118,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-quickcopy-consultants-thoughts-for-2024/"><u>[New] QuickCopy Consultants' Thoughts for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-leading-the-way-in-efficient-meeting-recording-zooms-finest-tools-reviewed/"><u>[Updated] 2024 Approved Leading the Way in Efficient Meeting Recording Zoom’s Finest Tools Reviewed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-content-top-15-download-apps-unveiled/"><u>2024 Approved Instagram Content Top 15 Download Apps Unveiled</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-premier-experts-innovative-instragram-hlv-designs/"><u>2024 Approved Premier Experts Innovative Instragram HLV Designs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-elite-lineup-the-most-effective-cell-phone-repeaters-on-the-market/"><u>2024'S Elite Lineup: The Most Effective Cell Phone Repeaters on the Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/amazon-echo-show-5-generation-4-redesign-and-features-explored-in-review/"><u>Amazon Echo Show 5 - Generation 4 Redesign & Features Explored in Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/an-in-depth-look-at-demons-souls-revamp-brilliant-graphics-with-timeless-gameplay/"><u>An In-Depth Look at Demon's Souls Revamp: Brilliant Graphics with Timeless Gameplay</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-airpods-max-review-headphones-at-a-hefty-price/"><u>Apple Airpods Max Review: Headphones at a Hefty Price</u></a></li>
-<li><a href="https://fox-access.techidaily.com/become-a-gif-artist-basic-steps-for-2024/"><u>Become a GIF Artist Basic Steps for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boosting-audio-fidelity-on-the-road/"><u>Boosting Audio Fidelity on the Road</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y27-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y27 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-deep-windows-11-secrets-effortless-media-upload-made-simple/"><u>In 2024, Deep Windows 11 Secrets Effortless Media Upload Made Simple</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-realme-c53-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Realme C53 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inside-track-becoming-an-expert-in-srt-technology-for-2024/"><u>Inside Track Becoming an Expert in SRT Technology for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-the-complexities-of-chroma-removal-kinemaster-edition/"><u>Navigating the Complexities of Chroma Removal (KineMaster Edition)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723024822130-piston-power-the-most-informative-car-code-readers-in-motor-city-edition/"><u>Piston Power: The Most Informative Car Code Readers in Motor City Edition !</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-logitech-c615-a-review-focused-on-performance-and-budget-friendly-pricing/"><u>Unveiling the Logitech C615: A Review Focused on Performance and Budget-Friendly Pricing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-a-detailed-analysis-of-apples-newest-macbook-pro-m1-2021-top-notch-performance-in-every-way/"><u>Unveiling the Powerhouse: A Detailed Analysis of Apple’s Newest MacBook Pro (M1, 2021) - Top Notch Performance in Every Way</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wondering-about-chatgpt-plus-discover-if-its-worth-your-time-with-these-compelling-reasons/"><u>Wondering About ChatGPT Plus? Discover If It's Worth Your Time with These Compelling Reasons.</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-transforming-vimeo-streams-into-reusable-mp3-audio/"><u>[New] 2024 Approved Transforming Vimeo Streams Into Reusable MP3 Audio</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-viral-victory-hot-talk-highlights-for-2024/"><u>[New] Twitter's Viral Victory Hot Talk Highlights for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-foremost-dialogue-maker-hub/"><u>[Updated] Foremost Dialogue Maker Hub</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-youtube-alternatives-round-up-top-3-contenders/"><u>2024 Approved YouTube Alternatives Round-Up Top 3 Contenders</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/come-configurare-il-tuo-disco-di-ripristino-per-windows-11-con-due-configurazioni-diverse/"><u>Come Configurare Il Tuo Disco Di Ripristino per Windows 11 Con Due Configurazioni Diverse</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-anthems-constant-load-screen-glitch-successfully/"><u>How to Resolve Anthem's Constant Load Screen Glitch Successfully</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo Find X7 Phone without Google Account?</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ios-iphone/"><u>IOS 更新导致手机笔记功能丢失 - iPhone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trustworthy-and-speedy-download-robust-validity-imaging-sensor-driver-software-installation-guide/"><u>Trustworthy & Speedy Download: Robust Validity Imaging Sensor Driver Software [Installation Guide]</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-review-of-d-links-powerline-adapter-2000-simplified-setup-with-high-speed-data-transfer-capabilities/"><u>Ultimate Review of D-Link's Powerline Adapter 2000: Simplified Setup with High-Speed Data Transfer Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-powerful-motorola-mg7700-a-comprehensive-speeds-test/"><u>Unboxing the Powerful Motorola MG7700 - A Comprehensive Speeds Test</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uninterrupted-audio-bliss-at-a-touch-an-in-depth-look-into-ion-audios-tailgater-plus-sound-system/"><u>Uninterrupted Audio Bliss at a Touch - An In-Depth Look Into Ion Audio's Tailgater Plus Sound System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-adventure-with-the-budget-friendly-predator-mini-by-holy-stone-rc-helicopter/"><u>Unleash Your Adventure with the Budget-Friendly Predator Mini by Holy Stone RC Helicopter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-high-quality-sound-with-spotify-pro/"><u>Unlocking High-Quality Sound with Spotify Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-boses-latest-noise-cancelling-marvel-qc30/"><u>Unpacking Bose's Latest Noise Cancelling Marvel: QC30</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-potential-of-aukeys-compact-and-stylish-usb-30-hub-a-comprehensive-review/"><u>Unpacking the Potential of Aukey’s Compact and Stylish USB 3.0 Hub – A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-garmin-venu-a-detailed-appraisal-of-continuous-fitness-monitoring-and-health-management/"><u>Unveiling the Garmin Venu: A Detailed Appraisal of Continuous Fitness Monitoring & Health Management</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "OWC Mercury Pro: The Pinnacle of Solid State Drive Technology Explored in Review"
-date: 2024-11-11T23:56:24.291Z
-updated: 2024-11-15T07:50:03.966Z
+date: 2024-12-05T07:09:36.490Z
+updated: 2024-12-09T17:35:10.701Z
 categories:
   - BestProducts
 description: "This Article Describes OWC Mercury Pro: The Pinnacle of Solid State Drive Technology Explored in Review"
@@ -40,23 +40,9 @@ Lifewire/Jeremy Laukkonen
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple iMac 24-inch (2021)
 
 ![Apple iMac M1 (2021)](https://www.lifewire.com/thmb/BAI9YNWyjZ6YgKDJefSHpykeO4g=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iMacM12021_hero_1-SQ-5394e13bec9349e18a0eebd97ce4b3e4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire/Jeremy Laukkonen
 
@@ -90,13 +76,6 @@ Lifewire/Jeremy Laukkonen
 
  Over the course of my month with the M1 iMac, I specifically tested things like network performance and gaming benchmarks, but I also used it for work, media, voice and video calls, and gaming. There were a few instances where I had to fall back to my Windows rig, specifically for unsupported games, but the M1 iMac handled just about every other task without issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Design: Colors are back, and they look better than ever
 
  Apple could have taken the easy route and just swapped the M1 hardware into the existing iMac line, but the M1 iMac represents a total redesign from the ground up. The basic look is fairly similar, but the new design has cleaner lines, a uniformly thin body, thinner screen borders, and comes in a variety of attractive colors.
@@ -117,6 +96,10 @@ Lifewire/Jeremy Laukkonen
 
 ![Apple iMac M1 (2021)](https://www.lifewire.com/thmb/UXQsm7-2bXrWZaRKJCYnriKsm2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iMacM12021_5-6ad0711fc0d04f55b6f77624fb1479af.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire/Jeremy Laukkonen
 
  Regardless of which model you’re looking at, the bottom line is the 2021 iMac doesn’t have enough ports. The four Thunderbolt and USB-C ports found on the higher-end model aren’t enough, and the paltry two ports you get with the lower-end model definitely fall short. Expect to invest in a USB-C hub if you don’t already have one.
@@ -124,16 +107,7 @@ Lifewire/Jeremy Laukkonen
  While the jump to Apple silicon is the biggest story here, Apple really hit the design out of the park as well. This is an all-in-one that looks great from every angle. It’s a shame it’s held back by a few small issues, like a baffling lack of ports, but that doesn’t stop it from looking great on your desk.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Display: Beautiful 24-inch retina display
@@ -141,6 +115,10 @@ Lifewire/Jeremy Laukkonen
  Apple bumped the screen size from 21.5 inches to 24 inches for the M1 iMac refresh, and the difference is remarkable. Apple refers to the panel as a 4.5K[Retina display](https://www.lifewire.com/what-is-retina-display-2000362) , which translates to a resolution of 4480 x 2520 and a pixel density of 218ppi in terms of hard numbers.
 
  Colors also look fantastic, as the display covers the entire[DCI-P3 gamut](https://www.lifewire.com/what-is-true-tone-display-4048131) , and it’s quite bright as well. I found myself running it at about 60 percent most of the time, despite the big, south-facing windows in my office.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Performance: The M1 chip continues to impress
 
@@ -198,13 +176,6 @@ Lifewire/Jeremy Laukkonen
 
  In addition to Wi-Fi and wired connections, the M1 iMac also features[Bluetooth 5.0](https://www.lifewire.com/bluetooth-5-4160255) . The Bluetooth connection is primarily used to connect the Magic Keyboard and Magic Mouse 2, but I also used it with a pair of AirPods Pro and my Avantree Ario Podio headphones. Sound quality and range were both excellent thanks to the Bluetooth 5.0 support, and I was able to listen to music and podcasts throughout my house.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Camera: 1080P FaceTime camera
 
  The M1 iMac packs in a 1080P full HD[FaceTime](https://www.lifewire.com/what-is-facetime-2000237) camera that’s backed up by Apple’s M1 image signal processor. In practical terms, the camera turns in a uniformly decent image in a variety of light conditions—including low light where a lot of webcams really struggle. It’s a big improvement over the camera included with the MacBook Pro, although the image can look a bit soft or washed out in some lighting conditions.
@@ -219,6 +190,10 @@ Lifewire/Jeremy Laukkonen
 
  Photoshop and other popular apps are slated to eventually get M1 support, but I’ve found Rosetta 2 to deliver more than acceptable performance in the meantime.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s New: Apple’s M1 chip and a visual refresh
 
  The iMac (2021) has received a laundry list of changes and updates since the last entry in the line back in 2016\. The biggest news is the inclusion of Apple silicon in the form of the M1 chip, but that’s only the tip of the iceberg.
@@ -226,10 +201,7 @@ Lifewire/Jeremy Laukkonen
  The overall design of the M1 iMac has been significantly revamped. Colors are back, and it has a 24-inch display, increased from 21.5-inch, despite the overall form factor being very similar. The speakers, microphone, and camera have all received big improvements as well, with the camera having been updated from a mediocre 720p shooter to a full HD 1080p sensor backed up by advanced image processing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price: Expensive, but built to last
@@ -239,10 +211,7 @@ Lifewire/Jeremy Laukkonen
 ![Apple iMac M1 (2021)](https://www.lifewire.com/thmb/X35BpUO8w1Zk_PhNSA9TmEgvZpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iMacM12021_1-0dc585a074e64b749bea01aad82d498c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire/Jeremy Laukkonen
@@ -261,11 +230,19 @@ Lifewire/Jeremy Laukkonen
 
  The new iMac (M1, 2021) is a massive improvement over its predecessor, offering excellent performance, a beautiful Retina display, great sound, and a slick, colorful look. Power users who need more memory or a more powerful graphics chip may want to wait for an update to the iMac Pro line, but just about everyone else should be satisfied by this hardware.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple iMac 21.5-inch 4K](https://www.lifewire.com/apple-imac-21-5-inch-4k-review-4689108)
 * [Apple Mac mini (M1, 2020)](https://www.lifewire.com/mac-mini-m1-apple-review-5092828)
 * [Apple MacBook Air 13-inch (M1, 2020)](https://www.lifewire.com/macbook-air-13-inch-m1-2020-review-5092793)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -303,20 +280,22 @@ Lifewire/Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-help.techidaily.com/marvels-avengers-striking-a-note-between-greatness-and-mundanity/"><u>'Marvel's Avengers': Striking a Note Between Greatness and Mundanity</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-tips-for-iphones-hdr-images/"><u>[New] In 2024, Ultimate Tips for iPhone's HDR Images</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-dual-approach-mastering-two-point-of-view-techniques-in-your-youtube-reaction-video-content/"><u>[Updated] In 2024, The Dual Approach – Mastering Two-Point of View Techniques in Your YouTube Reaction Video Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-range-riffs-and-rhythms-in-free-fire/"><u>2024 Approved Free Range Riffs and Rhythms in Free Fire</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-your-perfect-mobile-companion-iphone-or-android/"><u>Choosing Your Perfect Mobile Companion: IPhone or Android?</u></a></li>
-<li><a href="https://discover-data.techidaily.com/ensuring-mobile-security-a-guide-to-verifying-the-safety-of-your-android-applications/"><u>Ensuring Mobile Security: A Guide to Verifying the Safety of Your Android Applications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/excellence-in-audio-leading-2024s-wired-earbuds-guide/"><u>Excellence in Audio: Leading 2024'S Wired Earbuds Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-excellence-on-screen-the-top-15-in-stop-motion-cinema/"><u>In 2024, Excellence on Screen The Top 15 in Stop Motion Cinema</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-insightful-names-in-virtual-reality-ventures/"><u>In 2024, Insightful Names in Virtual Reality Ventures</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-troubleshooting-solving-assassins-creed-odyssey-pc-game-crashes/"><u>Master Troubleshooting: Solving Assassin's Creed Odyssey PC Game Crashes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-speaker-face-off-unveiling-the-pros-of-google-assistant-and-alexa/"><u>Smart Speaker Face-Off: Unveiling the Pros of Google Assistant and Alexa</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-photoscape-evaluating-an-affordable-alternative-for-image-editing-needs/"><u>The Ultimate Guide to PhotoScape: Evaluating an Affordable Alternative for Image Editing Needs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-glion-dolly-electric-scooter-is-it-worth-the-high-cost/"><u>The Ultimate Guide: Glion Dolly Electric Scooter - Is It Worth the High Cost?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-blade-e-flite-mcx2-rtf-top-pick-for-ready-to-launch-rc-helicopters/"><u>Ultimate Guide to Blade E-Flite mCX2 RTF: Top Pick for Ready-to-Launch RC Helicopters</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aming-insiders-youtube-channels-you-should-see-for-2024/"><u>[New] Gaming Insiders' YouTube Channels You Should See for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-applications-facilitating-video-discussions/"><u>[Updated] Elite Applications Facilitating Video Discussions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ideal-marketplace-for-customized-box-masterpieces/"><u>[Updated] Ideal Marketplace For Customized Box Masterpieces</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-breaking-into-the-digital-realm-the-wirecast-approach-for-youtube-streamers/"><u>2024 Approved Breaking Into the Digital Realm The WireCast Approach for YouTube Streamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/argument-unveiling-the-merits-of-owning-an-ipad/"><u>Argument: Unveiling the Merits of Owning an iPad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-google-stadia-areas-of-growth-and-potential-upgrades/"><u>Assessing Google Stadia: Areas of Growth and Potential Upgrades</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/audio-faceoff-which-is-better-google-nest-or-apple-homepod/"><u>Audio Faceoff: Which Is Better, Google Nest or Apple HomePod?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-4k-android-tv-75-inch-caixun-comprehensive-product-review/"><u>Budget 4K Android TV 75 Inch Caixun - Comprehensive Product Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-android-tablets-compared-spotlight-on-the-lenovo-tab-4s-pros-and-cons/"><u>Budget Android Tablets Compared: Spotlight on the Lenovo Tab 4'S Pros and Cons</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/can-you-extend-a-notebooks-memory-capacity-easily/"><u>Can You Extend a Notebook’s Memory Capacity Easily?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/combining-protection-with-performance-discovering-bose-soundsport-frames/"><u>Combining Protection with Performance: Discovering Bose SoundSport Frames</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-criacr-bluetooth-fm-transmitter-cp2n-comprehensive-review-and-analysis/"><u>Compact CRIACR Bluetooth FM Transmitter (CP2n) - Comprehensive Review and Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertissez-vos-films-av-au-format-numerique-gratuitement-votre-guide-facile-par-movavi/"><u>Convertissez Vos Films AV Au Format Numérique Gratuitement – Votre Guide Facile Par Movavi.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-your-epson-xp-830-printers-required-drivers/"><u>How to Securely Download Your Epson XP-830 Printer's Required Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/konvertierung-zu-mp4-perfekt-fur-die-veroffentlichung-auf-instagram-schnelle-und-einfache-instagram-video-converter/"><u>Konvertierung Zu MP4: Perfekt Für Die Veröffentlichung Auf Instagram - Schnelle Und Einfache Instagram-Video-Converter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-time-management-secrets-organizing-your-twitter-calendar/"><u>Unlocking Time Management Secrets: Organizing Your Twitter Calendar</u></a></li>
 </ul></div>
 

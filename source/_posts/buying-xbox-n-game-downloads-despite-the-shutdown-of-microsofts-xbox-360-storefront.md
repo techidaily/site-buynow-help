@@ -1,7 +1,7 @@
 ---
 title: Buying Xbox N Game Downloads Despite the Shutdown of Microsoft's Xbox 360 Storefront
-date: 2024-12-02T10:56:48.356Z
-updated: 2024-12-03T11:02:46.377Z
+date: 2024-12-06T17:43:23.870Z
+updated: 2024-12-10T10:21:26.770Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Buying Xbox N Game Downloads Despite the Shutdown of Microsoft's Xbox 360 Storefront
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Backward Compatible game section on the Xbox One storefront.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox-one-store-backward-compatible.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here, you'll find every digital game that works on the Xbox 360 and later consoles. If you plan to install any of these games on an Xbox 360, be sure to purchase them with an account that's also attached to a 360.
@@ -44,7 +48,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A screenshot of Xbox.com with a filter for "Xbox 360" circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox-website-360-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you find a game you want, purchase it with the same account you use on your Xbox 360\. This will attach the digital game to your account, allowing you to play it on the Xbox 360, Xbox One, or Xbox Series X|S.
@@ -58,23 +62,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The settings page of the Xbox 360 dashboard with "Account" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-settings.JPG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will open the Account Management menu. From here, scroll down and select "Download History" under the "Your Billing Options" menu.
 
 ![The Xbox 360 Account Management screen with "Download History" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-account.JPG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your download history will provide a complete list of every game or demo you have purchased that works on an Xbox 360\. At the top of this list will be your most recent purchases, which is where you'll find the digital games you have bought from the other Xbox storefronts. Select the title you wish to download onto the console, then select "Download Again." This will begin the download process.
 
 ![The download screen for BattleBlock Theater on the Xbox 360, with "Download Again" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-digital-download.JPG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once your game is finished downloading, you can finally play it on your Xbox 360.
@@ -106,20 +106,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-strategic-social-sharing-master-facebook-story-linking-for-2024/"><u>[New] Strategic Social Sharing Master Facebook Story Linking for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-professionals-picks-selecting-the-best-software-for-live-streamsvmix-or-wirecast/"><u>2024 Approved Professionals' Picks Selecting the Best Software for Live Streams—VMix or Wirecast?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streaming-showdown-obs-vs-twitch-studio/"><u>2024 Approved Streaming Showdown OBS vs Twitch Studio</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-spacious-acer-chromebook-15-an-overview-for-potential-buyers/"><u>Comprehensive Review of the Spacious Acer Chromebook 15: An Overview for Potential Buyers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-why-the-philips-somneo-is-a-market-leading-alarm-clock/"><u>Comprehensive Review: Why the Philips Somneo Is a Market-Leading Alarm Clock</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-test-of-the-kootek-device-for-laptop-temperature-control-a-robust-and-efficient-choice/"><u>Comprehensive Test of the Kootek Device for Laptop Temperature Control: A Robust and Efficient Choice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/create-program-and-learn-with-the-makeblock-mbot-robot-kit-a-complete-product-assessment-and-user-guide/"><u>Create, Program & Learn with the Makeblock mBot Robot Kit: A Complete Product Assessment and User Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/deciphering-the-disparity-between-echo-pop-and-echo-dot-devices/"><u>Deciphering the Disparity Between Echo Pop and Echo Dot Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/digital-vs-physical-books-the-case-for-kindles/"><u>Digital Vs. Physical Books: The Case for Kindles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-leading-vertical-computer-mice-innovations/"><u>Discover the Leading Vertical Computer Mice Innovations</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/effizientes-reinigen-des-winsxs-verzeichnisses-vier-strategien-und-ein-wichtiger-ratschlag/"><u>Effizientes Reinigen Des WinSXS-Verzeichnisses: Vier Strategien Und Ein Wichtiger Ratschlag</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-secure-wireless-driver-for-your-computer-with-tp-link/"><u>Get Secure Wireless Driver for Your Computer with TP Link</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-battle-against-bugs-resolving-stability-problems-with-outpost-infinity-siege-on-pc/"><u>Master the Battle Against Bugs: Resolving Stability Problems with Outpost: Infinity Siege on PC</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-add-wonderful-old-school-feeling-distortion-and-glitch-effects-to-your-video-with-vhs-effect-read-this-article-to-learn-about-the-best-and-popular-metho/"><u>New Add Wonderful Old-School Feeling, Distortion, and Glitch Effects to Your Video with VHS Effect. Read This Article to Learn About the Best and Popular Methods to Add VHS Effects to Your Videos in a Few Minutes for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-how-to-remove-audio-from-mp4/"><u>Updated In 2024, How to Remove Audio From MP4</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-clandestine-snaps-stealthy-image-recording-hacks-for-snapchat-for-2024/"><u>[New] Clandestine Snaps Stealthy Image Recording Hacks for Snapchat for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>[Updated] In 2024, Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-top-router-security-systems-with-built-in-parent-controls-year-2024-edition/"><u>Comprehensive Review of Top Router Security Systems with Built-In Parent Controls (Year 2024 Edition)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-zmi-powerpack-20000-analysis-your-ultimate-portable-energy-solution/"><u>Comprehensive ZMI PowerPack 20000 Analysis - Your Ultimate Portable Energy Solution!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deciding-between-samsungs-new-titans-galaxy-s24-ultra-and-s23-ultra-reviewed/"><u>Deciding Between Samsung's New Titans: Galaxy S24 Ultra and S23 Ultra Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-world-with-canons-elegant-powershot-g9-x-ii-review/"><u>Discovering the World with Canon's Elegant PowerShot G9 X II Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi Redmi Note 13 Pro+ 5G?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-flight-stability-best-gimbals/"><u>In 2024, Innovative Flight Stability Best Gimbals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/incorporating-industry-standards-working-with-cg-centrals-luts-in-post-production/"><u>Incorporating Industry Standards Working with CG Central's LUTs in Post-Production</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-code-4-spotify-error-on-w10w11-systems/"><u>Overcoming the Code 4 Spotify Error on W10/W11 Systems</u></a></li>
 </ul></div>
 

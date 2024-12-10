@@ -1,7 +1,7 @@
 ---
 title: "Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective"
-date: 2024-12-02T01:54:22.227Z
-updated: 2024-12-02T16:15:46.601Z
+date: 2024-12-07T03:47:45.977Z
+updated: 2024-12-10T08:33:19.612Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 ## Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Highlights
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
  The PlayStation 2 had no shortage of games that ran at a smooth 60fps, but for the console generations that followed, this performance figure became rather scarce. Why did hitting that magic 60fps mark become so difficult and rare?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The HD Era
 
  The PlayStation 3 and Xbox 360 heralded the era of 720p and 1080p games. Taking advantage of a new generation of TVs, the amount of detail in games shot up dramatically. Unfortunately, the more pixels you have, the more GPU memory and bandwidth you need, and rendering each frame takes much more processing power even without all the new eye-candy.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 ![Sony PlayStation 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Sony-PlayStation-3-large.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Sony_
@@ -47,6 +43,10 @@ _Sony_
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Most people think of GPU performance when it comes to frame rates, but the CPU plays an equally important role. It handles all the game mechanics under the hood, and the GPU depends on the results of physics calculations, or information about what the AI characters are doing in order to render the scene. If the CPU can't provide that information fast enough to draw 60 frames a second, then it doesn't matter how fast the GPU is.
@@ -56,7 +56,7 @@ Tim Brookes / How-To Geek
  These consoles had GPUs that had no problems giving us a consistent 30fps experience in most cases, but their CPUs were essentially weak power-efficient laptop components that really struggled to go beyond the 30fps mark. This is why when the PlayStation 4 Pro and Xbox One X consoles were released with significantly upgraded GPUs, developers could only increase graphical fidelity, but not frame rate. Even with a mild increase in clock speed, the CPUs in the half-generation refreshed consoles just couldn't muster faster frames.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pushing for Nicer Screenshots
@@ -80,7 +80,7 @@ Cianna Garrison / How-To Geek
  Apart from a few vocal people on gaming forums and platforms like X (formerly Twitter), it's not clear that the typical console gamer really cares about frame rate at all. While a cool-looking trailer or screenshots will impress prospective buyers, 60fps gameplay doesn't seem to move the needle much. With the current generation of consoles, console gamers do seem a little more aware of 60fps and its benefits, but quite a few games have 60fps modes that compromise the visuals far too much to actually play them that way.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  We’re Back to 30FPS Again.
@@ -102,19 +102,22 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-androids-very-own-podcasters/"><u>[New] Android's Very Own Podcasters</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-essential-elements-creating-striking-podcast-covers/"><u>[Updated] 2024 Approved Essential Elements Creating Striking Podcast Covers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-quick-tips-eradicate-online-ads-from-your-feed/"><u>[Updated] 2024 Approved Quick Tips Eradicate Online Ads From Your Feed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-and-functional-fitbit-versa-smartwatch-review/"><u>Affordable and Functional Fitbit Versa Smartwatch Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/compact-and-efficient-ourlink-u631-wireless-usb-wi-fi-adapter-top-rated-performance/"><u>Compact & Efficient Ourlink U631 Wireless USB Wi-Fi Adapter - Top Rated Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-the-benefits-and-features-of-linksyss-wrt1900acs-open-source-router-unveiled/"><u>Comprehensive Assessment: The Benefits & Features of Linksys's WRT1900ACS Open Source Router Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-ipad-vs-kindle-vs-nook-which-tablet-readers-reign-supreme/"><u>Comprehensive Review: IPad Vs. Kindle Vs. Nook - Which Tablet Readers Reign Supreme?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-conversations-creating-personalized-chatgpt/"><u>Intelligent Conversations: Creating Personalized ChatGPT</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/t-from-youtube-monetize-youtube-shorts-and-boost-your-income-for-2024/"><u>Profit From YouTube Monetize YouTube Shorts and Boost Your Income for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resolving-issues-with-pvpnets-stalled-kernel-update/"><u>Quick Fix Guide: Resolving Issues with PvP.net's Stalled Kernel Update</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722998098327-reliable-performance-unveiling-the-ultimate-portability-of-dbpowers-newest-jump-starter-rated-at-6000mah-experts-reviews/"><u>Reliable Performance: Unveiling the Ultimate Portability of DBPOWER's Newest Jump Starter, Rated at 6000mAh - Experts Reviews</u></a></li>
-<li><a href="https://article-files.techidaily.com/snapshot-surge-pro-high-quality-mobile-images-with-zero-cost/"><u>Snapshot Surge Pro High-Quality Mobile Images with Zero Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-non-functioning-voice-communication-in-valorant/"><u>Solving the Issue of Non-Functioning Voice Communication in Valorant</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/withings-move-review/"><u>Withings Move Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-maximizing-your-camera-masterful-android-time-lapse-videography/"><u>[New] 2024 Approved Maximizing Your Camera Masterful Android Time-Lapse Videography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-selecting-the-right-video-subscription-plan-at-vimeo/"><u>[New] Selecting the Right Video Subscription Plan at Vimeo</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-masterclass-in-youtube-video-previews-and-trailers-for-2024/"><u>[Updated] Masterclass in YouTube Video Previews and Trailers for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/50-video-doorbell-showdown-see-how-the-iseebell-stacks-up/"><u>$50 Video Doorbell Showdown: See How the ISeeBell Stacks Up!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-record-google-hangout-4-solutions/"><u>2024 Approved Record Google Hangout [4 Solutions]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oppo-a78-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Oppo A78 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-beginners-roadmap-for-testing-pages-online-before-making-them-publicly-accessible/"><u>A Beginner’s Roadmap for Testing Pages Online Before Making Them Publicly Accessible</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/acer-aspire-c27-streamlined-design-meets-complete-functionality-in-one/"><u>Acer Aspire C27: Streamlined Design Meets Complete Functionality in One</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-elegance-motorola-one-vs-iphone-a-comparative-review/"><u>Affordable Elegance: Motorola One Vs. IPhone - A Comparative Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-the-frustration-of-game-freezes-by-overcoming-10-common-problems/"><u>Avoid the Frustration of Game Freezes by Overcoming 10 Common Problems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/content-delivery-network-examination/"><u>Content Delivery Network Examination</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-nubia-red-magic-9-pro-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Nubia Red Magic 9 Pro PIN</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nokia-130-music-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nokia 130 Music to iPod | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723061237622-lgs-latest-marvel-the-c9-smart-tv-a-dream-vision-for-tech-addicts-and-cinema-buffs/"><u>LG's Latest Marvel: The C9 Smart TV – A Dream Vision for Tech Addicts and Cinema Buffs!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-distinctions-ipad-vs-ipad-air-a-comprehensive-guide/"><u>Unveiling the Distinctions: IPad Vs. IPad Air – A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-fun-in-depth-look-at-the-maisto-rc-rock-crawler-perfect-for-families/"><u>Unveiling the Fun - In-Depth Look at the Maisto RC Rock Crawler, Perfect for Families</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-nokia-7/"><u>Unveiling the Nokia 7.</u></a></li>
 </ul></div>
 

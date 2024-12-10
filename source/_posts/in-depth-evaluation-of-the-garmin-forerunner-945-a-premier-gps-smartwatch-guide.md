@@ -1,7 +1,7 @@
 ---
 title: "In Depth Evaluation of the Garmin Forerunner 945: A Premier GPS Smartwatch Guide"
-date: 2024-09-12T17:16:33.000Z
-updated: 2024-09-14T22:29:27.971Z
+date: 2024-12-03T10:39:48.175Z
+updated: 2024-12-10T10:20:49.673Z
 categories:
   - BestProducts
 description: "This Article Describes In Depth Evaluation of the Garmin Forerunner 945: A Premier GPS Smartwatch Guide"
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Mohu Leaf 30
 
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/AyUAqIhKcHESYKlEswC1pUtS1Po=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -37,9 +45,17 @@ Lifewire / Jonno Hill
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Mohu Leaf 30
 
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/xXK31GRLX2h6w0vFc9K2Ps_ufqk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -74,19 +90,6 @@ Lifewire / Jonno Hill
 
  Setup of the Mohu Leaf 30 TV Antenna is as easy as it gets with antennas. Since there is no external power to connect, you only need to worry about connecting the included coaxial cable to the device and to your TV and using the included pins or adhesive tabs to affix the device to a surface. Ease of setup is one of the benefits of a non-amplified antenna such as the Mohu Leaf.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Acceptable but not incredible**
 
  The Mohu Leaf 30 TV Antenna wasn’t the highest performing antenna that I tested, even among similar unpowered antennas. In my channel acquisition test, the Leaf picked up 56 channels on average across all the iterations performed.
@@ -94,16 +97,7 @@ Lifewire / Jonno Hill
  My apartment is located within city limits and doesn’t provide too much of a challenge for antennas, but I was able to reliably get as many as 76 channels from other devices. Nonetheless, the Leaf still provided a clear picture of all the major network stations without any issue. The only channels that I couldn’t pick up with the Leaf were pretty obscure, such as an audio-only station from a Korean Christian church. I think I’ll be okay without that one.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Range: Fairly limited**
@@ -150,5 +144,21 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-12-leading-free-video-viewing-apps-for-loving-watchers-worldwide/"><u>[New] 12 Leading Free Video Viewing Apps for Loving Watchers Worldwide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-essential-tips-for-creating-compelling-free-ads-on-youtube/"><u>[New] In 2024, Essential Tips for Creating Compelling Free Ads on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-time-stamping-your-photos/"><u>[New] In 2024, The Ultimate Guide to Time-Stamping Your Photos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-a-guide-to-free-you-from-youtubes-extra-bar-width/"><u>[Updated] 2024 Approved A Guide to Free You From YouTube's Extra Bar Width</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/advanced-review-of-kooteks-cooling-pad-for-enhanced-computing-comfort/"><u>Advanced Review of Kootek's Cooling Pad for Enhanced Computing Comfort</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-monoprice-drawing-pad-assessment-excellent-quality-without-breaking-the-bank/"><u>Affordable Monoprice Drawing Pad Assessment: Excellent Quality without Breaking the Bank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-acer-chromebook-r-11-elegant-design-meets-portability/"><u>In-Depth Analysis of the Acer Chromebook R 11: Elegant Design Meets Portability</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212456673-resolve-your-overwatch-audio-glitches-instantly/"><u>Resolve Your Overwatch Audio Glitches Instantly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/skys-the-limit-with-dji-mavic-3-an-ultimate-aerial-photography-showdown/"><u>Sky's the Limit with DJI Mavic 3: An Ultimate Aerial Photography Showdown</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-reimagines-mac-12v-data-retrieval-software/"><u>Stellar Reimagines Mac 12v Data Retrieval Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-experiencing-the-conjuring-movies-in-correct-chronological-order/"><u>Step-by-Step: Experiencing 'The Conjuring' Movies in Correct Chronological Order</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-benq-displays-unmissable-savings-during-prime-shopping-event/"><u>Top-Rated BenQ Displays: Unmissable Savings During Prime Shopping Event</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lg-stylo-6-a-fusion-of-style-and-precision-thanks-to-its-integrated-stylus/"><u>Unveiling the LG Stylo 6: A Fusion of Style and Precision Thanks to Its Integrated Stylus</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/effektivnye-sposoby-migracii-fajlov-s-zhestkogo-diska-na-ssd-pri-ispolzovanii-windows-11/"><u>Эффективные Способы Миграции Файлов С Жесткого Диска На SSD При Использовании Windows 11</u></a></li>
+</ul></div>
 

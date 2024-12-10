@@ -1,7 +1,7 @@
 ---
 title: Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
-date: 2024-11-28T22:19:48.782Z
-updated: 2024-12-03T02:32:34.434Z
+date: 2024-12-09T06:45:15.830Z
+updated: 2024-12-10T08:08:36.002Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Steam’s latest clicker game sensation has users trading virtual bananas on the Steam Community Market for hundreds of real-world dollars. Just what is going on?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  This Game Is Bananas
@@ -36,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A virtual banana from the Banana game on Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ss_641d6402187d5335b1e345498f0eff293a054f75-1920x1080.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pony / Sky / AestheticSpartan
@@ -46,7 +46,7 @@ Pony / Sky / AestheticSpartan
  These in-game items may be given out for free, but they can be traded on the Steam Community Market for real money. You can buy and sell bananas from as little as a few cents up to hundreds or thousands of dollars. The rarer the banana, the higher the value the community has assigned to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's Really Going On Here?
@@ -58,7 +58,7 @@ Pony / Sky / AestheticSpartan
 ![The free-to-play Banana game in third place on the Steam charts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-12-at-12-32-52.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s still a bit of a mystery what’s really going on here. The game makes no claims that in-game items have any inherent value so on the surface, Banana seems innocent enough. The game doesn’t appear to be doing anything in the background (so it’s not a stealthy crypto miner), and you don’t even need to leave it open as long as you open it regularly for a few clicks to collect your fruit.
@@ -88,19 +88,22 @@ Pony / Sky / AestheticSpartan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>[New] 2024 Approved Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-enhancements-in-windows-11-unveiled/"><u>[New] In 2024, The Enhancements in Windows 11 Unveiled</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-exploring-innovative-metaverse-memes-a-beginners-roadmap-for-2024/"><u>[Updated] Exploring Innovative Metaverse Memes A Beginner's Roadmap for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-learn-how-to-add-descriptive-texts-to-your-youtube-videos/"><u>[Updated] In 2024, Learn How to Add Descriptive Texts to Your YouTube Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-market-opening-innovations/"><u>2024 Approved Market-Opening Innovations</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/4-best-websites-for-downloading-skype-ringtone-for-2024/"><u>4 Best Websites For Downloading Skype Ringtone for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conversational-openers-starting-conversations-in-china/"><u>Conversational Openers: Starting Conversations in China</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-apc-back-ups-be600m1-powerful-portable-surge-protector-with-integrated-mobile-device-charging/"><u>Review of APC Back-UPS BE600M1 - Powerful Portable Surge Protector with Integrated Mobile Device Charging</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reviewing-the-latest-amazon-fire-hd-8-gen-8-tablet-exceptional-entry-level-performance-at-a-fair-cost/"><u>Reviewing the Latest Amazon Fire HD 8 Gen 8 Tablet: Exceptional Entry-Level Performance at a Fair Cost</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revisiting-sound-quality-with-logitech-g533-review/"><u>Revisiting Sound Quality with Logitech G533 Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-breakdown-of-gaomon-pd1560s-performance-as-your-next-digital-canvas-a-detailed-analysis/"><u>The Complete Breakdown of Gaomon PD1560's Performance as Your Next Digital Canvas: A Detailed Analysis.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-companion-djis-robomaster-s1-an-exciting-mix-of-drone-flight-coding-adventures-and-interactive-battles/"><u>The Ultimate Companion: DJI's RoboMaster S1 – An Exciting Mix of Drone Flight, Coding Adventures & Interactive Battles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner-265-tracking-training-and-more/"><u>The Ultimate Guide to the Garmin Forerunner 265 - Tracking, Training & More!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-43-unbeatable-sams-club-offers-this-season-score-roomba-samsung-hp-garmin-discounts-and-beyond-exclusive-insights-from-zdnet/"><u>Top 43 Unbeatable Sam's Club Offers This Season: Score Roomba, Samsung, HP, Garmin Discounts & Beyond - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-finding-the-ideal-media-player-vlc-versus-mx-player/"><u>[New] Finding the Ideal Media Player VLC versus MX Player</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-expert-psd-borderline-elegance/"><u>[Updated] Expert PSD Borderline Elegance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-digital-revolution-integrating-dslr-into-online-platforms-from-home-pcsmacs/"><u>[Updated] In 2024, Digital Revolution Integrating DSLR Into Online Platforms From Home PCs/Macs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-portable-battery-packs-to-keep-recording-longer/"><u>[Updated] Portable Battery Packs to Keep Recording Longer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-success-stories-of-gaming-geeks/"><u>[Updated] Streaming Success Stories of Gaming Geeks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-setting-sail-on-the-content-sea-your-youtube-account/"><u>2024 Approved Setting Sail on the Content Sea Your YouTube Account</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-to-know-teac-pd-301-sleek-superior-audio/"><u>Get to Know Teac PD-301: Sleek, Superior Audio</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-soundscout-audio-critique-adventure/"><u>In 2024, SoundScout Audio Critique Adventure</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-secret-language-of-success-top-20-market-phrases/"><u>In 2024, The Secret Language of Success - Top 20 Market Phrases</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/linksys-wrt1900acs-open-source-wi-fi-router-review/"><u>Linksys WRT1900ACS Open Source Wi-Fi Router Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-wi-fi-experience-with-synology-rt2600ac-exceptional-reach-and-parental-control-capabilities-explored/"><u>Maximize Your Wi-Fi Experience with Synology RT2600ac – Exceptional Reach and Parental Control Capabilities Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigate-the-stars-an-in-depth-analysis-of-star-wars-squadrons-interactive-arenas/"><u>Navigate the Stars: An In-Depth Analysis of 'Star Wars: Squadrons' Interactive Arenas</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/owc-mercury-pro-external-usb-31-gen-1-optical-drive-review/"><u>OWC Mercury Pro External USB 3.1 Gen 1 Optical Drive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-apcs-be600m1-revolutionary-battery-backup-with-superior-usb-charger-capability/"><u>Review of APC's BE600M1 - Revolutionary Battery Backup with Superior USB Charger Capability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-roadside-emergencies-with-the-halo-bolt-portable-chargerjump-starter-a-thorough-product-assessment/"><u>Revolutionize Your Roadside Emergencies with the Halo Bolt Portable Charger/Jump Starter: A Thorough Product Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-city-commutes-an-in-depth-look-at-mods-easy-sidecar-e-bike/"><u>Revolutionizing City Commutes: An In-Depth Look at Mod's Easy Sidecar E-Bike</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/software-tinkering-patches-versus-comprehensive-upgrades/"><u>Software Tinkering: Patches Versus Comprehensive Upgrades</u></a></li>
 </ul></div>
 

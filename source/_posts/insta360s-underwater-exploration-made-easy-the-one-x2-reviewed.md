@@ -1,7 +1,7 @@
 ---
 title: Insta360's Underwater Exploration Made Easy - The One X2 Reviewed
-date: 2024-09-09T06:24:21.300Z
-updated: 2024-09-15T07:43:11.280Z
+date: 2024-12-06T07:50:42.248Z
+updated: 2024-12-09T23:03:11.439Z
 categories:
   - BestProducts
 description: This Article Describes Insta360's Underwater Exploration Made Easy - The One X2 Reviewed
@@ -13,9 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/ZSPG6uZDhit_U84RypZ4iQCpX3M=/400x300/fi
 
 4.9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Jaco SmartPro Digital Tire Inflator Pump
 
 ![Jaco SmartPro Digital Tire Inflator](https://www.lifewire.com/thmb/Zen4KJ79dgFOiAoxcIwd-DLRfas=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/JacoTireInflator_HeroSquare-3363a32b2cad4c91b4662ed6f6a93ce1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -37,6 +45,10 @@ Lifewire / Jeffrey Daniel Chadwick
 [View On Amazon](https://www.amazon.com/JACO-SmartPro-Digital-Tire-Inflator/dp/B015VXWZ9O/?tag=lifewire-onsite-prod-20&ascsubtag=4776811%7Cnab7c8e5e1f6e4fd2a2938251a6b78a9604%7CB015VXWZ9O)
 
 4.9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Jaco SmartPro Digital Tire Inflator Pump
 
@@ -88,6 +100,10 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Up and running in less than three minutes**
 
  Jaco provides a brief, but informative user manual tucked in the carrying case. Despite how intuitive this pump is to use, you should take five minutes to read the whole thing. During testing, we timed how long it takes to get out of your driver’s seat, retrieve the pump from the trunk, connect it to power, attach it to an under-inflated tire, set the pressure and start the pump. On average, the whole process took about 1 minute, 30 seconds.
@@ -110,13 +126,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  That also shouldn’t be an issue because the pump automatically cycles down after 30 minutes of continuous use, and you’ll have to wait until it cools down to use it again. This shouldn't be a problem, since you can conceivably fill all four of your car’s tires in under 10 minutes. You’d have to inflate something exceptionally large to run this pump for that long.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: On the expensive end, but worth it for the peace of mind**
 
  With a list price of $90, this is the most expensive portable tire inflator we tested, but it’s typically on sale for half the price. That makes it more reasonable, especially if you need a portable compressor but are really tight on space. Or if you want to ensure maximum safety and visibility at night. But it certainly isn’t a budget model like the Audew Portable Air Compressor Pump.
@@ -136,16 +145,7 @@ Lifewire / Jeffrey Daniel Chadwick
  The Jaco SmartPro Digital Tire Inflator is a great addition to the jumper cables and triangle reflectors in your trunk. Its focus on safety, portability, and accuracy makes it very attractive for people looking to be prepared, and you can usually find it on sale for a reasonable price.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -172,5 +172,23 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-10-video-making-apps-iphone-android-edition/"><u>[New] In 2024, Top 10 Video-Making Apps IPhone, Android Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-sites-for-high-end-vector-graphics/"><u>[Updated] Top 10 Sites for High-End Vector Graphics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-ideal-tablet-amazon-fire-vs-ipad/"><u>Choosing Your Ideal Tablet: Amazon Fire Vs. IPad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-powerhouse-unveiled-exploring-the-raspberry-pi-400-keyboard-pc/"><u>Compact Powerhouse Unveiled: Exploring the Raspberry Pi 400 Keyboard PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/kid-friendly-tablets-reviewed-and-endorsed-by-parents-featured-on-zdnet/"><u>Kid-Friendly Tablets Reviewed & Endorsed by Parents, Featured on ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723077426560-minecraft-user-manual-the-best-all-age-sandbox-experience-ever/"><u>Minecraft User Manual: The Best All-Age Sandbox Experience Ever!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgear-powerline-1200-review-chunky-design-overwhelms-speed/"><u>Netgear Powerline 1200 Review: Chunky Design Overwhelms Speed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-virtual-marketplaces-the-10-cutest-wrapped-delights-for-2024/"><u>Premier Virtual Marketplaces The 10 Cutest Wrapped Delights for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/razer-laptop-review-the-compact-beast-unleashed/"><u>Razer Laptop Review - The Compact Beast Unleashed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-power-inverter-models-comprehensive-review/"><u>Top Rated Power Inverter Models - Comprehensive Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-no-more-freezing-during-your-ffxiv-online-adventures/"><u>Troubleshooting Guide: No More Freezing During Your FFXIV Online Adventures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-perfect-union-of-tradition-and-innovation-in-the-skagen-falster-3-watch-review/"><u>Unveiling the Perfect Union of Tradition and Innovation in the Skagen Falster 3 Watch Review</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-from-zero-to-hero-top-10-free-and-paid-android-video-editing-apps/"><u>Updated 2024 Approved From Zero to Hero Top 10 Free and Paid Android Video Editing Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+</ul></div>
 

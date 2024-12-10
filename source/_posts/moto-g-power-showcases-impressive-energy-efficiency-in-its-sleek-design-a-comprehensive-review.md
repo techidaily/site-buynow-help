@@ -1,7 +1,7 @@
 ---
 title: "Moto G Power Showcases Impressive Energy Efficiency in Its Sleek Design: A Comprehensive Review"
-date: 2024-09-11T06:34:04.413Z
-updated: 2024-09-14T20:12:51.611Z
+date: 2024-12-05T18:54:27.875Z
+updated: 2024-12-10T01:37:50.607Z
 categories:
   - BestProducts
 description: "This Article Describes Moto G Power Showcases Impressive Energy Efficiency in Its Sleek Design: A Comprehensive Review"
@@ -63,6 +63,10 @@ Lifewire / Jonno Hill
 
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/AbdriPZwiRfd8iHxT9N5E6Ae2hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_03-d434cf7b4c5f4f73b08c8c220fd0d43e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 ## **Design: Inoffensive but unexceptional**
@@ -78,10 +82,7 @@ Lifewire / Jonno Hill
  Luckily the ClearStream Eclipse Antenna comes with a 12ft coaxial cable, so next simply attach the cable to both the antenna and your TV. Make sure to run a channel scan first for best results.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Above average**
@@ -95,10 +96,7 @@ Lifewire / Jonno Hill
 ![ClearStream Eclipse Antenna](https://www.lifewire.com/thmb/i57THpEHitQ6h-N5c-bgGLEHwJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4078201-AntennasDirect_TVAntennas_Eclipse_04-6ea1dbbe93374539876c7e76dcebb18e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
@@ -108,10 +106,7 @@ Lifewire / Jonno Hill
  The ClearStream Eclipse Antenna lands at an MSRP of $40, putting it towards the high end of the price spectrum, especially where non-powered antennas are concerned. It did do one of the best jobs of supporting as many channels as possible, so the price is somewhat justified. Then again, every single one of the indoor antennas I’ve tested was able to handle the major network channels clearly and without issue, so a high channel number might not mean more than peace of mind in practical terms.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **ClearStream Eclipse Antenna vs Winegard FL5500A FlatWave Antenna**
@@ -123,6 +118,10 @@ Lifewire / Jonno Hill
 **The best unpowered indoor antenna.**
 
  The ClearStream Eclipse is one of the best options for buyers looking for a new indoor antenna. It performed better than a lot of the competition, despite being far simpler. Budget shoppers have other cheaper options to consider, but this one is perhaps the best combination of price, performance, and ease-of-use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -149,5 +148,26 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-online-presence-how-to-flawlessly-transmit-upside-down-videos-on-youtube/"><u>[New] 2024 Approved Elevating Online Presence How to Flawlessly Transmit Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-erase-effortlessly-social-media-live-on-desktop-and-phone/"><u>[New] Erase Effortlessly Social Media Live on Desktop & Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finns-fiscal-flow-income-insights-from-youtube-icon/"><u>[New] Finn's Fiscal Flow Income Insights From YouTube Icon</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-hasten-artistic-touch-ups-on-windows-10-photos/"><u>[New] Hasten Artistic Touch-Ups on Windows 10 Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-powerdirector-elite-edition-review-the-ultimate-2024/"><u>[New] PowerDirector Elite Edition Review - The Ultimate 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-turning-talk-into-top-tier-podcasts-writing-and-samples-included/"><u>[Updated] Turning Talk Into Top-Tier Podcasts Writing & Samples Included</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/are-you-still-using-the-netgear-c3000-heres-why-it-may-be-past-its-prime/"><u>Are You Still Using the Netgear C3000? Here's Why It May Be Past Its Prime</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-vivobook-11-review-small-affordable-all-around-laptop/"><u>Asus Vivobook 11 Review: Small, Affordable, All-Around Laptop</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crafting-stories-the-ultimate-youtube-channel-list-for-2024/"><u>Crafting Stories - The Ultimate YouTube Channel List for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hands-on-with-mods-new-easy-sidecar-e-bike/"><u>Hands-On With Mod’s New Easy Sidecar E-Bike</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-watch-stunning-looks-meet-cutting-edge-technology/"><u>In-Depth Analysis of the Samsung Galaxy Watch: Stunning Looks Meet Cutting Edge Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-samsungs-un65ru8000fxza-combining-aesthetics-and-intelligence/"><u>In-Depth Evaluation of Samsung's UN65RU8000FXZA - Combining Aesthetics and Intelligence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-new-chromecast-with-google-tv-a-rival-to-amazons-firetv/"><u>In-Depth Look at the New Chromecast with Google TV - A Rival to Amazon's FireTV?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-viber-out-the-best-for-international-calls-an-in-depth-review/"><u>Is Viber Out the Best for International Calls? An In-Depth Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lens-legends-6-choices-the-finest-4k-dslrs-revealed/"><u>Lens Legends' 6 Choices The Finest 4K DSLRs Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-apple-books-software-a-thorough-critique-and-analysis/"><u>The Apple Books Software: A Thorough Critique and Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-linksys-ea85-router-seamlessly-directing-traffic-among-your-electronics/"><u>Unveiling the Power of Linksys EA8ˈ5 Router: Seamlessly Directing Traffic Among Your Electronics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unwinding-film-narratives-the-art-of-reversing-on-instagram-for-2024/"><u>Unwinding Film Narratives The Art of Reversing on Instagram for 2024</u></a></li>
+</ul></div>
 

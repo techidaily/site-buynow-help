@@ -1,7 +1,7 @@
 ---
 title: In Depth Review of Midland's LXT500VP3 Handheld Radios – Packed with Features but Questionable Performance
-date: 2024-09-13T05:42:13.270Z
-updated: 2024-09-15T02:10:36.001Z
+date: 2024-12-02T23:48:23.049Z
+updated: 2024-12-10T09:39:48.890Z
 categories:
   - BestProducts
 description: This Article Describes In Depth Review of Midland's LXT500VP3 Handheld Radios – Packed with Features but Questionable Performance
@@ -35,6 +35,10 @@ Lifewire / Jordan Oloman
 [View On Amazon $93](https://www.amazon.com/NETGEAR-PowerLINE-1200-Gigabit-PL1200-100PAS/dp/B00S6DBGJM/?tag=lifewire-onsite-prod-20&ascsubtag=4775706%7Cnd7ef9f90fead488fa5331864dc7d135e18%7CB00S6DBGJM) [View On Walmart $95](https://www.walmart.com/ip/POWERLINE-1200/45611933) [View On Best Buy $48](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-powerline-ac1200-gigabit-ethernet-adapter-2-pack-white%2F4002029.p%3FskuId%3D4002029)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Netgear Powerline PL1200
 
@@ -80,6 +84,10 @@ Lifewire / Jordan Oloman
 
 ![Netgear Powerline 1200](https://www.lifewire.com/thmb/LMrQEcpONDZxLUfoMW6U8sX4dQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_Powerline1000_02-a8557f722ac84f29b6efb2a763d22a3c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jordan Oloman
 
 ## **Setup Process: Delightfully quick and efficient**
@@ -96,14 +104,11 @@ Lifewire / Jordan Oloman
 
 ![Netgear Powerline 1200](https://www.lifewire.com/thmb/LvSmrJJnFItVzQEAPCzBexfSn2M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_Powerline1000_03-8fb5af44f82449b49fc780fd23bcb2af.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jordan Oloman
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: A solid improvement**
 
@@ -118,15 +123,16 @@ Lifewire / Jordan Oloman
  You can create a secure and powerful network that boasts a dramatic upgrade in efficacy, all for a low price point, with a setup process that is actually plug and play.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Affordable for what you get**
 
  Out of the adapters we tested, the Netgear Powerline 1200 was one of the cheaper ones on Amazon, ranging between $70-$85\. You can see why when you study the design and the many aesthetic flaws that come with this product. Besides the fact it is bulky and doesn’t play nice with other plugs, it’s a reliable means to improve your home network through the wonders of Powerline. It’s still quite a hard sell at this price compared to other products that hover around the same and offer more ports and socket functionality, but it’s still a worthwhile purchase if you just want to plug and play.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Netgear Powerline 1200 vs. TP-Link AV2000 Powerline Adapter**
 
@@ -164,5 +170,18 @@ Lifewire / Jordan Oloman
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-codec-clash-determining-the-leader-in-video-quality/"><u>[Updated] Codec Clash Determining the Leader in Video Quality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-plan-uniting-instagram-and-tiktok-platforms/"><u>2024 Approved Master Plan Uniting Instagram & TikTok Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-streamline-your-youtube-productions-with-pc-editing-techniques/"><u>2024 Approved Streamline Your YouTube Productions with PC Editing Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-crucial-blunders-every-windows-11-novice-must-avoid/"><u>7 Crucial Blunders Every Windows 11 Novice Must Avoid</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/blueear-bluetooth-beanie-unveiled-stylish-headgear-with-high-sound-performance-reviewed/"><u>Blueear Bluetooth Beanie Unveiled: Stylish Headgear with High Sound Performance Reviewed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/darktable-free-os-x-and-linux-raw-photo-converter/"><u>Darktable – Free OS X and Linux RAW Photo Converter</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/free-guide-to-windows-desktop-captures-and-recordings/"><u>Free Guide to Windows Desktop Captures & Recordings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-x50-gt-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor X50 GT Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-11-pro-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 11 Pro Without Passcode Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/owc-mercury-pro-review-solid-drive-with-best-in-class-performance/"><u>OWC Mercury Pro Review: Solid Drive with Best-in-Class Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revamped-chromecast-with-google-tv-is-it-time-to-replace-your-firetv/"><u>Revamped Chromecast with Google TV – Is It Time to Replace Your FireTV?</u></a></li>
+</ul></div>
 

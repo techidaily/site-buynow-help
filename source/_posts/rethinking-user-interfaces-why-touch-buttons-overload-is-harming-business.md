@@ -1,7 +1,7 @@
 ---
 title: "Rethinking User Interfaces: Why Touch Buttons Overload Is Harming Business"
-date: 2024-11-27T20:28:25.183Z
-updated: 2024-12-02T16:51:09.399Z
+date: 2024-12-06T07:48:19.370Z
+updated: 2024-12-09T23:29:26.355Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
 ## Rethinking User Interfaces: Why Touch Buttons Overload Is Harming Business
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Capacitive touch buttons introduce usability issues in terms of responsiveness and lack of feedback.
@@ -22,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Problem With Capacitive Touch Buttons
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Capacitive Touch Buttons Are Everywhere
 
  There was a period in the late 2010s when touch buttons seemed to appear on almost everything, whether their use was justified or not. Though some manufacturers have moved away from the practice, others seem to be shoehorning capacitive panels into anything and everything.
@@ -49,15 +49,15 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
 
@@ -67,10 +67,6 @@ Tim Brookes / How-To Geek
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  But this logic doesn’t extend to every device. Though the argument for longevity is a valid one, did we trade usability for reliability? And is that trade-off worth it?
@@ -78,6 +74,10 @@ Tim Brookes / How-To Geek
  Is it better to get more time out of an inferior user experience, or accept that moving parts occasionally require maintenance? Is your washing machine motor going to fail before the interface on the front of it? One of those things is far cheaper and easier to replace.
 
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some Manufacturers Ditched Touch for a Reason
 
@@ -87,10 +87,6 @@ Tim Brookes / How-To Geek
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Occasionally the PS4 would turn itself on randomly, for seemingly no reason. Worse still, the console could randomly turn itself off or eject the disc for no reason. Add to this the constant threat of curious dog and cat noses that are perfect for triggering capacitive touch buttons, and the fact that it was way too easy to trigger these buttons when cleaning or simply walking past.
@@ -98,6 +94,10 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -118,19 +118,15 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-overcome-no-image-problem-in-youtube-shorts/"><u>[New] 2024 Approved How To Overcome No Image Problem in YouTube Shorts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/lueprint-for-buzzing-outro/"><u>[New] Blueprint for Buzzing Outro</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-simplified-guide-efficient-screen-recording-for-dell-users/"><u>2024 Approved Simplified Guide Efficient Screen Recording for Dell Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-virtual-reality-mastery-with-oculus-quest-2-a-comprehensive-review/"><u>Affordable Virtual Reality Mastery with Oculus Quest 2 - A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apc-be600m1-uninterruptible-power-supply-ensuring-stable-energy-and-seamless-usb-charging-for-mobile-gadgets-reviewed-here/"><u>APC BE600M1 Uninterruptible Power Supply: Ensuring Stable Energy & Seamless USB Charging for Mobile Gadgets Reviewed Here!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/aphaca-bt69-unboxed-in-depth-analysis-of-a-miniature-wireless-bluetooth-fm-car-transmitter/"><u>Aphaca BT69 Unboxed: In-Depth Analysis of a Miniature Wireless Bluetooth FM Car Transmitter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bloodborne-analysis-exploring-a-twisted-gothic-universe/"><u>Bloodborne Analysis: Exploring a Twisted, Gothic Universe</u></a></li>
-<li><a href="https://article-posts.techidaily.com/blue-freestyle2-mice-review-ultimate-accessory-for-mac-enthusiasts/"><u>Blue Freestyle2 Mice Review: Ultimate Accessory for Mac Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/brookstone-photoshare-smart-frame-review/"><u>Brookstone Photoshare Smart Frame Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-itel-a70-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Itel A70</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-se-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone SE?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/key-factors-to-evaluate-prior-to-investing-in-a-new-printer/"><u>Key Factors to Evaluate Prior to Investing in a New Printer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/newcomers-guide-to-profitability-on-periscope-live-streaming/"><u>Newcomer’s Guide to Profitability on Periscope Live Streaming</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/thing-popular-user-generated-speeches-for-2024/"><u>Unearthing Popular User-Generated Speeches for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-hd-the-exceptional-experience-with-hp-envy-27/"><u>[New] Beyond HD - The Exceptional Experience with HP Envy 27</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/acers-predator-triton-300-se-evaluation-compact-powerhouse-meets-exceptional-price-performance-ratio/"><u>Acer's Predator Triton 300 SE Evaluation: Compact Powerhouse Meets Exceptional Price-Performance Ratio</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ampage-andes-1500-portable-power-station-review-hands-on-performance-and-capabilities/"><u>Ampage Andes 1500 Portable Power Station Review: Hands-On Performance and Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amped-up-rotibox-ear-hat-analysis-the-ultimate-marriage-of-plush-comfort-and-impressive-sound-features/"><u>Amped Up Rotibox Ear Hat Analysis: The Ultimate Marriage of Plush Comfort & Impressive Sound Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-resolving-zoom-camera-problems-before-a-call/"><u>Expert Tips for Resolving Zoom Camera Problems Before a Call</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y36-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/861374-9781439121849-journey-to-ixtlan/"><u>Journey To Ixtlan | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/sandisk-driver-setup-made-simple-on-windows-10-fast-easy-download-and-installation-steps/"><u>SanDisk Driver Setup Made Simple on Windows 10 – Fast, Easy Download and Installation Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723079805053-ultimate-amazonbasics-7-port-usb-30-hub-analysis-power-up-your-devices/"><u>Ultimate AmazonBasics 7-Port USB 3.0 Hub Analysis – Power Up Your Devices!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-free-online-webm-video-compressor-options-for-2024/"><u>Updated The Best Free Online WebM Video Compressor Options for 2024</u></a></li>
 </ul></div>
 

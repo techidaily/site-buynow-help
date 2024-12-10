@@ -1,7 +1,7 @@
 ---
 title: Assessing the Vive Cosmos - A Robust Entry in a Crowded VR Headset Battlefield
-date: 2024-09-12T07:56:21.039Z
-updated: 2024-09-15T06:16:14.259Z
+date: 2024-12-07T16:22:08.099Z
+updated: 2024-12-09T16:01:32.380Z
 categories:
   - BestProducts
 description: This Article Describes Assessing the Vive Cosmos - A Robust Entry in a Crowded VR Headset Battlefield
@@ -67,6 +67,10 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -84,10 +88,7 @@ Lifewire / Erika Rawes
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
@@ -121,13 +122,14 @@ Lifewire / Erika Rawes
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Battery: May last a full seven days**
 
@@ -150,16 +152,7 @@ Lifewire / Erika Rawes
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -200,5 +193,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-reliable-methods-to-elevate-your-youtube-presence-without-breaking-trust/"><u>[New] In 2024, Reliable Methods to Elevate Your YouTube Presence Without Breaking Trust</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-segmentscreen-examination-for-2024/"><u>[New] SegmentScreen Examination for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ultimate-choice-of-gopro-film-editing-programs/"><u>[New] Ultimate Choice of GoPro Film-Editing Programs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-feeds-to-filters-connecting-instagram-and-tiktok-for-2024/"><u>[Updated] From Feeds to Filters Connecting Instagram and TikTok for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-art-of-memetic-mastery/"><u>[Updated] The Art of Memetic Mastery</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-journey-from-photo-album-to-video-storyboard-for-2024/"><u>[Updated] The Journey From Photo Album to Video Storyboard for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/agptek-a01t-review/"><u>AGPTEK A01T Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/come-trasformare-i-file-mp4-in-mp3-su-windows-11-utilizzando-un-ottimo-convertitore-gratuito/"><u>Come Trasformare I File MP4 in MP3 Su Windows 11 Utilizzando Un Ottimo Convertitore Gratuito</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/designed-for-success-a-closer-look-at-the-functional-lamicall-s-tablet-support-revealed/"><u>Designed for Success: A Closer Look at the Functional Lamicall S Tablet Support Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-interactive-features-of-the-9-inch-lenovo-nook-tablet/"><u>Experience the Interactive Features of the 9-Inch Lenovo Nook Tablet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-shadowy-realms-of-bloodborne-an-immersive-review/"><u>Exploring the Shadowy Realms of Bloodborne - An Immersive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/free-darktable-software-powerful-raw-image-editor-for-macos-and-linux/"><u>Free Darktable Software: Powerful Raw Image Editor for macOS & Linux</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-s17e-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo S17e to Gmail | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-vids-dissecting-the-relevance-of-self-image-authenticity-for-2024/"><u>Insta Vids Dissecting the Relevance of Self-Image Authenticity for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paww-audio-enlightenment-the-budget-friendly-review-of-series-3/"><u>Paww Audio Enlightenment - The Budget-Friendly Review of Series 3</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active-2-an-in-depth-review-showcasing-upgraded-control-superior-connection-and-insight-features-over-original/"><u>Samsung Galaxy Watch Active 2: An In-Depth Review Showcasing Upgraded Control, Superior Connection & Insight Features Over Original.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/seamless-connectivity-on-the-move-experience-unmatched-comfort-with-the-moko-universal-portable-bluetooth-keypad/"><u>Seamless Connectivity on The Move: Experience Unmatched Comfort with the MoKo Universal Portable Bluetooth Keypad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-a-deep-dive-into-the-new-samsung-galaxy-s2-ultra-features-and-performance/"><u>Unveiling the Powerhouse: A Deep Dive Into the New Samsung Galaxy S2# Ultra Features & Performance</u></a></li>
+</ul></div>
 

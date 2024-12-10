@@ -1,7 +1,7 @@
 ---
 title: "Securing Online Play: Making and Using a Network ID on the Nintendo 3DS"
-date: 2024-09-09T10:08:35.719Z
-updated: 2024-09-15T03:06:23.186Z
+date: 2024-12-04T22:27:13.899Z
+updated: 2024-12-10T00:37:51.535Z
 categories:
   - BestProducts
 description: "This Article Describes Securing Online Play: Making and Using a Network ID on the Nintendo 3DS"
@@ -41,6 +41,10 @@ Lifewire / Jeremy Laukkonen
 
 ![D-Link Powerline AV2000 Passthrough DHP-P701AV](https://www.lifewire.com/thmb/yEenIYDb17_Fxo9Tgt2DnpQFxtQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4141215-HeroSquare-db3b8923e8f945e196de87932b00dc2a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
 [View On Amazon $34](https://www.amazon.com/dp/B00PVD4318/?tag=lifewire-onsite-prod-20&ascsubtag=4778144%7Cn94c71b7219c0486b82576aa70dbaa78c18%7CB00PVD4318) [View On Walmart $115](https://www.walmart.com/ip/D-Link-Powerline-AV2-2000-Gigabit-Passthrough-Starter-Kit-Easily-Expand-Network-DHP-P701AV/114888417)
@@ -66,6 +70,10 @@ Lifewire / Jeremy Laukkonen
  While the Powerline AV2000’s specifications are impressive, they don’t always tell the whole story. That’s why we took a pair of these adapters, plugged them in, and tested them to see if they work as well as advertised. We checked things like how easy they are to set up, whether they’re likely to get in the way of other electronics, real-world transfer speeds, and more.
 
 ![D-Link Powerline AV2000 Passthrough DHP-P701AV](https://www.lifewire.com/thmb/plySecBvduGkJXsaWpMzfgOg7gU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4141215-04-01bd7072d50949398973fb514e2ea95c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -94,20 +102,10 @@ Lifewire / Jeremy Laukkonen
 ![D-Link Powerline AV2000 Passthrough DHP-P701AV](https://www.lifewire.com/thmb/X0oLXEoZMMDp1yHZ4thpEvAY2Sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4141215-05-29cdfecba8e74dc9a126aff93f29b3ce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Connectivity: HomePlug AV2 with MIMO**
 
@@ -121,6 +119,10 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Network Performance: Fast, but not the fastest**
 
  These adapters are built on the excellent Broadcom BCM60500 chipset, which is used in some of the best powerline adapters on the market. The theoretical maximum network transfer speed is 2Gbps, but these adapters are limited by their[1Gbps ethernet ports](https://www.lifewire.com/definition-of-gigabit-ethernet-816338) and also the realities of home wiring.
@@ -133,21 +135,7 @@ Lifewire / Jeremy Laukkonen
 
 ![D-Link Powerline AV2000 Passthrough DHP-P701AV](https://www.lifewire.com/thmb/IXQZNi3pFRjm2tdKfPMhwxTE-DA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4141215-06-5a298aa4450e4adfb249aeae86330406.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: D-Link PLC utility available online**
 
@@ -155,11 +143,19 @@ Lifewire / Jeremy Laukkonen
 
  The D-Link PLC utility has to be run on a Windows PC that’s connected to the same network as your Powerline AV2000 adapters. It’s fairly simple and provides a few management and testing tools. You can update the firmware of your adapters to the latest version, pinpoint a malfunctioning system, change the encryption key used by your devices, or provide custom names for each adapter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: On the expensive side of the scale**
 
  The D-Link Powerline AV2000 adapters are priced on the upper end of the scale for similarly equipped adapters. The version that doesn’t come with a pass-through has an MSRP of $130 and usually sells in the $100 range. The pass-through version that we tested has an MSRP of $160 and usually sells for around $110.
 
  The typical street price for these adapters is pretty close to the competition, but the MSRP is significantly more expensive. Since some competitors, like Extollo, make adapters that are even faster than these, it’s likely that you’re primarily paying for the brand name rather than better performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Beats most of the competition, but doesn’t come out on top**
 
@@ -208,5 +204,26 @@ Lifewire / Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-frontiers-in-virtuality-industry-analysis-for-2024/"><u>[New] Frontiers in Virtuality Industry Analysis for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-from-flat-to-fantastic-animated-text-transformations/"><u>[New] In 2024, From Flat to Fantastic Animated Text Transformations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screencapture-101-with-springs-latest-release/"><u>[New] ScreenCapture 101 with Spring's Latest Release</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>[Updated] 2024 Approved A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-revolutionary-mac-screenshot-tools-a-five-step-guide/"><u>[Updated] 2024 Approved Revolutionary Mac Screenshot Tools A Five-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-pinterest-video-extraction-the-ultimate-guide-to-the-best-tools-for-2024/"><u>[Updated] Pinterest Video Extraction The Ultimate Guide to the Best Tools for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/a-quick-fix-for-quirky-content-mastering-meme-creation-at-9gag/"><u>A Quick Fix for Quirky Content Mastering Meme Creation at 9GAG</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-amazonbasics-flat-antenna-for-economical-high-def-tv-streams/"><u>Comprehensive Analysis of the AmazonBasics Flat Antenna for Economical High-Def TV Streams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-legendary-asus-rt-ac88u-for-gamers-does-it-deliver-on-its-promises/"><u>Evaluating the Legendary Asus RT-AC88U for Gamers: Does It Deliver on Its Promises?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-fastest-and-reliable-cable-modems/"><u>Expert Picks: Fastest and Reliable Cable Modems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-reviews-on-samsungs-latest-premium-tab-s7plus-an-android-marvel/"><u>Expert Reviews on Samsung's Latest Premium Tab S7+ - An Android Marvel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-c55-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme C55 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/les-meilleurs-services-dedition-video-jeux-en-202/"><u>Les Meilleurs Services D'Édition Vidéo Jeux En 202</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastery-in-your-hands-the-ultimate-xp-pen-artist-16-pro-digital-brushboard-review/"><u>Mastery in Your Hands: The Ultimate XP-Pen Artist 16 Pro Digital Brushboard Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-slow-shutdown-woes-in-windows-10-efficiently/"><u>Resolving Slow Shutdown Woes in Windows 10 Efficiently</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/switching-perspectives-evaluating-the-differences-between-nintendo-switch-lite-and-oled-models/"><u>Switching Perspectives: Evaluating the Differences Between Nintendo Switch Lite & OLED Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-tripod-for-photography-novices-at-amazonbasics/"><u>The Best Tripod for Photography Novices at AmazonBasics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-havit-5-laptop-chiller-stay-cool-while-gaming/"><u>Ultimate Guide to the HAVIT 5 Laptop Chiller: Stay Cool While Gaming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/workout-sessions-enhanced-by-live-music-on-the-garmin-vivoactive-3-tracker/"><u>Workout Sessions Enhanced by Live Music on the Garmin Vivoactive 3 Tracker</u></a></li>
+</ul></div>
 

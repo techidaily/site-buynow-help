@@ -1,7 +1,7 @@
 ---
 title: An In-Depth Analysis of HERO7 Black for Extreme Enthusiasts.
-date: 2024-09-12T03:44:08.935Z
-updated: 2024-09-15T06:49:19.229Z
+date: 2024-12-03T23:40:38.676Z
+updated: 2024-12-10T01:06:04.495Z
 categories:
   - BestProducts
 description: This Article Describes An In-Depth Analysis of HERO7 Black for Extreme Enthusiasts.
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/kX3LwjwQxlhqUHDBJfq2I2wIMm0=/400x300/fi
 ## In-Depth Analysis: The Unbeatable Performance of the Elite Series Ebox One Controller
 
 4.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft Xbox One Elite Series 2 Controller
 
@@ -41,6 +45,10 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/JA4MI_SE7Alxl0MLR7rMoIVzKgI=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Zach Sweat
 
 [View On Amazon $150](https://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM/?tag=lifewire-onsite-prod-20&ascsubtag=4796457%7Cnbd5105eb0dc54e3e804df51703e5036902%7CB07SFKTLZM) [View On Walmart $150](https://www.walmart.com/ip/Microsoft-Xbox-Elite-Wireless-Controller-Series-2-Black-FST-00001/784834522) [View On Adorama.com $180](https://www.adorama.com/xbfst00001.html)
@@ -65,6 +73,10 @@ Lifewire / Zach Sweat
  We reviewed the original $150 Elite controller when it debuted years ago and loved nearly every aspect of it, but it wasn’t flawless suffering from the lack of a few key features and some durability issues. This is where the newly updated Elite Series 2 controller comes in. Listening to feedback provided by gamers on the weaknesses of Series 1, Microsoft has put out what is likely to be the last iteration of the[Xbox One controller,](https://www.lifewire.com/xbox-one-consoles-4156250) and it’s pretty much perfect—provided you’re willing to pay the hefty price tag.
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/t8wI_yN2s_uIQ1leo87MmOnXxb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-5-0c39ec4e89eb45b094471681efec0e7d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -110,14 +122,11 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/cS5fpyPSlqvyETs-nGxTtAB3vXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-4-070b6c59b206457ba1068704bbe7bca9.jpg)
 
- Lifewire / Zach Sweat
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Zach Sweat
 
 ## **Setup Process and Software: Bluetooth, at long last**
 
@@ -139,13 +148,14 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/v25KBj3XhkgWMjFaqVnLVUUJqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-3-29dc70adabc64f888db60e817695153f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance/Durability: Enhanced performance and durability**
@@ -169,13 +179,6 @@ Lifewire / Zach Sweat
  The bumpers on every XB1 controller up until the One S were another point of failure due to the thin plastic piece that attached them to the controller. If you dropped your controller in just the right spot, even from a short height, they often broke and flopped around, requiring you to either send it in for repair or fix it yourself at home. The original Elite also suffered from this, and I experienced this with my first device. Now that the Series 2 is built off the S controller, this is supposedly no longer an issue.
 
  While we didn’t experience any durability issues with our controller, the long-term durability will need to be assessed at a later date, though it seems to have gotten some upgrades to resolve issues of the past.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Like buying a brand new console**
 
@@ -233,5 +236,20 @@ Lifewire / Zach Sweat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-effortless-techniques-for-streamlined-ipad-video-recording/"><u>[New] 2024 Approved Effortless Techniques for Streamlined iPad Video Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-audio-capture-and-critical-examination-for-2024/"><u>[Updated] Audio Capture & Critical Examination for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-quick-retrieval-of-hidden-reddit-threads-for-2024/"><u>[Updated] Mastering Quick Retrieval of Hidden Reddit Threads for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elevate-productivity-in-minutes-enhance-learning-in-hours-with-podcasts/"><u>Elevate Productivity in Minutes, Enhance Learning in Hours (with Podcasts)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/excellence-in-audio-leading-2024s-wired-earbuds-guide/"><u>Excellence in Audio: Leading 2024'S Wired Earbuds Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-videos-vertical-or-horizontal-in-2024/"><u>Facebook Videos; Vertical or Horizontal, In 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-moto-g-plays-exceptional-battery-life-and-solid-performance/"><u>In-Depth Analysis of Moto G Play's Exceptional Battery Life & Solid Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/instagrams-role-in-distributing-your-podcast-episodes/"><u>Instagram's Role in Distributing Your Podcast Episodes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-stability-ultimate-fixes-to-keep-your-csgo-game-running-smoothly/"><u>Mastering Stability: Ultimate Fixes to Keep Your CSGO Game Running Smoothly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-potential-effects-of-artificial-intelligence-on-game-development-and-the-gaming-market/"><u>The Potential Effects of Artificial Intelligence on Game Development and the Gaming Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-glion-dolly-electric-scooter-is-it-worth-the-high-cost/"><u>The Ultimate Guide: Glion Dolly Electric Scooter - Is It Worth the High Cost?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-prime-day-bargains-exclusive-discounts-on-all-new-and-refurbished-samsung-electronics/"><u>Top Prime Day Bargains: Exclusive Discounts on All New & Refurbished Samsung Electronics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncovering-the-invisible-how-to-inspect-facebooks-data-trails-for-2024/"><u>Uncovering the Invisible How to Inspect Facebook's Data Trails for 2024</u></a></li>
+</ul></div>
 

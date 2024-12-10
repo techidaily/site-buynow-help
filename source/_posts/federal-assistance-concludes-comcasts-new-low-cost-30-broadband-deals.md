@@ -1,7 +1,7 @@
 ---
 title: Federal Assistance Concludes - Comcast's New Low-Cost $30 Broadband Deals
-date: 2024-11-27T08:07:37.487Z
-updated: 2024-12-03T11:25:57.885Z
+date: 2024-12-08T04:00:12.329Z
+updated: 2024-12-09T23:34:47.892Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Federal Assistance Concludes - Comcast's New Low-Cost $30 Broadband Deals
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2024/05/09 BY CORBIN DAVENPORT
@@ -54,24 +54,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-defending-your-youtube-profile/"><u>[New] Defending Your YouTube Profile</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-snapshot-spectaculars-an-experts-review-of-recorders/"><u>[New] Snapshot Spectaculars An Expert's Review of Recorders</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-optimizing-screen-recording-on-iphoneipad/"><u>2024 Approved Optimizing Screen Recording on iPhone/iPad</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/drones-in-a-battlefield-dji-air-2-vs-hero8-black-for-2024/"><u>Drones in a Battlefield DJi Air 2 VS Hero8 Black for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/gamers-choice-awards-2024-the-best-consoles-and-next-gen-gaming-experience/"><u>Gamers' Choice Awards 2024: The Best Consoles and Next-Gen Gaming Experience!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-acer-device-online-free-wifi-drivers-and-step-by-step-setup-tutorials/"><u>Get Your Acer Device Online: FREE WiFi Drivers & Step-by-Step Setup Tutorials</u></a></li>
-<li><a href="https://win-special.techidaily.com/getting-to-know-kelsey-a-deep-dive-into-the-biography-of-a-renowned-writer/"><u>Getting to Know Kelsey: A Deep Dive Into the Biography of a Renowned Writer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/go-anywhere-stay-in-control-the-sabrent-portable-miniature-mouse-merging-accuracy-and-detachable-wires/"><u>Go Anywhere, Stay in Control: The Sabrent Portable Miniature Mouse Merging Accuracy and Detachable Wires</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/harmonic-richness-in-sound-and-design-the-beoplay-h8i-story/"><u>Harmonic Richness in Sound and Design: The Beoplay H8i Story</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-se-2022-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone SE (2022) to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hulus-subscription-key-factors-that-count/"><u>Hulu’s Subscription: Key Factors That Count</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>In 2024, TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-seatechs-blu-ray-writer-a-look-at-its-ebb-and-flow-in-performance/"><u>In-Depth Analysis of SeaTech's Blu-Ray Writer: A Look at Its Ebb and Flow in Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-android-experience/"><u>In-Depth Analysis of the Samsung Galaxy Tab S4: The Ultimate Android Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-nokia-31-for-budget-beginners/"><u>In-Depth Evaluation of the Nokia 3.1 for Budget Beginners</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lensdirects-anti-blue-light-glasses-with-prescription-in-depth-analysis-and-benefits/"><u>LensDirect's Anti-Blue Light Glasses with Prescription - In-Depth Analysis and Benefits</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mirari-kid-friendly-alarm-clock-review-awaken-in-style-and-fun/"><u>Mirari Kid-Friendly Alarm Clock Review – Awaken in Style and Fun</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfecting-captions-adding-words-to-images-in-oses/"><u>Perfecting Captions Adding Words to Images in OSes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-bluetooth-sound-latency-issues-with-these-easy-steps/"><u>Solve Your Bluetooth Sound Latency Issues with These Easy Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-the-ideal-video-sizes-for-instagram-success/"><u>[New] In 2024, Unveiling the Ideal Video Sizes for Instagram Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-progressive-audio-softening-methods/"><u>[New] Progressive Audio Softening Methods</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-brand-consistency-in-action-inserting-logoswatermarks-into-videos/"><u>[Updated] 2024 Approved Brand Consistency in Action Inserting Logos/Watermarks Into Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-easy-path-sending-fb-videos-to-whatsapp-contacts/"><u>[Updated] Easy Path Sending FB Videos to WhatsApp Contacts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-soundbank-freeness-central-for-2024/"><u>[Updated] FB Soundbank Freeness Central for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-constant-media-recording-specialists/"><u>[Updated] In 2024, Constant Media Recording Specialists</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/e-identity-enhancement-drawing-your-playful-iconography/"><u>E-Identity Enhancement Drawing Your Playful Iconography</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962715918-effortlessly-update-to-the-latest-free-windows-8-amd-radeon-graphic-card-drivers-today/"><u>Effortlessly Update to the Latest Free Windows 8 AMD Radeon Graphic Card Drivers Today</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/lg-digital-cinema-31mu97-b-4k-monitor-review-for-2024/"><u>LG Digital Cinema 31MU97-B 4K Monitor Review for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mapmyride-app-breakdown-an-essential-review-for-cyclists-and-runners/"><u>MapMyRide App Breakdown: An Essential Review for Cyclists & Runners</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-your-home-network-with-d-link-powerline-2000-effortless-setup-and-speedy-connections/"><u>Mastering Your Home Network with D-Link Powerline 2000: Effortless Setup & Speedy Connections</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/minecraft-review-the-ultimate-all-ages-sandbox/"><u>Minecraft Review: The Ultimate All-Ages Sandbox</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-nintendo-universe-an-in-depth-look-at-the-switch-lite-vs-the-oled-edition/"><u>Navigating the Nintendo Universe: An In-Depth Look at the Switch Lite Vs. The OLED Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-urban-jungles-with-gotrax-gxl-v2-electric-scooter-an-insightful-overview/"><u>Navigating Urban Jungles with Gotrax GXL V2 Electric Scooter - An Insightful Overview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-gaming-experience-the-ultimate-nvidia-shield-tv-pro-review/"><u>Next-Level Gaming Experience: The Ultimate NVIDIA Shield TV Pro Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/older-yet-reliable-in-depth-review-of-the-nulaxy-km18-bluetooth-car-transmitters-features-and-efficiency/"><u>Older Yet Reliable: In-Depth Review of the Nulaxy KM18 Bluetooth Car Transmitter's Features & Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliable-petfeeding-solution-with-petsafes-automated-six-meal-dispenser/"><u>Reliable PetFeeding Solution with PetSafe's Automated Six-Meal Dispenser</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-photography-with-darktable-advanced-raw-image-editing-on-macos-and-linux-completely-gratis/"><u>Revolutionize Your Photography with Darktable: Advanced Raw Image Editing on macOS & Linux, Completely Gratis</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-edit-avi-videos-on-the-go-best-mobile-and-online-video-cutters-for-2024/"><u>Updated Edit AVI Videos on the Go Best Mobile and Online Video Cutters for 2024</u></a></li>
 </ul></div>
 

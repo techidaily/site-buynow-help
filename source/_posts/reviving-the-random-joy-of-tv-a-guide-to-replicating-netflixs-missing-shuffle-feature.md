@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Random Joy of TV: A Guide to Replicating Netflix's Missing Shuffle Feature"
-date: 2024-11-30T09:20:04.802Z
-updated: 2024-12-03T11:24:10.929Z
+date: 2024-12-08T03:53:58.158Z
+updated: 2024-12-09T22:13:07.387Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 ## Reviving the Random Joy of TV: A Guide to Replicating Netflix's Missing Shuffle Feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
  Have you ever been in the mood to watch a TV show or movie but can't decide on a title? It's a common predicament in our world of streaming services. Netflix used to have a "Play Something" shuffle button to help with the overabundance of choices. The feature is gone, but we can recreate it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Did the Netflix Shuffle Button Do?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
  About two years later, Netflix quietly removed the feature—which had since been renamed to "Surprise Me"—due to low usage. If you miss the ability to find a randomly-generated TV show or movie to watch on Netflix, you'll need to get a little creative.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Shuffle Netflix (And More) With ReelGood Roulette
@@ -54,7 +54,7 @@ Close
 ![Spin the Reelgood Roulette wheel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-03_08-24-19.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A result will pop up underneath the "Spin" button, and you can select "Watch Now" to jump straight to the streaming service. Or you can pull up Netflix on your TV or wherever you'd like to watch it and find the title. Easy as that!
@@ -62,7 +62,7 @@ Close
 ![Watch a title from Reelgood Roulette.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-03_08-27-29.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -84,24 +84,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/raphic-social-video-marketing-tips-for-small-business-for-2024/"><u>[Infographic] Social Video Marketing Tips for Small Business for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-enhance-creativity-with-these-top-6-instagram-reel-tools/"><u>[New] Enhance Creativity with These Top 6 Instagram Reel Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-gpu-renaissance-amd-radeon-redux/"><u>[New] GPU Renaissance AMD Radeon Redux</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-disconnect-watch-stay-ahead-for-2024/"><u>[New] Instagram Disconnect Watch Stay Ahead for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-integration-of-movies-and-animations-using-movie-maker/"><u>[Updated] Seamless Integration of Movies and Animations Using Movie Maker</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-notrace-remover-ultimate-background-cleanse/"><u>2024 Approved NoTrace Remover Ultimate Background Cleanse</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-galaxy-ford-f-150-rc-car-assessment-a-look-at-a-dominant-force-in-the-world-of-toy-trucks/"><u>Comprehensive Galaxy Ford F-150 RC Car Assessment: A Look at a Dominant Force in the World of Toy Trucks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/critical-examination-of-cyberpunk-2077-unfinished-but-full-of-potential/"><u>Critical Examination of Cyberpunk 2077: Unfinished but Full of Potential</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enjoy-top-notch-4k-vision-sunbritetvs-heavy-duty-hdr-veranda-screen-for-your-deck-or-porch/"><u>Enjoy Top-Notch 4K Vision: SunBriteTV's Heavy-Duty, HDR Veranda Screen for Your Deck or Porch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-buying-guide-premium-paper-and-image-scanners-dominating-the-market-in-2034/"><u>Essential Buying Guide: Premium Paper & Image Scanners Dominating the Market in 20^34</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-superiority-of-netgears-nighthawk-c7000-wireless-router-a-must-have-gadget-reviewed/"><u>Expert Insights on the Superiority of Netgear's Nighthawk C7000 Wireless Router - A Must-Have Gadget Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-budget-options-in-4k-a-detailed-look-at-the-lg-um7300-television/"><u>Exploring Budget Options in 4K: A Detailed Look at The LG UM7300 Television</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-imo-chat-apps-functionality-an-extensive-review-on-usability/"><u>Exploring Imo Chat App's Functionality - An Extensive Review on Usability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/find-your-ideal-replacement-top-5-non-microsoft-suite-apps-reviewed/"><u>Find Your Ideal Replacement: Top 5 Non-Microsoft Suite Apps Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/flexible-travel-ally-patek-fly-12-tripod-reviewed/"><u>Flexible Travel Ally - Patek Fly 12 Tripod Reviewed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-simple-path-to-iphone-screen-shots-for-2024/"><u>The Simple Path to IPhone Screen Shots for 2024</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/transformer-un-fichier-audio-m4b-en-format-mp4-gratuit-sur-internet-avec-movavi/"><u>Transformer Un Fichier Audio M4B en Format MP4 Gratuit - Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-breaking-down-barriers-combining-obs-with-zoom/"><u>[New] 2024 Approved Breaking Down Barriers Combining OBS with Zoom</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-show-off-your-skills-top-10-must-try-social-media-battles/"><u>[New] In 2024, Show Off Your Skills Top 10 Must-Try Social Media Battles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-leaders-in-video-to-file-transformation-the-best-ios-and-pc-tools-8/"><u>[New] Leaders in Video to File Transformation The Best iOS & PC Tools #8</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-all-about-making-gifs-into-stickers-the-ultimate-guide-for-whatsapp-discord-and-telegram-users/"><u>2024 Approved All About Making GIFs Into Stickers The Ultimate Guide for WhatsApp, Discord & Telegram Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-your-world-maccam-techniques-unveiled/"><u>2024 Approved Capturing Your World MacCam Techniques Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-quality-and-comfort-the-definitive-review-of-microsoft-surface-ergonomic-keyboard/"><u>Assessing Quality and Comfort: The Definitive Review of Microsoft Surface Ergonomic Keyboard</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bargain-tv-wall-mounting-a-low-cost-entertainment-solution/"><u>Bargain TV Wall Mounting: A Low-Cost Entertainment Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/benchmarking-the-asus-rt-ac68u-ultra-fast-and-robust-wi-fi-performance-in-a-5g-world/"><u>Benchmarking the Asus RT-AC68U: Ultra-Fast and Robust Wi-Fi Performance in a 5G World</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-tp-link-re200-ac750-wi-fi-booster-assessment-value-for-money-review/"><u>Budget Friendly TP-Link RE200 AC750 Wi-Fi Booster Assessment: Value for Money Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-powerhouse-apples-ipad-air-4-vs-ipad-pro-a-comprehensive-examination/"><u>Budget-Friendly Powerhouse: Apple's iPad Air 4 Vs. IPad Pro - A Comprehensive Examination</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-the-pros-and-cons-ps5-slim-vs-original-ps5/"><u>Comparing the Pros and Cons: PS5 Slim vs Original PS5</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-viber-out-services-and-user-experience/"><u>Comprehensive Analysis of Viber Out Services and User Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-choosing-the-perfect-ipad-model/"><u>Comprehensive Guide: Choosing the Perfect iPad Model</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-your-hands-on-the-free-hevc-encoder-enhance-4k-and-8k-video-experience/"><u>Get Your Hands on the Free HEVC Encoder: Enhance 4K and 8K Video Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-blurring-iphone-images-four-steps-covered/"><u>In 2024, The Art of Blurring iPhone Images - Four Steps Covered</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-latest-enhancements-in-lenovos-thinkpad-x1-unveiled-insights-from-zdnet/"><u>The Latest Enhancements in Lenovo's ThinkPad X1 Unveiled: Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
 </ul></div>
 

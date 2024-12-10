@@ -1,7 +1,7 @@
 ---
 title: "Panasonic FZ80: A Versatile, Budget-Friendly Pro"
-date: 2024-09-09T04:10:54.203Z
-updated: 2024-09-10T04:10:54.203Z
+date: 2024-12-07T23:38:07.073Z
+updated: 2024-12-09T19:50:48.620Z
 categories:
   - BestProducts
 description: "This Article Describes Panasonic FZ80: A Versatile, Budget-Friendly Pro"
@@ -14,21 +14,13 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 4.5
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Logitech C615 HD Laptop Webcam
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/jgH6j34_PXXE9fO2vS4Nr4d3pSM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / James Huenink
 
  What We Like
@@ -52,12 +44,6 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/9YqP4BNKZ_F27rxIYbc3f1vqzd0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / James Huenink
 
 [View On Amazon $50](https://www.amazon.com/Logitech-Laptop-Webcam-Design-360-Degree/dp/B004YW7WCY/?tag=lifewire-onsite-prod-20&ascsubtag=4784217%7Cn9a41b5a87a5c491e81f6733af031a52502%7CB004YW7WCY) [View On Best Buy $43](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flogitech-hd-webcam-c615-black%2F2588445.p%3F) [View On Adorama.com $50](https://www.adorama.com/log615.html)
@@ -83,11 +69,9 @@ Lifewire / James Huenink
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design:** **Flexible, foldable design**
 
  The Logitech C615 is a compact webcam. The whole device folds up into a very small package, just 2.5” wide, 1.25” tall, and 1.5” wide, so you can tuck it into a pocket. When you open it up, the flexible design is simple to position. Unfolded, the webcam has three pieces: the base, neck, and[camera](https://www.lifewire.com/best-digital-cameras-under-100-3897833) . The base is the heaviest part, which means that the camera stays upright even if you don’t perfectly balance everything. The top is made out of a soft, rubbery plastic, and the bottom has a rubbery dot that keeps the base from sliding around. The dot comes off the base to reveal a tripod post, so this camera is compatible with a standard tripod. The only problem is that the dot comes off completely when the tripod post is exposed. If you're prone to losing things, this may be an issue.
@@ -100,14 +84,16 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/jgQ_lVlvzgmXFPpBg5nEd6pgV_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_12_Final_Horiz-e97c48d3af6842eb88775a9d703ce2b6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Camera Quality: Quality camera with some autofocus troubles**
 
  The camera takes 1080p video and has a 2 MP sensor. We tested the webcam’s photo capabilities by taking a picture of some packaging. Color was well represented, but the autofocus was just a bit off. The image was just a bit blurry, and we couldn’t read the smaller words at all. This wasn’t a problem close up, but it made a bigger difference when people were far away.
@@ -121,17 +107,9 @@ Lifewire / James Huenink
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/Bko9Uk1HIIMt9aNgtBf9ATCy0AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_14_Final_Horiz-4f1b9fe91b8c4229b17dbbe6afb81b8c.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
 ## **Performance: Decent sound quality for a small mic**
@@ -148,12 +126,6 @@ Lifewire / James Huenink
 
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Acquits itself well against the competition**
 
 **_Docooler USB 2.0 12 Megapixel_ :** The Docooler USB 2.0 12 Megapixel is one of the cheapest cameras on the market, going for between $8 and $15\. But there's a reason it retails so cheaply; it's a nightmare to use, the audio quality is torturous, and the camera doesn't approach the advertised 12 MP. Despite being nearly $60 more expensive, the C615 is the obvious winner here.
@@ -193,8 +165,6 @@ Lifewire / James Huenink
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +172,26 @@ Lifewire / James Huenink
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/decided-opengl-not-backed-by-drivers/"><u>[Decided] OpenGL Not Backed by Drivers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-user-experience-a-quick-how-to-for-youtube-cc-and-subtitles-for-2024/"><u>[New] Enhancing User Experience A Quick How-To for YouTube CC & Subtitles for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveil-the-untouched-best-of-insta-stories-for-2024/"><u>[New] Unveil the Untouched Best of Insta Stories for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-brighten-up-techniques-for-improving-video-lighting-on-youtube-for-2024/"><u>[Updated] Brighten Up Techniques for Improving Video Lighting on YouTube for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-creating-gripping-videography-content-plans/"><u>[Updated] Creating Gripping Videography Content Plans</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-best-practices-for-instagram-video-sharing/"><u>2024 Approved Best Practices for Instagram Video Sharing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-3-tactics-transforming-pin-videos-into-mp3-sounds/"><u>2024 Approved Top 3 Tactics Transforming Pin Videos Into MP3 Sounds</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/streaming-games-for-profit/"><u>2024 Streaming Games for Profit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-next-level-gaming-with-the-top-reviewed-alienware-aurora-r11-system/"><u>Experience Next-Level Gaming with the Top Reviewed Alienware Aurora R11 System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-nhl-19s-engaging-digital-playground-a-comprehensive-review/"><u>Experience NHL 19'S Engaging Digital Playground – A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-analysis-of-fongo-top-voip-solutions-in-canada/"><u>Experts' Analysis of Fongo – Top VoIP Solutions in Canada</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-benefits-of-the-barnes-and-noble-nook-glowlight-3-as-a-dim-friendly-e-reader/"><u>Exploring the Benefits of the Barnes & Noble Nook GlowLight 3 as a Dim-Friendly E-Reader</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-budget-friendly-asus-vivobook-11-for-everyday-use/"><u>In-Depth Analysis of the Budget-Friendly Asus VivoBook 11 for Everyday Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-guide-to-the-apple-homepod-mini-evaluating-sound-performance-and-integration-with-siri/"><u>In-Depth Guide to the Apple HomePod Mini – Evaluating Sound Performance & Integration with Siri</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-samsung-galaxy-budsplus/"><u>In-Depth Review: Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-air-4-versus-ipad-air-5-is-it-time-to-upgrade-insights-and-reviews-from-zdnet/"><u>IPad Air 4 Versus iPad Air 5: Is It Time to Upgrade? Insights & Reviews From ZDNET</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/jabra-talk-45-review/"><u>Jabra Talk 45 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/linksys-velop-test-drive-mastering-seamless-connectivity-with-a-leading-mesh-system/"><u>Linksys Velop Test Drive: Mastering Seamless Connectivity with a Leading Mesh System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-guide-stopping-screen-flashing/"><u>Windows 11 Guide: Stopping Screen Flashing</u></a></li>
+</ul></div>
 

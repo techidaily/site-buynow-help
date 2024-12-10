@@ -1,7 +1,7 @@
 ---
 title: Explore Nature with Nikon's Waterproof W100
-date: 2024-09-10T16:27:40.144Z
-updated: 2024-09-15T03:56:32.231Z
+date: 2024-12-04T01:58:16.963Z
+updated: 2024-12-09T23:29:48.605Z
 categories:
   - BestProducts
 description: This Article Describes Explore Nature with Nikon's Waterproof W100
@@ -83,6 +83,10 @@ Lifewire / Jeremy Laukkonen
 
  When you set this router on a flat surface, it doesn’t sit flat due to a raised foot on the back of the device. This gives the router a bit of a unique look, and may help in heat management, but it also makes it extremely difficult to wall mount.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Quick and easy**
 
  Setup with the Synology RT2600AC was just about as easy as it gets. We connected the router to the internet and our test PC, set up an administrator account on the router, created a network SSID, and were prompted to select whether the device should act as a router or an access point, and that was about it.
@@ -108,13 +112,14 @@ Lifewire / Jeremy Laukkonen
 ![Synology RT2600ac Wi-Fi Router](https://www.lifewire.com/thmb/gL7PCkiCXZfJYxr3IOZK7ZWTjVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4140134_SynologyRT2600AC-5-5e348c0998894a49b99d883620886b19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Network Performance: Fast Wi-Fi, but the Ethernet is a bit slow**
 
@@ -137,20 +142,10 @@ Lifewire / Jeremy Laukkonen
 ![Synology RT2600ac Wi-Fi Router](https://www.lifewire.com/thmb/Mu3C8M_Uu7Qj2I8pEG0ZQY2yuWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4140134_SynologyRT2600AC-3-f2de05f104de4db2bed80b4e39246c1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Windows-like web console**
 
@@ -163,10 +158,7 @@ Lifewire / Jeremy Laukkonen
  Some of the packages you can grab include cloud file sharing utilities, VPN utilities, and other things that can expand and increase the functionality of your Synology router.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A little expensive for what you get**
@@ -186,6 +178,10 @@ Lifewire / Jeremy Laukkonen
  **This is a rock-solid router if you can get it for the right price.**
 
  The Synology RT2600AC is a decent mid-range router that suffers from just a handful of minor issues. You’ll probably need a network switch, and it underperformed a bit in our speed tests, but it still posted decent numbers. The fact that you can use it in a mesh system is also a nice touch, as is the fact that Synology continues to improve the router with regular firmware updates and new packages to extend the functionality of the device. This router is worth a look if you want something that’s easy to set up but hides a lot of hidden potential under the hood.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -220,5 +216,20 @@ Lifewire / Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>[New] From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-brief-glimpses-in-the-social-space-for-2024/"><u>[Updated] Brief Glimpses in the Social Space for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-beginners-guide-to-preparing-images-for-print-using-photoshop/"><u>A Beginner's Guide to Preparing Images for Print Using Photoshop</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-15-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 15</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/downloadable-free-media-player-compatible-with-windows-mac-ios-and-android-devices/"><u>Downloadable Free Media Player: Compatible with Windows, Mac, iOS & Android Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hearing-the-sounds-of-success-with-audible-memberships/"><u>Hearing the Sounds of Success with Audible Memberships</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smileslice-studio-memomaestrospace/"><u>In 2024, SmileSlice Studio MemoMaestroSpace</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-gaming-experience-with-dells-alienware-aurora-r9-expert-review/"><u>Innovative Gaming Experience with Dell's Alienware Aurora R9 - Expert Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/medd-for-windows-107-installation/"><u>MEDD for Windows 10/7 Installation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pros-tips-capturing-slow-motion-on-gopro-hero-10-for-2024/"><u>Pro's Tips Capturing Slow Motion on GoPro Hero 10 for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-guide-to-choosing-between-a-kindle-and-fire-tablet/"><u>The Essential Guide to Choosing Between a Kindle and Fire Tablet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-revolutionary-google-pixel-6-smartphone-a-focused-look-at-its-camera-features/"><u>The Revolutionary Google Pixel 6 Smartphone - A Focused Look at Its Camera Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-seventh-wave-ais-role-in-workforce-change/"><u>The Seventh Wave: AI's Role in Workforce Change</u></a></li>
+</ul></div>
 

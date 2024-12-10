@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept"
-date: 2024-11-30T12:34:14.313Z
-updated: 2024-12-03T05:14:51.130Z
+date: 2024-12-06T22:19:46.063Z
+updated: 2024-12-10T03:43:35.012Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ## Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Have you got backlog dread? Do you stare at your pile of games forlornly as you swipe your credit card once again to put even more on the pile? I'm here to tell you that your "backlog" shouldn't be weighing you down.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s This “Backlog” Stuff?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Games are entertainment, not an obligation. So it might be better psychologically-speaking, to stop thinking of your video game collection as a "backlog" in the first place!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Backlogs Are a Rainy-Day Blessing
@@ -50,11 +50,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Don’t Have to Finish All Your Games
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Just like I have no interest in "[100%-ing](https://instagram-videos.techidaily.com/updated-tips-to-triple-your-instagram-video-viewers/)" games, I don't consider it an obligation to even see the credits in a game roll. I will never keep playing a game when I am no longer having fun. If there's nothing intrinsic about the game's story or game play loop to drive me to the end of the game, then I'll simply stop and move on to the next thing. There are some games that I feel are so good that I've finished them many times, and I'll probably never stop playing _DOOM_ or _Skyrim_, but the mountain of games that lost me halfway eclipses Mount Everest.
 
  Did I waste my time playing them? No! They were fun while they lasted, and I enjoyed my time with them, but just like any healthy relationship, you need to know when the right time is to walk away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don’t Let the Sunk Cost Fallacy Stop Your Fun
 
@@ -88,22 +88,18 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-screen-sharing-for-ppts-for-2024/"><u>[New] Mastering Screen Sharing for PPTs for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-ideal-10-video-editors-perfect-for-pc-based-tiktoks/"><u>[Updated] Ideal 10 Video Editors Perfect for PC-Based TikToks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a56s-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A56s 5G FRP</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-poco-f5-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Poco F5 Pro 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oneplus-11-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best OnePlus 11 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-live-streaming-duel-pitting-obs-against-shadowgl/"><u>In 2024, Live Streaming Duel Pitting OBS Against ShadowGL</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-the-ultimate-guide-to-siri-enabled-streaming-on-apple-tv-4k/"><u>Review: The Ultimate Guide to Siri-Enabled Streaming on Apple TV 4K</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sumind-bt7-the-following-message-is-from-the-us-census-bureau-and-provides-information-on-how-many-people-live-in-a-particular-region-such-as-a-state-or-cou158/"><u>Sumind BT7 The Following Message Is From the U.S. Census Bureau and Provides Information on How Many People Live in a Particular Region, Such as a State or County. The Numbers Come From the Most Recent Census Data Available at that Time:</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/syncing-soundtracks-with-pals-using-spotifys-shared-likes/"><u>Syncing Soundtracks with Pals Using Spotify's Shared Likes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-verdict-on-the-galaxy-s20-fe-with-5g-tech-reviews-and-consumer-ratings/"><u>The Definitive Verdict on the Galaxy S20 FE with 5G: Tech Reviews and Consumer Ratings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-king-of-gaming-stations-a-detailed-examination-of-the-xbox-one-x/"><u>The King of Gaming Stations - A Detailed Examination of the Xbox One X</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-lenovos-new-lightweight-champion-thinkpad-x1-nano-review/"><u>The Ultimate Guide to Lenovo's New Lightweight Champion - ThinkPad X1 Nano Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-m-mock-1000a-18000mah-auto-jump-starter-your-best-pick-for-emergencies/"><u>The Ultimate Guide to the M MOCK 1000A 18000mAh Auto Jump Starter: Your Best Pick for Emergencies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-mohu-leaf-30-antenna-high-performance-at-great-price/"><u>The Ultimate Guide to the Mohu Leaf 30 Antenna: High-Performance at Great Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-x-chair-x4-ergonomic-leader-in-corporate-comfort/"><u>The Ultimate Guide to the X-Chair X4 Ergonomic Leader in Corporate Comfort</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-youtube-growth-secrets-8-honestly-endorsed-methods/"><u>Top Youtube Growth Secrets – 8 Honestly-Endorsed Methods</u></a></li>
-<li><a href="https://media-tips.techidaily.com/upgrade-your-streaming-experience-with-rokus-new-entertainment-features/"><u>Upgrade Your Streaming Experience with Roku's New Entertainment Features!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-proven-steps-to-create-high-impact-facebook-video-ads-for-2024/"><u>[New] Proven Steps to Create High-Impact Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[Updated] In 2024, Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-capture-tool-for-windows-10-professional/"><u>[Updated] In 2024, Ultimate Capture Tool for Windows 10 - Professional</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-unspoken-rules-for-asmr-enthusiasts/"><u>[Updated] The Unspoken Rules for ASMR Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-uninterrupted-access-to-9-premium-christmas-films-enjoyment-at-zero-cost-for-2024/"><u>[Updated] Uninterrupted Access to 9 Premium Christmas Films Enjoyment at Zero Cost for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-nokia-150-2023-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Nokia 150 (2023)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-resolution-for-streamers-dealing-with-netflixs-nw-1-19-glitch-effectively/"><u>Error Resolution for Streamers: Dealing with Netflix's NW-1-19 Glitch Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-itel-s23-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Itel S23 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/this-app-lets-you-play-nintendo-classics-on-your-iphone-heres-how/"><u>This App Lets You Play Nintendo Classics on Your iPhone: Here's How</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transform-your-home-networking-game-with-the-amplifi-hd-wireless-mesh-solution-zero-dead-zones/"><u>Transform Your Home Networking Game with the Amplifi HD Wireless Mesh Solution – Zero Dead Zones.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transform-your-workspace-with-style-an-expert-review-of-the-sleek-flexispot-theodore-adjustable-standing-desk/"><u>Transform Your Workspace with Style: An Expert Review of the Sleek Flexispot Theodore Adjustable Standing Desk</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-images-2024s-elite-online-photo-services/"><u>Unleash Your Images: 2024'S Elite Online Photo Services</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/xp-pen-artist-16-pro-deep-dive-an-in-depth-review-of-one-of-the-best-professional-drawing-tablets/"><u>XP-Pen Artist 16 Pro Deep Dive: An In-Depth Review of One of the Best Professional Drawing Tablets</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Uncovering The Capabilities Of The Affordable And Portable ASUS VivoBook 11
-date: 2024-09-09T04:10:05.984Z
-updated: 2024-09-10T04:10:05.984Z
+date: 2024-12-06T19:07:22.364Z
+updated: 2024-12-09T19:10:45.603Z
 categories:
   - BestProducts
 description: This Article Describes Uncovering The Capabilities Of The Affordable And Portable ASUS VivoBook 11
@@ -13,16 +13,14 @@ thumbnail: https://www.lifewire.com/thmb/8MBHODfA-gaYiM-agLZb_H2nNo0=/400x300/fi
 
 4.5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung QN55Q60RAFXZA 55-Inch Smart 4K UHD TV
 
 ![Samsung QN55Q60RAFXZA Smart TV](https://www.lifewire.com/thmb/3wvRd5fdYGaWCbby7QCdqre1xeg=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_SmartTVs_QN55Q60RAFXZA_HeroSquare-b61680537acf4bb8b90cef3343e76e8d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Bill Loguidice
 
  What We Like
@@ -45,11 +43,9 @@ Lifewire / Bill Loguidice
 4.5
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung QN55Q60RAFXZA 55-Inch Smart 4K UHD TV
 
 ![Samsung QN55Q60RAFXZA Smart TV](https://www.lifewire.com/thmb/Uk2902wqEKeVUjk27nqGMWb7vYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_SmartTVs_QN55Q60RAFXZA_HeroSquare-b61680537acf4bb8b90cef3343e76e8d.jpg)
@@ -96,6 +92,10 @@ Lifewire / Bill Loguidice
 
  All of the rest of the inputs and outputs are located in a recessed area on the far left rear of the unit. Starting from the bottom up, the ports are: ANT IN, EX-LINK, LAN, HDMI IN 1, HDMI IN 2, HDMI IN 3, HDMI IN 4 (ARC), DIGITAL AUTO OUT (OPTICAL), USB (HDD 5V 1A), and USB (5V 0.5A). While having all of those port options is great, arguably the most important are the four HDMI inputs, which go a long way towards accommodating the many set-top boxes, consoles, and other devices in the average home.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Well-packaged with step-by-step instructions**
 
  Our shipping box was damaged and the internal styrofoam busted up, but fortunately the TV inside was fine. This packaging damage did make the base unstable, however, so keep that in mind if the base styrofoam is not a solid piece anymore.
@@ -140,6 +140,10 @@ Lifewire / Bill Loguidice
 
  Lifewire / Bill Loguidice
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Image Quality: Spectacular color and resolution**
 
  Image quality is the one area that Samsung focuses on in their marketing of this TV, and with good reason. Even with not touching any of the default settings, the picture quality, and color, regardless of source or content, was uniformly excellent.
@@ -153,17 +157,9 @@ Lifewire / Bill Loguidice
  Even at extreme viewing angles, and certainly any practical angle, the picture remained clear, with little-to-no noticeable color or contrast washout. There are few practical scenarios that we can envision that this TV would not provide an excellent viewing experience, regardless of where you’re seated.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Audio Quality: Serviceable sound**
 
  As expected, even at its non-budget price point, sound quality is merely serviceable on the QN55Q60RAFXZA. If you want sound quality to match your picture quality, you’re going to have to invest in a similarly excellent surround sound system. With that said, even with its volume set to 100, the sound from the downfiring speakers on the QN55Q60RAFXZA is well-defined and clear with no noticeable hissing or popping.
@@ -174,12 +170,6 @@ Lifewire / Bill Loguidice
 
  Even at extreme viewing angles, and certainly any practical angle, the picture remained clear, with little-to-no noticeable color or contrast washout.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: Lots of options built-in**
 
  Samsung’s Smart Hub, which is based on Tizen, is a surprisingly robust operating system for the QN55Q60RAFXZA. It features a wide range of apps, and even games, to the point where you may not even need any external media boxes like a[Roku](https://www.lifewire.com/what-is-a-roku-4142216) or[Apple TV](https://www.lifewire.com/what-is-apple-tv-1994193) . Of course, external media boxes like a Roku, and in particular an Apple TV, do offer more app and content options overall, but you’ll still find almost all of the top apps and then some on Smart Hub, including Netflix, Apple TV+, Google Play, Sling TV, Amazon Prime Video, Disney+, Spotify, and SiriusXM.
@@ -194,12 +184,6 @@ Lifewire / Bill Loguidice
 
  Finally, thanks to its Apple Airplay 2 support, the QN55Q60RAFXZA makes an excellent Screen Mirroring and audio target. Simply select Samsung Q60 Series on your recent Apple mobile device and your content plays on the QN55Q60RAFXZA. In our testing, the connection happened quickly and playback was smooth.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Worth the price if you value picture quality**
 
  At $999.99, the QN55Q60RAFXZA is not one of the cheaper 55 inch TV options. With that said, you also don’t have to worry about build or picture quality. With its HDR10 and HDR10+ support and ability to support billions of colors, you’ll get superior color reproduction when paired with the right content. The only negative is that the QN55Q60RAFXZA does not have Dolby Vision support, a color format that many other competitive sets do feature. For most people, however, HDR10 and HDR10+ support is all that really matters, so the lack of Dolby Vision is not as much of a deal-breaker as it could be. Nevertheless, it’s something to keep in mind when comparison shopping at this price point.
@@ -208,12 +192,6 @@ Lifewire / Bill Loguidice
 
  Overall, based on our extensive testing, it’s hard to find many faults with the QN55Q60RAFXZA. You get undeniable quality for the price and plenty of full-feature HDMI inputs.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Samsung QN55Q60RAFXZA vs. Samsung QN55Q6F**
 
  Compared to what is essentially its immediate predecessor, the[Samsung QN55Q6F](https://www.lifewire.com/samsung-qn55q6f-smart-tv-review-4842860) , the QN55Q60RAFXZA offers only a handful of clear advantages, with slightly better color reproduction and Google Assistant and Amazon Alexa support. Right now, the QN55Q6F retails for about $100 less than the QN55Q60RAFXZA, so if that savings is important to you, it makes for a similarly excellent choice. Otherwise, there’s no reason to not go for the newer QN55Q60RAFXZA.
@@ -226,18 +204,6 @@ Lifewire / Bill Loguidice
 
  With its sleek design and excellent picture performance, the Samsung QN55Q60RAFXZA Smart TV stands out. While it’s not the cheapest option in a 55-inch TV, it represents a safe bet for those who want a wide-range of features without sacrificing quality where it counts.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  QN55Q60RAFXZA 55-Inch Smart 4K UHD TV
@@ -258,8 +224,6 @@ Lifewire / Bill Loguidice
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,4 +231,26 @@ Lifewire / Bill Loguidice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-supreme-selection-ideal-sierra-dvd-and-video-apps/"><u>[New] In 2024, Supreme Selection Ideal Sierra Dvd & Video Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-achieving-youtube-excellence-with-gamers-channel-graphics/"><u>[Updated] 2024 Approved Achieving YouTube Excellence with Gamers' Channel Graphics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-seamless-integration-of-snap-camera-for-enhanced-online-participation/"><u>[Updated] In 2024, Seamless Integration of Snap Camera for Enhanced Online Participation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-shine-and-sharpness-streamlined-brightening-of-iphone-movies/"><u>[Updated] Shine and Sharpness Streamlined Brightening of iPhone Movies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-google-chromecast-and-fire-stick-for-smooth-streaming-experience/"><u>Connecting Google Chromecast and Fire Stick for Smooth Streaming Experience</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-13-ultra-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-xiaomi-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Xiaomi .</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-discreet-audio-modulation-strategies-with-audacity/"><u>In 2024, Discreet Audio Modulation Strategies with Audacity</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-creating-your-own-usb-defender-key-for-windows-11-safety/"><u>Step-by-Step Guide: Creating Your Own USB Defender Key for Windows 11 Safety</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/take-your-videos-to-the-next-level-best-adobe-premiere-plugins-free-download-for-2024/"><u>Take Your Videos to the Next Level Best Adobe Premiere Plugins (Free Download) for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-t6-camera-breakdown-photography-without-breaking-bank/"><u>The T6 Camera Breakdown: Photography without Breaking Bank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-top-computer-brands-shaping-the-future-in-202n4/"><u>The Top Computer Brands Shaping the Future in 202N4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-saving-money-on-macbook-pro-cases-reviews-of-economic-options-including-procase-13/"><u>The Ultimate Guide to Saving Money on MacBook Pro Cases: Reviews of Economic Options Including ProCase 13</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-microsoft-office-alternatives/"><u>The Ultimate List: Microsoft Office Alternatives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-for-top-quality-frames/"><u>The Ultimate Review for Top-Quality Frames</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-8-must-play-apps-exclusive-to-google-play-pass/"><u>Top 8 Must-Play Apps Exclusive to Google Play Pass</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-overview-of-minecraft-creative-playground-for-every-age-group/"><u>Top Rated Overview of Minecraft: Creative Playground for Every Age Group</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/topo-ergonomic-standing-pad-assessment-say-goodbye-to-fatigue/"><u>Topo Ergonomic Standing Pad Assessment: Say Goodbye to Fatigue</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-link-av2000-surge-in-speed-with-unsatisfactory-aesthetics-in-depth-analysis/"><u>TP-Link AV2000 Surge in Speed with Unsatisfactory Aesthetics - In-Depth Analysis</u></a></li>
+</ul></div>
 

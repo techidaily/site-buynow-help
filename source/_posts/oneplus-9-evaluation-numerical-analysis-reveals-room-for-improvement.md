@@ -1,7 +1,7 @@
 ---
 title: "OnePlus 9 Evaluation: Numerical Analysis Reveals Room for Improvement"
-date: 2024-11-13T01:47:02.253Z
-updated: 2024-11-15T03:23:05.299Z
+date: 2024-12-08T03:48:20.499Z
+updated: 2024-12-10T10:34:01.205Z
 categories:
   - BestProducts
 description: "This Article Describes OnePlus 9 Evaluation: Numerical Analysis Reveals Room for Improvement"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 ## Lenovo's Pioneering Foldable Laptop, The X1 Fold - Stunning Functionality Meets Room for Improvement
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lenovo Thinkpad X1 Fold
 
@@ -42,16 +46,13 @@ Andy Zahn / Lifewire
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lenovo Thinkpad X1 Fold
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/m_vIjFrzd75ye5pEp_0Px7yJw4Y=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_horiz_Lenovo-X1-Fold-1-14756f522df84525a64a007692b7a0ff.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
 
@@ -102,13 +103,6 @@ Andy Zahn / Lifewire
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/p0Qc_HB2JX9ZmWvnGQvS7H2Ox9g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-7-c4b412e5b6f1404d91668a87bfa69dcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Andy Zahn / Lifewire
 
  It’s also a fairly chunky device, being both dense and thick, particularly when folded. Given its girth, you’d expect more ports around its edges, but you only get two[USB-C](https://www.lifewire.com/usb-c-4149490) 3.2 Gen 2 ports, one of which can be used as a DisplayPort output. Some models of the X1 Fold also feature a nano SIM slot for a mobile data connection. Unfortunately, you only get 256GB of SSD capacity, which is bizarrely small given the price of the X1 Fold. Exterior controls consist of a power button and volume rocker located on one side of the device.
@@ -119,7 +113,15 @@ Andy Zahn / Lifewire
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/0yBMR4dxmiM0cge7qMbC0Z5oPtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-6-3d34a60b6d7c418a8eafc24a2374dcf0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Andy Zahn / Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Display: Absolutely spectacular
 
@@ -138,10 +140,7 @@ Andy Zahn / Lifewire
 Andy Zahn / Lifewire
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Navigation: A device of many inputs
@@ -157,10 +156,7 @@ Andy Zahn / Lifewire
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/SreHCwqxjjZpgsINWuMbPmtuOoE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-9-6b25f0217be34b8d8b3685f8419206fe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
@@ -175,6 +171,10 @@ Andy Zahn / Lifewire
 
  The deep blacks and rich colors put other more traditional displays to shame, and to some extent, it helps justify the hefty price tag beyond the novelty of its folding design.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software: Minimal bloatware
 
  Aside from a few built-in Lenovo and Microsoft apps, the X1 Fold came with very little bloatware installed. The Lenovo Commercial Vantage software was quite useful for checking the computer's status, installing updates, and managing the extra level of Wi-Fi security that Lenovo offers. Windows 10 itself functions surprisingly well, considering the constantly shifting way in which the X1 Fold is designed to function. There were only a few hiccups here and there as the device figured out my orientation or whether I’d attached the keyboard.
@@ -186,10 +186,7 @@ Andy Zahn / Lifewire
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/TzQnSBet8ESte9--b4aREI2Fo3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-4-f985e96cb6e741c083693c69311e91b7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Andy Zahn / Lifewire
@@ -197,13 +194,6 @@ Andy Zahn / Lifewire
 ## Camera: OK in good light
 
  The 5MP webcam in the X1 Fold is no better or worse than I’d expect. It provides acceptable results given good light, and can capture video up to 1440p[resolution](https://www.lifewire.com/what-is-resolution-2767449) . Its placement on one of the short sides of the screen makes it more ideal for use with the X1 Fold in laptop or vertical tablet mode than in landscape tablet mode.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connectivity: Fast and flexible
 
@@ -221,14 +211,11 @@ Andy Zahn / Lifewire
 
 ![Lenovo Thinkpad X1 Fold](https://www.lifewire.com/thmb/jI8D6QycYNFCrYWyKfFsEeNKMBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo-X1-Fold-2-f2581e0132f740469409d73a90c10ce6.jpg)
 
-Andy Zahn / Lifewire
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Andy Zahn / Lifewire
 
 ## Lenovo Thinkpad X1 Fold vs. Dell XPS 13 7390 2-in-1
 
@@ -241,13 +228,6 @@ Andy Zahn / Lifewire
  **This immensely versatile, though expensive device grants a glimpse into the future of mobile technology.**
 
  One look at the Lenovo Thinkpad X1 Fold and you know it's something completely new. Its large, foldable screen and clever design paired with well-integrated accessories allows it to morph to fit a variety of different use cases. However, there’s no getting around the painfully high price point, mediocre performance, and all the little flaws that are the hallmark of a first-generation product.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -292,22 +272,20 @@ Andy Zahn / Lifewire
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-sprint-to-stunning-photos-in-win-11-edition/"><u>[New] Sprint to Stunning Photos in Win 11 Edition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-captivate-viewers-the-art-of-crafting-short-videos/"><u>[Updated] 2024 Approved Captivate Viewers The Art of Crafting Short Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/charting-your-youtube-trajectory-essential-tools-from-social-blade-for-2024/"><u>Charting Your YouTube Trajectory Essential Tools From Social Blade for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-withings-move-smartwatch-analysis-classic-style-meets-modern-tech/"><u>Comprehensive Withings Move Smartwatch Analysis - Classic Style Meets Modern Tech</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decoding-amazon-primes-merit-join-now/"><u>Decoding Amazon Prime's Merit – Join Now</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-picks-top-10-budget-friendly-jpeg-to-gif-apps/"><u>Expert Picks Top 10 Budget-Friendly JPEG to GIF Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/from-obscurity-to-elite-nine-keys-to-dominating-instagram-for-2024/"><u>From Obscurity to Elite Nine Keys to Dominating Instagram for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-streamlining-minecraft-by-boosting-ram-capacity/"><u>In 2024, Streamlining Minecraft by Boosting RAM Capacity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-airborne-visuals-a-closer-look-at-the-dji-mavic-3-features-and-capabilities/"><u>Mastering Airborne Visuals - A Closer Look at the DJI Mavic 3 Features and Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-new-era-of-gaming-top-console-selections/"><u>Navigating the New Era of Gaming: Top Console Selections</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/nina-liu-authors-biography-discover-her-literary-journey/"><u>Nina Liu: Author's Biography - Discover Her Literary Journey</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-assistance-with-file-explorer-features-in-windows-11/"><u>Step-by-Step Assistance with File Explorer Features in Windows 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranked-rca-video-doorbell-camera-an-effective-surveillnace-gadget-for-your-home/"><u>Top-Ranked RCA Video Doorbell Camera: An Effective Surveillnace Gadget for Your Home</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-choices-the-elite-console-lineup-of-2024-for-gamers-worldwide/"><u>Ultimate Choices: The Elite Console Lineup of 2024 for Gamers Worldwide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-top-quality-sound-protection-at-gigs/"><u>Ultimate Guide: Top-Quality Sound Protection at Gigs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-opting-for-applecare-plus-5-benefits-unveiled/"><u>Why Opting for AppleCare Plus? 5 Benefits Unveiled</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-how-to-download-vimeo-video-to-mp4/"><u>[New] In 2024, How To Download Vimeo Video to MP4</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-phantom-a-guide-to-backward-video-capture-techniques-for-2024/"><u>[New] Phantom A Guide to Backward Video Capture Techniques for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-15-diy-music-production-tutorial-videos-for-home-studios-for-2024/"><u>[Updated] 15 DIY Music Production Tutorial Videos for Home Studios for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-television-experience-playback-tips-for-youtube-content/"><u>[Updated] In 2024, Enhancing Television Experience Playback Tips for YouTube Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-supreme-gaming-performance-msi-katana-156-inch-laptop-powered-by-nvidia-geforce-rtx-4070-for-just-1199/"><u>Experience Supreme Gaming Performance: MSI Katana 15.ˈ6 Inch Laptop - Powered by NVIDIA GeForce RTX 4070 for Just $1,199</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-earths-richest-digital-content-wizard/"><u>In 2024, Earth's Richest Digital Content Wizard</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-removing-unwanted-backdrops-a-comprehensively-approachable-method/"><u>In 2024, Removing Unwanted Backdrops A Comprehensively Approachable Method</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-finding-and-managing-your-pcs-network-settings-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Finding and Managing Your PC's Network Settings via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-list-of-best-cell-phone-signal-boosters-for-optimal-connectivity/"><u>The Definitive List of Best Cell Phone Signal Boosters for Optimal Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-evolving-microsoft-surface-pro-7-an-assessment-of-its-dependable-enhancements-and-subtle-revisions/"><u>The Evolving Microsoft Surface Pro 7 - An Assessment of Its Dependable Enhancements and Subtle Revisions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-huawei-p20-pro-phenomenon-a-dual-win-for-photography-enthusiasts-and-smartphone-lovers/"><u>The Huawei P20 Pro Phenomenon: A Dual Win for Photography Enthusiasts and Smartphone Lovers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-for-garmin-venu-mastering-247-health-and-exercise-insights/"><u>The Ultimate Review for Garmin Venu - Mastering 24/7 Health and Exercise Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-showdown-assessing-the-pros-and-cons-of-amazon-fire-versus-samsung-tablets/"><u>The Ultimate Showdown: Assessing the Pros and Cons of Amazon Fire Versus Samsung Tablets</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-inner-star-karaoke-usas-top-review-and-musical-joy-under-150/"><u>Unleash Your Inner Star: Karaoke USA's Top Review and Musical Joy Under $150</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/windows-defender-is-it-equipped-for-family-friendly-browsing-and-parental-oversight-experts-at-yl-software-unpack-the-features/"><u>Windows Defender: Is It Equipped for Family-Friendly Browsing and Parental Oversight? – Experts at YL Software Unpack the Features</u></a></li>
 </ul></div>
 

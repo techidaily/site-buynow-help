@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Dream: Experience Baldur's Gate 3 with David Attenborough Using Advanced Voice Mod Technology"
-date: 2024-11-30T03:58:25.290Z
-updated: 2024-12-02T17:25:51.226Z
+date: 2024-12-09T05:31:10.587Z
+updated: 2024-12-09T19:18:32.187Z
 tags:
   - games
   - tv
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  Thanks to AI, we're seeing some truly out-there mods for games, and one of the most impressive might be one that swaps out the Baldur's Gate 3 narrator for a voice that almost (but not quite) sounds like Sir David Attenborough. Here's how to try it for yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What You Need
 
  Apart from owning a PC copy of Baldur's Gate 3, you also need three pieces of software:
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 1: Open the Mod Manager
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 2: Import the Mod Fixer
 
  The mod fixer is necessary for many mods to work in the game, since it forces the game to recompile the campaign data, without which some mods would not work. To install it, Select File>Import Mod in the mod manager.
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 ![BG3 mod importing menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-importing-menu-option.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to the folder where the mod fixer's zipped file is, select it and then select "Open." You should see "ModFixer" listed under "Overrides."
@@ -86,20 +86,20 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This means we're ready to go!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 5: Test the Game
 
  Everything on the modding side of the process should now be done, which means it's time to start up the game to see if it's working. You'll get a warning that mods have been detected, which is a good sign! You can choose to never show this message again, but I think it's worth the hassle of the extra click so that you know whether you're starting up a modded version of Baldur's Gate or not.
 
 ![BG3 mod warning message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-warning.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you're in the game, you can either load up your save game and wait until you get to a section of narration, or you can quickly start a new game with a preset character, run to the first nursery in front of your pod, and check for the voice this way. As you can see in this clip.
 
@@ -132,21 +132,22 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-evolving-tactics-for-crafting-immersive-mukbang-sessions/"><u>[Updated] 2024 Approved Evolving Tactics for Crafting Immersive Mukbang Sessions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-a-guide-to-facebooks-pinnacle-feature-adjustments-for-2024/"><u>[Updated] A Guide to Facebook's Pinnacle Feature Adjustments for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-loop-like-a-boss-quick-and-easy-techniques-for-youtube-watchers/"><u>[Updated] Loop Like a Boss Quick and Easy Techniques for YouTube Watchers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-sony-xperia-1-v-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Sony Xperia 1 V without App | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-using-your-amazon-kindle-paperwhite-7th-generation/"><u>Comprehensive Guide to Using Your Amazon Kindle Paperwhite (7Th Generation)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/detailed-assessment-the-pros-cons-and-performance-of-apple-books/"><u>Detailed Assessment: The Pros, Cons, and Performance of Apple Books</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-elite-selection-of-outdoor-blu-ray-writing-tools/"><u>Discover the Elite Selection of Outdoor Blu-Ray Writing Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-premier-console-game-devices/"><u>Discover the Premier Console Game Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-unbeatable-tech-offers-on-amazon-during-the-2024-prime-day-event/"><u>Discover Unbeatable Tech Offers on Amazon During the 2024 Prime Day Event</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/economical-ears-exceptional-experience-oneplus-buds-reviewed/"><u>Economical Ears, Exceptional Experience - OnePlus Buds Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-collection-most-effective-wide-sized-gaming-mats/"><u>Elite Collection: Most Effective Wide-Sized Gaming Mats</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-handling-and-correcting-the-0x800f0922-update-error-in-windows-11/"><u>Expert Advice: Handling and Correcting the 0X800F0922 Update Error in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/kostenlose-konvertierung-von-asf-to-mp4-mit-movavi-online-tools-bereitstellen/"><u>Kostenlose Konvertierung Von ASF-to-MP4 Mit Movavi Online-Tools Bereitstellen</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/rage-raid-and-rebel-without-a-gta-tale/"><u>Rage, Raid and Rebel Without a GTA Tale</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1724467299672-resolving-nvstreamuseraagentexe-errors-in-windows-a-comprehensive-guide/"><u>Resolving NvStreamUseraAgent.exe Errors in Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-bring-your-videos-to-life-top-5-iphone-video-editing-apps-for-2024/"><u>Updated Bring Your Videos to Life Top 5 iPhone Video Editing Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-copyright-claims-and-how-to-deal-with-a-strike/"><u>[New] YouTube Copyright Claims and How to Deal with a Strike?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-to-zoom-in-on-your-favorite-roblox-locales/"><u>[Updated] Expert Tips to Zoom In on Your Favorite Roblox Locales</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-latest-lg-360-camera-features-and-review/"><u>2024 Approved Latest LG 360 Camera Features and Review</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-perfect-audio-gear-for-streamers/"><u>2024 Approved Perfect Audio Gear for Streamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-nubia-red-magic-9-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Nubia Red Magic 9 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-thi/"><u>New In 2024, Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-windows-mobile-video-playback-guide-for-2024/"><u>The Ultimate Windows Mobile Video Playback Guide for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-8-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 8</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranking-home-theater-computers-for-ultimate-entertainment-in-234/"><u>Top-Ranking Home Theater Computers for Ultimate Entertainment in 2^34</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-link-archer-c9-reviewed-best-value-for-money-wireless-router-today/"><u>TP-Link Archer C9 Reviewed: Best Value for Money Wireless Router Today</u></a></li>
+<li><a href="https://fox-access.techidaily.com/troubleshoot-steams-remote-play-issues-with-easy-solutions/"><u>Troubleshoot Steam's Remote Play Issues with Easy Solutions!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-cleaning-companion-dreame-bot-l10-pro-lidar-sweeper-evaluation/"><u>Ultimate Cleaning Companion: Dreame Bot L10 Pro LiDAR Sweeper Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-with-the-apple-watch-s-eries-9-assessment/"><u>Ultimate Guide to Choosing with the Apple Watch S ^Eries 9 Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-mini-marvel-a-comprehensive-look-at-the-xbox-series-ss-incredible-tech/"><u>Unboxing the Mini Marvel: A Comprehensive Look at the Xbox Series S's Incredible Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unihertz-atom-xl-assessment-compact-durability-meets-mighty-performance/"><u>Unihertz Atom XL Assessment: Compact Durability Meets Mighty Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-insights-into-google-wireless-nest-doorbells-with-built-in-batteries/"><u>Unveiling Insights Into Google Wireless Nest Doorbells with Built-In Batteries</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-gen-2-of-googles-nest-hub-an-in-depth-analysis-and-the-case-for-adding-a-camera/"><u>Unveiling the Gen 2 of Google's Nest Hub: An In-Depth Analysis and the Case for Adding a Camera</u></a></li>
 </ul></div>
 

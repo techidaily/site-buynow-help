@@ -1,7 +1,7 @@
 ---
 title: "Beyond Discord: Why Gaming Communities Are Calling for an Upgrade with Modern Alternatives"
-date: 2024-11-25T16:17:31.733Z
-updated: 2024-12-03T02:37:37.033Z
+date: 2024-12-09T05:27:23.244Z
+updated: 2024-12-09T16:49:39.197Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 ## Beyond Discord: Why Gaming Communities Are Calling for an Upgrade with Modern Alternatives
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
  Discord is an excellent community chat app, but it has somewhat strayed from its original focus on being a universal gamer-centric platform. While Steam is great for games within Valve's platform, we still lack a universal third-party app that does it all. This is something Xfire once offered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Was Xfire?
@@ -54,16 +54,12 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 ![Asking to join a game in Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2024-08-15_19h15_02.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Inviting new people to a chat didn't involve roles and permissions like on Discord servers, so it was easy to make new friends and start playing games with them. Speaking of making friends, one of the coolest features was the "Friends of Friends Playing" tab, which allowed you to see what your friends' friends were playing.
 
  That's how I found my first local _World of Warcraft_ community. A special shout-out goes to the in-game overlay, which supports all the same features to ensure you can organize a new session without leaving the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  A Universal Game Time Tracker
 
@@ -73,12 +69,16 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 
  There are some universal game time tracking solutions available, but none of them are particularly popular. Remember, Xfire was used by tens of millions of gamers. The only app that could pull off a universal game tracker that people care about is Discord, but Discord doesn't even have proper account pages at the time of writing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Game Server Browsers Need to Make a Comeback
 
 ![Photo showing a stack of servers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/shutterstock_43367116.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Shutterstock.com/Eugene Kouzmenok](https://www.shutterstock.com/image-photo/servers-stack-hard-drives-datacenter-43367116)_
@@ -106,22 +106,20 @@ _[Shutterstock.com/Eugene Kouzmenok](https://www.shutterstock.com/image-photo/se
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-analyzing-the-full-range-of-obs-studios-capabilities/"><u>[Updated] In 2024, Analyzing the Full Range of OBS Studio's Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-lenovo-chromebook-duet-evaluation-a-comprehensive-look-at-the-cost-effective-tabletlaptop-hybrid/"><u>Affordable Lenovo Chromebook Duet Evaluation: A Comprehensive Look at the Cost-Effective Tablet/Laptop Hybrid</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/aminy-ufo-review-looks-can-be-deceiving/"><u>Aminy UFO Review: Looks Can Be Deceiving</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/barnes-and-nobles-nook-glowlight-ereader-review-your-perfect-book-companion-in-the-dark/"><u>Barnes & Noble's Nook GlowLight eReader Review: Your Perfect Book Companion in the Dark</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bt-d11-by-beatit-a-comprehensive-review-of-the-robust-jump-starter/"><u>BT-D11 by Beatit: A Comprehensive Review of the Robust Jump Starter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/capitalize-on-prime-day-savings-top-picks-for-high-performance-benq-tech/"><u>Capitalize on Prime Day Savings: Top Picks for High-Performance BenQ Tech</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-enhanced-security-with-ring-doorbell-proplus/"><u>Comprehensive Evaluation of Enhanced Security with Ring Doorbell Pro+</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-maxoak-185wh-50000mah-power-bank-the-ultimate-all-rounder/"><u>Comprehensive Evaluation of MaxOak 185Wh / 50,000mAh Power Bank - The Ultimate All-Rounder</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-yoga-a940-laptop-analysis-and-evaluation/"><u>Comprehensive Lenovo Yoga A940 Laptop Analysis and Evaluation</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-mirillis-apps-and-programs-for-free-secure-installation-instructions/"><u>Download Mirillis Apps and Programs for Free – Secure Installation Instructions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/enshrine-your-elite-playthroughs-in-galaxy-cases/"><u>Enshrine Your Elite Playthroughs in Galaxy Cases</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-se-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 14 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-6-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 6 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-aesthetic-almanac-makeup-hair-and-more-on-youtube/"><u>In 2024, The Aesthetic Almanac Makeup, Hair & More on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/seamless-integration-protecting-your-memories-by-syncing-ipad-content-with-your-computer-in-just-three-steps/"><u>Seamless Integration: Protecting Your Memories by Syncing iPad Content with Your Computer in Just Three Steps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sound-showdown-chronicles-apple-airpods-pro-vs-galaxy-buds-pro-edition-samsung/"><u>Sound Showdown Chronicles: Apple AirPods Pro Vs. Galaxy Buds Pro Edition (Samsung)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capturecrafted-expert-reviews-on-the-best-screen-recorders/"><u>[New] 2024 Approved CaptureCrafted Expert Reviews on the Best Screen Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-getting-acquainted-with-youtube-tvs-distinctive-features/"><u>[Updated] Getting Acquainted with YouTube TV's Distinctive Features</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/10-remains-my-preferred-choice-for-everyday-computing/"><u>10 Remains My Preferred Choice for Everyday Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-fire-tv-with-insignia-ns-43df710na19-a-comprehensive-alexa-and-ultra-hd-review/"><u>Affordable Fire TV with Insignia NS-43DF710NA19: A Comprehensive Alexa & Ultra HD Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-performance-unleashed-tp-link-archer-c9-router-revealed/"><u>Affordable Performance Unleashed: TP-Link Archer C9 Router Revealed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-reading-pleasure-redefined-with-the-2019-amazon-kindle-a-full-review/"><u>Affordable Reading Pleasure Redefined with the 2019 Amazon Kindle - A Full Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-macbook-pro-m1-2e-16-inch-laptop-review-why-its-the-ultimate-choice-for-professionals/"><u>Apple MacBook Pro (M1, 2E) 16-Inch Laptop Review: Why It's The Ultimate Choice for Professionals!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apples-masterpiece-unveiled-a-deep-dive-into-the-215-4k-imac-review/"><u>Apple's Masterpiece Unveiled: A Deep Dive Into the 21.5 4K iMac Review!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-long-distance-networking-gear-2024s-premier-wireless-routers-reviewed/"><u>Best Long-Distance Networking Gear: 2024'S Premier Wireless Routers Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-tablet-for-you-analyzing-pros-and-cons-of-amazon-fire-vs-apple-ipad/"><u>Best Tablet for You? Analyzing Pros & Cons of Amazon Fire Vs. Apple iPad</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/sma-in-characters-two-ways-to-enliven-text/"><u>Charisma in Characters Two Ways to Enliven Text</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-step-by-step-process-to-revert-or-remove-a-windows-11-update/"><u>Complete Guide: Step-by-Step Process to Revert or Remove a Windows 11 Update</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-e-reader-analysis-the-amazon-kindle-paperwhite-2018-edition/"><u>Comprehensive E-Reader Analysis: The Amazon Kindle Paperwhite (2018 Edition)</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lava-yuva-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-strategies-for-seamless-family-subscription-sharing/"><u>Step-by-Step Strategies for Seamless Family Subscription Sharing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LensDirect Review: Protect Your Eyes with Premium Prescription Blocking Glasses Against Digital Strain"
-date: 2024-09-09T22:48:01.785Z
-updated: 2024-09-15T05:44:32.720Z
+date: 2024-12-08T06:40:57.848Z
+updated: 2024-12-10T03:18:57.094Z
 categories:
   - BestProducts
 description: "This Article Describes LensDirect Review: Protect Your Eyes with Premium Prescription Blocking Glasses Against Digital Strain"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/e5fa00147cce37f680150801c141d35390120d592
 ## Unlocking Efficiency with Corsair's Latest Innovation – The Corsair One Pro Reviewed
 
 4.5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Corsair One Pro
 
@@ -38,6 +42,10 @@ Lifewire / Jonno Hill
 [View On Amazon](https://www.amazon.com/Corsair-CS-9000011-NA-i7-7700K-Certified-Refurbished/dp/B07FMNQDHF/?tag=lifewire-onsite-prod-20&ascsubtag=5072820%7Cn263af6bf93484f57b41504a1366de95207%7CB07FMNQDHF) [View On Best Buy $2,975](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fcorsair-one-gaming-desktop-intel-core-i9-9900k-32gb-memory-nvidia-geforce-rtx-2080-ti-960gb-ssd-2tb-hdd%2F6394141.p%3FskuId%3D6394141) [View On Corsair.com](https://www.corsair.com/us/en/Categories/Products/Systems/CORSAIR-ONE/CORSAIR-ONE-PRO-Compact-Gaming-PC-%E2%80%94-Intel-Core-i7-7700K%2C-NVIDIA-GeForce-GTX-1080-Ti%2C-16GB-DDR4-2400%2C-960GB-SSD/p/CS-9000004-NA)
 
 4.5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Corsair One Pro
 
@@ -92,13 +100,14 @@ Lifewire / Jonno Hill
 
 ![Corsair One Pro](https://www.lifewire.com/thmb/fx7g2Vg5VksuNwH4LThQhniEsg0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Corsair-One-Pro-Desktop-Computer-3-51b17ae55a144069ac2ce72488200290.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance** : **Solid for gaming, but limited RAM for video editing**
@@ -110,19 +119,6 @@ Lifewire / Jonno Hill
  On the gaming side, things were slightly less rosy, with the Corsair One Pro scoring an 8,602 in the synthetic gaming benchmark Time Spy in the 3DMark suite. Compare this with an average of 8,890 for systems with this hardware configuration. To put this in perspective, the average score on a system with a GTX 1080 instead of a 1080 Ti averages 7,180, so the Corsair One Pro is still doing just fine.
 
  It’s certainly enough memory if you don’t do much beyond gaming and web browsing, but it’s quite limiting for any creative applications like video editing and motion graphics.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Network** :**Everything a gaming PC needs**
 
@@ -152,6 +148,10 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Corsair One Pro vs HP OMEN Obelisk**
 
  These systems are quite different, inside and out, but they represent roughly the same effort: building an affordable high-performance gaming desktop in a smaller-than-average form factor. HP’s approach to this is in the form of the H[P OMEN Obelisk](https://www.lifewire.com/hp-omen-obelisk-review-5072832) (see on[HP](https://store.hp.com/us/en/mdp/desktops/omen-875) ), which uses an Intel i9-9900k and 32GB of RAM in conjunction with an Nvidia RTX 2080 Super.
@@ -165,13 +165,6 @@ Lifewire / Jonno Hill
  **A pre-built gaming PC fit for novices and veterans alike.**
 
  Corsair has done an admirable job putting together a pre-built PC that can satisfy everyone from the total novice to the PC-building veteran. The Corsair One Pro is beautifully designed, space-efficient, quiet, and cool. To top things off, they aren’t even charging an extraordinary premium over what the parts would cost if purchased individually. Buyers should be able to consider the Corsair One Pro with very few reservations.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -206,5 +199,26 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ultivate-1000-fanbase-followers-quickly-for-2024/"><u>[New] Cultivate 1,000 Fanbase Followers Quickly for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-essential-blueprint-for-exceptional-video-tutorial-creation-for-2024/"><u>[Updated] The Essential Blueprint for Exceptional Video Tutorial Creation for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>2024 Approved Chrome to iPhone A Guide to Stripping YouTube Ads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-social-media-savant-writes-on-mastering-brand-promotion/"><u>2024 Approved The Social Media Savant' Writes on Mastering Brand Promotion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apemans-c45e-dash-camera-affordable-efficient-and-worthy-of-consideration-product-review/"><u>Apeman's C45e Dash Camera - Affordable, Efficient & Worthy of Consideration – Product Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-most-effective-mesh-routers-featuring-netgear-orbi/"><u>Comprehensive Review of the Most Effective Mesh Routers - Featuring Netgear Orbi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-ultra-adjustable-mavix-m-cuisine-m9-gaming-chair-a-revolution-in-ergonomics-zdnet-tech-insights/"><u>Comprehensive Review of the Ultra-Adjustable Mavix M Cuisine M9 Gaming Chair: A Revolution in Ergonomics | ZDNET Tech Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-dells-alienware-aurora-r9-a-cutting-edge-adventure-into-next-gen-gaming-technology/"><u>Exploring Dell's Alienware Aurora R9 – A Cutting-Edge Adventure Into Next-Gen Gaming Technology</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-8-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 8 without Apple ID?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-ultra-portable-amazon-basics-tablet-stand-your-digital-companion-on-the-move/"><u>Review of the Ultra-Portable Amazon Basics Tablet Stand - Your Digital Companion on The Move!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-5-gaming-monitors-for-playstation-and-xbox/"><u>The Ultimate 5 Gaming Monitors for PlayStation & Xbox</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-considerations-that-should-guide-your-decision-making-on-buying-a-new-printer/"><u>Top Considerations That Should Guide Your Decision Making On Buying a New Printer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performance-review-of-fujitsu-scansnap-ix1400-your-go-to-scanner-solution-for-home-offices-and-smbs/"><u>Top Performance Review of Fujitsu ScanSnap iX1400: Your Go-To Scanner Solution for Home Offices & SMBs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-devices-full-potential-with-the-superior-kootek-cooler-pad/"><u>Unleash Your Device's Full Potential with the Superior Kootek Cooler Pad!</u></a></li>
+<li><a href="https://win11.techidaily.com/unsure-where-to-place-games-on-xbox-helpful-hacks/"><u>Unsure Where to Place Games on Xbox: Helpful Hacks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-artistic-marvel-an-exclusive-review-of-huions-kamvas-gt-191-tablet/"><u>Unveiling The Artistic Marvel - An Exclusive Review Of Huion's Kamvas GT-191 Tablet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrade-your-photography-game-with-the-flawless-nixplay-iris/"><u>Upgrade Your Photography Game with the Flawless Nixplay Iris</u></a></li>
+</ul></div>
 

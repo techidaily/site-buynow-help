@@ -1,7 +1,7 @@
 ---
 title: Steam Marketplace Surge Sees Premium Prices for Virtual Banana Items
-date: 2024-11-28T19:15:59.253Z
-updated: 2024-12-03T05:03:34.908Z
+date: 2024-12-04T00:29:55.684Z
+updated: 2024-12-09T21:13:54.717Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Steam Marketplace Surge Sees Premium Prices for Virtual Banana Items
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Steam’s latest clicker game sensation has users trading virtual bananas on the Steam Community Market for hundreds of real-world dollars. Just what is going on?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  This Game Is Bananas
@@ -36,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A virtual banana from the Banana game on Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ss_641d6402187d5335b1e345498f0eff293a054f75-1920x1080.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pony / Sky / AestheticSpartan
@@ -46,7 +46,7 @@ Pony / Sky / AestheticSpartan
  These in-game items may be given out for free, but they can be traded on the Steam Community Market for real money. You can buy and sell bananas from as little as a few cents up to hundreds or thousands of dollars. The rarer the banana, the higher the value the community has assigned to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's Really Going On Here?
@@ -58,7 +58,7 @@ Pony / Sky / AestheticSpartan
 ![The free-to-play Banana game in third place on the Steam charts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-12-at-12-32-52.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s still a bit of a mystery what’s really going on here. The game makes no claims that in-game items have any inherent value so on the surface, Banana seems innocent enough. The game doesn’t appear to be doing anything in the background (so it’s not a stealthy crypto miner), and you don’t even need to leave it open as long as you open it regularly for a few clicks to collect your fruit.
@@ -88,24 +88,19 @@ Pony / Sky / AestheticSpartan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-best-badge-cleaners-for-tiktok-on-mobile-tech/"><u>[New] 2024 Approved The Best Badge Cleaners for TikTok on Mobile Tech</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-experience-professional-video-calling-explore-the-top-5-devices/"><u>[Updated] 2024 Approved Experience Professional Video Calling - Explore The Top 5 Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-video-cameras-of-the-future/"><u>[Updated] Explore the Best Video Cameras of the Future</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unveiling-best-free-user-friendly-srt-translators-online/"><u>[Updated] Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/10-advanced-techniques-to-master-with-canva-designer-for-2024/"><u>10 Advanced Techniques to Master with Canva Designer for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-glitches-a-guide-to-fixing-error-code-0x800700e9-in-xbox-game-pass-and-windows-11/"><u>Banishing Glitches: A Guide to Fixing Error Code 0X800700E9 in Xbox Game Pass & Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ning-video-comments-on-youtube/"><u>Examining Video Comments on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximizing-your-prime-experience-with-toshibas-fire-tv-ed-55lf711u20-review-the-ultimate-guide-for-prime-subscribers/"><u>Maximizing Your Prime Experience with Toshiba's Fire TV Ed 55LF711U20 Review: The Ultimate Guide for Prime Subscribers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-tech-discovery-through-toms-hardware-reviews/"><u>Pioneering Tech Discovery Through Tom's Hardware Reviews</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-budget-picked-detailed-look-into-asuss-convertible-marvel-the-chromebook-flip-c302ca/"><u>The Ultimate Budget Picked: Detailed Look Into Asus's Convertible Marvel, the Chromebook Flip C302CA</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-evaluating-key-aspects-before-purchasing-a-tablet/"><u>The Ultimate Guide: Evaluating Key Aspects Before Purchasing a Tablet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-journey-through-challenging-landscapes-top-race-rc-rock-crawler-breakdown/"><u>The Ultimate Journey Through Challenging Landscapes: Top Race RC Rock Crawler Breakdown</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-showdown-can-chromecast-with-google-tv-outperform-firetv/"><u>The Ultimate Showdown: Can Chromecast with Google TV Outperform FireTV?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-test-of-resilience-in-depth-review-of-the-top-race-rc-rock-crawler-for-all-terrain-triumphs/"><u>The Ultimate Test of Resilience: In-Depth Review of the Top Race R/C Rock Crawler for All Terrain Triumphs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-factors-to-evaluate-when-purchasing-an-unlocked-mobile-device/"><u>Top Factors to Evaluate When Purchasing an Unlocked Mobile Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-review-of-the-samsung-qn55q6f-the-best-in-4k-hdr-clarity-and-smart-features/"><u>Top Review of the Samsung QN55Q6F - The Best in 4K, HDR Clarity and Smart Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unbeatable-bargains-await-secure-your-favorite-tribit-sound-gear-at-knockout-prices-on-prime-day/"><u>Unbeatable Bargains Await: Secure Your Favorite Tribit Sound Gear at Knockout Prices on Prime Day</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/uncovering-the-secrets-of-samsung-cf591-the-ultimate-gamers-display-revealed/"><u>Uncovering the Secrets of Samsung CF591 – The Ultimate Gamer’s Display Revealed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-smart-tv-meets-social-networks-televising-fb-content-for-2024/"><u>[New] Smart TV Meets Social Networks Televising FB Content for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-achieving-peak-zoom-resolution-effective-techniques/"><u>2024 Approved Achieving Peak Zoom Resolution Effective Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-which-is-more-proficient-at-coding-chatgpt-or-gemini/"><u>Chatbot Face-Off: Which Is More Proficient at Coding, ChatGPT or Gemini?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-on-perfecting-audio-settings-with-the-windows-10-eq-function/"><u>Expert Advice on Perfecting Audio Settings with the Windows 10 EQ Function</u></a></li>
+<li><a href="https://win-data.techidaily.com/experts-guide-migrate-windows-server-2008-r2-to-new-hardware-efficiently/"><u>Experts Guide: Migrate Windows Server 2008 R2 to New Hardware Efficiently</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-standard-to-splitsville-a-week-with-an-ergonomic-split-keyboard-and-its-surprising-impact-on-my-tech-setup-zdnet/"><u>From Standard to Splitsville: A Week with an Ergonomic Split Keyboard & Its Surprising Impact on My Tech Setup | ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-conversor-online-de-video-convert-wmv-a-asf-con-la-ayuda-de-movavi/"><u>Gratuito Conversor Online De Vídeo: Convert WMV a ASF Con La Ayuda De Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-secrets-to-perfectly-lit-evening-portraits/"><u>In 2024, Secrets to Perfectly Lit Evening Portraits</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ambient-weather-observer-ws-1002-with-wifi-deluxe-precision-noteworthy-investment-reviewed/"><u>The Ambient Weather Observer WS-1002 with WiFi - Deluxe Precision, Noteworthy Investment Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-glion-dolly-e-scooter-experience-examining-its-elegant-aesthetics-swift-velocity-and-expensive-nature/"><u>The Glion Dolly E-Scooter Experience - Examining Its Elegant Aesthetics, Swift Velocity & Expensive Nature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-top-playlist-for-the-best-family-friendly-game-ever-minecraft/"><u>The Top Playlist for the Best Family-Friendly Game Ever - Minecraft!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/to-embrace-or-not-new-mac-os-sonoma-edition/"><u>To Embrace or Not: New Mac OS, Sonoma Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-picks-for-exceptional-mobile-gaming-titles-number-one-to-eight/"><u>Top Picks for Exceptional Mobile Gaming Titles: Number One to Eight</u></a></li>
 </ul></div>
 

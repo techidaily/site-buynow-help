@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
-date: 2024-11-29T01:06:33.966Z
-updated: 2024-12-03T02:33:30.292Z
+date: 2024-12-08T02:06:22.500Z
+updated: 2024-12-09T22:02:01.223Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
 
  By far the most popular chips powering the current generation of [handheld gaming PCs](https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-devices-by-toms-authority-in-hardware/) are AMD’s [APUs](https://youtube-videos.techidaily.com/diy-split-screen-video-tutorials-for-youtube-enthusiasts-for-2024/), which combine a powerful mobile [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) with a potent [integrated](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/) [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/), allowing these handheld devices to run the latest and greatest games.
@@ -34,10 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The result is that even the most powerful APUs out there, such as the Z1 Extreme found in the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), have a sizably lower memory bandwidth compared to modern discrete GPUs, even the bottom-of-the-barrel models such as the AMD Radeon RX 6400\. As an example, the maximum memory bandwidth of the ROG Ally is 51.20GB/s, while the RX 6400 has a maximum bandwidth of 128.0GB/s.
 
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _AMD_
 
@@ -60,7 +60,7 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
@@ -71,15 +71,15 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
@@ -92,7 +92,7 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -126,22 +126,19 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-best-yt-storytellers-for-enthralling-viewing-experience/"><u>[New] In 2024, Best YT Storytellers for Enthralling Viewing Experience</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-synching-release-timings-to-audience-trends/"><u>[Updated] In 2024, Synching Release Timings to Audience Trends</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-streamline-viewing-learn-to-insert-timestamps-on-videos/"><u>2024 Approved Streamline Viewing Learn to Insert Timestamps on Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-refresh-the-drivers-for-a-usb-serial-communication-interface/"><u>How To Refresh The Drivers For A USB Serial Communication Interface</u></a></li>
-<li><a href="https://common-error.techidaily.com/ibuprofen/"><u>Ibuprofen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-common-dll-has-stopped-working-in-windows-bid-error-goodbye/"><u>Step-by-Step Fix for 'Common DLL Has Stopped Working' In Windows: Bid Error Goodbye</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-most-affordable-and-sturdy-tv-mounts-reviewed-cheetahs-model/"><u>The Most Affordable & Sturdy TV Mounts Reviewed - Cheetah's Model</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-companion-for-mobile-bibliophiles-in-depth-review-of-kobo-clara-hd/"><u>The Perfect Companion for Mobile Bibliophiles: In-Depth Review of Kobo Clara HD</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-significant-effect-of-focusing-on-miles-morales-in-the-latest-spider-man-game/"><u>The Significant Effect of Focusing on Miles Morales in the Latest Spider-Man Game</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-mastering-your-samsung-galaxy-tab-s5es-feature-packed-android-experience/"><u>The Ultimate Guide to Mastering Your Samsung Galaxy Tab S5e's Feature-Packed Android Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-using-your-netgear-c370er-a-closer-look-at-its-modem-capabilities/"><u>The Ultimate Guide to Using Your Netgear C370er - A Closer Look at Its Modem Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-9-benefits-of-using-chatgpt-for-content-production/"><u>Top 9 Benefits of Using ChatGPT for Content Production</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-home-theater-computers-a-comprehensive-guide/"><u>Top-Rated Home Theater Computers : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-distinctions-ipad-vs-ipad-air-a-comprehensive-guide/"><u>Unveiling the Distinctions: IPad Vs. IPad Air – A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-fun-in-depth-look-at-the-maisto-rc-rock-crawler-perfect-for-families/"><u>Unveiling the Fun - In-Depth Look at the Maisto RC Rock Crawler, Perfect for Families</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-a-comprehensive-review-for-2024/"><u>Updated AVS Video Editor A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/orf-jpeg-movavi/"><u>무세방 ORF JPEG 전환 서비스 - 웹 공간에서 자유소비 Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-embracing-resilience-against-online-detractors-for-2024/"><u>[New] Embracing Resilience Against Online Detractors for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-depth-analysis-of-gradual-audio-lowering-with-lumafusion-for-2024/"><u>[New] In-Depth Analysis of Gradual Audio Lowering with Lumafusion for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/y-music-production-tutorial-videos-for-home-studios/"><u>15 DIY Music Production Tutorial Videos for Home Studios</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ds-to-validate-youtube-login-for-2024/"><u>Methods to Validate YouTube Login for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pixel-perfect-portfolits-the-leading-websites-for-photo-framing/"><u>Pixel-Perfect Portfolits The Leading Websites for Photo Framing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-access-to-windows-11-printer-tools-max-52-chars/"><u>Simplifying Access to Windows 11 Printer Tools (Max 52 Chars)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-fast-and-the-curious-unveiling-the-pros-and-cons-of-the-oneplus-8ts-cameras/"><u>The Fast and the Curious: Unveiling the Pros and Cons of the OnePlus 8T's Cameras</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-reno-10-pro-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo Reno 10 Pro 5G Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-zombies-into-a-gameplay-delight-in-depth-analysis-of-7-days-to-die-on-sandbox-platforms/"><u>Transforming Zombies Into a Gameplay Delight: In-Depth Analysis of '7 Days to Die' On Sandbox Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-analysis-xbox-one-x-leading-the-charge-in-gaming-consoles/"><u>Ultimate Analysis: Xbox One X - Leading the Charge in Gaming Consoles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-the-best-tv-streaming-platforms-of-the-year-2024/"><u>Ultimate List: The Best TV Streaming Platforms of the Year 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-power-and-savings-with-the-hp-omen-obelisk-desktop-reviewed/"><u>Unleashing Power and Savings with the HP OMEN Obelisk Desktop Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlimited-access-why-choose-spotify-premium/"><u>Unlimited Access: Why Choose Spotify Premium?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-the-ps5-value-4-compelling-reasons-for-purchase/"><u>Unlock the PS5 Value - 4 Compelling Reasons for Purchase</u></a></li>
 </ul></div>
 

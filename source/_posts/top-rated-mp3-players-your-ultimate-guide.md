@@ -1,7 +1,7 @@
 ---
 title: Top Rated MP3 Players - Your Ultimate Guide
-date: 2024-12-02T11:31:36.554Z
-updated: 2024-12-03T02:08:10.288Z
+date: 2024-12-05T10:05:00.780Z
+updated: 2024-12-09T16:37:39.247Z
 tags:
   - buying-guides
 categories:
@@ -24,15 +24,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * [](https://www.amazon.com/Astell-Kern-Futura-Portable-Resolution/dp/B094JZWX7S?tag=htg-v2-3e0j3ge-20&ascsubtag=UUhtgUeUpU204953&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F823614%2Fbest-mp3-players%2F&asc%5Fcampaign=Commerce)  
 ![Astell&Kern A&futura SE180](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/astell-kern-afutura-se180-thumb.png)  
 #####  Astell&Kern A&Futura SE180  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best MP3 Player Overall  
 [See at Amazon](https://www.amazon.com/Astell-Kern-Futura-Portable-Resolution/dp/B094JZWX7S?tag=htg-v2-3e0j3ge-20&ascsubtag=UUhtgUeUpU204953&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F823614%2Fbest-mp3-players%2F&asc%5Fcampaign=Commerce)
 * [](https://www.amazon.com/RUIZU-Lossless-Bluetooth-Resolution-High-Res/dp/B09V11CP9P?tag=htg-v2-3e0j3ge-20&ascsubtag=UUhtgUeUpU204953&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F823614%2Fbest-mp3-players%2F&asc%5Fcampaign=Commerce)  
 ![ruizu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/ruizu.png)  
 #####  RUIZU A55 MP3 Player  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best Budget MP3 Player  
 [See at Amazon](https://www.amazon.com/RUIZU-Lossless-Bluetooth-Resolution-High-Res/dp/B09V11CP9P?tag=htg-v2-3e0j3ge-20&ascsubtag=UUhtgUeUpU204953&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F823614%2Fbest-mp3-players%2F&asc%5Fcampaign=Commerce)
@@ -52,12 +53,12 @@ Best MP3 Player for Kids
 ![sandisk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/sandisk.png)  
 #####  SanDisk 16GB Clip Sport Plus  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best MP3 Player for Workouts  
 [See at Amazon](https://www.amazon.com/dp/B01LW2F237?tag=htg-v2-3e0j3ge-20&ascsubtag=UUhtgUeUpU204953&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F823614%2Fbest-mp3-players%2F&asc%5Fcampaign=Commerce)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What to Look for in an MP3 Player in 2023
 
@@ -82,13 +83,13 @@ Best MP3 Player for Workouts
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Best MP3 Player Overall: [Astell&Kern A&Futura SE180](https://www.amazon.com/Astell-Kern-Futura-Portable-Resolution/dp/B094JZWX7S?tag=htg-v2-3e0j3ge-20&ascsubtag=UUhtgUeUpU204953&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F823614%2Fbest-mp3-players%2F&asc%5Fcampaign=Commerce) 
 
 ![Astell&Kern A&futura SE180](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/astell-kern-afutura-se180.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Astell&Kern
 
@@ -127,10 +128,6 @@ The Astell&Kern A&Futura SE180 isn't cheap, but it has a lot to offer. With supp
 
 ![Ruizu A55 MP3 Player showing a song playing on the cover screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/ruizu-a55.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 RUIZU
 
 | Pros                                               | Cons                                          |
@@ -153,6 +150,10 @@ RUIZU
 ![ruizu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/ruizu.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Budget MP3 Player
 
@@ -190,15 +191,7 @@ The RUIZU A55 64GB HiFi Lossless MP3 Player offers features you used to only see
 
 ![fiio m11 plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/fiio-m11-plus.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best MP3 Player with Bluetooth
 
@@ -211,6 +204,10 @@ The FiiO M11Plus is an MP3 and hi-res player with all the connectivity you need,
 ##  Best MP3 Player for Kids: [TIMMKOO MP3 Player with Bluetooth](https://www.amazon.com/dp/B07X8V9B8J?tag=htg-v2-3e0j3ge-20&ascsubtag=UUhtgUeUpU204953&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F823614%2Fbest-mp3-players%2F&asc%5Fcampaign=Commerce) 
 
 ![Person with Timmkoo player](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/timmkoo-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Timmkoo
 
@@ -233,10 +230,14 @@ Timmkoo
 
 ![timkoo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/timkoo.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best MP3 Player for Kids
@@ -276,6 +277,10 @@ The TIMMKOO MP3 Player with Bluetooth is close enough to an iPod touch to keep y
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best MP3 Player for Workouts
 
 #####  SanDisk 16GB Clip Sport Plus
@@ -284,31 +289,27 @@ Want to head out on a run without risking your phone or a more advanced MP3 play
 
 [See at Amazon](https://www.amazon.com/dp/B01LW2F237?tag=htg-v2-3e0j3ge-20&ascsubtag=UUhtgUeUpU204953&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F823614%2Fbest-mp3-players%2F&asc%5Fcampaign=Commerce) 
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### How do I download music onto an MP3 player?
 
  Plug your MP3 player into your computer via USB, and most players will appear as an external hard drive. Then you can drag and drop music files onto your player like any other files on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How do I reset my MP3 player?
 
  This varies from player to player, but it usually involves either removing the battery for a while or pressing a button or series of buttons on the player. Check your manual or the manufacturer's website for instructions for your player.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Can I listen to services like Spotify on an MP3 player?
 
  Some MP3 players feature Wi-Fi and support for streaming services like Spotify. This varies from player to player, so keep this in mind while shopping if this is an important feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why would I use an MP3 player instead of my phone?
 
@@ -329,21 +330,21 @@ Want to head out on a run without risking your phone or a more advanced MP3 play
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-conveying-content-tweets-and-tumbleloops/"><u>[New] In 2024, Conveying Content Tweets & Tumbleloops</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snapseed-101-easy-steps-for-image-transformation/"><u>[Updated] Snapseed 101 Easy Steps for Image Transformation</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-15-pro-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 15 Pro - 4 Easy Ways</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-ea-play-ps5-game-selection/"><u>Essential EA Play PS5 Game Selection</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expertly-curated-selection-of-virtual-shops-selling-tvs-uncovered/"><u>Expertly Curated Selection of Virtual Shops Selling TVs Uncovered</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-x50i-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor X50i without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-art-of-fixing-face-id-blunders-in-your-apple-camera-roll-today/"><u>Master the Art of Fixing Face ID Blunders in Your Apple Camera Roll Today</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-protective-covers-for-the-newest-google-pixel-8-smartphone/"><u>Top Protective Covers for the Newest Google Pixel 8 Smartphone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-boomboxes-the-ultimate-list/"><u>Top Rated Boomboxes : The Ultimate List</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-footrests-for-your-desk-a-comprehensive-guide/"><u>Top Rated Footrests for Your Desk : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-performing-processors-a-comprehensive-guide/"><u>Top-Performing Processors: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranking-microsd-cards-for-optimal-performance/"><u>Top-Ranking MicroSD Cards for Optimal Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-classic-gamepads-ultimate-pick-for-pc-and-raspberry-pi/"><u>Top-Rated Classic Gamepads: Ultimate Pick for PC and Raspberry Pi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-desk-seating-solutions-for-professionals/"><u>Top-Rated Desk Seating Solutions for Professionals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-youtube-power-with-insights-from-creator-studio/"><u>Unlock YouTube Power with Insights From Creator Studio</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/1726028349091-windows-10-3/"><u>Windows 10向けビデオとオーディオフュージョン技術 - トップ3の統合手法</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-next-level-broadcast-software-beyond-streamlabs/"><u>[New] 2024 Approved Next-Level Broadcast Software Beyond StreamLabs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-bypassing-blockbusters-2023-indie-favorites/"><u>[New] In 2024, Bypassing Blockbusters 2023 Indie Favorites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-the-moment-leading-tools-to-record-webinars-and-more/"><u>Capturing the Moment - Leading Tools to Record Webinars & More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-patch-tuesday-importance-for-it-security-and-maintenance/"><u>Decoding Patch Tuesday: Importance for IT Security and Maintenance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/full-review-of-razers-high-definition-webcam-for-2024/"><u>Full Review of Razer's High Definition Webcam for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-how-to-capture-clear-and-smooth-aquatic-moments/"><u>In 2024, How to Capture Clear and Smooth Aquatic Moments</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-7-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 7 SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/new-android-tv-14-unveils-enhanced-picture-in-picture-feature/"><u>New Android TV 14 Unveils Enhanced Picture-in-Picture Feature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-evaluation-the-ultimate-gamers-choice-for-sony-pulse-wireless-earbuds-and-real-time-sound/"><u>Professional Evaluation: The Ultimate Gamers' Choice for Sony Pulse Wireless Earbuds and Real-Time Sound</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-streaming-olympic-aquatic-competitions/"><u>Step-by-Step Guide: Streaming Olympic Aquatic Competitions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stop-youtube-from-taking-over-your-apple-tv-and-android-tv-wallpaper-a-simple-guide/"><u>Stop YouTube From Taking Over Your Apple TV & Android TV Wallpaper: A Simple Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/tecnica-para-desbloquear-datos-despues-del-formato-rapido-en-un-disco-rigido-como-hacerlo/"><u>Técnica Para Desbloquear Datos Después Del Formato Rapido en Un Disco Rígido: Cómo Hacerlo</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-advantages-of-digital-comics-over-printed-versions/"><u>The Advantages of Digital Comics Over Printed Versions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-end-of-the-era-for-ubiquitous-touch-buttons-in-product-design/"><u>The End of the Era for Ubiquitous Touch Buttons in Product Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-powers-not-delegated-to-the-united-states-by-the-constitution-nor-prohibited-by-it-to-the-states-are-reserved-to-the-states-respectively-or-to-the-peopl32/"><u>The Powers Not Delegated to the United States by the Constitution, nor Prohibited by It to the States, Are Reserved to the States Respectively, or to the People.</u></a></li>
 </ul></div>
 

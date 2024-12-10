@@ -1,7 +1,7 @@
 ---
 title: Exploring the Absence of Built-In Screenshots in Modern Gaming Mice
-date: 2024-12-02T12:06:17.914Z
-updated: 2024-12-03T04:27:29.897Z
+date: 2024-12-05T05:15:35.399Z
+updated: 2024-12-10T07:01:35.719Z
 tags:
   - games
   - tv
@@ -28,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  I’ve always wanted a dedicated screenshot button on my gaming mouse. Now that I’m rocking a dual mouse setup, I finally turned my dream into reality. Here’s how I did it and why I waited so long to finally take the plunge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Remap Your Mouse Button to Capture Screenshots With It
@@ -50,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Logitech G Hub button customization menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-03.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll need to name the new macro. In my case, I named it “Screenshot.” Press Enter to move to the next step.
@@ -58,7 +58,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Naming a new macro in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-04.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The type of macro you want is “No Repeat” since you want to take a single screenshot with a single button press.
@@ -66,7 +66,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Selecting the type of macro in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-05.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, click the “Start Now” button.
@@ -76,10 +76,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Since we're going to record the Win+PrtSc combo that captures screenshots and automatically saves them in the Screenshots folder, select the “Record Keystrokes” option on the following screen.
 
 ![Logitech G Hub showing types of macros you can record.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-07.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, press Win+PrtSc, click the “Stop Recording” button, and click Save.
 
@@ -100,6 +96,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  This allows you to grab some cool, action-heavy screen grabs. Just look at this awesome screenshot I took in _Hellblade II_. I managed to snag the screenshot while avoiding the enemy’s attack, which I couldn’t pull off if I had used the keyboard:
 
 ![Hellblade II screenshot captured with a mouse button macro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-1319.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Goran Damnjanovic / How-To Geek
 
@@ -138,15 +138,20 @@ Goran Damnjanovic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[New] 2024 Approved Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beginning-basics-the-ultimate-guide-to-starting-a-reviews-centric-youtube-channel/"><u>2024 Approved Beginning Basics The Ultimate Guide to Starting a Reviews-Centric YouTube Channel</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726220966582-pefjpg-movavi/"><u>自由開源下轉換PEF為JPG格式- 高效能Movavi解決方案</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-15-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 15 online without SIM Card?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-webm-video-shrinking-made-simple-top-online-compressors-for-2024/"><u>New WebM Video Shrinking Made Simple Top Online Compressors for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-gen-tech-tug-of-war-assessing-the-differences-between-galaxy-s23-and-s21-ultras/"><u>Next-Gen Tech Tug of War: Assessing the Differences Between Galaxy S23 & S21 Ultras</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/power-up-your-gadgets-with-our-in-depth-review-of-the-anker-superhub-usb-30/"><u>Power Up Your Gadgets with Our In-Depth Review of the Anker SuperHub USB 3.0</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/powering-up-your-drive-expert-review-of-dbpower-600a-with-a-robust-18k-mah-feature/"><u>Powering Up Your Drive: Expert Review of DBPOWER 600A with a Robust 18K mAh Feature</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/procase-macbook-pro-13-defender-the-wallet-friendly-choice-our-complete-case-comparison-and-review/"><u>ProCase MacBook Pro 13 Defender: The Wallet-Friendly Choice - Our Complete Case Comparison & Review</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-axon-40-lite-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Axon 40 Lite</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-delving-into-the-strengths-of-yuneecs-typhoon-h-drone/"><u>[Updated] In 2024, Delving Into the Strengths of Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-video-editing-essentials-building-youtube-trailers-in-filmora/"><u>[Updated] In 2024, Video Editing Essentials Building YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-guide-to-microsoft-driver-update-for-windows-1187-made-easy/"><u>Comprehensive Guide to Microsoft Driver Update for Windows 11/8/7 Made Easy!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-in-selfies-the-top-8-for-iphone-for-2024/"><u>Excellence in Selfies The Top #8 for IPhone for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-full-scrutiny-the-dji-inspire-1-experience/"><u>In 2024, Full Scrutiny The DJI Inspire 1 Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-garmin-forerunner-945-a-premier-gps-smartwatch-guide/"><u>In Depth Evaluation of the Garmin Forerunner 945: A Premier GPS Smartwatch Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insta360s-underwater-exploration-made-easy-the-one-x2-reviewed/"><u>Insta360's Underwater Exploration Made Easy - The One X2 Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-emergency-car-jumps-and-smartphone-charges-a-deep-dive-into-the-halo-bolt-charger-review/"><u>Mastering Emergency Car Jumps and Smartphone Charges: A Deep Dive Into the Halo Bolt Charger Review</u></a></li>
+<li><a href="https://win-community.techidaily.com/mastering-media-formats-the-best-three-ways-to-switch-from-mkv-to-quicktime-with-ease/"><u>Mastering Media Formats: The Best Three Ways to Switch From MKV to QuickTime with Ease</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/minecraft-review/"><u>Minecraft Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/moto-g-power-showcases-impressive-energy-efficiency-in-its-sleek-design-a-comprehensive-review/"><u>Moto G Power Showcases Impressive Energy Efficiency in Its Sleek Design: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-tv-sales-a-review-of-six-premier-online-retailers/"><u>Navigating TV Sales: A Review of Six Premier Online Retailers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/precise-steps-to-take-prior-to-buying-recording-equipment/"><u>Precise Steps to Take Prior to Buying Recording Equipment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-10-online-subtitle-editors-for-2024/"><u>The Best 10 Online Subtitle Editors for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-wmv-files-into-swf-best-software-options-for-seamless-conversion/"><u>Transforming WMV Files Into SWF - Best Software Options for Seamless Conversion</u></a></li>
 </ul></div>
 

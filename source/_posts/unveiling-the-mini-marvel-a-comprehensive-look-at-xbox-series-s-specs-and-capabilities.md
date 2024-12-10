@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Mini Marvel: A Comprehensive Look at Xbox Series S Specs and Capabilities"
-date: 2024-09-08T19:56:17.181Z
-updated: 2024-09-15T00:13:38.594Z
+date: 2024-12-05T05:59:59.643Z
+updated: 2024-12-10T07:08:00.075Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Mini Marvel: A Comprehensive Look at Xbox Series S Specs and Capabilities"
@@ -82,10 +82,7 @@ Lifewire / Yoona Wagener
 Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comfort: Streamlined but not immune to typical fit issues
@@ -97,6 +94,10 @@ Lifewire / Yoona Wagener
  While the easy-adjusting Velcro strap is a welcome departure from the typical notch-and-clasp closure on most fitness trackers, adjusting the fit or removing the device wasn’t as smooth as I’d expected it to be.
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Performance: Constantly monitoring movement, not performance
 
@@ -116,6 +117,10 @@ Lifewire / Yoona Wagener
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software: An essential and user-friendly mobile app
 
  Without a visual display to interact with, the accompanying Halo mobile app is absolutely essential to the user experience. It delivers helpful explanations and guidance that most users want. Compatible with[iOS](https://www.lifewire.com/what-is-ios-1994355) and[Android](https://www.lifewire.com/what-is-google-android-1616887) phones, the Halo app makes everything from the initial setup to body scanning and voice tracking straightforward. Sleep data is backed up by explanations as is the activity point tracking system. Automatically tracked workout data is also easily accessible and so is the option to manually upload workout activities (there are 38 to choose from, including an all-encompassing Other category).
@@ -126,6 +131,10 @@ Lifewire / Yoona Wagener
 
  The app makes everything from the initial setup to body scanning and voice tracking straightforward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery: Enough juice to last nearly a week
 
  Amazon says that with tone tracking enabled, the band should last up to seven days on a single charge. There are two options for tracking tone: one for more accuracy and one to optimize battery life. I chose the latter and found that the band lasted for six days, which comes close to the manufacturer’s claims. I also noticed that by manually muting the mic, the battery drained far less quickly than when I left it on to listen at all times.
@@ -135,13 +144,6 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
 Lifewire / Yoona Wagener
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Price: A reasonable price for the feature set
 
@@ -160,16 +162,7 @@ Lifewire / Yoona Wagener
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -179,10 +172,7 @@ Lifewire / Yoona Wagener
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -214,5 +204,24 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-editorial-elegance-at-the-end/"><u>[New] 2024 Approved Editorial Elegance at the End</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-why-is-my-instagram-video-rotated-unnaturally/"><u>[New] Why Is My Instagram Video Rotated Unnaturally?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boost-your-video-subtitle-skills-using-these-top-online-aids/"><u>[Updated] Boost Your Video Subtitle Skills Using These Top Online Aids</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-photo-and-video-streaming-from-android-to-iphone/"><u>[Updated] In 2024, Photo & Video Streaming From Android to iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>[Updated] The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-jackery-powerbar-the-portable-charger-featuring-an-ac-output/"><u>Experts Weigh in on Jackery PowerBar – The Portable Charger Featuring an AC Output</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/incorporate-rhetorical-questions-to-engage-the-reader/"><u>Incorporate Rhetorical Questions to Engage the Reader</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-fitbit-versa-2-a-complete-guide-to-its-health-monitoring-and-enhanced-smartwatch-functions/"><u>Inside the Fitbit Versa 2 - A Complete Guide to Its Health Monitoring and Enhanced Smartwatch Functions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-showdown-the-technical-and-feature-comparison-of-galaxy-s24-vs-galaxy-s23-ultra-models/"><u>Samsung Showdown: The Technical and Feature Comparison of Galaxy S24 Vs. Galaxy S23 Ultra Models</u></a></li>
+<li><a href="https://win-superb.techidaily.com/solved-how-to-overcome-cannot-access-source-file-or-disk-mistake-top-10-methods/"><u>Solved: How to Overcome 'Cannot Access Source File or Disk' Mistake - Top 10 Methods</u></a></li>
+<li><a href="https://fox-within.techidaily.com/solving-your-laptops-power-puzzle-a-guide-to-detecting-battery-issues-by-yl-software-experts/"><u>Solving Your Laptop's Power Puzzle: A Guide to Detecting Battery Issues by YL Software Experts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/studiolightkit-smartchoice-review/"><u>StudioLightkit SmartChoice Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-dji-robomaster-s1-breakdown-educational-coding-meets-exciting-tank-drone-battles/"><u>The DJI RoBOmaster S1 Breakdown: Educational Coding Meets Exciting Tank Drone Battles!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/0-essential-youtube-tips-for-optimal-engagement/"><u>Top 20 Essential YouTube Tips for Optimal Engagement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lenovo-thinkpad-x1-titanium-yoga-the-next-gen-2-in-1-device-that-transforms-for-devoted-thinkpad-users/"><u>Unveiling the Lenovo ThinkPad X1 Titanium Yoga: The Next-Gen 2-in-1 Device That Transforms For Devoted ThinkPad Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-hps-latest-creation-zbook-firefly-15-g8-notebook-insights/"><u>Unveiling the Potential of HP's Latest Creation - ZBook Firefly 15 G8 Notebook Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Bluetooth Capability in Yamaha MCR-B020BL Stereo
-date: 2024-09-14T08:21:55.244Z
-updated: 2024-09-14T16:22:19.593Z
+date: 2024-12-08T04:28:29.865Z
+updated: 2024-12-10T01:40:48.047Z
 categories:
   - BestProducts
 description: This Article Describes Bluetooth Capability in Yamaha MCR-B020BL Stereo
@@ -37,9 +37,17 @@ Lifewire / Benjamin Zeman
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LIHAN Bluetooth Handsfree Car Charger FM Transmitter
 
 ![LIHAN LHFM1039 Wireless Bluetooth FM Transmitter](https://www.lifewire.com/thmb/jrMuMzQ7_B29XqIDlBvRsk6IUgA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_05LW1999388-1-a0e26e2481c1466eb7c6ba19b61ac1e5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Benjamin Zeman
 
@@ -65,6 +73,10 @@ Lifewire / Benjamin Zeman
 
  Lifewire / Benjamin Zeman
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Simple and average**
 
  We tested this transmitter in a 2018 Toyota RAV4, which has two cigarette lighter inputs under the dash. Having a small form factor mean that the Lihan bluetooth FM transmitter fit well in our vehicle. It measures 5.12 x 1.81 x 2.76 inches and 1.76 ounces, with a face that’s a little larger than we expected; we’ve seen smaller[transmitters](https://www.lifewire.com/best-iphone-fm-transmitters-for-car-1999388) , like the Aphaca BT69.
@@ -81,6 +93,10 @@ Lifewire / Benjamin Zeman
 
  Overall we found the design of the transmitter to be very average and unexceptional. Nothing really stood out as good or bad. It’s not the best we’ve tested but it’s functional. We’ve seen worse, especially cramming too much on the front, causing a device to feel crowded like the Criar US-CP24.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Easy as it should be**
 
  This transmitter is really easy to set up, partially because of its dearth of special features. It’s almost plug and play, all you need to do is connect your bluetooth or plug in your MicroSD card or[USB flash drive](https://www.lifewire.com/best-usb-flash-drives-4141193) . After plugging it into our car’s 12V power outlet the display lights up and the device is ready to pair.
@@ -92,10 +108,7 @@ Lifewire / Benjamin Zeman
  Using audio files on a USB flash drive or MicroSD card is also easy. As long as they are in a supported format, you can insert a USB flash drive or MicroSD card up to 32GB and use the next/last buttons to go to the next song or go back to the last song. This was one of those welcome instances where setup was a breeze, everything made sense, and it all just worked.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Audio Quality: Unusable for us**
@@ -107,13 +120,6 @@ Every other transmitter we’ve tested outperforms the Lihan.
  When there is silence during a phone call you can hear buzzing, bleeps, and other interesting noises. That’s a thing some people can deal with or don’t even notice, but it drives us crazy. When trying to talk on the phone, we found it distracting to the point that we didn’t want to use call features at all.
 
  Streaming music through Bluetooth from a USB stick or MicroSD card sounded good as long as the volume was high enough to overpower the noise level. This transmitter does use Bluetooth version 4.0 which is pretty recent.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Too pricey for the problems**
 
@@ -163,5 +169,18 @@ Every other transmitter we’ve tested outperforms the Lihan.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-a-simple-guide-changing-your-voice-in-online-battles-pubg-for-2024/"><u>[New] A Simple Guide Changing Your Voice in Online Battles (PUBG) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimize-your-online-presence-with-linked-fb-stories/"><u>[Updated] 2024 Approved Optimize Your Online Presence with Linked FB Stories</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-microsofts-latest-tablet-the-refreshed-surface-pro-7s-solid-performance-retained/"><u>A Comprehensive Review of Microsoft's Latest Tablet: The Refreshed Surface Pro 7'S Solid Performance Retained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-stunning-graphics-with-x-plane-11-a-comprehensive-next-generation-flight-simulation-review/"><u>Experience Stunning Graphics with X-Plane 11 - A Comprehensive Next-Generation Flight Simulation Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-how-the-lightweight-lg-gram-17-delivers-extraordinary-power/"><u>Expert Review: How the Lightweight LG Gram 17 Delivers Extraordinary Power</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-pinnacle-of-wearable-technology-an-in-depth-look-at-the-refined-apple-watch-series-4/"><u>Exploring the Pinnacle of Wearable Technology: An In-Depth Look at the Refined Apple Watch Series 4</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-phantom-v-fold-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Phantom V Fold For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-asus-rog-phone-7-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Asus ROG Phone 7 Phone When You Forget the Password</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-navigate-the-top-8-fb-movie-downloader-choices/"><u>In 2024, Navigate the Top 8 FB Movie Downloader Choices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nikons-affordable-dream-photo-quality-vs-ui-hurdles/"><u>Nikon's Affordable Dream - Photo Quality vs UI Hurdles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reconfiguring-your-macos-network-preferences/"><u>Step-by-Step Guide: Reconfiguring Your macOS Network Preferences</u></a></li>
+</ul></div>
 

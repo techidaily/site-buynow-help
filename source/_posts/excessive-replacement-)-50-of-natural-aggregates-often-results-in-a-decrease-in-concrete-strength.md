@@ -1,7 +1,7 @@
 ---
 title: Excessive Replacement (> 50%%) of Natural Aggregates Often Results in a Decrease in Concrete Strength.
-date: 2024-11-29T17:28:09.586Z
-updated: 2024-12-02T17:23:57.709Z
+date: 2024-12-06T22:29:14.115Z
+updated: 2024-12-10T08:36:57.107Z
 tags:
   - games
   - tv
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
@@ -93,7 +93,7 @@ Expand
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -105,10 +105,6 @@ Jerome Thomas / How-To Geek
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -126,10 +122,6 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
@@ -145,7 +137,7 @@ Jerome Thomas / How-To Geek
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Battery Life
@@ -153,6 +145,10 @@ Jerome Thomas / How-To Geek
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -169,6 +165,10 @@ Jerome Thomas / How-To Geek
  But if you don’t mind hunting for the shadowy corners of a room during the day or waiting until nightfall, then there’s not much to dislike about what this projector can do. It’s a solid value from a reputable brand with modern software onboard.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -193,24 +193,22 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-mastery-in-managing-online-discussions-on-youtube/"><u>[New] Mastery in Managing Online Discussions on YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevate-engagement-crafting-instagram-highlights-in-3-steps/"><u>[Updated] 2024 Approved Elevate Engagement Crafting Instagram Highlights in 3 Steps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-building-better-teams-ergonomics-and-effective-office-layouts/"><u>[Updated] Building Better Teams Ergonomics and Effective Office Layouts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-earnings-on-youtube-the-crucial-number-of-video-views-for-money/"><u>[Updated] Earnings on YouTube The Crucial Number of Video Views for Money</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-compliance-rules-for-thriving-on-youtube-for-2024/"><u>[Updated] Essential Compliance Rules for Thriving on YouTube for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-moons-magic-dos-and-donts-of-immersive-night-photography-for-2024/"><u>[Updated] Moon's Magic Do's & Don'ts of Immersive Night Photography for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/achieving-professional-streams-with-obs-android-style/"><u>Achieving Professional Streams with OBS, Android Style</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-premium-tablet-showdown-apple-ipad-air-vs-ipad-pro/"><u>Affordable Premium Tablet Showdown: Apple iPad Air Vs. IPad Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/an-in-depth-analysis-of-hero7-black-for-extreme-enthusiasts/"><u>An In-Depth Analysis of HERO7 Black for Extreme Enthusiasts.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-watch-series-4-in-depth-analysis-how-it-sets-a-new-standard-for-wearables/"><u>Apple Watch Series 4 In-Depth Analysis: How It Sets a New Standard for Wearables</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/blade-blh41n0-rc-helicopter-assessment-ready-to-soar-in-your-backyard/"><u>Blade BLH41n0 RC Helicopter Assessment: Ready To Soar in Your Backyard</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/caixuns-cost-effective-75-inch-4k-android-tv-performance-and-features-review/"><u>Caixun's Cost-Effective 75-Inch 4K Android TV: Performance and Features Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/compact-wonder-the-theta-sc2s-portable-vr-journey/"><u>Compact Wonder: The Theta SC2's Portable VR Journey</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-the-newest-titans-samsung-galaxy-s23-vs-s21/"><u>Comparing the Newest Titans: Samsung Galaxy S23 Vs. S21</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-nokia-n309-an-excellent-beginners-cellphone-option/"><u>Comprehensive Evaluation of the Nokia N309: An Excellent Beginner's Cellphone Option</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-kootek-laptop-cooler-evaluation-an-excellent-choice-for-thermal-management/"><u>Comprehensive Kootek Laptop Cooler Evaluation: An Excellent Choice for Thermal Management</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-uniden-r3-superior-quality-and-extended-detection-range/"><u>Expert Analysis of the Uniden R3: Superior Quality and Extended Detection Range</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-c67-4g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme C67 4G Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views/"><u>[New] In 2024, Breaking Into the Livestream Scene on YouTube with Under a Thousand Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-xs-action-cam-the-polaroid-100-i-unveiled/"><u>[Updated] XS Action Cam The Polaroid 100 I Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-c12-plus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia C12 Plus Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-elite-vr-with-the-new-oculus-quest-2-an-in-depth-review/"><u>Affordable Elite VR with the New Oculus Quest 2 – An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-security-alerts-with-iseebell-top-under-50-video-doorbells-comparison/"><u>Affordable Security Alerts with ISeeBell - Top Under $50 Video Doorbells Comparison</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/archer-c50-by-tp-link-balancing-price-and-performance-in-a-wifi-router/"><u>Archer C50 by TP-Link: Balancing Price and Performance in a WiFi Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-samsung-galaxy-tab-s3-is-it-a-continued-worthy-choice-for-consumers/"><u>Assessing the Samsung Galaxy Tab S3: Is It a Continued Worthy Choice for Consumers?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/blog-promotion-strategies-how-buyselladscom-can-help-you-profit/"><u>Blog Promotion Strategies: How buySellAds.com Can Help You Profit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-wi-fi-booster-an-experts-take-on-the-tp-link-re200-ac750/"><u>Budget-Friendly Wi-Fi Booster: An Expert's Take on the TP-Link RE200 Ac750</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-apple-watch-series-9-evaluation/"><u>Comprehensive Apple Watch Series 9 Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-beantech-bitwatch-s1-plus-review-an-affordable-tech-marvel/"><u>Comprehensive Beantech Bitwatch S1 Plus Review - An Affordable Tech Marvel!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hp-client-security-manager-steps-to-correctly-disable-and-remove-with-error-1325-on-windows-7-guide/"><u>HP Client Security Manager – Steps to Correctly Disable and Remove with Error 1325 on Windows 7 (Guide)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-discover-these-eight-handy-apps-to-upload-reels-on-instagram/"><u>In 2024, Discover These Eight Handy Apps to Upload Reels on Instagram</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-a56s-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo A56s 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-s17t-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo S17t FRP Locks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-shooting-guide-to-immersive-video-top-9-techniques/"><u>The Ultimate Shooting Guide to Immersive Video (Top 9 Techniques)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-9-web-based-microphone-recording-tools-of-23/"><u>Top 9 Web-Based Microphone Recording Tools of '23</u></a></li>
 </ul></div>
 

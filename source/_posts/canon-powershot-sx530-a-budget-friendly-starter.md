@@ -1,7 +1,7 @@
 ---
 title: Canon PowerShot SX530 - A Budget-Friendly Starter
-date: 2024-09-09T04:10:20.920Z
-updated: 2024-09-10T04:10:20.920Z
+date: 2024-12-08T02:16:04.369Z
+updated: 2024-12-09T23:27:54.174Z
 categories:
   - BestProducts
 description: This Article Describes Canon PowerShot SX530 - A Budget-Friendly Starter
@@ -13,16 +13,14 @@ thumbnail: https://www.lifewire.com/thmb/XQ264OWuF3OOye9nON0N7Du-Lck=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
 ![Yongnuo YN560 IV Wireless Flash Speedlite Master](https://www.lifewire.com/thmb/uk1o4WlK-bsMCk1tgtC5d79QMNM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_3LW4072366-Yongnuo-YN560-1-33b6547cc9014731ab6e144b0613aaef.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Jonno Hill
 
  What We Like
@@ -44,21 +42,17 @@ Lifewire / Jonno Hill
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
 ![Yongnuo YN560 IV Wireless Flash Speedlite Master](https://www.lifewire.com/thmb/UOD6afkRh-xS-Dh1-iagOeoOSdY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_3LW4072366-Yongnuo-YN560-1-33b6547cc9014731ab6e144b0613aaef.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Lifewire / Jonno Hill
 
 [View On Amazon $85](https://www.amazon.com/dp/B00PGTOX26?tag=lifewire-onsite-prod-20&ascsubtag=4686829%7Cned26b5ddc861462ea8962bb31e85883020%7CB00PGTOX26) [View On B&H Photo Video $85](https://www.bhphotovideo.com/c/product/1101196-REG/yongnuo%5Fyn%5F560iv%5Fyn560%5Fiv%5Fspeedlite.html)
@@ -113,6 +107,10 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup: A lot of reading before use**
 
  Once you unpack your flash and install the four AA batteries, you’re going to want to familiarize yourself with the buttons and menu system a little. The YN560 IV has a lot of functionality, but it doesn’t have the most intuitive interface. The front of the device contains a top row of four buttons (a Light/Music icon, Mode, a Wi-Fi icon, and Zoom). Below this is a charge indicator button marked “PILOT”, a direction pad, and an On/Off button.
@@ -127,17 +125,15 @@ Lifewire / Jonno Hill
 
  Overall, the YN560 IV gives you a lot of functionality and control, but definitely requires some reading and troubleshooting before you can master the device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Significant savings for manual users**
 
  Buyers that need a lot of manual control for complex flash setups will be very pleased with what the get for the approximately $60 the YN560 IV costs. It sits at a price that’s a fraction of its TTL-enabled Canon and Nikon counterparts, but twice that of even simpler options. Do you need all the functionality that the YN560 IV offers? Are you willing to troubleshoot a bit with returns to make sure you get good, non-defective units? If the answer to those questions is yes, this is definitely the flash for you.
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Yongnuo YN560 IV Wireless Flash Speedlite Master vs Neewer TT560 Flash Speedlite**
 
@@ -153,24 +149,12 @@ Lifewire / Jonno Hill
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master may not be a very simple flash, but it packs enough functionality to make a very versatile platform for more aspirational photographers. Buyers that want full manual control and radio transmission without paying an arm and a leg will be more than pleased with what they get.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
 * [Canon Speedlite 430EX III-RT Flash](https://www.lifewire.com/canon-speedlite-430ex-iii-rt-flash-review-4686835)
 * [Nikon D3400](https://www.lifewire.com/nikon-d3400-review-4776644)
 * [Fovitec SPK10-037 Softbox Lighting Kit](https://www.lifewire.com/fovitec-spk10-037-softbox-lighting-kit-review-4692503)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  YN560 IV Wireless Flash Speedlite Master
@@ -194,8 +178,6 @@ Lifewire / Jonno Hill
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +185,24 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>[New] Decoding Digital Dazzle An Initial Journey Into Video Standards</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/amer-wealth-wave-the-year-ahead-for-2024/"><u>[New] Gamer Wealth Wave The Year Ahead for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-creating-captivating-podcast-summaries/"><u>[New] In 2024, Creating Captivating Podcast Summaries</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlocking-the-power-of-zoom-with-your-chrome-os-device/"><u>[Updated] In 2024, Unlocking the Power of Zoom with Your Chrome OS Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-lightning-leap-fame-mastering-instagram-with-these-15-essential-easy-tips-for-overnight-success-for-2024/"><u>[Updated] Lightning Leap Fame Mastering Instagram with These 15 Essential, Easy Tips for Overnight Success for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-travel/"><u>2024 Approved How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/3d-modeling-software-to-use-for-animation/"><u>3D Modeling Software to Use for Animation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-assessing-the-enhanced-capabilities-of-dji-phantom-4-pro-version-20/"><u>Comprehensive Review: Assessing the Enhanced Capabilities of DJI Phantom 4 Pro Version 2.0</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-the-latest-google-nest-hub-generation-without-a-built-in-camera/"><u>Comprehensive Review: The Latest Google Nest Hub Generation Without a Built-In Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-test-and-evaluation-of-kooteks-laptop-cooling-pad-top-performance-choice/"><u>Comprehensive Test and Evaluation of Kootek's Laptop Cooling Pad - Top Performance Choice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/construct-and-grow-unveiling-the-addictive-gameplay-of-cities-skylines/"><u>Construct & Grow: Unveiling the Addictive Gameplay of Cities: Skylines</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creative-sound-blaster-zxr-2013s-top-gaming-headset-from-creative-labs-explored/"><u>Creative Sound Blaster ZXR: 2013'S Top Gaming Headset From Creative Labs Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discerning-sound-selection-top-2024-cd-players-and-changers/"><u>Discerning Sound Selection: Top 2024 CD Players & Changers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/durable-sunbritetv-554k-ultra-hd-outdoor-smart-tv-with-vivid-hdr-display-built-to-endure-the-elements/"><u>Durable SunBriteTV 554K Ultra HD Outdoor Smart TV with Vivid HDR Display - Built to Endure the Elements!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-choices-for-parental-control-networking-devices-a-2astock-best-list/"><u>Essential Choices for Parental Control Networking Devices - A 2Astock Best List</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-and-sound-cleansing-your-playstation-console/"><u>Safe & Sound: Cleansing Your PlayStation Console</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transformare-file-tga-in-animazioni-gif-senza-costi-il-servizio-facile-di-gififynow/"><u>Transformare File TGA in Animazioni GIF Senza Costi: Il Servizio Facile Di GififyNow!</u></a></li>
+</ul></div>
 

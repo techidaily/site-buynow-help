@@ -1,7 +1,7 @@
 ---
 title: Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library
-date: 2024-11-26T07:48:56.345Z
-updated: 2024-12-02T19:17:01.165Z
+date: 2024-12-05T09:47:15.680Z
+updated: 2024-12-10T09:10:41.879Z
 tags:
   - games
   - tv
@@ -29,16 +29,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Brand-new games arrive on Xbox all the time, so it's easy to forget about the many older Xbox One titles. But there are a ton of last-generation games that are worth playing again on the latest hardward thanks to some big upgrades that overhaul performance, visuals, and even features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 _Halo: The Master Chief Collection_ 
 
 ![The campaign selection screen in Halo: The Master Chief Collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/halo-mcc.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Xbox would not be the brand it is today without _Halo_. It's one of the most recognizable gaming franchises of all time, and back in 2014, the _Master Chief_ _Collection_ contained the series' best moments including the original trilogy, _Reach_, and _ODST_. Honestly, it's difficult for me to accept that _MCC_ is already ten years old!
 
@@ -70,10 +66,6 @@ Bethesda Softworks
 
 ![A cutscene from Star Wars Jedi: Fallen Order.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fallen-order.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Electronic Arts
 
  There was a time when the _Star Wars_ franchise was putting out incredible games every year. _Knights of the Old Republic_, _Republic Commando_, _Jedi Knight_, _Starfighter_, and more. In the past decade or so, quality Star Wars games have been harder to come by. Thankfully, _Star Wars Jedi: Fallen Order_, brought back that awesome feeling in 2019.
@@ -82,21 +74,21 @@ Electronic Arts
 
  The sequel, _Jedi Survivor_, came out in 2023 and is every bit as amazing as the first game. But the story is what drives these games, so I'd recommend playing Fallen Order first! Don't worry: it got plenty of upgrades for the Series X|S, including [improved loading times](https://extra-hints.techidaily.com/inspirational-article-leaderboard-maker/), stability fixes, and a higher resolution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 _DragonBall FighterZ_ 
 
 ![The title screen for DragonBall FighterZ.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/dbfz.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are surely some people reading this who fondly remember playing the Budokai games in their childhood. For a time, nothing could hold a candle to those titles in the world of _DragonBall Z_ fighting games. _DragonBall FighterZ_ made a huge splash in 2018, bringing an incredible aesthetic, epic soundtracks, and a complex but easy-to-pick-up combat system.
 
  Fighting games aren't for everyone, but if you love _DragonBall_, it's worth a look just for that feeling of practically being in the anime. If you like other 2D fighters but haven't tried _FighterZ_ yet, I'd recommend it just for the team-based fighting system, super moves, and great music (ArcSys really never misses). The main upgrade from the Xbox One version to the X|S version was [the addition of rollback netcode](https://tech-haven.techidaily.com/localizing-your-legal-services-with-an-llm-is-it-worth-it-understanding-pros-and-cons/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 _Hellblade: Senua's Sacrifice_ 
 
@@ -120,12 +112,16 @@ Playstack
 
 _Mortal Shell_ has an enhanced edition for the Series X|S, improving its graphical fidelity. If you're looking for a quick but rewarding Souls-like experience, give _Mortal Shell_ a shot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 _Stellaris: Console Edition_ 
 
 ![Gameplay from Stellaris: Console Edition.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/stellaris.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Paradox Interactive
@@ -134,19 +130,23 @@ Paradox Interactive
 
  Destroy entire worlds, conquer other empires, take over the galaxy as a sentient fungal hivemind horror: you name it, _Stellaris_ probably lets you do it. I can personally attest that _Stellaris_ plays very intuitively with a controller, which many 4X games on console can't claim. Being a strategy game, graphics aren't _that_ important, but a performance-optimized version for the X|S does exist now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9 _Cyberpunk 2077_ 
 
 ![Gameplay from Cyberpunk 2077.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cyberpunk-2077.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 CD Projekt Red
 
  If you tried to play _Cyberpunk 2077_ when it first debuted on the Xbox One, you probably remember that it was a really rough launch. Console versions were full of bugs and performance issues, to the extent that Sony even removed the game from its stores for a time. It was a real shame because the game was highly praised for its interesting setting, intriguing narrative, and memorable characters.
 
  The good news is that this critically acclaimed title is in a much better state today, and it has a Series X|S version optimized for the newer hardware. It looks better, runs better, plays better, and there's a big DLC expansion available too. So if you avoided [playing _Cyberpunk 2077_](https://some-approaches.techidaily.com/updated-top-10-impressive-srt-converters-for-mac-and-windows/) due to its rough launch, now would be a great time to give it a shot on the Series X|S.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10 _Sea of Thieves_ 
 
@@ -177,24 +177,14 @@ Microsoft Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-premium-drones-on-offer/"><u>[New] 2024 Approved Premium Drones on Offer</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-10-gif-apps-for-iphone-x876/"><u>[New] 2024 Approved Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
-<li><a href="https://win-studio.techidaily.com/effortless-file-transfer-sharing-between-windows-pc-and-android-via-google-quick-share-techradar/"><u>Effortless File Transfer: Sharing Between Windows PC and Android via Google Quick Share | TechRadar</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/envelop-you-in-richness-rokus-sound-and-streaming-blend/"><u>Envelop You in Richness: Roku’s Sound & Streaming Blend</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-razer-blade-pro-17-the-epitome-of-portable-power-and-performance/"><u>Evaluating the Razer Blade Pro 17: The Epitome of Portable Power and Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exclusive-oneplus-prime-day-sale-highlights-unbeatable-deals/"><u>Exclusive OnePlus Prime Day Sale Highlights: Unbeatable Deals!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experienced-user-review-testing-the-5g-features-of-samsung-galaxy-note20-ultra/"><u>Experienced User Review: Testing the 5G Features of Samsung Galaxy Note20 Ultra</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insight-on-the-netatmo-climate-gadget-the-perfect-blend-of-design-and-app-integration/"><u>Expert Insight on the Netatmo Climate Gadget: The Perfect Blend of Design and App Integration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-lenovo-thinkpad-x1-titanium-yoga-review-why-its-a-top-contender-for-traditional-thinkpad-enthusiasts/"><u>Expert Insights on the Lenovo ThinkPad X1 Titanium Yoga Review: Why It's a Top Contender for Traditional ThinkPad Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-performance-of-apples-latest-m1-powered-macbook-air-13/"><u>Exploring the Performance of Apple's Latest M1 Powered MacBook Air 13</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-success-of-nokia-2-how-this-mid-range-model-outshines-its-competitors/"><u>Exploring the Success of Nokia ^2: How This Mid-Range Model Outshines Its Competitors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-humble-to-haute-the-art-of-upgraded-animal-accommodations/"><u>From Humble to Haute: The Art of Upgraded Animal Accommodations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hottest-apple-watch-promotions-for-this-week/"><u>Hottest Apple Watch Promotions for This Week!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 11 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-realme-c67-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Realme C67 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/la-maxima-eficiencia-al-clonar-particiones-de-discos-duros-externos-con-el-software-mas-avanzado/"><u>La Máxima Eficiencia Al Clonar Particiones De Discos Duros Externos Con El Software Más Avanzado</u></a></li>
-<li><a href="https://win11.techidaily.com/top-4-windows-11-password-protectors-secure-mastery-in-five-words-or-less/"><u>Top 4 Windows 11 Password Protectors: Secure Mastery in Five Words or Less</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-s18-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo S18 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-professional-8-stream-enhancers-for-video-sharpening-for-2024/"><u>[Updated] Professional 8 Stream Enhancers for Video Sharpening for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-screencasting-team-virtual-gatherings/"><u>[Updated] Step-by-Step Screencasting Team Virtual Gatherings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-ax6000-rt-ax88u-in-depth-analysis-of-a-leading-wi-fi-6-router-with-advanced-capabilities/"><u>Asus AX6000 RT-AX88U: In-Depth Analysis of a Leading Wi-Fi 6 Router with Advanced Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/avantree-aria-review-hidden-gems-discovered/"><u>Avantree Aria Review: Hidden Gems Discovered</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/avoiding-common-issues-during-your-os-catalnia-overhaul/"><u>Avoiding Common Issues During Your OS Catalnia Overhaul</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bargain-bin-treasures-high-quality-benq-visual-tech-on-prime-day-specials/"><u>Bargain Bin Treasures: High-Quality BenQ Visual Tech on Prime Day Specials</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164401657-discover-iphones-best-video-game-emulators-now/"><u>Discover iPhone's Best Video Game Emulators Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-viewing-tiktok-on-a-television-set/"><u>The Complete Walkthrough: Viewing TikTok on a Television Set</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-ai-integration-in-smartphones-clues-from-apples-recent-acquisition-strategy-zdnet/"><u>Upcoming AI Integration in Smartphones? Clues From Apple's Recent Acquisition Strategy - ZDNet</u></a></li>
 </ul></div>
 

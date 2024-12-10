@@ -1,7 +1,7 @@
 ---
 title: "Decision Time: How to Pick the Ideal Tablet – Comparing Features of Amazon Fire and Samsung Models"
-date: 2024-11-07T18:28:27.135Z
-updated: 2024-11-15T05:54:17.603Z
+date: 2024-12-06T23:50:20.164Z
+updated: 2024-12-10T00:34:07.569Z
 categories:
   - BestProducts
 description: "This Article Describes Decision Time: How to Pick the Ideal Tablet – Comparing Features of Amazon Fire and Samsung Models"
@@ -39,9 +39,17 @@ Lifewire / Yoona Wagener
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Halo
 
 ![Amazon Halo](https://www.lifewire.com/thmb/3Kfyp4XgBEtCuXPHAVw99RFqQs8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -70,25 +78,13 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/W0-czfRzA-7ixa5VS8Cb4sBcaqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_02-b2292f1ee1b54f4e9990c92e582c5a4b.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design: An accessory that blends in
@@ -111,13 +107,6 @@ Lifewire / Yoona Wagener
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Performance: Constantly monitoring movement, not performance
 
  While this streamlined device doesn’t log detailed workout metrics, the Halo has the upper hand when it comes to continuously monitoring movement—and sedentary stints throughout the day. Whether you’re sitting at a desk or venture out for an errand, the Halo will capture that and pretty accurately categorize it. It consistently registered walking and running activities, though the readout wasn’t very accurate for the latter. Truthfully, I don’t get the impression that that’s the point of the Halo.
@@ -135,19 +124,6 @@ Lifewire / Yoona Wagener
  All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the cloud, which Amazon assures is private and well secured.
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Software: An essential and user-friendly mobile app
 
@@ -173,13 +149,6 @@ Lifewire / Yoona Wagener
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazon Halo vs. WHOOP Strap 3
 
  The WHOOP Strap 3 is another screen-less fitness tracker with a minimalist bent but a bigger buy-in and emphasis on performance. Unlike the Halo, the WHOOP Strap requires a WHOOP membership, which, at the lowest end, costs $30 monthly for a 6-month membership or $180 total (band included). The Halo band comes with a free six-month subscription to Halo app services, then a $3.99 monthly charge, so it’s considerably cheaper—especially since WHOOP recommends replacing their fabric strap every six months as well.
@@ -192,11 +161,19 @@ Lifewire / Yoona Wagener
 
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -229,16 +206,22 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-the-pinnacle-of-personal-data-holdings-for-2024/"><u>[New] The Pinnacle of Personal Data Holdings for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-t5-unboxed-the-revolution-in-action-filming/"><u>[Updated] T5 Unboxed - The Revolution in Action Filming</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-blurry-cctv-footage/"><u>Enhancing Blurry CCTV Footage</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-superior-samsung-galaxy-s21-ultra-ruling-the-android-market/"><u>Expert Analysis of the Superior Samsung Galaxy S21 Ultra - Ruling the Android Market</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-13-mini-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 13 mini</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-logitech-c615-camera-striking-balance-between-cost-and-functionality/"><u>In-Depth Review of the Logitech C615 Camera: Striking Balance Between Cost and Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-the-samsung-galaxy-tab-s3-a-solid-choice-expert-insights-and-review/"><u>Is the Samsung Galaxy Tab S3 a Solid Choice? Expert Insights and Review</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-where-quality-efficiency-and-fun-meet/"><u>Mondly: Where Quality, Efficiency, and Fun Meet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-14-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repairing-degraded-nikon-mov-footage-effectively/"><u>Repairing Degraded Nikon MOV Footage Effectively</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-the-linksys-max-stream-ac1-900-is-a-must-have-in-your-tech-arsenal-an-in-depth-analysis/"><u>Why the Linksys Max-Stream AC1 900 Is a Must-Have in Your Tech Arsenal: An In-Depth Analysis</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/avigating-music-files-to-youtube-space-for-2024/"><u>[New] Navigating Music Files to Youtube Space for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-path-to-link-integration-on-instagrams-social-stage-for-2024/"><u>[New] The Ultimate Path to Link Integration on Instagram's Social Stage for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-uncomplicated-capture-efficient-screenshots-on-dell/"><u>[New] Uncomplicated Capture Efficient Screenshots on Dell</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-easy-steps-to-archive-vimeo-video-recordings/"><u>[Updated] 2024 Approved Easy Steps to Archive Vimeo Video Recordings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-boundless-gallery-of-forgotten-artists/"><u>2024 Approved The Boundless Gallery of Forgotten Artists</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/an-aesthetic-design-featuring-an-osprey-logo-to-give-any-outdoor-space-a-stylish-look/"><u>An Aesthetic Design Featuring an Osprey Logo to Give Any Outdoor Space a Stylish Look.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-watch-series-6-analysis-slight-improvements-yet-remains-top-of-class/"><u>Apple Watch Series 6 Analysis: Slight Improvements Yet Remains Top of Class</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-vivobook-11-assessment-compact-budget-friendly-versatile-notebook/"><u>Asus VivoBook 11 Assessment: Compact, Budget-Friendly, Versatile Notebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-devices-broken-front-sound-input-port/"><u>How To Repair Your Device's Broken Front Sound Input Port 🔧</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-forces-in-these-20-cross-system-gaming-adventures/"><u>Join Forces in These 20 Cross-System Gaming Adventures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-and-reliable-mp4-file-capture-tool-for-2024/"><u>Quick & Reliable MP4 File Capture Tool for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-distracting-sounds-in-airpods-by-deactivating-head-tracking-technology/"><u>Stop Distracting Sounds in AirPods by Deactivating Head-Tracking Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-17-inch-laptops-a-comprehensive-guide/"><u>Top Rated 17-Inch Laptops : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-the-dell-g5-5090-the-ultimate-choice-for-cost-effective-high-performance-gaming-computers/"><u>Top Review of the Dell G5 5090: The Ultimate Choice for Cost-Effective, High-Performance Gaming Computers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-linkedin-potential-8-upgrade-reasons/"><u>Unlocking LinkedIn Potential: 8 Upgrade Reasons</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-acer-xfa240-review-balancing-usefulness-with-style/"><u>Unveiling the Acer XFA240 Review: Balancing Usefulness with Style</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722947534130-unveiling-the-best-budget-friendly-wi-fi-expansion-gadget-tp-link-re200-reviewed/"><u>Unveiling the Best Budget-Friendly Wi-Fi Expansion Gadget - TP-Link RE200 Reviewed</u></a></li>
 </ul></div>
 

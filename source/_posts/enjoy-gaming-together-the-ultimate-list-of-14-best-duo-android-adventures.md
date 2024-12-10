@@ -1,7 +1,7 @@
 ---
 title: "Enjoy Gaming Together: The Ultimate List of 14 Best Duo Android Adventures"
-date: 2024-11-29T07:50:39.536Z
-updated: 2024-12-02T19:32:14.984Z
+date: 2024-12-04T01:42:15.991Z
+updated: 2024-12-10T10:22:15.673Z
 tags:
   - games
   - tv
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
  Have you ever spent a casual afternoon in stitches because one of your friends kept setting off all the traps? If yes, you know how much fun co-op gaming can be. Alas, Android games that aren't PvP games are hard to come by, so I've curated a list of games that are an absolute blast to play with friends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 [Otherworld Legends](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en%5FUS) 
 
 _Otherworld Legends_ is my favorite roguelite Android game of all time. It's great to play alone or with up to three other players. The game features several procedurally-generated dungeons with a boss fight at the end of each level, and in the end, you get to the main boss. Like in other similar games, the enemies' health and damage scales with the number of players.
@@ -42,10 +46,6 @@ _Otherworld Legends_ is my favorite roguelite Android game of all time. It's gre
 
 _Minecraft_ is probably the most versatile game you can play with friends, as it's a sandbox where only your creativity is the limit. It features both online and offline multiplayer; you can even play it cross-platform, as long as it's the _Bedrock_ and not the _Java Edition_. While offline is fine if you play it with a family member, I strongly recommend finding or [hosting your own server](https://docs.mcsmanager.com/setup%5Fbedrock%5Fedition.html) so that your friends and you can play independently as well. It also has a default high player limit of 20, which can be increased in server settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 [Gunfire Reborn](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.duoyihk.m2m1&hl=en%5FUS) 
 
  I first played _Gunfire Reborn_ on PC and absolutely loved it, so I was ecstatic to hear that the game is out on Android, too (though it only supports cross-platform between Android and iOS). It's a fun roguelite first-person shooter with low-poly, cel-shaded graphics reminiscent of the _Borderlands_ franchise. You and up to three other friends work together to kill enemies (including bosses), collect loot, and unlock talents.
@@ -53,10 +53,6 @@ _Minecraft_ is probably the most versatile game you can play with friends, as it
 ## 4 [PewPew Live](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.jyaif.pewpewlive) 
 
 _PewPew Live_ is a chaotic top-down shooter with support for LAN co-op and five different game modes. Its twin-joystick controls and colorful vector graphics make the game look deceptively simple; it requires a fast reaction time, as you have to dodge spheres and projectiles while destroying these spheres simultaneously.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 [Sky: Children of the Light](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en%5FUS) 
 
@@ -70,21 +66,29 @@ _Soul Knight_ is another roguelite game made by the same developer, ChillyRoom, 
 
 _Bloons TD 6_ is one of the best tower defense games on Android, so it's great that it supports 4-player co-op. The goal of any tower defense game is to build towers that shoot down enemy waves that are trying to go past your defenses to destroy your base. The charm of Bloons is that the towers are monkeys, and the enemies are balloons, so it's a perfect game to play with your kids.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 [The Past Within](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.RustyLake.ThePastWithin&hl=en) 
 
  If you want a serious co-op game, maybe it's best to get a co-op-only game, which is what we have here with _The Past Within_. The game is a two-player cross-platform co-op game that requires constant communication with your teammate. You're in the same environment, but one of you is in the future, and the other in the past, and you have to work together to solve puzzles in both 2D and 3D. The puzzles aren't too challenging, so it's the perfect type of game to play with [someone who isn't into games](https://some-techniques.techidaily.com/in-2024-explore-the-best-dvd-players-for-your-portable-laptop/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 [Keep Talking & Nobody Explodes](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.steelcrategames.keeptalkingandnobodyexplodes&hl=en%5FUS) 
 
 _Keep Talking & Nobody Explodes_ is a bonafide in-person-only party game where you have to defuse a bomb before the timer goes off. The catch is that your friends are the ones with the manual, which is purposefully complicated to navigate. The bomb contains up to 11 modules that you have to disarm. The only downside is the relatively steep price tag, but you only need one copy, as the defusal manual is in PDF format and [available online](https://bombmanual.com/) for free.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10 [Pepelo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.Tafusoft.Pepelo&hl=en) 
 
 _Pepelo_ is a 3D puzzle platformer that you can play alone or with friends. The puzzles are fairly straightforward, as they mostly involve moving around objects to progress. I find that the charm hides in the different environments that you explore, so the game is perfect for couples. This delightful little game has 50 different levels, the first ten being free.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11 [Maximus 2](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.FourFats.Maximus2) 
 
@@ -95,16 +99,12 @@ _Maximus 2_ is an old-school beat-em-up brawler that doesn't take itself too ser
  Good strategy games on Android are rare, and multiplayer ones are even rarer. So, I'm glad to say that _Northgard_ fits the description perfectly. You build settlements, assign workers, manage resources while trying to survive the harsh Northgard winter, and combat enemies. The game supports up to six players, and you can play with or against them, so it's perfect if you want to play 2v2 or 3v3 with friends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 13 [TMNT: Shredder's Revenge](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.netflix.NGP.TMNTShreddersRevenge&hl=en) 
 
  Here we have another 2D beat-em-up side-scroller, but this time, it's a childhood franchise we all love and cherish—_Teenage Mutant Ninja Turtles_. _TMNT: Shredder's Revenge_ supports six-player cross-platform co-op; you can play as one of the four iconic turtles, but there are a few other characters as well, like Splinter and April. By the way, you can heal your friends by [high-fiving](https://screenrant.com/tmnt-shredders-revenge-how-to-heal-teammates-guide/) them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 14 [Storiado](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.beakbyte.storiado) 
 
@@ -129,24 +129,20 @@ _Storiado_ is a fun new party game where you and your friends create stories abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-survival-housing-in-minecraft-6-10-guide/"><u>[New] 2024 Approved Survival Housing in Minecraft #6-10 Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-curated-queries-to-spark-interest-in-audio-stories-for-2024/"><u>[New] Curated Queries to Spark Interest in Audio Stories for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-youtube-content-seo-methods-revealed/"><u>[New] In 2024, Elevate Your YouTube Content SEO Methods Revealed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fostering-engagement-creating-budget-friendly-youtube-intros/"><u>[New] In 2024, Fostering Engagement Creating Budget-Friendly YouTube Intros</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-launch-your-content-with-free-intros/"><u>[New] In 2024, Launch Your Content with Free Intros</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elevate-your-fan-count-top-tactics-for-fb-page-ranks/"><u>[Updated] 2024 Approved Elevate Your Fan Count Top Tactics for FB Page Ranks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-y100-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo Y100 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-path-to-perfect-streams-streamlabs-plus-obs-for-mac-users/"><u>In 2024, The Path to Perfect Streams Streamlabs + OBS for Mac Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/platform-outage-alert-facebook-whatsapp-and-instagram-offline/"><u>Platform Outage Alert: Facebook, WhatsApp & Instagram Offline</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/simplifying-connectivity-a-complete-review-of-google-wifi-your-essential-mesh-router-companion/"><u>Simplifying Connectivity: A Complete Review of Google WiFi, Your Essential Mesh Router Companion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-setup-for-the-ultimate-protection-with-blinks-outdoor-cameras/"><u>Step-by-Step Setup for the Ultimate Protection with Blink's Outdoor Cameras</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-advanced-tech-tools-for-tranquil-slumber/"><u>The Ultimate Guide to Advanced Tech Tools for Tranquil Slumber</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-blueear-bluetooth-headgear-fashionable-earmuffs-with-a-promising-audio-experience/"><u>The Ultimate Guide to BlueEar Bluetooth Headgear: Fashionable Earmuffs with a Promising Audio Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-8-must-play-titles-exclusive-to-google-play-pass-unlock-gaming-bliss/"><u>Top 8 Must-Play Titles Exclusive to Google Play Pass - Unlock Gaming Bliss!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-performing-portable-storage-options-usb-drives-to-watch/"><u>Top-Performing Portable Storage Options: USB Drives to Watch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/trade-in-tactics-apples-smartphone-upgrade-program/"><u>Trade-In Tactics: Apple’s Smartphone Upgrade Program</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-buyers-guide-selecting-the-perfect-tablet-by-dimensions-and-mass/"><u>Ultimate Buyer's Guide: Selecting the Perfect Tablet by Dimensions & Mass</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-free-floating-earphones-guide-2024-edition/"><u>Ultimate Free-Floating Earphones Guide: 2024 Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-discover-every-shared-element-with-friends/"><u>[New] 2024 Approved Discover Every Shared Element with Friends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solved-11-fixes-for-dell-laptop-running-slow/"><u>[SOLVED] 11 Fixes for Dell Laptop Running Slow</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-chart-a-course-to-6-figure-growth-with-powerful-tags-for-2024/"><u>[Updated] Chart a Course to 6-Figure Growth with Powerful #Tags for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/earnings-mechanisms-on-social-grids/"><u>Earnings Mechanisms on Social Grids</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-connection-hitch-for-dragon-ball-fighterz-players/"><u>Fixing the Connection Hitch for Dragon Ball FighterZ Players</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-reno-11f-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo Reno 11F 5G Is Unlocked</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-era-facebooks-quintessential-features-showcased-for-2024/"><u>New Era Facebook's Quintessential Features Showcased for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-preventing-fifa-21-from-starting-up/"><u>Resolved: Issues Preventing FIFA 21 From Starting Up</u></a></li>
+<li><a href="https://win-info.techidaily.com/resolved-issues-with-synology-cloud-sync-on-latest-firmware-versions/"><u>Resolved: Issues with Synology Cloud Sync on Latest Firmware Versions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/test-ride-explore-features-of-the-latest-cycwagen-cargo-electric-bike/"><u>Test Ride: Explore Features of the Latest CycWagen Cargo Electric Bike</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-battle-of-flagships-iphone-15-pro-max-vs-samsung-s24-ultra-analysis/"><u>The Battle of Flagships: IPhone 15 Pro Max Vs. Samsung S24 Ultra Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-mastering-the-xbox-one-elite-series-2-controller-experience/"><u>The Definitive Guide to Mastering the Xbox One Elite Series 2 Controller Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-razer-blade-pro-17-examination-a-review-of-a-high-performance-travel-companion/"><u>The Razer Blade Pro 17 Examination - A Review of a High-Performance Travel Companion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-true-cost-of-an-apple-tv/"><u>The True Cost of an Apple TV?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-truth-about-the-tp-link-av2000-powerline-adapter-speedy-connectivity-meets-underwhelming-appearance/"><u>The Truth About the TP-Link AV2000 Powerline Adapter - Speedy Connectivity Meets Underwhelming Appearance</u></a></li>
 </ul></div>
 

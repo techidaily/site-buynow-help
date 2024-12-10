@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story"
-date: 2024-11-28T02:43:45.476Z
-updated: 2024-12-03T05:05:39.908Z
+date: 2024-12-05T05:56:28.294Z
+updated: 2024-12-09T23:06:30.714Z
 tags:
   - games
   - tv
@@ -23,11 +23,19 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  When I discovered ChatGPT, the first thing I wanted to do was see if I could use it in game development. As always, ChatGPT is eager to help and almost feels like the world's most into-it intern.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can ChatGPT Code a Game for You?
 
 ![ChatGPT gives me a list of ideas that I could potentially make into a game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-1.png) 
 
  It's quickly apparent that GPT's willingness to [teach you to code](https://fox-helps.techidaily.com/navigating-gif-storage-and-use-in-the-digital-age-iphone/) a game is well-meaning but requires you to understand a bit about what you're doing. As someone who's been an amateur game developer for more than a decade, I know a little bit about coding a game. In using GPT to help me, I was interested in seeing how sophisticated it was for producing a playable game prototype.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  It Certainly Understands Game Engines
 
@@ -80,17 +88,9 @@ public class Projectile : MonoBehaviour
 
 ![An error happens that I can't seem to figure out, so I ask GPT for help](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-wild-unexpected-behavior-appears.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this example, I encountered an issue with spawning my projectiles, with all the "bullets" being deflected when the player moves. While this could create some interesting play patterns, I decided to ask it to fix the problem, and it suggested a fix. Unfortunately, the fix didn't work.
 
 ![GPT's responses doesn't fix the error I keep having](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-error-is-still-there.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I eventually fixed it myself, but it highlighted a major issue with using ChatGPT to code a game: there are some things it doesn't know.
 
@@ -99,7 +99,7 @@ public class Projectile : MonoBehaviour
  I eventually put together the game using a few suggestions from GPT about the persistent score as well as the random generation algorithm and scrolling for the game background. You can [play the final game here](https://zandoliearts.itch.io/the-unfriendly-skies).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Does It Work With Other Game Engines?
@@ -109,7 +109,7 @@ public class Projectile : MonoBehaviour
 ![GPT gives me a piece of code that is outdated because of GPT's limitations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gpt-s-godot-problem-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 GPT's Godot Problem
@@ -117,7 +117,7 @@ GPT's Godot Problem
  For those who use Godot regularly, the issue is immediately obvious. ChatGPT stopped learning in 2021 or thereabouts (at least for the free version). The script GPT gave me was based on its knowledge of Godot 2.x, which is a heavily outdated version of the current 4.x version. The glaring problem is the use of KinematicBody2D, which was replaced by CharacterBody2D in later iterations of the language.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Much Skill Do You Need to Code a Game With ChatGPT?
@@ -162,24 +162,18 @@ GPT's Godot Problem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-do-youtube-channels-get-paid-regularly-in-2024/"><u>[New] How Do YouTube Channels Get Paid Regularly, In 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-quick-tips-apply-smooth-motion-blur-on-your-pics/"><u>[New] Quick Tips Apply Smooth Motion Blur on Your Pics</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nlocking-asmrs-hidden-layers/"><u>[New] Unlocking ASMR's Hidden Layers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-gamble-buying-popularity-or-authentic-audience-expansion/"><u>[Updated] In 2024, Growth Gamble Buying Popularity or Authentic Audience Expansion?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-visuals-vault-uploading-to-ig/"><u>[Updated] In 2024, Visuals Vault Uploading to IG</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discover-6-common-factors-that-slow-down-iphones-and-tips-to-speed-them-up/"><u>Discover 6 Common Factors That Slow Down iPhones and Tips to Speed Them Up</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-invigorate-clips-with-top-winter-backdrop-choices/"><u>In 2024, Invigorate Clips with Top Winter Backdrop Choices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-ai-to-write-professional-cover-letters-insights-and-strategies-from-chatgpt/"><u>Leveraging AI to Write Professional Cover Letters: Insights and Strategies From ChatGPT</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sound-quality-face-off-google-nest-audio-versus-nest-mini-explored/"><u>Sound Quality Face-Off: Google Nest Audio Versus Nest Mini Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-amazon-kindle-oasis-luxury-e-reader-or-overpriced-gadget/"><u>The Complete Guide to Amazon Kindle Oasis: Luxury E-Reader or Overpriced Gadget?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-easy-way-to-disinfect-your-television-remote-control/"><u>The Easy Way to Disinfect Your Television Remote Control</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-finest-portable-music-makers/"><u>The Finest Portable Music Makers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-mobile-wi-fi-companion-tp-link-wr902ac-travel-router-for-frequent-flyers/"><u>The Perfect Mobile Wi-Fi Companion: TP-Link WR902AC Travel Router for Frequent Flyers</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-the-best-virtual-meeting-software-forbes-tech-council/"><u>The Ultimate Guide to the Best Virtual Meeting Software - Forbes Tech Council</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-arlo-video-doorbells-evaluated-seamless-integration-of-surveillance-and-intrusion-notifications/"><u>Top Arlo Video Doorbells Evaluated: Seamless Integration of Surveillance and Intrusion Notifications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-samsung-electronics-bargains-during-prime-shopping-event/"><u>Top Samsung Electronics Bargains During Prime Shopping Event</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-giant-a-thorough-review-and-assessment-of-the-iphone-12-pro-max/"><u>Unboxing the Giant: A Thorough Review and Assessment of the iPhone 12 Pro Max</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wi-fi-mesh-is-its-value-clear/"><u>Wi-Fi Mesh: Is Its Value Clear?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wifi-router-faceoff-can-tp-link-archer-ax6000-outshine-nighthawk-ax12-in-depth-review-analysis/"><u>WiFi Router Faceoff: Can TP-Link Archer AX6000 Outshine Nighthawk AX12? In-Depth Review Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dazzle-and-stand-out-50-free-youtube-branding-pieces/"><u>[New] In 2024, Dazzle and Stand Out 50 FREE YouTube Branding Pieces</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-learn-how-to-mute-instagram-recommendations-for-2024/"><u>[Updated] Learn How to Mute Instagram Recommendations for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/10-amazing-emoji-facts-you-didnt-know/"><u>10 Amazing Emoji Facts You Didn't Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-symphony-for-photos-on-digital-platforms-for-2024/"><u>A Symphony for Photos on Digital Platforms for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/emotional-encounter-my-experience-with-the-new-m2-macbook-air-insights-from-zdnet/"><u>Emotional Encounter: My Experience with the New M2 MacBook Air | Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/enhancing-meetings-screen-capture-with-webcam-for-2024/"><u>Enhancing Meetings Screen Capture with Webcam for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-advanced-concepts-in-googles-mobile-device-management-mdm-and-its-future-capabilities-a-comprehensive-guide/"><u>Explore Advanced Concepts in Google's Mobile Device Management (MDM) and Its Future Capabilities – A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/new-age-fitness-trackers-showdown-how-does-samsung-galaxy-watch-active-2-improve-on-original-models-features/"><u>New Age Fitness Trackers Showdown - How Does Samsung Galaxy Watch Active 2 Improve on Original Model's Features?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oneplus-nord-n100-in-depth-review-exceptional-value-at-a-budget-friendly-price/"><u>OnePlus Nord N100 In-Depth Review: Exceptional Value at a Budget-Friendly Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/optimal-price-max-performance-cheetah-dual-arms/"><u>Optimal Price, Max Performance: Cheetah Dual Arms</u></a></li>
+<li><a href="https://fox-within.techidaily.com/pc-strategy-mastery-in-summoners-war-step-by-step-tips-and-tricks-to-excel-in-the-game/"><u>PC Strategy Mastery in Summoner’s War: Step-by-Step Tips and Tricks to Excel in the Game</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pruveeo-f5-hd-dashcam-uncovered-premium-performance-meets-economical-pricing/"><u>Pruveeo F5 HD Dashcam Uncovered: Premium Performance Meets Economical Pricing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-hps-gaming-masterpiece-the-omen-obelisk-delivering-top-notch-specs-and-savings/"><u>Review of HP's Gaming Masterpiece, the Omen Obelisk: Delivering Top-Notch Specs and Savings</u></a></li>
 </ul></div>
 

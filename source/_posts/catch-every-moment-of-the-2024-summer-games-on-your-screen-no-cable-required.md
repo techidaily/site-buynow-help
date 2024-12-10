@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2024-12-02T09:40:55.635Z
-updated: 2024-12-02T17:32:50.222Z
+date: 2024-12-05T07:30:33.077Z
+updated: 2024-12-10T04:52:52.984Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -44,7 +44,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Most modern televisions have an integrated tuner, meaning they are ready to be connected to an antenna. This makes setting up an antenna to watch the 2024 Olympics a lot easier than it might sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Setting Up an Antenna
@@ -60,7 +60,7 @@ Jordan Gloor / How-To Geek
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which Olympic Events I Can Watch for Free?
@@ -70,7 +70,7 @@ Jordan Gloor / How-To Geek
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Watch 2024 Olympic Gymnastics
@@ -78,7 +78,7 @@ Jordan Gloor / How-To Geek
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
@@ -104,18 +104,24 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleash-the-power-of-digital-beats-with-our-free-tools/"><u>[New] 2024 Approved Unleash the Power of Digital Beats with Our Free Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/156-characters-of-fun-best-instant-cams-100-2024/"><u>156 Characters of Fun: Best Instant Cams, $100! - 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/creative-ways-to-add-green-screen-effects-in-photoshop-for-2024/"><u>Creative Ways to Add Green Screen Effects In Photoshop for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-eliminating-crashing-issues-when-playing-battlefield-2042-on-your-computer/"><u>Expert Advice on Eliminating Crashing Issues When Playing Battlefield 2042 on Your Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-latest-update-ios-18-release-for-iphones-now-live-installation-instructions-and-supported-devices-zdnet/"><u>Get the Latest Update: IOS 18 Release for iPhones Now Live – Installation Instructions & Supported Devices | ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-engaging-audienranz-with-solo-visual-content/"><u>In 2024, Engaging Audienranz with Solo Visual Content</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Hardware</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-for-stability-no-more-black-desert-online-pc-game-crashes/"><u>Ultimate Fix for Stability: No More Black Desert Online PC Game Crashes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s24-ultra-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S24 Ultra Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-excellence-your-definitive-list-of-top-17-inch-computers/"><u>Unveiling Excellence: Your Definitive List of Top 17-Inch Computers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-exceptional-features-of-the-highly-acclaimed-samsung-galaxy-s10-phone/"><u>Unveiling the Exceptional Features of the Highly Acclaimed Samsung Galaxy S10 Phone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-latest-nickwatch-us-debut-at-the-iconic-kids-choice-awards/"><u>Unveiling the Latest NickWatch - US Debut at the Iconic Kids' Choice Awards</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-strengths-of-sonys-latest-console-the-playstation-5/"><u>Unveiling the Strengths of Sony's Latest Console: The PlayStation 5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beyond-wirecast-a-guide-to-alternative-software/"><u>[New] Beyond WireCast A Guide to Alternative Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-8-premier-resources-download-free-high-quality-green-screen-footage-for-2024/"><u>[Updated] 8 Premier Resources Download Free, High-Quality Green Screen Footage for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-faqs-of-using-vlc-player-on-mac/"><u>[Updated] FAQs of Using VLC Player on Mac</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-screenplay-grooves-best-background-tunes-for-yt-shorts/"><u>2024 Approved Screenplay Grooves Best Background Tunes For YT Shorts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/centre-de-telechargement-winx-convertissez-facilement-des-fichiers-videos-utilisez-un-ripper-dvd-and-telechargeur-video-sans-frais/"><u>Centre De Téléchargement WinX - Convertissez Facilement Des Fichiers Vidéos, Utilisez Un Ripper DVD & Téléchargeur Vidéo Sans Frais !</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-galaxy-f14-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Galaxy F14 5G?</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a05-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A05 Phone without Google Account?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsungs-evolution-in-smartphones-the-galaxy-s10plus-versus-the-newly-launched-s20/"><u>Samsung's Evolution in Smartphones - The Galaxy S10+ versus the Newly Launched S20</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sonys-budget-camcorder-high-image-quality-wins/"><u>Sony's Budget Camcorder: High Image Quality Wins</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-mastering-android-with-google-pixel-3-expert-review/"><u>The Definitive Guide to Mastering Android with Google Pixel 3 - Expert Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/inancial-framework-of-youtube-snippet-creation/"><u>The Financial Framework of YouTube Snippet Creation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-netgear-nighthawk-x6-reviewed-top-tier-speeds-and-seamless-family-connectivity-in-a-wifi-router/"><u>The Netgear Nighthawk X6 Reviewed - Top-Tier Speeds and Seamless Family Connectivity in a WiFi Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-choice-for-hobbyists-a-complete-review-on-the-blade-e-flite-mcx2-rtf-helicopter/"><u>The Ultimate Choice for Hobbyists: A Complete Review on the Blade E-Flite mCX2 RTF Helicopter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-clarity-a-comprehensive-evaluation-of-the-kobo-clara-colour-ereader/"><u>Unveiling the Clarity: A Comprehensive Evaluation of the Kobo Clara Colour eReader</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-durability-a-gps-focused-mobvoi-ticwatch-pro-3-assessment-with-extended-battery-via-two-screens/"><u>Unveiling the Durability: A GPS Focused Mobvoi TicWatch Pro 3 Assessment with Extended Battery via Two Screens</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-sealocs-sleek-and-resilient-55-inch-4k-outdoor-tv-a-perfect-blend-of-style-performance-and-weather-resistance-our-in-depth-review/"><u>Unveiling the Sealoc's Sleek & Resilient 55-Inch 4K Outdoor TV: A Perfect Blend of Style, Performance & Weather Resistance - Our In-Depth Review!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-experience-with-garmin-forerunner-265-gadget-ratings-and-insights/"><u>User Experience with Garmin Forerunner 265: Gadget Ratings and Insights</u></a></li>
 </ul></div>
 

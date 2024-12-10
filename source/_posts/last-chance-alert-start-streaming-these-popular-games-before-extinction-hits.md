@@ -1,7 +1,7 @@
 ---
 title: Last Chance Alert! Start Streaming These Popular Games Before Extinction Hits!
-date: 2024-12-02T02:00:07.797Z
-updated: 2024-12-03T07:02:38.712Z
+date: 2024-12-04T07:11:17.426Z
+updated: 2024-12-10T10:26:15.467Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Last Chance Alert! Start Streaming These Popular Games Before Extinction Hits!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  We live in an ever-changing golden age of interactive entertainment. With games being delisted from stores, servers being switched off, and player counts dropping, there’s no guarantee your favorites will be around for the long haul. So play them now, before they're gone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## _Super Mario Maker 2_ 
 
  On April 9, 2024, Nintendo switched off online services for its 3DS and Wii U platforms. Because _Super Mario Maker_ was exclusively released on those platforms, the entire catalog of user-made levels became inaccessible overnight.
@@ -39,6 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you’ve not played a _Mario Maker_, the clue’s in the name. Make use of the various tools, themes, and options to design your own 2D _Mario_ levels. Make them fun, hard, or entirely autonomous. Though the second game in the series is a good time, the original will be fondly remembered for justifying the Wii U's gimmick of gamepad and TV combination.
 
  Play the sequel on Nintendo Switch now. You’ll need a Nintendo Switch Online membership to connect to the internet to play (or upload) levels.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## _Forza Horizon 4_ 
 
@@ -50,10 +62,6 @@ _Forza Horizon 4_ is reaching the end of its life. Due to expiring licensing agr
 
  You should expect a similar fate to befall _Forza Horizon 5,_ eventually.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## _Tetris 99_ and _F-Zero 99_ 
 
  Nintendo’s _99_ formula reimagines the Battle Royale concept with beloved franchises like _Tetris_ and _F-Zero_. These titles are free-to-play with a Nintendo Switch Online membership, pitting you against 98 other players to be the last person standing in a knockout tournament.
@@ -63,10 +71,6 @@ _Forza Horizon 4_ is reaching the end of its life. Due to expiring licensing agr
 _99_ games are dependent entirely on online multiplayer. There is no offline mode, which means that when the player numbers dwindle, the games will be a lot harder to play. Eventually, they will be retired, possibly even before online services for the Nintendo Switch are turned off for good.
 
  Nintendo already shut down _Super Mario 35_, a time-limited iteration of the formula released to celebrate the 35th anniversary of the _Super Mario_ franchise. As the name suggests, this was a 35-player scramble to the end of a level. The game lasted six months from release.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## _The Crew 2_ 
 
@@ -98,10 +102,6 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
 
  One day, only [a massive LAN party](https://win11-tips.techidaily.com/how-to-resolve-windows-upgrade-failures-and-errors/) will allow you to experience the carnage that is 64 players on classic _Battlefield_ map.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## _Dreams_ 
 
  Sony released _Dreams_ in early 2020, a game that promised to democratize game development by providing players with user-friendly tools and a platform on which to share. While it never worked out as well as many hoped, _Dreams_ remains one of the most unique experiences in gaming.
@@ -111,7 +111,7 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
  Much like _Super Mario Maker_, this is a game that depends on user-generated content. With so many weird and wonderful creations available to download and experience, you should give _Dreams_ a shot while you still can. The PlayStation 4 version works via [backward compatibility on the PlayStation 5](https://screen-mirroring-recording.techidaily.com/updated-shrouded-screen-images-techniques-for-redacting-info-for-2024/), and the game is available in the PlayStation Plus Extra catalog too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Whole Heap of MMOs
@@ -121,6 +121,10 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
  Take beloved BioWare MMO _Star Wars: The Old Republic_ as an example. After years of uncertainty, development [moved from BioWare to Broadsword in 2023](https://massivelyop.com/2023/06/06/star-wars-the-old-republic-development-is-moving-from-bioware-to-broadsword/). Some fans were happy with the move, others were worried about what this could mean in the long term. EA is a company that seems to be moving away from officially licensed games (with both _Star Wars_ and _FIFA_ licenses recently on the chopping block), so who knows how long _SWTOR_ will live on.
 
  It’s hard to see heavy hitters like _World of Warcraft_ or _Elder Scrolls Online_ going away any time soon, but smaller MMOs that limp on with a small following of dedicated fans face less certainty. One member of the _City of Heroes_ forum [tallied up the daily player counts](https://forums.homecomingservers.com/topic/42567-homecoming-player-count-a-year-in-review/) amid concern about the health of the game, and though things were better than many first thought, there were significant differences in the populations of various servers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## _Overwatch 2_ 
 
@@ -143,10 +147,6 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
  Perhaps the most egregious example in recent years is Rockstar’s delisting of _GTA III_, _Vice City_, and _San Andreas_ following the release of _Grand Theft Auto: The Trilogy — The Definitive Edition_. The 2021 re-release was criticized for relying on sloppy, poorly optimized ports of the mobile games, with no way to buy the original (rusty but playable) versions instead.
 
  Other examples include the original _Dead Island_ and its sequel _Riptide_, _Dark Souls: Prepare to Die Edition_ on the PC, _Assassin’s Creed 3_, and fan-favorite _Warcraft 3_. It’s not a certainty, but if you notice that beloved old title is due for a coat of paint, consider grabbing the original while you still can.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Make Hay While the Sun Shines
 
@@ -171,22 +171,20 @@ _The Crew 2_ was released in 2018, which means it’s six years old at the time 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-tips-for-creating-engaging-screencasts/"><u>[Updated] Expert Tips for Creating Engaging Screencasts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-crafting-impressive-instagram-story-bokeh-art/"><u>2024 Approved Crafting Impressive Instagram Story Bokeh Art</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-ipad-pro-2018-11-inch-review/"><u>Apple iPad Pro 2018 (11-Inch) Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-conscious-audio-meet-sandisks-clip-jam-mp3/"><u>Budget-Conscious Audio: Meet SanDisk's Clip Jam MP3</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-the-portable-fun-of-the-budget-friendly-nintendo-switch-lite/"><u>Comprehensive Analysis: The Portable Fun of the Budget-Friendly Nintendo Switch Lite</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dell-xps-n-13-flex-a-comprehensive-review-of-its-impressive-functionality-and-speed/"><u>Dell XPS N 13 Flex: A Comprehensive Review of Its Impressive Functionality and Speed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-selection-elite-wireless-mice-ranking/"><u>Discover the Ultimate Selection: Elite Wireless Mice Ranking</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/diy-tech-adventure-the-makeblock-mbot-kit-an-in-depth-guide-to-crafting-and-programming-your-personal-robot/"><u>DIY Tech Adventure: The Makeblock MBot Kit – An In-Depth Guide to Crafting & Programming Your Personal Robot</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dynamic-3d-audio-sony-reviewed/"><u>Dynamic 3D Audio - Sony Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-rankings-the-premier-fitness-trackers-on-the-market/"><u>Elite Rankings: The Premier Fitness Trackers on the Market</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/en-ligne-sans-frais-convertissez-facilement-vos-fichiers-m4v-au-format-mpg-a-laide-de-movavi/"><u>En Ligne Sans Frais : Convertissez Facilement Vos Fichiers M4V Au Format MPG À L'aide De Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oppo-find-x6-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Oppo Find X6 Pro Phone?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722874158338-the-future-of-technology-samsungs-2er-2025-launch-insider-news-rumored-gadgets-and-reveals/"><u>The Future of Technology: Samsung's 2Er 2025 Launch - Insider News, Rumored Gadgets, and Reveals!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-role-of-gpt-in-advancing-healthcare-delivery/"><u>The Role of GPT in Advancing Healthcare Delivery</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-your-screen-wont-switch-to-landscape/"><u>Troubleshooting iPhone: Why Your Screen Won't Switch to Landscape</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-behind-computers-blue-screen-of-death/"><u>Unraveling the Mystery Behind Computer's Blue Screen of Death</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210283867-9781776095933-your-12-week-body-mind-transformation/"><u>Your 12-week Body & Mind Transformation | Free Book</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-vlc-and-mpc-showdown-whats-your-preference-for-video/"><u>[New] 2024 Approved VLC and MPC Showdown What's Your Preference for Video?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-rise-with-the-pros-acquire-1k-ig-admirers-daily/"><u>[New] In 2024, Rise with the Pros Acquire 1K IG Admirers Daily</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/uperstars-with-a-subscriber-base-for-2024/"><u>[New] Superstars with a Subscriber Base for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-anticipating-virtual-realities-top-5-new-playstation-vr-games/"><u>[Updated] Anticipating Virtual Realities Top 5 New PlayStation VR Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-is-higher-frame-rate-better-weighing-30-vs-60fps-in-video/"><u>[Updated] Is Higher Frame Rate Better? Weighing 30 Vs. 60Fps in Video</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/acer-predator-triton-300-se-review/"><u>Acer Predator Triton 300 SE Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-tp-link-archer-c50-wireless-router-evaluation-balancing-cost-and-capability/"><u>Affordable TP-Link Archer C50 Wireless Router Evaluation: Balancing Cost and Capability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/alcatel-joy-tab-2-analysis-affordable-lte-tablet-guide/"><u>Alcatel Joy Tab 2 Analysis: Affordable LTE Tablet Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apples-newest-gem-vs-samsungs-finest-tablet-an-in-depth-comparison-of-ipad-air-4-and-galaxy-tab-s7plus/"><u>Apple's Newest Gem Vs. Samsung's Finest Tablet - An In-Depth Comparison of iPad Air 4 and Galaxy Tab S7+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-in-class-jaco-smartpro-digital-tire-inflator-analysis-why-its-a-game-changer-for-portability-and-strength/"><u>Best in Class Jaco SmartPro Digital Tire Inflator Analysis: Why It's a Game-Changer for Portability & Strength</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/comment-reparer-le-fichier-dhistorique-des-fichiers-sur-windows-10-tutoriel-complet-et-facile-a-suivre/"><u>Comment Réparer Le Fichier D'Historique Des Fichiers Sur Windows 10 - Tutoriel Complet Et Facile À Suivre</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-aphaca-bt6-revised-problem/"><u>Comprehensive Analysis of the Aphaca BT6 # Revised Problem</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-how-size-doesnt-limit-quality-with-our-in-depth-review-of-the-apple-iphone-12-mini/"><u>Discover How Size Doesn't Limit Quality with Our In-Depth Review of the Apple iPhone ^12 Mini</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-s18-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-recording-your-world-how-camstudio-redefined/"><u>In 2024, Recording Your World - How CamStudio Redefined</u></a></li>
 </ul></div>
 

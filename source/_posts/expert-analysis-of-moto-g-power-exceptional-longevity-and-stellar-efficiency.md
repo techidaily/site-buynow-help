@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis of Moto G Power: Exceptional Longevity & Stellar Efficiency"
-date: 2024-09-14T04:59:56.230Z
-updated: 2024-09-14T16:09:28.728Z
+date: 2024-12-04T04:29:11.807Z
+updated: 2024-12-09T22:59:19.497Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis of Moto G Power: Exceptional Longevity & Stellar Efficiency"
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/e55121a8e00138bfd889740b0f7a193e7e03922e8
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Antop AT-127
 
 ![Antop AT-127 Atenna](https://www.lifewire.com/thmb/6eJwPC0xPwMxCh4aQhG73X9dkzU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Antop-AT-127-TV-Antenna-1-b5be49369e424350bd31563dfdc4828d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -82,6 +90,10 @@ Lifewire / Erika Rawes
 
  The antenna has an easy-push connector, instead of a connector you have to screw onto the coax threading.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance: Almost two dozen channels**
 
  The Antop AT-127 supports UHF and VHF signals. Overall, it works pretty smoothly, though some channels might have look pixelated for a few seconds when you flip to them or take a second or two to fully load.
@@ -92,6 +104,10 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Range: Could be better**
 
  My test home is in a rural area, and there’s a lot of tree cover on the property. The omnidirectional Antop AT-127 has a 40-mile range, which was enough to pick up local channels from neighboring cities.
@@ -100,13 +116,6 @@ Lifewire / Erika Rawes
 
  The omnidirectional Antop AT-127 has a 40-mile range, enough to pick up local channels from neighboring cities.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Mid-range**
 
  The Antop AT-127 retails for $35, which is middle of the road for an indoor TV antenna with the Antop’s specs. Some 50-mile (or longer) range antennas sell for as little as $20 or as much as $100, but the cheaper antennas usually don’t look as nice as the AT-127.
@@ -114,20 +123,10 @@ Lifewire / Erika Rawes
 ![Antop AT-127](https://www.lifewire.com/thmb/Gyp2hHNkH22HeYhnm37WRKC_MHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Antop-AT-127-TV-Antenna-4-baa9b55de12c4a91aa6baad4c8d86272.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Antop AT-127 vs. AmazonBasics Flat TV Antenna**
 
@@ -168,5 +167,20 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-daily-digital-domination-top-10-youtube-viewership-ranking/"><u>[New] In 2024, Daily Digital Domination Top 10 YouTube Viewership Ranking</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-top-techniques-for-awesome-instagram-videos/"><u>[Updated] 2024 Approved Top Techniques for Awesome Instagram Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/an-insider-look-at-why-users-love-their-kootek-laptop-cooling-pads-a-review/"><u>An Insider Look at Why Users Love Their Kootek Laptop Cooling Pads: A Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-6-retailers-for-premium-laptops-in-one-place/"><u>Discover the Ultimate 6 Retailers for Premium Laptops in One Place</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-solutions-dealing-with-a-single-airpod-that-isnt-working-properly/"><u>DIY Solutions: Dealing with a Single AirPod That Isn’t Working Properly</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/effective-event-oversight-strategies-for-successful-outcomes/"><u>Effective Event Oversight Strategies for Successful Outcomes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-j5-pro-tactical-v1-flashlight-for-superior-portability-and-brightness/"><u>Expert Analysis of the J5 Pro Tactical V1 Flashlight for Superior Portability & Brightness</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-easy-tag-extraction-compilation-of-7-best-no-cost-online-tools-for-2024/"><u>Free, Easy Tag Extraction Compilation of 7 Best No-Cost Online Tools for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/gb-for-a-continuous-video-watched-daily-for-2024/"><u>GB for a Continuous Video Watched Daily for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/getting-up-close-with-the-cutting-edge-technology-in-the-apple-iphone-15-pro/"><u>Getting Up Close with the Cutting-Edge Technology in the Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immersive-gaming-redefined-in-fallout-wasteland-2-directors-cut-review/"><u>Immersive Gaming Redefined in Fallout: Wasteland 2 Director's Cut Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-evolution-of-wearables-in-depth-look-at-the-new-samsung-galaxy-watch-active2/"><u>The Evolution of Wearables: In-Depth Look at the New Samsung Galaxy Watch Active2</u></a></li>
+</ul></div>
 

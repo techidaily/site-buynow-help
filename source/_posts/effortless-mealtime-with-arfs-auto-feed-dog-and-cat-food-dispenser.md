@@ -1,7 +1,7 @@
 ---
 title: Effortless Mealtime with Arf's Auto-Feed Dog and Cat Food Dispenser
-date: 2024-09-09T04:10:30.072Z
-updated: 2024-09-10T04:10:30.072Z
+date: 2024-12-08T00:58:47.344Z
+updated: 2024-12-10T11:15:57.715Z
 categories:
   - BestProducts
 description: This Article Describes Effortless Mealtime with Arf's Auto-Feed Dog and Cat Food Dispenser
@@ -14,11 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/xqB6GvmsoqinTwWXEKpYRlAPObQ=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Insta360 One X2
 
 ![Insta360 One X2](https://www.lifewire.com/thmb/9u9WmKWD9-s05N5xJb7xlPowUbc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Insta360_One_X2_HeroSquare-80809b6088f0400baa121b1e7d14e4b1.jpg)
@@ -50,12 +48,6 @@ Lifewire / Andy Zahn
 
 ![Insta360 One X2](https://www.lifewire.com/thmb/SA87_MJD5mJRnYY0t31c9ELFmlc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Insta360_One_X2_HeroSquare-80809b6088f0400baa121b1e7d14e4b1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Andy Zahn
 
 [View On Amazon $300](https://www.amazon.com/dp/B08M3B9754?tag=lifewire-onsite-prod-20&ascsubtag=5120402%7Cn5991ded260c043b49372f3c10028cf2500%7CB08M3B9754) [View On Best Buy $300](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6440817.p) [View On Adorama.com $300](https://www.adorama.com/ins3601xm2.html)
@@ -80,12 +72,6 @@ Lifewire / Andy Zahn
 
  Traditionally,[action cameras](https://www.lifewire.com/best-action-cameras-4139765) only capture a tiny window into the world. However, the Insta360 One X2 is one of a new breed of cameras that aim to uphold this age-old truth by capturing absolutely everything around them in a single spherical image. This opens up a wealth of opportunities from nifty editing tricks to easily capturing[VR](https://www.lifewire.com/virtual-reality-vr-definition-4155090) experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: A chunky, waterproof build
 
  The Insta360 One X2 is a solid, chunky little rectangle. It’s compact enough to fit in a large pocket and feels quite rugged and durable, though those bulbous glass lens elements mean you’ll still want to be a little careful with it. Fortunately, it comes with a sleek neoprene case that offers a reassuring extra level of protection when you just want to carry the camera in your pocket.
@@ -101,21 +87,13 @@ Lifewire / Andy Zahn
  Controls consist of a shutter button, power button, and circular touchscreen. An[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) light indicates the camera's status, and there is a standard tripod mount on the underside of the camera.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Setup Process: Mostly straightforward
 
  The One X2 came partially charged and ready to go once I inserted a[microSD card](https://www.lifewire.com/best-sd-cards-to-buy-4072362) , though first I had to install the Insta360 app on my phone and activate the camera. This turned out to be a bit of a pain, with the Bluetooth connection used to activate the One X2 and set up the Wi-Fi connection repeatedly timing out and failing. Eventually, I got it up and running, and aside from the one hiccup, the process was fairly smooth, if more complex than I’d typically expect from a camera.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Image Quality: Good light a necessity
 
  My initial impressions of the Insta360 One X2 were tinted by the weather conditions in which I initially tested it. Here in Western Washington, winter can be gloomy and dark, so I ended up shooting in fairly dim conditions much of the time. As a result, I couldn’t help be shocked by how poor the video looked when I went to edit it. However, when given plenty of light to work with, the One X2 produced fairly decent-looking photos and video.
@@ -129,11 +107,9 @@ Lifewire / Andy Zahn
  One thing to remember about the One X2 is that its 5.7K recording resolution isn’t as sharp and detailed as you might expect, and when you crop down to a standard 16:9 frame you end up with[1080p](https://www.lifewire.com/what-the-term-1080p-means-1846837) . That’s good enough for viewing on a phone or small tablet, but the low resolution, as well as noise and image artifacts, become pretty significant when viewed on a large computer monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Audio: Unimpressive overall
 
  The audio recording on the One X2 could be charitably described as mediocre. It’s there, and it’s useable, but in a camera that would otherwise be well suited to vlogging, given its portable size and ease of use, it's a little disappointing.
@@ -164,16 +140,14 @@ Lifewire / Andy Zahn
 
 Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Price: Good value
 
  With an MSRP of $430, the One X2 is only a little more expensive than a high-end action camera, but it’s not bad for a 360 camera. It’s a good value if being able to shoot 360-degree video is a necessity for you.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Insta360 One X2 vs. GoPro Hero 9 Black
 
  You may well be trying to decide between a 360 camera and a traditional action camera, in which case the obvious choice to match against the Insta360 One X2 is the[GoPro HERO9 Black](https://www.lifewire.com/gopro-hero9-black-review-5120078) . On the surface, the GoPro looks like the obvious choice for far better image and audio quality with better durability at a lower price point. However, if what you want is to record special moments in your life without having to even think about the camera, then you should go with the One X2.
@@ -191,11 +165,9 @@ Lifewire / Andy Zahn
 * [GoPro HERO7 Black](https://www.lifewire.com/gopro-hero7-black-review-4705929)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  One X2
@@ -226,8 +198,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +205,26 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-zoom-mastery-maximizing-your-podcast-recording-quality/"><u>[New] 2024 Approved Zoom Mastery Maximizing Your Podcast Recording Quality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-producing-hysterical-youtube-video-reactions-3-key-techniques/"><u>[New] The Ultimate Guide to Producing Hysterical YouTube Video Reactions (3 Key Techniques)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-social-surge-amass-1k-on-ig-each-month-for-a-million-dream-for-2024/"><u>[New] The Ultimate Social Surge Amass 1K on IG Each Month for a Million Dream for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unpacking-video-editing-excellence-is-inshot-at-the-top-in-2024/"><u>[New] Unpacking Video Editing Excellence Is InShot at the Top, In 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-elite-10-sound-enhancers-across-os-platforms/"><u>[Updated] Elite 10 Sound Enhancers Across OS Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-performance-and-cost-of-the-winegard-fl5500-aflatwayenn-antenna-satisfactory-but-overpriced/"><u>Assessing the Performance and Cost of the Winegard FL5500# AFLATWAYENN Antenna: Satisfactory but Overpriced</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/audew-portable-air-compressor-evaluation-conveniently-sized-and-dependably-powerful-review/"><u>AUDEW Portable Air Compressor Evaluation: Conveniently Sized & Dependably Powerful Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/can-you-enhance-a-laptops-thinking-unit-cpu-upgrade/"><u>Can You Enhance a Laptop's Thinking Unit: CPU Upgrade?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canine-capers-puzzles-for-two/"><u>Canine Capers: Puzzles for Two</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canon-powershot-sx420-a-zoom-marvel-in-a-small-form/"><u>Canon PowerShot SX420: A Zoom Marvel in a Small Form</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-dell-xps-13-7390-the-perfect-fusion-of-elegance-and-functionality/"><u>Comprehensive Analysis of the Dell XPS 13 (7390): The Perfect Fusion of Elegance and Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-netgear-nighthawk-x6-ac3200-the-ultimate-tri-band-wireless-router-for-high-speed-and-home-use/"><u>Comprehensive Guide to Netgear Nighthawk X6 AC3200 – The Ultimate Tri-Band Wireless Router for High Speed & Home Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-linksys-max-stream-ac1900-the-perfect-network-solution-for-all-users/"><u>Comprehensive Guide to the Linksys Max-Stream AC1900: The Perfect Network Solution for All Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-philips-hf3520-clock-radio-value-meets-performance/"><u>Comprehensive Guide to the Philips HF3520 Clock Radio: Value Meets Performance</u></a></li>
+<li><a href="https://facebook.techidaily.com/methods-for-finding-lost-facebook-tweets/"><u>Methods for Finding Lost Facebook Tweets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/synthesize-shots-the-photo-montage-methodology/"><u>Synthesize Shots The Photo Montage Methodology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-choosing-among-15-great-free-uninstallers/"><u>The Complete Guide to Choosing Among 15 Great Free Uninstallers</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-tutorial-how-can-you-watch-and-host-pubg-mobile-battles-on-your-pc/"><u>Ultimate Tutorial: How Can You Watch and Host PUBG Mobile Battles on Your PC?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-social-media-whats-the-difference-between-retweeting-and-re-tweeting/"><u>Understanding Social Media: What's the Difference Between 'Retweeting' And 'Re-Tweeting'?</u></a></li>
+</ul></div>
 

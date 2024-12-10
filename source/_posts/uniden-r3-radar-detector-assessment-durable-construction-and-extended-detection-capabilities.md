@@ -1,7 +1,7 @@
 ---
 title: "Uniden R3 Radar Detector Assessment: Durable Construction & Extended Detection Capabilities"
-date: 2024-09-11T19:31:25.775Z
-updated: 2024-09-14T23:37:19.993Z
+date: 2024-12-02T17:12:59.797Z
+updated: 2024-12-10T10:12:02.927Z
 categories:
   - BestProducts
 description: "This Article Describes Uniden R3 Radar Detector Assessment: Durable Construction & Extended Detection Capabilities"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 ## Common in Prostate Cancer, Osteoblastic Lesions Can Lead to Osteosclerosis and Structurally Unsound Bones
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TopMate C302 Laptop Cooling Pad
 
@@ -36,6 +40,10 @@ Lifewire / Andrew Hayward
 [View On Amazon $17](https://www.amazon.com/dp/B01L8M215A?tag=lifewire-onsite-prod-20&ascsubtag=5193471%7Cn3d06d6a443e14152b7728753066731b712%7CB01L8M215A)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TopMate C302 Laptop Cooling Pad
 
@@ -89,13 +97,6 @@ Lifewire / Andrew Hayward
 
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Performance: It makes a difference
 
  I tested the C302 using the[Razer Blade 15 (2019) gaming laptop](https://www.lifewire.com/razer-blade-15-review-4845229) , which is equipped with an Intel Core i7-9750H processor and 16GB RAM, as well as a NVIDIA GeForce GTX 1660 Ti GPU (6GB).
@@ -110,18 +111,15 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Xs71AyeThjZwy-vZJ9LfxIhuXJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_04-eadbaf270b874af9bb8843b95efe8ca7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Andrew Hayward
 
  Lastly, UNIGINE’s Heaven Benchmark hit 162 degrees internally and 109 degrees externally on the Razer Blade 15 alone, and dropped to 154 degrees internally and 105 degrees externally when using the C302\. All told, this lightweight and affordable pad delivered solid cooling power that helped cut down on both the internal and external temperature of the laptop while under significant stress.
 
  Depending on test, the results were roughly comparable to or better than more expensive cooling pads, like the Kootek Laptop Cooling Pad and Thermaltake Massive TM, which have some added features onboard. It’s also pretty quiet in use—certainly quieter than the Razer Blade 15’s own internal fans.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Price: It’s very affordable
 
@@ -129,14 +127,11 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3hXx9Tb9omnQS0YyIXmv97Lunr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_02-8fc1ac2169044c0a82b61a80f63ef089.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TopMate C302 vs. Kootek Laptop Cooling Pad
 
@@ -153,6 +148,10 @@ Lifewire / Andrew Hayward
 * [Flexispot Theodore Standing Desk](https://www.lifewire.com/flexispot-theodore-standing-desk-review-5183806)
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [North Face Pivoter Backpack](https://www.lifewire.com/north-face-pivoter-backpack-review-4690198)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -180,5 +179,23 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-catalog-budget-friendly-image-treasuries-online/"><u>[New] Exclusive Catalog Budget-Friendly Image Treasuries Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-perfecting-titles-on-footage-step-by-step-tutorial-for-windows-photos-app-for-2024/"><u>[New] Perfecting Titles on Footage Step-by-Step Tutorial for Windows Photos App for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-chronocapture-expert-time-lapse-techniques-for-samsung-users/"><u>[Updated] 2024 Approved ChronoCapture Expert Time-Lapse Techniques for Samsung Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unveiling-enhancements-in-sonys-s6500-bdhd-player/"><u>[Updated] 2024 Approved Unveiling Enhancements in Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-bridging-fashion-and-filmmaking-ootd-tips-for-mac-users/"><u>[Updated] Bridging Fashion & Filmmaking OOTD Tips for Mac Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazfit-bip-smartwatch-unveiled-a-comprehensive-review-for-newbies/"><u>Amazfit Bip Smartwatch Unveiled: A Comprehensive Review for Newbies</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-hot-40-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Hot 40 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/battle-of-tablets-ipad-pro-vs-surface-pro-unveiled/"><u>Battle of Tablets: IPad Pro Vs. Surface Pro Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-lenovo-thinkpad-x1-titanium-yoga-a-must-have-hybrid-device-for-true-thinkpad-lovers/"><u>Comprehensive Review of the Lenovo ThinkPad X1 Titanium Yoga - A Must-Have Hybrid Device for True ThinkPad Lovers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-hardware-drivers-setup/"><u>Efficient Hardware Drivers Setup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/linkedin-premium-an-investment-in-professional-excellence/"><u>LinkedIn Premium - An Investment in Professional Excellence?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pro-vs-pro-max-choosing-between-the-latest-iphones-a-comprehensive-guide/"><u>Pro Vs. Pro Max - Choosing Between the Latest iPhones: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-of-microsoft-office-replacements-to-watch/"><u>The Ultimate List of Microsoft Office Replacements to Watch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-syma-x5c-rc-flying-device-an-entry-level-model-with-high-value/"><u>Unveiling the SYMA X5C RC Flying Device: An Entry-Level Model with High Value</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-webm-video-editing-software-top-10-picks/"><u>Updated 2024 Approved Free WebM Video Editing Software Top 10 Picks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-infinix-smart-8-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Infinix Smart 8 Pro Phones</u></a></li>
+</ul></div>
 

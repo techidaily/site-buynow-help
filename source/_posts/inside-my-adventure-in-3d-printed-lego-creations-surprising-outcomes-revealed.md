@@ -1,7 +1,7 @@
 ---
 title: Inside My Adventure in 3D-Printed LEGO Creations – Surprising Outcomes Revealed
-date: 2024-11-27T00:59:34.934Z
-updated: 2024-12-02T21:56:23.078Z
+date: 2024-12-06T20:56:22.194Z
+updated: 2024-12-09T20:22:12.363Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Inside My Adventure in 3D-Printed LEGO Creations – Surprising Outcomes Revealed
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,16 +32,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Not that LEGO let this happen without a fight, its failed legal battles with companies like Mega Blocks make for [fascinating reading](https://www.nytimes.com/2005/02/02/business/worldbusiness/building-a-legal-case-block-by-block.html). For our purposes here, all you need to know is that regular folks making LEGO models for 3D printing is fine, as long as they don't pretend to be real LEGO or use the company's trademarks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Where to Find Brick Model Files
 
  If you have the talent and the time, nothing's stopping you from firing up your favorite CAD program and whipping up your own LEGO, but luckily plenty of people have already done the hard work for us. In this case I used FaronMentink's [LEGO compatible bricks](https://www.thingiverse.com/thing:5447694/files) found on Thingiverse, but if those don't work for you, there are numerous other options on Thingiverse and other websites that host files for 3D printing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Printer, Setup, Material, & Settings
 
@@ -50,7 +46,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  As far as possible, I try to avoid using supports for my prints, because they leave markers on the model that require cleaning later. So I've printed these bricks in place, right-way-up to ensure there are no overhangs that would fail. However, some more exotic brick types might need supports, which you'll have to generate using your 3D printing software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Results
@@ -61,11 +57,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Two 3D-printed LEGO-compatible bricks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/bad-blocks.jpeg) 
 
-Sydney Louw Butler/How-To Geek
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Sydney Louw Butler/How-To Geek
 
 ##  Testing Compatibility With Real LEGO
 
@@ -74,6 +70,10 @@ Sydney Louw Butler/How-To Geek
  OK, not the end of the world. At least you'd expect the bricks you printed to work with each other, but sadly that wasn't the case either. For my printer, and my materials, these bricks just weren't working. So I had to look for an alternative set of models and came upon [Cfinke's customizable LEGO-compatible bricks](https://www.thingiverse.com/thing:615256).
 
 ![Two 3D-printed LEGO-compatible blocks stuck together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/good-blocks.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek
 
@@ -102,19 +102,14 @@ Sydney Louw Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-nextgen-youtuber-tools-studio-vs-beta-version/"><u>[New] In 2024, NextGen YouTuber Tools Studio Vs. Beta Version</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-ultimate-playbook-for-captivating-youtube-audiences-with-strategic-banners/"><u>[New] The Ultimate Playbook for Captivating YouTube Audiences with Strategic Banners</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-5-innovative-apps-to-design-stunning-openings/"><u>[Updated] 2024 Approved 5 Innovative Apps to Design Stunning Openings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/50-video-doorbell-showdown-see-how-the-iseebell-stacks-up/"><u>$50 Video Doorbell Showdown: See How the ISeeBell Stacks Up!</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728469045971-usb/"><u>簡單四道筋路：将文件快速传送到USB设备</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-beginners-roadmap-for-testing-pages-online-before-making-them-publicly-accessible/"><u>A Beginner’s Roadmap for Testing Pages Online Before Making Them Publicly Accessible</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/acer-aspire-c27-streamlined-design-meets-complete-functionality-in-one/"><u>Acer Aspire C27: Streamlined Design Meets Complete Functionality in One</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-elegance-motorola-one-vs-iphone-a-comparative-review/"><u>Affordable Elegance: Motorola One Vs. IPhone - A Comparative Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-overcoming-the-surprising-see-myself-issue-on-social-media/"><u>In 2024, Overcoming the Surprising See Myself Issue on Social Media</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723061237622-lgs-latest-marvel-the-c9-smart-tv-a-dream-vision-for-tech-addicts-and-cinema-buffs/"><u>LG's Latest Marvel: The C9 Smart TV – A Dream Vision for Tech Addicts and Cinema Buffs!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>Streaming Showdown The Podcast Challenge to YouTube’s Dominance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-nokia-7/"><u>Unveiling the Nokia 7.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-crafting-melodies-turn-any-tiktok-sound-into-phone-alerts/"><u>[New] 2024 Approved Crafting Melodies Turn Any TikTok Sound Into Phone Alerts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-deep-dive-into-kinesthetic-interaction-methods/"><u>[Updated] A Deep Dive Into Kinesthetic Interaction Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-smart-8-hd-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Smart 8 HD?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-c50-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco C50 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723028485309-the-best-budget-pick-for-50-inch-televisions-meet-the-tcl-50s425-reviewed/"><u>The Best Budget Pick for 50-Inch Televisions? Meet the TCL 50S425 Reviewed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-compact-marvel-expert-analysis-on-nintendos-switch-lite-edition/"><u>Unveiling the Compact Marvel: Expert Analysis on Nintendo's Switch Lite Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrade-or-reach-for-more-a-head-to-head-comparison-of-the-iphone-15-pro-and-pro-max/"><u>Upgrade or Reach for More? A Head-to-Head Comparison of the iPhone 15 Pro & Pro Max</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-samsung-galaxy-s21-ultra-is-dominating-as-androids-premier-choice/"><u>Why Samsung Galaxy S21 Ultra Is Dominating as Android's Premier Choice</u></a></li>
 </ul></div>
 

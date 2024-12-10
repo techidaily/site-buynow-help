@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2024-11-27T03:52:12.893Z
-updated: 2024-12-03T10:28:03.797Z
+date: 2024-12-08T18:24:09.374Z
+updated: 2024-12-10T04:05:48.153Z
 tags:
   - games
   - tv
@@ -44,7 +44,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 1: Open the Mod Manager
@@ -53,31 +53,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step 2: Import the Mod Fixer
 
  The mod fixer is necessary for many mods to work in the game, since it forces the game to recompile the campaign data, without which some mods would not work. To install it, Select File>Import Mod in the mod manager.
 
 ![BG3 mod importing menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-importing-menu-option.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Navigate to the folder where the mod fixer's zipped file is, select it and then select "Open." You should see "ModFixer" listed under "Overrides."
 
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 4: Export Mod Order
 
@@ -85,13 +81,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![BG3 export mod order menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-export-mod-order-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should see a green message pop up at the bottom of the window in the mod manager.
 
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This means we're ready to go!
 
@@ -106,6 +102,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 Your browser does not support the video tag. 
 
  Now you can play the game like normal with your new narrator.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Removing Mods
 
@@ -132,16 +132,22 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-noworrycapture-quick-and-easy-win11-recordings/"><u>[Updated] NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-top-20-open-source-pubg-slideshows/"><u>2024 Approved Exclusive List Top 20 Open-Source PUBG Slideshows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-11-proplus-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme 11 Pro+ Phone?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/simple-steps-to-successfully-convert-your-dvds-into-avi-files/"><u>Simple Steps to Successfully Convert Your DVDs Into AVI Files</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-all-new-samsung-qn55q6f-top-review-on-how-this-4k-smart-tv-transforms-your-viewing-experience/"><u>The All-New Samsung QN55Q6F - Top Review on How This 4K Smart TV Transforms Your Viewing Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-editing-images-with-gimp-your-free-multiplatform-solution/"><u>The Complete Guide to Editing Images with GIMP - Your Free, Multiplatform Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-the-samsung-galaxy-tab-s7plus-mastery-of-advanced-android-tablet-tech/"><u>The Definitive Guide to the Samsung Galaxy Tab S7+: Mastery of Advanced Android Tablet Tech</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-essential-e-reader-upgrade-amazon-kindle-2019-review-and-value-analysis/"><u>The Essential E-Reader Upgrade: Amazon Kindle (2019) Review and Value Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-quest-for-perfection-in-drones-a-thorough-review-of-the-newly-upgraded-dji-phantom-4-pro-v20/"><u>The Quest for Perfection in Drones - A Thorough Review of the Newly Upgraded DJI Phantom 4 Pro V2.0</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-a05-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy A05.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-youtube-reaction-video/"><u>[New] In 2024, How to Make a YouTube Reaction Video?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-which-is-the-ultimate-screen-recorder-analyzing-bandicam-vs-camtasia/"><u>[Updated] 2024 Approved Which Is the Ultimate Screen Recorder? Analyzing Bandicam vs Camtasia</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-shot-entire-page-view-for-2024/"><u>[Updated] Screen Shot Entire Page View for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aeonis-portable-solar-generator-reviewed-excellent-pure-sine-wave-inverter-option-for-essential-medical-apparatuses/"><u>Aeonis Portable Solar Generator Reviewed: Excellent Pure Sine Wave Inverter Option for Essential Medical Apparatuses</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/anker-powercoreplus-26800-battery-pack-bundle-review/"><u>Anker PowerCore+ 26800 Battery Pack Bundle Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aquaaudio-check-reliable-underwater-clarity/"><u>AquaAudio Check: Reliable Underwater Clarity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/artistry-in-darkness-reimagining-the-iconic-action-rpg-demons-souls/"><u>Artistry in Darkness: Reimagining the Iconic Action-RPG, Demon's Souls</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-motorola-moto-g-stylus-5g-2023-screen-sharing-drfone-by-drfone-android/"><u>How To Do Motorola Moto G Stylus 5G (2023) Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-boost-engagement-with-quick-unique-coverage-options-on-shorts/"><u>In 2024, Boost Engagement with Quick, Unique Coverage Options on Shorts</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-6-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 6 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://extra-support.techidaily.com/make-a-living-with-reddit-even-for-novices-top-13-easy-strategies-for-2024/"><u>Make a Living with Reddit (Even for Novices!) Top 13 Easy Strategies for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-motorola-g54-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Motorola G54 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-peaceful-meal-times-for-your-pet-using-arf-pets-advanced-feeder-technology/"><u>Unlock Peaceful Meal Times for Your Pet Using Arf Pets Advanced Feeder Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-dbpower-600a-peak-power-device-reviewed-at-18000mah-capacity-a-trustworthy-portable-charger/"><u>Unpacking the DBPOWER 600A Peak Power Device Reviewed at 18,000mAh Capacity: A Trustworthy Portable Charger</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/versatile-and-brilliant-unpack-the-power-of-spk10-037-kit/"><u>Versatile & Brilliant: Unpack the Power of SPK10-037 Kit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/which-is-better-an-iphone-or-a-samsung-phone-an-in-depth-comparison/"><u>Which Is Better, an iPhone or a Samsung Phone?: An In-Depth Comparison</u></a></li>
 </ul></div>
 

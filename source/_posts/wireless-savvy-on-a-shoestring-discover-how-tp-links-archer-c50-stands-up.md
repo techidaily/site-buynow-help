@@ -1,7 +1,7 @@
 ---
 title: Wireless Savvy on a Shoestring? Discover How TP-Link's Archer C50 Stands Up
-date: 2024-09-09T04:10:13.117Z
-updated: 2024-09-10T04:10:13.117Z
+date: 2024-12-05T19:35:02.404Z
+updated: 2024-12-09T19:10:14.291Z
 categories:
   - BestProducts
 description: This Article Describes Wireless Savvy on a Shoestring? Discover How TP-Link's Archer C50 Stands Up
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/mmbrE9_55HrTJ55Kp-P9NDxY-B8=/400x300/fi
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/AjVVBONBD_MfQeA3voTlfDA2Jrc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -41,6 +45,10 @@ thumbnail: https://www.lifewire.com/thmb/mmbrE9_55HrTJ55Kp-P9NDxY-B8=/400x300/fi
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/Em7mFCNB7ffPEBeVuQuFIJpvJyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -69,26 +77,12 @@ thumbnail: https://www.lifewire.com/thmb/mmbrE9_55HrTJ55Kp-P9NDxY-B8=/400x300/fi
 
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: Humans have never been so annoying**
 
  The game begins with a multi-hour long tutorial program, which I highly recommend you undertake before playing the game. There are so many various aspects to the game—basic needs, threats to your colony, resources to import and export—that it would be disastrous not to get caught up to speed. It took me a total of five hours to complete these tutorials, but I had to restart a couple after a couple operator error moments when I accidentally destroyed my only water vaporizer and had no idea how to rebuild it. So, it will probably take you less.
@@ -121,12 +115,6 @@ thumbnail: https://www.lifewire.com/thmb/mmbrE9_55HrTJ55Kp-P9NDxY-B8=/400x300/fi
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
@@ -134,19 +122,15 @@ thumbnail: https://www.lifewire.com/thmb/mmbrE9_55HrTJ55Kp-P9NDxY-B8=/400x300/fi
 ![Surviving Mars](https://www.lifewire.com/thmb/xyO7-tOzWWRT_ffxzC7TaIMOwH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_03-9d30e99e7a0b4364bc86c4b40dfc99bf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Competition: Other city-building games**
 
  What makes Surviving Mars unique is that technically it is a city-[building game](https://www.lifewire.com/best-offline-building-games-4580415) , but instead of building bus lines, you have to build oxygen and water lines to ensure colony survival. However, just like city-building games, you are building infrastructure. If you’re solely focused on building up a city, Surviving Mars would be a great addition to your library, but so would[Cities: Skylines](https://store.steampowered.com/app/255710/Cities%5FSkylines/) (view on Steam). Both focus on creating a habitat from scratch—one just happens to be hundreds of thousands of miles away while the other could be in a tropical or a Midwestern climate.
@@ -159,12 +143,6 @@ thumbnail: https://www.lifewire.com/thmb/mmbrE9_55HrTJ55Kp-P9NDxY-B8=/400x300/fi
 
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Surviving Mars
@@ -177,14 +155,11 @@ thumbnail: https://www.lifewire.com/thmb/mmbrE9_55HrTJ55Kp-P9NDxY-B8=/400x300/fi
 * Graphics  HD 4600/Geforce 620/Radeon 6450 or equivalent GPUs with 1 GB of video RAM
 * Game Updates  Green Planet, Project Laika, Space Race, Colony Design Set, Marsvision Song Contest
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,4 +168,22 @@ thumbnail: https://www.lifewire.com/thmb/mmbrE9_55HrTJ55Kp-P9NDxY-B8=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-earn-with-periscope-a-first-time-guide-to-gaining-cash/"><u>[New] 2024 Approved Earn with Periscope A First-Time Guide to Gaining Cash</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/earn-how-to-upload-music-to-your-youtube-channel/"><u>[New] Learn How to Upload Music to Your YouTube Channel</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-nostalgia-spin-off-the-goofy-movie-on-tape/"><u>[Updated] Nostalgia Spin-Off The Goofy Movie on Tape</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-laughing-made-easy-the-zero-cost-meme-kit/"><u>2024 Approved Laughing Made Easy – The Zero-Cost Meme Kit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-to-mastering-games-with-kinemaster-android/"><u>2024 Approved The Complete Guide to Mastering Games with KineMaster Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-directors-eye-15-essential-camera-shots-explained/"><u>2024 Approved The Director's Eye 15 Essential Camera Shots Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-strongly-built-uniden-r3-with-exceptional-long-range-features/"><u>Expert Review: The Strongly Built Uniden R3 with Exceptional Long Range Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-elegance-and-efficiency-of-aukeys-no-nonsense-usb-30-hub-package/"><u>Exploring the Elegance & Efficiency of Aukey's No-Nonsense USB 3.0 Hub Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-escort-max-360-high-tech-radar-detection-meets-accurate-gps-navigation/"><u>Exploring the Features of Escort Max 360: High-Tech Radar Detection Meets Accurate GPS Navigation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fast-and-reliable-or-just-ugly-evaluating-tp-links-av2000-powerline-adapter/"><u>Fast and Reliable or Just Ugly? - Evaluating TP-Link's AV2000 Powerline Adapter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-2018-amazon-kindle-paperwhite-revolutionized-reading/"><u>How the 2018 Amazon Kindle Paperwhite Revolutionized Reading</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-apple-watch-series-6-elevates-yet-remains-unrivaled-in-its-class/"><u>In-Depth Analysis: How the Apple Watch Series 6 Elevates Yet Remains Unrivaled in Its Class</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/learn-quick-image-text-alteration-online-resources/"><u>Learn Quick Image Text Alteration Online Resources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-up-to-50-off-premium-4tb-samsung-portable-ssd-available-at-amazon-zdnet-exclusive-deal/"><u>Save Big with Up to 50% Off: Premium 4TB Samsung Portable SSD Available at Amazon – ZDNET Exclusive Deal</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successful-resolution-how-to-restart-a-non-responsive-igfxem-unit/"><u>Successful Resolution: How to Restart a Non-Responsive IgfxEM Unit</u></a></li>
+</ul></div>
 

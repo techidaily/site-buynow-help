@@ -1,7 +1,7 @@
 ---
 title: Expert Reveal on Twelve South's Compass Pro Gear for Optimal Balance & Control
-date: 2024-11-12T23:59:38.799Z
-updated: 2024-11-15T05:42:40.967Z
+date: 2024-12-02T21:56:54.949Z
+updated: 2024-12-10T08:10:36.414Z
 categories:
   - BestProducts
 description: This Article Describes Expert Reveal on Twelve South's Compass Pro Gear for Optimal Balance & Control
@@ -13,9 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/RbH1L50C2WDwsCIJHL9rumjvuMg=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
 ![Yongnuo YN560 IV Wireless Flash Speedlite Master](https://www.lifewire.com/thmb/uk1o4WlK-bsMCk1tgtC5d79QMNM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_3LW4072366-Yongnuo-YN560-1-33b6547cc9014731ab6e144b0613aaef.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -36,6 +44,10 @@ Lifewire / Jonno Hill
 [View On Amazon $85](https://www.amazon.com/dp/B00PGTOX26?tag=lifewire-onsite-prod-20&ascsubtag=4686829%7Cned26b5ddc861462ea8962bb31e85883020%7CB00PGTOX26) [View On B&H Photo Video $85](https://www.bhphotovideo.com/c/product/1101196-REG/yongnuo%5Fyn%5F560iv%5Fyn560%5Fiv%5Fspeedlite.html)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
@@ -75,13 +87,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Features & Functionality: Full suite manual control**
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master has a lot of different options that will make it an attractive option for manual shooters. But before we dive into all the things it does well, let’s talk about what you_won’t_ find in this flash. The most notable omission is TTL. For the uninitiated, Through The Lens (TTL) is a metering mode that lets a flash unit fire a series of infrared bursts and evaluates the actual light coming through the lens to determine how much power to deliver when taking a photo. It’s very handy to have for beginners and event photographers, but by no means essential for many other types of users.
@@ -117,10 +122,7 @@ Lifewire / Jonno Hill
  Overall, the YN560 IV gives you a lot of functionality and control, but definitely requires some reading and troubleshooting before you can master the device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Significant savings for manual users**
@@ -143,13 +145,6 @@ Lifewire / Jonno Hill
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master may not be a very simple flash, but it packs enough functionality to make a very versatile platform for more aspirational photographers. Buyers that want full manual control and radio transmission without paying an arm and a leg will be more than pleased with what they get.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Canon Speedlite 430EX III-RT Flash](https://www.lifewire.com/canon-speedlite-430ex-iii-rt-flash-review-4686835)
@@ -157,10 +152,7 @@ Lifewire / Jonno Hill
 * [Fovitec SPK10-037 Softbox Lighting Kit](https://www.lifewire.com/fovitec-spk10-037-softbox-lighting-kit-review-4692503)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -195,24 +187,24 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-stream-it-record-it-facebook-live-tips-and-tricks/"><u>2024 Approved Stream It, Record It Facebook Live Tips & Tricks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-yokus-adventure-in-island-express/"><u>A Comprehensive Review of Yoku’s Adventure in Island Express</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-netgear-nighthawk-c7000-top-tier-wireless-router-unveiled/"><u>Comprehensive Evaluation of the Netgear Nighthawk C7000 - Top-Tier Wireless Router Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-havit-5-gaming-laptop-cooling-pad-keep-your-system-chilled/"><u>Expert Analysis of the HAVIT 5 Gaming Laptop Cooling Pad - Keep Your System Chilled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/google-nest-wi-fi-exposed-a-swift-and-seamless-home-internet-solution-reviewed/"><u>Google Nest Wi-Fi Exposed: A Swift and Seamless Home Internet Solution Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hisense-50h8f-ultra-hd-hdr-smart-tv-the-best-value-for-money/"><u>Hisense 50H8F Ultra HD HDR Smart TV: The Best Value for Money?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-dxgierrordeviceremoved-error-in-windows-11-and-11/"><u>How to Fix the DXGI_ERROR_DEVICE_REMOVED Error in Windows 11 & 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-firefox-freezing-issues-a-step-by-step-tutorial/"><u>How to Resolve Firefox Freezing Issues: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-a38-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo A38</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-note-50-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme Note 50</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-11-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for OnePlus 11 5G Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lightweight-long-range-wi-fi-for-any-adventure-the-tp-link-tl-wr902ac/"><u>Lightweight, Long-Range Wi-Fi for Any Adventure - The TP-Link TL-WR902AC</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/schritt-fur-schritt-anleitung-vergleich-zwischen-in-place-upgrades-und-neuinstallationen-auf-windows-server/"><u>Schritt-Für-Schritt-Anleitung: Vergleich Zwischen In-Place Upgrades Und Neuinstallationen Auf Windows Server</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719205412582-shed-light-on-dark-windows-11-desktops-tips-inside/"><u>Shed Light on Dark Windows 11 Desktops - Tips Inside</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-adaptable-ally-for-travel-discovering-patekfly-12/"><u>The Adaptable Ally for Travel: Discovering Patekfly 12</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-apc-back-ups-be600m1-surge-protector-how-it-performs-with-usb-charging-capabilities-reviewed/"><u>The APC Back-UPS BE600M1 Surge Protector - How It Performs with USB Charging Capabilities Reviewed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-entrepreneurs-lifeline-critical-items-every-startup-needs-right-now-for-2024/"><u>The Entrepreneur's Lifeline Critical Items Every Startup Needs Right Now for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-ultimate-test-intova-xs-video-capabilities/"><u>The Ultimate Test Intova X's Video Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-review-of-dbpowers-600a-peak-charger-a-deep-dive-into-its-18k-mah-features/"><u>Top Review of DBPower's 600A Peak Charger: A Deep Dive Into Its 18K mAh Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-become-a-broadcast-pro-screen-sharing-101-for-facebookers/"><u>[New] Become a Broadcast Pro Screen Sharing 101 for Facebookers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-buys-in-the-realm-of-4k-video-tools/"><u>[New] In 2024, Best Buys in the Realm of 4K Video Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-best-free-youtube-video-editing-apps-for-iphone-and-ipad-for-2024/"><u>[Updated] Best Free YouTube Video Editing Apps for iPhone & iPad for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-is-my-friends-account-invisible-potential-block/"><u>[Updated] In 2024, Is My Friend's Account Invisible? Potential Block</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-keep-your-feed-pure-stop-suggested-posts/"><u>2024 Approved How to Keep Your Feed Pure Stop Suggested Posts</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029795082-2024dvd/"><u>2024年刊行リリースの無制限DVDコピーツール - ベストオブレコメンド</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/secure-and-sync-your-cinematic-recordings-across-platforms/"><u>Secure and Sync Your Cinematic Recordings Across Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-lg-watch-style-embracing-the-traditional-design-of-wear-os-smartwatches/"><u>The Definitive Guide to LG Watch Style: Embracing the Traditional Design of Wear OS Smartwatches</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-elegant-compact-sony-ps-lx310bt-unveiled/"><u>The Elegant, Compact Sony PS-LX310BT Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-team-players-journey-through-dying-light-exploring-a-unique-first-person-survival-experience/"><u>The Ultimate Team Player's Journey Through Dying Light - Exploring a Unique First-Person Survival Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-samsungs-qn55q60rafxza-delving-into-its-outstanding-4k-and-hdr10plus-performance/"><u>Top Review of Samsung's QN55Q60RAFXZA - Delving Into Its Outstanding 4K and HDR10+ Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-photo-and-document-scanners-in-2t4/"><u>Top-Rated Photo & Document Scanners in 2T4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-aphaca-bt69-top-reviews-of-the-best-bluetooth-fm-transmitter-for-cars/"><u>Ultimate Guide to Aphaca BT69: Top Reviews of the Best Bluetooth FM Transmitter for Cars</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-iphone-enhancements-for-a-superior-experience/"><u>Ultimate Selection of iPhone Enhancements for a Superior Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-soundtrack-compilation-fitness-edition/"><u>Ultimate Soundtrack Compilation (Fitness Edition)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-new-potentials-a-detailed-look-at-apples-m1-powered-2020-macbook-air-13-inch-laptop-review/"><u>Unlocking New Potentials: A Detailed Look at Apple's M1 Powered 2020 MacBook Air 13 Inch Laptop Review</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-an-enhanced-dual-screen-experience-with-w11-and-tablet/"><u>Unveiling the Secrets to an Enhanced Dual-Screen Experience with W11 & Tablet</u></a></li>
 </ul></div>
 

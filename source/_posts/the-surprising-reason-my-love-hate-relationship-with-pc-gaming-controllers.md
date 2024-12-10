@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers"
-date: 2024-11-29T23:36:21.906Z
-updated: 2024-12-02T21:34:29.905Z
+date: 2024-12-04T11:37:50.485Z
+updated: 2024-12-09T23:14:45.161Z
 tags:
   - games
   - tv
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 
  I love gaming on my PC because there’s a wider selection of games, and I have a desktop that is more powerful than any console on the market. Despite this, I exclusively play games using a controller and avoid using my keyboard and mouse. That may sound blasphemous, but I have some good reasoning.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1  The Pinky Problem 
 
 ![Fingers in awkward position on a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/fingers-in-awkward-position-on-a-keyboard.jpg) 
@@ -45,10 +41,6 @@ Ismar Hrnjicevic / How-To Geek
 
  Controllers offer a more ergonomic alternative. Your fingers wrap naturally around them, moving freely, especially the [Xbox Elite controllers](https://youtube-clips.techidaily.com/the-rise-and-challenges-of-video-streaming-profits/) and their [game-changing back buttons](https://some-skills.techidaily.com/the-best-ai-naming-assistants-for-podcast-innovation-for-2024/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2  Controllers Are Better for My Preferred Game Genres 
 
 ![A collage of hypothetical 3rd person ARPG games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-collage-of-hypothetical-3rd-person-arpg-games.png) 
@@ -61,6 +53,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  Don't get me wrong, I've spent countless hours enjoying RTS games like _Warcraft 3_ and _Starcraft 2_ with a keyboard and mouse. I understand their strengths for certain genres. However, with the decline of RTS games and my waning interest in FPS titles, I find controllers better suited for the types of games I enjoy most these days.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  A Poor Choice for Emulation 
 
  While I'm not the greatest fan of [emulators](https://some-guidance.techidaily.com/new-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/), I know many who are and they unanimously vote against the use of keyboards and mice for emulated games.
@@ -68,10 +64,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
  It makes sense when you think about it. When emulating a game, you're recreating an experience originally designed for specific input devices, namely gamepads. It's only logical that using a controller would offer the most authentic and enjoyable experience.
 
  If you're interested in emulation, there are various [gamepads better suited for different types of emulated systems](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-12-pro-by-drfone-ios/). That said, most emulators allow you to remap buttons, so you can adapt a single gamepad to mimic different controller layouts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4  A Lack of Vibration Feedback 
 
@@ -83,9 +75,17 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  This is to say nothing of the modern haptic feedback seen on the PS5 DualSense controller with its adaptive triggers, and the rumble feedback that Xbox Core controllers feature in the triggers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5  Not Ideal for Local Co-op or PvP 
 
 ![illustration of two people awkwardly trying to share a single keyboard and mouse setup for gaming.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/illustration-of-two-people-awkwardly-trying-to-share-a-single-keyboard-and-mouse-setup-for-gaming.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -96,10 +96,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
  Then there's the logistical nightmare. If I'm on a keyboard and mouse, I need to be right in front of my PC. So where does my friend sit? Beside me, they're looking at the screen at an awkward angle. Behind me, they're basically watching the back of my head instead of the game. Granted, I have great hair, but that’s not the point.
 
  I've experienced this first-hand with _EA Sports FC 24_, my current go-to game for local multiplayer. But it translates to other titles like _Street Fighter_, _It Takes Two_, or _Overcooked_. Trust me, you don't want to play _Overcooked_ with one person on a gamepad and another fumbling with a keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6  I’m Tied to My Desk 
 
@@ -118,7 +114,7 @@ Dibakar Ghosh / How-To Geek | Midjourney
  By associating gaming with a gamepad and keeping it out of sight during work hours, I created just enough friction to resist sneaking into quick gaming sessions when work got challenging. I established a clear boundary: work mode is a keyboard and mouse, and play mode is a gamepad. It's simple, effective, and [keeps me disciplined](https://extra-information.techidaily.com/the-insiders-guide-to-captivating-youtube-headlines/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8  Because I Love My Keyboard and Mouse 
@@ -132,6 +128,10 @@ Ismar Hrnjicevic / How-To Geek
  I've lost keyboards to button-mashing in action-packed games. Even [switching to mechanical keyboards](https://instagram-clips.techidaily.com/social-sensation-best-insta-stories-effects/) didn't solve the issue entirely. Imagine trying to write an article when _thespacebarstopsworking_. Frustrating, right? Even my mouse's left-click got a bit mushy and unresponsive.
 
  My [current mechanical keyboard has hot-swappable](https://facebook-record-videos.techidaily.com/streamlining-visual-storytelling-with-youtube-videos-for-2024/) switches, so technically, if a key falters, I can pull it out and replace it. However, considering this and all the above points, it’s just more convenient to have a dedicated gamepad for gaming while preserving my keyboard and mouse for work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9  A Spare Keyboard and Mouse Will Take Up Too Much Desk Space 
 
@@ -162,20 +162,16 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-tailoring-your-techniques-for-itunes-videos/"><u>[New] 2024 Approved Tailoring Your Techniques for iTunes Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-expert-insights-crafting-perfect-vimeo-closures/"><u>[New] Expert Insights Crafting Perfect Vimeo Closures</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unlimited-tiktok-videos-no-watermarks-free-downloads/"><u>[New] In 2024, Unlimited TikTok Videos No Watermarks, Free Downloads</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-beantech-bitwatch-s1-plus-review-an-affordable-tech-marvel/"><u>Comprehensive Beantech Bitwatch S1 Plus Review - An Affordable Tech Marvel!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-examination-of-hps-latest-creation-the-portable-marvel-zbook-firefly-15-g8/"><u>Comprehensive Examination of HP's Latest Creation: The Portable Marvel, ZBook Firefly 15 G8</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-kobo-nia-ebook-display-assessment-daring-to-rival-amazon-kindle/"><u>Comprehensive Kobo Nia Ebook Display Assessment: Daring to Rival Amazon Kindle?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-pioneer-bdr-xs06-blu-ray-disc-burner-evaluation-emphasizing-mobility-and-speed/"><u>Comprehensive Pioneer BDR-XS06 Blu-Ray Disc Burner Evaluation: Emphasizing Mobility & Speed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cost-effective-speed-unpacking-the-features-of-the-tp-link-archer-c50/"><u>Cost-Effective Speed: Unpacking the Features of the TP-Link Archer C50</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-power-of-ai-how-does-meta-incorporate-machine-learning/"><u>Discover the Power of AI: How Does Meta Incorporate Machine Learning?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-wonders-of-hisenses-affordable-40-model-the-40h5590f-smart-tv-revealed/"><u>Discovering the Wonders of Hisense's Affordable 40 Model: The 40H5590F Smart TV Revealed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/distinguishing-apples-laptops-macbook-air-vs-macbook-pro-an-in-depth-analysis/"><u>Distinguishing Apple's Laptops: MacBook Air vs MacBook Pro – An In-Depth Analysis</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-reawakening-dormant-connections-with-your-obs-cam/"><u>In 2024, Reawakening Dormant Connections with Your OBS Cam</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-list-of-free-mp4-video-editing-software/"><u>New The Ultimate List of Free MP4 Video Editing Software</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-in-thumbnails-creating-impressive-youtube-on-macos/"><u>Thriving in Thumbnails Creating Impressive Youtube on macOS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/tutorial-comment-transformer-un-fichier-gif-en-format-mov-gratuitement-sur-internet-services-de-conversion-video/"><u>Tutorial: Comment Transformer Un Fichier GIF en Format MOV Gratuitement Sur Internet - Services De Conversion Vidéo</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-evolution-a-deep-dive-into-lgs-oled-monitors-ud88-w/"><u>[New] In 2024, The Evolution A Deep Dive Into LG's OLED Monitors UD88-W</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/earn-the-easy-ways-to-turn-your-watching-experience-on-youtube-into-a-screencast-without-money/"><u>[New] Learn the Easy Ways to Turn Your Watching Experience on YouTube Into a Screencast Without Money</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlocking-the-code-a-guide-to-your-own-special-tiktok-hash-for-2024/"><u>[New] Unlocking the Code A Guide to Your Own Special TikTok Hash for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-lenovo-chromebook-duet-evaluation-a-comprehensive-look-at-the-cost-effective-tabletlaptop-hybrid/"><u>Affordable Lenovo Chromebook Duet Evaluation: A Comprehensive Look at the Cost-Effective Tablet/Laptop Hybrid</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aminy-ufo-review-looks-can-be-deceiving/"><u>Aminy UFO Review: Looks Can Be Deceiving</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/barnes-and-nobles-nook-glowlight-ereader-review-your-perfect-book-companion-in-the-dark/"><u>Barnes & Noble's Nook GlowLight eReader Review: Your Perfect Book Companion in the Dark</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bt-d11-by-beatit-a-comprehensive-review-of-the-robust-jump-starter/"><u>BT-D11 by Beatit: A Comprehensive Review of the Robust Jump Starter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/capitalize-on-prime-day-savings-top-picks-for-high-performance-benq-tech/"><u>Capitalize on Prime Day Savings: Top Picks for High-Performance BenQ Tech</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c32-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nokia C32 Bootloader Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-your-web-experience-effective-methods-to-address-google-chrome-has-stopped-working/"><u>Reviving Your Web Experience: Effective Methods to Address 'Google Chrome Has Stopped Working'</u></a></li>
 </ul></div>
 

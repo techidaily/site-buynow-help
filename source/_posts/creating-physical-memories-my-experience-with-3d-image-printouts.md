@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2024-12-01T03:18:08.034Z
-updated: 2024-12-03T07:17:42.642Z
+date: 2024-12-07T05:04:25.311Z
+updated: 2024-12-10T00:48:01.626Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ## Creating Physical Memories: My Experience with 3D Image Printouts
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  While working with porcelain isn't something you can do at home typically, if you have a 3D printer you can emulate the same effect and make a lithophane by printing it. When you hold the lithophane up to the light, your original image appears. It's a neat effect and, thanks to the flexibility of 3D printing, you can make all sorts of interesting decorations using this method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Converting an Image to a Lithophane
@@ -45,25 +45,29 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
 
  Once you're happy with the settings, your photo will appear as a lithophane model in the slicer just like any other 3D model.
 
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
 
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Printing Your Lithophane
 
@@ -76,10 +80,6 @@ Close
  The problem is that a thin vertical panel is basically impossible to print, so you need to support your lithophane in some way. You can manually add supports to it using a CAD program, for example, but this is where a lithophane maker app comes into its own. For example, It's Litho has a number of pre-made stands and mounts as I mentioned before. You can add integrated frames too, there's plenty of customization. With such an integrated frame, you can print your litho vertically with confidence and get a significantly better end result.
 
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -100,22 +100,24 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dissecting-youtubes-activities-post-uploading-videos/"><u>[New] 2024 Approved Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-subreddit-landscape-a-step-by-step-approach/"><u>2024 Approved Navigating the Subreddit Landscape A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5lia5q2p44os44k344ouic0g44kr44od44oi44gg44gr44gn5yuv55s757eo6zug44gm57ch5y2y44gr44gq44kk44gplus44gx44gf/"><u>一歩レシピ - カットだけで動画編集が簡単になりました</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-uncovering-the-true-value-of-the-samsung-galaxy-a20-for-savvy-shoppers/"><u>Expert Review: Uncovering the True Value of the Samsung Galaxy A20 for Savvy Shoppers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-zero-to-hero-on-instagram-fame-for-2024/"><u>From Zero to Hero on Instagram Fame for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-razr-40-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Razr 40 Ultra Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-dash.techidaily.com/market-positioning/"><u>Market Positioning</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quicktime-on-mac-efficient-techniques-for-smoothly-editing-and-trimming-videos/"><u>QuickTime on Mac: Efficient Techniques for Smoothly Editing and Trimming Videos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reviewing-the-tp-link-av2000-powerline-converter-exceptional-connectivity-lackluster-look-and-feel/"><u>Reviewing the TP-Link AV2000 Powerline Converter: Exceptional Connectivity, Lackluster Look and Feel</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/selecting-the-perfect-tablet-a-comprehensive-guide-by-screen-dimensions-and-portability/"><u>Selecting the Perfect Tablet: A Comprehensive Guide by Screen Dimensions & Portability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/solution-mri-is-the-most-sensitive-imaging-technique-for-detecting-early-osteolytic-lesions-because-it-provides-high-contrast-images-of-both-bone-and-soft-t130/"><u>Solution: MRI Is the Most Sensitive Imaging Technique for Detecting Early Osteolytic Lesions because It Provides High Contrast Images of Both Bone and Soft Tissues, Allowing for the Visualization of Even Small Areas of Bone Destruction.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/soundbot-sb210-review-a-nifty-winter-that-delivers-good-quality-sound-when-it-works/"><u>SoundBot SB210 Review: A Nifty Winter That Delivers Good Quality Sound When It Works</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/spk10-037-shines-in-review-brilliant-and-adaptable-for-every-scene/"><u>SPK10-037 Shines in Review - Brilliant & Adaptable for Every Scene</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/switching-sides-an-in-depth-look-at-nintendos-lite-and-oled-versions/"><u>Switching Sides: An In-Depth Look at Nintendo's Lite and OLED Versions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tablet-showdown-comparing-features-performance-and-price-ipad-pro-vs-surface-pro/"><u>Tablet Showdown: Comparing Features, Performance & Price - iPad Pro Vs. Surface Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-review-of-the-netgear-nighthawk-rax80-brilliant-performance-meets-elegant-package-with-wi-fi-6-technology/"><u>The Complete Review of the Netgear Nighthawk RAX80 – Brilliant Performance Meets Elegant Package with Wi-Fi 6 Technology</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-creative-potential-top-10-sticker-enhancing-mobile-apps/"><u>Unleash Creative Potential Top 10 Sticker-Enhancing Mobile Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-simplified-journey-for-metaverse-personas/"><u>[New] In 2024, The Ultimate Simplified Journey for Metaverse Personas</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-captivating-chats-with-animated-content-an-in-depth-guide-to-snapchats-gif-feature-for-2024/"><u>[Updated] Captivating Chats with Animated Content An In-Depth Guide to Snapchat's GIF Feature for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chromecast-without-limits-how-to-play-all-video-formats-2023-edition-for-2024/"><u>Chromecast Without Limits How to Play All Video Formats (2023 Edition) for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultures-spooky-holiday-rituals/"><u>Cultures' Spooky Holiday Rituals</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-8-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 8</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-speed-control-on-your-netflix-streams/"><u>In 2024, Mastering Speed Control on Your Netflix Streams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-the-pros-and-cons-of-apple-books-app/"><u>In-Depth Analysis: The Pros and Cons of Apple Books App</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-why-the-amazonbasics-12-sheet-security-shredder-is-a-must-have-for-document-safety/"><u>In-Depth Analysis: Why the AmazonBasics 12-Sheet Security Shredder Is a Must-Have for Document Safety</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-your-ipad-behind-the-times-a-modern-tech-dilemma/"><u>Is Your iPad Behind the Times - A Modern Tech Dilemma</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-trackers-for-marathoners-the-ultimate-guide/"><u>Leading Trackers for Marathoners: The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-usb-wireless-routers-the-definitive-list-of-2024-picks/"><u>Leading USB Wireless Routers: The Definitive List of 2024 Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-chromebook-duet-review-low-budget-2-in-1/"><u>Lenovo Chromebook Duet Review: Low Budget 2-In-1</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-tablet-4-reviewed-great-deals-some-drawbacks/"><u>Lenovo Tablet 4 Reviewed: Great Deals, Some Drawbacks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovos-ideapad-examined-an-uncomplicated-laptop-with-a-superior-framework/"><u>Lenovo's Ideapad Examined - An Uncomplicated Laptop with a Superior Framework</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-performance-issues-reducing-spikes-and-drops-in-call-of-duty-black-ops-iv/"><u>Resolving Performance Issues: Reducing Spikes and Drops in Call of Duty: Black Ops IV</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/schritte-zum-beheben-von-problemen-bei-updates-der-sicherheitsdefinitionen-in-windows-11-systemen/"><u>Schritte Zum Beheben Von Problemen Bei Updates Der Sicherheitsdefinitionen in Windows 11-Systemen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/seamless-streaming-and-web-browsing-on-the-go-with-the-cost-effective-lenovo-tab-m10-hd-2020-model-unveiled/"><u>Seamless Streaming and Web Browsing on the Go with the Cost-Effective Lenovo Tab M10 HD - 2020 Model Unveiled</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-sphere-success-a-step-by-step-guide/"><u>Social Sphere Success: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

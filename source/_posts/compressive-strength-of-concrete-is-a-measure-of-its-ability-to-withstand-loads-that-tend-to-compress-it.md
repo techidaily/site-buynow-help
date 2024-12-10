@@ -1,7 +1,7 @@
 ---
 title: Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.
-date: 2024-11-29T18:17:23.665Z
-updated: 2024-12-03T03:12:45.978Z
+date: 2024-12-08T00:50:37.037Z
+updated: 2024-12-10T10:23:41.825Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
@@ -92,13 +92,13 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -109,6 +109,10 @@ Jerome Thomas / How-To Geek
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -130,6 +134,10 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -146,10 +154,6 @@ Jerome Thomas / How-To Geek
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
@@ -157,10 +161,6 @@ Jerome Thomas / How-To Geek
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -193,20 +193,20 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-step-up-to-stardom-10-pro-tips-for-pixlr-excellence-for-2024/"><u>[New] Step up to Stardom 10 Pro Tips for Pixlr Excellence for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-diverse-world-of-uavs-for-2024/"><u>[Updated] The Diverse World of UAVs for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-reliable-tiktok-popularity-enhancers/"><u>2024 Approved Reliable TikTok Popularity Enhancers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6laf44k344oz44ox44or/"><u>超シンプル</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/comprehensive-step-by-step-tutorial-recording-voicemeet-sessions-on-windowsmac-and-smartphones/"><u>Comprehensive Step-by-Step Tutorial: Recording VoiceMeet Sessions on Windows/Mac and Smartphones</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-halo-bolt-jump-starter-and-portable-charger-the-ultimate-car-battery-savior/"><u>Expert Analysis of the Halo Bolt Jump Starter & Portable Charger - The Ultimate Car Battery Savior</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-picks-the-most-efficient-ups-battery-systems-available/"><u>Expert Picks: The Most Efficient UPS Battery Systems Available</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-on-apples-compact-music-hub-the-homepod-mini-with-siri-integration/"><u>Expert Review on Apple's Compact Music Hub – The HomePod Mini with Siri Integration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expertly-curated-selections-find-your-perfect-tv-with-these-6-prime-online-retailers/"><u>Expertly Curated Selections: Find Your Perfect TV with These 6 Prime Online Retailers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-huawei-p20-pro-impressive-image-quality-in-an-all-around-device/"><u>Exploring the Huawei P20 Pro: Impressive Image Quality in an All-Around Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-microsoft-surface-go-a-budget-friendly-tablet-with-an-unusual-character/"><u>Exploring the Microsoft Surface Go: A Budget-Friendly Tablet with an Unusual Character</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fitness-fashionistas-companion-the-verdict-on-amazongts-wearable-technology/"><u>Fitness Fashionista's Companion - The Verdict on AmazonGTS Wearable Technology</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209881766-9781989638439-guided-meditations-for-deep-sleep-anxiety-and-developing-mindfulness/"><u>Guided Meditations for Deep Sleep, Anxiety and Developing Mindfulness | Free Book</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-c02-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia C02 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-joining-the-metaverse-comedy-club-top-20plus-memes-and-techniques/"><u>[Updated] Joining the Metaverse Comedy Club Top 20+ Memes & Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-team-potential-harnessing-the-power-of-snap-camera/"><u>[Updated] Unlocking Team Potential Harnessing the Power of Snap Camera</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-free-ways-to-save-your-desktop-on-windows-8/"><u>2024 Approved Free Ways to Save Your Desktop on Windows 8</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavim4vmov/"><u>在線即時Movavi：自由提供M4V變MOV導航課程</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/chapter-by-chapter-guide-cleaner-vimeo-content/"><u>Chapter-by-Chapter Guide Cleaner Vimeo Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/conduct-your-clicks-harmonize-images-and-sounds/"><u>Conduct Your Clicks Harmonize Images & Sounds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-world-with-bouncies-cost-efficient-car-connector-a-user-friendly-gps-tracker-review/"><u>Explore the World with Bouncie's Cost-Efficient Car Connector: A User-Friendly GPS Tracker Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-advanced-insights-with-the-new-samsung-galaxy-watch-active2-a-comparative-review/"><u>Exploring Advanced Insights with the New Samsung Galaxy Watch Active2 - A Comparative Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-if-an-enhanced-apple-watch-is-essential-for-my-life/"><u>Exploring if an Enhanced Apple Watch Is Essential for My Life</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples-for-2024/"><u>From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/functionality-at-its-best-unveiling-the-features-of-the-acer-xfa2/"><u>Functionality at Its Best: Unveiling the Features of the Acer XFA2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-up-close-with-msis-high-quality-portable-monitor-model-mp1-161e2/"><u>Get Up Close with MSI's High-Quality Portable Monitor, Model MP1 161E2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-tv-chromecast-unveiled-is-it-time-to-replace-your-firestick/"><u>Google TV Chromecast Unveiled: Is It Time to Replace Your Firestick?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-essential-guide-to-the-3rd-gen-echo-dot-2e-how-this-tiny-device-packs-all-in-one-alexa-functionality/"><u>The Essential Guide to the 3Rd Gen Echo Dot (2E): How This Tiny Device Packs All-in-One Alexa Functionality</u></a></li>
 </ul></div>
 

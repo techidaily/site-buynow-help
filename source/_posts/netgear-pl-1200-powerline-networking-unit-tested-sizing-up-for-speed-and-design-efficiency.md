@@ -1,7 +1,7 @@
 ---
 title: Netgear PL-1200 Powerline Networking Unit Tested - Sizing Up for Speed and Design Efficiency
-date: 2024-11-08T17:06:48.217Z
-updated: 2024-11-14T16:44:12.856Z
+date: 2024-12-07T23:06:34.060Z
+updated: 2024-12-09T22:59:15.327Z
 categories:
   - BestProducts
 description: This Article Describes Netgear PL-1200 Powerline Networking Unit Tested - Sizing Up for Speed and Design Efficiency
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/cqEi8jiK89RWjmFtgR9nz3Oplvo=/400x300/fi
 ## Microsoft Xbox One Elite Series 2 Controller
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/425lsqo6i1_7Vzb3ebrBxtVPgfM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Xbox-One-Elite-Series-2-Controller-1-9039c64a27fa4dd3bac11330988d9c2f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Zach Sweat
 
@@ -68,6 +72,10 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Dark, sturdy, and feature-packed**
 
  The general format of the Elite Series 2 takes the basic XB1 controller and builds upon that excellent design by adding in tons of extras and features. However, unlike the first Elite controller, this version uses the newer One S model controller as its basis. This means there is no more two-piece design where the top and bottom shells of the controller are separate. The build is less flashy perhaps, no longer sporting a two-tone finish, but it makes it feel much more solid and creates a sleeker look.
@@ -94,21 +102,7 @@ Lifewire / Zach Sweat
 
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/TRrezKVbAUPs2Rud3g4_iOHyxB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-2-4b3f9d8acd1440089989378253d902f4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Comfort: Hefty, but darn comfy**
 
@@ -148,6 +142,10 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance/Durability: Enhanced performance and durability**
 
  To test the performance of the new Elite Series 2 controller, I put this device through several hours of gaming on both PC and Xbox One platforms running a number of games and layouts. The results were promising, so let’s take a closer look.
@@ -181,31 +179,13 @@ Lifewire / Zach Sweat
 ![Xbox One Elite Series 2 Controller](https://www.lifewire.com/thmb/6VfCJGOyjLkAkE_mjiHr7rz8Gyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Xbox-One-Elite-Series-2-Controller-6-0c1d7a2ae4e8443ea5b69f559e52bd12.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Xbox One Elite Series 2 Controller vs. Xbox One Elite Series 1 Controller**
@@ -223,10 +203,7 @@ Lifewire / Zach Sweat
  Everything we disliked about the original Elite controller has been improved with the second iteration, making it the best first-party controller you can get for XB1 or PC. However, the steep price point might be a hard pill to swallow for users who don’t like to splurge.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -261,18 +238,21 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-professionals-guide-to-photo-watermarking-solutions/"><u>[Updated] 2024 Approved Professional's Guide to Photo Watermarking Solutions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elite-gamers-showcase-premium-setups-unveiled/"><u>[Updated] In 2024, Elite Gamers' Showcase – Premium Setups Unveiled</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-video-sharing-warriors-which-fights-better-obs-or-twitch-studio-in-2024/"><u>[Updated] Video Sharing Warriors Which Fights Better - OBS or Twitch Studio, In 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726225101581-movavi/"><u>步骤指南：在影片中简单添加字幕 - Movavi编辑工具</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-showdown-exploring-the-unique-features-of-google-palm-2-vs-openai-gpt-4/"><u>Artificial Intelligence Showdown: Exploring the Unique Features of Google PaLM 2 Vs. OpenAI GPT-4</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expertly-curated-selection-of-brands-and-phones-at-reputable-retailers/"><u>Expertly Curated Selection of Brands and Phones at Reputable Retailers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-portable-energy-with-maxoaks-185wh-bank-a-detailed-product-assessment/"><u>Mastering Portable Energy with MaxOak's 185Wh Bank: A Detailed Product Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-your-network-a-thorough-review-of-netgear-nighthawk-x6-wireless-expansion-technology/"><u>Maximizing Your Network: A Thorough Review of Netgear Nighthawk X6 Wireless Expansion Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-lgs-latest-smartphone-a-blend-of-elegant-design-and-reliable-stylus-feature/"><u>Review of LG's Latest Smartphone: A Blend of Elegant Design & Reliable Stylus Feature</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-installing-sound-blaster-z-drivers-in-your-windows-11-system/"><u>Step-by-Step Tutorial for Installing Sound Blaster Z Drivers in Your Windows 11 System</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-rechargeable-battery-charger-units-in-2-cups/"><u>Top-Rated Rechargeable Battery Charger Units in 2 Cups</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-persistent-scarlet-hue-error-in-windows-10-systems/"><u>Troubleshooting the Persistent Scarlet Hue Error in Windows 10 Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-excellence-of-soundbots-sb210-model-exceptional-auditory-experience-under-ideal-conditions/"><u>Unpacking the Excellence of Soundbot's SB210 Model: Exceptional Auditory Experience Under Ideal Conditions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlock-the-secret-of-youtube-to-gif-conversion-begin-here-for-2024/"><u>[New] Unlock the Secret of YouTube-to-GIF Conversion - Begin Here for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazon-primes-social-standings-top-watchers-and-likers-twitter-2023/"><u>[Updated] 2024 Approved Amazon Prime's Social Standings - Top Watchers and Likers Twitter, 2023</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-x100-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo X100</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-errors-office-activation-success-guide/"><u>Disabling Errors: Office Activation Success Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/forefront-picks-premier-storm-monitoring-tools-available/"><u>Forefront Picks: Premier Storm Monitoring Tools Available</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/foremost-8-smartphone-gaming-experiences-on-the-market/"><u>Foremost 8 Smartphone Gaming Experiences on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/guide-to-choosing-a-tablet-based-on-size-and-weight/"><u>Guide to Choosing a Tablet Based on Size and Weight</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hp-omen-obelisk-analysis-exceptional-performance-at-an-unbeatable-price/"><u>HP Omen Obelisk Analysis: Exceptional Performance at an Unbeatable Price</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-a-symphony-in-silence-mastering-audio-with-precision/"><u>In 2024, A Symphony in Silence Mastering Audio with Precision</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-reviews-on-google-nest-wi-fi-fast-reliable-and-advanced-mesh-networking-technology/"><u>In-Depth Analysis & Reviews on Google Nest Wi-Fi - Fast, Reliable, and Advanced Mesh Networking Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-all-purpose-linksys-max-stream-ac1900-router-exceeds-expectations/"><u>In-Depth Analysis of the All-Purpose Linksys Max-Stream AC1900 Router – Exceeds Expectations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-ac68u-fast-safe-and-superior-5g-networking-experience/"><u>In-Depth Analysis of the Asus AC68U - Fast, Safe, and Superior 5G Networking Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-picture-in-picture-video-integration-for-mac-os-x/"><u>Navigating Picture in Picture Video Integration for Mac OS X</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pro-level-iphone-photo-techniques-identifying-ideal-perspectives/"><u>Pro-Level iPhone Photo Techniques Identifying Ideal Perspectives</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-c51-by-drfone-android/"><u>Three Ways to Sim Unlock Realme C51</u></a></li>
 </ul></div>
 
