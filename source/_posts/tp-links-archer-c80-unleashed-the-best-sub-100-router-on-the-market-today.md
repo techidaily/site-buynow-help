@@ -1,7 +1,7 @@
 ---
 title: "TP-Link's Archer C80 Unleashed: The Best Sub-$100 Router on the Market Today!"
-date: 2024-09-14T09:38:04.078Z
-updated: 2024-09-20T05:30:26.673Z
+date: 2024-12-13T02:46:15.988Z
+updated: 2024-12-16T08:36:09.200Z
 categories:
   - BestProducts
 description: "This Article Describes TP-Link's Archer C80 Unleashed: The Best Sub-$100 Router on the Market Today!"
@@ -101,9 +101,17 @@ PHOTO: Amazon
 
 ![Netgear Nighthawk EX7300](https://www.lifewire.com/thmb/8z39PHsPjAqU7hEOMwuSu2QWR1E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetgearNighthawkX4-f402d794160a4b6abaeb27471ecaaed7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
 [Netgear Nighthawk X4 Wi-Fi Mesh Extender Review](https://www.lifewire.com/netgear-nighthawk-x4-wi-fi-mesh-extender-review-4846224)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Budget Buy
 
@@ -139,6 +147,10 @@ PHOTO: Amazon
 Lifewire / Scot Braswell
 
 [Netgear EX3700 Wi-Fi Range Extender (AC750) Review](https://www.lifewire.com/netgear-ex3700-wifi-range-extender-ac750-review-4589551)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Wi-Fi 6
 
@@ -207,10 +219,7 @@ PHOTO: Amazon
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
@@ -272,6 +281,10 @@ PHOTO: Amazon
 
 **Wireless Spec:** Wi-Fi 5 (802.11ac) |**Security:** WPA2 |**Standard/Speed:** AC1000 |**Bands:** Dual-band |**MU-MIMO:** No |**Beamforming:** No |**Wired Ports:** 1
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Portable
 
 [TP-Link TL-WR902AC Travel Router](https://www.amazon.com/dp/B01N5RCZQH?tag=lifewire-onsite-prod-20&ascsubtag=4043312%7Cn8f2a58e80eec4ac08678f4a92a94a7d414%7CB01N5RCZQH)
@@ -302,23 +315,9 @@ PHOTO: Amazon
 
 ![TP-Link TL-WR902AC Travel Router](https://www.lifewire.com/thmb/7kKuuIyfD30duxgd5jNyVnVEyyA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link-TL-WR902AC-Wifi-Extender-3-ba81405b8f1f42e3a9c6e53e9fb520b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Andy Zahn
 
 [TP-Link TL-WR902AC AC750 Travel Router Review](https://www.lifewire.com/tp-link-tl-wr902ac-travel-router-5079165)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What to Look For
 
@@ -382,5 +381,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-breathtaking-image-mosaics-step-by-step/"><u>[Updated] Crafting Breathtaking Image Mosaics Step-by-Step</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-15-must-have-openers-for-maximum-youtube-engagement/"><u>[Updated] In 2024, 15 Must-Have Openers for Maximum YouTube Engagement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/adding-more-memory-to-my-computer-machine-tips-and-tricks/"><u>Adding More Memory to My Computer Machine: Tips and Tricks</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-doves-cooing-for-unity-7-online-methods-to-bind/"><u>Digital Doves Cooing for Unity: 7 Online Methods to Bind</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-interactive-features-of-the-arlo-smart-surveillance-solution/"><u>Explore Interactive Features of the Arlo Smart Surveillance Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-d-link-powerline-2000-quick-setup-meets-rapid-data-transfer/"><u>Exploring the Features of D-Link Powerline 2000: Quick Setup Meets Rapid Data Transfer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2020-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2020) to others devices? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/interactive-lenovo-screen-issue-fixed-done/"><u>Interactive Lenovo Screen Issue Fixed [Done]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optical-opus-the-elite-list-of-8k-cameras-for-2024/"><u>Optical Opus The Elite List of 8K Cameras for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-pick-for-professional-artists-reviewing-the-microsoft-surface-studio-2s-value/"><u>Top Pick for Professional Artists: Reviewing the Microsoft Surface Studio 2'S Value</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-recommended-elearning-programs-for-aspiring-developers/"><u>Top Recommended eLearning Programs for Aspiring Developers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-asus-bw-16d1x-u-blu-ray-drive-beautiful-exterior-with-some-peculiarities-inside/"><u>Unveiling the Asus BW-16D1X-U Blu-Ray Drive - Beautiful Exterior with Some Peculiarities Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-does-hyper-scape-keep-crashing-fix-it-now-for-a-smoother-gaming-experience/"><u>Why Does Hyper Scape Keep Crashing? Fix It Now for a Smoother Gaming Experience!</u></a></li>
+</ul></div>
 

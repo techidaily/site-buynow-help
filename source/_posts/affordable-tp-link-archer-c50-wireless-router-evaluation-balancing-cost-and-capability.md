@@ -1,7 +1,7 @@
 ---
 title: "Affordable TP-Link Archer C50 Wireless Router Evaluation: Balancing Cost and Capability"
-date: 2024-09-18T16:14:58.355Z
-updated: 2024-09-19T20:55:52.524Z
+date: 2024-12-12T19:03:02.654Z
+updated: 2024-12-16T10:36:43.603Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable TP-Link Archer C50 Wireless Router Evaluation: Balancing Cost and Capability"
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/f1a263c48a30403473697d2181558146e92bb208f
 
 2.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creative Sound Blaster ZxR
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/87Y0vp91-Opdxctf3M6BGQ6r1d8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW833111-1-4e7ebf4d779c4f9a88fb2d675c206f02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Ramirez
 
@@ -38,6 +46,10 @@ Lifewire / Emily Ramirez
 [View On Amazon](https://www.amazon.com/dp/B009ISU33E?tag=lifewire-onsite-prod-20&ascsubtag=4769837%7Cnf4d47b24328e45aa9d01315a6a6b3e1211%7CB009ISU33E)
 
 2.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Creative Sound Blaster ZxR
 
@@ -101,14 +113,11 @@ Lifewire / Emily Ramirez
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1CZw4BSxxTqlBF1kxT0_rl73XCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-5-e1022e9adc854517af98407c4be32691.jpg)
 
- Lifewire / Emily Ramirez
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Emily Ramirez
 
 ## **Software: Lots of options with mixed utility**
 
@@ -119,21 +128,16 @@ Lifewire / Emily Ramirez
  When testing Scout Mode in_Overwatch_ , we did not find the adjustment helpful; Scout Mode made our enemies’ and our allies’ movements louder, making it harder to tell where the enemy was coming from. Without adjustments,_Overwatch’s_ audio already makes the enemies’ movements louder than your allies’, making Scout Mode not only ineffective but an active detriment to gameplay. Other games that strongly rely on situational awareness have also likely invested the time into making enemies’ movements noticeable. Overall the software modifications Sound Blaster provides are situationally useful but not the comprehensive range of options we’d like to see at this price point.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Unjustified expense**
 
  The Sound Blaster ZxR retails for about $250, on par with other high-end consumer audio cards. Its 6.3mm audio and microphone jacks, coupled with support for headphone impedance of up to 600 ohms, gives the listener flexibility in the rest of their audio setup: no need for 6.3mm to 3.5mm adapters or extension cords. One major hardware disappointment is its lack of 7.1 surround compatibility, which is something many sound card enthusiasts prize in a high-end sound card. There are also a number of other products with better sound quality for less than the ZxR’s $250 MSRP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition:** **Falls short of less expensive options**
 
@@ -155,24 +159,10 @@ Lifewire / Emily Ramirez
 
  The Sound Blaster ZxR is a quality, expensive sound card, with comprehensive software features and the hardware to power great consumer headsets and microphones. The ZxR sounds good, and gamers will not be disappointed by the ZxR’s power, but audio purists and 7.1 surround fans can find cleaner performance with fewer bells and whistles for the $250 asking price of the ZxR. It’s a card that hasn’t aged well since it’s 2013 release, and one that’s been largely overshadowed by some of its competitors in the interim.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Sound Blaster Z](https://www.lifewire.com/sound-blaster-z-review-4769764)
 * [Sound Blaster Audigy RX](https://www.lifewire.com/sound-blaster-audigy-rx-review-4769814)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -210,5 +200,23 @@ Lifewire / Emily Ramirez
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-adjust-macs-screenshot-stash-location/"><u>[New] Adjust Mac's Screenshot Stash Location</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-creating-stunning-hdr-portraits-step-by-step/"><u>[New] Creating Stunning HDR Portraits Step-by-Step</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-maximizing-your-content-instagrams-video-time-restrictions/"><u>[Updated] Maximizing Your Content Instagram's Video Time Restrictions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-front-to-back-a-step-by-step-guide-to-angled-photography-on-social-platforms/"><u>2024 Approved From Front to Back A Step-by-Step Guide to Angled Photography on Social Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-screen-magnification-techniques-on-ms-teams/"><u>2024 Approved Perfecting Screen Magnification Techniques on MS Teams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-portable-and-elegant-lenovo-ideapad-320-a-signature-lenovo-keyboard-experience/"><u>Comprehensive Review of the Portable and Elegant Lenovo Ideapad 320: A Signature Lenovo Keyboard Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-testing-the-strength-of-urban-armor-gear-macbook-case/"><u>Expert Analysis: Testing the Strength of Urban Armor Gear MacBook Case</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-wifi-explored-an-exceptional-mesh-router-system-suitable-for-everyone/"><u>Google Wifi Explored: An Exceptional Mesh Router System Suitable for Everyone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-streamlining-your-zoom-recordings-a-comprehensive-workshop/"><u>In 2024, Streamlining Your Zoom Recordings A Comprehensive Workshop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pros-and-cons-of-leading-race-rc-rock-crawlers-for-tough-trail-adventures/"><u>Pros and Cons of Leading Race RC Rock Crawlers for Tough Trail Adventures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/starlink-unlocks-potential-4-significant-advantages-explored/"><u>Starlink Unlocks Potential: 4 Significant Advantages Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-using-the-powerful-beatit-bt-d11-jump-starter-a-thorough-review/"><u>The Ultimate Guide to Using the Powerful Beatit BT-D11 Jump Starter - A Thorough Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-a-secure-iphone-vpn-provider-in-depth-analysis-and-expert-ratings/"><u>Ultimate Guide to Choosing a Secure iPhone VPN Provider: In-Depth Analysis & Expert Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-for-tech-lovers-save-a-whopping-250-on-the-sleek-dell-inspiron-16-inch-2-in-1-notebook-this-black-friday-zdnet/"><u>Unmissable Deal Alert for Tech Lovers! Save a Whopping $250 on the Sleek Dell Inspiron 16-Inch 2-in-1 Notebook This Black Friday | ZDNET</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lamicall-s-tablet-base-a-balance-of-form-and-practicality/"><u>Unveiling the Lamicall S Tablet Base: A Balance of Form and Practicality</u></a></li>
+</ul></div>
 

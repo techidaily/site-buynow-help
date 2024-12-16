@@ -1,7 +1,7 @@
 ---
 title: Discover How Size Doesn't Limit Quality with Our In-Depth Review of the Apple iPhone ^12 Mini
-date: 2024-09-15T03:24:30.429Z
-updated: 2024-09-19T18:33:11.414Z
+date: 2024-12-12T00:20:38.528Z
+updated: 2024-12-16T13:55:36.353Z
 categories:
   - BestProducts
 description: This Article Describes Discover How Size Doesn't Limit Quality with Our In-Depth Review of the Apple iPhone ^12 Mini
@@ -13,9 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/RRm7SO68Yut-wFBusZ-z3LplvZA=/400x300/fi
 
 4.3
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ClearStream 2V Indoor/Outdoor HDTV Antenna
 
 ![ClearStream 2V HDTV Antenna](https://www.lifewire.com/thmb/rpogaEx5qG81ylcoefvlfcIwyIw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4078201-AntennasDirect_TVAntennas_ClearStream_HeroSquare-b07d5067648049ecb987e39b62796406.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -66,6 +74,10 @@ Lifewire / Jonno Hill
 
 ![ClearStream 2V Indoor/Outdoor HDTV Antenna](https://www.lifewire.com/thmb/vY1j7QoS0FLwOKNhPlSfR3XMlmo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4078201-AntennasDirect_TVAntennas_ClearStream_02-e97897fe03b74f5faa2eefad3b3b7208.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 ## **Design: Glimpsing an ugly future**
@@ -84,6 +96,10 @@ Lifewire / Jonno Hill
 
  Once the entire device is assembled, the real work begins in my opinion. Now you have to figure out how and where to mount this beast of an antenna. Antenna’s Direct has you covered here, including a hefty bracket and swiveling mast that will help you mount the antenna to just about anywhere with a flat surface that you don’t mind screwing some bolts into.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance: Top tier**
 
  The ClearStream 2V Indoor/Outdoor HDTV Antenna might be an unsightly space jail, but it sure gets good reception. I tested the antenna indoors along with the rest of the suite of indoor antennas, and in the same orientation. Perhaps it would have benefited from being placed outside, but in the interest of fairness I used the same method for all.
@@ -92,40 +108,13 @@ Lifewire / Jonno Hill
 
  In my channel acquisition test, the ClearStream managed 76 channels consistently, far and away the best result from any of the devices I tested. The worst antenna I tested picked up just 47 channels, and the second best, 69\. Needless to say, all the wires, cages, and bulbous plastic spheres are clearly doing something here, because this was the best result I saw.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Range: Extensive**
 
  The ClearStream 2V Indoor/Outdoor HDTV Antenna is rated for up to 60 miles. These ratings are generally based on relatively unobstructed paths between the signal and your device. There is a lot less than 60 miles between me and my local TV broadcast source, but if the other results are any indication, the ClearStream has a fighting chance at living up to these claims.
 
 ![ClearStream 2V Indoor/Outdoor HDTV Antenna](https://www.lifewire.com/thmb/NoQoQy3-EFUpi1z9oMTpD2JGWHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4078201-AntennasDirect_TVAntennas_ClearStream_04-70f5a48ac9a347d286c71240b85cbc1c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Performance doesn’t come cheap**
 
@@ -141,6 +130,10 @@ Lifewire / Jonno Hill
 
 **Great performance for those that need it.**
  The ClearStream 2V Indoor/Outdoor HDTV Antenna isn’t the cheapest or best-looking antenna on the market, but it gets the job done better than any of the other antennas we tested. Buyers who know they need an antenna with better range and performance will find this to be a noticeable bump from cheaper indoor antennas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -166,5 +159,26 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-quizzical-quests-top-trivia-video-platforms/"><u>[New] Quizzical Quests Top Trivia Video Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fixing-iphone-x-overcoming-face-id-malfunction/"><u>[Updated] Fixing iPhone X Overcoming Face ID Malfunction</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-proactive-copyright-checking-for-safe-tiktok-sharing/"><u>[Updated] In 2024, Proactive Copyright Checking for Safe TikTok Sharing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-tp-link-re2n-ac750-wireless-repeater-in-depth-analysis/"><u>Affordable TP-Link RE2n AC750 Wireless Repeater - In-Depth Analysis</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-tcl-32s325-roku-smart-led-tv-2019-a-blend-of-intelligence-and-design/"><u>Comprehensive TCL 32S325 Roku Smart LED TV (2019): A Blend of Intelligence and Design</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-when-you-cant-locate-x3daudiodll-missing-or-not-detected/"><u>Effective Fixes When You Can't Locate X3Daudio.dll – Missing or Not Detected</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/efficiency-meets-mobility-in-depth-review-of-kensun-tire-air-filler/"><u>Efficiency Meets Mobility: In-Depth Review of Kensun Tire Air Filler</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-constant-freezing-and-crashing-of-necromunda-hired-gun-game-on-your-computer-step-by-step-instructions/"><u>How to Fix Constant Freezing and Crashing of Necromunda: Hired Gun Game on Your Computer – Step-by-Step Instructions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-playstation-4-pro-transforms-into-a-4k-console-masterpiece/"><u>In-Depth Review: How PlayStation 4 Pro Transforms Into a 4K Console Masterpiece</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interstellar-city-planning-gone-wild-whirlwinds-and-laughter-across-the-red-planet/"><u>Interstellar City Planning Gone Wild: Whirlwinds and Laughter Across the Red Planet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protect-your-electronics-from-harm-the-importance-of-using-the-right-type-c-cable-explained-zdnet/"><u>Protect Your Electronics From Harm - The Importance of Using the Right Type C Cable Explained | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-on-high-quality-3d-printing-machines-exclusive-deals-of-202/"><u>Save on High-Quality 3D Printing Machines: Exclusive Deals of 202</u></a></li>
+<li><a href="https://article-helps.techidaily.com/seeing-more-than-ever-samsungs-galaxy-s8-and-4k-breakthrough-for-2024/"><u>Seeing More Than Ever Samsung's Galaxy S8 and 4K Breakthrough for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-11-game-capture-utilities-for-pc-gamers-a-comprehensive-guide/"><u>Top 11 Game Capture Utilities for PC Gamers: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-imac-with-m1-enhanced-performance-meets-elegant-design/"><u>Unveiling the iMac with M1: Enhanced Performance Meets Elegant Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/versatile-glow-spk10-037-softbox-kicking-up-creative-energy/"><u>Versatile Glow: SPK10-037 Softbox Kicking Up Creative Energy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/viber-out-service-evaluation-a-comprehensive-analysis/"><u>Viber Out Service Evaluation: A Comprehensive Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-paying-for-hulu-is-definitely-beneficial/"><u>Why Paying for Hulu Is Definitely Beneficial</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/zte-blade-a3y-reviewed-delivering-high-end-specs-on-a-budget-smartphone/"><u>ZTE Blade A3Y Reviewed: Delivering High-End Specs on a Budget Smartphone</u></a></li>
+</ul></div>
 

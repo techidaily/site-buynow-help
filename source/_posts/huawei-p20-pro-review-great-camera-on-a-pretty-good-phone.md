@@ -1,7 +1,7 @@
 ---
 title: "Huawei P20 Pro Review: Great Camera on a Pretty Good Phone"
-date: 2024-09-17T12:56:20.308Z
-updated: 2024-09-19T20:52:15.543Z
+date: 2024-12-11T13:42:19.683Z
+updated: 2024-12-16T05:32:39.846Z
 categories:
   - BestProducts
 description: "This Article Describes Huawei P20 Pro Review: Great Camera on a Pretty Good Phone"
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
 4.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Beatit 800A BT-D11 Car Jump Starter
 
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/OIHJ0F8VMR0yFUpC8veJBJ39E6A=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Tony Mitera
 
@@ -76,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
  The list of accessories that come with the unit includes both a wall charger and a 12V port charger, a Micro USB cable to charge devices with, and the jumper cables themselves. The jumper cable accessory is a pair of terminal clamps with relatively short cables that together join into a plastic module that plugs into the specific port on the unit. The module has a single status LED on its side that flashes different colors to signify different conditions, such as the unit being ready for jump starting, or indicating incorrect connection of the clamps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: It can’t realistically be much simpler**
 
  Should you find yourself in a situation where you need to use the jump start functionality of the Beatit Jump Starter D11, you'll find it quite easy to use. On our Elantra test vehicle we simply had to pop the hood, bring the unit over, and plug the jumper cable accessory into its port. Once in place getting a proper connection is a simple matter of attaching the red clamp to the positive battery terminal and then the black clamp to the negative terminal. With a firm connection in place we simply had to set the unit down someplace where the vibration of the engine wouldn’t make it slide and then start the car. With the unit in place the car immediately started with zero hesitation, at which point we could disconnect the unit and get back on the road.
@@ -83,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
  Lifewire / Tony Mitera
 
  If it's your other devices that are having some battery issues, the D11’s two USB ports can be used to charge them up. The 2.1A port provides for faster charging, and while the 1A port also works it really doesn’t provide power in a hurry and should only be used with specific devices that can’t handle the other port's amperage. For most modern phones you’re just going to want to plug it into the 2.1A port and enjoy the faster recharge.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Plenty of power for all your needs**
 
@@ -107,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
  Lifewire / Tony Mitera
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: A ton of value for a tiny cost**
 
  The MSRP of the Beatit Jump Starter D11 is $70 which makes it one of the most affordable jump starters on the market. Indeed, at that price, it's the least expensive one we tested, yet no part of it feels like any corners were cut in terms of quality or performance.
@@ -114,10 +123,7 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
  At that price point, it packs a ton of value into its diminutive size.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Competition: In the battle of the smallest, this one reigns supreme**
@@ -165,5 +171,26 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-dualview-photography-analysis/"><u>[New] DualView Photography Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortlessly-embedding-visual-media-in-free-content-creation-for-2024/"><u>[Updated] Effortlessly Embedding Visual Media in Free Content Creation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fpv-mastery-with-top-5-hmds-for-drones/"><u>[Updated] FPV Mastery with Top 5 HMDs for Drones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-the-art-of-simplification-streamlining-oversized-tiktok-archives/"><u>[Updated] Mastering the Art of Simplification Streamlining Oversized TikTok Archives</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-listening-experience-how-to-add-podcasts-via-ipadiphone-for-2024/"><u>[Updated] The Ultimate Listening Experience How to Add Podcasts via iPad/iPhone for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-zoom-audio-settings-for-getting-audio-quality-2-ways/"><u>2024 Approved Best Zoom Audio Settings for Getting Audio Quality [2 Ways]</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-the-essence-of-youtube-live-imagery-language/"><u>2024 Approved Exploring the Essence of YouTube Live Imagery Language</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elgoog-uncovered-an-in-depth-analysis-of-the-topical-and-witty-search-site/"><u>ElgooG Uncovered: An In-Depth Analysis of the Topical and Witty Search Site</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-amazon-prime-day-gadget-bargains-save-on-latest-technology/"><u>Exclusive Amazon Prime Day Gadget Bargains: Save on Latest Technology !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-starfield-running-again-tips-and-tricks-to-resolve-initialization-hiccups-on-xbox-and-steam/"><u>Getting Starfield Running Again: Tips & Tricks to Resolve Initialization Hiccups on Xbox and Steam</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-netgear-ex6200-ac1200-wifi-booster-reviews-and-performance/"><u>In-Depth Analysis: Netgear EX6200 AC1200 WiFi Booster - Reviews & Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-and-testing-of-netgears-orbi-rbs50y-smart-wifi-system-perfectly-suited-for-your-backyard-needs/"><u>In-Depth Evaluation and Testing of Netgear's Orbi RBS50Y Smart WiFi System: Perfectly Suited for Your Backyard Needs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-titles-to-unlock-on-google-play-pass-a-ranking-of-the-8-greatest-games/"><u>Leading Titles to Unlock on Google Play Pass: A Ranking of the 8 Greatest Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-d3d9-creation-faults-expert-tips-for-video-card-issues/"><u>Overcoming D3D9 Creation Faults: Expert Tips for Video Card Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-servers-and-rack-units-for-businesses-2024-edition/"><u>The Premier Selection of Servers & Rack Units for Businesses, 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-back-up-be600m1-by-apc-outstanding-battery-life-with-user-friendly-mobile-charging-capability/"><u>The Ultimate Guide to the Back-Up BE600M1 by APC: Outstanding Battery Life with User-Friendly Mobile Charging Capability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-power-companion-in-depth-look-at-the-chargetech-27000mah-battery/"><u>The Ultimate Power Companion: In-Depth Look at the ChargeTech 27000mAh Battery</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-considerations-for-buying-a-smartphone-outside-of-carrier-contracts/"><u>Top Considerations for Buying a Smartphone Outside of Carrier Contracts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-rated-happy-birthday-email-and-text-templates-latest-updates-mmsws-insights/"><u>Top-Rated Happy Birthday Email & Text Templates - Latest Updates | MMSW's Insights</u></a></li>
+</ul></div>
 

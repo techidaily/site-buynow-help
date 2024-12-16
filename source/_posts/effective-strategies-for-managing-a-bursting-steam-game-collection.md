@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing a Bursting Steam Game Collection
-date: 2024-12-05T18:03:48.489Z
-updated: 2024-12-10T09:27:38.663Z
+date: 2024-12-11T16:30:30.192Z
+updated: 2024-12-15T23:53:20.838Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Effective Strategies for Managing a Bursting Steam Game Collection
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After collecting games from sales, bundles, and elsewhere, I have over 200 games in my Steam library and not enough time to play them all. This called for some prioritization. Here's how I prioritized the games that are worth my time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's In My Game Library: The Assessment Step
@@ -40,7 +40,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Right away, I had a series of around twenty to thirty games I could reasonably get through, which interested me greatly. To narrow down the list further, I checked the Steam reviews on the store pages of each of these games. Those that came out as "mostly positive" went to the top of the queue, and those that had mixed or bad reviews dropped down the list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Lightweights: Trading Time For Fun
@@ -61,10 +61,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Games making up my steam library before I prioritized them by what I needed to play first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/my-library-before-prioritizing.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Finally, for the longer games, I implemented a strict playtime window. A long game had exactly one hour of playtime to hook me. If I wasn't interested in the game, the characters, or the plot at the end of that playtime, I would drop it. This is where my subjectivity came in since I knew that some of these games already had weak plotlines (or none at all).
 
  Despite [being a success story as far as a recovery arc goes](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review), _No Man's Sky_ had to take the drop because it was just too much for me to even think about doing. The lack of a solid plot of the game made the experience one I could afford to avoid altogether.
@@ -72,10 +68,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  On the plus side, [Steam will automatically remove old demos from my library](https://fox-access.techidaily.com/new-export-troubleshooting-saving-your-premieres-srt-data/), so I don't have to worry about them. That means that even more games are gone from the backlog list!
 
  After going through this process, I whittled down the 200+ games in my inventory to a little over 25 titles, all of which appealed to me and which I was looking forward to playing. I still have the other 175+ games in my library, but I'm not really as interested in playing them. Maybe when I'm bored, I'll install something and give it a go, but the priority games have already been decided.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  My Methodology Isn't Perfect
 
@@ -85,7 +77,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![How Long to Beat entry for Elden Ring.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-20-at-08-18-46.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Arguably the biggest issue that someone attempting to copy my method will have is categorizing their games into games that can be completed relatively easily and those that will take a lot more time. Judging average playtime using a website like [How Long to Beat](https://howlongtobeat.com) for a game isn't a solid metric, and it's usually better to look at the reviews and comments on the game to get a better feel for that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Clean Steam Library Is a Happy Steam Library
 
@@ -106,18 +106,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-decoding-durecorder-features-and-user-guide-review/"><u>[New] 2024 Approved Decoding DuRecorder Features and User Guide Review</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-the-code-to-perfect-instagrams-every-time/"><u>2024 Approved Unlocking the Code to Perfect Instagrams Every Time</u></a></li>
-<li><a href="https://techidaily.com/flash-speed-performance-access-the-new-complimentary-google-gemini-version-15/"><u>Flash-Speed Performance: Access the New Complimentary Google Gemini Version 1.5!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-11-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 11 without Password?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/master-class-screenscreen-recording-using-adobe-captivating-software/"><u>Master Class Screenscreen Recording Using Adobe Captivating Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-gsdll32dll-error-a-step-by-step-guide/"><u>Resolving 'Gsdll32.dll' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/resolving-printer-problems-a-step-by-step-guide-by-yl-computing/"><u>Resolving Printer Problems: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-netgear-routers-for-enhanced-connectivity/"><u>The Premier Selection of Netgear Routers for Enhanced Connectivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-asus-chromebook-c202sa-a-student-and-kids-durable-tech-partner/"><u>The Ultimate Guide to Asus Chromebook C202SA - A Student and Kid's Durable Tech Partner</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-unihertz-atom-xl-tiny-design-with-rugged-performance/"><u>The Ultimate Guide to the Unihertz Atom XL - Tiny Design with Rugged Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-showdown-ipad-pro-against-surface-pro-what-sets-them-apart/"><u>The Ultimate Showdown: IPad Pro Against Surface Pro, What Sets Them Apart?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-verdict-on-samsungs-value-packed-galaxy-a51-with-5g-save-big-and-stay-connected/"><u>The Ultimate Verdict on Samsung's Value-Packed Galaxy A51 with 5G - Save Big and Stay Connected!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/top-7-free-dvd-player-software-for-laptop-windowsmac/"><u>Top 7 Free DVD Player Software for Laptop [Windows/Mac]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-2023s-top-rated-facebook-live-viewing-software/"><u>[New] In 2024, 2023'S Top-Rated Facebook Live Viewing Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside-for-2024/"><u>[New] The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-insights-into-the-art-of-srt-file-creation/"><u>[New] Ultimate Insights Into the Art of SRT File Creation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-how-often-should-you-upload-youtube-videos-to-get-more-views/"><u>In 2024, How Often Should You Upload YouTube Videos to Get More Views</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-tips-mfc-9330cdw-driver/"><u>Installation Tips: MFC-9330CDW Driver</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-and-android-edition-compile-the-most-useful-top-8-edits-tools-for-2024/"><u>IPhone and Android Edition Compile the Most Useful Top 8 Edits Tools for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/surviving-the-undead-as-a-biker-unpacking-days-gone-video-game-review/"><u>Surviving the Undead as a Biker - Unpacking 'Days Gone' Video Game Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-dell-xps-15-vs-razer-blade-15-battle-of-high-performance-laptops/"><u>The Dell XPS 15 vs Razer Blade 15: Battle of High-Performance Laptops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-amazons-kindle-oasis-does-its-exceptional-style-justify-the-steep-price/"><u>The Ultimate Guide to Amazon's Kindle Oasis: Does Its Exceptional Style Justify the Steep Price?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-omoton-t1-your-budget-friendly-tablet-stand-solution/"><u>The Ultimate Guide to the Omoton T1 - Your Budget-Friendly Tablet Stand Solution!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-evaluating-amazonbasics-12-page-high-security-shredding-device/"><u>The Ultimate Review: Evaluating AmazonBasics 12-Page High-Security Shredding Device</u></a></li>
+<li><a href="https://win-best.techidaily.com/1732519311127-top-reasons-behind-your-computers-sluggish-performance-insights-from-yl-computing/"><u>Top Reasons Behind Your Computer's Sluggish Performance: Insights From YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-pc-audio-cards-the-definitive-guide-to-2024s-picks/"><u>Top-Rated PC Audio Cards - The Definitive Guide to 2024'S Picks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-updating-your-pcs-graphics-drivers-in-windows-11/"><u>Ultimate Guide: Updating Your PC's Graphics Drivers in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-difference-do-we-say-retweet-or-re-tweet/"><u>Understanding the Difference: Do We Say 'Retweet' Or 'Re-Tweet'?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-samsung-qn55q6f-revolutionizing-home-entertainment-with-advanced-hdr-and-4k-technology/"><u>Unveiling the Features of Samsung QN55Q6F - Revolutionizing Home Entertainment with Advanced HDR & 4K Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-technology-a-deep-dive-by-toms-hardware-specialist/"><u>Unveiling the Latest in Technology: A Deep-Dive by Tom’s Hardware Specialist</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-in-depth-look-at-ampages-new-andes-1500-power-unit/"><u>Unveiling the Potential: In-Depth Look at Ampage's New Andes 1500 Power Unit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrade-to-exceptional-tech-accessories-cutting-edge-dell-display-unit-leading-noise-cancellation-headset-premium-quality-video-capture-device/"><u>Upgrade to Exceptional Tech Accessories: Cutting-Edge Dell Display Unit, Leading Noise Cancellation Headset, Premium Quality Video Capture Device</u></a></li>
 </ul></div>
 

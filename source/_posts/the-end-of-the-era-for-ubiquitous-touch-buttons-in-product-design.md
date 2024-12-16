@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-12-03T07:39:02.459Z
-updated: 2024-12-10T02:25:14.498Z
+date: 2024-12-10T23:29:27.162Z
+updated: 2024-12-16T03:23:57.693Z
 tags:
   - games
   - tv
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Problem With Capacitive Touch Buttons
 
  Two things around the house routinely make me reach for the swear jar: cables and touch buttons. Cables are an unavoidable fact of life, the bane of [anyone who appreciates a nice clean setup](https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-profile-video-attraction/). But touch buttons are a deliberate choice.
@@ -30,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you’ve got wet hands, forget about it. If your hands are slightly damp, you’re rolling the dice on a 50-50 chance of success. If the button gets wet, who knows what will happen? Sometimes you don’t need moisture for these buttons to behave erratically, they just go haywire.
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
 
@@ -41,6 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
@@ -48,7 +60,7 @@ Tim Brookes / How-To Geek
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
@@ -59,10 +71,6 @@ Tim Brookes / How-To Geek
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  But this logic doesn’t extend to every device. Though the argument for longevity is a valid one, did we trade usability for reliability? And is that trade-off worth it?
@@ -70,10 +78,6 @@ Tim Brookes / How-To Geek
  Is it better to get more time out of an inferior user experience, or accept that moving parts occasionally require maintenance? Is your washing machine motor going to fail before the interface on the front of it? One of those things is far cheaper and easier to replace.
 
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Some Manufacturers Ditched Touch for a Reason
 
@@ -84,7 +88,7 @@ Tim Brookes / How-To Geek
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -94,10 +98,6 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -118,24 +118,22 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-breaking-down-the-monetization-barriers/"><u>[New] Breaking Down the Monetization Barriers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-how-to-check-if-your-youtube-channel-is-monetized-correctly/"><u>[New] In 2024, How to Check If Your YouTube Channel Is Monetized Correctly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-master-the-art-of-live-streaming-obs-tips-for-youtube-and-twitch/"><u>[New] Master the Art of Live Streaming OBS Tips for YouTube & Twitch</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-quintessential-video-tools-for-perfecting-instagram-reels/"><u>[Updated] Quintessential Video Tools for Perfecting Instagram Reels</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-15-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 15 Plus to iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-insiders-take-on-androids-creme-de-la-creme-podcast-apps/"><u>In 2024, Insider’s Take on Android’s Crème De La Crème Podcast Apps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/missing-link-in-the-latest-samsung-galaxy-tab-a-2020-in-depth-review-exposed/"><u>Missing Link in the Latest Samsung Galaxy Tab A (2020): In-Depth Review Exposed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-skies-easily-leading-wireless-travel-routers-reviewed-2024-edition/"><u>Navigating the Skies Easily: Leading Wireless Travel Routers Reviewed - 2024 Edition</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-how-to-freeze-frame-in-a-video-easily/"><u>New In 2024, How to Freeze Frame in a Video Easily</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/premium-e-reading-experience-on-a-silver-platter-an-in-depth-look-at-amazon-kindle-oasis/"><u>Premium E-Reading Experience on a Silver Platter: An In-Depth Look at Amazon Kindle Oasis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-grand-adventures-in-yokus-island-express-a-surprising-experience/"><u>Review of Grand Adventures in Yoku's Island Express – A Surprising Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/rise-to-win11-breaking-free-of-win7/"><u>Rise to Win11: Breaking Free of Win7</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-guide-unveiling-truecallers-features-and-performance/"><u>The Complete Guide: Unveiling Truecaller's Features and Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-future-of-entertainment-unveiled-in-depth-look-at-the-amazon-fire-tv-cube/"><u>The Future of Entertainment Unveiled: In-Depth Look at the Amazon Fire TV Cube</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-watertight-kobo-libra-h2o-your-new-bookworms-best-friend-in-any-weather/"><u>The Ultimate Guide to the Watertight Kobo Libra H2O – Your New Bookworm's Best Friend in Any Weather</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-ranking-how-fifa-19-dominates-the-world-of-e-sports-titles/"><u>The Ultimate Ranking: How FIFA 19 Dominates the World of E-Sports Titles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-companion-toms-in-depth-hardware-reviews/"><u>The Ultimate Tech Companion: Tom's In-Depth Hardware Reviews</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-5-seo-kompanij-v-dalase-dlya-povysheniya-onlajn-vidimosti-ekspertnoe-rukovodstvo-s-seo-powersuite/"><u>Топ-5 SEO-Компаний В Даласе Для Повышения Онлайн-Видимости: Экспертное Руководство С SEO PowerSuite</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/18-digiartys-18th-anniversary-special-project/"><u>ディジアルティ18周年特別企画！芸術的旅行への誘い - DigiArty's 18Th Anniversary Special Project!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-gentle-glide-of-noises-subdued-amplitude-adjustment/"><u>[Updated] Gentle Glide of Noises Subdued Amplitude Adjustment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-elite-selection-premium-android-timepieces-dominating-2024s-market-trends/"><u>Explore the Elite Selection: Premium Android Timepieces Dominating 2024'S Market Trends</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-top-10-premium-free-iosandroid-live-video-platforms/"><u>Explore Top 10 Premium-Free iOS/Android Live Video Platforms</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/harness-natures-energy-the-top-5-solar-powered-sprinkler-systems-transforming-gardens/"><u>Harness Nature's Energy: The Top 5 Solar-Powered Sprinkler Systems Transforming Gardens</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-transfer-photos-and-videos-from-iphone-to-iphone-for-2024/"><u>How to Transfer Photos and Videos From iPhone to iPhone for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-v-purse-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor V Purse</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-audio-enhancements-expertly-curated-soundbar-selection-for-2n4/"><u>Leading Audio Enhancements: Expertly Curated Soundbar Selection for 2N4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/modularity/"><u>Modularity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-durable-and-stylish-ipad-sleeves-of-2023-find-the-perfect-match/"><u>Most Durable and Stylish iPad Sleeves of 2023: Find the Perfect Match</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/outlining-a-strategy-for-integrating-multimedia-elements-such-as-images-or-videos-to-enhance-user-engagement-and-dwell-time-on-your-guide/"><u>Outlining a Strategy for Integrating Multimedia Elements Such as Images or Videos to Enhance User Engagement and Dwell Time on Your Guide.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/picking-powerhouse-gpus-a-comprehensive-guide-to-the-best-graphics-cards-available/"><u>Picking Powerhouse GPUs : A Comprehensive Guide to the Best Graphics Cards Available</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/premier-exterior-solid-state-drives-review-the-ultimate-guide-for-202n4/"><u>Premier Exterior Solid State Drives Review: The Ultimate Guide for 202N4</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-tutorial-for-screen-recording-and-voice-inputs-on-windows-8/"><u>Step-by-Step Tutorial for Screen Recording and Voice Inputs on Windows 8</u></a></li>
+<li><a href="https://win-lab.techidaily.com/the-insider-guide-to-spotting-quality-ico-investments-techniques-by-leading-team-at-yl-software-and-computing/"><u>The Insider Guide to Spotting Quality ICO Investments: Techniques by Leading Team at YL Software & Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-fixed-error-code-80240020-in-windows-11-setup/"><u>Troubleshooting Guide for Fixed Error Code #80240020 in Windows 11 Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-cellular-data-issues-with-10-proven-fixes/"><u>Troubleshooting iPhone Cellular Data Issues with 10 Proven Fixes</u></a></li>
 </ul></div>
 

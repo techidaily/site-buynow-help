@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept"
-date: 2024-12-06T22:19:46.063Z
-updated: 2024-12-10T03:43:35.012Z
+date: 2024-12-15T11:09:16.176Z
+updated: 2024-12-15T19:57:02.124Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ## Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Have you got backlog dread? Do you stare at your pile of games forlornly as you swipe your credit card once again to put even more on the pile? I'm here to tell you that your "backlog" shouldn't be weighing you down.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s This “Backlog” Stuff?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Games are entertainment, not an obligation. So it might be better psychologically-speaking, to stop thinking of your video game collection as a "backlog" in the first place!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Backlogs Are a Rainy-Day Blessing
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Don’t Have to Finish All Your Games
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Did I waste my time playing them? No! They were fun while they lasted, and I enjoyed my time with them, but just like any healthy relationship, you need to know when the right time is to walk away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don’t Let the Sunk Cost Fallacy Stop Your Fun
@@ -88,18 +88,21 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-proven-steps-to-create-high-impact-facebook-video-ads-for-2024/"><u>[New] Proven Steps to Create High-Impact Facebook Video Ads for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[Updated] In 2024, Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-capture-tool-for-windows-10-professional/"><u>[Updated] In 2024, Ultimate Capture Tool for Windows 10 - Professional</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-unspoken-rules-for-asmr-enthusiasts/"><u>[Updated] The Unspoken Rules for ASMR Enthusiasts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-uninterrupted-access-to-9-premium-christmas-films-enjoyment-at-zero-cost-for-2024/"><u>[Updated] Uninterrupted Access to 9 Premium Christmas Films Enjoyment at Zero Cost for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-nokia-150-2023-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Nokia 150 (2023)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/error-resolution-for-streamers-dealing-with-netflixs-nw-1-19-glitch-effectively/"><u>Error Resolution for Streamers: Dealing with Netflix's NW-1-19 Glitch Effectively</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-itel-s23-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Itel S23 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/this-app-lets-you-play-nintendo-classics-on-your-iphone-heres-how/"><u>This App Lets You Play Nintendo Classics on Your iPhone: Here's How</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/transform-your-home-networking-game-with-the-amplifi-hd-wireless-mesh-solution-zero-dead-zones/"><u>Transform Your Home Networking Game with the Amplifi HD Wireless Mesh Solution – Zero Dead Zones.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/transform-your-workspace-with-style-an-expert-review-of-the-sleek-flexispot-theodore-adjustable-standing-desk/"><u>Transform Your Workspace with Style: An Expert Review of the Sleek Flexispot Theodore Adjustable Standing Desk</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-your-images-2024s-elite-online-photo-services/"><u>Unleash Your Images: 2024'S Elite Online Photo Services</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/xp-pen-artist-16-pro-deep-dive-an-in-depth-review-of-one-of-the-best-professional-drawing-tablets/"><u>XP-Pen Artist 16 Pro Deep Dive: An In-Depth Review of One of the Best Professional Drawing Tablets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-speedy-execution-tactics-for-fb-video-success-for-2024/"><u>[New] Speedy Execution Tactics for FB Video Success for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treamlining-audio-integration-in-youtube-videos-for-professionals/"><u>[New] Streamlining Audio Integration in YouTube Videos for Professionals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-continuous-viewing-pleasure-on-television/"><u>[Updated] In 2024, Creating Continuous Viewing Pleasure on Television</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/descubre-como-crear-un-imagen-de-sistema-personalizada-para-su-equipo-informatico/"><u>Descubre Cómo Crear Un Imagen De Sistema Personalizada Para Su Equipo Informático</u></a></li>
+<li><a href="https://facebook.techidaily.com/elite-english-footballers-refuse-online-engagement-in-anti-harassment-stance/"><u>Elite English Footballers Refuse Online Engagement in Anti-Harassment Stance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-infinite-recorders-without-bounds/"><u>In 2024, Infinite Recorders Without Bounds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-propel-engagement-on-stories-via-curated-creative-qs/"><u>In 2024, Propel Engagement on Stories via Curated Creative Qs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-the-lg-k51s-gorgeous-appearance-hindered-by-a-lagging-processor/"><u>In-Depth Review: The LG K51's Gorgeous Appearance Hindered by a Lagging Processor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insights-into-the-clash-of-tech-giants-echo-dot-vs-homepod-mini-showdown/"><u>Insights Into The Clash of Tech Giants: Echo Dot Vs. HomePod Mini Showdown</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/record-your-mac-view-in-minutes-for-2024/"><u>Record Your Mac View in Minutes for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-car-connector-dive-into-our-review-of-the-sumind-bt7b-adapter/"><u>The Best Car Connector? Dive Into Our Review of the Sumind BT7#B Adapter</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782347-9781591437734-the-pleiadian-house-of-initiation/"><u>The Pleiadian House of Initiation | Free Book</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-picks-for-e-reader-enthusiasts-the-complete-review-of-kobo-clarity-colour/"><u>Top Picks for E-Reader Enthusiasts: The Complete Review of Kobo Clarity Colour</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-logitech-c920-pro-hd-webcam-assessment-unveiling-true-high-definition-performance/"><u>Ultimate Logitech C920 Pro HD Webcam Assessment: Unveiling True High-Definition Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-fortnite-season-xlvii-the-most-fun-and-engaging-update-yet/"><u>Unboxing Fortnite Season XLVII: The Most Fun and Engaging Update Yet!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerful-performance-a-thorough-look-at-the-samsung-galaxy-tab-s4-for-android-users/"><u>Unveiling the Powerful Performance: A Thorough Look at the Samsung Galaxy Tab S4 for Android Users</u></a></li>
 </ul></div>
 

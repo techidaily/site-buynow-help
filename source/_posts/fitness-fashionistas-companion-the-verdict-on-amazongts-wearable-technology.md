@@ -1,7 +1,7 @@
 ---
 title: Fitness Fashionista's Companion - The Verdict on AmazonGTS Wearable Technology
-date: 2024-09-16T13:56:56.904Z
-updated: 2024-09-20T09:49:12.285Z
+date: 2024-12-11T10:28:56.016Z
+updated: 2024-12-16T07:21:02.037Z
 categories:
   - BestProducts
 description: This Article Describes Fitness Fashionista's Companion - The Verdict on AmazonGTS Wearable Technology
@@ -72,6 +72,10 @@ Lifewire / Todd Braylor
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Easy installation**
 
  The S55 is straightforward and easy to install. Simply stick the windshield mount in place and plug the SmartCord lighter adapter into your car's DC cigarette lighter input. Plugging the modular jack into the S55 will automatically power on the radar detector and you can quickly customize settings for display brightness, detector sensitivity levels, and volume. Then you're ready to hit the road.
@@ -79,10 +83,7 @@ Lifewire / Todd Braylor
  Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Range: Impressive detection**
@@ -90,6 +91,10 @@ Lifewire / Todd Braylor
  The Passport S55 features Enhanced Radar Protection that delivers long-distance range for laser and radar bands, including K and Ka bands, widely used microwave frequencies for police radar guns. It reliably delivers on its promise of long-distance sensitivity. While testing the S55 in Highway mode I received Ka-band alerts over a mile and a half out from where I approached a highway patrol parked on the median of the interstate. This range was on par with much more expensive models.
 
  It reliably delivers on its promise of long-distance sensitivity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Not exactly enhanced**
 
@@ -100,16 +105,7 @@ Lifewire / Todd Braylor
  In terms of false alerts, the AutoSensitivity feature didn't really help in directing the overall high-sensitivity. This radar detector gave frequent false alerts from commercial door-openers and vehicle anti-collision warning systems. Unfortunately, the S55 lacks the advanced filters of more expensive models that help reduce the annoying frequency of false alerts.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: You get what you pay for**
@@ -129,6 +125,10 @@ Lifewire / Todd Braylor
  **A basic radar detector that's ideal for beginners or anyone on a budget.**
 
  The Escort Passport S55 has reliable long-range detection, but I found its performance and range of features to be pretty basic. This unit never missed the presence of parked police down the highway who appeared to be using radar guns, which means I'm confident in recommending this model for those on a budget. However, buyer beware that false alerts are an unavoidable inconvenience with this model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -157,5 +157,26 @@ Lifewire / Todd Braylor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-8-no-cost-video-chat-tools-pcmac-compatibility/"><u>[New] In 2024, Top 8 No-Cost Video Chat Tools PC/Mac Compatibility</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-infuse-your-visuals-with-melody-adding-music-in-youtube-editing/"><u>[New] Infuse Your Visuals With Melody Adding Music in YouTube Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/electing-snug-winter-scenes-as-video-sets/"><u>[New] Selecting Snug Winter Scenes as Video Sets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-editors-for-virtual-backgrounds-spectrumswitch-studio/"><u>2024 Approved Top Editors for Virtual Backgrounds SpectrumSwitch Studio</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-xr-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone XR</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/building-and-upgrading-made-easy-by-toms-hardware-wisdom/"><u>Building and Upgrading Made Easy by Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-testing-of-apc-be600m1-surge-protector-with-integrated-usb-charging-port-in-depth-review/"><u>Comprehensive Testing of APC BE600M1 Surge Protector with Integrated USB Charging Port - In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-withings-move-smartwatch-analysis-classic-style-meets-modern-tech/"><u>Comprehensive Withings Move Smartwatch Analysis - Classic Style Meets Modern Tech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decoding-amazon-primes-merit-join-now/"><u>Decoding Amazon Prime's Merit – Join Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-top-choice-for-virtual-camera-and-software-solutions/"><u>Live Streaming with ManyCam: Top Choice for Virtual Camera and Software Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-airborne-visuals-a-closer-look-at-the-dji-mavic-3-features-and-capabilities/"><u>Mastering Airborne Visuals - A Closer Look at the DJI Mavic 3 Features and Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-new-era-of-gaming-top-console-selections/"><u>Navigating the New Era of Gaming: Top Console Selections</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/resolving-skewed-online-video-quality-for-2024/"><u>Resolving Skewed Online Video Quality for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranked-rca-video-doorbell-camera-an-effective-surveillnace-gadget-for-your-home/"><u>Top-Ranked RCA Video Doorbell Camera: An Effective Surveillnace Gadget for Your Home</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-prevent-warcraft-3-reforged-pc-game-crashes-tips/"><u>Troubleshooting Steps to Prevent Warcraft 3 Reforged PC Game Crashes - Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-choices-the-elite-console-lineup-of-2024-for-gamers-worldwide/"><u>Ultimate Choices: The Elite Console Lineup of 2024 for Gamers Worldwide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-top-quality-sound-protection-at-gigs/"><u>Ultimate Guide: Top-Quality Sound Protection at Gigs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/what-are-the-best-sites-to-download-text-effects-for-2024/"><u>What Are The Best Sites To Download Text Effects for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-opting-for-applecare-plus-5-benefits-unveiled/"><u>Why Opting for AppleCare Plus? 5 Benefits Unveiled</u></a></li>
+</ul></div>
 

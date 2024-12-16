@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate List: Leading Single-Board Computers for Tech Enthusiasts in 202N4"
-date: 2024-12-08T05:48:30.572Z
-updated: 2024-12-09T21:59:28.140Z
+date: 2024-12-13T18:55:12.736Z
+updated: 2024-12-16T13:37:23.238Z
 tags:
   - buying-guides
 categories:
@@ -39,10 +39,6 @@ Best SBC with Linux
 Best Raspberry Pi  
 [$92 at Amazon](https://www.amazon.com/Raspberry-Broadcom-Cortex-A76-Quad-core-Computer/dp/B0CPWH8FL9?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002924&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-single-board-computers%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What to Look for When Choosing Your Next Single Board Computer in 2024
 
  The most important part of this equation is the project you need an SBC for. You’ve got to write down your needs and specs, such as the performance level you're after and the amount of memory you think you’ll need, whether you need a [GPIO (general purpose input output)](https://www.howtogeek.com/787928/what-is-gpio/) or not, the speed and type of networking you’ll use, whether you want something that can host [NVMe SSDs](https://digital-screen-recording.techidaily.com/new-2024-approved-audio-capture-for-post-review/), to decide between the type of OS you plan on using, and more.
@@ -62,9 +58,17 @@ Best Raspberry Pi
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best SBC Overall: [Orange Pi 5 Plus](https://www.amazon.com/dp/B0C5C2CDGX?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002924&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-single-board-computers%2F&asc%5Fcampaign=Commerce) 
 
 ![Orange Pi 5 Plus against a bluish background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/orange-pi-5-plus.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Orange Pi_
 
@@ -89,6 +93,10 @@ _Orange Pi_
 ![Orange Pi 5 Plus 01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/orange-pi-5-plus-01.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best SBC Overall
 
@@ -123,10 +131,14 @@ _Libre Computer_
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/51jwa6hiz0l-_sl500_.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best Budget SBC
@@ -137,9 +149,17 @@ Very affordable and as versatile as much pricier SBCs, the AML-S905X-CC Le Potat
 
 [$35 at Amazon](https://www.amazon.com/dp/B074P6BNGZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002924&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-single-board-computers%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best SBC with Windows: [LattePanda Mu](https://www.dfrobot.com/kit-004.html?tracking=LATTEPANDAMU) 
 
 ![LattePanda Mu against a bluish background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/lattepanda-mu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _LattePanda_
 
@@ -168,10 +188,6 @@ _LattePanda_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best SBC with Windows
 
 #####  LattePanda Mu
@@ -183,10 +199,6 @@ Packing a beastly x86 CPU (for an SBC) and a ton of I/O and expansion ports, the
 ##  Best SBC with Linux: [Orange Pi 5](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN16ZLXB/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002924&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-single-board-computers%2F&asc%5Fcampaign=Commerce) 
 
 ![Orange Pi 5 against a violet background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/orange-pi-5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Orange Pi_
 
@@ -212,10 +224,6 @@ _Orange Pi_
 
 ![Orange Pi 5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/orange-pi-5-01.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best SBC with Linux
@@ -226,13 +234,13 @@ Packing the same SoC as its pricier cousin, the Orange Pi 5 is a highly coveted 
 
 [$81 at Amazon](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN16ZLXB/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002924&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-single-board-computers%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Raspberry Pi: [Raspberry Pi 5 Single Board Computer](https://www.amazon.com/Raspberry-Broadcom-Cortex-A76-Quad-core-Computer/dp/B0CPWH8FL9?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002924&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-single-board-computers%2F&asc%5Fcampaign=Commerce) 
 
 ![Raspberry Pi 5 against a grey background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/raspberry-pi-5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Raspberry Pi_
 
@@ -253,10 +261,6 @@ _Raspberry Pi_
 
 ![raspberry pi 5-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/raspberry-pi-5-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Raspberry Pi
@@ -267,11 +271,11 @@ It's only recommended for tech-savvy users, but the Raspberry Pi 5 is a tinkerer
 
 [See at Spark Fun](https://www.sparkfun.com/products/23551?src=raspberrypi) [$92 at Amazon](https://www.amazon.com/Raspberry-Broadcom-Cortex-A76-Quad-core-Computer/dp/B0CPWH8FL9?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002924&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-single-board-computers%2F&asc%5Fcampaign=Commerce) 
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### What is a single board computer?
 
@@ -280,10 +284,6 @@ It's only recommended for tech-savvy users, but the Raspberry Pi 5 is a tinkerer
 ### Is a Raspberry Pi a single board computer?
 
  Yes, a Raspberry Pi is a single board computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What should I use a single board computer for?
 
@@ -304,24 +304,19 @@ It's only recommended for tech-savvy users, but the Raspberry Pi 5 is a tinkerer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-ultimate-youtube-branding-guide-top-names-for-successful-video-blogging-keep-it-to-or-under-156-characters/"><u>[New] 2024 Approved Ultimate YouTube Branding Guide Top Names for Successful Video Blogging (Keep It to or Under 156 Characters)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-youtube-comeback-kid-jake-pauls-story/"><u>[New] In 2024, The YouTube Comeback Kid Jake Paul’s Story</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-next-gen-of-video-visionaries/"><u>[Updated] 2024 Approved Next Gen of Video Visionaries</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-non-gta-narratives-exploring-alternative-stories-for-2024/"><u>[Updated] Non-GTA Narratives Exploring Alternative Stories for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-live-cricket-livestreams/"><u>2024 Approved Mastering the Art of Live Cricket Livestreams</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-free-and-paid-non-microsoft-productivity-suites-of-2024-revealed/"><u>Best Free & Paid Non-Microsoft Productivity Suites of 2024 Revealed!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breaking-down-the-ps4-pro-mastering-the-art-of-gaming-at-true-4k-resolution/"><u>Breaking Down the PS4 Pro: Mastering the Art of Gaming at True 4K Resolution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-and-assessment-of-the-amazon-kindle-paperwhite-2018-edition-enhancing-your-reading-experience/"><u>Comprehensive Guide and Assessment of the Amazon Kindle Paperwhite (2018 Edition): Enhancing Your Reading Experience</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enable-canon-mx870-on-windows-xp-vista-and-7-systems/"><u>Enable Canon MX870 on Windows XP, Vista, and 7 Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/examining-the-oneplus-8t-exceptional-speed-with-room-for-photographic-improvement/"><u>Examining the OnePlus 8T: Exceptional Speed with Room for Photographic Improvement</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/examining-the-sony-xperia-5-portable-size-premium-cost/"><u>Examining the Sony Xperia 5: Portable Size, Premium Cost</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-infinix-note-30-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Infinix Note 30 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-lightweight-lenovo-thinkpad-x1-nano-the-new-powerhouse-in-a-featherlight-frame/"><u>In-Depth Analysis of the Lightweight Lenovo ThinkPad X1 Nano – The New Powerhouse in a Featherlight Frame</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/iphone-gaming-powerhouses-finding-your-perfect-match/"><u>IPhone Gaming Powerhouses: Finding Your Perfect Match</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-cable-modem-options-discover-the-superior-choices/"><u>Navigating Cable Modem Options: Discover the Superior Choices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-storm-tracking-mobile-applications/"><u>Top-Rated Storm Tracking Mobile Applications</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-fixer-stellar-photo-repair-tool-for-windows-version-8/"><u>Ultimate Fixer: Stellar Photo Repair Tool for Windows (Version 8)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-minecraft-top-reviews-for-multi-generational-building-fun/"><u>Ultimate Guide to Minecraft: Top Reviews for Multi-Generational Building Fun</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-the-aftermath-social-media-deletion-realities/"><u>Understanding the Aftermath: Social Media Deletion Realities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-efficient-desktop-capture-for-windows-users/"><u>[New] 2024 Approved Efficient Desktop Capture for Windows Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-revamping-screen-recording-a-critical-look-at-camstudios-new-features/"><u>[New] Revamping Screen Recording - A Critical Look at CamStudio's New Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-masterpiece-on-your-screen-iphones-free-photoshop-alternatives/"><u>[Updated] In 2024, Masterpiece on Your Screen – iPhone’s Free Photoshop Alternatives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-apple-watch-x-forecasting-costs-launch-windows-tech-specs-and-fresh-buzz/"><u>All About Apple Watch X: Forecasting Costs, Launch Windows, Tech Specs & Fresh Buzz</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-a-friend-or-a-fibber/"><u>ChatGPT - A Friend or a Fibber?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-interactive-features-of-the-9-inch-lenovo-nook-tablet/"><u>Experience the Interactive Features of the 9-Inch Lenovo Nook Tablet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/free-darktable-software-powerful-raw-image-editor-for-macos-and-linux/"><u>Free Darktable Software: Powerful Raw Image Editor for macOS & Linux</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/giggle-guild-imgur-memomaker/"><u>Giggle Guild Imgur MemoMaker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/less-than-150-bucks-experience-non-stop-karaoke-fun-with-karaoke-usa/"><u>Less than 150 Bucks? Experience Non-Stop Karaoke Fun with Karaoke USA!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-photos-with-samsungs-latest-toolkit/"><u>Mastering Photos with Samsung's Latest Toolkit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paww-audio-enlightenment-the-budget-friendly-review-of-series-3/"><u>Paww Audio Enlightenment - The Budget-Friendly Review of Series 3</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/resolving-acpi-driver-problems-on-asus-laptops-in-windows-10/"><u>Resolving ACPI Driver Problems on ASUS Laptops in Windows 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/seamless-connectivity-on-the-move-experience-unmatched-comfort-with-the-moko-universal-portable-bluetooth-keypad/"><u>Seamless Connectivity on The Move: Experience Unmatched Comfort with the MoKo Universal Portable Bluetooth Keypad</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-hot-30i-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Hot 30i Screen | Dr.fone</u></a></li>
 </ul></div>
 

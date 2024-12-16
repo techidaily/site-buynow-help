@@ -1,7 +1,7 @@
 ---
 title: Review of Halo Bolt Portable Jump Starter & Power Bank - Ultimate Mobile Power Solution
-date: 2024-09-16T16:07:40.390Z
-updated: 2024-09-20T10:13:58.524Z
+date: 2024-12-10T00:27:17.913Z
+updated: 2024-12-16T01:43:13.796Z
 categories:
   - BestProducts
 description: This Article Describes Review of Halo Bolt Portable Jump Starter & Power Bank - Ultimate Mobile Power Solution
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/kDbauNTEsrlXaHbmaugADnl1SnY=/400x300/fi
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/A__IgeAPd2C0e_2iExqDqXJAGB8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -36,6 +40,10 @@ thumbnail: https://www.lifewire.com/thmb/kDbauNTEsrlXaHbmaugADnl1SnY=/400x300/fi
 [Buy on Amazon](https://www.amazon.com/dp/B072BD98CM?tag=lifewire-onsite-prod-20&%2F=&ascsubtag=5071991%7Cn210c12f6fa164d19b551ef300c5549c018%7C)
 
 4.9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZMI PowerPack 20000
 
@@ -63,6 +71,10 @@ thumbnail: https://www.lifewire.com/thmb/kDbauNTEsrlXaHbmaugADnl1SnY=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/jITowxAWHBUo5WF3Y-XI6lKQNQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-05-02d76c869b864ef0abddfe824cfbf53a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 ## **Design: Small but powerful**
@@ -79,6 +91,10 @@ thumbnail: https://www.lifewire.com/thmb/kDbauNTEsrlXaHbmaugADnl1SnY=/400x300/fi
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
 ## **Setup Process: Easy does it**
@@ -94,13 +110,6 @@ Lifewire / Andrew Hayward
  The PowerPack 20000 also charged a[Samsung Galaxy S10](https://www.lifewire.com/samsung-galaxy-s10-review-4685690) smartphone from nothing to 100 percent in 1 hour, 47 minutes using the USB-C PD port, with four lights still remaining on the power bank. This sizable power bank should be able to charge an average smartphone a few times over, not to mention a[Nintendo Switch](https://www.lifewire.com/nintendo-switch-review-4707563) . Larger laptop batteries will naturally suck away more of the battery capacity on a full charge.
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -121,10 +130,7 @@ Lifewire / Andrew Hayward
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -151,5 +157,26 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-begin-installing-xps-key-visual-storytelling-app-for-2024/"><u>[New] Begin Installing XP’s Key Visual Storytelling App for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-astonishing-freeness-of-screen-dance-duels/"><u>[Updated] 2024 Approved Astonishing Freeness of Screen Dance Duels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-digital-delinquency-games-comparable-to-gta-v-for-2024/"><u>[Updated] Digital Delinquency Games Comparable to GTA V for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-channel-disabling-pc-and-phone-guide-for-2024/"><u>[Updated] Navigating Channel Disabling PC & Phone Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-magix-graphics-software-variants/"><u>2024 Approved Comparing MAGIX Graphics Software Variants</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipated-announcements-at-apples-upcoming-october-unveiling-new-m4-mac-mini-and-ipad-lineup-enhanced-siri-features-and-beyond-tech-insights-by-zdnet/"><u>Anticipated Announcements at Apple's Upcoming October Unveiling: New M4 Mac Mini & iPad Lineup, Enhanced Siri Features, and Beyond | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/highlighted-are-there-limitations-to-aurora-hdrs-performance/"><u>Highlighted Are There Limitations to Aurora HDR's Performance?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comparative-study-of-toolwizs-photography-tools/"><u>In 2024, Comparative Study of Toolwiz's Photography Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-kobo-forma-the-e-reader-committed-to-enhancing-your-reading-experience/"><u>In Depth Analysis of Kobo Forma: The E-Reader Committed to Enhancing Your Reading Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-evaluating-google-maps-app-on-ios/"><u>In-Depth Analysis: Evaluating Google Maps App on iOS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-dell-g5-5090-assessment-the-ultimate-affordable-gaming-machine-with-extensive-choices/"><u>In-Depth Dell G5 5090 Assessment: The Ultimate Affordable Gaming Machine with Extensive Choices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-and-analysis-of-amazonbasics-high-speed-7-port-usb-hub-for-tech-enthusiasts/"><u>In-Depth Review and Analysis of AmazonBasics' High-Speed 7 Port USB Hub for Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-mobvoi-ticwatch-pro-3-tracking-watch-maximizing-battery-efficiency-through-dual-displays/"><u>In-Depth Review of Mobvoi TicWatch Pro 3 Tracking Watch: Maximizing Battery Efficiency Through Dual Displays</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-the-pros-and-cons-of-pioneers-bdr-xd05b-blu-ray-writer-spotlight-on-design-issues/"><u>In-Depth Review: The Pros and Cons of Pioneer's BDR-XD0^5B Blu-Ray Writer - Spotlight on Design Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-it-possible-to-boost-your-laptops-processor-performance/"><u>Is It Possible to Boost Your Laptop's Processor Performance?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/j5-tactical-v1-pro-assessment-sturdy-and-portable-low-light-performance/"><u>J5 Tactical V1-Pro Assessment: Sturdy & Portable Low Light Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mars-landings-with-urban-twists-unexpected-gusts-of-fun-await/"><u>Mars Landings with Urban Twists: Unexpected Gusts of Fun Await!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-webcam-recording-for-slideshows-for-2024/"><u>Mastering Webcam Recording for Slideshows for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-list-of-2024s-most-efficient-4k-uhd-video-extractors-compatible-with-apple-computers/"><u>The Ultimate List of 2024'S Most Efficient 4K UHD Video Extractors Compatible with Apple Computers</u></a></li>
+</ul></div>
 

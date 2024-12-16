@@ -1,7 +1,7 @@
 ---
 title: "New 'Fallout' Fans, Embrace Your Inner Survivor: Time to Delve Into the Wasteland Saga!"
-date: 2024-12-07T06:05:35.362Z
-updated: 2024-12-09T17:18:11.179Z
+date: 2024-12-15T09:43:14.681Z
+updated: 2024-12-16T13:36:54.366Z
 tags:
   - games
   - tv
@@ -36,6 +36,10 @@ _Fallout_ is faithful to the source material, packed with cheeky references, and
 
  Or maybe I’m just biased because I love _Fallout_. If you also love _Fallout_, buckle up because the show will almost certainly make you think about donning your PIP Boy and getting eviscerated by Deathclaws all over again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## _Fallout 4_ Is Getting an Update
 
 _Fallout 4_ was released in 2015, making it a nine-year-old game at the time of the show’s debut. Despite its age, _Fallout 4_ is probably the most accessible version of Bethesda’s open-world RPG. It’s the most recent wholly single-player installment, and it’s available with Game Pass (Xbox and PC) or as a standalone title (on everything, including PlayStation 4 and 5).
@@ -51,7 +55,7 @@ _Fallout 4_ was released in 2015, making it a nine-year-old game at the time of 
 _Fallout 4_ made some changes to the series that aren’t necessarily to everyone’s tastes, notably to the speech system which makes it a little more difficult to predict what your character will say in conversations. The game also pesters you to build and defend settlements, but you can pretty much ignore this aspect if you’d rather.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## _Fallout 76_ Has Come a Long Way
@@ -66,10 +70,6 @@ _Fallout 76_ has come a long way since launch, and though it’s probably the we
 
 _Fallout 76_ is available on PlayStation 4 and 5 and was even given away for free to [PlayStation Plus subscribers](https://screen-mirroring-recording.techidaily.com/updated-top-strategies-for-capturing-lol-matches/) in January 2023 (so check your library, just in case).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## _Fallout 3_ and _New Vegas_ Are Still Landmark RPGs
 
 _Fallout: New Vegas_ represents something of a crown jewel in the _Fallout_ series. Developed by Obsidian Entertainment, this follow-up to _Fallout 3_ fixes many of the problems that players had with Bethesda’s previous outing. As the name suggests, the game is set in the Mojave wasteland and features numerous Nevada landmarks including the Las Vegas strip.
@@ -83,7 +83,7 @@ _Fallout 3_ has arguably not aged as gracefully as _New Vegas_. Your character i
  Both titles feature Bethesda’s signature environmental storytelling, rich detailed worlds, scathing satire, iconic soundtracks, and melancholy post-apocalyptic vibes. The games are available on Game Pass for PC and Xbox models from the 360 through to the Series X|S. You can also play on the PlayStation 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don't Forget the Original _Fallout_ Games Either
@@ -95,7 +95,7 @@ _Fallout 3_ has arguably not aged as gracefully as _New Vegas_. Your character i
 ![Fallout 2 from Black Isle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fallout_2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Interplay/Bethesda Softworks
@@ -105,7 +105,7 @@ Interplay/Bethesda Softworks
  The old _Fallout_ games can be a little off-putting for their dated (yet charming, and oddly period-appropriate) graphics, steep difficulty, and availability. You can buy _Fallout_ and _Fallout 2_ for Windows on GOG, Steam, and the Epic Games Store. Combat-heavy spin-off _Fallout Tactics: Brotherhood of Steel_ is also out there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Please Stand By
@@ -129,17 +129,20 @@ Interplay/Bethesda Softworks
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-guide-to-screen-recording-facetime-meetings/"><u>[New] In 2024, Essential Guide to Screen-Recording FaceTime Meetings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-from-twitter-to-gifs-a-cost-saving-how-to-guide-for-2024/"><u>[Updated] From Twitter to Gifs A Cost-Saving How-To Guide for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-to-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide/"><u>[Updated] How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-throughput-your-videos-8-top-android-apps-for-2024/"><u>[Updated] Throughput Your Videos 8 Top Android Apps for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-5-5/"><u>「2024 お盆休暇で超特選!? 伝統文化と新しい体験を堪能する5つのアイディア - 今年はやってみたいことが5つ」</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G34 5G</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-xs-max-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone XS Max? Complete Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/surfing-the-waves-with-style-and-power-the-ultimate-guide-to-microsofts-second-gen-studio-desktop/"><u>Surfing the Waves with Style & Power: The Ultimate Guide to Microsoft's Second Gen Studio Desktop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-amazing-featherweight-contender-a-thorough-review-of-the-high-performing-lg-gram-17-laptop/"><u>The Amazing Featherweight Contender – A Thorough Review of the High-Performing LG Gram 17 Laptop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-balance-of-elegance-and-economy-in-depth-look-into-the-acclaimed-fossil-sport-collection/"><u>The Perfect Balance of Elegance & Economy - In-Depth Look Into the Acclaimed Fossil Sport Collection</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-analysis-of-budget-android-phones-spotlight-on-samsung-galaxy-a20/"><u>The Ultimate Analysis of Budget Android Phones: Spotlight on Samsung Galaxy A20</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722884113163-troubleshooting-steps-resolving-your-ipads-wi-fi-connection-issues/"><u>Troubleshooting Steps: Resolving Your iPad's Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-watch-multiple-youtube-videos-at-one-time-in-2024/"><u>[New] How To Watch Multiple YouTube Videos at One Time, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-earnings-for-content-producers-on-short-form-platform/"><u>[Updated] 2024 Approved Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unforgettable-stop-motion-films-the-top-15-list-for-2024/"><u>[Updated] Unforgettable Stop-Motion Films - The Top 15 List for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-deep-dive-into-freeimage-editing-software-the-comprehensive-photoscape-evaluation/"><u>A Deep Dive Into FreeImage Editing Software: The Comprehensive PhotoScape Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-detailed-torment-tides-of-numenera-game-analysis-an-in-depth-look-at-a-science-fiction-role-playing-experience/"><u>A Detailed Torment: Tides of Numenera Game Analysis - An In-Depth Look at a Science Fiction Role-Playing Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-lg-24lh4830-television-quality-and-value-combined/"><u>Affordable LG 24LH4830 Television - Quality and Value Combined</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/examining-royal-matchs-architecture-how-many-hierarchical-stages-are-present/"><u>Examining Royal Match's Architecture: How Many Hierarchical Stages Are Present?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-s24plus-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy S24+ to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-13-mini-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 13 mini to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/optimal-free-trial-secure-your-dynamic-volume-backups-using-top-rated-backup-solutions/"><u>Optimal Free Trial: Secure Your Dynamic Volume Backups Using Top-Rated Backup Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722972082998-the-ultimate-showdown-gopros-hero7-in-the-action-camera-arena/"><u>The Ultimate Showdown: GoPro's HERO7 in the Action Camera Arena!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722990716497-troubleshooting-why-does-my-nox-player-keep-freezing-solve-now/"><u>Troubleshooting: Why Does My Nox Player Keep Freezing? Solve Now!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-comparing-all-types-of-ipads/"><u>Ultimate Guide: Comparing All Types of iPads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/youtube-premium-is-it-right-for-your-viewing-habits/"><u>YouTube Premium: Is It Right for Your Viewing Habits?</u></a></li>
 </ul></div>
 

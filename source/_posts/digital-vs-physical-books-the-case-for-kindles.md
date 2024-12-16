@@ -1,7 +1,7 @@
 ---
 title: "Digital Vs. Physical Books: The Case for Kindles"
-date: 2024-09-14T09:54:10.670Z
-updated: 2024-09-20T08:22:13.243Z
+date: 2024-12-13T22:21:35.187Z
+updated: 2024-12-16T02:00:11.709Z
 categories:
   - BestProducts
 description: "This Article Describes Digital Vs. Physical Books: The Case for Kindles"
@@ -37,6 +37,10 @@ Lifewire / Jonno Hill
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1byone Amplified Digital HDTV Antenna
 
 ![1byone Digital Amplified Indoor HD TV Antenna](https://www.lifewire.com/thmb/y6y0rP_H9I7oHwldUMIq-18GrFw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7LW4078201-1byOne_TVAntennas_HeroSquare-d9b494f43adf438bad5a0b82441039ef.jpg)
@@ -68,24 +72,25 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Vanilla**
 
  The 1byone Digital Amplified Indoor Antenna uses a flat rectangular design similar to other powered indoor antennas on the market. The 13.25 x 9.25 inch antenna surface is roughly in line with most of the other products I looked at in this category, the only real difference being that the 1byone has a much more rigid surface.
 
  Being a powered antenna, the 1byone uses an external amplifier to boost the signal. This box contains a coaxial input attached via the included 16.5ft cable, and has a power input, which can be supplied by the TV itself if it can support USB power. Otherwise, 1byone includes a USB power adapter.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup: Fairly intuitive**
 
  Setup of the 1byone Digital Amplified Indoor Antenna is relatively simple, and more or less in line with what I’ve come to expect from similar powered indoor antennas. Simply attach the 16.5ft coaxial cable to the external amplifier, connect the power to a USB power source, and then attach the coaxial cable from the amplifier to your TV.
 
  Setup of the 1byone Digital Amplified Indoor Antenna is relatively simple, and more or less in line with what I’ve come to expect from similar powered indoor antennas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Good enough for most**
 
@@ -100,10 +105,7 @@ Lifewire / Jonno Hill
 ![1byone Digital Amplified Indoor HD TV Antenna](https://www.lifewire.com/thmb/6y-ITpY8n7xf8BteMqdJjYm-paU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7LW4078201-1byOne_TVAntennas_05-178a02351af040cc89c86169b88a6de2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
@@ -125,10 +127,7 @@ Lifewire / Jonno Hill
  The 1byone Digital Amplified Indoor Antenna offers the best value out of all the indoor antennas that we tested. If you can get the performance you need from the 1byone, it’s the antenna to buy. I wouldn’t consider other options unless you’ve already ruled out this one.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -157,5 +156,20 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-xbox-live-streaming/"><u>[New] 2024 Approved The Ultimate Guide to Xbox Live Streaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-i-trust-third-party-browser-integrations-with-chatgpt/"><u>Can I Trust Third-Party Browser Integrations with ChatGPT?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-wi-fi-experience-the-essentials-of-wireless-software-and-driver-refresh-on-windows-pcs/"><u>Enhance Your Wi-Fi Experience: The Essentials of Wireless Software and Driver Refresh on Windows PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-gt-5-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme GT 5 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-vogue-your-way-simple-video-concepts-for-you/"><u>In 2024, Vogue Your Way Simple Video Concepts for You</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insightful-reasons-to-embrace-m3-macbook-airs-features/"><u>Insightful Reasons to Embrace M3 MacBook Air's Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-it-time-to-opt-for-an-ios-17-transition/"><u>Is It Time to Opt for an iOS 17 Transition?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reigniting-your-macbooks-sparkling-performance-via-ssd-installation/"><u>Reigniting Your MacBook's Sparkling Performance via SSD Installation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rigorous-testing-of-asus-chromebook-c202sa-perfect-durability-for-learning-environments/"><u>Rigorous Testing of Asus Chromebook C202SA: Perfect Durability for Learning Environments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-challenge-of-self-awareness-in-ai-exploring-chatgpts-inability-to-identify-its-outputs/"><u>The Challenge of Self-Awareness in AI: Exploring ChatGPT's Inability to Identify Its Outputs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-leading-selection-no-cost-outstanding-lut-links-for-2024/"><u>The Leading Selection No-Cost, Outstanding LUT Links for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-elevate-your-editing-professional-jump-cuts-in-final-cut-pro-x/"><u>Updated 2024 Approved Elevate Your Editing Professional Jump Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wave-sound-touch-iv-auditory-delight-visual-shortcomings/"><u>Wave Sound Touch IV: Auditory Delight, Visual Shortcomings</u></a></li>
+</ul></div>
 

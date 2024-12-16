@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2024-12-08T23:15:05.678Z
-updated: 2024-12-09T23:57:19.265Z
+date: 2024-12-11T16:49:19.213Z
+updated: 2024-12-16T07:18:50.335Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Playing cross-platform means less wait time in matchmaking lobbies, making it easier to find a game.
@@ -20,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * To avoid issues with cross-play, many games allow you to turn it off in the settings if needed.
 
  Remember when cross-platform multiplayer gaming was something we all wanted? Now that we've got it, I don't think it's panned out exactly how I expected. Here's why I'm so far unimpressed by cross-platform gaming.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Cross-Platform Multiplayer Offers Gamers
 
@@ -33,13 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Controller Mis-Matching and Aim Assist
 
 ![mouse keyboard controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/mouse-keyboard-controller.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
@@ -61,10 +61,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Problems That Impact Competitive Play
 
  For friendly, co-op games, having latency issues or control scheme bias isn't such a huge issue. However, for other games that have a healthy competitive scene, this could be a terrible thing to deal with.
@@ -72,6 +68,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  PVP play in titles like _War Thunder_ and _Overwatch 2_ requires players to have more-or-less the same footing. Unfortunately, that's not always the case. As someone who's played both of these titles with both control schemes, there's a distinct difference in how they handle that's more than just getting used to the controls.
 
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
@@ -85,12 +85,16 @@ Jerome Thomas / How-To Geek
 
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Few Other Considerations
 
 ![Several electronic devices sharing the same screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/cross-platform-computer-smartphone-gaming.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-illustration-on-theme-cross-platform-1335072044)_
@@ -100,10 +104,6 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
  Gameplay in cross-platform titles requires a bit more work on the developer's part. The reason so many games traditionally lacked this functionality is because of how much work goes into porting games between hardware, including testing for compatibility across platforms. It's very likely updates may cause a game to become unplayable on one platform or another.
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You Can Always Turn Off Cross-Play
 
@@ -126,19 +126,22 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigating-the-best-dates-and-hours-for-youtube-impact/"><u>[Updated] 2024 Approved Navigating the Best Dates and Hours for YouTube Impact</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/5-must-know-factors-when-choosing-your-next-used-apple-tablet/"><u>5 Must-Know Factors When Choosing Your Next Used Apple Tablet</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/die-besten-drei-mac-synkrosoftwares-analysiert-vorteile-und-nachteile-mit-tutorial-hilfe/"><u>Die Besten Drei Mäc-Synkrosoftwares Analysiert: Vorteile Und Nachteile Mit Tutorial-Hilfe</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-c110-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia C110</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-the-ultimate-guide-to-siri-enabled-streaming-on-apple-tv-4k/"><u>Review: The Ultimate Guide to Siri-Enabled Streaming on Apple TV 4K</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sony-s6500-review-latest-improvements-for-2024/"><u>Sony S6500 Review Latest Improvements for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-revamps-family-sharing-after-a-decade/"><u>Steam Revamps Family Sharing After a Decade</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sumind-bt7-the-following-message-is-from-the-us-census-bureau-and-provides-information-on-how-many-people-live-in-a-particular-region-such-as-a-state-or-cou158/"><u>Sumind BT7 The Following Message Is From the U.S. Census Bureau and Provides Information on How Many People Live in a Particular Region, Such as a State or County. The Numbers Come From the Most Recent Census Data Available at that Time:</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-verdict-on-the-galaxy-s20-fe-with-5g-tech-reviews-and-consumer-ratings/"><u>The Definitive Verdict on the Galaxy S20 FE with 5G: Tech Reviews and Consumer Ratings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-king-of-gaming-stations-a-detailed-examination-of-the-xbox-one-x/"><u>The King of Gaming Stations - A Detailed Examination of the Xbox One X</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-lenovos-new-lightweight-champion-thinkpad-x1-nano-review/"><u>The Ultimate Guide to Lenovo's New Lightweight Champion - ThinkPad X1 Nano Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-m-mock-1000a-18000mah-auto-jump-starter-your-best-pick-for-emergencies/"><u>The Ultimate Guide to the M MOCK 1000A 18000mAh Auto Jump Starter: Your Best Pick for Emergencies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-facebook-lives-demystified-the-best-ways-to-record-a-stream/"><u>[New] In 2024, Facebook Lives Demystified The Best Ways to Record a Stream</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>[Updated] 2024 Approved Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-walkthrough-creating-your-first-meta-headset-account-oculus-quest/"><u>Beginner's Walkthrough: Creating Your First Meta Headset Account (Oculus Quest)</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-user-sign-in-after-windows-authentication-issues/"><u>Enabling User Sign-In After Windows Authentication Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-correct-c1900101-error-in-win10/"><u>How to Correct C1900101 Error in Win10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-galaxy-a05-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Galaxy A05 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/new-fallout-fans-embrace-your-inner-survivor-time-to-delve-into-the-wasteland-saga/"><u>New 'Fallout' Fans, Embrace Your Inner Survivor: Time to Delve Into the Wasteland Saga!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/new-in-kodi-unveiling-version-205-with-exciting-enhancements/"><u>New in Kodi: Unveiling Version 20.5 with Exciting Enhancements!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-z-flip-5-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy Z Flip 5 Phone Now with These Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliving-pixelated-nostalgia-lessons-and-fun-from-an-iphone-powered-emulation-adventure/"><u>Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviving-the-random-joy-of-tv-a-guide-to-replicating-netflixs-missing-shuffle-feature/"><u>Reviving the Random Joy of TV: A Guide to Replicating Netflix's Missing Shuffle Feature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/section-2c-increasingly-complex-questions-with-solutions/"><u>Section 2C: Increasingly Complex Questions with Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/selecting-the-perfect-day-for-podcast-drops-for-2024/"><u>Selecting the Perfect Day for Podcast Drops for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-strategies-managing-and-reducing-your-monthly-streaming-service-costs/"><u>Smart Strategies: Managing & Reducing Your Monthly Streaming Service Costs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/spotifys-jam-collaboration-function-a-rarely-explored-opportunity-for-music-makers/"><u>Spotify's Jam Collaboration Function: A Rarely Explored Opportunity for Music Makers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stream-live-nbawnba-matches-all-you-need-to-know-about-upcoming-platforms/"><u>Stream Live NBA/WNBA Matches: All You Need To Know About Upcoming Platforms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-12-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 12 mini? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

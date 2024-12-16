@@ -1,7 +1,7 @@
 ---
 title: "Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools"
-date: 2024-12-03T10:50:25.685Z
-updated: 2024-12-09T20:18:52.803Z
+date: 2024-12-08T17:43:54.447Z
+updated: 2024-12-16T06:13:46.421Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ## Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![The "Collections" tab on the Steam Deck Library with emulated games added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-3.jfif) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Can You Run With EmuDeck?
 
  On a Steam Deck, EmuDeck can reliably run almost everything from the earliest home consoles to the PS2 and Wii with few problems in terms of performance. It can run some Wii U games and Switch titles too, but performance largely depends on the game. Emulating these systems is more complicated and taxing on the hardware.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 [PS3 emulation is technically possible with RPCS3](https://some-skills.techidaily.com/new-the-no-fuss-podcast-streaming-handbook/) and is offered as an installation option, but getting it to run properly is a hassle due to the notoriously complex nature of the original console. That being said, a Steam Eck with EmuDeck installed runs nearly everything else flawlessly and, in some cases, even better than the original hardware. This makes EmuDeck a perfect option for creating your own [retro gaming handheld](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don't Worry About Finding the Right Emulators
@@ -69,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![PS2 games in the Steam Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-4.jfif) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It is, of course, up to you to make sure that you're staying on the right side of the law when it comes to emulated games. Assuming you're aware of the law, adding ROMs is fairly simple. EmuDeck has an automatic system to detect ROMs from a USB-C flash drive, but I'd recommend doing it manually to be safe.
 
  When it comes to sourcing ROMs and game files, [make sure you understand the legal ramifications of emulation](https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-13-mini-by-drfone-ios/). It is highly recommended that you purchase games through legal means and dump the files yourself to play on your emulator.
@@ -76,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
  Copy ROMs to a folder on your USB flash drive and insert it into your Steam Decj. From there, you can just copy and paste the files into the respective folder for the proper system, which will appear wherever you installed EmuDeck (under Emulation > Roms > System Name).
 
 ![Various game files inside the "PS2" ROMs folder in Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/files3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I recommend using an external mouse and keyboard to navigate Desktop Mode while moving files around, as the touch screen controls can make this process a little cumbersome.
 
@@ -96,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![The Emudeck ROM manager adding games to Steam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Multiplayer, Quality of Life Features, and Easy Expansion
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
  Now that you've added your games and verified that they all appear in your library, you can start doing some retro gaming. Playing them handheld might already be a nice perk as it is, but [with a dock and a Bluetooth controller](https://techidaily.com/will-moto-g-5g-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/) (or several) you can even simulate playing on the real thing.
 
 ![Two people holding controllers playing a video game together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2019/11/3973a927.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shutterstock/REDPIXEL.PL
 
@@ -118,7 +118,7 @@ Shutterstock/REDPIXEL.PL
  EmuDeck is also easy to expand and adding new games is as simple as dropping the files into the proper emulation folder and letting the program do the rest for you. You can add new emulators and update current ones automatically through the EmuDeck application in Desktop Mode without much hassle with just an internet connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Add Retro Achievement Support (Optional)
@@ -150,15 +150,19 @@ Shutterstock/REDPIXEL.PL
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-maximizing-fb-ad-success-a-step-by-step-animated-guide/"><u>[New] In 2024, Maximizing FB Ad Success A Step-by-Step Animated Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-future-without-vlc-media-player-insights/"><u>[New] The Future Without VLC - Media Player Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-screen-recording-faceoff-bandicam-versus-camtasiaenas-for-2024/"><u>[New] The Screen Recording Faceoff Bandicam Versus Camtasia'enas for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/expressive-communicator-investigation-edition-8-for-2024/"><u>Expressive Communicator Investigation, Edition 8 for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-flawed-h265hevc-streams-efficiently/"><u>Fixing Flawed H.265/HEVC Streams Efficiently</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-iphones-ranked-the-ultimate-guide-for-gamers/"><u>Top iPhones Ranked: The Ultimate Guide for Gamers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-telephones-a-comprehensive-guide/"><u>Top-Rated Wireless Telephones : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-the-best-range-extending-routers-for-202/"><u>Ultimate Guide to Choosing the Best Range Extending Routers for 202</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-list-8-most-popular-mobile-games-today/"><u>Ultimate List: 8 Most Popular Mobile Games Today</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-list-premier-gaming-pcs-released/"><u>Ultimate List: Premier Gaming PCs Released</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/reating-a-clickable-thumbnail-enhancing-video-visibility-without-costs/"><u>[New] Creating a Clickable Thumbnail Enhancing Video Visibility without Costs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-powerdirectors-latest-revolution-compre-point-by-point-review-and-tutorial/"><u>[Updated] 2024 Approved PowerDirector's Latest Revolution Compre Point-by-Point Review & Tutorial</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-explore-these-6-powerful-instagram-reel-tools/"><u>[Updated] In 2024, Explore These 6 Powerful Instagram Reel Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-analytics-audience-insight-crusade/"><u>2024 Approved Mastering Instagram Analytics Audience Insight Crusade</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-shadowy-snapshots-skills-for-stunning-night-images/"><u>2024 Approved Shadowy Snapshots Skills for Stunning Night Images</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-tech-marvels-unveiled-the-complete-oneplus-nord-n100-review/"><u>Affordable Tech Marvels Unveiled - The Complete OnePlus Nord N100 Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-introduces-its-revolutionary-new-iphone-join-us-live/"><u>Apple Introduces Its Revolutionary New iPhone – Join Us Live</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-rebel-t6-examined/"><u>Budget-Friendly Rebel T6 Examined</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-kobo-forma-the-ultimate-e-reading-experience-for-literature-lovers/"><u>Comprehensive Analysis of the Kobo Forma: The Ultimate E-Reading Experience for Literature Lovers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y100-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y100 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/obtain-high-quality-photos-without-watermarks-for-2024/"><u>Obtain High-Quality Photos Without Watermarks for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/shopping-spree-simplified-the-compreenas-guide-to-creating-and-crafting-haul-vids-for-2024/"><u>Shopping Spree Simplified The Compreenas Guide to Creating & Crafting Haul Vids for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/xiaomi-mi-smart-band-4-a-budget-friendly-fitness-tracker-that-exceeds-expectations-in-depth-review/"><u>Xiaomi Mi Smart Band 4: A Budget-Friendly Fitness Tracker That Exceeds Expectations - In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/your-essential-walkthrough-to-crafting-a-nintendo-3ds-account-on-nintendo-network/"><u>Your Essential Walkthrough to Crafting a Nintendo 3DS Account on Nintendo Network</u></a></li>
 </ul></div>
 

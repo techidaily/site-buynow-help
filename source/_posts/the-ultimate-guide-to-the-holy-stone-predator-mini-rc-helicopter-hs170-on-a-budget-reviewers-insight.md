@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the Holy Stone Predator Mini RC Helicopter (HS170) on a Budget – Reviewer's Insight!
-date: 2024-09-13T22:26:27.800Z
-updated: 2024-09-19T18:00:57.048Z
+date: 2024-12-10T11:10:08.419Z
+updated: 2024-12-16T13:08:25.147Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to the Holy Stone Predator Mini RC Helicopter (HS170) on a Budget – Reviewer's Insight!
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/QZz-CxdzNsxSs74LM7PrAw1PBmA=/400x300/fi
 ## Ultimate Guide to the Netgear Nighthawk X10 (AD7200) - Experience Lightning Quick Internet with Our In-Depth Review
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Netgear Nighthawk X10 AD7200 Router
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/QZz-CxdzNsxSs74LM7PrAw1PBmA=/400x300/fi
 [View On Amazon $440](https://www.amazon.com/dp/B01M12RE4A?tag=lifewire-onsite-prod-20&ascsubtag=4846418%7Cnd55a891e250641509ef77229001ead8021%7CB01M12RE4A) [View On Walmart $279](https://www.walmart.com/ip/122396083) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnetgear-nighthawk-x10-ad7200-tri-band-wi-fi-router-black%2F5610805.p%3FskuId%3D5610805)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Netgear Nighthawk X10 AD7200 Router
 
@@ -93,13 +101,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Netgear Nighthawk X10 AD7200 (R9000)](https://www.lifewire.com/thmb/RfTANl22rAcY7Xy986eYa_62r44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_WirelessRouters_NighthawkX10AD7200_02-1721b933d315435f98631847bf3ebb0b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
 
 ## **Connectivity: AD7200 tri-band with MU-MIMO and 10G SFP+**
@@ -128,6 +129,10 @@ Lifewire / Jeremy Laukkonen
 
 ![Netgear Nighthawk X10 AD7200 (R9000)](https://www.lifewire.com/thmb/Jwl6BD38cWznmN0op6bpzAmBs_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_WirelessRouters_NighthawkX10AD7200_03-4cfe683a7cf94e94b14c0ec2be12da50.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
  To the Nighthawk X10’s credit, the 5GHz network performance exceeded my wildest expectations. Using my 1Gbps Mediacom cable internet connection, I measured a relatively mediocre 373Mbps down and 73.6Mbps up. At the same time, using a wired connection to the same router, I measured 536.8Mbps down.
@@ -139,6 +144,10 @@ Lifewire / Jeremy Laukkonen
  The Nighthawk X10 held strong though, dropping the download speed to 38.8Mbps and the upload speed to 13.1Mbps, but without touching the ping, barely increasing jitter, and introducing just 1.2 percent packet loss. Strangely enough, this 802.11ad router’s strongest selling point might be the impressively robust nature of its 5GHz network.
 
  Strangely enough, this 802.11ad router’s strongest selling point might be the impressively robust nature of its 5 GHz network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Netgear’s web interface and web app, plus Plex and more**
 
@@ -163,10 +172,7 @@ Lifewire / Jeremy Laukkonen
  By way of comparison, the Nighthawk Pro Gaming XR700 has similar specifications, swaps out Plex Media Server for some gaming-centric quality of life (QoL) features, and has a street price that’s close to $400.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Netgear Nighthawk X10 AD7200 vs. Netgear Nighthawk RAX80**
@@ -182,13 +188,6 @@ Lifewire / Jeremy Laukkonen
  **Strong 5GHz performance and Plex Media Center make this a good option if you need an 802.11ad router.**
 
  The Netgear Nighthawk X10 AD7200 is a bit of a mixed bag since its key feature is so niche. If you really need an 802.11ad router, you may want to look for one with a stronger range. However, this router has fantastic performance on the 5GHz band, and the Plex Media Server implementation is also a very strong plus. If short-range 802.11ad support with excellent fallback 5GHz performance sounds good to you, then this is the router you’re looking for.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -224,5 +223,22 @@ Lifewire / Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-cutting-edge-video-edits-without-spending-navigate-through-the-8-tools/"><u>[Updated] Cutting-Edge Video Edits Without Spending Navigate Through The 8 Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-list-10-best-zero-price-desktop-recorder-apps/"><u>2024 Approved Essential List 10 Best Zero-Price Desktop Recorder Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-zooms-playbook-for-precision-and-polished-youtube-conferences/"><u>2024 Approved Zoom's Playbook for Precision and Polished YouTube Conferences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-engagement-mastery-expert-driven-online-courses/"><u>AI Engagement Mastery: Expert-Driven Online Courses</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-tips-top-6-apps-that-make-storing-linkedin-videos-simple/"><u>Expert Tips Top 6 Apps That Make Storing LinkedIn Videos Simple</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-home-meteorological-devices-reviewed-2024-edition/"><u>Leading Home Meteorological Devices Reviewed: 2024 Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/lighten-the-load-best-free-video-compression-software-for-windows-10/"><u>Lighten the Load Best Free Video Compression Software for Windows 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maisto-rc-rock-crawler-evaluation-perfect-family-entertainment-in-a-remote-control-car-package/"><u>Maisto RC Rock Crawler Evaluation: Perfect Family Entertainment in a Remote Control Car Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-elegance-with-technology-inside-look-at-the-michael-kors-access-gen-5e-collection/"><u>Mastering Elegance with Technology: Inside Look at the Michael Kors Access Gen 5E Collection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-gaming-with-the-asus-rt-ac88u-is-this-router-a-game-changer-or-just-hype/"><u>Mastering Gaming with the Asus RT-AC88U – Is This Router a Game-Changer or Just Hype?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-art-of-gaming-computers-inside-look-at-the-corsair-one-pro/"><u>Mastering the Art of Gaming Computers - Inside Look at the Corsair One Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-features-of-mobvoi-ticwatch-pro-3-the-impacts-of-dual-displays-on-gps-precision-and-battery-longevity/"><u>Navigating the Features of Mobvoi TicWatch Pro 3 - The Impacts of Dual Displays on GPS Precision and Battery Longevity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/still-a-huge-discount-roborock-s7-mav-ultra-vacuum-and-mop-remains-500-cheaper-after-prime-day-zdnet-reviews/"><u>Still a Huge Discount! Roborock S7 Mav Ultra Vacuum & Mop Remains $500 Cheaper After Prime Day | ZDNet Reviews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallets-in-2n24-comprehensive-reviews-by-tech-experts-gizmotrends/"><u>Top-Rated MagSafe Wallets in 2N24: Comprehensive Reviews by Tech Experts | GizmoTrends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-guide-to-rigorous-mobile-device-evaluation-processes-and-standards/"><u>ZDNet's Expert Guide to Rigorous Mobile Device Evaluation Processes and Standards</u></a></li>
+</ul></div>
 

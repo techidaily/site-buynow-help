@@ -1,7 +1,7 @@
 ---
 title: The Amazing Featherweight Contender – A Thorough Review of the High-Performing LG Gram 17 Laptop
-date: 2024-09-15T01:45:48.633Z
-updated: 2024-09-20T06:21:25.125Z
+date: 2024-12-12T22:32:42.436Z
+updated: 2024-12-16T06:53:27.458Z
 categories:
   - BestProducts
 description: This Article Describes The Amazing Featherweight Contender – A Thorough Review of the High-Performing LG Gram 17 Laptop
@@ -74,6 +74,10 @@ Lifewire / Jonno Hill
 
  Being a powered antenna, the 1byone uses an external amplifier to boost the signal. This box contains a coaxial input attached via the included 16.5ft cable, and has a power input, which can be supplied by the TV itself if it can support USB power. Otherwise, 1byone includes a USB power adapter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup: Fairly intuitive**
 
  Setup of the 1byone Digital Amplified Indoor Antenna is relatively simple, and more or less in line with what I’ve come to expect from similar powered indoor antennas. Simply attach the 16.5ft coaxial cable to the external amplifier, connect the power to a USB power source, and then attach the coaxial cable from the amplifier to your TV.
@@ -81,10 +85,7 @@ Lifewire / Jonno Hill
  Setup of the 1byone Digital Amplified Indoor Antenna is relatively simple, and more or less in line with what I’ve come to expect from similar powered indoor antennas.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Good enough for most**
@@ -93,6 +94,10 @@ Lifewire / Jonno Hill
 
  This should be more than suitable for most people living within a city in relatively close proximity to the source of the TV signal. As for those living further, your mileage may vary.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Range: Middle of the road**
 
  1byone makes no specific promises about the range of their antenna, although they do cite users having positive experiences from as far as 48 miles away in their customer testimonials. Given how many factors impact the effective range, I think it is somewhat wise not to make any promises. Nonetheless, this is clearly a device that will be best suited for people living in or near major metropolitan areas.
@@ -100,10 +105,7 @@ Lifewire / Jonno Hill
 ![1byone Digital Amplified Indoor HD TV Antenna](https://www.lifewire.com/thmb/6y-ITpY8n7xf8BteMqdJjYm-paU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7LW4078201-1byOne_TVAntennas_05-178a02351af040cc89c86169b88a6de2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
@@ -113,10 +115,7 @@ Lifewire / Jonno Hill
  The 1byone Digital Amplified Indoor Antenna costs just $25, making it the least expensive option out of the antennas I tested. It picked up all the major channels that I would actually watch, and didn’t have any issues with the signal. So from my perspective, why would I pay more? I think buyers would probably be best served by seeing if an antenna like this works for them. If you discover you need something more substantial, feel free to move on to a pricier option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1byone Digital Amplified Indoor HD TV Antenna vs Mohu Leaf 30 TV Antenna**
@@ -157,5 +156,26 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-interactive-stories-in-real-time-with-fb-screen-features/"><u>[New] Interactive Stories in Real-Time with FB Screen Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-masterful-transitioning-8-leading-convertors-for-sub-and-srt-for-2024/"><u>[New] Masterful Transitioning 8 Leading Convertors for Sub and SRT for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ultrawide-vs-uhd-4k-monitors-which-to-choose/"><u>[Updated] 2024 Approved UltraWide VS UHD 4K Monitors Which to Choose</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-rapid-route-learning-the-ins-and-outs-of-insta-talks/"><u>[Updated] In 2024, Rapid Route Learning the Ins and Outs of Insta Talks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-picture-perfect-presentations-posting-on-youtube/"><u>[Updated] Picture-Perfect Presentations Posting on YouTube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-elite-selection-of-wireless-pointing-devices/"><u>2024'S Elite Selection of Wireless Pointing Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-graphics-drivers-radeon-hd-6950-version-20/"><u>AMD Graphics Drivers: Radeon HD 6950, Version 2.0</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/charger-free-solutions-for-keeping-your-phone-battery-full/"><u>Charger-Free Solutions for Keeping Your Phone Battery Full</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-lightzone-pro-the-ultimate-no-cost-photo-editor-for-pcs-and-macs/"><u>Discover LightZone Pro: The Ultimate No-Cost Photo Editor for PCs & MACs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-slow-to-lightning-transform-your-mac-with-an-ssd/"><u>From Slow to Lightning: Transform Your Mac with an SSD</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-lenovo-thinkphone-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-long-distance-wifi-gadgets-the-ultimate-picks-for-2er/"><u>Leading Long-Distance WiFi Gadgets: The Ultimate Picks for 2Er</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-vr-experience-in-depth-look-at-the-budget-friendly-arcshell-ar-5/"><u>Maximize Your VR Experience: In-Depth Look at the Budget-Friendly Arcshell AR-5</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-hisense-40h5590f-affordable-smart-television-overview/"><u>Review of Hisense 40H5590F - Affordable Smart Television Overview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/should-i-replace-my-outdated-phone-or-pod-battery/"><u>Should I Replace My Outdated Phone or Pod Battery?</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/tecnicas-efectivas-de-recuperacion-de-informacion-borrada-en-un-unidad-exterior/"><u>Técnicas Efectivas De Recuperación De Información Borrada en Un Unidad Exterior</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/testing-the-robustness-of-the-affordable-omoton-t1-stand-for-your-tablet-our-detailed-assessment/"><u>Testing the Robustness of the Affordable Omoton T1 Stand for Your Tablet – Our Detailed Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-owc-mercury-pro-ssd-reviewed-leading-the-market-with-superior-performance-metrics/"><u>The OWC Mercury Pro SSD Reviewed: Leading the Market with Superior Performance Metrics</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-8-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 8 Plus Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+</ul></div>
 

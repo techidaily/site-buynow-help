@@ -1,7 +1,7 @@
 ---
 title: Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas!
-date: 2024-09-13T23:56:50.672Z
-updated: 2024-09-14T16:25:28.911Z
+date: 2024-12-13T02:20:30.774Z
+updated: 2024-12-16T07:51:14.962Z
 categories:
   - BestProducts
 description: This Article Describes Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas!
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/G6NVZKElOp84uFm7QUmSmpoSQ4s=/400x300/fi
 ## AmazonBasics Ultra-Thin Antenna
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/rS-RQyeAxU8gdzYheTg1qi5PFEY=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -62,6 +66,10 @@ Lifewire / Erika Rawes
 
  Indoor TV antennas, like the AmazonBasics Indoor Flat TV Antenna, can provide you with free broadcast TV channels. Once you pay the upfront cost for the antenna you’re not stuck with any monthly fees for your local channels. The[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) are nothing like the bunny ear style antennas from back in the day. The picture quality is comparable to what you’d get from the cable company or streaming service—or it's supposed to be. I tested the ultra-affordable AmazonBasics Indoor Flat TV Antenna for a week to see if its design, setup, and performance make it a viable option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: It’s all in the name (basic)**
 
  The AmazonBasics Antenna has a slim design—it’s about as thin as card stock at approximately one-tenth of an inch in thickness. It’s constructed of sturdy plastic, with a reversible black and white side to help it fit better with your home’s decor. It’s not the most attractive antenna, and the backboards smudge and show grease and fingerprints.
@@ -69,19 +77,6 @@ Lifewire / Erika Rawes
  It doesn’t come with a stand, but it does include 3M double-sided adhesives you can use to attach the antenna to walls or other surfaces. It also comes with a 10-foot long coax cable, which is removable. The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup: Relatively easy**
 
@@ -101,6 +96,10 @@ Lifewire / Erika Rawes
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/GRXmDZjwX-_X2TyOZoHytHKrjDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-3-70b77c023b7049ef985c61cf6f5064ad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Range: 35 miles**
@@ -111,13 +110,6 @@ Lifewire / Erika Rawes
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Super affordable**
 
  The AmazonBasics Flat TV antenna sells in used condition on Amazon for only $13\. In new condition, it sells for $20, which is still a great deal. However, you can find other affordable antennas for between $20 and $50 that provide a much longer range, and many offer additional features, like a longer cable. With the AmazonBasics model, you can return the unit within 30 days if it doesn’t work in your area.
@@ -125,13 +117,14 @@ Lifewire / Erika Rawes
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/MN6DSsu9Myyo6CdrSW5MJTjHoug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-4-fd9968307cb44c9d9e824750413e0028.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **AmazonBasics Indoor TV Antenna vs. Antop AT-127 Antenna**
 
@@ -172,5 +165,24 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-advanced-image-quality-hero5-black-vs-sjcam-sj7-for-2024/"><u>[Updated] Advanced Image Quality Hero5 Black Vs SJCAM SJ7 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unhacked-url-retrieving-lost-facebook-links/"><u>[Updated] In 2024, Unhacked URL Retrieving Lost Facebook Links</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-master-the-art-of-social-media-success-with-these-10-facebook-tips-for-2024/"><u>[Updated] Master the Art of Social Media Success with These 10 Facebook Tips for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-asus-rog-phone-8-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Asus ROG Phone 8 Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-complete-premiere-pro-full-screen-insight/"><u>In 2024, Complete Premiere Pro Full Screen Insight</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-direct-from-google-meet-securely-live-stream-on-youtube/"><u>In 2024, Direct From Google Meet Securely Live Stream on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reinstating-webcam-functionality-for-hp-laptops-using-windows-11/"><u>Reinstating Webcam Functionality for HP Laptops Using Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sing-your-heart-out-on-a-budget-discover-the-wonders-of-karaoke-usa-at-just-149plus/"><u>Sing Your Heart Out on a Budget - Discover the Wonders of Karaoke USA at Just $149+</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/streamlined-and-effective-a-comprehensive-look-at-why-the-google-pixel-4a-fits-most-consumers-lifestyle/"><u>Streamlined and Effective: A Comprehensive Look at Why the Google Pixel 4a Fits Most Consumers' Lifestyle</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-inclusive-guide-to-testing-the-budget-friendly-z-edge-z3plus-dashcam-model/"><u>The All-Inclusive Guide to Testing the Budget-Friendly Z-Edge Z3+ Dashcam Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-google-pixel-grope-review-rediscovering-androids-essence/"><u>The Definitive Google Pixel Grope Review: Rediscovering Android's Essence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-review-of-huaweis-mediapad-m5-a-tablet-revolutionizing-audio-visual-engagement/"><u>The Definitive Review of Huawei's MediaPad M5 - A Tablet Revolutionizing Audio-Visual Engagement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lenovo-thinkpad-x1-fold-unveiled-pioneering-yet-problematic/"><u>The Lenovo ThinkPad X1 Fold Unveiled - Pioneering Yet Problematic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-mastery-of-the-samsung-galaxy-tab-s5e-your-go-to-for-an-advanced-android-tablet-review/"><u>The Ultimate Guide to Mastery of the Samsung Galaxy Tab S^5E: Your Go-To for an Advanced Android Tablet Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unbeatable-deal-in-laptops-discover-how-acer-aspire-e-15-delivers-top-performance-without-breaking-the-bank/"><u>The Unbeatable Deal in Laptops: Discover How Acer Aspire E 15 Delivers Top Performance Without Breaking the Bank</u></a></li>
+</ul></div>
 

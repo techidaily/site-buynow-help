@@ -1,7 +1,7 @@
 ---
 title: Buying Xbox N Game Downloads Despite the Shutdown of Microsoft's Xbox 360 Storefront
-date: 2024-12-06T17:43:23.870Z
-updated: 2024-12-10T10:21:26.770Z
+date: 2024-12-14T04:51:07.920Z
+updated: 2024-12-16T04:46:42.785Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Buying Xbox N Game Downloads Despite the Shutdown of Microsoft's Xbox 360 Storefront
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Buy Xbox 360 games via the Xbox Series X|S, Xbox One, or Microsoft's online digital storefront.
@@ -24,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Use "My Pins" page to quickly organize installed digital games on your Xbox 360 console.
 
  With the Xbox 360 digital storefront's [recent closure](https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-enlightenment-joshi-and-youtube-success-stories/), you might be wondering if it's still possible to buy digital games for your console. Although some titles were permanently delisted after the store shut down, much of the 360's digital library is still available to purchase and download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Where to Find Xbox 360 Digital Games
 
@@ -34,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Backward Compatible game section on the Xbox One storefront.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox-one-store-backward-compatible.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here, you'll find every digital game that works on the Xbox 360 and later consoles. If you plan to install any of these games on an Xbox 360, be sure to purchase them with an account that's also attached to a 360.
@@ -48,7 +48,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A screenshot of Xbox.com with a filter for "Xbox 360" circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox-website-360-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you find a game you want, purchase it with the same account you use on your Xbox 360\. This will attach the digital game to your account, allowing you to play it on the Xbox 360, Xbox One, or Xbox Series X|S.
@@ -61,20 +61,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The settings page of the Xbox 360 dashboard with "Account" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-settings.JPG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will open the Account Management menu. From here, scroll down and select "Download History" under the "Your Billing Options" menu.
 
 ![The Xbox 360 Account Management screen with "Download History" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-account.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your download history will provide a complete list of every game or demo you have purchased that works on an Xbox 360\. At the top of this list will be your most recent purchases, which is where you'll find the digital games you have bought from the other Xbox storefronts. Select the title you wish to download onto the console, then select "Download Again." This will begin the download process.
 
 ![The download screen for BattleBlock Theater on the Xbox 360, with "Download Again" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/xbox360-digital-download.JPG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once your game is finished downloading, you can finally play it on your Xbox 360.
@@ -106,15 +106,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-clandestine-snaps-stealthy-image-recording-hacks-for-snapchat-for-2024/"><u>[New] Clandestine Snaps Stealthy Image Recording Hacks for Snapchat for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>[Updated] In 2024, Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-top-router-security-systems-with-built-in-parent-controls-year-2024-edition/"><u>Comprehensive Review of Top Router Security Systems with Built-In Parent Controls (Year 2024 Edition)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-zmi-powerpack-20000-analysis-your-ultimate-portable-energy-solution/"><u>Comprehensive ZMI PowerPack 20000 Analysis - Your Ultimate Portable Energy Solution!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/deciding-between-samsungs-new-titans-galaxy-s24-ultra-and-s23-ultra-reviewed/"><u>Deciding Between Samsung's New Titans: Galaxy S24 Ultra and S23 Ultra Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-world-with-canons-elegant-powershot-g9-x-ii-review/"><u>Discovering the World with Canon's Elegant PowerShot G9 X II Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi Redmi Note 13 Pro+ 5G?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-flight-stability-best-gimbals/"><u>In 2024, Innovative Flight Stability Best Gimbals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/incorporating-industry-standards-working-with-cg-centrals-luts-in-post-production/"><u>Incorporating Industry Standards Working with CG Central's LUTs in Post-Production</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-code-4-spotify-error-on-w10w11-systems/"><u>Overcoming the Code 4 Spotify Error on W10/W11 Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expertly-selected-graphics-cards-for-peak-streaming-clarity/"><u>[New] 2024 Approved Expertly Selected Graphics Cards for Peak Streaming Clarity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-creating-soft-transitions-in-audio-with-logic-pro/"><u>[New] Creating Soft Transitions in Audio with Logic Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-secretsunlocked-utilizingyoucamforrecording/"><u>[Updated] 2024 Approved SecretsUnlocked UtilizingYouCamForRecording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-boomerang-magic-in-snapchat-step-by-step-guide/"><u>[Updated] Boomerang Magic in Snapchat – Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-reading-joy-in-depth-look-at-the-2019-basic-amazon-kindle-model/"><u>Affordable Reading Joy: In-Depth Look at The 2019 Basic Amazon Kindle Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-crafted-workspace-thrones-the-ultimate-chair-selection-for-2cuary/"><u>Expertly Crafted Workspace Thrones: The Ultimate Chair Selection for 2Cuary</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-photography-essentials-discover-the-leading-tripods-on-the-market-2023-edition/"><u>Professional Photography Essentials: Discover the Leading Tripods on the Market - 2023 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-a-disabled-debit-card-on-playstation/"><u>Reinstating a Disabled Debit Card on PlayStation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-protective-covers-for-google-pixel-8-pro-your-ultimate-guide/"><u>Top Protective Covers for Google Pixel 8 Pro: Your Ultimate Guide</u></a></li>
 </ul></div>
 

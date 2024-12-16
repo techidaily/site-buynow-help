@@ -1,7 +1,7 @@
 ---
 title: Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library
-date: 2024-12-05T09:47:15.680Z
-updated: 2024-12-10T09:10:41.879Z
+date: 2024-12-12T20:42:35.645Z
+updated: 2024-12-15T20:38:10.997Z
 tags:
   - games
   - tv
@@ -29,7 +29,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Brand-new games arrive on Xbox all the time, so it's easy to forget about the many older Xbox One titles. But there are a ton of last-generation games that are worth playing again on the latest hardward thanks to some big upgrades that overhaul performance, visuals, and even features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 _Halo: The Master Chief Collection_ 
@@ -62,6 +62,10 @@ Bethesda Softworks
 
  It's _DOOM_. It's frenetic, violent, deceptively complex, full of awesome music, and includes a deeper story than most realize. It already looked great on the Xbox One, but it also received an update for the Series X|S, allowing it to look even better and play more smoothly. [If you love fast-paced shooters](https://common-error.techidaily.com/solving-unable-to-connect-issues-with-a-remote-server-a-step-by-step-guide/), _DOOM Eternal_ is worth a look.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 _Star Wars Jedi: Fallen Order_ 
 
 ![A cutscene from Star Wars Jedi: Fallen Order.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fallen-order.png) 
@@ -79,16 +83,12 @@ Electronic Arts
 ![The title screen for DragonBall FighterZ.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/dbfz.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are surely some people reading this who fondly remember playing the Budokai games in their childhood. For a time, nothing could hold a candle to those titles in the world of _DragonBall Z_ fighting games. _DragonBall FighterZ_ made a huge splash in 2018, bringing an incredible aesthetic, epic soundtracks, and a complex but easy-to-pick-up combat system.
 
  Fighting games aren't for everyone, but if you love _DragonBall_, it's worth a look just for that feeling of practically being in the anime. If you like other 2D fighters but haven't tried _FighterZ_ yet, I'd recommend it just for the team-based fighting system, super moves, and great music (ArcSys really never misses). The main upgrade from the Xbox One version to the X|S version was [the addition of rollback netcode](https://tech-haven.techidaily.com/localizing-your-legal-services-with-an-llm-is-it-worth-it-understanding-pros-and-cons/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6 _Hellblade: Senua's Sacrifice_ 
 
@@ -100,9 +100,17 @@ _Hellblade: Senua's Sacrifice_ is not a game that everyone is going to enjoy. So
 
  Moreover, the sequel, _Hellblade 2_, arrived in 2024\. Now is a great time to play the original game. On the Series X|S, the game is even more visually incredible, thanks to [the inclusion of ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/) and other graphical upgrades.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 _Mortal Shell_ 
 
 ![Gameplay from Mortal Shell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mortal-shell.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Playstack
 
@@ -113,16 +121,12 @@ Playstack
 _Mortal Shell_ has an enhanced edition for the Series X|S, improving its graphical fidelity. If you're looking for a quick but rewarding Souls-like experience, give _Mortal Shell_ a shot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8 _Stellaris: Console Edition_ 
 
 ![Gameplay from Stellaris: Console Edition.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/stellaris.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Paradox Interactive
 
@@ -130,23 +134,19 @@ Paradox Interactive
 
  Destroy entire worlds, conquer other empires, take over the galaxy as a sentient fungal hivemind horror: you name it, _Stellaris_ probably lets you do it. I can personally attest that _Stellaris_ plays very intuitively with a controller, which many 4X games on console can't claim. Being a strategy game, graphics aren't _that_ important, but a performance-optimized version for the X|S does exist now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9 _Cyberpunk 2077_ 
 
 ![Gameplay from Cyberpunk 2077.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cyberpunk-2077.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 CD Projekt Red
 
  If you tried to play _Cyberpunk 2077_ when it first debuted on the Xbox One, you probably remember that it was a really rough launch. Console versions were full of bugs and performance issues, to the extent that Sony even removed the game from its stores for a time. It was a real shame because the game was highly praised for its interesting setting, intriguing narrative, and memorable characters.
 
  The good news is that this critically acclaimed title is in a much better state today, and it has a Series X|S version optimized for the newer hardware. It looks better, runs better, plays better, and there's a big DLC expansion available too. So if you avoided [playing _Cyberpunk 2077_](https://some-approaches.techidaily.com/updated-top-10-impressive-srt-converters-for-mac-and-windows/) due to its rough launch, now would be a great time to give it a shot on the Series X|S.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10 _Sea of Thieves_ 
 
@@ -177,14 +177,17 @@ Microsoft Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-professional-8-stream-enhancers-for-video-sharpening-for-2024/"><u>[Updated] Professional 8 Stream Enhancers for Video Sharpening for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-screencasting-team-virtual-gatherings/"><u>[Updated] Step-by-Step Screencasting Team Virtual Gatherings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/asus-ax6000-rt-ax88u-in-depth-analysis-of-a-leading-wi-fi-6-router-with-advanced-capabilities/"><u>Asus AX6000 RT-AX88U: In-Depth Analysis of a Leading Wi-Fi 6 Router with Advanced Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/avantree-aria-review-hidden-gems-discovered/"><u>Avantree Aria Review: Hidden Gems Discovered</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/avoiding-common-issues-during-your-os-catalnia-overhaul/"><u>Avoiding Common Issues During Your OS Catalnia Overhaul</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bargain-bin-treasures-high-quality-benq-visual-tech-on-prime-day-specials/"><u>Bargain Bin Treasures: High-Quality BenQ Visual Tech on Prime Day Specials</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164401657-discover-iphones-best-video-game-emulators-now/"><u>Discover iPhone's Best Video Game Emulators Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-viewing-tiktok-on-a-television-set/"><u>The Complete Walkthrough: Viewing TikTok on a Television Set</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-ai-integration-in-smartphones-clues-from-apples-recent-acquisition-strategy-zdnet/"><u>Upcoming AI Integration in Smartphones? Clues From Apple's Recent Acquisition Strategy - ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-focus-on-action-exclude-unwanted-surroundings/"><u>[New] Focus on Action, Exclude Unwanted Surroundings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-paid-to-free-embracing-the-world-of-fcp/"><u>[New] From Paid to Free Embracing the World of FCP</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-elite-10-customizations-elevating-terria/"><u>[Updated] 2024 Approved Elite 10 Customizations Elevating Terria</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/guia-simple-y-rapida-para-convertir-archivos-avi-a-formato-mp4-en-linea-con-movavi/"><u>Guía Simple Y Rápida Para Convertir Archivos AVI a Formato MP4 en Línea Con Movavi</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-flashscreen-snapshot-evaluation-and-alternates/"><u>In 2024, FlashScreen Snapshot Evaluation & Alternates</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-uav-selection-in-stock/"><u>In 2024, Premium UAV Selection in Stock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-version-1607-feature-update-installation-issues/"><u>Overcoming Windows 10 Version 1607 Feature Update Installation Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-soldering-irons-find-your-perfect-match/"><u>Top-Rated Soldering Irons: Find Your Perfect Match</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-travel-friendly-speakers-a-comprehensive-guide/"><u>Top-Rated Travel-Friendly Speakers : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-choosing-the-ideal-surge-protector-for-home-and-office-in-2-surveys-highlighting-their-superiority-in-performance-and-value-for-customers-see13/"><u>Ultimate Guide: Choosing the Ideal Surge Protector for Home & Office in 2 Surveys, Highlighting Their Superiority in Performance and Value for Customers Seeking Protection Against Voltage Spikes.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-durable-and-stylish-google-pixel-phone-sleeves-for-2nce-2023-edition/"><u>Ultimate Selection: Durable & Stylish Google Pixel Phone Sleeves for 2Nce - 2023 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-leading-compact-projection-units-of-2024-revealed/"><u>Ultimate Selection: Leading Compact Projection Units of 2024 Revealed</u></a></li>
 </ul></div>
 

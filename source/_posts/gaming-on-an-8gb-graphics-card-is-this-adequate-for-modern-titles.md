@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2024-12-08T03:21:52.544Z
-updated: 2024-12-10T02:53:17.844Z
+date: 2024-12-11T10:28:46.368Z
+updated: 2024-12-16T14:57:07.651Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Highlights
@@ -35,6 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A screenshot of a virtual bar from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204942.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
@@ -44,7 +48,7 @@ Cianna Garrison / How-To Geek
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Things Get Complicated With Newer AAA Games
@@ -56,7 +60,7 @@ Cianna Garrison / How-To Geek
 ![A screenshot of a virtual Corvette driving in a race from the game "Forza Horizon 5."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-01-172430.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -86,16 +90,12 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Should You Buy an 8GB GPU in 2024?
 
@@ -120,22 +120,24 @@ _GIGABYTE_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-9-uncharted-upscales-for-vivid-visuals/"><u>[Updated] 9 Uncharted Upscales for Vivid Visuals</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-continuous-screenshot-providers/"><u>[Updated] In 2024, Continuous Screenshot Providers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-se-2022-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone SE (2022)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-magic-of-photoscape-authoritative-insights-on-premium-image-editing-without-costs/"><u>Discover the Magic of PhotoScape: Authoritative Insights on Premium Image Editing without Costs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-premier-selection-of-external-blu-ray-writers-tech-enthusiasts/"><u>Discover the Premier Selection of External Blu-Ray Writers Tech Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ecosound-canal-capsule-assessment-study/"><u>EcoSound Canal Capsule Assessment Study</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effective-techniques-for-refreshing-your-pcs-sound-card-drivers/"><u>Effective Techniques for Refreshing Your PC's Sound Card Drivers</u></a></li>
-<li><a href="https://facebook.techidaily.com/enhancing-online-peace-with-limited-facebook-friends/"><u>Enhancing Online Peace with Limited Facebook Friends</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-amazon-halo-a-bold-step-forward-in-personal-health-tracking/"><u>Exploring the Amazon Halo: A Bold Step Forward in Personal Health Tracking</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-linksys-max-stream-ac1900-the-all-inclusive-home-wifi-solution/"><u>Exploring the Features of Linksys Max-Stream AC1900: The All-Inclusive Home WiFi Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-upsides-and-downsides-of-pidgin-messaging-platform/"><u>Exploring the Upsides and Downsides of Pidgin Messaging Platform</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-aural-adventures-tech-updates/"><u>In 2024, Aural Adventures Tech Updates</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-tp-link-archer-c9-best-budget-wifi-solution/"><u>In-Depth Look at the TP-Link Archer C9: Best Budget WiFi Solution</u></a></li>
-<li><a href="https://fox-info.techidaily.com/inside-track-to-optimizing-adobe-and-selective-non-adobe-solutions-for-2024/"><u>Inside Track to Optimizing Adobe and Selective Non-Adobe Solutions for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-mesh-network-solutions-the-2024-edition/"><u>Leading Mesh Network Solutions: The 2024 Edition</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96327033-9781507209813-the-little-book-of-self-care-for-sagittarius/"><u>The Little Book of Self-Care for Sagittarius | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveil-the-8-greatest-places-to-download-3d-text-psd-files-for-2024/"><u>Unveil the 8 Greatest Places to Download 3D Text PSD Files for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-beginners-guide-how-to-create-a-youtube-channel-and-make-money-for-2024/"><u>[New] Beginners’ Guide How To Create a YouTube Channel and Make Money for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/usic-upload-essentials-your-youtube-journey/"><u>[New] Music Upload Essentials Your YouTube Journey</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-conquer-recording-challenges-using-ezvides-screencasting/"><u>2024 Approved Conquer Recording Challenges Using EZvide's Screencasting</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-insights-troubleshooting-and-repairing-the-black-screen-on-your-dell-device/"><u>Complete Insights: Troubleshooting and Repairing the Black Screen on Your Dell Device</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-pinpoint-your-pcs-ram-quickly-on-windows/"><u>How to Pinpoint Your PC's RAM Quickly on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-smart-7-hd-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lightweight-swift-budget-friendly-a-comprehensive-review-of-the-propella-7s-ebike/"><u>Lightweight, Swift, Budget-Friendly – A Comprehensive Review of the Propella 7S eBike</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-your-home-gaming-space-with-perfect-ps4-webcam-arrangement/"><u>Mastering Your Home Gaming Space with Perfect PS4 Webcam Arrangement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/moto-g-power-overview-exceptional-usage-time-and-high-performing-experience/"><u>Moto G Power Overview: Exceptional Usage Time & High-Performing Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-productivity-with-apple-ipad-102-and-its-game-changing-ipados-a-review-for-tech-enthusiasts/"><u>Next Level Productivity with Apple iPad 10.2 and Its Game-Changing iPadOS - A Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-connectivity-made-simple-with-the-clearstream-eclipse-antenna-review/"><u>Next-Level Connectivity Made Simple with the ClearStream Eclipse Antenna Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nintendos-cost-effective-console-alternative-the-ultimate-guide-to-the-nintendo-switch-lite-review/"><u>Nintendo's Cost-Effective Console Alternative - The Ultimate Guide to the Nintendo Switch Lite Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/outdoor-enthusiasts-essential-gear-reviewed-discover-the-super-bright-anker-tactical-beam/"><u>Outdoor Enthusiast's Essential Gear Reviewed – Discover the Super Bright Anker Tactical Beam</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/panasonic-fz80-the-budget-friendly-all-rounder/"><u>Panasonic FZ80: The Budget-Friendly All-Rounder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/proving-superiority-in-tech-the-ultimate-clash-of-iphone-15-pro-vs-pro-max/"><u>Proving Superiority in Tech: The Ultimate Clash of iPhone 15 Pro Vs. Pro Max</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-when-your-paradox-launcher-wont-work-properly/"><u>Quick Fixes for When Your Paradox Launcher Won't Work Properly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliability-at-your-fingertips-expert-insights-into-audews-travel-compressor-pump/"><u>Reliability at Your Fingertips: Expert Insights Into Audew's Travel Compressor Pump</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-manual-to-assembling-a-top-tier-4k-editing-pc-for-2024/"><u>The Ultimate Manual to Assembling a Top-Tier 4K Editing PC for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-3-cutting-edge-features-of-the-new-iphone-16-that-make-upgrades-worth-it-zdnet/"><u>Top 3 Cutting-Edge Features of the New iPhone 16 That Make Upgrades Worth It | ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DIY Tech Adventure: The Makeblock MBot Kit – An In-Depth Guide to Crafting & Programming Your Personal Robot"
-date: 2024-09-19T04:54:32.129Z
-updated: 2024-09-20T06:20:12.121Z
+date: 2024-12-09T08:28:39.048Z
+updated: 2024-12-16T05:35:40.031Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Tech Adventure: The Makeblock MBot Kit – An In-Depth Guide to Crafting & Programming Your Personal Robot"
@@ -81,6 +81,10 @@ PHOTO: Amazon
 
 [Asus BW-16D1X-U Powerful Blu-ray Drive Review](https://www.lifewire.com/asus-bw-16d1x-u-blu-ray-drive-review-4774686)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Budget Buy
 
 [LG GP65NB60 External Drive](https://www.amazon.com/dp/B00ODDE33U?tag=lifewire-onsite-prod-20&ascsubtag=4584282%7Cn9fb481254e8d4bb28df89d8e8fa48e0421%7CB00ODDE33U)
@@ -107,6 +111,10 @@ PHOTO: Amazon
  The LG GP65NB60 can read CD-ROM at 24x speeds and DVD-ROM at 8x speeds, meaning it’s not lagging behind most of the competition despite its budget price. Write speeds are also decent, with up to 24x on CD-R and up to 8x on DVD-R.
 
  The LG GP65NB60 needs a single USB connection for all its power and data transfer needs. Further rounding out the package, the LG GP65NB60 supports Windows and Mac, can burn archival-quality M-Disc, and comes in various colors, with black, gold, white, and silver on offer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Most Compact
 
@@ -137,10 +145,7 @@ PHOTO: Amazon
  It can write CDs at 24x, DVDs at 8x, and Blu-rays at 6x — even supporting M-Disc. It’s a CD/DVD/BD drive weighing less than half a pound. The Verbatim 70102 is a mobility champion, with power and data transfer over USB, so you’ll only need one cable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Budget Alternative
@@ -171,10 +176,7 @@ PHOTO: Amazon
  The Dell DW316 performs in line with what most of the competition offers. It boasts maximum read speeds of 24x for CDs and 8x for DVDs, and it can provide those same speeds for writing as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compact Alternative
@@ -203,6 +205,10 @@ PHOTO: Amazon
  The ZenDrive offers excellent performance for its size, with CD read and write speeds up to 24x and DVD read and write speeds up to 8x. Furthering that performance are quick access times; the Asus ZenDrive can access CD and DVD content in 160ms. For anyone who needs archival quality, the ZenDrive also supports burning to M-Disc for long-lasting data storage.
 
  The Asus ZenDrive supports Windows and Mac, and it includes CyberLink software to help you get started storing content on physical media. The drive also comes with six months of free cloud storage from ASUS, so you can rip content from your CDs and DVDs and move it there as needed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Look For
 
@@ -278,5 +284,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-japanese-aesthetics-on-the-go-applying-anime-filters-to-snaps-for-2024/"><u>[New] Japanese Aesthetics on the Go Applying Anime Filters to Snaps for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-sierras-icloud-drives-the-full-experience/"><u>[Updated] Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-selfie-verfication-is-it-really-useful/"><u>[Updated] Instagram Video Selfie Verfication - Is It Really Useful?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-started-with-azure-speech-to-text-service/"><u>2024 Approved Getting Started with Azure Speech-to-Text Service</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722938368875-a-deep-dive-into-the-high-performance-world-of-hero7-black/"><u>A Deep Dive Into the High-Performance World of HERO7 Black</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/achieve-rejuvenating-mornings-using-the-ihome-zenergy-a-breakthrough-in-bedside-sleep-technology-reviewed/"><u>Achieve Rejuvenating Mornings Using the iHome Zenergy – A Breakthrough in Bedside Sleep Technology Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordability-meets-quality-in-our-tp-link-archer-a6-ac1200-router-thorough-examination/"><u>Affordability Meets Quality in Our TP-Link Archer A6 AC1200 Router Thorough Examination</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/all-ages-guide-to-mastering-off-road-fun-with-the-maisto-remote-control-rock-climber-detailed-overview-and-insights/"><u>All-Ages Guide to Mastering Off-Road Fun with the Maisto Remote Control Rock Climber - Detailed Overview and Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722918625013-best-value-apeman-c450-dashcam-overview-ideal-for-savvy-shoppers/"><u>Best Value Apeman C450 Dashcam Overview – Ideal for Savvy Shoppers!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722958868071-boost-your-gaming-sessions-with-the-havit-five-fan-cooling-pad-in-depth-insights-and-benefits/"><u>Boost Your Gaming Sessions with the HAVIT Five-Fan Cooling Pad - In-Depth Insights and Benefits!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-with-smart-analytics/"><u>Cookiebot-Driven Personalization: Enhancing User Experience with Smart Analytics</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/te-streams-to-next-level-with-av1-on-youtube/"><u>Elevate Streams to Next Level with AV1 on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-non-functional-laptop-keys-in-windows-operating-systems-1187/"><u>How to Repair Non-Functional Laptop Keys in Windows Operating Systems (11/8/7)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-quick-drivers-updating-for-winos-10-to-7/"><u>Mastering Quick Drivers Updating for WINOS 10 to 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-online-oasis-weighing-9-benefits-against-potential-drawbacks/"><u>The Online Oasis: Weighing 9 Benefits Against Potential Drawbacks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-strengths-of-asus-zenwifi-ax6600-mesh-router-expert-review-inside/"><u>Unveiling the Strengths of ASUS ZenWifi AX6600 Mesh Router - Expert Review Inside</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-vive-cosmos-premium-quality-vr-device-facing-tough-challengers/"><u>Unveiling Vive Cosmos: Premium Quality VR Device Facing Tough Challengers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wastelands-ii-the-directors-cut-version-critique-an-engaging-strategy-and-adventure-game/"><u>Wastelands II - The Director's Cut Version Critique: An Engaging Strategy and Adventure Game</u></a></li>
+</ul></div>
 

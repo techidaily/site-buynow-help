@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Real Value: Do You Truly Benefit From Having a Personalized Arcade System?"
-date: 2024-12-05T22:13:30.989Z
-updated: 2024-12-10T07:29:51.866Z
+date: 2024-12-12T07:27:38.868Z
+updated: 2024-12-16T09:58:51.857Z
 tags:
   - games
   - tv
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
  I've been toying with the idea of getting an old-school arcade cabinet. Not the original single-game systems I grew up with, but a modern emulated multi-game system that has the look and feel of stand-up arcade cabs. It's the ultimate geeky white elephant and as you might imagine as a responsible adult, I'm conflicted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Arcade Cabs Are Too Big (or Are They?)
@@ -40,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 
  I make reference to "JAMMA" boards below, and while it's not super-important information, you'll want to know that this is short for "Japan Amusement Machine and Marketing Association" and describes a wiring standard for arcade cabinets. Hence, a game on a JAMMA circuit board will work with a JAMMA arcade cabinet. This is the most common standard you'll encounter with both classic arcade cabinets and modern remakes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Finding Good Boards Is Getting Harder (Does It Matter?)
 
 ![A MisterCade JAMMA Kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/mistercade.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Mister
@@ -73,12 +69,16 @@ Mister
  The good news is that there's often a local company that will either build these kits for you, or make ones to your specifications,and then ship them a short distance to your door. Whether you actually live close enough to one of these outfits to make use of this depends on where you live, but I guess if I had no other choice, spending an afternoon assembling a kit isn't the worst way to spend your time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Maybe I’ll Just Buy an Arcade Stick (But It’s Just Not the Same)
 
 ![HORI Fighting Stick alpha](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/hori-fighting-stick-alpha.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _HORI_ 
 
@@ -87,7 +87,7 @@ _HORI_
  That sounds sensible, and you can pack it all away when you're not playing. Still, it feels like it defeats the point of having a dedicated arcade system. It's like having a Chess board set up somewhere. You can just walk up to it and start playing with no friction. If you have friends over, people could just come and go as they felt like it, playing when the mood takes them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I Have Too Much Gaming Stuff Already (But Cabinets Are Cool)
@@ -121,22 +121,18 @@ _HORI_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-efficient-screen-capture-devices-for-education/"><u>[New] 2024 Approved Efficient Screen Capture Devices for Education</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-explore-5-superior-ways-to-record-sound-with-windows-11/"><u>[Updated] 2024 Approved Explore 5 Superior Ways to Record Sound with Windows 11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-core-definitions-of-cyber-storytelling/"><u>2024 Approved Core Definitions of Cyber Storytelling</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-for-seamless-sound-transitions-in-adobe-premiere/"><u>2024 Approved Expert Strategies for Seamless Sound Transitions in Adobe Premiere</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bybs-leading-quality-e430-led-swing-arm-light-examined-an-in-depth-review/"><u>BYB's Leading Quality E430 LED Swing Arm Light Examined: An In-Depth Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-netgear-orbi-rbs50y-ideal-outdoor-wireless-solution/"><u>Comprehensive Analysis of the Netgear Orbi RBS50Y - Ideal Outdoor Wireless Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-is-the-microsoft-sculpt-keyboard-a-smart-cost-effective-choice/"><u>Comprehensive Review: Is the Microsoft Sculpt Keyboard a Smart, Cost-Effective Choice?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehveubell-review-the-leading-low-cost-video-doorbell-solution/"><u>Comprehveubell Review: The Leading Low-Cost Video Doorbell Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/deciding-between-chromecast-or-roku-which-offers-superior-performance/"><u>Deciding Between Chromecast or Roku: Which Offers Superior Performance?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-high-performance-cable-modems-for-seamless-connectivity/"><u>Discover High-Performance Cable Modems for Seamless Connectivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-performance-and-convenience-with-the-brand-new-ampace-andes-1500-battery-pack/"><u>Evaluating Performance and Convenience with the Brand-New Ampace Andes 1500 Battery Pack</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-value-of-a-solid-budget-choice-the-hisense-h5590f-40-smart-television-review/"><u>Evaluating the Value of a Solid Budget Choice: The Hisense H5590F 40 Smart Television Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959384644-get-the-best-fix-free-wireless-driver-downloads-available-now/"><u>Get the Best Fix: Free Wireless Driver Downloads Available Now!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-s23-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-update-process-for-enhanced-visual-experience-on-win10/"><u>Swift Update Process for Enhanced Visual Experience on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-non-functioning-laptop-screen-answers-within-reach/"><u>The Non-Functioning Laptop Screen: Answers Within Reach</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-play-40c-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Play 40C? Here is How | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-phone-pics-to-professional-videos-selecting-the-top-9-enhancers/"><u>[New] 2024 Approved From Phone Pics to Professional Videos Selecting the Top 9 Enhancers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-a-step-by-step-guide-to-timestamps-in-video-sharing-for-2024/"><u>[New] A Step-by-Step Guide to Timestamps in Video Sharing for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uide-to-livecasting-google-meet-on-youtube/"><u>[New] Guide to Livecasting Google Meet on YouTube</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/discover-the-best-eight-no-cost-ai-software-to-revive-your-vintage-photographs/"><u>Discover the Best Eight No-Cost AI Software to Revive Your Vintage Photographs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-the-top-11-inspiring-film-gems-for-viewers/"><u>Discover the Ultimate Selection: The Top 11 Inspiring Film Gems for Viewers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 11 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sonic-extravagance-beoplay-h8i-diary/"><u>Sonic Extravagance - Beoplay H8i Diary</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-launches-the-first-ever-software-to-repair-corrupted/"><u>Stellar Launches the First Ever Software to Repair Corrupted</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-nokia-72-critique-a-flagship-contender-in-the-affordable-phone-arena/"><u>The Nokia 7.2 Critique: A Flagship Contender in the Affordable Phone Arena</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-amazonbasics-shredder-a-look-at-its-12-sheets-and-cutting-edge-safety-features/"><u>Top AmazonBasics Shredder: A Look at Its 12 Sheets and Cutting-Edge Safety Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-picks-review-lgs-impressive-oled-c9-65-inch-4k-set-a-must-have-for-serious-tv-buffs/"><u>Top Picks Review: LG's Impressive OLED C9 65-Inch 4K Set - A Must-Have for Serious TV Buffs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Spark 10 4G? | Dr.fone</u></a></li>
 </ul></div>
 

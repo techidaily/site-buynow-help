@@ -1,7 +1,7 @@
 ---
 title: Federal Assistance Concludes - Comcast's New Low-Cost $30 Broadband Deals
-date: 2024-12-08T04:00:12.329Z
-updated: 2024-12-09T23:34:47.892Z
+date: 2024-12-12T12:40:27.699Z
+updated: 2024-12-15T19:02:58.778Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Federal Assistance Concludes - Comcast's New Low-Cost $30 Broadband Deals
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2024/05/09 BY CORBIN DAVENPORT
@@ -54,24 +54,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-the-ideal-video-sizes-for-instagram-success/"><u>[New] In 2024, Unveiling the Ideal Video Sizes for Instagram Success</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-progressive-audio-softening-methods/"><u>[New] Progressive Audio Softening Methods</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-brand-consistency-in-action-inserting-logoswatermarks-into-videos/"><u>[Updated] 2024 Approved Brand Consistency in Action Inserting Logos/Watermarks Into Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-easy-path-sending-fb-videos-to-whatsapp-contacts/"><u>[Updated] Easy Path Sending FB Videos to WhatsApp Contacts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fb-soundbank-freeness-central-for-2024/"><u>[Updated] FB Soundbank Freeness Central for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-constant-media-recording-specialists/"><u>[Updated] In 2024, Constant Media Recording Specialists</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/e-identity-enhancement-drawing-your-playful-iconography/"><u>E-Identity Enhancement Drawing Your Playful Iconography</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722962715918-effortlessly-update-to-the-latest-free-windows-8-amd-radeon-graphic-card-drivers-today/"><u>Effortlessly Update to the Latest Free Windows 8 AMD Radeon Graphic Card Drivers Today</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/lg-digital-cinema-31mu97-b-4k-monitor-review-for-2024/"><u>LG Digital Cinema 31MU97-B 4K Monitor Review for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mapmyride-app-breakdown-an-essential-review-for-cyclists-and-runners/"><u>MapMyRide App Breakdown: An Essential Review for Cyclists & Runners</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-your-home-network-with-d-link-powerline-2000-effortless-setup-and-speedy-connections/"><u>Mastering Your Home Network with D-Link Powerline 2000: Effortless Setup & Speedy Connections</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/minecraft-review-the-ultimate-all-ages-sandbox/"><u>Minecraft Review: The Ultimate All-Ages Sandbox</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-nintendo-universe-an-in-depth-look-at-the-switch-lite-vs-the-oled-edition/"><u>Navigating the Nintendo Universe: An In-Depth Look at the Switch Lite Vs. The OLED Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-urban-jungles-with-gotrax-gxl-v2-electric-scooter-an-insightful-overview/"><u>Navigating Urban Jungles with Gotrax GXL V2 Electric Scooter - An Insightful Overview</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-level-gaming-experience-the-ultimate-nvidia-shield-tv-pro-review/"><u>Next-Level Gaming Experience: The Ultimate NVIDIA Shield TV Pro Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/older-yet-reliable-in-depth-review-of-the-nulaxy-km18-bluetooth-car-transmitters-features-and-efficiency/"><u>Older Yet Reliable: In-Depth Review of the Nulaxy KM18 Bluetooth Car Transmitter's Features & Efficiency</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reliable-petfeeding-solution-with-petsafes-automated-six-meal-dispenser/"><u>Reliable PetFeeding Solution with PetSafe's Automated Six-Meal Dispenser</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionize-your-photography-with-darktable-advanced-raw-image-editing-on-macos-and-linux-completely-gratis/"><u>Revolutionize Your Photography with Darktable: Advanced Raw Image Editing on macOS & Linux, Completely Gratis</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-edit-avi-videos-on-the-go-best-mobile-and-online-video-cutters-for-2024/"><u>Updated Edit AVI Videos on the Go Best Mobile and Online Video Cutters for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-4-secrets-for-adding-online-vids-seamlessly-in-ppt-for-2024/"><u>[New] 4 Secrets for Adding Online Vids Seamlessly in PPT for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715860633278-updated-best-linux-screen-capture-software-ranked/"><u>[Updated] Best Linux Screen Capture Software Ranked!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-manual-for-subtitle-precision-via-web-resources/"><u>2024 Approved The Premier Manual for Subtitle Precision via Web Resources</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-most-advanced-documentphoto-scanners-reviewed-find-the-perfect-match/"><u>2024'S Most Advanced Document/Photo Scanners Reviewed - Find the Perfect Match</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-lenovo-p11-pro-great-aspects-and-small-flaws-uncovered/"><u>Comprehensive Evaluation of the Lenovo P11 Pro: Great Aspects and Small Flaws Uncovered</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-rca-video-doorbell-evaluation-exceptional-home-security-on-a-budget/"><u>Comprehensive RCA Video Doorbell Evaluation: Exceptional Home Security on a Budget</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creators-rejoice-the-best-features-of-monoprices-economical-graphics-tablet-exposed/"><u>Creators Rejoice: The Best Features of Monoprice’s Economical Graphics Tablet Exposed</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-steps-to-modify-pdf-files-using-google-drive-or-google-docs/"><u>Easy Steps to Modify PDF Files Using Google Drive or Google Docs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-razer-portal-revolutionizes-gaming-with-superior-wi-fi-performance/"><u>How the Razer Portal Revolutionizes Gaming with Superior Wi-Fi Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808143969-how-to-connect-an-xbox-one-controller-to-a-pc-2024-guide/"><u>How to Connect an Xbox One Controller to a PC — 2024 Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-11-proplus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 11 Pro+ Data? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-solution-for-frozen-keys-in-snipping-tool/"><u>Immediate Solution for Frozen Keys in Snipping Tool</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-top-revenue-making-youtube-visionary/"><u>In 2024, Top Revenue-Making YouTube Visionary</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-swagtron-swagboard-t1-a-flexible-choice-with-a-hefty-price-tag/"><u>In-Depth Analysis of the Swagtron Swagboard T1: A Flexible Choice with a Hefty Price Tag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sale-alert-samsung-4tb-portable-ssd-t5-reduced-by-nearly-half-now-available-on-amazon-tech-news/"><u>Sale Alert: Samsung 4TB Portable SSD T5 Reduced by Nearly Half - Now Available on Amazon! | Tech News</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-2021-apple-macbook-pro-with-m1-chip-review-how-apple-continues-to-lead-in-laptop-excellence/"><u>The Ultimate 2021 Apple MacBook Pro with M1 Chip Review - How Apple Continues to Lead in Laptop Excellence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-evaluation-of-the-apple-ipad-mini-5-small-but-mighty/"><u>The Ultimate Evaluation of the Apple iPad Mini #5 - Small but Mighty</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723011927097-top-rated-z3plus-dash-camera-the-perfect-blend-of-value-and-simplicity-unveiled/"><u>Top Rated Z3+ Dash Camera: The Perfect Blend of Value and Simplicity Unveiled</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-lava-blaze-2-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Lava Blaze 2 5G Users</u></a></li>
 </ul></div>
 

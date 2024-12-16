@@ -1,7 +1,7 @@
 ---
 title: "Budget Friendly TP-Link RE200 AC750 Wi-Fi Booster Assessment: Value for Money Review"
-date: 2024-09-19T08:33:59.846Z
-updated: 2024-09-20T01:43:08.004Z
+date: 2024-12-13T13:18:39.772Z
+updated: 2024-12-15T20:04:32.999Z
 categories:
   - BestProducts
 description: "This Article Describes Budget Friendly TP-Link RE200 AC750 Wi-Fi Booster Assessment: Value for Money Review"
@@ -41,6 +41,10 @@ Lifewire / Emily Isaacs
 [View On Amazon $99](https://www.amazon.com/dp/B00NMVJYEW/?tag=lifewire-onsite-prod-20&ascsubtag=4780187%7Cnf95833ce2d2845368fd2b0eac089080a01%7CB00NMVJYEW) [View On Walmart $89](https://www.walmart.com/ip/Kinesis-KB800PB-us-Freestyle2-Ergonomic-Split-Keyboard-for-PC/41539324?slfpid=3) [View On Office Depot $113](https://www.officedepot.com/a/products/989638/Kinesis-Freestyle2-Ergonomic-Keyboard-For-PC/?cm%5Fmmc=PLA-%5F-Google-%5F-Computer%5FTablet%5FAccessories-%5F-989638&gclid=EAIaIQobChMIv7HKttKB6QIVUl8NCh2Afg94EAQYBCABEgJKIvD%5FBwE&gclsrc=aw.ds)
 
 4.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Kinesis Freestyle2 Blue
 
@@ -92,15 +96,16 @@ Lifewire / Emily Isaacs
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/XHY6Xe9cdaO1U6Uj0wDY6rROlcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_04-7fad98b589454e0388ecf48afe425e8c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
  From here, we followed the instructions in the provided instructional pamphlet and enabled Bluetooth on our iPad. After about a minute of scanning, the Kinesis KB800MB-BT keyboard appeared as an available device. We simply tapped to connect. From here, it prompted us to input a numeric code and press return. Once we’d done this, setup was complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Features: Efficient hotkeys once you get used to them**
 
@@ -114,20 +119,21 @@ Lifewire / Emily Isaacs
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Excellent for the features**
 
  Full-size ergonomic keyboards tend to retail anywhere from $50 to $200, depending on the features involved. Generally retailing for about $100 on Amazon, the Freestyle2 sits comfortably at the front of this curve. While $100 may seem expensive for a keyboard, consider the features involved. Its travel-friendly build, adjustable setup options, extended battery life, and ability to switch quickly and smoothly between multiple connected devices make it an excellent choice for the features.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Kinesis Freestyle2 Blue vs. Microsoft Sculpt Ergonomic Keyboard**
 
@@ -146,19 +152,6 @@ Lifewire / Emily Isaacs
  **An ideal keyboard for Apple users with its compact design, portability, and long-lasting battery.**
 
  The Kinesis Freestyle2 Blue for Mac is a compact, user-friendly ergonomic keyboard that takes comfort and customization to the next level for Apple users thanks to its split, modular design. Its extended battery life of up to 300 plus hours combined with its ability to connect to multiple iOS devices at a time is a game-changer, making it well worth the splurge.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -189,5 +182,24 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-cutting-edge-recording-gear-the-ultimate-voice-recorders-2023-for-2024/"><u>[New] Cutting-Edge Recording Gear The Ultimate Voice Recorders 2023 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-explore-leading-platforms-offering-premium-vectr-art-resources/"><u>[New] In 2024, Explore Leading Platforms Offering Premium Vectr Art Resources</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-minicam-project-scrutiny-overview/"><u>[Updated] 2024 Approved MiniCam Project Scrutiny Overview</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-pinterest-video-downloader-guide-the-leading-no-cost-alternatives/"><u>[Updated] In 2024, Pinterest Video Downloader Guide The Leading No-Cost Alternatives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-thrilling-space-adventure-the-outer-worlds-video-game-an-engaging-sci-fi-action-experience/"><u>A Thrilling Space Adventure: The 'Outer Worlds' Video Game - An Engaging Sci-Fi Action Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-flexispot-theodore-a-stylish-and-contemporary-solution-for-office-ergonomics/"><u>Comprehensive Analysis of the Flexispot Theodore: A Stylish and Contemporary Solution for Office Ergonomics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-garmin-forerunner-945-the-ultimate-gps-fitness-watch/"><u>Comprehensive Analysis of the Garmin Forerunner ⌚️945: The Ultimate GPS Fitness Watch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-more-for-less-diving-into-the-features-of-caixuns-cost-effective-4k-75-inch-android-tv/"><u>Experience More for Less: Diving Into the Features of Caixun’s Cost-Effective 4K 75-Inch Android TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-convert-3gp-files-to-mpeg-with-movavi/"><u>Free Online Conversion: Convert 3GP Files to MPEG with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonic-frames-filming-music-tracks-using-iphones-for-2024/"><u>Harmonic Frames Filming Music Tracks Using iPhones for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-start-and-sustain-an-indie-podcast-hit/"><u>In 2024, How to Start & Sustain an Indie Podcast Hit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-ibuypower-tailored-gamers-dream-machine-affordability-meets-high-end-specs/"><u>In-Depth Analysis of the iBuypower Tailored Gamer's Dream Machine: Affordability Meets High-End Specs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996262439-steam-vr-detection-issues-6-fixes-you-need-to-try/"><u>Steam VR Detection Issues: 6 Fixes You Need to Try!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-picking-the-right-voice-assistant-amazons-alexa-vs-googles-answer-to-it/"><u>The Ultimate Guide to Picking the Right Voice Assistant: Amazon's Alexa Vs. Google's Answer to It.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-using-the-lihan-lhfm1039-for-a-wireless-car-audio-upgrade-reviews-and-tips-included/"><u>The Ultimate Guide to Using the LIHAN LHFM1039 for a Wireless Car Audio Upgrade – Reviews and Tips Included</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-assassins-creed-valhalla-an-immersive-viking-odyssey-through-the-realms-of-darkness-and-light/"><u>Unveiling Assassin's Creed Valhalla: An Immersive Viking Odyssey Through the Realms of Darkness and Light</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-discontent-in-windows-11-upgrades/"><u>Unveiling the Discontent in Windows 11 Upgrades</u></a></li>
+</ul></div>
 
