@@ -27,8 +27,8 @@
 <meta property="og:description" content="Uncovering the Reason Behind PS One’s Shaky Visual Experience    Highlights PlayStation 1 lacked FLOPs due to not having an FPU. No Z-buffer resulted in small errors &amp; visible polygons. Affine tex">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg">
-<meta property="article:published_time" content="2024-12-06T15:47:42.608Z">
-<meta property="article:modified_time" content="2024-12-09T18:53:14.341Z">
+<meta property="article:published_time" content="2024-12-11T23:30:02.284Z">
+<meta property="article:modified_time" content="2024-12-15T10:39:29.512Z">
 <meta property="article:author" content="Edward">
 <meta property="article:tag" content="games">
 <meta property="article:tag" content="tv">
@@ -715,15 +715,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-06 23:47:42</span>
-        <span class="mobile">2024-12-06 23:47:42</span>
+        <span class="desktop">2024-12-12 07:30:02</span>
+        <span class="mobile">2024-12-12 07:30:02</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-10 02:53:14</span>
-            <span class="mobile">2024-12-10 02:53:14</span>
+            <span class="desktop">2024-12-15 18:39:29</span>
+            <span class="mobile">2024-12-15 18:39:29</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -782,7 +782,7 @@
 
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
             <h2 id="Uncovering-the-Reason-Behind-PS-One’s-Shaky-Visual-Experience"><a href="#Uncovering-the-Reason-Behind-PS-One’s-Shaky-Visual-Experience" class="headerlink" title="Uncovering the Reason Behind PS One’s Shaky Visual Experience"></a>Uncovering the Reason Behind PS One’s Shaky Visual Experience</h2><!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="Highlights"><a href="#Highlights" class="headerlink" title="Highlights"></a>Highlights</h3><ul>
@@ -792,22 +792,26 @@
 </ul>
 <p> Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they’re still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn’t find in the competition, so what gives?</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="It’s-All-About-Floating-Points"><a href="#It’s-All-About-Floating-Points" class="headerlink" title="It’s All About Floating Points"></a>It’s All About Floating Points</h2><p> Modern GPU performance is often measured (<a class="link"   target="_blank" rel="noopener" href="https://hardware-help.techidaily.com/brother-hl-2280dw-driver-package-universal-download-for-windows-11-windows-10-windows-8-and-7-users/" >controversially <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>) in FLOPs or FLoating Point Operations. This is simply math involving floating point numbers, which in turn are simply whole numbers with a decimal point. The PlayStation’s graphics processor had zero FLOPs, because it lacked an FPU or Floating Point Unit. Instead, it uses fixed-point integers to calculate the positions of vertices.</p>
 <p> A “vertice” is a point where two or more lines meet. So in a polygon, which is typically (but not always) a triangle in 3D graphics, there are three vertices. A 3D model consists of multiple polygons, and as that object moves on screen, the positions of the vertices must be calculated in 3D space.</p>
 <p> Since you can only use integers, any position for a vertice that’s not an integer will simply be skipped over. So you’ll see polygons “snap” between positions with certain types of motion. For example, a character that’s standing still and has a subtle idle animation will look like they’re jittering a little.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Z-Buffer-Not-Found"><a href="#Z-Buffer-Not-Found" class="headerlink" title="Z-Buffer Not Found"></a>Z-Buffer Not Found</h2><p> Apart from the lack of an FPU, the PlayStation also lacked a hardware Z-buffer. You might remember XYZ coordinates from school, where you can describe any point within a 3D space using three numbers. The PlayStation lacked a hardware buffer to store depth or Z-axis values, sorted in order of how far away something is from the “camera.”</p>
 <p> This meant that game developers had to create their own in-house Z-buffering solution, and since it was not done in hardware, they had to be economical with their depth-sorting algorithms. This led to a common situation in PS1 games where small sorting errors were made and polygons that should have been hidden from view pop in and out of sight.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Affine-Texture-Mapping-Is-Not-So-Fine-After-All"><a href="#Affine-Texture-Mapping-Is-Not-So-Fine-After-All" class="headerlink" title="Affine Texture Mapping Is Not So Fine After All"></a>Affine Texture Mapping Is Not So Fine After All</h2><p> Texture mapping is the process of adding textures (which are basically digital pictures) to a polygon wireframe. It’s basically the “skin” of a 3D object. The PS1 uses a method known as “affine” texture mapping, which uses simple math to determine the coordinates on the polygon where the texture should be drawn. Affine texture mapping does not take Z-coordinates into account, and so perspective projection will appear incorrect for 3D objects. Remember the PS1 has no Z-buffer!</p>
 <p> Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what’s known as affine texture warping.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Fast-Cheap-or-Complex-Pick-Two"><a href="#Fast-Cheap-or-Complex-Pick-Two" class="headerlink" title="Fast, Cheap, or Complex: Pick Two"></a>Fast, Cheap, or Complex: Pick Two</h2><p> Different developers did find ways to work around these limitations, and so some PS1 games exhibit these issues to varying degrees. However, trying to address these issues in software almost always means eating up processing power that could have gone to something else. Despite these cutbacks, the PS1’s hardware was above all fast. It could pump out polygons faster than anything else at the time.</p>
@@ -819,10 +823,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg"
                       alt="An iPad running G-Police next a  physical original copy of the game and a PS4 controller"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p>Sydney Louw Butler &#x2F; How-To Geek</p>
 <p> If you play PS1 games using one of <a class="link"   target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/new-immersion-in-hue-and-light-dreamcolors-z32-x-explored/" >many possible emulators <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> today, you usually have the option to “fix” most of these problems. We can magically inject floating point values into the game, and clean up texture mapping so the games shine. However, should you do that? There’s an argument to be made that these characteristics are part and parcel of the PS1 experience, and just as people don’t want to smooth the pixels in their 8- or 16-bit games, I rarely want to remove the wobble from my favorite PS1 titles.</p>
 <hr>
@@ -840,17 +840,21 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/updated-channel-creation-made-simple-youtubes-top-business-channels-listed-for-2024/"><u>[Updated] Channel Creation Made Simple YouTube's Top Business Channels Listed for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/2024-approved-superior-computing-desktops-await-you/"><u>2024 Approved Superior Computing Desktops Await You</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/discover-hidden-gems-where-to-find-instagram-ringtones-that-shine/"><u>Discover Hidden Gems Where to Find Instagram Ringtones That Shine</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-your-viewing-experience-with-the-affordable-hisense-50h8f-4k-tv-expert-review/"><u>Maximizing Your Viewing Experience with the Affordable Hisense 50H8F 4K TV - Expert Review</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/movavis-guide-transform-qt-files-into-flv-formats-without-costing-a-penny/"><u>Movavi's Guide: Transform QT Files Into FLV Formats without Costing a Penny!</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-useful.techidaily.com/navigating-your-web-experience-the-ultimate-guide-to-control-tab-order-settings/"><u>Navigating Your Web Experience: The Ultimate Guide to Control Tab Order Settings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oneplus-9-evaluation-why-the-numbers-arent-adding-up/"><u>OnePlus 9 Evaluation: Why the Numbers Aren't Adding Up</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/professional-uc-sound-with-sennheiser/"><u>Professional UC Sound with Sennheiser</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pros-and-cons-of-pidgin-instant-messenger/"><u>Pros and Cons of Pidgin Instant Messenger</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://buynow-tips.techidaily.com/ranking-the-most-advanced-runners-gps-devices/"><u>Ranking the Most Advanced Runner's GPS Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-the-grand-escapades-of-yokus-island-express-delight-gamers-anew/"><u>Review: The Grand Escapades of Yoku's Island Express Delight Gamers Anew</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://discord-videos.techidaily.com/new-2024-approved-efficiently-utilizing-discord-spoiler-features/"><u>[New] 2024 Approved Efficiently Utilizing Discord Spoiler Features</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-webster.techidaily.com/024-approved-rapid-routines-to-rearrange-youtube-playlists-effectively/"><u>[New] 2024 Approved Rapid Routines to Rearrange YouTube Playlists Effectively</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/updated-in-2024-revolutionize-your-mobile-viewing-experience/"><u>[Updated] In 2024, Revolutionize Your Mobile Viewing Experience</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://novels-ebooks.techidaily.com/210309589-9781801349659-10-guided-meditations-for-anxiety/"><u>10 Guided Meditations For Anxiety | Free Book</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/2024-approved-uniting-viewers-mastering-interactive-dialogue-online/"><u>2024 Approved Uniting Viewers Mastering Interactive Dialogue Online</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-most-outstanding-television-models-reviewed-find-the-perfect-set-for-you/"><u>2024'S Most Outstanding Television Models Reviewed: Find the Perfect Set for You</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-updates.techidaily.com/exclusive-deal-alert-apples-latest-m2-macbook-air-now-at-an-unbeatable-price-of-799-before-prime-day-reveals/"><u>Exclusive Deal Alert: Apple's Latest M2 MacBook Air Now at an Unbeatable Price of $799 Before Prime Day Reveals</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/newly-updated-set-of-chat-starters-for-podcast-success/"><u>Newly Updated Set of Chat Starters for Podcast Success</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/tips-for-making-facebook-ad-videos-memorable-for-2024/"><u>Tips for Making Facebook Ad Videos Memorable for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-recommended-keyboards-your-ultimate-guide/"><u>Top Recommended Keyboards : Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-smart-lock-innovations-the-ultimate-picks/"><u>Top-Rated Smart Lock Innovations: The Ultimate Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-smart-window-shades-a-comprehensive-guide/"><u>Top-Rated Smart Window Shades : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-bluetooth-dongles-a-comprehensive-guide/"><u>Top-Rated Wireless Bluetooth Dongles : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-keyboards-in-2n24-a-comprehensive-guide/"><u>Top-Rated Wireless Keyboards in 2N24: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-usb-c-power-solutions-for-the-year-2024/"><u>Ultimate Selection of Premium USB-C Power Solutions for the Year 2024</u></a></li>
 </ul></div>
 
 
@@ -863,11 +867,11 @@
         <li><strong>Title:</strong> Uncovering the Reason Behind PS One&#39;s Shaky Visual Experience</li>
         <li><strong>Author:</strong> Edward</li>
         <li><strong>Created at
-                :</strong> 2024-12-06 23:47:42</li>
+                :</strong> 2024-12-12 07:30:02</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-10 02:53:14
+                    :</strong> 2024-12-15 18:39:29
             </li>
         
         <li>
@@ -915,13 +919,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/decision-time-how-to-pick-the-ideal-tablet-comparing-features-of-amazon-fire-and-samsung-models/"
+                        href="/discover-premier-samsung-galaxy-s23-phone-case-selections-the-consumers-handbook/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Decision Time: How to Pick the Ideal Tablet – Comparing Features of Amazon Fire and Samsung Models</span>
+                                <span class="post-nav-title-item">Discover Premier Samsung Galaxy S23 Phone Case Selections : The Consumer&#39;s Handbook</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -931,10 +935,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/streamline-your-home-network-a-deep-dive-into-the-features-and-performance-of-the-re305-by-tp-link/"
+                        href="/evaluating-the-real-value-do-you-truly-benefit-from-having-a-personalized-arcade-system/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Streamline Your Home Network: A Deep Dive Into the Features and Performance of the RE305 by TP-Link</span>
+                                <span class="post-nav-title-item">Evaluating the Real Value: Do You Truly Benefit From Having a Personalized Arcade System?</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
