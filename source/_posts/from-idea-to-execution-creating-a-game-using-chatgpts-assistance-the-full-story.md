@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story"
-date: 2024-12-09T05:06:17.761Z
-updated: 2024-12-16T07:36:17.335Z
+date: 2024-12-21T00:31:34.792Z
+updated: 2024-12-25T06:00:42.931Z
 tags:
   - games
   - tv
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  When I discovered ChatGPT, the first thing I wanted to do was see if I could use it in game development. As always, ChatGPT is eager to help and almost feels like the world's most into-it intern.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Can ChatGPT Code a Game for You?
 
 ![ChatGPT gives me a list of ideas that I could potentially make into a game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-1.png) 
 
  It's quickly apparent that GPT's willingness to [teach you to code](https://fox-helps.techidaily.com/navigating-gif-storage-and-use-in-the-digital-age-iphone/) a game is well-meaning but requires you to understand a bit about what you're doing. As someone who's been an amateur game developer for more than a decade, I know a little bit about coding a game. In using GPT to help me, I was interested in seeing how sophisticated it was for producing a playable game prototype.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  It Certainly Understands Game Engines
 
@@ -79,7 +79,7 @@ public class Projectile : MonoBehaviour
  Notably, it gave me well-commented code so I could follow along as a beginner programmer. Many places suggest that you could [learn to code using AI](https://learntocodewith.me/resources/ai-coding/), and the inclusion of well-commented code is part of that. You won't have to worry if there are errors in your code if you can trace them comment by comment. However, when using GPT to build a game, I encountered several issues that would defeat a newcomer to game development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ChatGPT Is Far From Perfect
@@ -87,10 +87,6 @@ public class Projectile : MonoBehaviour
  LLMs are only as good (or as bad) as the prompts the user gives them. For example, a user could easily [generate anime-type characters with MidJourney](https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/) by including a few words to clarify the prompt's end result. However, when building a game with ChatGPT, I found that there were times when the engine simply didn't pick up what I was putting down.
 
 ![An error happens that I can't seem to figure out, so I ask GPT for help](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-wild-unexpected-behavior-appears.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In this example, I encountered an issue with spawning my projectiles, with all the "bullets" being deflected when the player moves. While this could create some interesting play patterns, I decided to ask it to fix the problem, and it suggested a fix. Unfortunately, the fix didn't work.
 
@@ -102,19 +98,23 @@ public class Projectile : MonoBehaviour
 
  I eventually put together the game using a few suggestions from GPT about the persistent score as well as the random generation algorithm and scrolling for the game background. You can [play the final game here](https://zandoliearts.itch.io/the-unfriendly-skies).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Does It Work With Other Game Engines?
 
  I know ChatGPT was very good with Unity once I could sort out some of the issues I ran into above. However, I wondered how coding a game with ChatGPT would work for a less-popular engine like Godot. I'm not exactly an expert in Godot, having used it far less than I did Unity. I decided to ask ChatGPT a few questions:
 
 ![GPT gives me a piece of code that is outdated because of GPT's limitations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gpt-s-godot-problem-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 GPT's Godot Problem
 
  For those who use Godot regularly, the issue is immediately obvious. ChatGPT stopped learning in 2021 or thereabouts (at least for the free version). The script GPT gave me was based on its knowledge of Godot 2.x, which is a heavily outdated version of the current 4.x version. The glaring problem is the use of KinematicBody2D, which was replaced by CharacterBody2D in later iterations of the language.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Much Skill Do You Need to Code a Game With ChatGPT?
 
@@ -124,13 +124,13 @@ GPT's Godot Problem
 
  In simpler language, you know what the game you're making should look like and how things in it should behave. You can explain it to ChatGPT what you want, and it will give you something close to (but not quite) what your game needs. To make it behave the way you want it to, you'll have to fiddle around with the code that GPT gives you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Should You Code a Game With ChatGPT?
 
 ![Screenshot of My Game's Title Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-1-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Game development is a complex field, but thanks to engines like those mentioned above, it is much more approachable for the general public. A skilled developer could spend a few hours putting together a game that works and has all the things they want in it.
 
@@ -162,21 +162,24 @@ GPT's Godot Problem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-become-an-instagram-reel-guru-with-these-proven-strategies-for-2024/"><u>[Updated] Become an Instagram Reel Guru with These Proven Strategies for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-wirecast-techniques-for-effective-youtube-streams/"><u>[Updated] WireCast Techniques for Effective Youtube Streams</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1725287521286-isomp4/"><u>「最新アップデート: ISOフォーマットをMP4に、視聴者に鮮明な画像品質で提供する専用ツールと手法」</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-infinix-note-30-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Infinix Note 30 Pro Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cannot-play-mkv-files-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Cannot play MKV files on Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-silent-no-auto-start-of-steam/"><u>Keep Silent: No Auto-Start of Steam</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-playtime-effective-strategies-to-upgrade-your-xboxs-performance/"><u>Maximizing Playtime: Effective Strategies to Upgrade Your Xbox's Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-value-5-strategies-for-unlocking-the-full-potential-of-owning-a-peacock/"><u>Maximizing Value: 5 Strategies for Unlocking the Full Potential of Owning a Peacock</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-safely-around-second-hand-nintendo-switch-account-listings-online/"><u>Navigating Safely Around Second-Hand Nintendo Switch Account Listings Online</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-era-of-inflated-gaming-ratings-a-guide-to-discovering-quality-titles/"><u>Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/new-android-tv-14-unveils-enhanced-picture-in-picture-feature/"><u>New Android TV 14 Unveils Enhanced Picture-in-Picture Feature</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcp-mastery-top-5-editing-tips-and-tricks-from-the-experts/"><u>New In 2024, FCP Mastery Top 5 Editing Tips and Tricks From the Experts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/professional-evaluation-the-ultimate-gamers-choice-for-sony-pulse-wireless-earbuds-and-real-time-sound/"><u>Professional Evaluation: The Ultimate Gamers' Choice for Sony Pulse Wireless Earbuds and Real-Time Sound</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-streaming-olympic-aquatic-competitions/"><u>Step-by-Step Guide: Streaming Olympic Aquatic Competitions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-isnt-the-look-around-feature-functioning-on-my-iphone/"><u>Why Isn't the Look Around Feature Functioning on My iPhone?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-trending-hashtags-on-instagram/"><u>[New] In 2024, The Ultimate Guide to Trending Hashtags on Instagram</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-look-at-solid-studiofx-large-light-setup/"><u>A Look at Solid StudioFX Large Light Setup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-allure-of-traditional-design-with-cutting-edge-technology-an-in-depth-look-at-withings-move-watches/"><u>Discover the Allure of Traditional Design with Cutting-Edge Technology: An In-Depth Look at Withings Move Watches</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortlessly-update-to-the-latest-free-windows-8-amd-radeon-graphic-card-drivers-today/"><u>Effortlessly Update to the Latest Free Windows 8 AMD Radeon Graphic Card Drivers Today!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-cinematic-experience-camera-upgrade-tips/"><u>Enhance Your Cinematic Experience - Camera Upgrade Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-review-syma-s111g-remote-control-helicopter-for-budget-enthusiasts/"><u>Exclusive Review: Syma S111G Remote Control Helicopter for Budget Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-choice-elite-17-inch-desktop-replacements/"><u>Expert's Choice: Elite 17-Inch Desktop Replacements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/flexible-illumination-with-spk10-037-studios-new-favourite/"><u>Flexible Illumination with SPK10-037: Studio's New Favourite</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-increase-your-selection-of-games-on-the-nintendo-entertainment-system-nes-mini-console/"><u>How to Increase Your Selection of Games on the Nintendo Entertainment System (NES) Mini Console</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12r-phone-without-google-account-by-drfone-android/"><u>How to Unlock OnePlus 12R Phone without Google Account?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-enrich-virtual-engagements-with-zooms-filter-innovation/"><u>In 2024, Enrich Virtual Engagements with Zoom's Filter Innovation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-huawei-nova-y71-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Huawei Nova Y71</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877178-9781609254278-the-book-of-black-magic/"><u>The Book of Black Magic | Free Book</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-perfect-tweet-mastering-the-art-of-video-upload/"><u>The Perfect Tweet Mastering the Art of Video Upload</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-remastered-tale-of-demons-souls-breathtaking-art-with-classic-gaming-magic/"><u>The Remastered Tale of Demons' Souls: Breathtaking Art with Classic Gaming Magic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-amazon-lunas-seamless-cloud-gaming-performance/"><u>The Ultimate Guide to Amazon Luna's Seamless Cloud Gaming Performance</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/troubleshooting-guide-resolving-issues-with-your-current-internet-connectivity-tips-from-yl-computing-and-yl-software/"><u>Troubleshooting Guide: Resolving Issues with Your Current Internet Connectivity - Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/vizio-smartcast-vs-firestick-a-comparison/"><u>Vizio SmartCast vs FireStick: A Comparison</u></a></li>
 </ul></div>
 

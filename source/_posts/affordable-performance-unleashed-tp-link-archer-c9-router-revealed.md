@@ -1,7 +1,7 @@
 ---
 title: "Affordable Performance Unleashed: TP-Link Archer C9 Router Revealed!"
-date: 2024-09-17T09:31:33.093Z
-updated: 2024-09-19T16:28:03.195Z
+date: 2024-12-22T22:07:18.663Z
+updated: 2024-12-25T01:58:41.793Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Performance Unleashed: TP-Link Archer C9 Router Revealed!"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 ## Affordable and Efficient: The Mohu Leaf 30 Antenna'4 High Performance Proven in Our Review
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mohu Leaf 30
 
@@ -37,9 +41,17 @@ Lifewire / Jonno Hill
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Mohu Leaf 30
 
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/xXK31GRLX2h6w0vFc9K2Ps_ufqk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -64,6 +76,10 @@ Lifewire / Jonno Hill
 
  Mohu might not be breaking new ground with this antenna, but it’s more than sufficient for most city dwellers and perhaps even a few buyers in the suburbs with a relatively unobstructed path to the broadcast source.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Basic but effective**
 
  You can find a dozen identical versions of this unpowered antenna by doing a quick search for TV antennas online, and not for no reason. It’s a very uncomplicated design, doesn’t take up too much space, and doesn’t have a lot of points of failure. The 9x11.5-inch rectangular antenna surface is thin, pliable, and features two small punch-holes towards the top which can be used to pin the antenna to an appropriate surface.
@@ -75,10 +91,7 @@ Lifewire / Jonno Hill
  Setup of the Mohu Leaf 30 TV Antenna is as easy as it gets with antennas. Since there is no external power to connect, you only need to worry about connecting the included coaxial cable to the device and to your TV and using the included pins or adhesive tabs to affix the device to a surface. Ease of setup is one of the benefits of a non-amplified antenna such as the Mohu Leaf.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Acceptable but not incredible**
@@ -86,19 +99,6 @@ Lifewire / Jonno Hill
  The Mohu Leaf 30 TV Antenna wasn’t the highest performing antenna that I tested, even among similar unpowered antennas. In my channel acquisition test, the Leaf picked up 56 channels on average across all the iterations performed.
 
  My apartment is located within city limits and doesn’t provide too much of a challenge for antennas, but I was able to reliably get as many as 76 channels from other devices. Nonetheless, the Leaf still provided a clear picture of all the major network stations without any issue. The only channels that I couldn’t pick up with the Leaf were pretty obscure, such as an audio-only station from a Korean Christian church. I think I’ll be okay without that one.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Range: Fairly limited**
 
@@ -144,5 +144,23 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-crafting-professional-level-sessions-utilizing-mask-and-filter-techniques/"><u>[New] 2024 Approved Crafting Professional-Level Sessions Utilizing Mask & Filter Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elevate-your-video-conferencing-mastering-zoom-filters/"><u>[New] 2024 Approved Elevate Your Video Conferencing Mastering Zoom Filters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-marketers-insight-sifting-through-false-social-endorsements/"><u>[New] Marketer’s Insight Sifting Through False Social Endorsements</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-symphony-of-social-sharing-adding-audio-to-instagram-for-2024/"><u>[New] The Symphony of Social Sharing Adding Audio to Instagram for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-direct-capture-tool-for-chrome-systems/"><u>[Updated] 2024 Approved Direct Capture Tool for Chrome Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-goovision-9000-ultimate-os-snapshotter/"><u>[Updated] 2024 Approved GooVision 9000 Ultimate OS Snapshotter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effortless-nourishment-with-arfs-autofeeder-the-smart-solution-for-your-furry-friend/"><u>Effortless Nourishment with Arf's AutoFeeder - The Smart Solution for Your Furry Friend</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-console-battles-on-the-asus-vg245h-a-top-tier-monitor-engineered-for-gamers/"><u>Elevate Console Battles on the Asus VG245H: A Top-Tier Monitor Engineered for Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/empire-building-in-offworld-trading-game-a-comprehensive-review-of-strategies-and-success-stories/"><u>Empire Building in Offworld Trading Game: A Comprehensive Review of Strategies and Success Stories</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-your-wireless-network-with-netgear-nighthawk-x4-mesh-extender-an-in-depth-review/"><u>Enhancing Your Wireless Network with Netgear Nighthawk X4 Mesh Extender - An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-latest-superior-smartphone-from-apple-iphone-12-unboxed/"><u>Evaluating the Latest Superior Smartphone From Apple - iPhone 12 Unboxed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-details-on-the-amazfit-helio-ring-release-schedule-and-detailed-specs-revealed/"><u>Exclusive Details on the Amazfit Helio Ring: Release Schedule & Detailed Specs Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-lightweight-lenovo-thinkpad-x1-nano-your-definitive-guide/"><u>Expert Insights on the Lightweight Lenovo ThinkPad X1 Nano - Your Definitive Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-comprehensible-guide-to-leveraging-videos-for-social-media-success/"><u>In 2024, The Comprehensible Guide to Leveraging Videos for Social Media Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/top-notch-hacks-navigating-instagrams-forgotten-features-for-2024/"><u>Top-Notch Hacks Navigating Instagram's Forgotten Features for 2024</u></a></li>
+</ul></div>
 

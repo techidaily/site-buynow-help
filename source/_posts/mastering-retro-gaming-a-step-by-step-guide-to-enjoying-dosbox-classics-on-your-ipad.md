@@ -1,7 +1,7 @@
 ---
 title: "Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad"
-date: 2024-12-09T17:34:48.745Z
-updated: 2024-12-15T19:30:43.888Z
+date: 2024-12-18T18:28:08.975Z
+updated: 2024-12-25T09:43:20.905Z
 tags:
   - games
   - tv
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
  Apple has been lifting restrictions on game emulation on iOS and iPadOS for months now, and finally it's possible to get DOS emulation on your mobile Apple devices without jailbreaking. One of the first DOS emulation tools on the App Store is iDOS 3, and here's how you can get a game running in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You'll Need iDOS 3: What Is It?
 
  The [iDOS 3 app](https://apps.apple.com/za/app/idos-3/id1580768213) is based on the free and Open Source DOS emulator [DOSBox](https://www.dosbox.com/). The app has a beautiful retro front-end, is easy to use, and only cost me around a dollar. So the first thing you need to do in this process is buy the app, and install it.
@@ -38,19 +42,11 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
  As to how you can get the files on your iPad, the options are endless. You can AirDrop it from your Mac, transfer the files using a USB flash drive, email them to yourself, use iCloud. It doesn't matter where you choose to save the game files, as long as you remember it for later.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Running Your Game
 
  Now that your game folder is saved on your iPad, we can move on to running the game. There are two modes for iDOS 3: portrait and landscape. When holding your iPad in portrait mode, you'll see a virtual keybaord and a faux period-appropriate computer.
 
 ![iDOS 3 in portrait mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/idos-3-in-portrait-mode.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some DOS games need to be installed off a CD, but in this case we just want to mount the folder as a drive. So tap on the floppy drive and select "Folder."
 
@@ -59,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  Now navigate to the folder where you saved your DOS game files, and select "Open."
 
 ![The iDOS 3 file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-file-browser.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll see a message that the game folder has been mounted as a virtual drive in iDOS. So next we want to change to that drive. Type "D:" using the on-screen keyboard and then tap on the Enter button.
 
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![The iDOS 3 interface with the name of the executable file ready to run](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-interface-with-the-name-of-the-executable-file-ready-to-run.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now the game is running, but how to control it?
@@ -84,11 +84,11 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 quick bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can use the little pin icon to make it stay, but you can just tap the top edge of the screen to make it appear. Here you can tap on buttons to see a virtual mouse, keyboard, or gamepad appear on-screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Configuring Peripherals
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![The iDOS 3 quick bar with blutooth icon highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar-with-blutooth-icon-highlighted.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hold the button on the controller you want to rebind, and then press the corresponding key on the virtual keyboard.
@@ -110,13 +110,13 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 settings button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-settings-button.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then under "optional inputs" enable the gamepad option. Just remember that you'll have to set up the joystick or gamepad in the game itself, since back then games calibrated these peripherals on an individual basis.
 
 ![The iDOS 3 optional input settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-optional-input-settings.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Personally, I wouldn't bother with this most of the time, since there was rarely any sort of analog joystick control in old DOS games, but it's great to have the option nonetheless.
 
@@ -137,18 +137,20 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-a-beginners-guide-choosing-your-first-film-camera/"><u>[New] 2024 Approved A Beginner's Guide Choosing Your First Film Camera</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-find-the-top-10-affordable-online-image-format-switchers/"><u>[New] In 2024, Find the Top 10 Affordable Online Image Format Switchers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-pursuit-of-ultra-clarity-the-4k-z32x-reviewed/"><u>[Updated] In 2024, The Pursuit of Ultra Clarity The 4K Z32X Reviewed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-x-flip-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo X Flip Activity | Dr.fone</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1728487956194-hdd/"><u>理解しやすい説明： HDDが未知か初期設定である場合、その原因と回復手順</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-flexispot-theodore-standing-desk-a-sleek-choice-for-contemporary-offices/"><u>Comprehensive Review of the Flexispot Theodore Standing Desk - A Sleek Choice for Contemporary Offices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-gaming-experience-with-samsungs-q60r-smart-qled-4k-television-a-detailed-overview/"><u>Discover the Ultimate Gaming Experience with Samsung's Q60R Smart QLED 4K Television: A Detailed Overview</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/economical-ear-clips-that-deliver-senso-reviewed/"><u>Economical Ear Clips That Deliver: Senso Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-sharing-the-joy-of-gaming-with-steam-gift-cards/"><u>Expert Advice for Sharing the Joy of Gaming with Steam Gift Cards</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-mobile-device-assessment-techniques-insights-phone-review-process/"><u>Exploring Mobile Device Assessment Techniques: Insights Phone Review Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-lost-apps-reactivating-the-microsoft-store-windows-11/"><u>Revive Lost Apps: Reactivating the Microsoft Store (Windows 11)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-a25-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy A25 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-toughness-a-thorough-assessment-of-the-top-race-remote-control-rock-climber/"><u>Unveiling Toughness: A Thorough Assessment of the Top Race Remote Control Rock Climber</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-reverse-playback-of-videos-on-android-devices/"><u>[New] Master Reverse Playback of Videos on Android Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-rapid-learning-path-for-keying-mastery-for-2024/"><u>[Updated] Rapid Learning Path for Keying Mastery for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-beginners-guide-to-preparing-images-for-print-using-photoshop/"><u>A Beginner's Guide to Preparing Images for Print Using Photoshop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/audibles-value-proposition-4-compelling-reasons-for-subscribers/"><u>Audible's Value Proposition: 4 Compelling Reasons for Subscribers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hearing-the-sounds-of-success-with-audible-memberships/"><u>Hearing the Sounds of Success with Audible Memberships</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-choosing-exceptional-cloud-services/"><u>In 2024, Best Practices Choosing Exceptional Cloud Services</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-zero-5g-2023-turbo-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Zero 5G 2023 Turbo Lock Screen Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-gaming-experience-with-dells-alienware-aurora-r9-expert-review/"><u>Innovative Gaming Experience with Dell's Alienware Aurora R9 - Expert Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kindle-unlimited-a-leap-forward-in-digital-book-accessibility-discover-its-four-major-selling-points/"><u>Kindle Unlimited: A Leap Forward in Digital Book Accessibility - Discover Its Four Major Selling Points</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-action-for-spotify-error-4-windows-11-fixes/"><u>Swift Action for Spotify Error 4: Windows 11 Fixes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-guide-to-choosing-between-a-kindle-and-fire-tablet/"><u>The Essential Guide to Choosing Between a Kindle and Fire Tablet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssentials-of-earning-on-youtube-latest-changes/"><u>The Essentials of Earning on YouTube Latest Changes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-revolutionary-google-pixel-6-smartphone-a-focused-look-at-its-camera-features/"><u>The Revolutionary Google Pixel 6 Smartphone - A Focused Look at Its Camera Features</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-nvidia-quadro-rtx-4000-gpu-with-newest-drivers-step-by-step-tutorial/"><u>Update Your NVIDIA Quadro RTX 4000 GPU with Newest Drivers – Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

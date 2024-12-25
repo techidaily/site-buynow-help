@@ -1,7 +1,7 @@
 ---
 title: "OnePlus Nord N100 In-Depth Review: Exceptional Value at a Budget-Friendly Price"
-date: 2024-08-09T00:39:06.011Z
-updated: 2024-08-10T00:39:06.011Z
+date: 2024-12-19T07:37:33.736Z
+updated: 2024-12-25T07:09:16.608Z
 categories:
   - BestProducts
 description: "This Article Describes OnePlus Nord N100 In-Depth Review: Exceptional Value at a Budget-Friendly Price"
@@ -13,16 +13,13 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Mohu Leaf 30
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/AyUAqIhKcHESYKlEswC1pUtS1Po=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -45,14 +42,16 @@ Lifewire / Jonno Hill
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mohu Leaf 30
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/xXK31GRLX2h6w0vFc9K2Ps_ufqk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -78,8 +77,9 @@ Lifewire / Jonno Hill
  Mohu might not be breaking new ground with this antenna, but it’s more than sufficient for most city dwellers and perhaps even a few buyers in the suburbs with a relatively unobstructed path to the broadcast source.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: Basic but effective**
 
  You can find a dozen identical versions of this unpowered antenna by doing a quick search for TV antennas online, and not for no reason. It’s a very uncomplicated design, doesn’t take up too much space, and doesn’t have a lot of points of failure. The 9x11.5-inch rectangular antenna surface is thin, pliable, and features two small punch-holes towards the top which can be used to pin the antenna to an appropriate surface.
@@ -90,9 +90,6 @@ Lifewire / Jonno Hill
 
  Setup of the Mohu Leaf 30 TV Antenna is as easy as it gets with antennas. Since there is no external power to connect, you only need to worry about connecting the included coaxial cable to the device and to your TV and using the included pins or adhesive tabs to affix the device to a surface. Ease of setup is one of the benefits of a non-amplified antenna such as the Mohu Leaf.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Performance: Acceptable but not incredible**
 
  The Mohu Leaf 30 TV Antenna wasn’t the highest performing antenna that I tested, even among similar unpowered antennas. In my channel acquisition test, the Leaf picked up 56 channels on average across all the iterations performed.
@@ -108,6 +105,10 @@ Lifewire / Jonno Hill
  The Mohu Leaf 30 TV Antenna has a 90-day rolling average price of $29 on Amazon, which puts it on the more affordable end of the spectrum. The price definitely feels appropriate for the performance and feature set, but it’s not an all-out bargain.
 
  Buyers probably wouldn’t be wise to spend more money unless they live a bit further from their signal source and have had trouble with similar antennas in the past. I think that for most people living in cities, the Mohu Leaf 30 TV Antenna should be more than enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Mohu Leaf 30 TV Antenna vs Mohu Blade TV Antenna**
 
@@ -130,14 +131,11 @@ Lifewire / Jonno Hill
 * Range  30 miles
 * Warranty  One year
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,3 +143,21 @@ Lifewire / Jonno Hill
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-by-stanford-research-the-overlooked-issue-of-language-limitation/"><u>AI Chatbot Bias Revealed by Stanford Research: The Overlooked Issue of Language Limitation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-viber-out-calling-app-performance-and-reviews/"><u>Expert Insights on Viber Out Calling App Performance & Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-compact-prowess-of-apples-ipad-mini-model-5/"><u>Expert Review on the Compact Prowess of Apple's iPad Mini Model 5</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-value-of-ambients-ws-290n-ambiant-weather-station-a-budget-friendly-review/"><u>Exploring the Value of Ambient's WS-290n Ambiant Weather Station: A Budget Friendly Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-insightful-reviews-on-the-nokia-71-premium-screen-camera-quality-and-cost-effectiveness/"><u>Get Insightful Reviews on the Nokia 7.1 - Premium Screen, Camera Quality and Cost Effectiveness</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-note-30-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Note 30 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-genius-widecam-f100-understanding-its-blurry-images-and-reverberant-audio/"><u>In-Depth Analysis of Genius WideCam F100: Understanding Its Blurry Images & Reverberant Audio</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-amazon-fire-hd-10-for-children-unparalleled-parental-control-capabilities-explored/"><u>In-Depth Look at the Amazon Fire HD 10 for Children: Unparalleled Parental Control Capabilities Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-multi-screen-setup-how-to-address-monitor-lag-when-gaming-on-your-windows-11-system/"><u>Mastering the Multi-Screen Setup: How to Address Monitor Lag When Gaming on Your Windows 11 System</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/optimal-git-id-tips-for-seamless-setup-of-active-kodi-extensions-and-depots-on-github/"><u>Optimal Git ID Tips for Seamless Setup of Active Kodi Extensions & Depots on GitHub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/section-2a-explanation-of-tipping-bucket-scales/"><u>Section 2A: Explanation of Tipping-Bucket Scales</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-tackling-svchostexes-heavy-cpu-load-on-windows-11-systems/"><u>Step-by-Step Solutions for Tackling svchost.exe's Heavy CPU Load on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-ineterr-resource-not-found-challenges-in-it-systems/"><u>Understanding and Fixing [InetErr] Resource Not Found Challenges in IT Systems</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2024-12-11T16:49:19.213Z
-updated: 2024-12-16T07:18:50.335Z
+date: 2024-12-20T06:19:38.315Z
+updated: 2024-12-25T00:16:03.992Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Playing cross-platform means less wait time in matchmaking lobbies, making it easier to find a game.
@@ -24,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * To avoid issues with cross-play, many games allow you to turn it off in the settings if needed.
 
  Remember when cross-platform multiplayer gaming was something we all wanted? Now that we've got it, I don't think it's panned out exactly how I expected. Here's why I'm so far unimpressed by cross-platform gaming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Cross-Platform Multiplayer Offers Gamers
 
@@ -37,10 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![mouse keyboard controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/mouse-keyboard-controller.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  As a PC player, I enjoy playing against other PC players because I know we all have the same hardware. Another upside of cross-platform play is allowing us PC players to hook up a controller and play alongside those console players. However, there's something amiss here.
@@ -53,6 +49,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
 ![An Xbox wireless controller on top of a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_2395089811-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [FabrikaSimf/Shutterstock.com](https://www.shutterstock.com/image-photo/headphones-joystick-computer-keyboard-on-black-2395089811)
 
  The [controller vs mouse-and-keyboard debate](https://screen-sharing-recording.techidaily.com/1715859805411-2024-approved-seeking-the-best-ps2-games-try-these-5-android-emulators/) will probably never be settled in our lifetimes. A [study done in 2011](https://dl.acm.org/doi/10.1145/2181037.2181052) shows that players who switch platforms tend to feel a little out-to-sea when it comes to their control scheme, which explains why players who are used to keyboard-and-mouse may feel like controllers just don't feel right.
@@ -60,6 +60,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  The final debate comes down to [whether one wants to sacrifice precision or comfort](https://www.makeuseof.com/controller-vs-keyboard-mouse-which-one-better-for-pc-gaming/). There's no major difference between the two control schemes, although in a head-to-head competition, the user's experience determines who wins. Unfortunately, this isn't something some gamers consider.
 
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Problems That Impact Competitive Play
 
@@ -69,13 +73,13 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
 ![A Razer Firefly V2 Pro gaming mouse on a light-up mouse pad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/gaming-mouse-on-therazer-firefly-v2-pro_53678776130_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -85,16 +89,12 @@ Jerome Thomas / How-To Geek
 
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Few Other Considerations
 
 ![Several electronic devices sharing the same screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/cross-platform-computer-smartphone-gaming.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-illustration-on-theme-cross-platform-1335072044)_
@@ -126,22 +126,19 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-facebook-lives-demystified-the-best-ways-to-record-a-stream/"><u>[New] In 2024, Facebook Lives Demystified The Best Ways to Record a Stream</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>[Updated] 2024 Approved Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-walkthrough-creating-your-first-meta-headset-account-oculus-quest/"><u>Beginner's Walkthrough: Creating Your First Meta Headset Account (Oculus Quest)</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-user-sign-in-after-windows-authentication-issues/"><u>Enabling User Sign-In After Windows Authentication Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-correct-c1900101-error-in-win10/"><u>How to Correct C1900101 Error in Win10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-galaxy-a05-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Galaxy A05 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/new-fallout-fans-embrace-your-inner-survivor-time-to-delve-into-the-wasteland-saga/"><u>New 'Fallout' Fans, Embrace Your Inner Survivor: Time to Delve Into the Wasteland Saga!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/new-in-kodi-unveiling-version-205-with-exciting-enhancements/"><u>New in Kodi: Unveiling Version 20.5 with Exciting Enhancements!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-z-flip-5-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy Z Flip 5 Phone Now with These Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reliving-pixelated-nostalgia-lessons-and-fun-from-an-iphone-powered-emulation-adventure/"><u>Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reviving-the-random-joy-of-tv-a-guide-to-replicating-netflixs-missing-shuffle-feature/"><u>Reviving the Random Joy of TV: A Guide to Replicating Netflix's Missing Shuffle Feature</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/section-2c-increasingly-complex-questions-with-solutions/"><u>Section 2C: Increasingly Complex Questions with Solutions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/selecting-the-perfect-day-for-podcast-drops-for-2024/"><u>Selecting the Perfect Day for Podcast Drops for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-strategies-managing-and-reducing-your-monthly-streaming-service-costs/"><u>Smart Strategies: Managing & Reducing Your Monthly Streaming Service Costs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/spotifys-jam-collaboration-function-a-rarely-explored-opportunity-for-music-makers/"><u>Spotify's Jam Collaboration Function: A Rarely Explored Opportunity for Music Makers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/stream-live-nbawnba-matches-all-you-need-to-know-about-upcoming-platforms/"><u>Stream Live NBA/WNBA Matches: All You Need To Know About Upcoming Platforms</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-12-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 12 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-creator-studio-unlocking-the-power-of-your-channel/"><u>[New] 2024 Approved YouTube Creator Studio Unlocking the Power of Your Channel</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fresh-filmmakers-footnotes-unveiling-video-quality-terms/"><u>[New] Fresh Filmmaker's Footnotes Unveiling Video Quality Terms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-professionals-picks-windows-11-video-creation-apps/"><u>[Updated] Professionals' Picks Windows 11 Video Creation Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-journey-through-windows-11s-latest-software/"><u>2024 Approved Journey Through Windows 11'S Latest Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bored-tunneling/"><u>Bored Tunneling</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deciphering-the-math-behind-the-oneplus-9-a-review-that-counts-every-point/"><u>Deciphering the Math Behind the OnePlus 9: A Review That Counts Every Point</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-fix-for-digital-tv-glitches-how-to-optimize-reception-using-an-indoor-antenna/"><u>DIY Fix for Digital TV Glitches: How to Optimize Reception Using an Indoor Antenna</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/driven-by-sound-an-economical-headset-revealed-for-long-distance-drives/"><u>Driven by Sound: An Economical Headset Revealed for Long Distance Drives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-effortless-capture-iphones-dual-task-technique/"><u>In 2024, Effortless Capture IPhone's Dual-Task Technique</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-amazon-luna-a-seamless-journey-into-next-gen-streaming-services/"><u>In-Depth Analysis of Amazon Luna: A Seamless Journey Into Next-Gen Streaming Services</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovative-screen-capture-tools-review-top-10-free-selections-for-2024/"><u>Innovative Screen Capture Tools Review Top 10 Free Selections for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y78t-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y78t Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-oneplus-sales-on-black-friday-exclusive-offers-and-discounts/"><u>Top OnePlus Sales on Black Friday: Exclusive Offers & Discounts!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-the-look-of-your-macbook-discover-top-bag-options-backed/"><u>Transform the Look of Your MacBook: Discover Top Bag Options Backed</u></a></li>
 </ul></div>
 

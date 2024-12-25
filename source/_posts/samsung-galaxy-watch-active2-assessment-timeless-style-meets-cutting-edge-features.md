@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy Watch Active2 Assessment: Timeless Style Meets Cutting-Edge Features"
-date: 2024-09-13T23:22:46.044Z
-updated: 2024-09-19T18:20:22.701Z
+date: 2024-12-18T21:10:12.703Z
+updated: 2024-12-24T22:02:36.819Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung Galaxy Watch Active2 Assessment: Timeless Style Meets Cutting-Edge Features"
@@ -81,6 +81,10 @@ Lifewire / Scott Gercken
 
  Lifewire / Scott Gercken
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Some baffling software issues**
 
  The setup process for the Pioneer BDR-XD05B is both really easy and frustrating. The easy part is that we only needed to plug the USB cord into the right slots to get it running on the Macbook we used to test it. The frustrating part is that the included software only works on Windows computers. A major producer like Pioneer only including PC software is very frustrating.
@@ -93,13 +97,6 @@ Lifewire / Scott Gercken
 
  Lifewire / Scott Gercken
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Good for an inexpensive Blu-ray burner**
 
  We did two tests to see check the burner’s performance. First, we ripped a 37GB Blu-ray copy of_Die Hard_ to check the burner’s read speed for a commercial Blu-ray. Using the program MakeMKV, it took 70 minutes to make a copy.
@@ -108,6 +105,10 @@ Lifewire / Scott Gercken
 
  Noise was never a problem with this drive. Auto Quiet mode adjusts media discs to a slower speed so it’s quieter, and with both data and movie discs we didn’t notice any noise loud enough to be a bother.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Image Quality: Don’t watch Blu-rays on this drive**
 
  We tested watching Blu-rays on the Pioneer BDR-XD05B on a Macbook Pro(it’s not designed to work with a TV). The image quality was ok, but it wasn’t close to what you’d get on a[HD TV](https://www.lifewire.com/best-tvs-to-buy-4061107) with a dedicated[Blu-ray player](https://www.lifewire.com/best-blu-ray-players-1846400) .
@@ -115,10 +116,7 @@ Lifewire / Scott Gercken
  We also connected the computer to an HD TV through the HDMI drive and didn’t get the 1080p we expected. Instead, the resolution was stuck at 726p and the image quality was terrible, worse than a DVD. The Blu-ray image was extremely noisy and filled with huge pixels. If you want to watch movies, don’t use this drive, except maybe to make yourself more appreciative of your Blu-ray player.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Sound Quality: Seriously, don’t watch Blu-rays on this drive**
@@ -136,10 +134,7 @@ Lifewire / Scott Gercken
  With an MSRP of $100, The Pioneer BDR-XD05B is one of the least expensive Blu-ray burners on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Competition: Performs well in this price range**
@@ -159,6 +154,10 @@ Lifewire / Scott Gercken
 **An inexpensive option.**
 
  On one hand, the Pioneer BDR-XD05B is a light, portable Blu-ray burner with decent performance at a low cost. On the other hand, it also feels flimsy and has a smudge-magnet finish. It’s a solid performer in its price range, but there are other portable Blu-ray burners without these faults (albeit generally for more cash).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -189,5 +188,24 @@ Lifewire / Scott Gercken
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-help.techidaily.com/island-escape-with-yoku-an-insight-into-grand-adventures-and-unexpected-turns/"><u>'Island Escape with Yoku': An Insight Into Grand Adventures and Unexpected Turns</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlock-creative-potential-with-these-top-7-meme-creation-techniques/"><u>[New] 2024 Approved Unlock Creative Potential with These Top 7 Meme-Creation Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-prime-directors-cut-trailers/"><u>[New] Prime Director's Cut Trailers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-decoding-youtube-cpm-for-content-creators-success/"><u>[Updated] 2024 Approved Decoding YouTube CPM for Content Creators' Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-nokia-g310-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Nokia G310</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-installation-glitches-for-origin-platform-gaming-titles/"><u>Guide to Fixing Installation Glitches for Origin Platform Gaming Titles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-12plus-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme 12+ 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-apples-iphone-12-pro-max-when-size-matters/"><u>In-Depth Analysis of Apple's iPhone 12 Pro Max: When Size Matters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-mobvoi-ticwatch-e2-worth-it-uncovering-its-affordable-shortcomings/"><u>Is the Mobvoi TicWatch E2 Worth It? Uncovering Its Affordable Shortcomings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-documentation-and-photography-flatbed-scanners/"><u>Leading Documentation and Photography Flatbed Scanners</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lg-gram-17-review-a-featherweight-laptop-offering-impressive-performance/"><u>LG Gram 17 Review: A Featherweight Laptop Offering Impressive Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mars-new-city-builders-unleash-windy-havoc-for-entertaining-escapades/"><u>Mars' New City Builders Unleash Windy Havoc for Entertaining Escapades</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-arlo-security-suite-a-practical-installation-walkthrough/"><u>Navigating the Arlo Security Suite: A Practical Installation Walkthrough</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/powershot-g7x-mark-ii-the-compact-leader-in-photography/"><u>PowerShot G7X Mark II – The Compact Leader in Photography</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-disconnected-scanner-issue-in-windows-10/"><u>Resolving Disconnected Scanner Issue in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-call-of-duty-wwii-display-problems-in-windows-a-complete-fix-guide/"><u>Troubleshooting Call of Duty: WWII Display Problems in Windows - A Complete Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tutorial-repairing-the-unresponsive-mic-feature-in-your-turtle-beach-elite-atlas-headset/"><u>Tutorial: Repairing the Unresponsive Mic Feature in Your Turtle Beach Elite Atlas Headset</u></a></li>
+</ul></div>
 

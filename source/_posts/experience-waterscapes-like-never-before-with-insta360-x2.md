@@ -1,7 +1,7 @@
 ---
 title: Experience Waterscapes Like Never Before with Insta360 X2
-date: 2024-08-09T00:39:05.823Z
-updated: 2024-08-10T00:39:05.823Z
+date: 2024-12-23T02:55:45.853Z
+updated: 2024-12-25T05:22:03.403Z
 categories:
   - BestProducts
 description: This Article Describes Experience Waterscapes Like Never Before with Insta360 X2
@@ -14,14 +14,16 @@ thumbnail: https://www.lifewire.com/thmb/P-PgfeAH7qqjEvz_aQFGb1PZ8lY=/540x405/fi
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/5SQBxSHXey906sYtaz8fIiCXm7k=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -46,9 +48,6 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
@@ -72,9 +71,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -95,9 +91,6 @@ Lifewire / Erika Rawes
 
  On the bright side, the C80 has beamforming, which promotes a more concentrated signal and a longer range. It has 3 x 3 MU-MIMO technology, which means it can transmit and receive three data streams simultaneously. This helps the router provide a faster signal when you’re watching shows, gaming, or using a 3 x 3 capable computer. It has smart connect, which makes it possible for your router to switch devices between bands, and airtime fairness, which helps reduce lag caused by older or slower devices by distributing airtime more equally. This way, a slow device is less likely to bog down the network.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/tXeiVJNqjtwMg97as87xxtsMwhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_04-375b5f92ce9d44f4af109c8f6bfada16.jpg)
 
  Lifewire / Erika Rawes
@@ -113,8 +106,9 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Range: Even better than advertised**
 
  TP-Link advertises the C80 as a router for three-bedroom homes. However, that estimate understates the router’s range capabilities. My home is a two-story, 3,000 square-foot residence with five-bedrooms, and I was able to maintain a stable Wi-Fi connection in every corner. Every closet, bathroom, and bedroom got a steady signal, and I experienced no dead zones whatsoever. Even in the garage, front yard, and backyard, the signal remained strong. It was only when I attempted to use multiple gaming and streaming devices at one time that I experienced any sort of lag.
@@ -130,6 +124,10 @@ Lifewire / Erika Rawes
  If you want to control more advanced features, like NAT forwarding, DHCP servers, and IPv6, you’ll need to use the web management tool. The web management tool also provides more extensive parental control features, letting you filter out content by keywords (instead of just blocking websites). The web tool has a user-friendly interface, but it’s not as convenient as using the Tether app.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -148,8 +146,9 @@ Lifewire / Erika Rawes
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
@@ -176,11 +175,31 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-prime-binge-worthy-hits-highest-tweets-and-view-counts/"><u>[New] Prime Binge-Worthy Hits Highest Tweets & View Counts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-revolutionary-flight-technology-exploring-mavic-pro/"><u>[New] Revolutionary Flight Technology – Exploring Mavic Pro</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/a-deep-dive-into-windows-11-power-management-settings-with-expert-insights-from-yl-software/"><u>A Deep Dive Into Windows 11 Power Management Settings with Expert Insights From YL Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/day-3/"><u>Day: 3</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/dual-screen-optimization-using-safaris-picture-in-picture/"><u>Dual Screen Optimization Using Safari’s Picture In Picture</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effortless-accuracy-and-enduring-connections-the-sabrent-mini-travel-wireless-mouse-experience/"><u>Effortless Accuracy & Enduring Connections: The Sabrent Mini Travel Wireless Mouse Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ergodriven-topo-mat-assessment-a-must-have-anti-fatigue-standing-pad-for-office-productivity/"><u>Ergodriven Topo Mat Assessment: A Must-Have Anti-Fatigue Standing Pad for Office Productivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-comfort-with-the-ergodriven-topo-the-anti-fatigue-mat-for-effortless-long-stands-at-your-desk/"><u>Experience Comfort with the Ergodriven Topo - The Anti-Fatigue Mat for Effortless Long Stands at Your Desk</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-assessment-the-combination-of-quality-and-efficiency-in-the-huion-inspiroy-g10t-art-pad/"><u>Expert Assessment: The Combination of Quality and Efficiency in the Huion Inspiroy G10T Art Pad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-unveiling-the-features-of-jackerys-portable-power-bar-with-ac-output/"><u>Expert Review: Unveiling the Features of Jackery's Portable Power Bar with AC Output</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-bouncie-connect-an-easy-and-economical-choice-for-gps-trackers/"><u>Exploring Bouncie Connect - An Easy & Economical Choice for GPS Trackers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fossil-sports-watches-review-achieving-luxury-at-a-cost-youll-love/"><u>Fossil Sports Watches Review: Achieving Luxury at a Cost You'll Love</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-pixel-4a-review-just-enough-smartphone-for-most/"><u>Google Pixel 4a Review: Just Enough Smartphone for Most</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-for-a-smart-4k-lens-upgrade/"><u>In 2024, The Ultimate Guide for a Smart 4K Lens Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-device-driver-43-hurdle/"><u>Resolving Device Driver #43 Hurdle</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seize-the-savings-antec-performance-series-p2nc-case-slashed-to-just-71-for-exceptional-value-and-ventilation/"><u>Seize the Savings! Antec Performance Series P2nC Case Slashed to Just $71 for Exceptional Value & Ventilation</u></a></li>
+</ul></div>
+

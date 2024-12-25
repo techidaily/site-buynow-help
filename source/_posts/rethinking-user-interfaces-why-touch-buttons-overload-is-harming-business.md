@@ -1,7 +1,7 @@
 ---
 title: "Rethinking User Interfaces: Why Touch Buttons Overload Is Harming Business"
-date: 2024-12-13T10:40:41.350Z
-updated: 2024-12-15T20:07:20.258Z
+date: 2024-12-19T02:29:15.289Z
+updated: 2024-12-25T08:40:43.458Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
 ## Rethinking User Interfaces: Why Touch Buttons Overload Is Harming Business
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Capacitive touch buttons introduce usability issues in terms of responsiveness and lack of feedback.
@@ -24,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 * Some companies abandoned touch for physical buttons due to issues with usability over a decade ago.
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Problem With Capacitive Touch Buttons
 
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
  If you’ve got wet hands, forget about it. If your hands are slightly damp, you’re rolling the dice on a 50-50 chance of success. If the button gets wet, who knows what will happen? Sometimes you don’t need moisture for these buttons to behave erratically, they just go haywire.
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
 
@@ -56,7 +52,7 @@ Tim Brookes / How-To Geek
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
@@ -67,6 +63,10 @@ Tim Brookes / How-To Geek
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  But this logic doesn’t extend to every device. Though the argument for longevity is a valid one, did we trade usability for reliability? And is that trade-off worth it?
@@ -75,6 +75,10 @@ Tim Brookes / How-To Geek
 
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Some Manufacturers Ditched Touch for a Reason
 
  Fortunately, not all manufacturers still think touch buttons are a good idea. For some, they fell out of favor several generations ago when lessons were learned about their usefulness.
@@ -82,10 +86,6 @@ Tim Brookes / How-To Geek
  The original PlayStation 4, released in early 2013 featured capacitive touch buttons for both power and disc eject. This model was plagued by touch-related issues. Speaking from experience, sometimes the console wouldn’t power up because the buttons didn’t always detect input. Sometimes the buttons would _always_ detect input, leading to a constant screeching from the console.
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -96,7 +96,7 @@ Tim Brookes / How-To Geek
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
@@ -118,18 +118,16 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-exclusive-recording-gadgets-for-windows-10-gamers/"><u>[New] Exclusive Recording Gadgets for Windows 10 Gamers</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-wondershare-photo-story-platinum-for-2024/"><u>[New] Wondershare Photo Story Platinum for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-guide-to-getting-1000-subscribers-for-your-youtube-channel/"><u>[Updated] 2024 Approved Guide to Getting 1000 Subscribers for Your YouTube Channel</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/combining-tradition-and-innovation-a-comprehensive-analysis-of-the-analog-charm-in-withings-move-smartwatches/"><u>Combining Tradition and Innovation: A Comprehensive Analysis of the Analog Charm in Withings Move Smartwatches</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-exclusive-discounts-samsung-product-bargains-for-holiday-shoppers/"><u>Discover Exclusive Discounts: Samsung Product Bargains for Holiday Shoppers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-the-magic-of-multimedia-with-the-new-201n-apple-ipad-air/"><u>Experience the Magic of Multimedia with the New 201N Apple iPad Air!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-kobo-clara-hd-a-must-have-e-reader-for-bookworms-always-on-the-move/"><u>Exploring the Kobo Clara HD - A Must-Have E-Reader for Bookworms Always on the Move</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722897685109-how-to-resolve-msodll-file-not-detected-issues-on-your-pc/"><u>How to Resolve 'mso.dll' File Not Detected Issues on Your PC</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-google-pixel-7a-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Google Pixel 7a Devices | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mystery-behind-missing-monitor-glow/"><u>Mystery Behind Missing Monitor Glow</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-overcoming-recurring-team-fortress-2-gameplay-interruptions/"><u>Resolved: Overcoming Recurring Team Fortress 2 Gameplay Interruptions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-haldll-issues-on-various-versions-of-windows-a-comprehensive-guide/"><u>Resolving Hal.dll Issues on Various Versions of Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sky-high-savings-with-the-amazonbasics-hd-antenna-review-for-economical-over-the-air-tv/"><u>Sky-High Savings with the AmazonBasics HD Antenna Review for Economical Over-the-Air TV</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-best-ways-to-captivate-an-audience-on-snapchat/"><u>[New] The Best Ways to Captivate an Audience on Snapchat</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-complete-guide-twitter-reaction-videos/"><u>[Updated] 2024 Approved Complete Guide | Twitter Reaction Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-live-streams-rokus-path-to-fb-live/"><u>[Updated] Unlocking Live Streams Roku's Path to FB LIVE</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-ax8-wi-fi-6-mesh-system-for-enhanced-connectivity/"><u>Comprehensive Analysis of the Netgear Nighthawk AX8 Wi-Fi 6 Mesh System for Enhanced Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-best-htpc-solutions-your-complete-buyers-list/"><u>Discover the Best HTPC Solutions – Your Complete Buyer’s List</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-safely-and-effectively-upgrade-to-macos-ventura/"><u>How to Safely and Effectively Upgrade to macOS Ventura</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-se-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone SE from iCloud</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-functionality-the-hp-chromebook-11-for-seamless-academic-professional-and-fun-experiences/"><u>Mastering Functionality: The HP Chromebook 11 for Seamless Academic, Professional, and Fun Experiences</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rectify-disabled-windows-menu-items/"><u>Methods to Rectify Disabled Windows Menu Items</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-versatile-hp-chromebook-11-an-excellent-choice-for-school-work-or-recreation/"><u>Review of the Versatile HP Chromebook 11 - An Excellent Choice for School, Work or Recreation</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unlocking-voice-functionality-in-tiktok-videos-for-2024/"><u>Unlocking Voice Functionality in TikTok Videos for 2024</u></a></li>
 </ul></div>
 

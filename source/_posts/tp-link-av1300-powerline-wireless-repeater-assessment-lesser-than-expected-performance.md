@@ -1,7 +1,7 @@
 ---
 title: "TP-Link AV1300 Powerline Wireless Repeater Assessment: Lesser Than Expected Performance"
-date: 2024-09-14T10:00:35.952Z
-updated: 2024-09-20T12:13:28.657Z
+date: 2024-12-19T19:40:30.564Z
+updated: 2024-12-25T09:04:19.124Z
 categories:
   - BestProducts
 description: "This Article Describes TP-Link AV1300 Powerline Wireless Repeater Assessment: Lesser Than Expected Performance"
@@ -63,6 +63,10 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -95,6 +99,10 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Range: Even better than advertised**
@@ -114,24 +122,18 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
@@ -144,10 +146,7 @@ Lifewire / Erika Rawes
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -183,5 +182,26 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/deciphering-the-mechanics-of-mouseclicklock-in-windows-systems/"><u>Deciphering the Mechanics of MouseClickLock in Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286847538-dvdiphone/"><u>DVDから直接iPhoneへ移行：無料でダウンロード可能な解説記事</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-professionals-drone-choices-top-5/"><u>Elite Professionals' Drone Choices (Top 5)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211098305-fix-your-disappearing-taskbar-and-desktop-icons-in-windows-10-now/"><u>Fix Your Disappearing Taskbar and Desktop Icons in Windows 10 Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-recognize-and-deal-with-bogus-social-media-connections/"><u>How to Recognize and Deal with Bogus Social Media Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-laptops-touchpad-scroll-capability-step-by-step-fixes/"><u>How to Restore Your Laptop's Touchpad Scroll Capability - Step by Step Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-se-2022-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone SE (2022) Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-print-device-non-response-windows-11/"><u>Overcoming Print Device Non-Response (Windows 11)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-why-isnt-your-ipad-connecting-with-the-printer/"><u>Step-by-Step Solution: Why Isn't Your iPad Connecting with the Printer?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-acer-chromebook-n-evaluating-its-worth-as-a-sizable-and-effective-chrome-os-device/"><u>The Ultimate Guide to the Acer Chromebook N: Evaluating Its Worth as a Sizable and Effective Chrome OS Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-how-the-serious-reader-can-benefit-from-kobo-formas-advanced-features/"><u>The Ultimate Review: How the Serious Reader Can Benefit From Kobo Forma's Advanced Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unobtrusive-and-cost-effective-rexing-v1-a-complete-dashcam-evaluation/"><u>The Unobtrusive and Cost-Effective Rexing V1 - A Complete DashCam Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/theodore-by-flexispot-a-chic-and-contemporary-stand-up-workspace-evaluation/"><u>Theodore by Flexispot: A Chic & Contemporary Stand-Up Workspace Evaluation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-most-advanced-voice-controlled-speakers/"><u>Ultimate Guide to the Most Advanced Voice Controlled Speakers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-high-quality-display-for-less-2020-lenovo-tab-m10-fhd-plus-reviewed/"><u>Unlocking High-Quality Display for Less: 2020 Lenovo Tab M10 FHD Plus Reviewed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-1200mbps-netgear-powerline-adapter-a-look-at-how-form-impacts-function/"><u>Unpacking the 1200Mbps Netgear Powerline Adapter: A Look at How Form Impacts Function</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-a-comprehensive-look-at-the-resilient-high-performing-unihertz-atom-xl/"><u>Unveiling the Potential: A Comprehensive Look at the Resilient, High-Performing Unihertz Atom XL</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722928904975-why-you-need-to-dive-into-yakuza-like-a-dragon-the-definitive-jrpg-experience/"><u>Why You Need to Dive Into Yakuza: Like A Dragon – The Definitive JRPG Experience</u></a></li>
+</ul></div>
 

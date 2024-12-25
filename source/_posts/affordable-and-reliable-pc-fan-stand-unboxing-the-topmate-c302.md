@@ -1,7 +1,7 @@
 ---
 title: "Affordable & Reliable PC Fan Stand: Unboxing the TopMate C302"
-date: 2024-09-17T14:20:25.791Z
-updated: 2024-09-19T16:09:22.185Z
+date: 2024-12-19T21:22:42.715Z
+updated: 2024-12-25T00:20:42.625Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable & Reliable PC Fan Stand: Unboxing the TopMate C302"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/c74a6f4cbc3131991d1108cc0cd3851c9f4624d9f
 ## Comprehensive Guide to the Dependable Kensun Portable Tire Inflator - Travel Companion
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
@@ -40,6 +44,10 @@ Lifewire / Jeffrey Daniel Chadwick
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -85,18 +93,15 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
 
  Lifewire / Jeffrey Daniel Chadwick
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Reliable, accurate, quick and loud**
 
@@ -123,10 +128,7 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
@@ -142,6 +144,10 @@ Lifewire / Jeffrey Daniel Chadwick
  **A portable tire inflator that can work well in a car or at home.**
 
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -166,5 +172,24 @@ Lifewire / Jeffrey Daniel Chadwick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/framelock-the-future-of-screen-capturing-in-2024/"><u>'Framelock' – The Future of Screen Capturing, In 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-curate-and-connect-videos-for-watchlist-for-2024/"><u>[Updated] Curate and Connect Videos for Watchlist for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/analyzing-the-goofy-journey-vhs-review-insights/"><u>Analyzing 'The Goofy Journey' VHS Review Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-hc-v770-premium-tech-inclusion/"><u>Budget HC-V770: Premium Tech Inclusion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bybs-leading-quality-e430-led-swing-arm-light-examined-an-in-depth-review/"><u>BYB's Leading Quality E430 LED Swing Arm Light Examined: An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-netgear-orbi-rbs50y-ideal-outdoor-wireless-solution/"><u>Comprehensive Analysis of the Netgear Orbi RBS50Y - Ideal Outdoor Wireless Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-is-the-microsoft-sculpt-keyboard-a-smart-cost-effective-choice/"><u>Comprehensive Review: Is the Microsoft Sculpt Keyboard a Smart, Cost-Effective Choice?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehveubell-review-the-leading-low-cost-video-doorbell-solution/"><u>Comprehveubell Review: The Leading Low-Cost Video Doorbell Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deciding-between-chromecast-or-roku-which-offers-superior-performance/"><u>Deciding Between Chromecast or Roku: Which Offers Superior Performance?</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-magic-6-lite-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor Magic 6 Lite Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-high-performance-cable-modems-for-seamless-connectivity/"><u>Discover High-Performance Cable Modems for Seamless Connectivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-high-school-apps-a-selection-of-the-best-10-tools-for-students/"><u>Essential High School Apps: A Selection of the Best 10 Tools for Students</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-performance-and-convenience-with-the-brand-new-ampace-andes-1500-battery-pack/"><u>Evaluating Performance and Convenience with the Brand-New Ampace Andes 1500 Battery Pack</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-effortlessly-detach-geforce-experience-from-your-computer-nvidia/"><u>How to Effortlessly Detach GeForce Experience From Your Computer (NVIDIA)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-building-blocks-of-graphic-animation/"><u>In 2024, The Building Blocks of Graphic Animation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unearthing-popular-user-generated-speeches/"><u>In 2024, Unearthing Popular User-Generated Speeches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-cost-free-image-refinement-toolkit-for-2024/"><u>Optimal, Cost-Free Image Refinement Toolkit for 2024</u></a></li>
+</ul></div>
 

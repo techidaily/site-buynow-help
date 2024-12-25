@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Amazon Halo: A Bold Step Forward in Personal Health Tracking"
-date: 2024-09-17T19:25:25.110Z
-updated: 2024-09-20T08:17:25.704Z
+date: 2024-12-17T17:57:38.574Z
+updated: 2024-12-25T09:25:12.840Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Amazon Halo: A Bold Step Forward in Personal Health Tracking"
@@ -71,6 +71,10 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: An accessory that blends in
 
  The Halo band doesn’t overwhelm the senses. I tested a small-sized band in silver and appreciated the streamlined bracelet style form factor. The fabric strap, which is a mix of sweat-wicking synthetics, has an athleisure look and feel: sporty but not to the degree that it screams sport watch. Rounding out the minimalist look is one sole button on the side of the sensor unit, which is flanked by an[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) indicator and one of two internal microphones. The other mic is located on the back, along with the optical sensor; it's largely undetectable if you manage a close fit.
@@ -80,6 +84,10 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/QHImxX0EsYwunnnS2aNtTX9j80s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_03-66da73beea854cd39f6c35c06975ef4e.jpg)
 
 Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comfort: Streamlined but not immune to typical fit issues
 
@@ -92,10 +100,7 @@ Lifewire / Yoona Wagener
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance: Constantly monitoring movement, not performance
@@ -106,6 +111,10 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/FjdFyV6Y4mTXNsqccZ4aEBJNpV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_05-e671ee9f77cc4cee8e2580a2dba449d5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Yoona Wagener.
 
  The Halo also offers around-the-clock heart rate monitoring and quite detailed sleep tracking analysis and explanations of data tracked. The sleep metrics surpass the high-level data I’ve experienced from devices such as the[Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832) or[Samsung Fit2](https://www.lifewire.com/samsung-galaxy-fit2-review-5094526) and helped me feel more attuned to how I was sleeping each night based on my sleep score, disturbances logged, and how long it took me to fall asleep.
@@ -115,13 +124,6 @@ Lifewire / Yoona Wagener
  All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the cloud, which Amazon assures is private and well secured.
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Software: An essential and user-friendly mobile app
 
@@ -141,11 +143,19 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Halo vs. WHOOP Strap 3
 
@@ -159,31 +169,11 @@ Lifewire / Yoona Wagener
 
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -214,5 +204,23 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-8-premier-ios-sketch-tools/"><u>[New] 8 Premier iOS Sketch Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-asmr-unraveled-enhancing-mental-wellness/"><u>[New] In 2024, ASMR Unraveled Enhancing Mental Wellness</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-android-non-root-audio-capture-4-easy-methods/"><u>[Updated] 2024 Approved Android Non-Root Audio Capture 4 Easy Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creating-costless-webinars-on-youtube-a-handbook/"><u>[Updated] 2024 Approved Creating Costless Webinars on YouTube A Handbook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-copyright-recordings-and-their-permissibility/"><u>[Updated] In 2024, YouTube Copyright Recordings and Their Permissibility</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagrams-video-upload-constraints-a-detailed-guide-for-2024/"><u>[Updated] Mastering Instagram's Video Upload Constraints A Detailed Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flacalac-3/"><u>人気の自由版 FLAC/ALAC 変換ソフトウェア 上位3つ</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-k70e-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi K70E Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-system-why-downloading-the-google-bard-app-could-lead-to-malware-infection/"><u>Protect Your System - Why Downloading the Google Bard App Could Lead to Malware Infection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revealing-the-apeman-c450-review-the-premier-choice-in-budget-dashcams/"><u>Revealing the Apeman C450 Review - The Premier Choice in Budget Dashcams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/roav-dashcam-c1-by-anker-features-performance-and-benefits-unveiled/"><u>Roav DashCam C1 by Anker: Features, Performance & Benefits Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-garmin-venu-guidebook-a-smart-and-reliable-partner-in-fitness-and-health-tracking/"><u>The Complete Garmin Venu Guidebook: A Smart and Reliable Partner in Fitness & Health Tracking</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-asus-chromebook-c202sa-robust-performance-in-a-learning-environment/"><u>The Ultimate Guide to Asus Chromebook C202SA: Robust Performance in a Learning Environment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-oculus-quest-elite-straps-enhanced-comfort-with-battery-backup-and-durable-carrying-box-review/"><u>The Ultimate Guide to Oculus Quest ˈElite Straps: Enhanced Comfort with Battery Backup and Durable Carrying Box Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-external-blu-ray-players-and-burners-for-2n24-buyers-guide/"><u>Top-Rated External Blu-Ray Players & Burners for 2N24: Buyer's Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-keyboard-wrist-supports-in-2er-2024/"><u>Top-Rated Keyboard Wrist Supports in 2Er 2024</u></a></li>
+</ul></div>
 

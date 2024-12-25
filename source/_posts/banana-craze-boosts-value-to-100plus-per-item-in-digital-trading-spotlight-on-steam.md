@@ -1,7 +1,7 @@
 ---
 title: Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
-date: 2024-12-11T21:28:01.117Z
-updated: 2024-12-16T11:46:03.781Z
+date: 2024-12-21T04:59:30.506Z
+updated: 2024-12-25T07:43:26.376Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Steam’s latest clicker game sensation has users trading virtual bananas on the Steam Community Market for hundreds of real-world dollars. Just what is going on?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  This Game Is Bananas
@@ -36,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A virtual banana from the Banana game on Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ss_641d6402187d5335b1e345498f0eff293a054f75-1920x1080.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pony / Sky / AestheticSpartan
@@ -46,7 +46,7 @@ Pony / Sky / AestheticSpartan
  These in-game items may be given out for free, but they can be traded on the Steam Community Market for real money. You can buy and sell bananas from as little as a few cents up to hundreds or thousands of dollars. The rarer the banana, the higher the value the community has assigned to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's Really Going On Here?
@@ -58,7 +58,7 @@ Pony / Sky / AestheticSpartan
 ![The free-to-play Banana game in third place on the Steam charts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-12-at-12-32-52.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s still a bit of a mystery what’s really going on here. The game makes no claims that in-game items have any inherent value so on the surface, Banana seems innocent enough. The game doesn’t appear to be doing anything in the background (so it’s not a stealthy crypto miner), and you don’t even need to leave it open as long as you open it regularly for a few clicks to collect your fruit.
@@ -88,20 +88,20 @@ Pony / Sky / AestheticSpartan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-a-step-by-step-guide-for-earning-with-youtube-shorts/"><u>[New] 2024 Approved A Step-by-Step Guide for Earning with YouTube Shorts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-advanced-techniques-developing-elapsed-time-features-in-obs-software/"><u>[New] 2024 Approved Advanced Techniques Developing Elapsed Time Features in OBS Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-immediate-window-image-on-pc-win/"><u>[New] Immediate Window Image on PC (Win)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-stylish-dell-alienware-aurora-r9-for-gamers/"><u>Comprehensive Analysis of the Stylish Dell Alienware Aurora R9 for Gamers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-clearstream-2v-hd-tv-antenna-review-stunning-outdoorindoor-functionality-in-an-eye-catching-design/"><u>Comprehensive ClearStream 2V HD TV Antenna Review: Stunning Outdoor/Indoor Functionality in an Eye-Catching Design</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-friendships-through-shared-musical-experiences-on-spotify/"><u>Enhancing Friendships Through Shared Musical Experiences on Spotify</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fusing-youtube-beats-into-film-scenes-for-2024/"><u>Fusing YouTube Beats Into Film Scenes for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-razer-mamba-up-and-running-with-this-fast-downloader/"><u>Get Your Razer Mamba Up and Running with This Fast Downloader</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v30-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V30 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/huawei-mediapad-m5-a-cutting-edge-tablet-for-exceptional-sight-and-sound-performance/"><u>Huawei MediaPad M5: A Cutting-Edge Tablet for Exceptional Sight and Sound Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inexpensive-camera-photo-quality-vs-frustrating-nikon-a10-ui/"><u>Inexpensive Camera - Photo Quality Vs. Frustrating Nikon A10 UI</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/photography-made-simple-with-the-prime-amazon-basics-tripod/"><u>Photography Made Simple with the Prime Amazon Basics Tripod</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-eloquent-engineers-guide-to-cars/"><u>The Eloquent Engineer’s Guide to Cars</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-performance-review-for-garmin-forerunner-945-the-premier-gps-smartwatch-for-fitness-enthusiasts/"><u>Top Performance Review for Garmin Forerunner 945: The Premier GPS Smartwatch for Fitness Enthusiasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-solution-end-window-11-and-10s-infinite-restart-cycle-now/"><u>Unlock the Solution: End Window 11 and 10'S Infinite Restart Cycle Now!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-top-11-best-instagram-photo-editors/"><u>[New] 2024 Approved Top 11 Best Instagram Photo Editors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ranscribing-online-master-the-art-of-free-youtube-conversion-for-2024/"><u>[New] Transcribing Online Master the Art of Free YouTube Conversion for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-of-the-best-trivia-channels/"><u>[Updated] Best of the Best Trivia Channels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-crafting-softer-sounds-with-live-software/"><u>2024 Approved Crafting Softer Sounds with Live Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/barnes-and-noble-nook-glowlight-3-review-a-great-nighttime-e-reader/"><u>Barnes & Noble Nook GlowLight 3 Review: A Great Nighttime E-Reader</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-tutorial-for-navigating-and-utilizing-the-telnet-client-in-winows/"><u>Beginner's Tutorial for Navigating and Utilizing the Telnet Client in Winows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-oled-displays-principles-and-operation-explained/"><u>Decoding OLED Displays: Principles & Operation Explained</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dissecting-the-mastery-of-high-definition-with-benq-sw320-monitor-for-2024/"><u>Dissecting the Mastery of High Definition with BenQ SW320 Monitor for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-premiere-network-servers-rack-solutions-in-2cy24/"><u>Expert Picks: Premiere Network Servers Rack Solutions in 2CY24</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/full-reveal-how-orbis-tri-band-wi-fi-6-delivers-high-speed-internet-connectivity-across-your-household/"><u>Full Reveal: How Orbi's Tri-Band Wi-Fi 6 Delivers High-Speed Internet Connectivity Across Your Household</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hilarious-guide-crafting-memes-with-ease-for-2024/"><u>Hilarious Guide Crafting Memes with Ease for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/powerful-performance-assessment-alienware-aurora-r7-is-it-worth-the-cost/"><u>Powerful Performance Assessment: Alienware Aurora R7 - Is It Worth the Cost?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-battle-of-smart-speakers-google-nest-audio-versus-nest-mini/"><u>The Battle of Smart Speakers: Google Nest Audio Versus Nest Mini</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-photo-display-choice-in-depth-review-of-nixplay-seed/"><u>The Ultimate Photo Display Choice: In-Depth Review of Nixplay Seed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-picks-comprehensive-analysis-of-the-nest-audio-the-ultimate-sound-experience-for-enthusiasts/"><u>Top Picks: Comprehensive Analysis of the Nest Audio - The Ultimate Sound Experience for Enthusiasts</u></a></li>
 </ul></div>
 

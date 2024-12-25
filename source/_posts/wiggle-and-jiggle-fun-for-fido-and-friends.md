@@ -1,7 +1,7 @@
 ---
 title: "Wiggle and Jiggle: Fun for Fido & Friends"
-date: 2024-08-09T00:39:06.269Z
-updated: 2024-08-10T00:39:06.269Z
+date: 2024-12-19T08:51:45.457Z
+updated: 2024-12-25T05:58:33.119Z
 categories:
   - BestProducts
 description: "This Article Describes Wiggle and Jiggle: Fun for Fido & Friends"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 ## Insta360 X2: Perfect for Swimmers and Surfers on the Go
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Insta360 One X2
 
@@ -40,11 +44,12 @@ Lifewire / Andy Zahn
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Insta360 One X2
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Insta360 One X2](https://www.lifewire.com/thmb/SA87_MJD5mJRnYY0t31c9ELFmlc=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Insta360_One_X2_HeroSquare-80809b6088f0400baa121b1e7d14e4b1.jpg)
 
 Lifewire / Andy Zahn
@@ -71,9 +76,6 @@ Lifewire / Andy Zahn
 
  Traditionally,[action cameras](https://www.lifewire.com/best-action-cameras-4139765) only capture a tiny window into the world. However, the Insta360 One X2 is one of a new breed of cameras that aim to uphold this age-old truth by capturing absolutely everything around them in a single spherical image. This opens up a wealth of opportunities from nifty editing tricks to easily capturing[VR](https://www.lifewire.com/virtual-reality-vr-definition-4155090) experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: A chunky, waterproof build
 
  The Insta360 One X2 is a solid, chunky little rectangle. It’s compact enough to fit in a large pocket and feels quite rugged and durable, though those bulbous glass lens elements mean you’ll still want to be a little careful with it. Fortunately, it comes with a sleek neoprene case that offers a reassuring extra level of protection when you just want to carry the camera in your pocket.
@@ -88,16 +90,10 @@ Lifewire / Andy Zahn
 
  Controls consist of a shutter button, power button, and circular touchscreen. An[LED](https://www.lifewire.com/what-does-led-stand-for-4153820) light indicates the camera's status, and there is a standard tripod mount on the underside of the camera.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Setup Process: Mostly straightforward
 
  The One X2 came partially charged and ready to go once I inserted a[microSD card](https://www.lifewire.com/best-sd-cards-to-buy-4072362) , though first I had to install the Insta360 app on my phone and activate the camera. This turned out to be a bit of a pain, with the Bluetooth connection used to activate the One X2 and set up the Wi-Fi connection repeatedly timing out and failing. Eventually, I got it up and running, and aside from the one hiccup, the process was fairly smooth, if more complex than I’d typically expect from a camera.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Image Quality: Good light a necessity
 
  My initial impressions of the Insta360 One X2 were tinted by the weather conditions in which I initially tested it. Here in Western Washington, winter can be gloomy and dark, so I ended up shooting in fairly dim conditions much of the time. As a result, I couldn’t help be shocked by how poor the video looked when I went to edit it. However, when given plenty of light to work with, the One X2 produced fairly decent-looking photos and video.
@@ -115,15 +111,13 @@ Lifewire / Andy Zahn
  The audio recording on the One X2 could be charitably described as mediocre. It’s there, and it’s useable, but in a camera that would otherwise be well suited to vlogging, given its portable size and ease of use, it's a little disappointing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Storage Requirements: Hefty file size
 
  Though it may be the bare minimum for decent 360 footage, the 5.7L video footage the One X2 captures is still highly demanding in how much storage space it requires. A single short video clip easily takes up hundreds of megabytes of space, so you’ll want a big microSD card and plenty of hard drive space on your PC and/or[smartphone](https://www.lifewire.com/best-smartphones-4043781) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Software: Brilliant but buggy
 
  Most of my problems with the One X2 have to do with the Insta360 app, and the big one is with the difficulty of connecting to the camera. Every time I connected to the One X2, I had to tap the connect button in the app over and over again until it finally connected.
@@ -140,15 +134,16 @@ Lifewire / Andy Zahn
 
  It’s also possible to take more control of your video editing on the computer via either Insta360's free editing studio software or via a plugin in Adobe Premiere. However, it was easier to get the shots I wanted by editing them on my phone via the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Accessories: A good amount of options
 
  A number of accessories are available for the Insta360 One X2\. These include, among others, a diving enclosure and a “bullet time” attachment used to twirl the One X2 around your head. It’s also a good idea to have a selfie stick to use with the One X2, and I found a tripod handy for recording timelapse videos.
 
 Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Price: Good value
 
  With an MSRP of $430, the One X2 is only a little more expensive than a high-end action camera, but it’s not bad for a 360 camera. It’s a good value if being able to shoot 360-degree video is a necessity for you.
@@ -162,6 +157,10 @@ Lifewire / Andy Zahn
  **Despite its flaws, the Insta360 One X2 offers easy 360-degree recording in a waterproof package.**
 
  I had something of a rough start with the Insta360 One X2, but after dealing with setup issues and a steep learning curve, its small size, lightweight, and ease of use made up for its flaws It’s ideal for capturing videos in circumstances where you can’t be bothered to film with a traditional camera.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -199,11 +198,28 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-effortlessly-formulating-cohesive-skype-chats-across-windowsmac-platforms/"><u>[New] Effortlessly Formulating Cohesive Skype Chats Across Windows/Mac Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exclusive-gathering-of-top-tier-no-fee-vectr-and-illustration-sources/"><u>[New] Exclusive Gathering of Top-Tier No-Fee Vectr and Illustration Sources</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-racing-game-compilation/"><u>[New] Ultimate Racing Game Compilation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-upload-tweets-no-retweets-on-mobile/"><u>[Updated] How to Upload Tweets - No Retweets on Mobile?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-best-tales-for-youtube-triumph-top-3-strategies/"><u>2024 Approved Best Tales for YouTube Triumph Top 3 Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-delete-the-native-apps-coming-with-iphone-operating-system/"><u>Can You Delete the Native Apps Coming with iPhone Operating System?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-downloading-various-video-formats-from-free-it-training-sources/"><u>Guide: Downloading Various Video Formats From Free IT Training Sources</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Bootloader Easily</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kensun-tire-inflator-assessment-durable-trustworthy-and-easy-to-carry/"><u>Kensun Tire Inflator Assessment: Durable, Trustworthy & Easy-to-Carry</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-home-meteorological-devices-reviewed-2024-edition/"><u>Leading Home Meteorological Devices Reviewed: 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maisto-rc-rock-crawler-evaluation-perfect-family-entertainment-in-a-remote-control-car-package/"><u>Maisto RC Rock Crawler Evaluation: Perfect Family Entertainment in a Remote Control Car Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-elegance-with-technology-inside-look-at-the-michael-kors-access-gen-5e-collection/"><u>Mastering Elegance with Technology: Inside Look at the Michael Kors Access Gen 5E Collection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-gaming-with-the-asus-rt-ac88u-is-this-router-a-game-changer-or-just-hype/"><u>Mastering Gaming with the Asus RT-AC88U – Is This Router a Game-Changer or Just Hype?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-art-of-gaming-computers-inside-look-at-the-corsair-one-pro/"><u>Mastering the Art of Gaming Computers - Inside Look at the Corsair One Pro</u></a></li>
+</ul></div>
+

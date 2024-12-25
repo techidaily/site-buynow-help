@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of Netgear Nighthawk RAX120 - Breaking Speed Barriers
-date: 2024-09-19T02:02:06.630Z
-updated: 2024-09-20T07:48:59.103Z
+date: 2024-12-19T06:06:41.684Z
+updated: 2024-12-25T03:20:18.672Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Review of Netgear Nighthawk RAX120 - Breaking Speed Barriers
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/gPiXgT_a0D1ZOSWgqfWGf_uaY7E=/400x300/fi
 ## Unlocking Blistering Speeds with the Netgear Nighthawk RAX120 - Your Ultimate Guide
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router
 
@@ -86,10 +90,7 @@ Lifewire / Erika Rawes
  The app guides you through creating separate 2.4 and 5GHz networks, but you can also take advantage of a feature called smart connect, which combines your networks and designates your devices based on optimal performance. You can create a guest network, as well as manage and monitor your devices individually. The initial setup process took me about ten minutes in total.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Connectivity: Superfast speeds**
@@ -101,13 +102,6 @@ Lifewire / Erika Rawes
  The RAX120 has four Gigabit Ethernet ports on the back (two of which can be combined to support a larger file transfer rate of 2 GB) and a multigig Ethernet port that supports speeds up to 5 gigs. I was impressed overall with the location and specifications of the ports, but I would have liked to see more Ethernet ports on a router this expensive.
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/y2V4Ncx3Z1ul8B-4lsc_IeiyCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_04-9e452ddedd2b4a46893fddd147c06d4f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -122,13 +116,6 @@ Lifewire / Erika Rawes
  Final Verdict
 
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Key Features: Quality hardware, lacks antivirus**
 
@@ -149,17 +136,22 @@ Lifewire / Erika Rawes
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/MPwp1LtMC7Ua30t8VnJy7bjuqn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_02-94fbae95ca5d4851a1cf40b197da4161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Expensive**
 
  The Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router will cost you a pretty penny—it sells for $400, which is $100 lower than its original retail price of $500\. But it’s still on the higher end of the price spectrum, especially considering it doesn’t include any sort of mesh points, and you only get the router, power supply, and an Ethernet cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk RAX120 vs. TP-Link Archer AX6000**
 
@@ -170,6 +162,10 @@ Lifewire / Erika Rawes
  **A cool looking router that’s faster and more powerful than you probably need.**
 
  The Nighthawk RAX120 performs impressively, but it‘s costly and lacks some user-friendly features like strong parental controls and easy-to-manage antivirus, so it’ll be more desirable for those with heavier networking demands than the average user.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -207,5 +203,24 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-analyzing-the-precision-of-yis-4k-actioncam/"><u>[New] 2024 Approved Analyzing the Precision of Yi's 4K ActionCam</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-trimming-the-bends-correcting-gopro-fish-eye-effect/"><u>[Updated] Trimming the Bends Correcting GoPro Fish Eye Effect</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-why-the-philips-somneo-is-a-market-leading-alarm-clock/"><u>Comprehensive Review: Why the Philips Somneo Is a Market-Leading Alarm Clock</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-test-of-the-kootek-device-for-laptop-temperature-control-a-robust-and-efficient-choice/"><u>Comprehensive Test of the Kootek Device for Laptop Temperature Control: A Robust and Efficient Choice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/create-program-and-learn-with-the-makeblock-mbot-robot-kit-a-complete-product-assessment-and-user-guide/"><u>Create, Program & Learn with the Makeblock mBot Robot Kit: A Complete Product Assessment and User Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deciphering-the-disparity-between-echo-pop-and-echo-dot-devices/"><u>Deciphering the Disparity Between Echo Pop and Echo Dot Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/digital-vs-physical-books-the-case-for-kindles/"><u>Digital Vs. Physical Books: The Case for Kindles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-leading-vertical-computer-mice-innovations/"><u>Discover the Leading Vertical Computer Mice Innovations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-most-effective-wi-fi-extenders-on-the-market-this-year/"><u>Discover the Most Effective Wi-Fi Extenders on the Market This Year</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvds-von-iso-dateien-mit-den-neuesten-windows-versionen-1187-anbrennen-perfektes-tutorial/"><u>DVDs Von ISO-Dateien Mit Den Neuesten Windows Versionen (11/8/7) Anbrennen - Perfektes Tutorial</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/embracing-enthusiasm-with-pokemon-shining-pearl-tips-for-a-rewarding-experience/"><u>Embracing Enthusiasm with Pokémon Shining Pearl - Tips for a Rewarding Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-c51-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme C51 Without PUK Codes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-great-dvr-debate-tivo-vs-comcast-xfinity-for-2024/"><u>New The Great DVR Debate TiVo vs Comcast Xfinity for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/putting-an-end-to-speculation-the-pc-release-date-for-la-noire-is-now-set-in-stone/"><u>Putting an End to Speculation – The PC Release Date for L.A. Noire Is Now Set in Stone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unseen-battles-five-instances-where-facebook-fumbled/"><u>The Unseen Battles: Five Instances Where Facebook Fumbled</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-a38-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from A38.</u></a></li>
+</ul></div>
 

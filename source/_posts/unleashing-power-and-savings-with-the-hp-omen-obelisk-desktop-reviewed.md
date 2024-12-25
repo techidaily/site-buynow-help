@@ -1,7 +1,7 @@
 ---
 title: Unleashing Power and Savings with the HP OMEN Obelisk Desktop Reviewed
-date: 2024-09-15T07:14:02.764Z
-updated: 2024-09-20T04:08:51.623Z
+date: 2024-12-23T21:17:43.768Z
+updated: 2024-12-24T16:47:33.923Z
 categories:
   - BestProducts
 description: This Article Describes Unleashing Power and Savings with the HP OMEN Obelisk Desktop Reviewed
@@ -71,6 +71,10 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
  The HP OMEN Obelisk looks good in pictures but starts to fall apart a little when examined up close. Overall, HP did a pretty decent job here, but there are plenty of areas for improvement.
@@ -93,14 +97,11 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
- Lifewire / Jonno Hill
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Jonno Hill
 
 ## **Performance** :**Great components for gaming and productivity**
 
@@ -143,10 +144,7 @@ Lifewire / Jonno Hill
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Highly competitive**
@@ -158,13 +156,14 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -177,6 +176,10 @@ Lifewire / Jonno Hill
  **High performance and fantastic value, but upsetting thermals.**
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -210,5 +213,20 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-omnipresent-overture-the-virtual-cinema/"><u>[Updated] In 2024, Omnipresent Overture The Virtual Cinema</u></a></li>
+<li><a href="https://facebook.techidaily.com/expect-a-growth-spurt-of-crypto-ads-on-social-networks/"><u>Expect a Growth Spurt of Crypto Ads on Social Networks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/harmonic-horizons-mac-sound-exploration-guide/"><u>Harmonic Horizons Mac Sound Exploration Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-14-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-acer-chromebook-15-sizable-and-efficient-computing-on-a-large-screen/"><u>In-Depth Look at the Acer Chromebook 15 - Sizable and Efficient Computing on a Large Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-does-fongo-stack-up-in-the-canadian-voice-over-ip-market/"><u>In-Depth Review: How Does Fongo Stack Up in the Canadian Voice over IP Market?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-samsung-galaxy-note20-ultra-5g-analysis-is-it-worth-the-upgrade/"><u>In-Depth Samsung Galaxy Note20 Ultra 5G Analysis: Is It Worth the Upgrade?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-performance-gear-discover-the-premier-fitness-trackers-of-this-year/"><u>Leading Performance Gear: Discover the Premier Fitness Trackers of This Year</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovos-ultimate-portability-unleashed-in-depth-look-at-the-x12-detachable-and-its-superior-keyboard-experience/"><u>Lenovo's Ultimate Portability Unleashed: In-Depth Look at the X12 Detachable and Its Superior Keyboard Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mac-professionals-reviewed-the-stylish-yet-costly-apple-studio-display-a-27-5k-masterpiece-techinsights/"><u>Mac Professionals Reviewed: The Stylish Yet Costly Apple Studio Display - A 27 5K Masterpiece | TechInsights</u></a></li>
+<li><a href="https://win-news.techidaily.com/recover-lost-data-from-a-deleted-disk-partition-in-windows-systems/"><u>Recover Lost Data From a Deleted Disk Partition in Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-tips-to-avoid-gameplay-interruptions-street-fighter/"><u>Top 6 Tips to Avoid Gameplay Interruptions - Street Fighter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/whats-your-payout-per-view-on-sponsored-content-in-youtube-in-2024/"><u>What's Your Payout Per View on Sponsored Content in Youtube, In 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Up Close with MSI's High-Quality Portable Monitor, Model MP1 161E2
-date: 2024-09-13T05:10:14.654Z
-updated: 2024-09-19T23:39:06.978Z
+date: 2024-12-22T22:37:19.224Z
+updated: 2024-12-25T02:41:34.887Z
 categories:
   - BestProducts
 description: This Article Describes Get Up Close with MSI's High-Quality Portable Monitor, Model MP1 161E2
@@ -41,9 +41,17 @@ Lifewire / Emily Isaacs
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fellowes Microban Split Design Keyboard
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/R-TJH8gjH_22LNpYu9lLA2lDwyg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_HeroSquare-bca4a6a05ceb40108462ddaf4575d3ed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -83,10 +91,7 @@ Lifewire / Emily Isaacs
  Unlike competitor models which often use a mix of fabric, plastics, and in some instances, metals, the entirety of this keyboard is plastic—even down to the[wrist pad](https://www.lifewire.com/best-keyboard-wrist-rests-4172684) . While we did wish that the wrist pad was made of a more comfortable material, it wasn’t uncomfortable during use. Plus, a different material would likely impact the keyboard’s longevity, since the Microban antimicrobial coating needs to be put on an acrylic, non-porous surface in order to protect against common bacteria, yeasts, molds, and fungi.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Plug and play**
@@ -94,13 +99,6 @@ Lifewire / Emily Isaacs
  The keyboard doesn’t arrive with much. It comes in a mid-size box with the keyboard itself and an accessory pamphlet that addresses some frequently asked questions regarding Microban technology. Setting up is quite easy. It’s a plug and play device, which means that when the keyboard is connected to the computer, the computer will recognize the device is there and you can begin using it immediately.
 
 ![Fellowes Microban Split Design Wired Keyboard](https://www.lifewire.com/thmb/NycF2nKeSim8iDJ0Yp1gejyIigI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fellowes_ErgoKeyboard_3LW4147386_03-49fdaa8e182941e184cadafc14281a1e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -115,21 +113,16 @@ Lifewire / Emily Isaacs
  It’s equipped with a 16-character buffer, which means that it can hold onto that many typed characters before they’re processed.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A budget-friendly ergonomic keyboard**
 
  Ergonomic keyboards tend to retail anywhere from $50-$200\. The Fellowes Microban Split Wired Keyboard tends to retail for around $50, which puts this well at the budget end. Its low price point makes it a great introductory ergonomic keyboard, particularly if you’re unsure of what you want and are experimenting with different design choices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fellowes Microban Split Design Wired Keyboard vs. Microsoft Sculpt Ergonomic Keyboard**
 
@@ -180,5 +173,26 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-unveiled-the-premier-video-platform/"><u>[New] Vimeo Unveiled The Premier Video Platform</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-a-guide-to-unwavering-visual-captures/"><u>[Updated] 2024 Approved A Guide to Unwavering Visual Captures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716068733528-updated-in-2024-obs-full-screen-no-more-problem/"><u>[Updated] In 2024, Obs Full-Screen No More Problem!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-breakdown-of-t-mobiles-local-network-roaming-rules-for-household-use/"><u>A Breakdown of T-Mobile's Local Network Roaming Rules for Household Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-twelve-souths-bookbook-v2-accessory-for-your-macbook/"><u>A Comprehensive Review of Twelve South's BookBook V2 Accessory for Your MacBook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-critical-look-at-torment-tides-of-numenera-a-masterpiece-in-science-fiction-rpg-genre-with-intricate-lore/"><u>A Critical Look at 'Torment: Tides of Numenera' - A Masterpiece in Science Fiction RPG Genre With Intricate Lore</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-flash-cameras-of-the-year-2024-edition/"><u>Affordable Flash Cameras of the Year, 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-imac-215-inch-4k-review/"><u>Apple iMac 21.5-Inch 4K Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-tecno-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Tecno .</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-premium-byb-e4n30-led-lamps-performance-and-features/"><u>Comprehensive Analysis of the Premium BYB E4n30 LED Lamp's Performance and Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-fujitsu-scansnap-ix1600-overview-the-ultimate-workstation-friendly-document-scanner/"><u>Comprehensive Fujitsu ScanSnap iX1600 Overview: The Ultimate Workstation-Friendly Document Scanner</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/conquer-the-competition-with-cutting-edge-technology-the-philips-49-inch-curved-oled-gaming-screen/"><u>Conquer the Competition with Cutting-Edge Technology: The Philips 49-Inch Curved OLED Gaming Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/culinary-catastrophe-or-masterpiece-exploring-overcooked-2/"><u>Culinary Catastrophe or Masterpiece? Exploring Overcooked! 2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-prime-locations-for-high-quality-smartphone-deals-near-you/"><u>Discover Prime Locations for High-Quality Smartphone Deals Near You</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-f15-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy F15 5G Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-nubia-z50s-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nubia Z50S Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-disk-maintenance-the-ultimate-guide-to-defragging-on-windows-11-with-revo-uninstaller/"><u>Mastering Disk Maintenance: The Ultimate Guide to Defragging on Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-warframe-not-responding-steps-for-a-smooth-gameplay/"><u>Resolving 'Warframe Not Responding': Steps for a Smooth Gameplay</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-best-websites-to-add-emojis-to-photos-online-for-2024/"><u>Updated Best Websites to Add Emojis to Photos Online for 2024</u></a></li>
+</ul></div>
 

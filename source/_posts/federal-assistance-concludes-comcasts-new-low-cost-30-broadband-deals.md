@@ -1,7 +1,7 @@
 ---
 title: Federal Assistance Concludes - Comcast's New Low-Cost $30 Broadband Deals
-date: 2024-12-12T12:40:27.699Z
-updated: 2024-12-15T19:02:58.778Z
+date: 2024-12-22T07:02:27.764Z
+updated: 2024-12-24T21:16:44.679Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Federal Assistance Concludes - Comcast's New Low-Cost $30 Broadband Deals
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2024/05/09 BY CORBIN DAVENPORT
@@ -54,24 +54,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-4-secrets-for-adding-online-vids-seamlessly-in-ppt-for-2024/"><u>[New] 4 Secrets for Adding Online Vids Seamlessly in PPT for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1715860633278-updated-best-linux-screen-capture-software-ranked/"><u>[Updated] Best Linux Screen Capture Software Ranked!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-manual-for-subtitle-precision-via-web-resources/"><u>2024 Approved The Premier Manual for Subtitle Precision via Web Resources</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-most-advanced-documentphoto-scanners-reviewed-find-the-perfect-match/"><u>2024'S Most Advanced Document/Photo Scanners Reviewed - Find the Perfect Match</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-lenovo-p11-pro-great-aspects-and-small-flaws-uncovered/"><u>Comprehensive Evaluation of the Lenovo P11 Pro: Great Aspects and Small Flaws Uncovered</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-rca-video-doorbell-evaluation-exceptional-home-security-on-a-budget/"><u>Comprehensive RCA Video Doorbell Evaluation: Exceptional Home Security on a Budget</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/creators-rejoice-the-best-features-of-monoprices-economical-graphics-tablet-exposed/"><u>Creators Rejoice: The Best Features of Monoprice’s Economical Graphics Tablet Exposed</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/easy-steps-to-modify-pdf-files-using-google-drive-or-google-docs/"><u>Easy Steps to Modify PDF Files Using Google Drive or Google Docs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-razer-portal-revolutionizes-gaming-with-superior-wi-fi-performance/"><u>How the Razer Portal Revolutionizes Gaming with Superior Wi-Fi Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808143969-how-to-connect-an-xbox-one-controller-to-a-pc-2024-guide/"><u>How to Connect an Xbox One Controller to a PC — 2024 Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-11-proplus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 11 Pro+ Data? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-solution-for-frozen-keys-in-snipping-tool/"><u>Immediate Solution for Frozen Keys in Snipping Tool</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-top-revenue-making-youtube-visionary/"><u>In 2024, Top Revenue-Making YouTube Visionary</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-swagtron-swagboard-t1-a-flexible-choice-with-a-hefty-price-tag/"><u>In-Depth Analysis of the Swagtron Swagboard T1: A Flexible Choice with a Hefty Price Tag</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sale-alert-samsung-4tb-portable-ssd-t5-reduced-by-nearly-half-now-available-on-amazon-tech-news/"><u>Sale Alert: Samsung 4TB Portable SSD T5 Reduced by Nearly Half - Now Available on Amazon! | Tech News</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-2021-apple-macbook-pro-with-m1-chip-review-how-apple-continues-to-lead-in-laptop-excellence/"><u>The Ultimate 2021 Apple MacBook Pro with M1 Chip Review - How Apple Continues to Lead in Laptop Excellence</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-evaluation-of-the-apple-ipad-mini-5-small-but-mighty/"><u>The Ultimate Evaluation of the Apple iPad Mini #5 - Small but Mighty</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723011927097-top-rated-z3plus-dash-camera-the-perfect-blend-of-value-and-simplicity-unveiled/"><u>Top Rated Z3+ Dash Camera: The Perfect Blend of Value and Simplicity Unveiled</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-lava-blaze-2-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Lava Blaze 2 5G Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-live-streaming-duel-pitting-obs-against-shadowgl-for-2024/"><u>[New] Live Streaming Duel Pitting OBS Against ShadowGL for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-time-lapse-magic-a-samsung-photo-guide/"><u>[New] Time-Lapse Magic A Samsung Photo Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-viewers-experience-with-top-mac-streamers/"><u>[New] Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-heaviest-aerial-transporters-top-10-drones-reviewed-for-2024/"><u>[Updated] Heaviest Aerial Transporters Top 10 Drones Reviewed for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-nostruggle-livecast-how-to-simplify-your-podcast-broadcast/"><u>[Updated] NoStruggle Livecast How to Simplify Your Podcast Broadcast</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ce-visibility-essential-youtube-seo-strategies-revealed/"><u>Enhance Visibility Essential YouTube SEO Strategies Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-the-best-cell-phone-deals-for-seniors/"><u>Expert Picks: The Best Cell Phone Deals for Seniors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-robust-and-renewable-romer-flashlight-the-ultimate-companion-for-explorers-and-campers/"><u>In-Depth Review of the Robust and Renewable Romer Flashlight: The Ultimate Companion for Explorers & Campers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723082155548-maximize-your-safety-on-the-road-with-the-pruveeo-1080p-full-hd-action-camera-reviews-inside/"><u>Maximize Your Safety on the Road with the Pruveeo 1080P Full HD Action Camera - Reviews Inside!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006669339-red-dead-online-not-working-solve-persistent-pc-game-crashing-problems-here/"><u>Red Dead Online Not Working? Solve Persistent PC Game Crashing Problems Here</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-totobay-wake-up-light-second-generation-top-affordable-option/"><u>Review of the Totobay Wake-Up Light, Second Generation - Top Affordable Option</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-of-both-worlds-powerful-performance-meets-affordability-in-zte-blade-a3y/"><u>The Best of Both Worlds - Powerful Performance Meets Affordability in ZTE Blade A3Y</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-innovative-bet-by-agog-co-founders-leveraging-arvrxr-tech-to-transform-social-good-exclusive-zdnet-coverage/"><u>The Innovative Bet by Agog Co-Founders: Leveraging AR/VR/XR Tech to Transform Social Good | Exclusive ZDNET Coverage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-5-stereo-speaker-factors/"><u>Top 5 Stereo Speaker Factors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-computing-with-the-raspberry-pi-400-an-in-depth-look-at-a-keyboard-based-mini-pc/"><u>Transforming Computing with the Raspberry Pi 400: An In-Depth Look at a Keyboard-Based Mini PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools-for-2024/"><u>Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools for 2024</u></a></li>
 </ul></div>
 

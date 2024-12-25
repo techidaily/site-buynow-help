@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2024-12-10T01:02:08.471Z
-updated: 2024-12-15T17:31:15.796Z
+date: 2024-12-19T04:53:30.219Z
+updated: 2024-12-24T20:28:02.342Z
 tags:
   - games
   - tv
@@ -27,10 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Thanks to AI, we're seeing some truly out-there mods for games, and one of the most impressive might be one that swaps out the Baldur's Gate 3 narrator for a voice that almost (but not quite) sounds like Sir David Attenborough. Here's how to try it for yourself.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What You Need
 
  Apart from owning a PC copy of Baldur's Gate 3, you also need three pieces of software:
@@ -54,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 2: Import the Mod Fixer
@@ -68,7 +64,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 3: Import the Narrator Mod
@@ -86,10 +82,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This means we're ready to go!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 5: Test the Game
 
@@ -104,7 +104,7 @@ Your browser does not support the video tag.
  Now you can play the game like normal with your new narrator.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Removing Mods
@@ -132,24 +132,20 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-professional-level-edits-made-simple-10-pixlr-strategies/"><u>[New] In 2024, Professional-Level Edits Made Simple 10 Pixlr Strategies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-enigma-of-missing-video-suggestions-in-your-feed/"><u>[New] The Enigma of Missing Video Suggestions in Your Feed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-your-video-content-for-a-fanbase-boom/"><u>[Updated] In 2024, Elevating Your Video Content for a Fanbase Boom</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-transforming-tiktok-to-pop-with-top-gif-tools/"><u>[Updated] In 2024, Transforming TikTok to Pop with Top GIF Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-students-guide-to-engaging-with-top-10-history-vids-for-2024/"><u>[Updated] Students' Guide to Engaging with Top 10 History Vids for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-audacitys-approach-to-quietude-application-techniques/"><u>2024 Approved Audacity's Approach to Quietude Application Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-cinematic-brilliance-in-motion-kinemaster-techniques/"><u>2024 Approved Cinematic Brilliance in Motion Kinemaster Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/d-link-powerline-kit-unveiled-swift-installation-rapid-file-sharing-insights/"><u>D-Link Powerline Kit Unveiled: Swift Installation, Rapid File Sharing Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/efficient-heat-dissipation-with-a-cheap-laptop-tray-the-topmate-c302-breakdown/"><u>Efficient Heat Dissipation with a Cheap Laptop Tray: The TopMate C302 Breakdown</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhancing-wifi-coverage-a-professional-review-on-the-performance-of-the-tp-link-re505x-extender/"><u>Enhancing WiFi Coverage: A Professional Review on the Performance of the TP-Link RE505X Extender</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-why-the-samsung-qn55q6f-is-a-top-contender-in-4k-hdr-smart-tvs/"><u>Expert Analysis: Why the Samsung QN55Q6F Is a Top Contender in 4K HDR Smart TVs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-best-features-of-the-stylish-and-smart-withings-move-watch/"><u>Exploring the Best Features of the Stylish and Smart Withings Move Watch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/high-definition-creation-with-the-huion-kamvas-gt-191-an-extensive-tablet-review/"><u>High Definition Creation with The Huion Kamvas GT-191 - An Extensive Tablet Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-comprehensive-selection-of-top-10-free-srt-changers/"><u>In 2024, The Comprehensive Selection of Top 10 FREE SRT Changers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/petcube-budget-smart-hd-pets-camera-review-quality-meets-affordability/"><u>Petcube Budget-Smart HD Pets Camera Review: Quality Meets Affordability</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/streamline-gpu-cooling-with-cooler-masters-compact-2-fan-replacement-over-traditional-triple-fans/"><u>Streamline GPU Cooling with Cooler Master's Compact 2-Fan Replacement Over Traditional Triple Fans</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner/"><u>The Ultimate Guide to the Garmin Forerunner</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-10-recommended-sites-for-online-course-learning-experiences/"><u>Top 10 Recommended Sites for Online Course Learning Experiences</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>[New] 2024 Approved Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-explosive-growth-video-expectations-sky-high-views-for-2024/"><u>[New] Explosive Growth Video Expectations Sky-High Views for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlockingfullpotentialwithyourcamrecorder/"><u>2024 Approved UnlockingFullPotentialWithYourCamRecorder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/academic-advancement-with-ai-discover-4-key-methods-to-elevate-your-studies/"><u>Academic Advancement with AI: Discover 4 Key Methods to Elevate Your Studies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-excellence-in-comfort-and-design-a-closer-look-at-microsofts-sculpt-ergonomic-keyboard/"><u>Affordable Excellence in Comfort and Design: A Closer Look at Microsoft's Sculpt Ergonomic Keyboard</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/all-you-need-to-know-about-the-apple-watch-series-9-pros-cons-and-value/"><u>All You Need to Know About the Apple Watch Series 9: Pros, Cons and Value</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-fitbit-versa-evaluation-exploring-the-capabilities-of-an-economical-smarttimepiece/"><u>Budget-Friendly Fitbit Versa Evaluation: Exploring the Capabilities of an Economical Smarttimepiece</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-kensuns-durable-and-compact-portable-tire-inflator/"><u>Comprehensive Evaluation of Kensun's Durable and Compact Portable Tire Inflator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-100-frp-by-drfone-android/"><u>Full Guide to Bypass Honor 100 FRP</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-efficiently-documenting-your-fb-chats-and-meets/"><u>In 2024, Efficiently Documenting Your FB Chats & Meets</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-puzzling-black-display-a-guide-to-repairing-your-windows-screen/"><u>Resolving the Puzzling Black Display: A Guide to Repairing Your Windows Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-essential-guide-to-the-lg-um7300-a-thrifty-buyers-dream-for-a-49-4k-tv/"><u>The Essential Guide to the LG UM7300: A Thrifty Buyer's Dream for a 49 4K TV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-perfect-blend-of-old-and-new-an-in-depth-review-of-samsungs-galaxy-watch3/"><u>The Perfect Blend of Old and New – An In-Depth Review of Samsung's Galaxy Watch3</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-asus-rog-rapture-gt-ax11000-speed-and-gaming-features-analyzed/"><u>The Ultimate Guide to the Asus ROG Rapture GT-AX11000 - Speed and Gaming Features Analyzed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-hoops-experience-with-nba-2k19-official-game-of-the-season/"><u>The Ultimate Hoops Experience with NBA 2K19 - Official Game of the Season</u></a></li>
 </ul></div>
 

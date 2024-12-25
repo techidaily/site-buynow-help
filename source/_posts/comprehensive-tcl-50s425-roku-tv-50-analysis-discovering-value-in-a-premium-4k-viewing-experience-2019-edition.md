@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive TCL 50S425 Roku TV (50) Analysis: Discovering Value in a Premium 4K Viewing Experience - 2019 Edition"
-date: 2024-09-18T22:33:41.246Z
-updated: 2024-09-20T01:36:40.377Z
+date: 2024-12-20T21:37:39.312Z
+updated: 2024-12-25T01:28:31.320Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive TCL 50S425 Roku TV (50) Analysis: Discovering Value in a Premium 4K Viewing Experience - 2019 Edition"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ## Mohu Leaf 30
 
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/AyUAqIhKcHESYKlEswC1pUtS1Po=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -36,6 +40,10 @@ Lifewire / Jonno Hill
 [View On Amazon](https://www.amazon.com/Mohu-Television-Paper-thin-Performance-MH-110598/dp/B00HSMK580/?tag=lifewire-onsite-prod-20&ascsubtag=4843108%7Cnc1d14f8f39df4c2dac4b8d8ca33f9ac217%7CB00HSMK580) [View On Walmart $48](https://www.walmart.com/ip/Mohu-Leaf-30-Flat-30-Mile-Indoor-HDTV-Antenna/36126033) [View On Home Depot $41](https://www.homedepot.com/p/Mohu-Leaf-30-HDTV-Indoor-Antenna-MH-110583/205146429?slfpid=3)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mohu Leaf 30
 
@@ -74,22 +82,23 @@ Lifewire / Jonno Hill
 
  Setup of the Mohu Leaf 30 TV Antenna is as easy as it gets with antennas. Since there is no external power to connect, you only need to worry about connecting the included coaxial cable to the device and to your TV and using the included pins or adhesive tabs to affix the device to a surface. Ease of setup is one of the benefits of a non-amplified antenna such as the Mohu Leaf.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Acceptable but not incredible**
 
  The Mohu Leaf 30 TV Antenna wasn’t the highest performing antenna that I tested, even among similar unpowered antennas. In my channel acquisition test, the Leaf picked up 56 channels on average across all the iterations performed.
 
  My apartment is located within city limits and doesn’t provide too much of a challenge for antennas, but I was able to reliably get as many as 76 channels from other devices. Nonetheless, the Leaf still provided a clear picture of all the major network stations without any issue. The only channels that I couldn’t pick up with the Leaf were pretty obscure, such as an audio-only station from a Korean Christian church. I think I’ll be okay without that one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Range: Fairly limited**
 
  The Mohu Leaf 30 TV Antenna is rated, as its name implies, for up to 30 miles of range. This is about what I would expect from an unpowered antenna. This device is clearly designed for buyers who live within close proximity to their local TV broadcast source, and not for those further out into the suburbs and beyond.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Excellent for the performance**
 
@@ -98,10 +107,7 @@ Lifewire / Jonno Hill
  Buyers probably wouldn’t be wise to spend more money unless they live a bit further from their signal source and have had trouble with similar antennas in the past. I think that for most people living in cities, the Mohu Leaf 30 TV Antenna should be more than enough.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Mohu Leaf 30 TV Antenna vs Mohu Blade TV Antenna**
@@ -138,5 +144,23 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-chuckles-and-chortles-reviewing-the-goofy-movie-on-vhs/"><u>[New] 2024 Approved 'Chuckles and Chortles' - Reviewing The Goofy Movie on VHS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-twitch-live-stream-for-2024/"><u>[Updated] How to Record Twitch Live Stream for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-self-portraits-iphones-burst-capability/"><u>[Updated] Perfecting Self-Portraits IPhone's Burst Capability</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/changing-guard-at-openai-the-departure-of-ceo-sam-altman-and-its-effect-on-chatgpt/"><u>Changing Guard at OpenAI: The Departure of CEO Sam Altman and Its Effect on ChatGPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968057587-get-your-gigabyte-ethernet-controller-drivers-here/"><u>Get Your Gigabyte Ethernet Controller Drivers Here!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-speed-up-windows-file-inspection/"><u>In 2024, How To Speed Up Windows File Inspection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-amazon-basics-tablet-support-compact-design-for-on-the-go-use/"><u>Top Rated Amazon Basics Tablet Support: Compact Design for On-the-Go Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-link-av1300-powerline-wireless-repeater-assessment-lesser-than-expected-performance/"><u>TP-Link AV1300 Powerline Wireless Repeater Assessment: Lesser Than Expected Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-zombies-into-a-gameplay-delight-in-depth-analysis-of-7-days-to-die-on-sandbox-platforms/"><u>Transforming Zombies Into a Gameplay Delight: In-Depth Analysis of '7 Days to Die' On Sandbox Platforms</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-a60-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - A60</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-analysis-xbox-one-x-leading-the-charge-in-gaming-consoles/"><u>Ultimate Analysis: Xbox One X - Leading the Charge in Gaming Consoles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-the-best-tv-streaming-platforms-of-the-year-2024/"><u>Ultimate List: The Best TV Streaming Platforms of the Year 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-power-and-savings-with-the-hp-omen-obelisk-desktop-reviewed/"><u>Unleashing Power and Savings with the HP OMEN Obelisk Desktop Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlimited-access-why-choose-spotify-premium/"><u>Unlimited Access: Why Choose Spotify Premium?</u></a></li>
+</ul></div>
 

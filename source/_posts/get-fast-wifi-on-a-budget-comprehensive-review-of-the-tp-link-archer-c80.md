@@ -1,7 +1,7 @@
 ---
 title: "Get Fast WiFi on a Budget: Comprehensive Review of the TP-Link Archer C80"
-date: 2024-08-09T00:39:04.557Z
-updated: 2024-08-10T00:39:04.557Z
+date: 2024-12-20T04:43:16.849Z
+updated: 2024-12-25T02:33:30.829Z
 categories:
   - BestProducts
 description: "This Article Describes Get Fast WiFi on a Budget: Comprehensive Review of the TP-Link Archer C80"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81
 
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/hTth7_RTT4bEi0nhlZj7rPvMYL0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -43,12 +40,12 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TP-Link Archer A6 AC1200 Gigabit Smart Wi-Fi Router
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![TP-Link Archer A6 AC1200 Router](https://www.lifewire.com/thmb/eB886Wl9r3D8YMg227kYv9GRkJs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_HeroSquare-3758788658a244148a04b7346643557b.jpg)
 
 Lifewire / Jeremy Laukkonen
@@ -75,10 +72,6 @@ Lifewire / Jeremy Laukkonen
 
  Specifications don’t always tell the whole story, so I recently spent about five days with a TP-Link Archer A6 plugged into my own network. I tested how well it holds up under daily use with a lot of data-hungry devices connected at once, tested top speeds and range on both bands, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## **Design: Improved over older designs**
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes. Instead of the flat or glossy black finish seen on most routers, the A6 has a two-tone crosshatched pattern that creates an interesting visual effect. The edges are rounded instead of angular, and the top actually curves gently downward when viewed head-on.
@@ -93,6 +86,10 @@ Lifewire / Jeremy Laukkonen
 
  The Archer A6 doesn’t exactly stand out of the crowd, but it’s a definite improvement over the older C7 that I keep around for testing purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Completely painless once you unwrap the antennas**
 
  This router comes fully assembled, which makes it a bit easier and faster to set up than most. I’m not a fan of the fact that you can’t remove the antennas, but it definitely saves a bit of time. Unfortunately, that saved time is mostly wiped out by the ridiculous wrap job TP-Link does on the side antennas.
@@ -106,6 +103,10 @@ Lifewire / Jeremy Laukkonen
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2zSHbpT2Rq4Ac-0-u73213g1rlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_02-8fd53e1cd8284fd4a40091d7896fe8db.jpg)
 
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Connectivity: Dual-band with MU-MIMO, but lacking in physical ports**
 
@@ -132,8 +133,9 @@ Lifewire / Jeremy Laukkonen
  You may end up needing a Wi-Fi range extender with the Archer A6 even if your house isn’t that large.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Software: Basic and easy to use**
 
  The Archer A6 uses the same familiar web interface TP-Link has used for years. If you’ve ever used a TP-Link router before, you’ll already be familiar with the system. If you haven’t, it’s very easy to pick up.
@@ -146,13 +148,6 @@ Lifewire / Jeremy Laukkonen
 
  In addition to the web interface, TP-Link also offers a phone app that lets you change basic settings. Advanced settings have to be accessed through the web portal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![TP-Link Archer A6 AC1200](https://www.lifewire.com/thmb/2qgk2j764OivVDjAgICPpQb-Xig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_WirelessRouters_ArcherA6AC1200_03-7abb56dd933947dc892f8ec43ef36863.jpg)
 
  Lifewire / Jeremy Laukkonen
@@ -162,8 +157,9 @@ No advertising on the website.
  With an MSRP of $50, the Archer A6 represents pretty decent value for the level of performance and the feature set it offers. You may want to step up to a more expensive unit if you have a big house or a lot of devices, and it is missing features like a USB port, but the Archer A6 is priced very well for what you get.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **TP-Link Archer A6 vs. TP-Link Archer A7**
 
  Don’t let the numbering scheme confuse you. The Archer A7 (see on[Amazon](https://www.amazon.com/TP-Link-AC1750-Smart-WiFi-Router/dp/B079JD7F7G%2520/?tag=lifewire-onsite-prod-20&ascsubtag=4846342%7Cndd707df741a44bb699bcdb4f97d36f3622%7C) ) is actually an older device than the A6\. It’s also a little more expensive, with an MSRP of $80 and a little faster, with an AC1750 rating compared to the AC1200 of the Archer A6.
@@ -178,9 +174,6 @@ No advertising on the website.
 
  The TP-Link Archer A6 is a great little budget-priced router that performs better than I expected it to. It’s important to stress that it’s an AC1200 router, and it’s only dual-band, so don’t expect it to do the job if you have dozens of data-hungry devices or an especially large house with a complicated internal setup. But if you just want an affordable router that performs well across about 1,400-1,600 square feet of space, this is a great option.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Archer A6 AC1200 Gigabit Smart Wi-Fi Router
@@ -202,14 +195,11 @@ No advertising on the website.
 * Range  Medium homes
 * Parental Controls  Yes
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -217,3 +207,25 @@ No advertising on the website.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-bridging-the-gap-audio-to-text-in-powerpoint-slides-for-2024/"><u>[New] Bridging the Gap Audio to Text in PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-navigating-googles-complexities-for-easy-podcast-upload-for-2024/"><u>[New] Navigating Google's Complexities for Easy Podcast Upload for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-the-nuances-of-audio-overlap-crossfade/"><u>[Updated] Exploring the Nuances of Audio Overlap (Crossfade)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012828468-black-ops-cold-war-stuck-on-compilers-solving-the-shader-problem-easily/"><u>Black Ops Cold War Stuck on Compilers? Solving the Shader Problem Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhancements-for-the-switch-2-a-call-for-improved-virtual-storefront/"><u>Enhancements for The Switch 2: A Call for Improved Virtual Storefront</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-productivity-with-innovative-win11-features/"><u>In 2024, Boosting Productivity with Innovative Win11 Features</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-today-we-will-take-a-look-at-the-best-motion-tracking-video-editing-apps-for-ios-and-android-devices-for-2024/"><u>New Today We Will Take a Look at the Best Motion Tracking Video Editing Apps for iOS & Android Devices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pricing-your-way-to-higher-youtube-traffic/"><u>Pricing Your Way to Higher YouTube Traffic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-for-budget-minded-traffic-alert-devices-uncover-escortpassports-insightful-s55-examination/"><u>The Ultimate Guide for Budget-Minded Traffic Alert Devices - Uncover EscortPassport’s Insightful S55 Examination.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-tablet-spotlight-on-the-2021-samsung-galaxy-tab-s7-for-android-lovers/"><u>The Ultimate Guide to Choosing a Tablet: Spotlight on the 2021 Samsung Galaxy Tab S7 for Android Lovers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-best-in-class-open-source-routers-spotlight-on-linksys-wrt3200acm/"><u>The Ultimate Guide to the Best in Class Open Source Routers: Spotlight on Linksys WRT3200ACM</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-reliable-and-rechargeable-romer-illuminator-a-bright-companastern-for-outdoor-enthusiasts/"><u>The Ultimate Guide to the Reliable and Rechargeable Romer Illuminator: A Bright Companastern for Outdoor Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-virtual-reality-on-a-budget-discover-why-with-our-oculus-quest-2-guide/"><u>Top-Tier Virtual Reality on a Budget? Discover Why with Our Oculus Quest 2 Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-strongest-wi-fi-expanders/"><u>Ultimate Guide to the Strongest Wi-Fi Expanders</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-powerhouse-apple-iphone-12-mini-a-review/"><u>Unboxing the Powerhouse Apple iPhone 12 Mini - A Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-4-benefits-of-owning-the-steam-deck/"><u>Unveiling 4 Benefits of Owning the Steam Deck</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-speedy-acer-driver-patches/"><u>Windows 11: Speedy Acer Driver Patches</u></a></li>
+</ul></div>
+

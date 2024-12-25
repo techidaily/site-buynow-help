@@ -1,7 +1,7 @@
 ---
 title: Asus BW-16D1X-U Blu-Ray Burner Reviewed - Stylish Features with a Touch of Quirky Functionality
-date: 2024-09-18T16:06:36.210Z
-updated: 2024-09-19T23:42:05.916Z
+date: 2024-12-22T18:21:21.978Z
+updated: 2024-12-25T07:36:13.247Z
 categories:
   - BestProducts
 description: This Article Describes Asus BW-16D1X-U Blu-Ray Burner Reviewed - Stylish Features with a Touch of Quirky Functionality
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/_cRBsL-UBiVAFucmfH6B4kAWtvM=/400x300/fi
 ## Kinesis Freestyle2 Blue
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/Hagf4IpRh30OapEN21WY2crMw1g=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -75,6 +79,10 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/C-YK_WPWu8Ujx1fwDLxvO6Epi-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_05-adcddc5fc05b415dbcd82396bc0ada77.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  The Kinesis Freestyle2 Blue for Mac breaks free of these norms by using a split, modular design that features two keyboard halves, one for each hand, connected via a 9 or 20-inch cable depending upon the chosen model. These pieces were designed with comfort in mind. They may be used separately or connected with a pivot tether at the top of the two halves. This allows you the opportunity to customize your setup and maximize your comfort, whether that’s by placing the halves closer together or further apart.
@@ -91,15 +99,16 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/XHY6Xe9cdaO1U6Uj0wDY6rROlcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_04-7fad98b589454e0388ecf48afe425e8c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  From here, we followed the instructions in the provided instructional pamphlet and enabled Bluetooth on our iPad. After about a minute of scanning, the Kinesis KB800MB-BT keyboard appeared as an available device. We simply tapped to connect. From here, it prompted us to input a numeric code and press return. Once we’d done this, setup was complete.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Features: Efficient hotkeys once you get used to them**
@@ -110,16 +119,13 @@ Lifewire / Emily Isaacs
 
  Its split design is comfortable, following the natural arc of your fingers and hands as they rest upon its keys.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Battery: Plenty of juice so you’re never in a bind**
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Excellent for the features**
 
@@ -128,13 +134,6 @@ Lifewire / Emily Isaacs
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
 
  Lifewire / Emily Isaacs
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Kinesis Freestyle2 Blue vs. Microsoft Sculpt Ergonomic Keyboard**
 
@@ -183,5 +182,24 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-streamlined-video-download-from-linkedin-using-this-top-6-app-selection/"><u>[New] In 2024, Streamlined Video Download From LinkedIn Using This Top 6 App Selection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-through-the-lens-through-the-mind-advanced-photo-editing-mastery/"><u>[New] Through the Lens, Through the Mind Advanced Photo Editing Mastery</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-superior-asmr-microphone-guide-you-must-read/"><u>[Updated] 2024 Approved Superior ASMR Microphone Guide You Must Read</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-unleashing-your-monetary-potential-a-filmmakers-guide-to-tiktok-wealth/"><u>[Updated] 2024 Approved Unleashing Your Monetary Potential A Filmmaker's Guide to TikTok Wealth</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-avoid-monetization-mishaps-essential-youtube-checks/"><u>[Updated] Avoid Monetization Mishaps Essential YouTube Checks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-professional-grade-handguns-for-ultimate-video-stability/"><u>[Updated] Professional Grade Handguns for Ultimate Video Stability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-value-of-a-solid-budget-choice-the-hisense-h5590f-40-smart-television-review/"><u>Evaluating the Value of a Solid Budget Choice: The Hisense H5590F 40 Smart Television Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-samsung-galaxy-a51-with-5g-superior-performance-meets-affordability/"><u>Expert Review of Samsung Galaxy A51 with 5G: Superior Performance Meets Affordability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-the-best-value-for-an-amplified-tv-signal-the-1byone-digital-indoor-antenna/"><u>Experts Weigh In on the Best Value for an Amplified TV Signal: The 1byOne Digital Indoor Antenna</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-familiar-with-the-ultimate-arlo-defense-for-homes/"><u>Get Familiar With the Ultimate Arlo Defense for Homes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-effective-is-the-philips-hf35-5-wake-up-light-a-closer-look-at-this-alarm-innovation/"><u>How Effective Is the Philips HF35 5 Wake-Up Light? A Closer Look at This Alarm Innovation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-choose-the-best-low-cost-remobell-video-doorbell-on-amazon/"><u>How to Choose the Best Low-Cost RemoBell Video Doorbell on Amazon</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-best-of-the-best-select-photovideo-makers-with-musical-accents/"><u>In 2024, Best of the Best Select Photo/Video Makers with Musical Accents</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-lg-k51-assessment-elegant-aesthetics-overshadowed-by-performance-issues/"><u>In-Depth LG K51 Assessment: Elegant Aesthetics Overshadowed by Performance Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-fintie-the-best-choice-for-securing-your-macbook-pro-13-unveiling-durability-affordability-and-performance-in-our-latest-review/"><u>Is Fintie the Best Choice for Securing Your MacBook Pro 13? Unveiling Durability, Affordability & Performance in Our Latest Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/variable-rate-inflow-control-structures-can-help-maintain-consistent-detention-times-and-optimize-sedimentation-conditions-during-peak-flow-events/"><u>Variable-Rate Inflow Control Structures Can Help Maintain Consistent Detention Times and Optimize Sedimentation Conditions During Peak Flow Events.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210559269-9781590793992-what-is-reality/"><u>What is Reality? | Free Book</u></a></li>
+</ul></div>
 

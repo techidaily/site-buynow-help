@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of the Samsung Q60R Series - The Ultimate 4K Smart TV for Gamers
-date: 2024-09-12T21:16:55.665Z
-updated: 2024-09-19T18:00:56.695Z
+date: 2024-12-18T06:34:56.021Z
+updated: 2024-12-25T05:44:40.492Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Analysis of the Samsung Q60R Series - The Ultimate 4K Smart TV for Gamers
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/FjFx4B7uI3LcbqTlG2QDx1hPPRQ=/400x300/fi
 ## ZMI PowerPack 20000
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/A__IgeAPd2C0e_2iExqDqXJAGB8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-HeroSquare-492efa01c9e54737bfa9d16223ff9d82.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -36,6 +40,10 @@ thumbnail: https://www.lifewire.com/thmb/FjFx4B7uI3LcbqTlG2QDx1hPPRQ=/400x300/fi
 [Buy on Amazon](https://www.amazon.com/dp/B072BD98CM?tag=lifewire-onsite-prod-20&%2F=&ascsubtag=5071991%7Cn210c12f6fa164d19b551ef300c5549c018%7C)
 
 4.9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZMI PowerPack 20000
 
@@ -82,15 +90,16 @@ thumbnail: https://www.lifewire.com/thmb/FjFx4B7uI3LcbqTlG2QDx1hPPRQ=/400x300/fi
 Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Easy does it**
 
  There’s not much to the setup process here. Using the included USB-C to USB-C cable, simply plug one end into the power bank and the other into an AC adapter that you have handy—like one for a laptop, tablet, or[smartphone](https://www.lifewire.com/best-smartphones-4043781) . Once the four lights on the side are fully illuminated, then the battery pack is fully charged. Simply plug in devices using their respective cables to charge them using the power within the ZMI PowerPack 20000.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: It keeps going**
 
@@ -110,13 +119,6 @@ Lifewire / Andrew Hayward
 
  With larger laptop-friendly battery packs sometimes selling for well north of $100, the $70 price point of the ZMI PowerPack 20000 is an incredibly attractive deal.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **ZMI PowerPack 20000 vs Mophie Powerstation AC**
 
  ZMI’s PowerPack 20000 is about half the size and weight of the[Mophie Powerstation AC](https://www.lifewire.com/mophie-powerstation-ac-review-5071990) (see on[Amazon](https://www.amazon.com/dp/B078GYSBVR?linkCode=ogi&th=1&psc=1&tag=lifewire-onsite-prod-20&ascsubtag=5071991%7Cn210c12f6fa164d19b551ef300c5549c018%7C) ), which has a AC power port on one end, not to mention a larger 24,000mAh cell. Those are both stellar benefits, plus the fabric-lined exterior gives it a distinctive allure. That said, Mophie’s pack sells for $200, and we’d only recommend it if you must have the AC power outlet for charging a power-hungry laptop. If the ZMI PowerPack 20000 will meet your charging needs, however, it’s a much better bargain.
@@ -126,6 +128,10 @@ Lifewire / Andrew Hayward
  **A fantastic portable laptop battery charger for nearly everyone.**
 
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -151,5 +157,23 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-best-live-streaming-services-ranked-your-in-depth-comparison/"><u>[Updated] Best Live Streaming Services Ranked Your In-Depth Comparison</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-10-forgetful-fun-mobile-idle-escapes-for-2024/"><u>[Updated] Top 10 Forgetful Fun Mobile Idle Escapes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-projects-with-these-top-10-ae-types/"><u>2024 Approved Transform Your Projects with These Top 10 AE Types</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/acquiring-digital-assets-made-easy-with-yl-software-insights-on-buying-cryptocurrency/"><u>Acquiring Digital Assets Made Easy with YL Software Insights on Buying Cryptocurrency</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-essential-links-purchasing-youtube-tones-online/"><u>In 2024, Essential Links Purchasing YouTube Tones Online</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/"><u>In 2024, Essential List 7 Cost-Free Video Tags Extractors on YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-hd-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 HD to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-tips-for-timely-termination-of-social-media-screenshots/"><u>In 2024, Tips for Timely Termination of Social Media Screenshots</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-of-latest-amd-vega-driver-versions-for-enhanced-gaming-experience/"><u>Seamless Installation of Latest AMD Vega Driver Versions for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-television-streaming-services-a-comprehensive-guide/"><u>Top Rated Television Streaming Services : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-2024-cd-gear-guide-unmatched-performance-reviews/"><u>Ultimate 2024 CD Gear Guide: Unmatched Performance Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-adventure-the-budget-friendly-akaso-ek7000-cam/"><u>Unleash Adventure - The Budget-Friendly AKASO EK7000 Cam</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-a-world-of-literature-with-amazon-kindle-paperwhite-2018-an-in-depth-product-evaluation/"><u>Unlock a World of Literature with Amazon Kindle Paperwhite (2018): An In-Depth Product Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-peaceful-meal-times-for-your-pet-using-arf-pets-advanced-feeder-technology/"><u>Unlock Peaceful Meal Times for Your Pet Using Arf Pets Advanced Feeder Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-dbpower-600a-peak-power-device-reviewed-at-18000mah-capacity-a-trustworthy-portable-charger/"><u>Unpacking the DBPOWER 600A Peak Power Device Reviewed at 18,000mAh Capacity: A Trustworthy Portable Charger</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/versatile-and-brilliant-unpack-the-power-of-spk10-037-kit/"><u>Versatile & Brilliant: Unpack the Power of SPK10-037 Kit</u></a></li>
+</ul></div>
 

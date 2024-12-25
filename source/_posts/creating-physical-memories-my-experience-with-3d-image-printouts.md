@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2024-12-11T05:12:36.873Z
-updated: 2024-12-15T22:04:55.180Z
+date: 2024-12-18T22:37:07.222Z
+updated: 2024-12-24T20:52:41.360Z
 tags:
   - games
   - tv
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  Photos are 2D, and so surely you'd only want to print them using a normal everyday 2D printer? However, it turns out you can create a "lithophane" from a photo and turn your snaps into actual plastic models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is a Lithophane Exactly?
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  While working with porcelain isn't something you can do at home typically, if you have a 3D printer you can emulate the same effect and make a lithophane by printing it. When you hold the lithophane up to the light, your original image appears. It's a neat effect and, thanks to the flexibility of 3D printing, you can make all sorts of interesting decorations using this method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Converting an Image to a Lithophane
@@ -45,29 +45,25 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
 
  Once you're happy with the settings, your photo will appear as a lithophane model in the slicer just like any other 3D model.
 
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
 
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Printing Your Lithophane
 
@@ -80,6 +76,10 @@ Close
  The problem is that a thin vertical panel is basically impossible to print, so you need to support your lithophane in some way. You can manually add supports to it using a CAD program, for example, but this is where a lithophane maker app comes into its own. For example, It's Litho has a number of pre-made stands and mounts as I mentioned before. You can add integrated frames too, there's plenty of customization. With such an integrated frame, you can print your litho vertically with confidence and get a significantly better end result.
 
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -100,22 +100,22 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-explore-5-pro-game-record-methods-in-windows-11-for-2024/"><u>[New] Explore 5 Pro Game Record Methods in Windows 11 for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-quick-youtube-comment-removal-techniques/"><u>[New] In 2024, Mastering Quick YouTube Comment Removal Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/aria-headphones-review-pioneering-sound-quality/"><u>Aria Headphones Review: Pioneering Sound Quality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/balancing-bulkiness-with-bandwidth-an-examination-of-netgears-powerline-av-n-model-1200-speed-and-design/"><u>Balancing Bulkiness with Bandwidth: An Examination of Netgear's Powerline AV N Model 1200 Speed and Design</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/expert-tips-for-snapchats-magic-invisible-hands-make-the-picture-pop-for-2024/"><u>Expert Tips for Snapchat's Magic Invisible Hands Make the Picture Pop for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-intersection-of-style-and-exercise-with-the-amazfit-gts-an-in-depth-review/"><u>Exploring the Intersection of Style & Exercise with The Amazfit GTS: An In-Depth Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/flat-screen-cleaning-mastery-preserve-your-televisions-quality-with-these-easy-methods/"><u>Flat Screen Cleaning Mastery: Preserve Your Television's Quality with These Easy Methods</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/get-more-for-your-money-with-the-budget-friendly-fitbit-versa-lite-a-comprehensive-guide/"><u>Get More for Your Money with the Budget-Friendly Fitbit Versa Lite: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-a05s-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy A05s Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-snicker-surgeons-top-7-sketches-for-youtube-laughter-aficionados/"><u>In 2024, Snicker Surgeons Top 7 Sketches for YouTube Laughter Aficionados</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-hp-zbook-firefly-eg8-review-a-revolution-in-mobility-and-efficiency/"><u>The HP ZBook Firefly eG8 Review - A Revolution in Mobility and Efficiency</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-amazons-kindle-oasis-is-it-justifiably-expensive/"><u>The Ultimate Guide to Amazon's Kindle Oasis: Is It Justifiably Expensive?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tp-links-budget-marvel-a-comprehensive-review-of-the-archer-c50-model/"><u>TP-Link's Budget Marvel: A Comprehensive Review of the Archer C50 Model</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-itel-a05s-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Itel A05s FRP Bypass</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-protection-comprehensive-evaluation-of-the-ring-video-doorbell-2/"><u>Ultimate Protection: Comprehensive Evaluation of the Ring Video Doorbell 2</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-top-10-storyboarding-software-freeandpaid/"><u>Updated Top 10 Storyboarding Software Free&Paid</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728468150280-windows-10/"><u>Windows 10で包括的なシステムスナップショットを作成するためのガイド</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-gopro-editing-software-best-15-action-cam-video-editors/"><u>[New] In 2024, GoPro Editing Software Best 15 Action Cam Video Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-protectly-copy-youtube-tracks-for-free/"><u>[New] In 2024, How to Protectly Copy Youtube Tracks for Free</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-spotting-sham-followers-on-business-pages/"><u>[New] In 2024, Spotting Sham Followers on Business Pages</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-guide-to-documenting-macs-roblox-playthroughs-for-2024/"><u>[Updated] Essential Guide to Documenting Mac's Roblox Playthroughs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-tier-video-capture-tools-for-pc-users/"><u>[Updated] In 2024, Top-Tier Video Capture Tools for PC Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-our-picks-for-the-most-advanced-wireless-handsets-available-now/"><u>Explore Our Picks for the Most Advanced Wireless Handsets Available Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-best-of-online-shopping-a-guide-to-6-premier-websites-for-television-purchases/"><u>Explore the Best of Online Shopping: A Guide to 6 Premier Websites for Television Purchases</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-inexpensive-2019-kindle-from-amazon-measures-up-readers-guide/"><u>How The Inexpensive 2019 Kindle From Amazon Measures Up: Reader's Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-proactive-copyright-checking-for-safe-tiktok-sharing/"><u>In 2024, Proactive Copyright Checking for Safe TikTok Sharing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-mophie-ac-powerstation-review-is-it-worth-its-premium-cost/"><u>Inside the Mophie AC Powerstation Review: Is It Worth Its Premium Cost?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/iphones-seamless-transition-plan-explored/"><u>IPhone's Seamless Transition Plan Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kensuns-mobile-air-pump-reviewed-unyielding-performance-meets-convenience-on-wheels/"><u>Kensun's Mobile Air Pump Reviewed: Unyielding Performance Meets Convenience on Wheels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/logitech-c615-webcam-overview-evaluating-its-performance-for-every-budget-shopper/"><u>Logitech C615 Webcam Overview: Evaluating Its Performance for Every Budget Shopper</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-conversion-tactics-extracting-mp3-from-vids-on-social-media-for-2024/"><u>Quick Conversion Tactics Extracting MP3 From Vids on Social Media for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-extollo-lansocket-1500-review-a-deep-dive-into-high-performance-ethernet-solutions-with-quick-response-times/"><u>The Extollo LANSocket 1500 Review: A Deep Dive Into High-Performance Ethernet Solutions with Quick Response Times</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-5-solutions-for-resolving-zoom-cannot-start-video-issue/"><u>Top 5 Solutions for Resolving 'Zoom Cannot Start Video' Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-2022-leading-gamer-cellphones-cnet-choice-awards/"><u>Ultimate Guide to the 2022 Leading Gamer Cellphones | CNET Choice Awards</u></a></li>
 </ul></div>
 

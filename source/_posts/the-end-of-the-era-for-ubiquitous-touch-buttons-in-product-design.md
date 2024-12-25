@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-12-10T23:29:27.162Z
-updated: 2024-12-16T03:23:57.693Z
+date: 2024-12-23T09:24:05.929Z
+updated: 2024-12-25T05:33:30.291Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## The End of the Era for Ubiquitous Touch Buttons in Product Design
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Capacitive touch buttons introduce usability issues in terms of responsiveness and lack of feedback.
@@ -22,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Problem With Capacitive Touch Buttons
@@ -36,7 +40,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
@@ -49,10 +53,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
@@ -60,7 +60,7 @@ Tim Brookes / How-To Geek
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
@@ -79,6 +79,10 @@ Tim Brookes / How-To Geek
 
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Some Manufacturers Ditched Touch for a Reason
 
  Fortunately, not all manufacturers still think touch buttons are a good idea. For some, they fell out of favor several generations ago when lessons were learned about their usefulness.
@@ -86,10 +90,6 @@ Tim Brookes / How-To Geek
  The original PlayStation 4, released in early 2013 featured capacitive touch buttons for both power and disc eject. This model was plagued by touch-related issues. Speaking from experience, sometimes the console wouldn’t power up because the buttons didn’t always detect input. Sometimes the buttons would _always_ detect input, leading to a constant screeching from the console.
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -118,22 +118,17 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-gentle-glide-of-noises-subdued-amplitude-adjustment/"><u>[Updated] Gentle Glide of Noises Subdued Amplitude Adjustment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-the-elite-selection-premium-android-timepieces-dominating-2024s-market-trends/"><u>Explore the Elite Selection: Premium Android Timepieces Dominating 2024'S Market Trends</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-top-10-premium-free-iosandroid-live-video-platforms/"><u>Explore Top 10 Premium-Free iOS/Android Live Video Platforms</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/harness-natures-energy-the-top-5-solar-powered-sprinkler-systems-transforming-gardens/"><u>Harness Nature's Energy: The Top 5 Solar-Powered Sprinkler Systems Transforming Gardens</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-transfer-photos-and-videos-from-iphone-to-iphone-for-2024/"><u>How to Transfer Photos and Videos From iPhone to iPhone for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-v-purse-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor V Purse</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-audio-enhancements-expertly-curated-soundbar-selection-for-2n4/"><u>Leading Audio Enhancements: Expertly Curated Soundbar Selection for 2N4</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/modularity/"><u>Modularity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/most-durable-and-stylish-ipad-sleeves-of-2023-find-the-perfect-match/"><u>Most Durable and Stylish iPad Sleeves of 2023: Find the Perfect Match</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/outlining-a-strategy-for-integrating-multimedia-elements-such-as-images-or-videos-to-enhance-user-engagement-and-dwell-time-on-your-guide/"><u>Outlining a Strategy for Integrating Multimedia Elements Such as Images or Videos to Enhance User Engagement and Dwell Time on Your Guide.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/picking-powerhouse-gpus-a-comprehensive-guide-to-the-best-graphics-cards-available/"><u>Picking Powerhouse GPUs : A Comprehensive Guide to the Best Graphics Cards Available</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/premier-exterior-solid-state-drives-review-the-ultimate-guide-for-202n4/"><u>Premier Exterior Solid State Drives Review: The Ultimate Guide for 202N4</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/step-by-step-tutorial-for-screen-recording-and-voice-inputs-on-windows-8/"><u>Step-by-Step Tutorial for Screen Recording and Voice Inputs on Windows 8</u></a></li>
-<li><a href="https://win-lab.techidaily.com/the-insider-guide-to-spotting-quality-ico-investments-techniques-by-leading-team-at-yl-software-and-computing/"><u>The Insider Guide to Spotting Quality ICO Investments: Techniques by Leading Team at YL Software & Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-fixed-error-code-80240020-in-windows-11-setup/"><u>Troubleshooting Guide for Fixed Error Code #80240020 in Windows 11 Setup</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-cellular-data-issues-with-10-proven-fixes/"><u>Troubleshooting iPhone Cellular Data Issues with 10 Proven Fixes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovative-approaches-to-recording-verbal-notes/"><u>[New] 2024 Approved Innovative Approaches to Recording Verbal Notes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-resident-evil-village-mouse-issues/"><u>[SOLVED] Resident Evil Village Mouse Issues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-lava-blaze-2-5g-frp-bypass-by-drfone-android/"><u>About Lava Blaze 2 5G FRP Bypass</u></a></li>
+<li><a href="https://win-guides.techidaily.com/come-possono-essere-salvaguardati-gli-appunti-adesivi-su-windows-1011-guida-completa/"><u>Come Possono Essere Salvaguardati Gli Appunti Adesivi Su Windows 10/11 - Guida Completa</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/email-service-face-off-outlookcom-versus-gmail-which-wins-the-battle/"><u>Email Service Face-Off: Outlook.com versus Gmail – Which Wins the Battle?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-g42-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia G42 5G</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unveiling-color-secrets-master-the-craft-with-our-tutorial-series/"><u>In 2024, Unveiling Color Secrets - Master the Craft with Our Tutorial Series</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-stunning-and-expansive-huion-kamvas-gt-191-digital-sketching-canvas/"><u>In-Depth Analysis of the Stunning and Expansive Huion Kamvas GT-191 Digital Sketching Canvas</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-steadicam-choices-for-improved-dslr-footage-for-2024/"><u>Leading Steadicam Choices for Improved DSLR Footage for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-game-changer-for-organization-an-in-depth-look-at-the-onetastic-add-in-for-microsoft-onenote/"><u>The Game Changer for Organization: An In-Depth Look at the Onetastic Add-In for Microsoft OneNote</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-auto-compass-systems/"><u>The Premier Selection of Auto Compass Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-steam-decks-top-gaming-picks/"><u>Ultimate List: Steam Deck's Top Gaming Picks</u></a></li>
 </ul></div>
 

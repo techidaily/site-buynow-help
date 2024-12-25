@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Depths of Galactic Warfare - A Thorough Review of Star Wars: Squadrons."
-date: 2024-08-09T00:39:06.668Z
-updated: 2024-08-10T00:39:06.668Z
+date: 2024-12-23T18:27:56.819Z
+updated: 2024-12-24T21:09:04.406Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Depths of Galactic Warfare - A Thorough Review of Star Wars: Squadrons."
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/b715f9d9400fe89c8b9a306e0f9ed90d4ce3c93f7
 ## Docooler USB 2.0 12 Megapixel
 
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/9tSqTK9OEckACvQEhU5iBbHvMfM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_HERO_1LW4065141_7_Final_Square-bd507bc5d1d646f9a0d8d7466601f569.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / James Huenink
 
@@ -39,13 +43,11 @@ Lifewire / James Huenink
 1.4
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Docooler USB 2.0 12 Megapixel
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/23qFdg2CyjsEX1uFEK5ESBb8kO0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_HERO_1LW4065141_7_Final_Square-bd507bc5d1d646f9a0d8d7466601f569.jpg)
 
 Lifewire / James Huenink
@@ -69,12 +71,13 @@ Lifewire / James Huenink
 
  80’s movies promised a lot of cool future tech that hasn’t appeared. We’re not riding on hoverboards, nor do our cars fly. The one thing we did get is inexpensive and simple[video calling](https://www.lifewire.com/apps-for-free-video-chat-3426695) . The Docooler USB 2.0 12 Megapixel promises to make that a reality with an HD camera for the lowest cost in its class. Can this dirt-cheap[camera](https://www.lifewire.com/best-digital-cameras-under-100-3897833) deliver on its promise to connect us in HD?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/YIcu00ga1PIrZWJzNk-mS5C4z-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_5_Final_Horiz-23ef27f359f24e919ebb2f47f9089957.jpg)
 
  Lifewire / James Huenink
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Flimsy and difficult to use**
 
@@ -86,9 +89,6 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Setup process: Awkward to position**
 
  It takes almost no time to get the Docooler USB 2.0 12 Megapixel up and running. We just plugged the USB cord into the computer and it worked.
@@ -103,12 +103,13 @@ Lifewire / James Huenink
 
  We tested the camera’s field of view by placing it 13.5 inches from a wall and measuring the field of view, 8.25 inches. After running those measurements through some trigonometric calculations, we found that it has a 34 degree field of view. The camera also has a surprising amount of distortion. Vertical lines in the background had a significant tilt backwards, and we saw tremendous barrel distortion everywhere except for the very center of the image.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Docooler USB 2.0 12 Megapixel](https://www.lifewire.com/thmb/BxI5asxQavdUO5cT3iIpSIqM9Mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Docooler_USB2_12MegapixelWebCam_1LW4065141_10_Final_Horiz-8acc6be9290c439496f17a63684115ae.jpg)
 
  Lifewire / James Huenink
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Underwhelming performance in video and audio**
 
@@ -122,20 +123,14 @@ Lifewire / James Huenink
 
  The audio performance of the Docooler USB 2.0 12 Megapixel was also lackluster. The built-in microphone produced poor quality sound, and when we tested it on Skype, voices were both muffled and echoey. People on the other end could understand what we were saying, but it was an unpleasant experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## **Price: Cheap price, even cheaper webcam**
 
  The Docooler USB 2.0 12 Megapixel is the most inexpensive webcam you can buy, ranging from $8 up to around $15, but there’s a reason it’s priced so low. The image and audio quality are both terrible, and the camera is difficult to use.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Competition: Falls short**
 
 **_Logitech C270_ :** The Logitech C270 is a low-cost webcam that goes for $40 MSRP, though you can frequently find it for approximately $20\. For $10 more than the Docooler, you get a big upgrade. It has 720p video calling and takes photos at 3MP. The microphone filters out background noise, so it shouldn’t have the same echo effects as the Docooler Web Cam. Even though it’s twice the price, you get a lot more camera for your ten bucks.
@@ -167,14 +162,11 @@ No advertising on the website.
 * Frame rate  30fps
 * What’s Included  Docooler USB 2.0 12 Megapixel, Quick Start Guide
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,3 +174,27 @@ No advertising on the website.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-escape-challenges-top-ten-must-play-rooms/"><u>[New] Best Escape Challenges Top Ten Must-Play Rooms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-full-page-screen-capture-how-to-capture-screenshots-of-a-full-page-for-2024/"><u>[Updated] Full Page Screen Capture How to Capture Screenshots of a Full Page for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-innovative-metaverse-perspectives-a-30-quote-collection/"><u>[Updated] Innovative Metaverse Perspectives A 30-Quote Collection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-checklist-for-using-zoom-on-your-windows-pc/"><u>2024 Approved The Essential Checklist for Using Zoom on Your Windows PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beantech-bitwatch-s1-plus-smartwatch-evaluation-an-intriguing-affordable-tracker/"><u>Beantech Bitwatch S1 Plus Smartwatch Evaluation: An Intriguing Affordable Tracker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/classic-elegance-meets-modern-design-skagens-falster-2-the-refined-rival-of-the-iconic-iphone/"><u>Classic Elegance Meets Modern Design: Skagen's Falster 2 - The Refined Rival of the Iconic iPhone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-processor-performance-a-guide-to-choosing-the-right-tablet-pc/"><u>Comparing Processor Performance: A Guide to Choosing the Right Tablet PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dell-xps-13-gen-7-7390-2-in-1-laptop-review-unveiling-the-stunning-versatility-of-an-ultrabook/"><u>Dell XPS 13 Gen 7 (7390) 2-in-1 Laptop Review: Unveiling the Stunning Versatility of an Ultrabook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-garden-wi-fi-game-expert-insights-on-the-netgear-orbi-rbs50y-features-and-performance/"><u>Elevate Your Garden Wi-Fi Game - Expert Insights on the Netgear Orbi RBS50Y Features and Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-aphacas-bt69-wireless-fm-transmitter-revolutionizing-in-car-audio-with-bluetooth-connectivity/"><u>Expert Insights on Aphaca's BT69 Wireless FM Transmitter: Revolutionizing In-Car Audio with Bluetooth Connectivity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a23-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A23 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-gopro-fixing-fish-eye-effects-in-video/"><u>Mastering GoPro Fixing Fish Eye Effects in Video</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-your-entertainment-a-comprehensive-look-at-the-2020-lenovo-tab-m10-fhd-plus/"><u>Maximizing Your Entertainment: A Comprehensive Look at the 2020 Lenovo Tab M10 FHD Plus</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mounting-dream-md2380-tv-wall-mount-review-a-low-cost-tv-with-quality/"><u>Mounting Dream MD2380 TV Wall Mount Review: A Low-Cost TV With Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigate-with-ease-top-wireless-mouse-options/"><u>Navigate with Ease: Top Wireless Mouse Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-and-easy-steps-to-determine-which-windows-os-youre-running/"><u>Quick and Easy Steps to Determine Which Windows OS You're Running</u></a></li>
+<li><a href="https://win-tips.techidaily.com/speichern-von-fotonotizen-auf-windows-1011-eine-detaillierte-anleitung/"><u>Speichern Von FotoNotizen Auf Windows 10/11 - Eine Detaillierte Anleitung</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-art-of-audio-integration-tunes-for-your-microsoft-slides-for-2024/"><u>The Art of Audio Integration Tunes for Your Microsoft Slides for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-halo-bolt-a-comprehensive-review-of-its-jump-starting-and-charging-capabilities/"><u>The Ultimate Guide to the Halo Bolt - A Comprehensive Review of Its Jump-Starting & Charging Capabilities</u></a></li>
+</ul></div>
+
