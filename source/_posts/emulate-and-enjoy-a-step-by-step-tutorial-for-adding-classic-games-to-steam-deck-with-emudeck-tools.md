@@ -1,7 +1,7 @@
 ---
 title: "Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools"
-date: 2024-12-08T17:43:54.447Z
-updated: 2024-12-16T06:13:46.421Z
+date: 2025-01-01T17:04:35.344Z
+updated: 2025-01-03T17:19:31.720Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ---
 
 ## Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![The "Collections" tab on the Steam Deck Library with emulated games added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-3.jfif) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Can You Run With EmuDeck?
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 [PS3 emulation is technically possible with RPCS3](https://some-skills.techidaily.com/new-the-no-fuss-podcast-streaming-handbook/) and is offered as an installation option, but getting it to run properly is a hassle due to the notoriously complex nature of the original console. That being said, a Steam Eck with EmuDeck installed runs nearly everything else flawlessly and, in some cases, even better than the original hardware. This makes EmuDeck a perfect option for creating your own [retro gaming handheld](https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don't Worry About Finding the Right Emulators
@@ -67,15 +63,15 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  Confirm that you want to run it and the installer will download the necessary files, and then install. From here you can follow the on-screen instructions to configure EmuDeck to your liking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Adding Emulated Games to Your Steam Library
 
  My favorite EmuDeck feature is the ability to add emulated games directly to the Steam Library, complete with their respective box art. This means that instead of opening up an emulator manually and loading ROMs or ISO files, you can boot into games directly from your library like you would any other game.
 
 ![PS2 games in the Steam Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-4.jfif) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It is, of course, up to you to make sure that you're staying on the right side of the law when it comes to emulated games. Assuming you're aware of the law, adding ROMs is fairly simple. EmuDeck has an automatic system to detect ROMs from a USB-C flash drive, but I'd recommend doing it manually to be safe.
 
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
  Copy ROMs to a folder on your USB flash drive and insert it into your Steam Decj. From there, you can just copy and paste the files into the respective folder for the proper system, which will appear wherever you installed EmuDeck (under Emulation > Roms > System Name).
 
 ![Various game files inside the "PS2" ROMs folder in Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/files3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I recommend using an external mouse and keyboard to navigate Desktop Mode while moving files around, as the touch screen controls can make this process a little cumbersome.
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![The Emudeck ROM manager adding games to Steam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Multiplayer, Quality of Life Features, and Easy Expansion
@@ -109,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![Two people holding controllers playing a video game together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2019/11/3973a927.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shutterstock/REDPIXEL.PL
 
  If you're playing something with multiplayer options, you can connect multiple Bluetooth controllers and play with your friends. You may have to switch on certain settings, such as the "Multitap" option for more than two players in PCSX2, but the integration is fairly seamless.
@@ -116,10 +120,6 @@ Shutterstock/REDPIXEL.PL
  Save states are also a given, since emulators usually allow them by default. EmuDeck goes the extra mile and creates button mappings to save and load state automatically. You can set a custom keybinding to save or load states. switch between files. and cut out load times or unskippable cutscenes.
 
  EmuDeck is also easy to expand and adding new games is as simple as dropping the files into the proper emulation folder and letting the program do the rest for you. You can add new emulators and update current ones automatically through the EmuDeck application in Desktop Mode without much hassle with just an internet connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Add Retro Achievement Support (Optional)
 
@@ -150,19 +150,22 @@ Shutterstock/REDPIXEL.PL
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/reating-a-clickable-thumbnail-enhancing-video-visibility-without-costs/"><u>[New] Creating a Clickable Thumbnail Enhancing Video Visibility without Costs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-powerdirectors-latest-revolution-compre-point-by-point-review-and-tutorial/"><u>[Updated] 2024 Approved PowerDirector's Latest Revolution Compre Point-by-Point Review & Tutorial</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-explore-these-6-powerful-instagram-reel-tools/"><u>[Updated] In 2024, Explore These 6 Powerful Instagram Reel Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-analytics-audience-insight-crusade/"><u>2024 Approved Mastering Instagram Analytics Audience Insight Crusade</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-shadowy-snapshots-skills-for-stunning-night-images/"><u>2024 Approved Shadowy Snapshots Skills for Stunning Night Images</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-tech-marvels-unveiled-the-complete-oneplus-nord-n100-review/"><u>Affordable Tech Marvels Unveiled - The Complete OnePlus Nord N100 Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-introduces-its-revolutionary-new-iphone-join-us-live/"><u>Apple Introduces Its Revolutionary New iPhone – Join Us Live</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-rebel-t6-examined/"><u>Budget-Friendly Rebel T6 Examined</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-kobo-forma-the-ultimate-e-reading-experience-for-literature-lovers/"><u>Comprehensive Analysis of the Kobo Forma: The Ultimate E-Reading Experience for Literature Lovers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y100-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y100 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/obtain-high-quality-photos-without-watermarks-for-2024/"><u>Obtain High-Quality Photos Without Watermarks for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/shopping-spree-simplified-the-compreenas-guide-to-creating-and-crafting-haul-vids-for-2024/"><u>Shopping Spree Simplified The Compreenas Guide to Creating & Crafting Haul Vids for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/xiaomi-mi-smart-band-4-a-budget-friendly-fitness-tracker-that-exceeds-expectations-in-depth-review/"><u>Xiaomi Mi Smart Band 4: A Budget-Friendly Fitness Tracker That Exceeds Expectations - In-Depth Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/your-essential-walkthrough-to-crafting-a-nintendo-3ds-account-on-nintendo-network/"><u>Your Essential Walkthrough to Crafting a Nintendo 3DS Account on Nintendo Network</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-easy-gif-to-video-transformation-top-5-no-download-options/"><u>[New] In 2024, Easy GIF to Video Transformation Top 5 No-Download Options</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovation-at-speed-how-to-make-stunning-slow-motion-content-with-an-android/"><u>[New] Innovation at Speed How to Make Stunning Slow-Motion Content with an Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-gigglegenius-customize-memes-faster-than-you-think-for-2024/"><u>[Updated] GiggleGenius Customize Memes Faster Than You Think for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mirthful-modifications-ranked-smartphone-and-pc-photo-apps/"><u>[Updated] In 2024, Mirthful Modifications Ranked Smartphone & PC Photo Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/5-best-wifi-routers-for-on-the-go-connections-reviewed/"><u>5 Best WiFi Routers for On-the-Go Connections Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beat-the-blues-with-our-picked-top-10-fun-and-engaging-games-for-all-occasions/"><u>Beat the Blues with Our Picked Top 10 Fun & Engaging Games for All Occasions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-amazon-kindle-paperwhite-7th-generation-assessment-your-ultimate-reading-companion/"><u>Comprehensive Amazon Kindle Paperwhite (7Th Generation) Assessment - Your Ultimate Reading Companion</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/das-problem-mit-dem-beschadigten-c-laufwerk-in-windows-datenschutzstrategien-and-reparatursmoglichkeiten/"><u>Das Problem Mit Dem Beschädigten C-Laufwerk in Windows 지원: Datenschutzstrategien & Reparatursmöglichkeiten</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/t-recommendations-for-efficient-gif-makers/"><u>Expert Recommendations for Efficient GIF Makers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-samsung-850-evo-firmware-and-device-drivers-download/"><u>Latest Samsung 850 EVO Firmware and Device Drivers Download</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nano-filled-composite-resins-offer-better-wear-resistance-smoother-surfaces-for-esthetics-and-can-incorporate-antimicrobial-agents-to-inhibit-bacterial-grow129/"><u>Nano-Filled Composite Resins Offer Better Wear Resistance, Smoother Surfaces for Esthetics, and Can Incorporate Antimicrobial Agents to Inhibit Bacterial Growth.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-new-features-in-apple-watch-series-6-a-steady-climb-to-greatness/"><u>Reviewing the New Features in Apple Watch Series 6: A Steady Climb to Greatness</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-features-in-a-stylish-frame-detailed-review-of-the-michael-kors-access-gen-5e-mkgo-watch/"><u>Smart Features in a Stylish Frame: Detailed Review of the Michael Kors Access Gen 5E MKGO Watch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ideal-blend-of-portability-and-price-an-insightful-evaluation-of-the-microsoft-surface-laptop-go-ultrabook/"><u>The Ideal Blend of Portability and Price - An Insightful Evaluation of the Microsoft Surface Laptop Go Ultrabook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-evaluation-of-the-trendy-and-tech-savvy-blueear-bluetooth-beanie-hat-for-music-lovers/"><u>The Ultimate Evaluation of the Trendy & Tech-Savvy Blueear Bluetooth Beanie Hat for Music Lovers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-treatment-creating-gifs-without-spending-a-dime-for-2024/"><u>Twitter Treatment Creating GIFs Without Spending a Dime for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
 

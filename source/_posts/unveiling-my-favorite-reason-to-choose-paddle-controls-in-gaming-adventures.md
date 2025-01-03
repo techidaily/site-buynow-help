@@ -1,7 +1,7 @@
 ---
 title: Unveiling My Favorite Reason to Choose Paddle Controls in Gaming Adventures
-date: 2024-12-04T01:06:18.649Z
-updated: 2024-12-09T16:35:17.463Z
+date: 2025-01-02T17:48:22.486Z
+updated: 2025-01-03T16:42:49.971Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Unveiling My Favorite Reason to Choose Paddle Controls in Gaming Adventures
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Controls Hard to Reach? Remap to a Rear Paddle](https://some-skills.techidaily.com/new-utilizing-film-content-a-strategy-for-teachers/)
@@ -25,7 +21,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [On Steam Deck and ROG Ally, Rear Paddles Take Things to the Next Level](https://fox-links.techidaily.com/updated-in-2024-elevate-your-drone-game-with-these-top-mods/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Native support for rear buttons on devices like the Steam Deck and ROG Ally allows for in-depth mapping and modifier functions.
 
  The best thing about my 8Bitdo Ultimate 2.4G controller is the pair of paddle buttons on the back. Add to that the fact that both my Steam Deck and ROG Ally come with paddle buttons and I’ve gotten so used to this setup that I don’t want to game with an old-fashioned controller anymore.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Controls Hard to Reach? Remap to a Rear Paddle
 
@@ -50,6 +50,10 @@ Valve
 
  Considering that I have medium-sized hands, I found that using paddles is much more convenient than having to reach for bumpers. Nowadays, I use paddles instead of bumpers in most games I play. If you have small hands, I reckon back paddles could massively improve your gaming experience, especially on devices like the Steam Deck, which is not very friendly to gamers with small hands.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Rear Paddles Make Some Control Schemes Easier to Use
 
  But that’s not all. The two buttons I hate using on every controller are the thumbstick clicks, also known as L3 or LS and R3 or RS. They are hard to press on most controllers, yet you end up accidentally pressing them in high-tension moments, usually right when you don't want to. The most egregious example of a game with annoying L3/R3 mappings I’ve found to date is _Everspace 2_. A highly enjoyable spaceship shooter but, as those usually go, a game with a highly convoluted control scheme.
@@ -58,15 +62,15 @@ Valve
 
 ![rear-of-the-asus-rog-ally-3jpg_53307363035_o](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/rear-of-the-asus-rog-ally-3jpg_53307363035_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  The solution is to remap L3 and R3 to the paddles, and the result is glorious. I can’t explain just how delightful it is not to have to press and hold the thumbsticks and instead use easy-to-reach and easy-to-press paddle buttons. Because of this, I even forgo using one of the two paddle buttons on my ROG Ally as a modifier in _Everspace 2_.
 
  Paddle buttons also allowed me to finally try playing racing games with manual transmission. I just can’t bother using manual on a regular controller because it’s either mapped to the bumpers, which are hard to reach, or face buttons, which leads to me pressing the wrong button in tense moments. Now, I can finally enjoy driving cars with manual shifting without needing a wheel, which is great considering [I much prefer gaming on my handhelds](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) than on my PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Paddle Controller Gives Me an Edge in Multiplayer Games
 
@@ -75,10 +79,6 @@ Hannah Stryker / How-To Geek
  It’s super convenient to remap air roll in _Rocket League_ and have it readily available on both paddles instead of having to reach for R1 while juggling the acceleration on R2\. Now I can feather the throttle with my right index finger while holding the air roll and making adjustments with my left hand. Perfect.
 
  In shooters like _Call of Duty_, on the other hand, I can reload, jump, and crouch or slide without taking my thumb off the right thumbstick. This means I can always adjust my aim, even while reloading or sliding. For console players who have little choice but to use a controller, this can be a huge boon. You can get [a similar advantage](https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v29e-drfone-by-drfone-virtual-android/) in other FPS games since most of them have frequently used moves mapped to face buttons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  On Steam Deck and ROG Ally, Rear Paddles Take Things to the Next Level
 
@@ -89,7 +89,7 @@ Hannah Stryker / How-To Geek
 ![Sony's DualSense Edge controller rear paddles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dualsense_paddles.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sony
@@ -115,19 +115,22 @@ Sony
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-enhance-your-screenshot-experience-apple-and-androids-best-sticker-add-ons/"><u>[New] Enhance Your Screenshot Experience Apple & Android's Best Sticker Add-Ons</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728502458965-vs/"><u>完全ガイド：クイックフォーマットVSフルフォーマット - 差異を解明する</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a05s-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy A05s support MKV video files?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-13-mini-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 13 mini</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-documentation-and-photography-flatbed-scanners/"><u>Leading Documentation and Photography Flatbed Scanners</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lg-gram-17-review-a-featherweight-laptop-offering-impressive-performance/"><u>LG Gram 17 Review: A Featherweight Laptop Offering Impressive Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mars-new-city-builders-unleash-windy-havoc-for-entertaining-escapades/"><u>Mars' New City Builders Unleash Windy Havoc for Entertaining Escapades</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-arlo-security-suite-a-practical-installation-walkthrough/"><u>Navigating the Arlo Security Suite: A Practical Installation Walkthrough</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/powershot-g7x-mark-ii-the-compact-leader-in-photography/"><u>PowerShot G7X Mark II – The Compact Leader in Photography</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pros-and-cons-of-the-lg-k92-determining-if-5g-is-a-game-changer/"><u>Pros and Cons of the LG K92: Determining if 5G Is a Game Changer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-play-40c-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor Play 40C</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-firmware-conflict-on-precision-3252/"><u>Solve Firmware Conflict on Precision 3252</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unboxing-and-testing-the-msi-power-supply-unit-psu-model-mpg-a10-expert-analysis-and-review/"><u>Unboxing & Testing the MSI Power Supply Unit (PSU) Model MPG A10# - Expert Analysis and Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/uniting-digital-and-physical-worlds-for-2024/"><u>Uniting Digital and Physical Worlds for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-recording-methods-for-environmentally-friendly-screens/"><u>[New] 2024 Approved Best Recording Methods for Environmentally Friendly Screens</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-future-unfurled-an-insight-into-benq-sw320s-4k-display/"><u>[New] 2024 Approved The Future Unfurled An Insight Into BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-amazon-fire-hd-10-for-children-top-parentally-managed-tablet-on-the-market/"><u>Comprehensive Guide to the Amazon Fire HD 10 for Children: Top Parentally Managed Tablet on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-effortlessly-managed-tp-link-deco-p9-network-system/"><u>Comprehensive Review of the Effortlessly Managed TP-LInk Deco P9 Network System</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/correcting-sheet-overflow-in-an-epson-device/"><u>Correcting Sheet Overflow in an Epson Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/framegauge-evaluator-suite-for-2024/"><u>FrameGauge Evaluator Suite for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-motion-control-in-vr-keeping-nausea-at-bay/"><u>In 2024, Motion Control in VR Keeping Nausea at Bay</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-moto-g-stylus-evaluation-the-best-budget-friendly-smartphone-with-a-pen/"><u>In-Depth Moto G Stylus Evaluation: The Best Budget-Friendly Smartphone with a Pen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kinetic-illustration-101-core-skills-and-concepts/"><u>Kinetic Illustration 101 Core Skills & Concepts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-gameplay-a-comprehensive-review-of-the-asus-rog-rapture-gt-ax11000-gaming-router-with-lightning-fast-speeds/"><u>Maximizing Your Gameplay: A Comprehensive Review of the ASUS ROG Rapture GT-AX11000 Gaming Router with Lightning Fast Speeds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch3-review-a-classic-look-with-modern-upgrades/"><u>Samsung Galaxy Watch3 Review: A Classic Look with Modern Upgrades</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-repairing-windows-registry-issues-and-errors-with-yls-solutions/"><u>Step-by-Step Guide to Repairing Windows Registry Issues & Errors with YL's Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-asus-bw-16d1x-u-blu-ray-writer-an-analysis-of-its-chic-appearance-and-unique-quirks/"><u>The Asus BW-16D1X-U Blu-Ray Writer - An Analysis of Its Chic Appearance and Unique Quirks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-lenovo-tab-m10-hd-2020-unveiled-best-value-for-online-entertainment-and-connectivity-in-a-tablet/"><u>The Lenovo Tab M10 HD (2020) Unveiled: Best Value for Online Entertainment and Connectivity in a Tablet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-minecraft-guide-a-family-friendly-adventure-in-a-blocky-universe/"><u>Ultimate Minecraft Guide: A Family-Friendly Adventure in a Blocky Universe</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unbeatable-endurance-moto-g-powers-exceptional-battery-performance-wrapped-up-nicely/"><u>Unbeatable Endurance: Moto G Power's Exceptional Battery Performance Wrapped Up Nicely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-strategies-how-apple-can-outshine-microsoft-and-google-with-revolutionary-moves-at-wwdc-2024-insights/"><u>Unveiling Strategies: How Apple Can Outshine Microsoft & Google with Revolutionary Moves at WWDC 2024 - Insights</u></a></li>
 </ul></div>
 

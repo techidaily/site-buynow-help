@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers"
-date: 2024-12-12T05:17:07.504Z
-updated: 2024-12-16T00:51:31.785Z
+date: 2024-12-27T16:36:58.541Z
+updated: 2025-01-03T17:50:07.814Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 ---
 
 ## The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,12 +31,16 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 
  I love gaming on my PC because there’s a wider selection of games, and I have a desktop that is more powerful than any console on the market. Despite this, I exclusively play games using a controller and avoid using my keyboard and mouse. That may sound blasphemous, but I have some good reasoning.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  The Pinky Problem 
 
 ![Fingers in awkward position on a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/fingers-in-awkward-position-on-a-keyboard.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
@@ -46,16 +54,12 @@ Ismar Hrnjicevic / How-To Geek
  Controllers offer a more ergonomic alternative. Your fingers wrap naturally around them, moving freely, especially the [Xbox Elite controllers](https://youtube-clips.techidaily.com/the-rise-and-challenges-of-video-streaming-profits/) and their [game-changing back buttons](https://some-skills.techidaily.com/the-best-ai-naming-assistants-for-podcast-innovation-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Controllers Are Better for My Preferred Game Genres 
 
 ![A collage of hypothetical 3rd person ARPG games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-collage-of-hypothetical-3rd-person-arpg-games.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -105,10 +109,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  This is the main reason I decided to get a gamepad. I can easily grab my controller, plop down anywhere in my room, and start gaming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7  Breaks My Work Discipline 
 
  Most of us don't have a gaming PC _and_ an office PC, all we have is a PC. On this system, we do our work and we play our games, which is just a recipe for procrastination. I can't count how many times I jumped into a gaming session because I had to do some work that was boring or tiring. I thought a quick gaming session would clear my mind, but all it did was tick away an hour or two of the workday.
@@ -130,7 +130,7 @@ Ismar Hrnjicevic / How-To Geek
  My [current mechanical keyboard has hot-swappable](https://facebook-record-videos.techidaily.com/streamlining-visual-storytelling-with-youtube-videos-for-2024/) switches, so technically, if a key falters, I can pull it out and replace it. However, considering this and all the above points, it’s just more convenient to have a dedicated gamepad for gaming while preserving my keyboard and mouse for work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9  A Spare Keyboard and Mouse Will Take Up Too Much Desk Space 
@@ -162,24 +162,20 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-television-or-projector-unraveling-the-best-for-4k-viewing-pleasure/"><u>[New] Television or Projector? Unraveling the Best for 4K Viewing Pleasure</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-ios-meets-android-an-in-depth-look-at-facial-tech/"><u>2024 Approved IOS Meets Android An In-Depth Look at Facial Tech</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-shed-price-chains-with-free-video-player-pcmac/"><u>2024 Approved Shed Price Chains with Free VIDEO Player (PC/Mac)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-newly-revamped-echo-dot-4th-gens-innovative-appearance-reviewed/"><u>Exploring the Newly Revamped Echo Dot - 4Th Gen's Innovative Appearance Reviewed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-enhancement-new-amd-hd-6950-update-on-windows-11-os/"><u>Graphics Enhancement - New AMD HD 6950 Update on Windows 11 OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-gains-latest-nvidia-geforce-drivers-for-windows-os/"><u>Graphics Gains: Latest NVIDIA GeForce Drivers for Windows OS</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-a60withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel A60with/without a PC</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-overcome-the-error-0x808-in-windows-11-system-restore-top-tips-plus-quick-fixes/"><u>How to Overcome the Error 0X80^8 in Windows 11 System Restore [Top Tips + Quick Fixes]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-zte-nubia-flip-5g-easily-by-drfone-android/"><u>How To Unlock a ZTE Nubia Flip 5G Easily?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-screen-snatching-solution/"><u>In 2024, Screen Snatching Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-huion-inspiroy-g1t-drawing-tablet-delivers-exceptional-quality-and-performance/"><u>In-Depth Analysis: How the Huion Inspiroy G1t Drawing Tablet Delivers Exceptional Quality and Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-tp-link-av2000-network-adapter-top-speed-delivered-with-mediocre-design-choices/"><u>In-Depth Review of the TP-Link AV2000 Network Adapter: Top Speed Delivered with Mediocre Design Choices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-speech-recognition-software-choices/"><u>Leading Speech Recognition Software Choices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-wireless-pointing-devices-reviewed-2024-edition/"><u>Leading Wireless Pointing Devices Reviewed: 2024 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lenovo-tab-m10-fhd-plus-2020-review/"><u>Lenovo Tab M10 FHD Plus (2020) Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/linksys-wrt1900acs-open-source-wi-fi-router-review/"><u>Linksys WRT1900ACS Open Source Wi-Fi Router Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-workday-efficiency-with-these-proven-time-saving-tactics-according-to-zdnets-experts/"><u>Maximize Workday Efficiency with These Proven Time-Saving Tactics, According to ZDNet's Experts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-your-wi-fi-experience-with-synology-rt2600ac-exceptional-reach-and-parental-control-capabilities-explored/"><u>Maximize Your Wi-Fi Experience with Synology RT2600ac – Exceptional Reach and Parental Control Capabilities Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigate-the-stars-an-in-depth-analysis-of-star-wars-squadrons-interactive-arenas/"><u>Navigate the Stars: An In-Depth Analysis of 'Star Wars: Squadrons' Interactive Arenas</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adding-pizzazz-to-your-footage-with-moving-text/"><u>[Updated] Adding Pizzazz to Your Footage with Moving Text</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-value-wristband-gadget-comprehensive-examination-of-the-fitbit-versa-lite/"><u>Best Value Wristband Gadget: Comprehensive Examination of the Fitbit Versa Lite</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-amazon-fire-hd-10-tablet-analysis-perfect-choice-for-family-entertainment/"><u>Comprehensive Amazon Fire HD 10 Tablet Analysis - Perfect Choice for Family Entertainment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-deals-acers-finest-bargains-for-prime-day-shopping-extravaganza-2e4/"><u>Exclusive Deals: Acer's Finest Bargains for Prime Day Shopping Extravaganza 2E4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-rating-of-the-oneplus-6t-outstanding-functionality-at-an-incredible-cost/"><u>Expert Rating of the OnePlus 6T: Outstanding Functionality at an Incredible Cost</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/going-against-the-grain-instagram-video-reversal/"><u>Going Against the Grain Instagram Video Reversal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-i-tell-if-my-location-is-being-monitored-by-an-apple-airtag-expert-guide-for-peace-of-mind/"><u>How Can I Tell If My Location Is Being Monitored by an Apple AirTag? Expert Guide for Peace of Mind</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-to-proficiently-use-twitter-archives-in-2024/"><u>How to Proficiently Use Twitter Archives, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-poco-f5-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Poco F5 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-fun-with-budget-friendly-usa-karaoke-for-under-150-dollars/"><u>Maximize Your Fun with Budget-Friendly USA Karaoke for Under 150 Dollars</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sound-without-cords-the-efficacy-of-m06-headphones/"><u>Sound Without Cords: The Efficacy of M06 Headphones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-garmin-vivosmart-4s-body-battery-and-stress-management-capabilities/"><u>The Ultimate Guide to Garmin Vivosmart 4'S Body Battery and Stress Management Capabilities</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-c110-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nokia C110 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visionary-dialogue-and-scenery-a-film-lovers-treasure/"><u>Visionary Dialogue and Scenery A Film Lover's Treasure</u></a></li>
 </ul></div>
 

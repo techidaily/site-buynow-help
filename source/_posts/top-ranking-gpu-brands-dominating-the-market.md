@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking GPU Brands Dominating the Market
-date: 2024-12-11T19:14:44.276Z
-updated: 2024-12-16T06:42:36.123Z
+date: 2025-01-02T16:26:51.717Z
+updated: 2025-01-03T16:51:37.289Z
 tags:
   - games
   - tv
@@ -68,10 +68,6 @@ Best GPU for Gaming
 
 ![ASUS RTX 4080 ProArt against a blue and green background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/asus-rtx-4080-proart-best-gpus-of-2024-01.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _ASUS_
 
 | Pros                                           | Cons                              |
@@ -95,10 +91,14 @@ _ASUS_
 ![ASUS RTX 4080 ProArt BEst GPUs of 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/asus-rtx-4080-proart-best-gpus-of-2024.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best NVIDIA GPU Overall
 
@@ -133,11 +133,11 @@ _SAPPHIRE_
 
 ![Sapphire 11325-04-20G Pulse AMD Radeon RX 7900 GRE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sapphire-11325-04-20g-pulse-amd-radeon-rx-7900-gre.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best AMD GPU Overall
 
@@ -172,6 +172,10 @@ _GIGABYTE_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Budget NVIDIA GPU
 
 #####  GIGABYTE GeForce RTX 4060 GAMING OC
@@ -181,10 +185,6 @@ $249 $320 Save $71
 While not a champ when it comes to gaming performance or bang-for-buck value, the GIGABYTE GeForce RTX 4060 GAMING OC is an excellent GPU for 1080p gaming, especially because you're getting both DLSS and DLSS frame generation.
 
 [$249 at Amazon](https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-N4060GAMING-OC-8GD/dp/B0C8KQRH32?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-graphics-cards%2F&asc%5Fcampaign=Commerce) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3D2QzUaswX1as%26mid%3D44583%26u1%3DUUhtgUeUpU2003007%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fareyouahuman%253Freferer%253Dhttps%25253A%25252F%25252Fwww.newegg.com%25252Fgigabyte-geforce-rtx-4060-gv-n4060gaming-oc-8gd%25252Fp%25252FN82E16814932628%26ourl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-geforce-rtx-4060-gv-n4060gaming-oc-8gd%252Fp%252FN82E16814932628) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best Budget AMD GPU: [AMD Radeon RX 7600 (XFX Speedster SWFT210 Radeon RX 7600)](https://www.amazon.com/XFX-Speedster-SWFT210-Graphics-RX-76PSWFTFY/dp/B0C59RVD98?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-graphics-cards%2F&asc%5Fcampaign=Commerce) 
 
@@ -206,10 +206,6 @@ _XFX_
 
 ![XFX Speedster SWFT210 Radeon RX 7600 Graphics Card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/xfx-speedster-swft210-radeon-rx-7600-graphics-card.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Budget AMD GPU
@@ -222,13 +218,13 @@ The Radeon RX 7600 is the best current gen budget GPU offering from AMD, period.
 
 [$250 at Amazon](https://www.amazon.com/XFX-Speedster-SWFT210-Graphics-RX-76PSWFTFY/dp/B0C59RVD98?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-graphics-cards%2F&asc%5Fcampaign=Commerce) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3D2QzUaswX1as%26mid%3D44583%26u1%3DUUhtgUeUpU2003007%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fareyouahuman%253Freferer%253Dhttps%25253A%25252F%25252Fwww.newegg.com%25252Fxfx-radeon-rx-7600-rx-76pswftfy%25252Fp%25252FN82E16814150879%26ourl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fxfx-radeon-rx-7600-rx-76pswftfy%252Fp%252FN82E16814150879) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best GPU for Gaming: [NVIDIA RTX 4070 Super (ASUS Dual GeForce RTX 4070 Super OC)](https://www.amazon.com/dp/B0CQPYSF1V?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-graphics-cards%2F&asc%5Fcampaign=Commerce) 
 
 ![ASUS Dual GeForce RTX 4070 SUPER OC against an orange and pink background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/asus-dual-geforce-rtx-4070-super-oc-best-graphics-cards-01.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _ASUS_ 
 
@@ -255,6 +251,10 @@ _ASUS_
 
 ![ASUS Dual GeForce RTX 4070 SUPER OC  Best Graphics Cards.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/asus-dual-geforce-rtx-4070-super-oc-best-graphics-cards.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best GPU for Gaming
@@ -265,23 +265,23 @@ The RTX 4070 Super is the best bang-for-buck GPU from NVIDIA, with the ASUS Dual
 
 [$900 at Amazon](https://www.amazon.com/dp/B0CQPYSF1V?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003007&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-graphics-cards%2F&asc%5Fcampaign=Commerce) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3D2QzUaswX1as%26mid%3D44583%26u1%3DUUhtgUeUpU2003007%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fareyouahuman%253Freferer%253Dhttps%25253A%25252F%25252Fwww.newegg.com%25252Fasus-geforce-rtx-4070-dual-rtx4070s-o12g%25252Fp%25252FN82E16814126687%26ourl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fasus-geforce-rtx-4070-dual-rtx4070s-o12g%252Fp%252FN82E16814126687) 
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### What does GPU stand for?
 
  The GPU is an abbreviation for "graphics processing unit."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How do I check which graphics card I have?
 
  The most straightforward way to check which graphics card you have in your PC is to open Task Manager, go to the "Performance" tab, and click the "GPU 0" button. You can find more ways to check which GPU you have in our guide on [how to check what graphics card is in your PC.](https://fox-that.techidaily.com/resolve-your-iphones-or-ipads-predictive-emoji-glitches-top-7-quick-fixes/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I check to see if my GPU can fit in my PC?
 
@@ -289,13 +289,13 @@ The RTX 4070 Super is the best bang-for-buck GPU from NVIDIA, with the ASUS Dual
 
  If you own a micro ATX or mini ITX enclosure, you also have to check the width of the graphics card you're eyeing—sometimes listed in slots, where a single slot is equal to 20mm—and compare it with the GPU clearance of your case. For example, one of the most popular ITX cases around, the Cooler Master NR200, has a GPU width clearance of 60mm, meaning it can house up to a triple slot graphics card. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are all graphics cards compatible with all motherboards?
 
  Generally, yes, with some exceptions. For example, many single board computers don't feature a PCIe x16 slot, so you either can't fit a graphics card on them, or have to get a PCIe adapter. But in general, if the motherboard in question has a x16 PCIe slot, you should be fine. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can I use a NVIDIA GPU with an AMD CPU?
 
@@ -316,22 +316,16 @@ The RTX 4070 Super is the best bang-for-buck GPU from NVIDIA, with the ASUS Dual
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmmakers-lounge-app/"><u>[New] 2024 Approved Filmmaker's Lounge App</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-illuminating-the-path-from-auto-to-4th-gen-hdr-shooting-for-2024/"><u>[New] Illuminating the Path From Auto to 4Th Gen HDR Shooting for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-removing-unwanted-audio-from-videos-essential-steps/"><u>[New] Removing Unwanted Audio From Videos - Essential Steps</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-streamline-your-youtube-presentations-with-captions/"><u>[Updated] Streamline Your YouTube Presentations with Captions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-culmination-in-virtual-ventures/"><u>2024 Approved Ideal Culmination in Virtual Ventures</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/el-expansion-through-smart-youtube-link-building-methods/"><u>Channel Expansion Through Smart YouTube Link-Building Methods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/efficiently-saving-your-screen-the-dell-approach-for-2024/"><u>Efficiently Saving Your Screen The Dell Approach for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 13 mini?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/premium-optical-smoothie-mats-elite-list-for-superior-gaming/"><u>Premium Optical Smoothie Mats - Elite List for Superior Gaming</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionize-your-green-space-with-the-best-solar-garden-irrigation-solutions-of-this-year/"><u>Revolutionize Your Green Space with the Best Solar Garden Irrigation Solutions of This Year!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools-for-2024/"><u>The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-kid-friendly-tablets-coming-a-detailed-review/"><u>Top Kid-Friendly Tablets Coming : A Detailed Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-gaming-audio-equipment-ultimate-picks/"><u>Top Rated Gaming Audio Equipment - Ultimate Picks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranked-pc-audio-solutions-a-comprehensive-review/"><u>Top-Ranked PC Audio Solutions : A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-apple-airtag-gadgets-and-enhancements/"><u>Top-Rated Apple AirTag Gadgets & Enhancements</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-apple-watch-models-a-comprehensive-guide/"><u>Top-Rated Apple Watch Models : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-compact-energy-units-of-2/"><u>Top-Rated Compact Energy Units of 2#</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-effortless-guide-to-share-your-videos-as-shorts-on-computers-and-phones/"><u>[Updated] Effortless Guide to Share Your Videos as Shorts on Computers & Phones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-premium-audio-enhancer-on-android/"><u>2024 Approved Premium Audio Enhancer on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/eu-levies-a-staggering-2b-penalty-against-apple-over-anti-competitive-app-store-practices-insights-from-zdnet/"><u>EU Levies a Staggering $2B Penalty Against Apple Over Anti-Competitive App Store Practices - Insights From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Lenovo ThinkPhone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/learn-how-to-transform-and-save-cmivfx-tutorials-in-mp4-format-with-easy-downloader-tool/"><u>Learn How to Transform and Save cmiVFX Tutorials in MP4 Format with Easy Downloader Tool</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revealing-the-eccentricities-of-sony-walkman-ws623/"><u>Revealing The Eccentricities of Sony Walkman WS623</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-home-showdown-comparing-the-features-pros-and-cons-of-ring-and-nest-doorbells/"><u>Smart Home Showdown: Comparing the Features, Pros & Cons of Ring and Nest Doorbells</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-home-showdown-evaluating-features-of-ring-vs-nest-doorbells/"><u>Smart Home Showdown: Evaluating Features of Ring vs Nest Doorbells</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sml385btbk-singing-machine-karaoke-unit-user-friendly-vibrant-and-instantly-ready-for-fun/"><u>SML385BTBK Singing Machine Karaoke Unit: User-Friendly, Vibrant & Instantly Ready for Fun</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-verdict-on-hewlett-packards-value-driven-amd-laptop-an-expert-performance-analysis/"><u>The Verdict on Hewlett-Packard's Value-Driven AMD Laptop: An Expert Performance Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-money-mastery-from-clicks-to-checkbook-balance-for-2024/"><u>YouTube Money Mastery From Clicks to Checkbook Balance for 2024</u></a></li>
 </ul></div>
 

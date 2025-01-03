@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Latest Computer with These Spectacular Retro Game Challenges!
-date: 2024-12-06T05:42:15.932Z
-updated: 2024-12-10T03:23:54.382Z
+date: 2024-12-28T16:02:51.003Z
+updated: 2025-01-03T17:44:16.445Z
 tags:
   - games
   - tv
@@ -32,19 +32,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Kingdom Come Deliverance official screenshot showing knights in battle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/kingdom-come-deliverance-official-screenshot.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Warhorse Studios
 
  With [a sequel](https://store.steampowered.com/app/1771300/Kingdom%5FCome%5FDeliverance%5FII/) on the way in 2024, the time has never been better to give _Kingdom Come: Deliverance_  a go. While the console version looks fine, on PC this game was and remains a hardware torture test for PC. Without the benefit of modern technologies like [DLSS and frame generation](https://extra-hints.techidaily.com/new-core-understanding-of-narrative-frameworks/), you'll need a monstrous GPU to run this game at its highest settings at anything above 1080p. However, it's well worth it because the end result is still impressive, with the games more grounded and semi-realistic approach to the RPG genre.
 
  Kingdom Come: Deliverance is also well worth playing in its own right, despite its learning curve. Trying to survive as a 15th-century Bohemian peasant has never looked this good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Metro Exodus Enhanced Edition 
 
 ![Metro Exodus screenshot showing landscape with global illumination](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/metro-exodus-screenshot-showing-landscape-with-global-illumination.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4A Games
 
@@ -60,10 +64,6 @@ Remedy Entertainment
 
  In some ways, Control has aged quite well in the sense that only now can you really see the game as it was intended without low frame rates, and it's still absolutely worth it to play this strange and amazing cross of _The X-files_ and an episode of _The_ _Twilight Zone_.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4  Witcher 3 (Classic Version) 
 
 ![Witcher 3 classic official screenshot showing the back of the witcher with two swords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/witcher-3-classic-official-screenshot-showing-the-back-of-the-witcher-with-two-swords.jpg) 
@@ -76,19 +76,23 @@ CD Projekt RED
 
  The classic version of the game, however, still looks amazing, and on a modern computer you can max everything out at high-resolutions and still get butter-smooth frame rates. Classic Witcher 3 is still a looker and will still make use of whatever performance your current PC offers. Classic Witcher 3 on a modern PC is still the ultimate Witcher experience in my opinion. Amazing for a game that first came out in 2015!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5  Red Dead Redemption 2 
 
 ![Red Dead Redemption 2 official screenshot showing two coqboys riding through a field](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/red-dead-redemption-2-official-screenshot-showing-two-coqboys-riding-through-a-field.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Rockstar
 
  I loved the first _Red Dead Redemption,_ but wasn't a fan of _[Red Dead Redemption 2](https://store.steampowered.com/app/1174180/Red%5FDead%5FRedemption%5F2/)_, with its focus on "realism" and snore-inducing pace, and lack of gameplay. However, even I can't deny that this game is a visual triumph, even on PlayStation 4, where I played it first. You'd think that a game ported from the PS4 would be no problem for any modern PC, but the PC version of the game can scale to heights no console can reach.
 
  All but the most powerful current gaming PCs will struggle to offer a completely smooth experience with all of RDR2's options cranked as high as they will go, especially if you want to play at 1440p or higher, or with an ultrawide monitor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6  A Plague Tale: Innocence 
 
@@ -98,21 +102,21 @@ Asobo
 
  Released in 2019 for PC, Asobo's [_A Plague Tale: Innocence_](https://store.steampowered.com/app/752590/A%5FPlague%5FTale%5FInnocence/) was an absolute widowmaker of a game. If you wanted to play at anything faster than 30fps, you needed a truly beefy system. Thanks to the "flood of rats" mechanic, this is quite a workout for CPUs as well. Play this on a decent modern computer and the game's potential really shines.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7  The Tomb Raider Survivor Trilogy 
 
 ![Shadow of the Tomb Raider official screenshot showing Lara Croft about to backstab an enemy soldier.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shadow-of-the-tomb-raider.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Crystal Dyamics
 
  Yes, I'm cheating a little here since this is a trilogy of games, but each of the [_Tomb Raider_ reboot](https://store.steampowered.com/bundle/34203/Tomb%5FRaider%5FDefinitive%5FSurvivor%5FTrilogy/) games are still 100% worth loading up on modern systems. The later games, such as _Shadow of the Tomb Raider_ offer more modern features such as ray-traced shadows and DLSS, but they all look pretty spectacular maxed-out and at higher resolutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8  Grand Theft Auto V 
 
@@ -133,16 +137,12 @@ Lightspeed Studios
  It's funny, because when I bought my first proper 3D accelerator, the [3Dfx Voodo 3 2000](https://win-howtos.techidaily.com/guide-addressing-windows-problem-inability-to-locate-a-suitable-printer-driver-fixed/), it was specifically to play Quake II. I guess not that much has changed over the decades.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10  Batman: Arkham Knight 
 
 ![Batman Arkham Knight official image showing Batman approaching bad guys in the rain.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/batman-arkham-knight-official-image-showing-batman-approaching-bad-guys-in-the-rain.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Rocksteady Studios
 
@@ -163,22 +163,17 @@ Rocksteady Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-5-secrets-to-preventing-blank-scenes-with-obs-recording-for-2024/"><u>[New] 5 Secrets to Preventing Blank Scenes with OBS Recording for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-art-of-beats-pure-dj-visuals-available-online/"><u>[Updated] In 2024, The Art of Beats Pure DJ Visuals Available Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-lightning-labs-loading-slides-in-ppt-for-2024/"><u>[Updated] Lightning Labs Loading Slides in PPT for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/vob-mp4-movavi/"><u>網路直播無成本的 VOB 到 MP4 轉換 - 使用 Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ensuring-cyber-safety-can-windows-defender-offer-continuous-protection-from-viruses-and-hackers-inquiry-by-yl-computing/"><u>Ensuring Cyber Safety: Can Windows Defender Offer Continuous Protection From Viruses and Hackers? – Inquiry by YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-optimal-performance-rtx-2060-super-graphics-card-and-windows-11-compatible-drivers-now-available/"><u>Get Optimal Performance: RTX 2060 Super Graphics Card & Windows 11 Compatible Drivers Now Available!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-12-pro-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 12 Pro Without Apple ID Password?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/linkedin-plus-elevating-your-professional-presence-quickly/"><u>LinkedIn Plus: Elevating Your Professional Presence Quickly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-performance-why-the-alienware-aurora-r11-is-your-best-bet-in-gaming-pcs-of-2021/"><u>Mastering Performance: Why the Alienware Aurora R11 Is Your Best Bet in Gaming PCs of 2021</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-pages-in-any-weather-an-insider-review-of-the-durable-and-efficient-kobo-libra-h2o/"><u>Navigating Pages in Any Weather: An Insider Review of the Durable and Efficient Kobo Libra H2O</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-realm-of-digital-education-ranking-10-exceptional-online-learning-platforms/"><u>Navigating the Realm of Digital Education: Ranking 10 Exceptional Online Learning Platforms</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-world-of-phones-is-an-iphone-or-a-samsung-device-best-for-you/"><u>Navigating the World of Phones: Is an iPhone or a Samsung Device Best for You?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oodle-unveiled-topnotch-local-deals-and-promotions-without-the-price-tag/"><u>Oodle Unveiled: Topnotch Local Deals and Promotions Without the Price Tag</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oneplus-12r-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best OnePlus 12R Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-s10-review/"><u>Samsung Galaxy S10 Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/securing-online-play-making-and-using-a-network-id-on-the-nintendo-3ds/"><u>Securing Online Play: Making and Using a Network ID on the Nintendo 3DS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-mold-mirthful-media/"><u>[New] 2024 Approved Mold Mirthful Media</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-a-novices-guide-to-making-unforgettable-snaps-on-snapchat-for-2024/"><u>[New] A Novice's Guide to Making Unforgettable Snaps on Snapchat for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-ultimate-guide-to-selecting-superior-netgear-routers/"><u>2024'S Ultimate Guide to Selecting Superior Netgear Routers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/beyond-the-buzzwords-the-leading-edits-without-vimeo-for-2024/"><u>Beyond the Buzzwords The Leading Edits Without Vimeo for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-elite-art-tools-top-5-drawing-tablets-dominating-2024-market/"><u>Explore Elite Art Tools: Top 5 Drawing Tablets Dominating 2024 Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/headlamp-upgrades-for-peak-vehicle-performance/"><u>Headlamp Upgrades for Peak Vehicle Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-hot-30-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Infinix Hot 30 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/impostor-chatgpt-chrome-add-on-exposes-facebook-accounts/"><u>Impostor ChatGPT Chrome Add-On Exposes Facebook Accounts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-applecareplus-a-smart-choice-for-your-iphone-protection-plan/"><u>Is AppleCare+ a Smart Choice for Your iPhone Protection Plan?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jokejigsaw-crafting-comedy-graphics/"><u>JokeJigsaw Crafting Comedy Graphics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-apples-release-schedule-for-optimal-iphone-timing/"><u>Navigating Apple's Release Schedule for Optimal iPhone Timing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/savoring-a-year-of-learning-without-price/"><u>Savoring a Year of Learning without Price</u></a></li>
 </ul></div>
 

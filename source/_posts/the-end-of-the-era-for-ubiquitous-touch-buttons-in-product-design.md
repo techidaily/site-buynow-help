@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-12-23T09:24:05.929Z
-updated: 2024-12-25T05:33:30.291Z
+date: 2024-12-29T16:34:24.804Z
+updated: 2025-01-03T16:58:19.549Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## The End of the Era for Ubiquitous Touch Buttons in Product Design
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Problem With Capacitive Touch Buttons
@@ -39,10 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Capacitive Touch Buttons Are Everywhere
 
  There was a period in the late 2010s when touch buttons seemed to appear on almost everything, whether their use was justified or not. Though some manufacturers have moved away from the practice, others seem to be shoehorning capacitive panels into anything and everything.
@@ -53,6 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
@@ -60,7 +60,7 @@ Tim Brookes / How-To Geek
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
@@ -79,10 +79,6 @@ Tim Brookes / How-To Geek
 
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Some Manufacturers Ditched Touch for a Reason
 
  Fortunately, not all manufacturers still think touch buttons are a good idea. For some, they fell out of favor several generations ago when lessons were learned about their usefulness.
@@ -98,6 +94,10 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -118,17 +118,24 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovative-approaches-to-recording-verbal-notes/"><u>[New] 2024 Approved Innovative Approaches to Recording Verbal Notes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-resident-evil-village-mouse-issues/"><u>[SOLVED] Resident Evil Village Mouse Issues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-lava-blaze-2-5g-frp-bypass-by-drfone-android/"><u>About Lava Blaze 2 5G FRP Bypass</u></a></li>
-<li><a href="https://win-guides.techidaily.com/come-possono-essere-salvaguardati-gli-appunti-adesivi-su-windows-1011-guida-completa/"><u>Come Possono Essere Salvaguardati Gli Appunti Adesivi Su Windows 10/11 - Guida Completa</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/email-service-face-off-outlookcom-versus-gmail-which-wins-the-battle/"><u>Email Service Face-Off: Outlook.com versus Gmail – Which Wins the Battle?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-g42-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia G42 5G</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-unveiling-color-secrets-master-the-craft-with-our-tutorial-series/"><u>In 2024, Unveiling Color Secrets - Master the Craft with Our Tutorial Series</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-stunning-and-expansive-huion-kamvas-gt-191-digital-sketching-canvas/"><u>In-Depth Analysis of the Stunning and Expansive Huion Kamvas GT-191 Digital Sketching Canvas</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-steadicam-choices-for-improved-dslr-footage-for-2024/"><u>Leading Steadicam Choices for Improved DSLR Footage for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-game-changer-for-organization-an-in-depth-look-at-the-onetastic-add-in-for-microsoft-onenote/"><u>The Game Changer for Organization: An In-Depth Look at the Onetastic Add-In for Microsoft OneNote</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-auto-compass-systems/"><u>The Premier Selection of Auto Compass Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-list-steam-decks-top-gaming-picks/"><u>Ultimate List: Steam Deck's Top Gaming Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-practices-for-stream-backgrounds/"><u>[Updated] Best Practices for Stream Backgrounds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nexus-of-networked-realities-unveiling-metaverse-vs-omniverse/"><u>[Updated] Nexus of Networked Realities Unveiling Metaverse Vs. Omniverse</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-playback-guide-on-different-os-platforms/"><u>2024 Approved SRT Playback Guide on Different OS Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-peek-into-the-viral-world-of-stock-photo-memes/"><u>A Peek Into the Viral World of Stock Photo Memes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-attraction-to-gpt-for-malicious-purposes/"><u>Exploring the Attraction to GPT for Malicious Purposes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-helperdll-missing-or-not-found-errors/"><u>How to Fix Helper.dll Missing or Not Found Errors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>In 2024, A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-14-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi 14 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-your-privacy-how-to-identify-and-locate-a-hidden-airtag/"><u>Protect Your Privacy: How to Identify and Locate a Hidden AirTag</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quoras-poe-a-step-toward-ai-engagement/"><u>Quora's POE: A Step Toward AI Engagement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-how-the-linksys-velop-reinvents-mesh-networking-technology/"><u>The Ultimate Review: How the Linksys Velop Reinvents Mesh Networking Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tiny-yet-mighty-a-comprehensive-echo-dot-gen-3-review-covering-all-alexa-features/"><u>Tiny Yet Mighty: A Comprehensive Echo Dot (Gen 3) Review Covering All Alexa Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-features-and-review-of-the-netgear-nighthawk-x6-wireless-mesh-extender-for-enhanced-networking/"><u>Top Features and Review of the Netgear Nighthawk X6 Wireless Mesh Extender for Enhanced Networking</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-key-trackers-a-comprehensive-review/"><u>Top-Rated Key Trackers : A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-rest-a-thorough-review-of-the-ihome-zenergy-therapeutic-nighttime-companer-rise-and-shine-revitalized/"><u>Transforming Rest: A Thorough Review of the IHome Zenergy Therapeutic Nighttime Companer – Rise and Shine Revitalized</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-the-finest-wide-mouse-pads/"><u>Ultimate Selection: The Finest Wide Mouse Pads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-lg-stylo-6-a-blend-of-style-and-writing-accuracy-insightfully-reviewed/"><u>Unboxing the LG Stylo 6 – A Blend of Style and Writing Accuracy Insightfully Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-creative-potential-the-definitive-guide-to-huion-kamvas-gt-191-tablet/"><u>Unleash Your Creative Potential - The Definitive Guide to Huion Kamvas GT-191 Tablet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-choose-chatgpt-plus-here-are-5-insights-that-show-why-you-shouldnt-miss-out/"><u>Why Choose ChatGPT Plus? Here Are 5 Insights That Show Why You Shouldn't Miss Out!</u></a></li>
 </ul></div>
 

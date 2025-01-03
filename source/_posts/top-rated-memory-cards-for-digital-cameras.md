@@ -1,7 +1,7 @@
 ---
 title: Top Rated Memory Cards for Digital Cameras
-date: 2024-12-10T01:59:48.908Z
-updated: 2024-12-15T23:25:38.966Z
+date: 2025-01-01T17:37:07.191Z
+updated: 2025-01-03T17:38:34.947Z
 tags:
   - games
   - tv
@@ -44,10 +44,6 @@ Best High Capacity SD Card for Cameras
 ![kingston 32gb](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/kingston-32gb.png)  
 #####  Kingston 128GB microSDXC Canvas React Plus Micro SD Card  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best Micro SD Card For Cameras  
 [See at amazon](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce)
 
@@ -80,11 +76,19 @@ Best Micro SD Card For Cameras
 
  How-To Geek's product recommendations come from the same team of experts that have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best SD Card for Cameras Overall: [Lexar Professional 2000x](https://www.bhphotovideo.com/c/product/1592045-REG/lexar%5Flsd2000064g%5Fbnnnu%5F64gb%5F2000x%5Fsd%5Fuhs%5Fii.html/BI/22163/KBID/28708/SID/UUhtgUeUpU205942) 
 
 [](https://www.bhphotovideo.com/c/product/1592045-REG/lexar%5Flsd2000064g%5Fbnnnu%5F64gb%5F2000x%5Fsd%5Fuhs%5Fii.html/BI/22163/KBID/28708/SID/UUhtgUeUpU205942)
 
 [![Lexar Professional SD on table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/lexar-2000x-2.jpg) Lexar](https://www.bhphotovideo.com/c/product/1592045-REG/lexar%5Flsd2000064g%5Fbnnnu%5F64gb%5F2000x%5Fsd%5Fuhs%5Fii.html/BI/22163/KBID/28708/SID/UUhtgUeUpU205942)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [](https://www.bhphotovideo.com/c/product/1592045-REG/lexar%5Flsd2000064g%5Fbnnnu%5F64gb%5F2000x%5Fsd%5Fuhs%5Fii.html/BI/22163/KBID/28708/SID/UUhtgUeUpU205942) 
 
@@ -107,15 +111,7 @@ Best Micro SD Card For Cameras
 
 ![lexar profesisonal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/lexar-profesisonal.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best SD Card For Cameras Overall
 
@@ -146,6 +142,10 @@ Lexar offers pro-level speed and performance for a very affordable price.
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Budget SD Card For Cameras
 
 #####  Transcend 32 GB Uhs-II Class 3 V90 SDHC Flash Memory Card
@@ -154,13 +154,13 @@ A powerful SD card for photographers on a budget, the V90 can stand toe-to-toe w
 
 [See at amazon](https://www.amazon.com/dp/B07DRP77YW?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best SD Card for Cameras Under $25: [SanDisk Extreme Pro 64GB UHS-I](https://www.amazon.com/dp/B07H9J1YXN?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
 ![A SanDisk Extreme Pro 64GB UHS-I SD card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/background-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 | Pros                                                    | Cons                                                          |
 | ------------------------------------------------------- | ------------------------------------------------------------- |
@@ -176,10 +176,6 @@ A powerful SD card for photographers on a budget, the V90 can stand toe-to-toe w
 
 ![SanDisk 64GB Extreme PRO](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/sandisk-64gb-extreme-pro.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best SD Card for Cameras Under $25
@@ -190,9 +186,17 @@ SanDisk offers a workhorse SD memory card that will keep up with whatever you th
 
 [See at amazon](https://www.amazon.com/dp/B07H9J1YXN?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best High Capacity SD Card for Cameras: [SanDisk 1TB Extreme PRO SDXC UHS-II](https://www.amazon.com/SanDisk-Extreme-UHS-II-Memory-SDSDXEP-1T00-GN4IN/dp/B0BXZ6DXFL?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
 
 ![A SanDisk 1TB Extreme PRO SDXC UHS-II memory card submerging in water](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/sandisk-1tb-extreme-pro-sdxc-uhs-ii.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 SanDisk
 
@@ -216,10 +220,6 @@ SanDisk
 
 ![SanDisk 1TB Extreme PRO SDXC UHS-II](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/sandisk-1tb-extreme-pro-sdxc-uhs-ii-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best High Capacity SD Card for Cameras
 
 #####  SanDisk 1TB Extreme PRO SDXC UHS-II
@@ -229,7 +229,7 @@ The SanDisk 1TB Extreme Pro SDXC UHS-II is a fast, high-capacity SD card for pro
 [$286 at Amazon](https://www.amazon.com/SanDisk-Extreme-UHS-II-Memory-SDSDXEP-1T00-GN4IN/dp/B0BXZ6DXFL?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/SanDisk-1TB-Extreme-PRO-SDXC-UHS-II-Memory-Card-SDSDXEP-1T00-GN4IN/5221162024?athbdg=L1600) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Micro SD Card for Cameras: [Kingston Canvas React Plus](https://www.amazon.com/Kingston-128GB-microSDXC-Memory-Card-MLPMR2/dp/B08588JBN5?tag=hotoge-20&ascsubtag=UUhtgUeUpU205942&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F805227%2Fbest-sd-card-for-cameras%2F&asc%5Fcampaign=Commerce) 
@@ -268,16 +268,12 @@ Need a microSD for your camera? Kingston has a high-storage, high-speed card tha
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How do you format an SD card for a camera?
 
  The best way to format your SD card is generally on the camera itself. See our guide on[safely formatting SD cards for your camera](https://facebook-videos.techidaily.com/updated-2024-approved-bringing-your-outdoor-experiences-home-gopro-livestreams-on-facebookperiscope/) for a full walkthrough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I transfer photos from an SD card?
@@ -289,12 +285,16 @@ Need a microSD for your camera? Kingston has a high-storage, high-speed card tha
  Yes,[formatting your SD card will wipe its memory](https://youtube-blog.techidaily.com/aster-youtube-sound-playback-variations-for-2024/). Be sure you have backups of the photos you want before going through with the formatting process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What does the 'SD' in SD card stand for?
 
  Coined by the[SD Association](https://www.sdcard.org/), "SD" stands for "Secure Digital."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I transfer data from an SD card?
 
@@ -315,15 +315,19 @@ Need a microSD for your camera? Kingston has a high-storage, high-speed card tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-compact-guide-to-transforming-vocal-identity-quickly-in-pubg/"><u>[New] 2024 Approved The Compact Guide to Transforming Vocal Identity Quickly in PUBG</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-the-mechanics-of-subscriber-tracking/"><u>[Updated] In 2024, Decoding the Mechanics of Subscriber Tracking</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exploring-the-unique-aspects-of-windows-10-s-a-comparative-insight/"><u>Exploring the Unique Aspects of Windows 10 S - A Comparative Insight</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-xcover-6-pro-tactical-edition-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy XCover 6 Pro Tactical Edition Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-utilization-of-polarr-for-professional-results-for-2024/"><u>Step-By-Step Utilization of Polarr for Professional Results for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/streamlining-the-recording-process-in-virtual-gatherings/"><u>Streamlining the Recording Process in Virtual Gatherings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-gadgets-and-enhancements/"><u>Top Rated iPad Gadgets and Enhancements</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-iphone-15-pro-max-protective-covers-ultimate-shopping-list/"><u>Top Rated iPhone 15 Pro Max Protective Covers - Ultimate Shopping List</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-case-picks-for-the-new-2023-9th-gen-model-enhance-your-device/"><u>Top-Rated iPad Case Picks for the New 2023 9Th Gen Model: Enhance Your Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-iphone-protective-covers-2023-edition/"><u>Top-Rated iPhone Protective Covers - 2023 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-affordable-skybanking-for-heavy-data-hoarding/"><u>[New] Affordable SkyBanking for Heavy Data Hoarding</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expert-tutorial-quick-hassle-free-ios-snapshots-for-2024/"><u>[Updated] Expert Tutorial Quick, Hassle-Free iOS Snapshots for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-discovering-the-best-uses-for-nikon-d7500/"><u>[Updated] In 2024, Discovering the Best Uses for Nikon D7500</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-shots-essential-tips-for-capturing-great-iphone-images/"><u>[Updated] The Art of Shots Essential Tips for Capturing Great iPhone Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-benefits-turning-on-auto-hdr-in-windows-11/"><u>2024 Approved Explore the Benefits Turning On Auto HDR in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/data-mastery-with-ai-explore-these-6-chatgpt-methods-for-analytics/"><u>Data Mastery with AI: Explore These 6 ChatGPT Methods for Analytics</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performers-comprehensive-guide-to-using-the-halo-bolt-portable-chargerjump-starter/"><u>Top Performers: Comprehensive Guide to Using the Halo Bolt Portable Charger/Jump Starter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-phone-shops-where-to-find-the-perfect-device/"><u>Top Rated Phone Shops: Where to Find the Perfect Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-rca-video-doorbell-camera-delivers-superior-security-quality/"><u>Top Review of RCA Video Doorbell Camera - Delivers Superior Security Quality</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-twitter-video-tools-effortless-video-uploading/"><u>Top Twitter Video Tools Effortless Video Uploading</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-link-archer-a9-review/"><u>TP-Link Archer A9 Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-the-finest-mac-trackball-and-optical-mice-of-2024/"><u>Ultimate Selection: The Finest Mac Trackball & Optical Mice of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-durability-and-performance-of-mobvois-ticwatch-pro-a-focus-on-battery-efficiency-and-gps-technology/"><u>Unveiling the Durability and Performance of Mobvoi's TicWatch Pro 지도: A Focus on Battery Efficiency & GPS Technology</u></a></li>
 </ul></div>
 

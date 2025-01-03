@@ -1,7 +1,7 @@
 ---
 title: Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.
-date: 2024-12-14T01:16:01.430Z
-updated: 2024-12-15T19:16:18.129Z
+date: 2024-12-30T17:17:25.970Z
+updated: 2025-01-03T17:15:56.730Z
 tags:
   - games
   - tv
@@ -84,13 +84,13 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -99,12 +99,16 @@ Jerome Thomas / How-To Geek
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -122,16 +126,12 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -154,13 +154,13 @@ Jerome Thomas / How-To Geek
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -193,21 +193,24 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-transition-logic-pro-xs-audio-fade-technique/"><u>[Updated] In 2024, Mastering Transition Logic Pro X's Audio Fade Technique</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-costlesscapture-revolutionizing-how-you-record-play/"><u>2024 Approved CostlessCapture Revolutionizing How You Record Play</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-comfort-meets-utility-in-depth-analysis-of-battery-integrated-oculus-quest-2-straps-and-companion-case/"><u>Elite Comfort Meets Utility: In-Depth Analysis of Battery-Integrated Oculus Quest 2 Straps and Companion Case</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-better-mornings-a-comprehensive-review-of-the-heimvision-sunrise-alarm-clock-series-a80s-and-its-innovative-brightness-therapy-feature/"><u>Experience Better Mornings: A Comprehensive Review of the HeimVision Sunrise Alarm Clock Series A80S and Its Innovative Brightness Therapy Feature</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/head-to-head-comparison-apple-watch-series-9-versus-fitbit-charge-6/"><u>Head-to-Head Comparison: Apple Watch Series 9 Versus Fitbit Charge 6</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-urban-armor-gear-macbook-pro-protector-analysis-sturdy-and-functional/"><u>In-Depth Urban Armor Gear MacBook Pro Protector Analysis: Sturdy & Functional</u></a></li>
-<li><a href="https://app-tips.techidaily.com/investing-in-the-future-singapore-advocates-funding-ai-integration-and-eco-friendly-technologies/"><u>Investing in the Future: Singapore Advocates Funding AI Integration and Eco-Friendly Technologies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lg-watch-style-review/"><u>LG Watch Style Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/live-music-lovers-guide-to-safe-hearing/"><u>Live Music Lovers' Guide to Safe Hearing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-coverage-elite-signal-boosters-for-smartphones/"><u>Maximize Coverage: Elite Signal Boosters for Smartphones</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/seamless-e-book-reading-how-to-access-kindle-titles-on-your-apple-tablet/"><u>Seamless E-Book Reading: How to Access Kindle Titles on Your Apple Tablet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-anthem-game-silent-on-windows-11-troubleshooting-guide/"><u>Solve 'Anthem Game Silent' On Windows 11: Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncovering-the-structure-exploring-royal-match-tiers/"><u>Uncovering the Structure: Exploring Royal Match Tiers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-full-potential-step-by-step-guide-to-enhancing-apple-tv-functionality/"><u>Unlock Full Potential: Step-by-Step Guide to Enhancing Apple TV Functionality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-action-cameras-for-waterproof-recording-1-7/"><u>[New] 2024 Approved Action Cameras for Waterproof Recording #1-7</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-complete-how-to-for-mac-obs-plus-streamlabs-integration/"><u>[New] 2024 Approved The Complete How-To for Mac OBS + Streamlabs Integration</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/apidly-increase-views-effective-growth-hacks-for-channels-for-2024/"><u>[New] Rapidly Increase Views Effective Growth Hacks for Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-ensure-continuous-playback-of-youtube-videos-on-fb/"><u>[Updated] In 2024, How to Ensure Continuous Playback of YouTube Videos on FB</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96177233-9781623366636-an-oasis-in-time/"><u>An Oasis in Time | Free Book</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-uniden-r3-a-superior-and-durable-long-range-radar-detector/"><u>Comprehensive Analysis of the Uniden R3 - A Superior and Durable Long Range Radar Detector</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-a-visual-statement-with-stellar-podcast-artwork-for-2024/"><u>Creating a Visual Statement with Stellar Podcast Artwork for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/garmin-vivoactive-3-unveiled-elevating-workouts-and-work-tunes-for-optimal-fitness/"><u>Garmin Vivoactive 3 Unveiled: Elevating Workouts and Work Tunes for Optimal Fitness</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-c210-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia C210 to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-list-digital-dominators-in-av-production/"><u>In 2024, Exclusive List Digital Dominators in AV Production</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-repair-of-nonfunctional-dvd-bd-and-cd-readers/"><u>Mastering the Repair of Nonfunctional DVD, BD & CD Readers</u></a></li>
+<li><a href="https://win-web.techidaily.com/moving-music-forward-how-to-convert-and-transfer-spotify-playlists-onto-deezer/"><u>Moving Music Forward: How to Convert and Transfer Spotify Playlists Onto Deezer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tablet-buying-strategy-balancing-portability-with-performance-in-size-and-weight/"><u>Tablet Buying Strategy: Balancing Portability with Performance in Size and Weight</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-latest-and-greatest-2024s-premier-compact-charger-units-for-your-laptop/"><u>The Latest and Greatest: 2024'S Premier Compact Charger Units for Your Laptop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/thorough-oneplus-nord-n100-evaluation-top-pick-for-affordable-smartphones/"><u>Thorough OnePlus Nord N100 Evaluation: Top Pick for Affordable Smartphones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unbeatable-amazon-prime-day-blowouts-get-your-hands-on-the-best/"><u>Unbeatable Amazon Prime Day Blowouts: Get Your Hands on the Best</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-your-security-arsenal-hands-on-with-blinks-wireless-floodlight-light-cameras/"><u>Unpacking Your Security Arsenal: Hands-On with Blink's Wireless Floodlight Light Cameras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-and-features-of-apples-top-laptop-macbook-pro-16-m1-202n-model/"><u>Unveiling the Performance & Features of Apple's Top Laptop - MacBook Pro 16 M1, 202N Model</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-practicality-with-the-acer-xf2-40-workstation/"><u>Unveiling the Power of Practicality with the Acer XF2-40 Workstation</u></a></li>
 </ul></div>
 

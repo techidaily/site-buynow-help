@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Motion: Super-Sized Stability Study"
-date: 2024-08-09T00:39:09.966Z
-updated: 2024-08-10T00:39:09.966Z
+date: 2025-01-02T17:23:36.669Z
+updated: 2025-01-03T17:07:22.835Z
 categories:
   - BestProducts
 description: "This Article Describes Mastery in Motion: Super-Sized Stability Study"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/3e80e86fdb89e0d01e5a25ed6bf14d403b0478903
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
 ![Yongnuo YN560 IV Wireless Flash Speedlite Master](https://www.lifewire.com/thmb/uk1o4WlK-bsMCk1tgtC5d79QMNM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_3LW4072366-Yongnuo-YN560-1-33b6547cc9014731ab6e144b0613aaef.jpg)
@@ -41,9 +38,9 @@ Lifewire / Jonno Hill
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## YONGNUO YN560 IV Wireless Flash Speedlite Master
 
 ![Yongnuo YN560 IV Wireless Flash Speedlite Master](https://www.lifewire.com/thmb/UOD6afkRh-xS-Dh1-iagOeoOSdY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_3LW4072366-Yongnuo-YN560-1-33b6547cc9014731ab6e144b0613aaef.jpg)
@@ -71,9 +68,9 @@ Lifewire / Jonno Hill
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: Punching above the price point**
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master features a robust design that doesn’t feel like the manufacturer skimped on build quality — one of our biggest concerns with budget-minded flashes like this. When adjusting the position of the[flash head](https://www.lifewire.com/using-the-dslr-pop-up-flash-492975) through its 90 degrees of vertical and 270 degrees of horizontal range, it felt very solid.
@@ -86,9 +83,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Features & Functionality: Full suite manual control**
 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master has a lot of different options that will make it an attractive option for manual shooters. But before we dive into all the things it does well, let’s talk about what you_won’t_ find in this flash. The most notable omission is TTL. For the uninitiated, Through The Lens (TTL) is a metering mode that lets a flash unit fire a series of infrared bursts and evaluates the actual light coming through the lens to determine how much power to deliver when taking a photo. It’s very handy to have for beginners and event photographers, but by no means essential for many other types of users.
@@ -109,9 +103,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## **Setup: A lot of reading before use**
 
  Once you unpack your flash and install the four AA batteries, you’re going to want to familiarize yourself with the buttons and menu system a little. The YN560 IV has a lot of functionality, but it doesn’t have the most intuitive interface. The front of the device contains a top row of four buttons (a Light/Music icon, Mode, a Wi-Fi icon, and Zoom). Below this is a charge indicator button marked “PILOT”, a direction pad, and an On/Off button.
@@ -125,6 +116,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
  The last quirk that users will have to familiarize themselves with is that a lot of menu functionality is only accessed by pressing two of the top row buttons simultaneously. Pressing the first two opens the advanced options, pressing the middle two issues an activation command to the slave units when in TX mode, and pressing the final two buttons lets you set the channel.
 
  Overall, the YN560 IV gives you a lot of functionality and control, but definitely requires some reading and troubleshooting before you can master the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Significant savings for manual users**
 
@@ -147,13 +142,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
  The Yongnuo YN560 IV Wireless Flash Speedlite Master may not be a very simple flash, but it packs enough functionality to make a very versatile platform for more aspirational photographers. Buyers that want full manual control and radio transmission without paying an arm and a leg will be more than pleased with what they get.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Canon Speedlite 430EX III-RT Flash](https://www.lifewire.com/canon-speedlite-430ex-iii-rt-flash-review-4686835)
 * [Nikon D3400](https://www.lifewire.com/nikon-d3400-review-4776644)
 * [Fovitec SPK10-037 Softbox Lighting Kit](https://www.lifewire.com/fovitec-spk10-037-softbox-lighting-kit-review-4692503)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -178,11 +178,31 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-one-click-humor-your-guide-to-the-ifunny-meme-app/"><u>[New] 2024 Approved One Click Humor Your Guide to the iFunny Meme App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-trendsetting-images-their-histories/"><u>[New] In 2024, Trendsetting Images Their Histories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ios-choice-premium-psp-emulators-ranked-1-5-for-2024/"><u>[New] IOS Choice Premium PSP Emulators Ranked #1-5 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-create-magic-download-premium-soundscapes-now/"><u>[Updated] Create Magic Download Premium Soundscapes Now!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-synergizing-brands-on-video-platforms/"><u>2024 Approved Synergizing Brands on Video Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-8-chatgpt-interactions-to-enhance-productivity-and-decrease-distractions/"><u>Best 8 ChatGPT Interactions to Enhance Productivity & Decrease Distractions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-samsung-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Samsung</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-controls-in-depth-analysis-of-xbox-one-elite-series-2-top-tier-gamepad-unveiled/"><u>Mastering Controls: In-Depth Analysis of Xbox One Elite Series 2, Top Tier Gamepad Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-gen-console-showdown-impressive-specs-packed-into-an-amazingly-small-xbox-series-s/"><u>Next-Gen Console Showdown: Impressive Specs Packed Into an Amazingly Small Xbox Series S</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nvidia-shield-tv-pro-review-a-powerful-streaming-device-for-gamers/"><u>Nvidia Shield TV Pro Review: A Powerful Streaming Device for Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rediscover-android-excellence-through-the-lens-of-google-pixel-3s-detailed-evaluation/"><u>Rediscover Android Excellence Through the Lens of Google Pixel 3'S Detailed Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revealing-the-apeman-c450-review-the-premier-choice-in-budget-dashcams/"><u>Revealing the Apeman C450 Review - The Premier Choice in Budget Dashcams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/roav-dashcam-c1-by-anker-features-performance-and-benefits-unveiled/"><u>Roav DashCam C1 by Anker: Features, Performance & Benefits Unveiled</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210302559-9781788176460-runes-made-easy/"><u>Runes Made Easy | Free Book</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-garmin-venu-guidebook-a-smart-and-reliable-partner-in-fitness-and-health-tracking/"><u>The Complete Garmin Venu Guidebook: A Smart and Reliable Partner in Fitness & Health Tracking</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-asus-chromebook-c202sa-robust-performance-in-a-learning-environment/"><u>The Ultimate Guide to Asus Chromebook C202SA: Robust Performance in a Learning Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-gear-a-comprehensive-guide-to-cutting-edge-hardware/"><u>Tom's Tech Gear: A Comprehensive Guide to Cutting-Edge Hardware</u></a></li>
+</ul></div>
+

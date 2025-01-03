@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full Potential: The Benefits of Equipping Every Controller with Custom Thumbstick Covers"
-date: 2024-12-08T03:51:07.338Z
-updated: 2024-12-09T18:09:36.667Z
+date: 2024-12-30T16:50:00.095Z
+updated: 2025-01-03T16:04:54.796Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 ## Unlocking Full Potential: The Benefits of Equipping Every Controller with Custom Thumbstick Covers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 
 ![A pair of thumbsticks with degraded rubber covering the plastic body.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-02.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  By then, I had heard about thumbstick covers and decided to slip them on said controller. The result was phenomenal. I used the controller until mid-2022 before it died, with the sticks staying the same as they were the moment I put the thumbstick covers on. There was no further rubber degradation after almost half a decade of heavy use.
 
  Impressed by the results on my Xbox controller, I equipped my [Nintendo Switch Lite](https://win11.techidaily.com/1719355296197-dimming-windows-11-brightness-simple-fixes-unveiled/) with thumbstick covers on day one. As you can see below, its analog sticks still look pristine even though I’ve enjoyed the tiny console for hundreds, if not a thousand-plus hours. I did the same with my two PS4 controllers, and those, too, looked pristine when I sold the console in 2021.
@@ -44,10 +40,14 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 ![The left analog stick on a Nintendo Switch Lite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-01.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re not someone who likes to collect controllers and instead only use one or two gamepads, thumbstick covers will prevent thumbstick rubber degradation many controllers suffer from. But that’s not the only thing they’re good at.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Covers Massively Improve Thumbstick Grip
 
@@ -64,11 +64,11 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 ![A pair of tall thumbstick covers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/thumbstick-covers-03.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  They’re Cheap and You Can Buy Them Anywhere
@@ -94,20 +94,17 @@ thumbnail: https://thmb.techidaily.com/79f8247109e3ede5c749bfadee103c2b769f1b6d9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-filming-for-tweet-sharing-content-without-retweeting/"><u>[New] In 2024, Filming for Tweet Sharing Content without Retweeting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-environmentally-friendly-cinematography-tech/"><u>[Updated] 2024 Approved Elite Environmentally Friendly Cinematography Tech</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-facebook-live-vs-youtube-live-vs-twitter-periscope/"><u>[Updated] 2024 Approved Facebook Live Vs YouTube Live Vs Twitter Periscope</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-performance-and-design-a-deep-dive-into-the-samsung-galaxy-s10-review/"><u>Elite Performance and Design: A Deep Dive Into the Samsung Galaxy S10 Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/emperor-of-rome-critique-building-an-empire-against-all-odds/"><u>Emperor of Rome Critique: Building an Empire Against All Odds</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-google-pixelbook-go-a-masterfully-designed-chromebook-with-a-premium-price-tag/"><u>Evaluating The Google Pixelbook Go - A Masterfully Designed Chromebook with a Premium Price Tag</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-toshiba-55-inch-fire-tv-edition-why-its-a-prime-asset-to-any-home/"><u>Expert Review of the Toshiba 55-Inch Fire TV Edition - Why It's a Prime Asset to Any Home</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-reviews-navigating-through-2024s-best-smartwatch-options/"><u>Expert Reviews: Navigating Through 2024'S Best Smartwatch Options</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-best-value-in-tablets-2020-review-of-lenovo-tab-m10-and-its-impressive-display-quality/"><u>Exploring the Best Value in Tablets: 2020 Review of Lenovo Tab M10 and Its Impressive Display Quality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-heaviest-hitters-the-top-10-most-visited-websites-revealed/"><u>Exploring the Heaviest Hitters: The Top 10 Most Visited Websites Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/game-on-hp-victus-15-laptop-now-a-bargain-find-for-530-at-best-buy-revealed-by-zdnet-experts/"><u>Game On! HP Victus 15 Laptop Now a Bargain Find for $530 at Best Buy, Revealed by ZDNet Experts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-360-aerial-panoramas-with-yuneec-breeze-drone-review/"><u>In 2024, 360 Aerial Panoramas with Yuneec Breeze Drone Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-a-comprehensive-guide/"><u>Solving 'No Rest for the Wicked' Game Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpt-the-essential-new-additions-to-look-out-for/"><u>Unveiling ChatGPT: The Essential New Additions to Look Out For</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-enjoy-unparalleled-quality-youtubes-elite-4k-solutions/"><u>[New] In 2024, Enjoy Unparalleled Quality YouTube's Elite 4K Solutions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-gastronomic-globe-trotting-iconic-recipes-worldwide/"><u>[Updated] 2024 Approved Gastronomic Globe-Trotting Iconic Recipes Worldwide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-premium-choices-the-best-8-tripods-for-4k-cinematography/"><u>[Updated] 2024 Approved Premium Choices The Best 8 Tripods for 4K Cinematography</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-top-20-best-twitter-unfollowers-and-tools/"><u>[Updated] 2024 Approved Top 20 Best Twitter Unfollowers & Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-equipment-for-making-a-travel-video/"><u>[Updated] Equipment for Making a Travel Video</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-gionee-unlock-without-password-by-drfone-android/"><u>5 Solutions For Gionee Unlock Without Password</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-closer-look-at-oppression-in-tropico-6-a-review-of-political-intrigue-on-a-dream-island/"><u>A Closer Look at Oppression in Tropico 6: A Review of Political Intrigue on a Dream Island</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-lenovo-ideapad-130s-laptop-compact-efficiency-meets-exceptional-functionality/"><u>Inside the Lenovo IdeaPad 130S Laptop: Compact Efficiency Meets Exceptional Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-lgs-latest-smartphone-a-blend-of-elegant-design-and-reliable-stylus-feature/"><u>Review of LG's Latest Smartphone: A Blend of Elegant Design & Reliable Stylus Feature</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/online-video-conversion-from-youtube-to-mp4/"><u>Safe Online Video Conversion - From YouTube to MP4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-of-linksyss-wrt1900acs-an-in-depth-look-at-an-open-source-wi-fi-gateway/"><u>Unveiling the Performance of Linksys's WRT1900ACS: An In-Depth Look at an Open-Source Wi-Fi Gateway</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-detailed-examination-of-the-huion-kamvas-gt-191-pen-display-for-professional-artists/"><u>Unveiling the Powerhouse: Detailed Examination of the Huion Kamvas GT-191 Pen Display for Professional Artists</u></a></li>
 </ul></div>
 

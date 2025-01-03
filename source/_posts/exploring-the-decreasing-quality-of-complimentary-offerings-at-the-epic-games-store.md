@@ -1,7 +1,7 @@
 ---
 title: Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store
-date: 2024-12-14T07:05:51.201Z
-updated: 2024-12-15T18:53:14.270Z
+date: 2025-01-02T16:19:31.142Z
+updated: 2025-01-03T17:35:27.612Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * While beneficial for building a user base, Epic's tactics may not be sustainable in the long-term.
 
  The Epic Game Store has been offering free games since it first launched in 2018\. Though much of my own game collection comes from the storefront, the quality has been on a steady downward decline.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Games Aren't What They Used to Be
 
@@ -41,6 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Screenshot of Epic Games Store browsing page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/156005c5-5.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As someone open to new gaming experiences, I'm always willing to try out something new, assuming it falls into one of the genres I enjoy. Many recent free games fall into this category, like indie puzzlers or management simulators, which do not necessarily appeal to all gamers. While some of them appeal to me, there can be too much of a good thing.
 
  The problem with offering so many games as freebies that share the same theme is that the audience gets fatigued. After my fifth management game, I realized I might not be getting a bit bored of the free lunch. I was pretty much only extending the number of games in my catalog that I had yet to finish.
@@ -51,6 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![8BitDo Ultimate Controller with 2.4GHz wireless.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-ultimate-c-2-4g.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8BitDo
 
  When I was young, I had fewer games available so I could dedicate more time to them. Fast-forward to today, and the Epic Games Store's free games are making a bad problem worse. I already have a [backlog of titles that I've bought and haven't picked up yet](https://bypass-frp.techidaily.com/in-2024-about-poco-m6-pro-4g-frp-bypass-by-drfone-android/). The additional pressure of collecting free games I might never play only serves to pad my library.
@@ -59,13 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  More Marketing, Less Promise
 
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
 
@@ -87,16 +91,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The downside is that no one on Epic's side seems to check the quality of these games. While none of them are outright shovelware, a few titles make a gamer raise their eyebrows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Should You Keep Collecting Epic's Free Games?
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  How many games do you have in your backlog? I've probably got around thirty games (not counting the free ones from Epic) to get through that I haven't started on yet. That's not even counting games that aren't out yet, which I'll also probably not get to for months or years. If you're more of a collector than a completionist, there's no problem with having these games available.
@@ -118,18 +118,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-help.techidaily.com/days-gone-gameplay-analysis-by-a-road-warrior-battling-undead-in-the-wild-west-of-apocalypse/"><u>'Days Gone' Gameplay Analysis by a Road Warrior: Battling Undead in the Wild West of Apocalypse</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-top-picks-for-vloggers-8-mirrorless-cameras-leading-the-pack/"><u>[New] 2024 Approved Top Picks for Vloggers 8 Mirrorless Cameras Leading the Pack</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-directly-uploading-youtube-vids-to-multiple-social-sites-focusing-on-fb/"><u>[Updated] In 2024, Directly Uploading YouTube Vids to Multiple Social Sites, Focusing on FB</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-photo-editing-the-eraser-guide-in-psx/"><u>[Updated] Mastering Photo Editing The Eraser Guide in PSX</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-elite-list-15-high-quality-unboxing-vids-of-2024/"><u>[Updated] The Elite List 15 High-Quality Unboxing Vids of 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-apple-iphone-xs-max-analysis-premium-quality-at-a-high-price/"><u>Comprehensive Apple iPhone XS Max Analysis: Premium Quality at a High Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-google-maps-on-ios-devices/"><u>Comprehensive Evaluation of Google Maps on iOS Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-tab-p11-pro-assessment-stunning-features-with-minor-flaws/"><u>Comprehensive Lenovo Tab P11 Pro Assessment - Stunning Features with Minor Flaws</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-moto-g-powers-unmatched-endurance-and-superior-capability/"><u>Comprehensive Review: Moto G Power's Unmatched Endurance & Superior Capability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decision-guide-is-getting-an-ipad-worth-it/"><u>Decision Guide: Is Getting an iPad Worth It?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/poll-power-play-best-election-strategy-games-for-2024/"><u>Poll Power Play Best Election Strategy Games for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-complete-playbook-for-youtube-beginners-for-2024/"><u>The Complete Playbook for YouTube Beginners for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unearthing-the-potential-of-htc-vive-for-immersive-gaming-for-2024/"><u>Unearthing the Potential of HTC Vive for Immersive Gaming for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-10-premier-moba-experiences-on-android-devices-for-2024/"><u>[New] 10 Premier MOBA Experiences on Android Devices for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-record-screen-with-ultra-screen-recorder/"><u>[Updated] In 2024, How to Record Screen With Ultra Screen Recorder</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/up-the-impact-with-50-free-branding-graphics/"><u>Dial Up the Impact with 50 FREE Branding Graphics!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/how-to-live-stream-over-the-network-with-vlc-media-player/"><u>How to Live Stream Over the Network with VLC Media Player</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-c02-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia C02 FRP Bypass</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-drivers-installation-fixed-and-successful/"><u>Nvidia Drivers Installation Fixed and Successful</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/premium-performance-unleashed-in-depth-analysis-of-the-microsoft-surface-studio-2/"><u>Premium Performance Unleashed: In-Depth Analysis of the Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/rapidement-detacher-et-supprimer-un-disque-dur-crypte-avec-simplicite/"><u>Rapidement Détacher Et Supprimer Un Disque Dur Crypté Avec Simplicité</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-how-to-efficiently-divide-data-using-excels-split-function/"><u>Step-by-Step Tutorial: How to Efficiently Divide Data Using Excel's Split Function</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taking-wifi-speeds-to-new-heights-the-ultimate-guide-and-assessment-of-the-netgear-nighthawk-x1ad7200-router/"><u>Taking WiFi Speeds to New Heights: The Ultimate Guide and Assessment of the Netgear Nighthawk X1^AD7200 Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-evaluation-of-the-oneplus-nord-n10-5g-device-definitely-worth-your-attention/"><u>The Ultimate Evaluation of the OnePlus Nord N10 5G Device – Definitely Worth Your Attention</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/thrifty-tips-for-hosting-webinars-on-youtube-for-2024/"><u>Thrifty Tips for Hosting Webinars on YouTube for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/universally-compatible-moko-bluetooth-keyboard-with-easy-portability/"><u>Universally Compatible MoKo Bluetooth Keyboard with Easy Portability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-that-make-microsofts-ergonomic-keyboard-a-top-notch-choice-for-professionals/"><u>Unveiling the Features that Make Microsoft's Ergonomic Keyboard a Top-Notch Choice for Professionals</u></a></li>
 </ul></div>
 

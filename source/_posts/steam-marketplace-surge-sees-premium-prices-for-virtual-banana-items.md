@@ -1,7 +1,7 @@
 ---
 title: Steam Marketplace Surge Sees Premium Prices for Virtual Banana Items
-date: 2024-12-04T00:29:55.684Z
-updated: 2024-12-09T21:13:54.717Z
+date: 2024-12-27T16:55:17.506Z
+updated: 2025-01-03T16:04:07.612Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Steam Marketplace Surge Sees Premium Prices for Virtual Banana Items
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Steam’s latest clicker game sensation has users trading virtual bananas on the Steam Community Market for hundreds of real-world dollars. Just what is going on?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  This Game Is Bananas
@@ -36,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A virtual banana from the Banana game on Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ss_641d6402187d5335b1e345498f0eff293a054f75-1920x1080.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pony / Sky / AestheticSpartan
@@ -46,7 +46,7 @@ Pony / Sky / AestheticSpartan
  These in-game items may be given out for free, but they can be traded on the Steam Community Market for real money. You can buy and sell bananas from as little as a few cents up to hundreds or thousands of dollars. The rarer the banana, the higher the value the community has assigned to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's Really Going On Here?
@@ -58,7 +58,7 @@ Pony / Sky / AestheticSpartan
 ![The free-to-play Banana game in third place on the Steam charts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-12-at-12-32-52.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s still a bit of a mystery what’s really going on here. The game makes no claims that in-game items have any inherent value so on the surface, Banana seems innocent enough. The game doesn’t appear to be doing anything in the background (so it’s not a stealthy crypto miner), and you don’t even need to leave it open as long as you open it regularly for a few clicks to collect your fruit.
@@ -88,19 +88,24 @@ Pony / Sky / AestheticSpartan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-smart-tv-meets-social-networks-televising-fb-content-for-2024/"><u>[New] Smart TV Meets Social Networks Televising FB Content for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-achieving-peak-zoom-resolution-effective-techniques/"><u>2024 Approved Achieving Peak Zoom Resolution Effective Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-which-is-more-proficient-at-coding-chatgpt-or-gemini/"><u>Chatbot Face-Off: Which Is More Proficient at Coding, ChatGPT or Gemini?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-advice-on-perfecting-audio-settings-with-the-windows-10-eq-function/"><u>Expert Advice on Perfecting Audio Settings with the Windows 10 EQ Function</u></a></li>
-<li><a href="https://win-data.techidaily.com/experts-guide-migrate-windows-server-2008-r2-to-new-hardware-efficiently/"><u>Experts Guide: Migrate Windows Server 2008 R2 to New Hardware Efficiently</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-standard-to-splitsville-a-week-with-an-ergonomic-split-keyboard-and-its-surprising-impact-on-my-tech-setup-zdnet/"><u>From Standard to Splitsville: A Week with an Ergonomic Split Keyboard & Its Surprising Impact on My Tech Setup | ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuito-conversor-online-de-video-convert-wmv-a-asf-con-la-ayuda-de-movavi/"><u>Gratuito Conversor Online De Vídeo: Convert WMV a ASF Con La Ayuda De Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-secrets-to-perfectly-lit-evening-portraits/"><u>In 2024, Secrets to Perfectly Lit Evening Portraits</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ambient-weather-observer-ws-1002-with-wifi-deluxe-precision-noteworthy-investment-reviewed/"><u>The Ambient Weather Observer WS-1002 with WiFi - Deluxe Precision, Noteworthy Investment Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-glion-dolly-e-scooter-experience-examining-its-elegant-aesthetics-swift-velocity-and-expensive-nature/"><u>The Glion Dolly E-Scooter Experience - Examining Its Elegant Aesthetics, Swift Velocity & Expensive Nature</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-top-playlist-for-the-best-family-friendly-game-ever-minecraft/"><u>The Top Playlist for the Best Family-Friendly Game Ever - Minecraft!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/to-embrace-or-not-new-mac-os-sonoma-edition/"><u>To Embrace or Not: New Mac OS, Sonoma Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-picks-for-exceptional-mobile-gaming-titles-number-one-to-eight/"><u>Top Picks for Exceptional Mobile Gaming Titles: Number One to Eight</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-dive-into-iphone-x-animoji-the-complete-users-edition/"><u>[New] 2024 Approved Dive Into iPhone X Animoji The Complete User's Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-finding-chrome-companions-custom-melodies/"><u>[New] Finding Chrome Companion's Custom Melodies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-tutorial-for-uploading-to-instagram-tv/"><u>[New] In 2024, The Ultimate Tutorial for Uploading to Instagram TV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-complete-breakdown-of-googles-podcast-system/"><u>[Updated] A Complete Breakdown of Google's Podcast System</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-demystifying-premiere-pros-corrections-for-overexposed-iphone-videos/"><u>[Updated] Demystifying Premiere Pro's Corrections for Overexposed iPhone Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-entering-income-territory-with-a-thousand-followers-for-2024/"><u>[Updated] Entering Income Territory with a Thousand Followers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/augmented-reality-gaming-just-got-better-purchase-a-laptop-with-an-integrated-100/"><u>Augmented Reality Gaming Just Got Better: Purchase a Laptop With an Integrated 100</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-ospreys-cost-effective-weather-station-the-ambient-ws-2902a/"><u>Comprehensive Guide to Osprey's Cost-Effective Weather Station - The Ambient WS-2902A</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-on-kooteks-cooling-pad-for-computers-highly-recommended-product/"><u>Comprehensive Review on Kootek's Cooling Pad for Computers: Highly Recommended Product</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ddpai-mini3-dashcam-testing-an-unusually-entertaining-experience/"><u>Ddpai Mini3 Dashcam Testing: An Unusually Entertaining Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-e-commerce-outposts-your-ultimate-gift-enclosure-hub/"><u>Elite E-Commerce Outposts Your Ultimate Gift Enclosure Hub</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-ultra-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 Ultra Phone without Google Account?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-fintie-macbook-pro-13-protector-delivers-on-durability-and-budget/"><u>In-Depth Analysis: How the Fintie MacBook Pro 13 Protector Delivers on Durability and Budget</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-guide-to-d-link-powerline-2000-swift-installation-and-rapid-file-sharing/"><u>In-Depth Guide to D-Link Powerline 2000: Swift Installation & Rapid File Sharing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-the-high-costs-and-swift-performance-of-swagtrons-swagboard-t1/"><u>In-Depth Review: The High Costs & Swift Performance of Swagtron's Swagboard T1</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-marathon-gaming-sessions-a-review-of-mavix-m-9s-unbeatable-comfort/"><u>Mastering Marathon Gaming Sessions – A Review of Mavix M 9'S Unbeatable Comfort</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nikon-sb-700-af-speedlight-flash-review/"><u>Nikon SB-700 AF Speedlight Flash Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/omoton-t1-portable-tablet-dock-a-solid-cost-effective-stand-for-your-device-reviewed/"><u>Omoton T1 Portable Tablet Dock - A Solid, Cost-Effective Stand for Your Device Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/realms-reborn-state-of-the-art-virtual-experience/"><u>Realms Reborn State-of-the-Art Virtual Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unofficially Run Old-School Video Games on Your iPhone - No Hacking Needed!
-date: 2024-12-06T07:19:19.085Z
-updated: 2024-12-09T22:17:39.829Z
+date: 2024-12-31T16:27:35.185Z
+updated: 2025-01-03T16:55:48.126Z
 tags:
   - games
   - tv
@@ -35,6 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Original Game Boy cartridges.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/games_i_own.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Though emulators are legal, the games they run are a point of contention. It is [illegal to download ROMs for games that you do not own](https://facebook-videos.techidaily.com/updated-video-revenue-generation-on-facebook-tactics-for-financial-growth-for-2024/). Downloading or ripping ROMs for titles that you do own is a grey area. You are responsible for following the laws in your part of the world.
@@ -44,7 +48,7 @@ Tim Brookes / How-To Geek
 ![Game Boy ROMs within iPhone emulator Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gbc_roms_delta.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So why the sudden change? Apple is probably jumping before it is pushed. The EU has mandated that the iPhone open up to third-party App Stores, so Apple may be trying to avoid future problems. There’s also nothing inherently illegal about emulators, even though big players like Nintendo are vehemently opposed.
@@ -55,9 +59,17 @@ Tim Brookes / How-To Geek
 
 ![Super Mario 64 on an iPhone with Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/n64_super_mario_64.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Delta brings together many different emulation projects like [Nestopia](https://nestopia.sourceforge.net), [Snes9x](https://github.com/snes9xgit/), [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), and [melonDS](https://github.com/melonDS-emu/melonDS) under one simple application. The project is a spiritual successor to GBA4iOS, an emulator you may have heard of if you’ve dabbled in the iOS emulation scene before.
 
  You can [download Delta from the App Store](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) for iPhone, though it also works on iPad and macOS. As per Apple’s guidelines, the emulator doesn’t come with anything in playable form. You’ll need to supply your own ROMs, which you can transfer using a variety of methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Transfer Games via Cloud Storage
 
@@ -67,15 +79,15 @@ Tim Brookes / How-To Geek
 
  You can also open the relevant app on your iPhone (you’ll need to do this for Google Drive and cloud storage providers that don’t integrate with Files). You should be able to tap on a ROM file to automatically have it open in Delta. If you have more than one app that can handle that file type, you’ll be asked which app you want to use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Transfer Games via AirDrop
 
  AirDrop works in much the same way. Simply find the native ROM file on the device you want to AirDrop from (like a Mac) and send it to your target device. The file will be saved in your device’s Downloads folder. Use Files to find Downloads, tap on the ROM and it will open in Delta (or prompt you to select an app, after which you can choose Delta).
 
  The game will now be added to Delta and you can delete the file from your Downloads folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Transfer Games via USB
 
@@ -86,7 +98,7 @@ Tim Brookes / How-To Geek
  Find the Delta app and drag and drop your ROM files over. They should be copied to the root folder. Now open Delta and tap on the plus “+” icon in the top-right corner of the screen. Select “iTunes” and then tap “Import” when prompted and Delta will ingest the ROMs into its database.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Play With Touch Controls or a Controller
@@ -96,10 +108,6 @@ Tim Brookes / How-To Geek
  For a better experience, we recommend connecting a controller. [iOS supports a huge number of Bluetooth game controllers](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a79-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/), from Xbox One and Xbox Series (Core) controllers to the DualShock 4 (PS4) and DualSense (PS5). There are plenty of others to use from brands like 8bitdo to SteelSeries, just look for the “Made for iPhone” branding.
 
 ![8BitDo SN30 closeup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/pxl_20240304_204309207-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Kris Henges / How-To Geek
 
@@ -117,10 +125,6 @@ Kris Henges / How-To Geek
 
 ![The Delta emulator pause menu with save, load, and other options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/pause_menu.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The “Menu” button also hides a few other features, like a “Fast Forward” option for skipping ahead, a “Hold Buttons” option for automating certain operations, and the “Cheat Codes” section which allows you to use Game Genie or GameShark cheat codes in your games.
 
  If you prefer to use touch controls, you can install custom controller skins from the [Delta Skins repository](https://delta-skins.github.io). You can transfer these as you would a ROM, opening the file in the app or using the “iTunes” import option once you’ve transferred via a cable.
@@ -128,10 +132,6 @@ Kris Henges / How-To Geek
  Delta supports multiplayer play, but you’ll need controllers to make this happen. You can define who gets which controller under the “Settings” cog by tapping on a player identifier and then choosing the appropriate controller.
 
 ![Assining multiple controllers in Delta for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/controller_assign.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also set up a Delta Sync under “Settings” which not only syncs your game library but all of your game saves, save states, controller skins, cheats, and controller mappings. Toggle “Delta Sync” on then use the Dropbox or Google Drive buttons to link your cloud storage account.
 
@@ -158,21 +158,20 @@ Kris Henges / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-crafting-engaging-youtube-thumbnails-a-step-by-step-guide/"><u>[New] 2024 Approved Crafting Engaging YouTube Thumbnails A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-guide-to-growing-groups-of-great-guests-subscribers-on-youtube/"><u>[New] The Guide to Growing Groups of Great Guests (Subscribers) on Youtube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-designing-powerful-youtube-screens-a-step-by-step-guide-for-2024/"><u>[Updated] Designing Powerful YouTube Screens A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-conquering-video-design-challenges-with-filmora-tips/"><u>[Updated] In 2024, Conquering Video Design Challenges with Filmora Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-podcast-insight-into-affordable-tech/"><u>ChatGPT’s Podcast Insight Into Affordable Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-the-printer-cannot-be-removed-error-in-windows-complete-solution/"><u>How To Fix the 'Printer Cannot Be Removed' Error in Windows (Complete Solution)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-data-defense-learn-these-similar-problem/"><u>Mastering Data Defense: Learn These # Similar Problem</u></a></li>
-<li><a href="https://win-dash.techidaily.com/msi-official-bluetooth-driver-update-now-available-for-windows-11windows-n-operating-systems/"><u>MSI Official Bluetooth Driver Update Now Available for Windows 11/Windows N Operating Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/truthful-insights-into-recordcast-functionality-for-2024/"><u>Truthful Insights Into RecordCast Functionality for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-buyers-guide-selecting-the-perfect-tablet-by-dimensions-and-mass/"><u>Ultimate Buyer's Guide: Selecting the Perfect Tablet by Dimensions & Mass</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-free-floating-earphones-guide-2024-edition/"><u>Ultimate Free-Floating Earphones Guide: 2024 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-potential-with-the-apple-iphone-a-comprehensive-review-for-tech-enthusiasts/"><u>Unlocking Potential with the Apple iPhone 지급처 - A Comprehensive Review for Tech Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-ambient-weather-ws-1002-wifi-thermometer-is-quality-worth-its-price/"><u>Unveiling the Ambient Weather WS-1002 WiFi Thermometer: Is Quality Worth Its Price?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-features-of-the-samsung-galaxy-tab-s7-why-its-perfect-for-tech-savvy-users/"><u>Unveiling the Best Features of the Samsung Galaxy Tab S7 - Why It's Perfect for Tech Savvy Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-a-complete-guide-to-kobo-clara-color/"><u>Unveiling the Features: A Complete Guide to Kobo Clara Color</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-linksys-ea8300-enhancing-your-network-experience/"><u>Unveiling the Potential of Linksys EA8300: Enhancing Your Network Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-buyers-ultimate-guide/"><u>: A Buyer's Ultimate Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-peak-performance-in-live-recording-software/"><u>[New] 2024 Approved Peak Performance in Live Recording Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-avoiding-common-pitfalls-using-movie-maker-on-windows-8/"><u>2024 Approved Avoiding Common Pitfalls Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unleash-gaming-potential-using-obs-recording-features/"><u>2024 Approved Unleash Gaming Potential - Using OBS Recording Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dts-aac-movavi/"><u>在線無成本的 DTS 到 AAC 音效轉換服務 – Movavi 提供解答方案</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-dash-cams-in-depth-review-of-the-pruveeo-f5-1080p-camera/"><u>Budget-Friendly Dash Cams: In-Depth Review of the Pruveeo F5 1080P Camera</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-which-one-reigns-supreme/"><u>Comparing iPhone 15 Pro Max and Samsung Galaxy S24 Ultra: Which One Reigns Supreme?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-top-rated-linksys-wrt3200acm-a-leading-open-source-wifi-solution/"><u>Expert Analysis: Top-Rated Linksys WRT3200ACM - A Leading Open-Source WiFi Solution</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-color-correction-applying-free-luts-in-obs-productions/"><u>In 2024, Mastering Color Correction Applying Free LUTs in OBS Productions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-lighting-art-with-top-softbox-kits-2024-edition/"><u>Mastering Lighting Art with Top Softbox Kits - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/online-sign-in-portal-restored-access-regained/"><u>Online Sign-In Portal Restored: Access Regained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-progressive-journey-comparing-features-of-the-samsung-galaxy-s10plus-and-s20-models/"><u>The Progressive Journey: Comparing Features of the Samsung Galaxy S10+ and S20 Models.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-netgear-nighthawk-x4-top-reviews-and-performance-analysis/"><u>Ultimate Guide to Netgear Nighthawk X4 - Top Reviews & Performance Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-infinix-note-30-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Note 30 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-powerhouse-a-deep-dive-review-into-dells-affordable-and-versatile-g5-5090-gaming-laptop/"><u>Unveiling the Powerhouse: A Deep Dive Review Into Dell's Affordable and Versatile G5 5090 Gaming Laptop</u></a></li>
 </ul></div>
 

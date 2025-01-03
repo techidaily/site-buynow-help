@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing a Bursting Steam Game Collection
-date: 2024-12-11T16:30:30.192Z
-updated: 2024-12-15T23:53:20.838Z
+date: 2024-12-28T16:12:29.968Z
+updated: 2025-01-03T16:16:57.054Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Effective Strategies for Managing a Bursting Steam Game Collection
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After collecting games from sales, bundles, and elsewhere, I have over 200 games in my Steam library and not enough time to play them all. This called for some prioritization. Here's how I prioritized the games that are worth my time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's In My Game Library: The Assessment Step
@@ -40,7 +40,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Right away, I had a series of around twenty to thirty games I could reasonably get through, which interested me greatly. To narrow down the list further, I checked the Steam reviews on the store pages of each of these games. Those that came out as "mostly positive" went to the top of the queue, and those that had mixed or bad reviews dropped down the list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Lightweights: Trading Time For Fun
@@ -50,6 +50,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The short games at the top of my list were perfect for this. Some of these games were Indie titles, like _A Short Hike_, which had the cozy element I loved but didn't require a lot of time investment. [Many of these short games were indie games](https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/) since they fit into such a perfect niche of games I don't have to spend too much time on. The procedural or roguelike games also fell into the bite-size category since I could start a run and either finish it or get to a save point that I can resume later.
 
  But what about the longer games? Well, I will be honest; some longer games also made it to the top of the list. Here are the criteria I used to judge them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Heavyweights: Judging Which Long Games Are Worth My Time
 
@@ -77,14 +81,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![How Long to Beat entry for Elden Ring.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-20-at-08-18-46.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Arguably the biggest issue that someone attempting to copy my method will have is categorizing their games into games that can be completed relatively easily and those that will take a lot more time. Judging average playtime using a website like [How Long to Beat](https://howlongtobeat.com) for a game isn't a solid metric, and it's usually better to look at the reviews and comments on the game to get a better feel for that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Clean Steam Library Is a Happy Steam Library
@@ -106,24 +106,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-2023s-top-rated-facebook-live-viewing-software/"><u>[New] In 2024, 2023'S Top-Rated Facebook Live Viewing Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside-for-2024/"><u>[New] The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-insights-into-the-art-of-srt-file-creation/"><u>[New] Ultimate Insights Into the Art of SRT File Creation</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-how-often-should-you-upload-youtube-videos-to-get-more-views/"><u>In 2024, How Often Should You Upload YouTube Videos to Get More Views</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-tips-mfc-9330cdw-driver/"><u>Installation Tips: MFC-9330CDW Driver</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphone-and-android-edition-compile-the-most-useful-top-8-edits-tools-for-2024/"><u>IPhone and Android Edition Compile the Most Useful Top 8 Edits Tools for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/surviving-the-undead-as-a-biker-unpacking-days-gone-video-game-review/"><u>Surviving the Undead as a Biker - Unpacking 'Days Gone' Video Game Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-dell-xps-15-vs-razer-blade-15-battle-of-high-performance-laptops/"><u>The Dell XPS 15 vs Razer Blade 15: Battle of High-Performance Laptops</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-amazons-kindle-oasis-does-its-exceptional-style-justify-the-steep-price/"><u>The Ultimate Guide to Amazon's Kindle Oasis: Does Its Exceptional Style Justify the Steep Price?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-omoton-t1-your-budget-friendly-tablet-stand-solution/"><u>The Ultimate Guide to the Omoton T1 - Your Budget-Friendly Tablet Stand Solution!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-evaluating-amazonbasics-12-page-high-security-shredding-device/"><u>The Ultimate Review: Evaluating AmazonBasics 12-Page High-Security Shredding Device</u></a></li>
-<li><a href="https://win-best.techidaily.com/1732519311127-top-reasons-behind-your-computers-sluggish-performance-insights-from-yl-computing/"><u>Top Reasons Behind Your Computer's Sluggish Performance: Insights From YL Computing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-pc-audio-cards-the-definitive-guide-to-2024s-picks/"><u>Top-Rated PC Audio Cards - The Definitive Guide to 2024'S Picks</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-updating-your-pcs-graphics-drivers-in-windows-11/"><u>Ultimate Guide: Updating Your PC's Graphics Drivers in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-difference-do-we-say-retweet-or-re-tweet/"><u>Understanding the Difference: Do We Say 'Retweet' Or 'Re-Tweet'?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-samsung-qn55q6f-revolutionizing-home-entertainment-with-advanced-hdr-and-4k-technology/"><u>Unveiling the Features of Samsung QN55Q6F - Revolutionizing Home Entertainment with Advanced HDR & 4K Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-technology-a-deep-dive-by-toms-hardware-specialist/"><u>Unveiling the Latest in Technology: A Deep-Dive by Tom’s Hardware Specialist</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-in-depth-look-at-ampages-new-andes-1500-power-unit/"><u>Unveiling the Potential: In-Depth Look at Ampage's New Andes 1500 Power Unit</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/upgrade-to-exceptional-tech-accessories-cutting-edge-dell-display-unit-leading-noise-cancellation-headset-premium-quality-video-capture-device/"><u>Upgrade to Exceptional Tech Accessories: Cutting-Edge Dell Display Unit, Leading Noise Cancellation Headset, Premium Quality Video Capture Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-diablo-ii-resurrected-not-launching/"><u>[SOLVED] Diablo II: Resurrected Not Launching</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-screen-grab-mastery-for-windows-users-3-techniques/"><u>[Updated] 2024 Approved Screen Grab Mastery for Windows Users (3 Techniques)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-beyond-marketing-hype-the-genuine-facts-of-reels/"><u>2024 Approved Beyond Marketing Hype The Genuine Facts of Reels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-topmate-c302-laptop-cooler-evaluation-budget-friendly-and-high-performance/"><u>Affordable TopMate C302 Laptop Cooler Evaluation: Budget-Friendly & High Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-watch-series-6-evaluation-subtle-enhancements-yet-remains-unrivaled/"><u>Apple Watch Series 6 Evaluation: Subtle Enhancements Yet Remains Unrivaled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/charming-cyberspace-ai-for-romance-fraud/"><u>Charming Cyberspace: AI for Romance Fraud</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cost-effective-smartphone-comparison-how-motorola-one-matches-up-to-an-iphone/"><u>Cost-Effective Smartphone Comparison: How Motorola One Matches up to an iPhone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-best-2023-games-to-play-on-your-new-steam-deck/"><u>Discover the Best 2023 Games to Play on Your New Steam Deck</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-file-deletion-for-macs-stellars-mobile-eraser-standard-version/"><u>Effortless File Deletion for MACs: Stellar's Mobile Eraser Standard Version</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fastest-practices-powerpoint-recordings-for-2024/"><u>Fastest Practices PowerPoint Recordings for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-update-your-canon-mx490-printer-software-for-windows-systems/"><u>How to Easily Update Your Canon MX490 Printer Software for Windows Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-why-the-oneplus-9-struggles-with-mathematical-excellence/"><u>In-Depth Analysis: Why the OnePlus 9 Struggles with Mathematical Excellence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active2-review-more-connectivity-control-and-insights-than-the-original/"><u>Samsung Galaxy Watch Active2 Review: More Connectivity, Control, and Insights Than the Original</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-audio-interfaces-unveiled-the-podcasters-must-have-list-for-2024/"><u>Top Audio Interfaces Unveiled The Podcaster's Must-Have List for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-innovative-design-and-fluid-functionality-in-the-dell-xps-13-gen-7-7390-laptop-review/"><u>Unlocking the Potential: Innovative Design and Fluid Functionality in the Dell XPS 13 Gen 7 (7390) Laptop Review</u></a></li>
 </ul></div>
 

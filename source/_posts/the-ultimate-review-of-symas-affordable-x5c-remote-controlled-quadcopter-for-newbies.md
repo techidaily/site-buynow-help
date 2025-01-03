@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Review of SYMA's Affordable X5C Remote Controlled Quadcopter for Newbies
-date: 2024-08-09T00:39:10.728Z
-updated: 2024-08-10T00:39:10.728Z
+date: 2024-12-27T16:23:50.952Z
+updated: 2025-01-03T17:19:11.741Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Review of SYMA's Affordable X5C Remote Controlled Quadcopter for Newbies
@@ -14,8 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/uRyX-yqBs13WVczZZcn9SFh8N4I=/400x300/fi
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Kootek Laptop Cooling Pad
 
 ![Kootek Laptop Cooling Pad](https://www.lifewire.com/thmb/7No_c3E_HUrSqeMtUM6UkfB2e9Y=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kootek_Laptop_Cooling_Pad_HeroSquare-6441809b63624fe0a5eeff086503ee26.jpg)
@@ -39,15 +40,8 @@ Lifewire / Andrew Hayward
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Kootek Laptop Cooling Pad
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Kootek Laptop Cooling Pad](https://www.lifewire.com/thmb/vuq5u4XUGBs6ncFjbes1JatZvV8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kootek_Laptop_Cooling_Pad_HeroSquare-6441809b63624fe0a5eeff086503ee26.jpg)
 
 Lifewire / Andrew Hayward
@@ -75,8 +69,9 @@ _We purchased the Kootek Laptop Cooling Pad_   _so our reviewer could put it to 
  Kootek’s Laptop Cooling Pad isn’t the cheapest option around, nor is it the most premium—but it’s effective and sells for a reasonable price, and is large enough to accommodate larger laptops with 17-inch displays. A clunky height adjustment system is the main drawback, but it doesn’t stop the Kootek pad from working as expected.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Design: Clunky, but it works
 
  The Kootek Laptop Cooling Pad is a larger unit, measuring nearly 15 inches wide, 11.8 inches tall, and about 1.4 inches thick, with a weight of 2.6 pounds. It’s heavier and bulkier than the lightweight TopMate C302 Cooling Pad, for example, and feels more durable as a result.
@@ -95,6 +90,10 @@ Lifewire / Andrew Hayward
 
  There are two buttons at the back of the pad: One button controls the large, central fan (4.72 inches), while the other controls the four smaller fans (2.76 inches each). I’m not sure why you would choose to use only some fans at any given time, since they’re all quiet, but the option is there if you want it. You’ll also find two USB-A ports, meaning this cooling pad functions as a hub for plugging additional accessories into your laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setup Process: Very straightforward
 
  The Kootek Laptop Cooling Pad doesn’t require any software or its own power unit to function. Simply place it under your laptop, adjust the height as desired, and then plug the built-in USB cable into your laptop to power it on. As mentioned, you can control the fans using the buttons at the back of the pad, and the USB ports can be used for additional accessories.
@@ -103,9 +102,6 @@ Lifewire / Andrew Hayward
 
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Performance: Cool and quiet
 
  I tested the Kootek Laptop Cooling Pad with the[Razer Blade 15 (2019)](https://www.lifewire.com/razer-blade-15-review-4845229) , featuring an Intel Core i7-9750H processor with 16GB RAM, along with the NVIDIA GeForce GTX 1660 Ti (6GB). It’s a solidly powerful gaming laptop, and I put it to the test with a couple of popular games as well as a graphics benchmark test.
@@ -120,13 +116,14 @@ Lifewire / Andrew Hayward
 
 ![Kootek Laptop Cooling Pad](https://www.lifewire.com/thmb/ppFnQ9kEpjbEV9cYbHzLRI5j-j8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kootek_Laptop_Cooling_Pad_05-4a4d5ee065a94c3e984ae0c96f4916d8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
  All told, the Kootek Laptop Cooling Pad made a solid effort in lowering the temperature of the Razer Blade 15 while playing Dirt 5 and Fortnite, although the cheaper, dual-fan TopMate C302 cooling pad saw slightly better overall results. Your experience may vary depending on your laptop of choice, however. All the while, the Kootek pad stayed pretty quiet in stark contrast to the Razer Blade’s own very loud internal fans.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price: Entirely reasonable
 
  At $26 from Amazon, the Kootek Laptop Cooling Pad is a reasonably-priced option with solid performance and the ability to accommodate larger laptops. There are cheaper options out there, as well as some with additional features such as temperature sensors and additional fan controls, but Kootek’s device delivers good functionality for the price.
@@ -136,17 +133,9 @@ Lifewire / Andrew Hayward
 Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Kootek Laptop Cooling Pad vs. TopMate C302
 
  As mentioned above, the TopMate C302 is a lighter, simpler cooling pad option. It’s designed for laptops up to 15 inches in size and isn’t quite as thick or heavy, but it gets the job done with effective cooling and straightforward design. Kootek’s pad offers an additional USB port for accessories, though, and allows for more height variance than the TopMate’s basic pop-out feet.
@@ -176,14 +165,11 @@ Lifewire / Andrew Hayward
 * Ports  USB-A x2
 * Waterproof  N/A
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -191,3 +177,25 @@ Lifewire / Andrew Hayward
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-10-tips-for-shooting-profesional-youtube-videos-for-2024/"><u>[Updated] 10 Tips For Shooting Profesional YouTube Videos for 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/1-steps-to-restore-data-from-your-non-responsive-computer/"><u>1. Steps to Restore Data From Your Non-Responsive Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-twelve-souths-bookbook-v2-accessory-for-your-macbook/"><u>A Comprehensive Review of Twelve South's BookBook V2 Accessory for Your MacBook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-critical-look-at-torment-tides-of-numenera-a-masterpiece-in-science-fiction-rpg-genre-with-intricate-lore/"><u>A Critical Look at 'Torment: Tides of Numenera' - A Masterpiece in Science Fiction RPG Genre With Intricate Lore</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-flash-cameras-of-the-year-2024-edition/"><u>Affordable Flash Cameras of the Year, 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-cleaning-showdown-proven-tips-on-choosing-between-90-and-700-robot-vacuums/"><u>Budget-Friendly Cleaning Showdown: Proven Tips on Choosing Between $90 and $700 Robot Vacuums</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/screencapture-made-easy-and-effective-on-your-laptop-for-2024/"><u>ScreenCapture Made Easy & Effective on Your Laptop for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-clearing-the-scratch-disk-and-overcoming-photoshop-overflow-issues/"><u>Solutions for Clearing the Scratch Disk and Overcoming Photoshop Overflow Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-pick-299-laptop-perfectly-tailored-to-budget-conscious-university-learners-featured/"><u>Top Pick: $299 Laptop Perfectly Tailored to Budget-Conscious University Learners, Featured</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transform-your-viewing-with-the-tcl-50-inch-50s425-roku-tv-value-meets-4k-excellence/"><u>Transform Your Viewing With The TCL 50 Inch (50S425) Roku TV - Value Meets 4K Excellence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-entertainment-on-a-budget-the-insignia-ns-43df710na19-fire-tv-edition-alexa-and-ultra-hd-features-reviewed/"><u>Unleashing Entertainment on a Budget: The Insignia NS-43DF710NA19 Fire TV Edition - Alexa & Ultra HD Features Reviewed!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlimited-gaming-recordability-the-best-free-apps-of-2024/"><u>Unlimited Gaming Recordability The Best Free Apps of 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-1-to-5-of-windows-free-screen-capture-apps/"><u>Unveiling the #1 to #5 of Windows Free Screen Capture Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-amazfit-helio-ring-cost-guide-and-official-launch-details/"><u>Unveiling the Amazfit Helio Ring: Cost Guide & Official Launch Details</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-byb-e430-pivot-armed-led-torchlight-a-detailed-overview-of-high-end-features-and-reliability/"><u>Unveiling the BYB E430 Pivot Armed LED Torchlight: A Detailed Overview of High-End Features & Reliability</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/what-is-blue-video-icon-on-facebook-messenger-for-2024/"><u>What Is Blue Video Icon on Facebook Messenger for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/yakuza-like-a-dragon-review-the-must-have-rpg-game-for-fans-and-newcomers-alike/"><u>Yakuza: Like a Dragon Review – The Must-Have RPG Game for Fans and Newcomers Alike!</u></a></li>
+</ul></div>
+

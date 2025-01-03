@@ -1,7 +1,7 @@
 ---
 title: "Theodore by Flexispot: A Chic & Contemporary Stand-Up Workspace Evaluation"
-date: 2024-08-09T00:39:08.187Z
-updated: 2024-08-10T00:39:08.187Z
+date: 2025-01-01T17:29:11.998Z
+updated: 2025-01-03T16:29:13.020Z
 categories:
   - BestProducts
 description: "This Article Describes Theodore by Flexispot: A Chic & Contemporary Stand-Up Workspace Evaluation"
@@ -36,15 +36,13 @@ Lifewire / Rebecca Isaacs
 
 4.2
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Flexispot Theodore Standing Desk
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/DtKuV5cnXF6F_hZWcmPDMzPTFDY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_HeroSquare-a880730a5c574fbc9dfef59383e4aee6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
 
@@ -70,9 +68,6 @@ Lifewire / Rebecca Isaacs
 
  Cue the Flexispot Theodore Standing Desk. The Flexispot was the answer to everything I needed in my workspace: classy; modern; and completely adjustable. After a week of testing, it’s safe to say I’ve never been so madly in love with a piece of furniture.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Design: Mixing the old with the new
 
  This standing desk’s design and aesthetic gave me an executive feel when I set it up. First things first—it’s really heavy, clocking in at around 100 pounds if the packaging is to be believed. I can’t recommend handling the box by yourself, and, had I tried that myself, I would have probably been squished trying to haul it up two flights of stairs.
@@ -81,9 +76,6 @@ Lifewire / Rebecca Isaacs
 
  The wooden veneer immediately caught my eye. Named after the famous Theodore Roosevelt, this desk incorporates a wooden walnut veneer to give its classic look. It’s this American design, along with rustic knobs on the sole drawer, that give it a timeless look that can complement any home. Even better were the two USB ports that were incorporated beside the buttons for raising and lowering the desk.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/du2Ec4SmWWkaWQQCKbMuR4NiBUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_02-4a15245115084875b6ac05ba8f4c6a53.jpg)
 
 Lifewire / Rebecca Isaacs
@@ -98,12 +90,17 @@ Lifewire / Rebecca Isaacs
 
  The Theodore Standing Desk also turned out to be the perfect place to store my[Jabra Talk 45 Headset](https://www.lifewire.com/jabra-talk-45-review-5070286#:~:text=A%20great%2C%20feature%2Dpacked%20Bluetooth,with%20its%20voice%20command%20features.) and[Microsoft RVF Arc Touch Mouse](https://www.lifewire.com/microsoft-rvf-arc-touch-mouse-review-4799143) so I wouldn’t keep losing them around the house. The desk’s drawer is about three inches deep, so it could also easily store important papers. And, since the desk space is so large, I could easily fit two 17-inch laptops on there and have extra space to hold my cell phone, planner, and a desk lamp with room to spare.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/frfVa5g5ngg9vZAugmed_f2jsho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_03-b929f6838e464f14ad5615d440449658.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Controls: Tap a button
 
@@ -113,10 +110,11 @@ Lifewire / Rebecca Isaacs
 
  One of my biggest gripes about the controls is that sometimes the buttons didn’t register when I first pressed them.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/IfBuQB7ShOvw2XlkJal4eCb1myE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_04-1e85750d263e43f4815a4b1eeddf41a1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
 
@@ -125,6 +123,10 @@ Lifewire / Rebecca Isaacs
  At around $500, before desk accessories like a[standing desk mat](https://www.lifewire.com/best-standing-desk-mats-4155870) , the Flexispot Theodore is very reasonably priced. Keep in mind that you’re not paying for real wood, which factors into the price tag, but a wood veneer finish. Fancier, more modern-looking standings desks can run close to $1,000\.
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/u2023DggV3o9Pw8Y6CDkCOuqu3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_05-595174532f3846fcb2093e11b083b32f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
 
@@ -148,9 +150,6 @@ Lifewire / Rebecca Isaacs
 * [Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/ergodriven-topo-review-4775310)
 * [Ergohead Standing Desk Mat](https://www.lifewire.com/ergohead-standing-desk-mat-review-4775317)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Theodore Standing Desk
@@ -163,14 +162,11 @@ Lifewire / Rebecca Isaacs
 * Warranty  5-year limited warranty
 * Connectivity Options  USB port
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,3 +174,18 @@ Lifewire / Rebecca Isaacs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-5-speedy-shot-strategies-right-from-your-living-room-for-2024/"><u>[Updated] Ultimate 5 Speedy Shot Strategies Right From Your Living Room for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/adding-an-extra-shield-of-safety-to-icloud-mail-via-two-step-authentification/"><u>Adding an Extra Shield of Safety to iCloud Mail via Two-Step Authentification</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-quality-of-docoolers-12-megapixel-usb-20-an-honest-review-for-photography-enthusiasts/"><u>Evaluating the Quality of Docooler's 12 Megapixel USB 2.0: An Honest Review for Photography Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fitbit-sense-a-holistic-approach-to-personal-health-surpassing-the-apple-watch-in-user-wellness-features/"><u>Fitbit Sense: A Holistic Approach to Personal Health, Surpassing the Apple Watch in User Wellness Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210424928-9781789047103-reiki-a-self-practice-to-live-in-peace-with-self-and-others/"><u>Reiki: A Self-Practice To Live in Peace with Self and Others | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-apple-watchs-failure-to-detect-stand-a-comprehensive-guide/"><u>Solving Apple Watch's Failure to Detect Stand: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-surprising-potential-of-the-minuscule-giant-a-complete-look-at-apples-iphone-12-mini/"><u>The Surprising Potential of the Minuscule Giant: A Complete Look at Apple's iPhone 12 Mini</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-linkedin-courses-to-boost-your-career/"><u>Ultimate Selection of Premium LinkedIn Courses to Boost Your Career</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-rotate-mov-videos-for-free-best-solutions/"><u>Updated 2024 Approved Rotate MOV Videos for Free Best Solutions</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-poco-x6-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Poco X6 Pro</u></a></li>
+</ul></div>
+

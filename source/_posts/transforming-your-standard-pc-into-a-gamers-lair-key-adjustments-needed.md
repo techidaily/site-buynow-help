@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Standard PC Into a Gamers' Lair: Key Adjustments Needed"
-date: 2024-12-08T08:58:57.953Z
-updated: 2024-12-10T11:44:35.052Z
+date: 2024-12-29T16:14:08.096Z
+updated: 2025-01-03T17:00:04.775Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
 ## Transforming Your Standard PC Into a Gamers' Lair: Key Adjustments Needed
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Match your games to your laptop's specifications for the best performance, even if that means playing older titles, slower-paced games, or turning down the graphical fidelity.
@@ -21,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
  You don't need a gaming laptop to play games, you just need to make some sensible decisions, careful tweaks, and perhaps a few inexpensive additional purchases. If you're determined enough you can turn even the most boring work laptop into a gaming machine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Games You Play Will Determine Your Gaming Experience
 
  Before we start looking for problems to fix within the laptop itself, let’s get a baseline reading of your hardware requirements and see how your current or prospective laptop stacks up.
 
 ![EA SPORTS FC24 promotional picture.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ea-sports-fc24-promotional-picture.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 EA
 
@@ -45,10 +49,6 @@ EA
 
  Two of my current favorite games are a “new to me” title from 2009 and a game from 2004 that I played as a kid.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Check Your Specs
 
  Let’s say you love graphics-heavy, AAA titles, but you only have a standard laptop that’s below spec requirements. One obvious solution is to adjust your settings accordingly. However, this can defeat the purpose of playing these titles to some degree.
@@ -58,10 +58,6 @@ EA
  A better solution may be to purchase an [external GPU, commonly called an eGPU](https://hardware-help.techidaily.com/freshly-updated-guide-to-installing-new-drivers-on-dell-latitude-e6430-running-windows-issue-resolved/). If you decide to go this route, you'll want to be careful [not to create a bottleneck in your CPU](https://digital-screen-recording.techidaily.com/new-secrets-to-preserving-online-broadcasts-professionally/), which would ultimately lead to major lag issues. Getting the wrong eGPU can be a costly mistake because of how expensive this hardware is.
 
 ![A Razer eGPU enclosure on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/https___hybrismediaprod-blob-core-windows-net_sys-master-phoenix-images-container_h57_h88_9084458041374_razer-core-x-gallery-hero.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Razer
 
@@ -74,7 +70,7 @@ Razer
 ![A laptop RAM stick sitting on a laptop keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/laptop-ram-sitting-on-a-laptop-keyboard-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -98,7 +94,7 @@ Jerome Thomas / How-To Geek
 ![A desk set up with a laptop and monitor plugged into the Satechi Thunderbolt 4 Multimedia Pro Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53027644659_a9ca8d2076_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -110,6 +106,10 @@ Hannah Stryker / How-To Geek
  Another great accessory for laptop gaming is [a gaming headset](https://ai-video-apps.techidaily.com/new-in-2024-top-rated-free-wmv-video-editing-software-with-splitting-features/). Though laptop speakers have improved in quality across the board, a gaming headset can still be the difference between hearing someone sneak up behind you and being completely ambushed.
 
 ![An RGB-lit keyboard, gaming headset, mouse, and controller on a desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/shutterstock_1487069789.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/gamer-work-space-concept-top-view-1487069789)_
 
@@ -136,20 +136,16 @@ _[EKKAPHAN CHIMPALEE/Shutterstock.com](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elite-mac-audio-recorders-discover-the-five-best-for-2024/"><u>[Updated] Elite Mac Audio Recorders Discover the Five Best for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-say-thanks-free-and-subscribed-outro-samples-available/"><u>2024 Approved Say Thanks! Free & Subscribed Outro Samples Available</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-realme-12-proplus-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme 12 Pro+ 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-a1x-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo A1x 5G Device</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-top-5-free-screen-recorders-on-windows-10-2023-update/"><u>In 2024, Top 5 Free Screen Recorders on Windows 10-2023 Update</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210777114-9780646870540-open/"><u>Open | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-the-backbone-softwaredistribution-and-catroot2-on-ws11/"><u>Resetting the Backbone: SoftwareDistribution and Catroot2 on WS11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/soundbar-rating-amazing-audio-from-amazon-basics-at-a-bargain-price/"><u>Soundbar Rating: Amazing Audio From Amazon Basics at a Bargain Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/status-bt-assessment-cheap-and-functional-with-gaps/"><u>Status BT Assessment: Cheap and Functional with Gaps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-battle-of-the-titans-how-does-ipad-pro-stack-up-against-macbook-pro/"><u>The Battle of the Titans: How Does IPad Pro Stack up Against MacBook Pro?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-asus-vg2nh-s-gaming-display-perfectly-tailored-for-console-players/"><u>The Ultimate Asus VG2nh-S Gaming Display: Perfectly Tailored for Console Players</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tp-links-archer-c80-unleashed-the-best-sub-100-router-on-the-market-today/"><u>TP-Link's Archer C80 Unleashed: The Best Sub-$100 Router on the Market Today!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-face-off-discover-how-the-new-samsung-galaxy-s24-ultra-stacks-up-against-the-s23-ultra/"><u>Ultimate Face-Off: Discover How the New Samsung Galaxy S24 Ultra Stacks Up Against the S23 Ultra</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-a-new-world-in-depth-insights-into-watch-dogs-legion-gameplay-and-setting-changeover/"><u>Unpacking a New World: In-Depth Insights Into Watch Dogs: Legion Gameplay and Setting Changeover</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-premium-4k-capture-systems-our-1-to-18-picks-for-2024/"><u>[New] Premium 4K Capture Systems Our #1 to #18 Picks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-snicker-secrets-of-virtual-realms-making-funny-memes/"><u>[Updated] 2024 Approved Snicker Secrets of Virtual Realms Making Funny Memes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dark-souls-iii-stability-enhanced-no-more-unexpected-shuts-down/"><u>Dark Souls III Stability Enhanced: No More Unexpected Shuts Down</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-power-of-tangos-free-messaging-and-calls-comprehensive-analysis-inside/"><u>Discover the Power of Tango's Free Messaging & Calls – Comprehensive Analysis Inside!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-strategies-for-cooling-down-your-gadgets-according-to-yl-software-professionals/"><u>Effective Strategies for Cooling Down Your Gadgets, According to YL Software Professionals</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lightweight-manfrotto-befree-600-series-excellent-mobility/"><u>Lightweight Manfrotto Befree 600 Series: Excellent Mobility</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/portable-moko-compact-folding-keyboard-with-bluetooth-connectivity/"><u>Portable MoKo Compact Folding Keyboard with Bluetooth Connectivity</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-usb-wi-fi-navigators/"><u>Top Rated USB Wi-Fi Navigators</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-evaluating-the-samsung-galaxy-s21-ultra-a-leader-in-android-devices/"><u>Unboxing and Evaluating the Samsung Galaxy S21 Ultra – A Leader in Android Devices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-this-article-shows-5-different-factors-to-compare-tivo-with-comcast-in-order-to-explain-who-wins-the-dvr-battle-in-the-end/"><u>Updated 2024 Approved This Article Shows 5 Different Factors to Compare TiVo with Comcast in Order to Explain Who Wins the DVR Battle in the End</u></a></li>
 </ul></div>
 

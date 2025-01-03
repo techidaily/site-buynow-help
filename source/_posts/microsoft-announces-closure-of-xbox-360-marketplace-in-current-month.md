@@ -1,7 +1,7 @@
 ---
 title: Microsoft Announces Closure of Xbox 360 Marketplace in Current Month
-date: 2024-12-09T06:47:14.526Z
-updated: 2024-12-10T04:51:03.312Z
+date: 2025-01-01T16:39:18.606Z
+updated: 2025-01-03T17:35:02.680Z
 tags:
   - games
   - tv
@@ -22,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After almost 20 years, Microsoft is officially closing the Xbox 360 storefront. After July 29, 2024, you will no longer be able to purchase games on your vintage 360\. Here’s what that means.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Xbox 360 Store Is Closing
@@ -31,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Used copies of Dragon's Dogma, Darksiders II, and Unreal Tournament III for Xbox 360.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/used_games.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Microsoft’s announcement only affects the purchasing of digital titles on the Xbox 360, which means that as long as you own a game (or another item, like an add-on) you’ll still be able to download it from your Download History (under Settings > Account) after this date.
@@ -38,7 +42,7 @@ Tim Brookes / How-To Geek
  Since everything was made available via the store, the shutdown will affect a huge variety of items from games and trials to add-ons, avatar items, gamerpics, trailers, and apps for non-games. In-game purchases, subscriptions, and video content in the Movies & TV app will also be pulled from sale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Many Games Are Discounted Right Now
@@ -51,10 +55,6 @@ Tim Brookes / How-To Geek
 
 [Delisted Games](https://delistedgames.com/xbox-360-marketplace-resources/) has a list of 47 titles that never saw release anywhere else (not even the PlayStation 3), that will officially be “lost forever” on July 29\. Most of these are obscure indie titles, but there are some big names in there like _Fruit Ninja Kinect_, Xbox Live Arcade exclusive two _South Park_ games, and forgettable arcade port _Double Dragon II: Wander of the Dragons_.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Online Play and Updates Are Unaffected
 
  Game updates will still work on the Xbox 360 after the store is shut down, both for digital titles and disc-based titles. You’ll need to sign in and connect to online services for this to work.
@@ -64,7 +64,7 @@ Tim Brookes / How-To Geek
 ![Xbox Live Gold vs Game Pass Core compared.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-04-at-10-39-08.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Xbox
@@ -72,7 +72,7 @@ Xbox
  Microsoft still requires a premium subscription to play online on the Xbox 360\. This was once called Xbox Live Gold but is now known as [Game Pass Core](https://www.xbox.com/en-US/xbox-game-pass/core). It’ll set you back $9.99/month, just like Xbox Live Gold once did. If you [have a Game Pass subscription](https://fox-info.techidaily.com/2024-approved-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/) for another console (like the Xbox One, or Series X|S), you can play on your Xbox 360 simply by signing in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The End of an Era
@@ -96,24 +96,24 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-captivate-based-demos/"><u>[Updated] 2024 Approved Expert Tips for Captivate-Based Demos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-multi-view-mastery-the-ultimate-ranking-of-11-bridging-cameras/"><u>[Updated] 2024 Approved Multi-View Mastery The Ultimate Ranking of 11 Bridging Cameras</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-the-igtv-landscape-a-beginners-roadmap/"><u>[Updated] 2024 Approved Navigating the IGTV Landscape A Beginner's Roadmap</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ideal-strategies-for-noiseless-filming/"><u>[Updated] In 2024, Ideal Strategies for Noiseless Filming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hp-envy-27-leading-edge-4k-monitor-review/"><u>2024 Approved HP Envy 27 Leading Edge 4K Monitor Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-sons-of-midgard-unite-epic-release/"><u>2024 Approved Sons of Midgard Unite! Epic Release</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/cameras-for-quality-youtube-content/"><u>Best Cameras for Quality YouTube Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/complete-guide-troubleshooting-and-help-for-winx-dvd-rippingvideo-conversion-tool/"><u>Complete Guide: Troubleshooting & Help for WinX DVD Ripping/Video Conversion Tool</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-face-off-exploring-the-pros-and-cons-of-ring-vs-nest-doorbells/"><u>The Ultimate Face-Off: Exploring the Pros and Cons of Ring vs Nest Doorbells</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-of-premium-streaming-platforms/"><u>The Ultimate List of Premium Streaming Platforms</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-worlds-largest-zoom-power-in-nikon-coolpix-p1000/"><u>The World's Largest Zoom Power in Nikon COOLPIX P1000</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-1212-pro-protection-gear-ultimate-guide/"><u>Top-Rated iPhone 12/12 Pro Protection Gear: Ultimate Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-external-storage-solutions/"><u>Ultimate Selection of Premium External Storage Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-on-the-go-energy-discovering-the-new-features-of-the-ampace-andes-1500/"><u>Unleash On-the-Go Energy: Discovering the New Features of the Ampace Andes 1500</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-pc-potential-going-from-home-to-pro-on-win11/"><u>Unleash PC Potential: Going From Home to Pro on Win11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-your-potential-budget-friendly-action-in-stunning-4k/"><u>Unleash Your Potential: Budget-Friendly Action in Stunning 4K</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-motorola-one-t5g-ace-unmatched-speed-and-long-lasting-power-review/"><u>Unveiling the Motorola One T5g Ace: Unmatched Speed and Long-Lasting Power Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-thrills-of-overwatch-dynamic-gaming-experience-with-a-twist-of-friendly-rivalry/"><u>Unveiling the Thrills of Overwatch - Dynamic Gaming Experience with a Twist of Friendly Rivalry</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-comprehensively-understanding-cloud-storage-with-adobe-and-why-you-should-compare-for-2024/"><u>[New] Comprehensively Understanding Cloud Storage with Adobe and Why You Should Compare for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-expert-guide-to-free-of-watermark-tiktok-video-downloads-for-2024/"><u>[New] Expert Guide to Free-of-Watermark TikTok Video Downloads for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-firefoxs-pip-explained-a-users-handbook/"><u>[New] Firefox's PIP Explained A User's Handbook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-compendium-all-features-of-bublcams-360-degree-lens/"><u>[Updated] Comprehensive Compendium All Features of Bublcam's 360-Degree Lens</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-enhanced-virtual-storefronts-analysis/"><u>2024 Approved Enhanced Virtual Storefronts Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-chrome-performance-now-tips-and-hacks-for-speedy-browsing/"><u>Accelerate Chrome Performance Now - Tips and Hacks for Speedy Browsing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/android-essentials-must-have-apps-from-google-play/"><u>Android Essentials Must-Have Apps From Google Play</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-streaming-device-tips-roku-vs-fire-tv-stick-decision-making/"><u>Best Streaming Device Tips: Roku Vs. Fire TV Stick Decision-Making</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-of-the-lg-um7300-economical-entry-into-4k-viewing-experience/"><u>Comprehensive Assessment of the LG UM7300: Economical Entry Into 4K Viewing Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-third-generation-apple-tv-4k-assessment/"><u>Comprehensive Guide: Third-Generation Apple TV 4K Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/critical-factors-to-evaluate-when-acquiring-refurbished-ipads/"><u>Critical Factors to Evaluate When Acquiring Refurbished iPads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-garmin-forerunner-745-top-tier-gadget-for-all-athletes/"><u>Expert Analysis of the Garmin Forerunner 745: Top-Tier Gadget for All Athletes</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-g2-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo G2 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-8-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 8? How to Fix</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-zenwifi-xt8-ax6600-mastering-your-home-wi-fi-experience/"><u>In-Depth Analysis of the ASUS ZenWiFi XT8 AX6600: Mastering Your Home Wi-Fi Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-tab-4-analysis-affordable-android-device-with-constraints/"><u>Lenovo Tab 4 Analysis: Affordable Android Device with Constraints</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-automated-pet-feeding-and-weight-management-with-the-petsafe-healthy-pet-feeder-reviews-and-insights/"><u>The Ultimate Guide to Automated Pet Feeding and Weight Management with the PetSafe Healthy Pet Feeder - Reviews & Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-mophie-powerstation-ac-charger-a-snapshot-of-luxury-meets-functionality-at-a-price/"><u>Unveiling the Mophie Powerstation AC Charger: A Snapshot of Luxury Meets Functionality at a Price</u></a></li>
 </ul></div>
 

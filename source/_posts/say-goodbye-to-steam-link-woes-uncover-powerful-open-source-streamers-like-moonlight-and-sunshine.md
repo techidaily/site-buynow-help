@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Steam Link Woes! Uncover Powerful Open-Source Streamers Like Moonlight & Sunshine.
-date: 2024-12-06T11:21:31.686Z
-updated: 2024-12-10T09:13:25.601Z
+date: 2024-12-27T17:21:20.485Z
+updated: 2025-01-03T16:03:06.125Z
 tags:
   - games
   - tv
@@ -27,6 +27,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The two originally offered an open-source alternative to [NVIDIA’s GameStream](https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-pin-codepattern-lockpassword-by-drfone-android/) streaming protocol. But since NVIDIA abandoned GameStream some time ago, the combo is now the best alternative to [Steam Remote Play](https://techno-recovery.techidaily.com/reviving-your-lenovo-laptop-the-compreh/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Moonlight and Sunshine Are Better Than Steam Link
 
  Together, Moonlight and Sunshine excel at overall performance and customization. Not only is the open-source combo more stable than Steam Link and Steam Remote Play, but it also allows gamers to freely adjust streaming options such as resolution, frame rate, video quality, and more.
@@ -47,13 +51,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Sunshine executable files listed for download.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-17.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you download the Sunshine installation file, run it and enable the “Launch on Startup” option during the installation.
 
 ![Sunshine installation options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-18.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the installation finishes, Sunshine should automatically launch. You can find the app in the taskbar notification area. If it doesn’t start, find the app on your PC and launch it. You should now click the Sunshine icon and then click the “Open Sunshine” button.
 
@@ -73,12 +77,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Once you open Moonlight you should see a PC icon with a lock over it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-09.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the locked PC icon, and Moonlight will provide you with the PIN you have to enter into the Sunshine web UI.
 
 ![After you click the locked PC icon in Moonlight, the app should serve you with a four-digit PIN](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open the Sunshine web UI, click the “PIN” tab, and enter the provided PIN. That’s it!
@@ -92,16 +100,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Sunshine web UI Applications tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-03.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure to name the app and enter the full path to the executable file of the app you want to add. Below is a screenshot showing the path to my Steam executable as an example.
 
 ![Sunshine web UI showing a full path to an application, Steam in this case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-04.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Tips for Best Results
 
@@ -112,16 +116,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Sunshine web UI video options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-02.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And here are my Moonlight options:
 
 ![Moonlight game streaming options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-05.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For the best possible experience, connect the PC you’re streaming games from to your router with an Ethernet cable. A quality Wi-Fi 5 or better router ought to be enough for a low-latency (below 10ms on average) experience. Also, I recommend selecting the [HEVC](https://win-answers.techidaily.com/understanding-and-resolving-recurrent-breakdowns-in-sovled-warno-application-for-windows-users/) or [AV1 video codec](https://fox-info.techidaily.com/new-2024-approved-foundational-approach-to-gradual-volume-adjustment/), both of which work better than the default (H.264) codec and require less bandwidth to deliver the same image quality.
 
@@ -152,17 +152,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-live-tv-is-vmix-or-wirecast-your-go-to-tool/"><u>[New] Mastering LIVE TV Is VMix or Wirecast Your Go-To Tool?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-immersive-insight-amd-radeon-update/"><u>[Updated] 2024 Approved Immersive Insight AMD Radeon Update</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/7-essential-audio-tools-for-personal-vocal-customization-for-2024/"><u>7 Essential Audio Tools for Personal Vocal Customization for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/ensuring-proper-rights-in-fixing-insufficient-privilege-install-errors/"><u>Ensuring Proper Rights in Fixing Insufficient Privilege Install Errors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/privacy-tips-how-to-nullify-chatgpts-recording-function/"><u>Privacy Tips: How to Nullify ChatGPT's Recording Function</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-androids-battery-performance-with-these-10-essential-tweaks-tips-from-zdnet/"><u>Revolutionize Your Android's Battery Performance with These 10 Essential Tweaks - Tips From ZDNet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-to-activate-pip-in-youtube-iphone-app-for-2024/"><u>Step-by-Step to Activate PIP in YouTube iPhone App for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/take-to-the-skies-outdoors-in-depth-look-at-the-blade-blh4100-120-r-ready-to-fly-helicopter/"><u>Take to the Skies Outdoors: In-Depth Look at the Blade BLH4100 120 R Ready-to-Fly Helicopter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/taking-on-the-competition-comprehensive-review-of-the-google-pixel-4a-5g/"><u>Taking on the Competition: Comprehensive Review of the Google Pixel 4a 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tales-of-surprising-escapades-delving-deep-into-yokus-island-express-critique/"><u>Tales of Surprising Escapades: Delving Deep Into Yoku's Island Express Critique</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/test-your-skies-the-ultimate-guide-to-the-syma-x3d-ultra-hover-copter-value-meets-performance/"><u>Test Your Skies: The Ultimate Guide to the Syma X3D-Ultra Hover Copter - Value Meets Performance</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unpacking-t-series-earnings-through-youtube-channels/"><u>Unpacking T-Series' Earnings Through YouTube Channels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unveil-the-secrets-to-excellent-youtube-thumbnails/"><u>[Updated] 2024 Approved Unveil the Secrets to Excellent YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-stream-like-a-champion-youtubes-ultimate-techniques/"><u>[Updated] In 2024, Stream Like a Champion YouTube's Ultimate Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-earning-money-on-reddit-for-beginners/"><u>[Updated] In 2024, The Ultimate Guide to Earning Money on Reddit for Beginners</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-virtual-frontier-top-pc-vr-headset-innovations-of-the-year-for-2024/"><u>[Updated] Virtual Frontier Top PC VR Headset Innovations of the Year for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-elegance-motorola-ones-iphone-like-appeal-at-half-the-price/"><u>Affordable Elegance: Motorola One's iPhone-Like Appeal at Half the Price</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/expanded-google-circle-search-now-available-on-additional-smartphones-and-tablets/"><u>Expanded Google Circle Search Now Available on Additional Smartphones & Tablets</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-the-fujitsu-scansnap-ix1400-your-reliable-partner-in-home-and-small-business-scanning-solutions/"><u>Expert Analysis on the Fujitsu ScanSnap iX1400 - Your Reliable Partner in Home and Small Business Scanning Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-6-sheet-money-saving-amazonbasics-document-destroyer/"><u>Expert Insights on the 6-Sheet, Money-Saving AmazonBasics Document Destroyer</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/shake-off-boredom-with-these-10-fantastic-game-choices/"><u>Shake Off Boredom with These 10 Fantastic Game Choices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/understanding-and-implementing-slug-line-rules-for-2024/"><u>Understanding and Implementing Slug Line Rules for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-nest-audios-charm-an-essential-addition-to-music-lovers-smart-home-collections/"><u>Unveiling Nest Audio's Charm: An Essential Addition to Music Lovers’ Smart Home Collections</u></a></li>
 </ul></div>
 

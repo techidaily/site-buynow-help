@@ -1,7 +1,7 @@
 ---
 title: Why You Might Reconsider the Necessity of Investing in Your Own Arcade Game Console
-date: 2024-12-14T14:11:35.799Z
-updated: 2024-12-16T14:44:15.302Z
+date: 2024-12-30T16:09:13.258Z
+updated: 2025-01-03T16:14:32.169Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Why You Might Reconsider the Necessity of Investing in Your Own Arcade Game Console
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -30,10 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I've been toying with the idea of getting an old-school arcade cabinet. Not the original single-game systems I grew up with, but a modern emulated multi-game system that has the look and feel of stand-up arcade cabs. It's the ultimate geeky white elephant and as you might imagine as a responsible adult, I'm conflicted.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Arcade Cabs Are Too Big (or Are They?)
 
  All of my gaming stuff has been getting smaller and smaller over time. Gone is my huge gaming PC tower, replaced by a gaming laptop. My TV is now a razor-thin [OLED](https://extra-tips.techidaily.com/discovering-the-best-in-display-tech-10-list-for-your-mac/) mounted up on a wall. My [OLED Nintendo Switch](https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-15-prevention-and-solution-drfone-by-drfone-ios/) won't quite go in a pocket but it's still pretty tiny. So the idea of bringing a virtually immovable gaming device into my house seems like a bad idea.
@@ -43,6 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Then there's the option of a counter-top cabinet. Which removes most of the height of the system, and you simply place it on a counter of your choice. Since modern arcade cabinets don't contain heavy CRTs, it makes these truncated systems easier to move around as well. So maybe getting a little of that arcade nostalgia doesn't have to be so much of a space hog.
 
  I make reference to "JAMMA" boards below, and while it's not super-important information, you'll want to know that this is short for "Japan Amusement Machine and Marketing Association" and describes a wiring standard for arcade cabinets. Hence, a game on a JAMMA circuit board will work with a JAMMA arcade cabinet. This is the most common standard you'll encounter with both classic arcade cabinets and modern remakes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Finding Good Boards Is Getting Harder (Does It Matter?)
 
@@ -62,15 +62,15 @@ Mister
 
  You can, of course, also roll your own by running something like [MAME](https://fox-hovers.techidaily.com/2024-approved-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/) on a Raspberry Pi. There are plenty of [Raspberry Pi arcade projects](https://medium.com/swlh/how-to-build-a-raspberry-pi-arcade-machine-3de4df2894c6) to find online, but again, this is for casual fans because the emulation won't satisfy purists. If it were me, unless my editors graciously bought me a MisterCade to review (hint-hint!) I'd probably buy something like the Arcade Legends systems, and just accept that emulation will never be perfect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  DIY Cabs Are Too Hard (But, Not Really?)
 
  I might be into 3D printing, and like building desktop computers, but I am not actually a DIY guy. So the idea of building a cabinet from scratch isn't appealing. Even [building one from a kit](https://www.youtube.com/watch?v=qHfnyZZzvuo) fills me with dread, though it looks only mildly more involved than assembling an IKEA-style flatpack bookshelf.
 
  The good news is that there's often a local company that will either build these kits for you, or make ones to your specifications,and then ship them a short distance to your door. Whether you actually live close enough to one of these outfits to make use of this depends on where you live, but I guess if I had no other choice, spending an afternoon assembling a kit isn't the worst way to spend your time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Maybe I’ll Just Buy an Arcade Stick (But It’s Just Not the Same)
 
@@ -83,7 +83,7 @@ _HORI_
  That sounds sensible, and you can pack it all away when you're not playing. Still, it feels like it defeats the point of having a dedicated arcade system. It's like having a Chess board set up somewhere. You can just walk up to it and start playing with no friction. If you have friends over, people could just come and go as they felt like it, playing when the mood takes them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I Have Too Much Gaming Stuff Already (But Cabinets Are Cool)
@@ -97,7 +97,7 @@ _HORI_
  Well, I guess just _one_ more gaming thing can't hurt. Except maybe in the wallet area.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It’ll Be My Most Expensive Game (But Also My Coolest)
@@ -121,24 +121,19 @@ _HORI_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-laugh-loophole-ideas-for-7-hilarious-youtube-showcases/"><u>[New] Laugh Loophole Ideas for 7 Hilarious YouTube Showcases</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-rhythms-companion-finding-premium-club-vids/"><u>[New] Rhythm's Companion Finding Premium Club Vids</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streaming-showdown-which-superior-broadcaster-tool-are-you/"><u>[New] Streaming Showdown Which Superior Broadcaster Tool Are You?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-asus-proart-pa-329q-professional-4k-monitor-review/"><u>[Updated] Asus ProArt PA 329Q Professional 4K Monitor Review</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unlock-potential-with-best-free-text-psdfree-for-2024/"><u>[Updated] Unlock Potential with Best Free Text PSDFree for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2023s-elite-heart-beat-gadgets-a-comprehensive-guide-to-choosing-the-right-fitness-tracker/"><u>2023'S Elite Heart Beat Gadgets: A Comprehensive Guide to Choosing the Right Fitness Tracker</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2023s-elite-selection-of-iphone-15-pro-max-skins-and-cases-reviewed-and-ranked/"><u>2023'S Elite Selection of iPhone 15 Pro Max Skins & Cases Reviewed and Ranked</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-guide-to-top-notch-mac-audio-recorders-a-comprehensive-list/"><u>2024 Approved Ultimate Guide to Top-Notch Mac Audio Recorders A Comprehensive List</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/antelope-valley-state-recreation-area-ft-kanzler-campgrounds/"><u>Antelope Valley State Recreation Area - Ft. Kanzler Campgrounds</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/audiophiles-guide-to-selecting-superior-wireless-speakers-of-2024/"><u>Audiophile's Guide to Selecting Superior Wireless Speakers of 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/buffalo-park-conservation-education-center/"><u>Buffalo Park Conservation Education Center</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-the-missing-or-not-found-error-for-advapi32dll-on-your-computer/"><u>Fixing the Missing or Not Found Error for Advapi32.dll on Your Computer</u></a></li>
-<li><a href="https://win-updates.techidaily.com/libreoffice/"><u>LibreOffice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-list-the-most-exceptional-mouse-models-of-2nwn4/"><u>Ultimate List: The Most Exceptional Mouse Models of 2Nwn4!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-highly-ranked-11-ipad-air-sleeves-for-2econd-2024-edition/"><u>Ultimate Selection of Highly-Ranked 11 iPad Air Sleeves for 2Econd, 2024 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-intelligent-light-switch-upgrades-for-2n23/"><u>Ultimate Selection of Intelligent Light Switch Upgrades for 2N23</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-2024s-highest-quality-ipad-pro-13-cases-reviewed-and-rated/"><u>Ultimate Selection: 2024'S Highest Quality iPad Pro 13 Cases Reviewed and Rated!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-strategic-brand-alliances-for-video-influencers/"><u>[New] Strategic Brand Alliances for Video Influencers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-efficiencyinusingyourwebcamforcapturing/"><u>[Updated] In 2024, EfficiencyInUsingYourWebcamForCapturing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>2024 Approved Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-virtual-webcams-and-live-streaming-tools-similar-to-manycam/"><u>Discover the Leading Virtual Webcams and Live Streaming Tools Similar to ManyCam</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/get-creative-effortlessly-top-10-sticker-enhancing-apps-for-smartphones/"><u>Get Creative, Effortlessly Top 10 Sticker-Enhancing Apps for Smartphones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-iphone-nightscape-techniques-unlocked/"><u>In 2024, IPhone Nightscape Techniques Unlocked</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-quick-and-easy-video-edits-a-gopro-quik-tutorial-for-macbook-users-for-2024/"><u>New Quick and Easy Video Edits A GoPro Quik Tutorial for MacBook Users for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/procase-for-mbac-pro-13-cost-efficient-laptop-cover-unboxed-and-reviewed/"><u>ProCase for MBAc Pro 13: Cost-Efficient Laptop Cover Unboxed and Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ride-through-ruin-exploring-days-gone-the-ultimate-bike-riding-survivor-game/"><u>Ride Through Ruin: Exploring Days Gone – The Ultimate Bike-Riding Survivor Game</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-fit-analysis-the-ultimate-gadget-for-fitness-enthusiasts/"><u>Samsung Galaxy Fit Analysis: The Ultimate Gadget for Fitness Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/satellite-internets-new-era-why-starlink-stands-out/"><u>Satellite Internet's New Era: Why Starlink Stands Out</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sealoc-coastal-silver-55-inch-4k-outdoor-tv-review-a-slim-and-sleek-tv-for-outdoors/"><u>Sealoc Coastal Silver 55-Inch 4K Outdoor TV Review: A Slim & Sleek TV for Outdoors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/secure-your-credentials-google-passport-evaluation/"><u>Secure Your Credentials: Google Passport Evaluation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-new-era-of-ai-with-gpt-4/"><u>Understanding the New Era of AI with GPT-4</u></a></li>
 </ul></div>
 

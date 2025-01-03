@@ -1,7 +1,7 @@
 ---
 title: Affordable Ambient Weather Station - WS-2902A Osprey Model Review
-date: 2024-08-09T00:39:10.232Z
-updated: 2024-08-10T00:39:10.232Z
+date: 2025-01-01T17:12:12.750Z
+updated: 2025-01-03T16:37:50.614Z
 categories:
   - BestProducts
 description: This Article Describes Affordable Ambient Weather Station - WS-2902A Osprey Model Review
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
 ## Beantech Bitwatch S1 Plus
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/JogmBSjTGQl_gqbjuX8prgeJJPA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4157747-1-dfa15264b03549839f5145eaa099abb2.jpg)
 
  Lifewire / Emily Ramirez
@@ -42,9 +39,6 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
 ## Beantech Bitwatch S1 Plus
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/RIxQYWLMnyHkO9IcguCoRX11EbY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4157747-1-dfa15264b03549839f5145eaa099abb2.jpg)
 
  Lifewire / Emily Ramirez
@@ -68,12 +62,17 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
  The Beantech Bitwatch S1 Plus is an interesting proposition. For only $50, it promises to provide heart rate monitoring, music storage, call management, voice control, and remote notifications. For the most part, it delivers. The Bitwatch has its share of design flaws, such as a poorly fitted watch strap and an iOS-only voice app, but it performs enough to be a reasonable consideration for those looking for their first smartwatch.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/8rMhc1Lk5yFRFW4Zlt2K9cmPdFo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-4-01d7e5ff51aa47008d803513064f4a7a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Ramirez
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design and Software: A surprising amount of features in this chunky watch**
 
@@ -85,6 +84,10 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
  While it doesn’t have[NFC](https://www.lifewire.com/what-is-nfc-832715) or GPS, it does have a speaker, and you can send basic messages with the watch. The Bitwatch S1 is surprisingly robust for those who want to dip their toes into the smartwatch experience, with many of the features that mid-tier smartwatches possess.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Easy, but unexplained**
 
  Setting up the Bitwatch works as you’d expect. Pair it via the Bluetooth on your phone and download the Beantech app. It works with both Android and iOS, so you should have no difficulty. Alerts will show up in the remote notifier app, and apps such as the calendar are not synced with your phone’s calendar apps, so keep that in mind if you’d like to add any events, notifications, or alarms to your watch.
@@ -94,8 +97,9 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
  Lifewire / Emily Ramirez
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: You get what you pay for**
 
  The Bitwatch’s low price tag shows in its performance, unfortunately. The Siri app is just that: it interfaces with Siri, meaning that voice commands are iOS-exclusive. Notification handling on the device can get confusing also. You find notifications in the Remote Notifier app, and dismissing them on the Bitwatch does not dismiss them on your phone.
@@ -106,21 +110,14 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
  If you’d like to listen to calls or music through the speaker, you will miss a lot of information— think of those jingles they play when you’re on hold for a phone call. At least the screen is big and easy to read, and the notifications_do_ work. It’s good enough for someone that wants to get a feel to a smartwatch experience, but there are better options for a little more money if you can afford it.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/7GtX2IU-w4sJA-BTqQtHQThxaJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-3-ade31135cd9d4fe0b6b01286941d2652.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Battery: It last longer than most flagship smartwatches**
 
  The battery life on the Bitwatch is excellent. With regular usage (GPS, heart rate, Bluetooth all on), we got between two and three days of use before we had to recharge. Charging is a little annoying, though, since it uses a snapping charger base that’s difficult to remove.
@@ -143,9 +140,6 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 
  The Beantech Bitwatch is not a groundbreaking smartwatch, but it provides a lot of essential features for $50\. If you’re looking to try out smartwatches, the Bitwatch will give you a solid battery life, music storage, passive notifications, phone call management, and a very large touchscreen.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Bitwatch S1 Plus
@@ -160,14 +154,11 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
 * Battery Capacity  Unknown; 2 days in field testing
 * Waterproof  No
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,3 +166,27 @@ thumbnail: https://www.lifewire.com/thmb/kWo7HN6oemoL0YOU54NCjKSHuJs=/400x300/fi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-monochrome-to-vivid-mastering-the-sdr-to-hdr-video-transition/"><u>[New] 2024 Approved From Monochrome to Vivid Mastering the SDR-to-HDR Video Transition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamlined-teaching-mastering-lecture-capture-on-mac-systems-for-2024/"><u>[New] Streamlined Teaching Mastering Lecture Capture on Mac Systems for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-inviolable-tactic-to-eliminate-youtube-shorts-for-2024/"><u>[Updated] Inviolable Tactic to Eliminate YouTube Shorts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-deciphering-the-secrets-of-zd-soft-recorder/"><u>2024 Approved Deciphering the Secrets of ZD Soft Recorder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>2024 Approved Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-huion-kamvas-gt-191-sketchpad-assessment-stunning-precision-with-a-large-screen/"><u>Comprehensive Huion Kamvas GT-191 Sketchpad Assessment: Stunning Precision with a Large Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/crafted-for-perfection-comprehensive-review-of-what-google-pixel-3-achieves/"><u>Crafted for Perfection: Comprehensive Review of What Google Pixel 3 Achieves</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-multifaceted-acer-aspire-c27-the-ultimate-low-profile-computer-solution/"><u>Discover the Multifaceted Acer Aspire C27: The Ultimate Low Profile Computer Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-storm-tracker-applications-to-keep-you-safe/"><u>Essential Storm Tracker Applications to Keep You Safe</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-premium-gopro-hero9-black-edition/"><u>Evaluating the Premium GoPro HERO9 Black Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insight-on-the-samsung-ru7300-is-its-design-a-game-changer-for-your-viewing-experience/"><u>Expert Insight on the Samsung RU7300 - Is Its Design a Game-Changer for Your Viewing Experience?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-newly-launched-samsung-galaxy-tab-s4-a-true-android-powerhouse/"><u>Expert Insights on the Newly Launched Samsung Galaxy Tab S4: A True Android Powerhouse</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-benefits-asus-ax6000-rt-ax88u-router-unveiled-the-premier-choice-in-wi-fi-6-technology-and-efficiency/"><u>Exploring the Benefits: Asus AX6000 (RT-AX88U) Router Unveiled - The Premier Choice in Wi-Fi 6 Technology and Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gamers-choice-awards-2024-the-best-consoles-and-next-gen-gaming-experience/"><u>Gamers' Choice Awards 2024: The Best Consoles and Next-Gen Gaming Experience!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/innovative-8th-generation-photographic-fusion-app-for-2024/"><u>Innovative 8Th Generation Photographic Fusion App for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-ease-inease-out-techniques-in-camtasa-9-for-2024/"><u>Mastering Ease In/Ease Out Techniques in Camtasa 9 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximize-inshot-usage-import-feature-walkthrough/"><u>Maximize InShot Usage Import Feature Walkthrough</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/questioning-your-assumptions-six-reasons-to-distrust-ai/"><u>Questioning Your Assumptions: Six Reasons to Distrust AI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-new-with-apple-airpods-unveiling-three-must-know-enhancements-for-certain-models-this-fall-tech-buzz/"><u>What's New with Apple AirPods? Unveiling Three Must-Know Enhancements for Certain Models This Fall | Tech Buzz</u></a></li>
+</ul></div>
+

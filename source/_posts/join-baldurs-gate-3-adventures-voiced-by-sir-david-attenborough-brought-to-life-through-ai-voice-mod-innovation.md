@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2024-12-19T04:53:30.219Z
-updated: 2024-12-24T20:28:02.342Z
+date: 2024-12-27T17:27:52.673Z
+updated: 2025-01-03T17:25:02.165Z
 tags:
   - games
   - tv
@@ -43,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step 1: Open the Mod Manager
 
  With the mod manager file unzipped, open the folder and run BG3ModManager.exe. You should see this program window open. It looks a little complicated, but we're going to follow a very basic process.
@@ -50,7 +54,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 2: Import the Mod Fixer
@@ -64,7 +68,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 3: Import the Narrator Mod
@@ -81,14 +85,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This means we're ready to go!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 5: Test the Game
@@ -104,7 +104,7 @@ Your browser does not support the video tag.
  Now you can play the game like normal with your new narrator.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Removing Mods
@@ -132,20 +132,18 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>[New] 2024 Approved Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-explosive-growth-video-expectations-sky-high-views-for-2024/"><u>[New] Explosive Growth Video Expectations Sky-High Views for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlockingfullpotentialwithyourcamrecorder/"><u>2024 Approved UnlockingFullPotentialWithYourCamRecorder</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/academic-advancement-with-ai-discover-4-key-methods-to-elevate-your-studies/"><u>Academic Advancement with AI: Discover 4 Key Methods to Elevate Your Studies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-excellence-in-comfort-and-design-a-closer-look-at-microsofts-sculpt-ergonomic-keyboard/"><u>Affordable Excellence in Comfort and Design: A Closer Look at Microsoft's Sculpt Ergonomic Keyboard</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/all-you-need-to-know-about-the-apple-watch-series-9-pros-cons-and-value/"><u>All You Need to Know About the Apple Watch Series 9: Pros, Cons and Value</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-fitbit-versa-evaluation-exploring-the-capabilities-of-an-economical-smarttimepiece/"><u>Budget-Friendly Fitbit Versa Evaluation: Exploring the Capabilities of an Economical Smarttimepiece</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-kensuns-durable-and-compact-portable-tire-inflator/"><u>Comprehensive Evaluation of Kensun's Durable and Compact Portable Tire Inflator</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-100-frp-by-drfone-android/"><u>Full Guide to Bypass Honor 100 FRP</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-efficiently-documenting-your-fb-chats-and-meets/"><u>In 2024, Efficiently Documenting Your FB Chats & Meets</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-puzzling-black-display-a-guide-to-repairing-your-windows-screen/"><u>Resolving the Puzzling Black Display: A Guide to Repairing Your Windows Screen</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-essential-guide-to-the-lg-um7300-a-thrifty-buyers-dream-for-a-49-4k-tv/"><u>The Essential Guide to the LG UM7300: A Thrifty Buyer's Dream for a 49 4K TV</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-blend-of-old-and-new-an-in-depth-review-of-samsungs-galaxy-watch3/"><u>The Perfect Blend of Old and New – An In-Depth Review of Samsung's Galaxy Watch3</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-asus-rog-rapture-gt-ax11000-speed-and-gaming-features-analyzed/"><u>The Ultimate Guide to the Asus ROG Rapture GT-AX11000 - Speed and Gaming Features Analyzed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-hoops-experience-with-nba-2k19-official-game-of-the-season/"><u>The Ultimate Hoops Experience with NBA 2K19 - Official Game of the Season</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-simplify-note-capture-with-mematic-app/"><u>[New] Simplify Note Capture with Mematic App</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-high-quality-webcam-capture-made-easy-review/"><u>[Updated] In 2024, High-Quality WebCam Capture Made Easy Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-enhance-live-stream-performance-with-these-5-pro-tips/"><u>2024 Approved Enhance Live Stream Performance with These 5 Pro Tips</u></a></li>
+<li><a href="https://solve-help.techidaily.com/dvdsmapv6newsdvd/"><u>究極のジャニーズ・DVDコピーツール：SMAP、V6、嵐、NEWS、関ジャニ∞の高品質DVDコピー方法</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comment-optimiser-la-taille-de-votre-video-les-6-moyens-les-plus-efficaces-pour-lemailing/"><u>Comment Optimiser La Taille De Votre Vidéo: Les 6 Moyens Les Plus Efficaces Pour L'Emailing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creation-of-international-institutions/"><u>Creation of International Institutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/delving-into-the-design-brilliance-of-rayman-legends-platform-playgrounds/"><u>Delving Into the Design Brilliance of Rayman Legends' Platform Playgrounds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-ssl-certificate-exploration/"><u>Economical SSL Certificate Exploration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevating-ps3-space-tips-for-hdd-expansion/"><u>Elevating PS3 Space: Tips for HDD Expansion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/embracing-tamriels-wilderness-an-in-depth-review-of-skyrim-on-the-nintendo-switch/"><u>Embracing Tamriel's Wilderness: An In-Depth Review of Skyrim on the Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-top-non-nvidia-gpus-for-gaming/"><u>Exploring Top Non-NVIDIA GPUs for Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-14-text-animation-examples/"><u>In 2024, Best 14 Text Animation Examples</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-photography-with-darktable-the-premier-open-source-raw-image-editor-for-mac-and-linux/"><u>Revolutionize Your Photography with Darktable: The Premier Open-Source Raw Image Editor for Mac & Linux</u></a></li>
 </ul></div>
 
