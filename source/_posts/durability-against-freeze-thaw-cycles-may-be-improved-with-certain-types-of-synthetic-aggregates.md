@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2025-01-02T16:17:32.358Z
-updated: 2025-01-03T16:51:50.599Z
+date: 2025-01-08T11:49:25.386Z
+updated: 2025-01-09T21:44:38.901Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -88,13 +84,13 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -103,12 +99,16 @@ Jerome Thomas / How-To Geek
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -126,12 +126,16 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -153,10 +157,6 @@ Jerome Thomas / How-To Geek
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Should You Buy the Anker Nebula Capsule 3?
 
@@ -193,14 +193,21 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/1-ultimate-guide-bulk-conversion-from-flac-to-wav-on-windows/"><u>1. Ultimate Guide: Bulk Conversion From FLAC to WAV on Windows</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-your-videos-final-impression/"><u>2024 Approved Enhancing Your Video's Final Impression</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-25-secrets-for-effective-win10-use/"><u>2024 Approved Top 25 Secrets for Effective Win10 Use</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Lava Blaze 2 5G Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-maxoaks-top-tier-power-solution-a-versatile-185whr-and-50k-mah-energy-pack/"><u>In-Depth Review of MaxOak's Top-Tier Power Solution: A Versatile 185W/Hr and 50K mAh Energy Pack</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-your-gaming-potential-with-the-asus-rt-ac88u-wireless-router-uncovered/"><u>Maximizing Your Gaming Potential with the ASUS RT-AC88U Wireless Router Uncovered</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-fun-and-excitement-with-pokemon-the-journey-through-shining-pearl/"><u>Navigating Fun and Excitement with Pokémon - The Journey Through Shining Pearl</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pros-and-cons-of-apples-newest-phones-the-battle-between-iphone-15-and-15-pro-max/"><u>Pros & Cons of Apple's Newest Phones: The Battle Between iPhone 15 and 15 Pro Max</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-revolutionize-your-gaming-by-recording-on-win10/"><u>[New] 2024 Approved Revolutionize Your Gaming by Recording on Win10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-the-power-of-visual-content-share-vids-on-facebook/"><u>[New] 2024 Approved Unlocking the Power of Visual Content Share Vids on Facebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-download-dos-and-donts-for-vrecorder-for-2024/"><u>[New] Download Dos & Don’ts for VRecorder for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-twitch-livestream-hacks-to-boost-engagement-and-followers/"><u>[New] Twitch Livestream Hacks to Boost Engagement and Followers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-best-of-breed-snapchat-augmentations-await/"><u>[Updated] Best of Breed Snapchat Augmentations Await</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ps5-upgrades-the-best-9-add-ons/"><u>Essential PS5 Upgrades: The Best 9 Add-Ons</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>In 2024, The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reclaim-control-from-mobile-disruptions-discover-these-4-strategies-for-a-focused-tech-free-life/"><u>Reclaim Control From Mobile Disruptions: Discover These 4 Strategies for a Focused Tech-Free Life</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-perfect-mobile-wi-fi-companion-tp-link-wr902ac-travel-router-for-frequent-flyers/"><u>The Perfect Mobile Wi-Fi Companion: TP-Link WR902AC Travel Router for Frequent Flyers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-arlo-video-doorbells-evaluated-seamless-integration-of-surveillance-and-intrusion-notifications/"><u>Top Arlo Video Doorbells Evaluated: Seamless Integration of Surveillance and Intrusion Notifications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-samsung-electronics-bargains-during-prime-shopping-event/"><u>Top Samsung Electronics Bargains During Prime Shopping Event</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-giant-a-thorough-review-and-assessment-of-the-iphone-12-pro-max/"><u>Unboxing the Giant: A Thorough Review and Assessment of the iPhone 12 Pro Max</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wi-fi-mesh-is-its-value-clear/"><u>Wi-Fi Mesh: Is Its Value Clear?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wifi-router-faceoff-can-tp-link-archer-ax6000-outshine-nighthawk-ax12-in-depth-review-analysis/"><u>WiFi Router Faceoff: Can TP-Link Archer AX6000 Outshine Nighthawk AX12? In-Depth Review Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/zte-blade-a3y-on-a-budget-comprehensive-handset-evaluation-and-insights/"><u>ZTE Blade A3Y on a Budget: Comprehensive Handset Evaluation & Insights</u></a></li>
 </ul></div>
 

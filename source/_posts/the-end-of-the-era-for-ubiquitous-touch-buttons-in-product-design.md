@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2024-12-29T16:34:24.804Z
-updated: 2025-01-03T16:58:19.549Z
+date: 2025-01-07T22:30:15.547Z
+updated: 2025-01-09T22:18:49.922Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## The End of the Era for Ubiquitous Touch Buttons in Product Design
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Problem With Capacitive Touch Buttons
 
  Two things around the house routinely make me reach for the swear jar: cables and touch buttons. Cables are an unavoidable fact of life, the bane of [anyone who appreciates a nice clean setup](https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-profile-video-attraction/). But touch buttons are a deliberate choice.
@@ -38,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you’ve got wet hands, forget about it. If your hands are slightly damp, you’re rolling the dice on a 50-50 chance of success. If the button gets wet, who knows what will happen? Sometimes you don’t need moisture for these buttons to behave erratically, they just go haywire.
 
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
 
@@ -50,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -60,7 +60,7 @@ Tim Brookes / How-To Geek
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
@@ -87,6 +87,10 @@ Tim Brookes / How-To Geek
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Occasionally the PS4 would turn itself on randomly, for seemingly no reason. Worse still, the console could randomly turn itself off or eject the disc for no reason. Add to this the constant threat of curious dog and cat noses that are perfect for triggering capacitive touch buttons, and the fact that it was way too easy to trigger these buttons when cleaning or simply walking past.
@@ -94,10 +98,6 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -118,24 +118,21 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-practices-for-stream-backgrounds/"><u>[Updated] Best Practices for Stream Backgrounds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-nexus-of-networked-realities-unveiling-metaverse-vs-omniverse/"><u>[Updated] Nexus of Networked Realities Unveiling Metaverse Vs. Omniverse</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-playback-guide-on-different-os-platforms/"><u>2024 Approved SRT Playback Guide on Different OS Platforms</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/a-peek-into-the-viral-world-of-stock-photo-memes/"><u>A Peek Into the Viral World of Stock Photo Memes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-attraction-to-gpt-for-malicious-purposes/"><u>Exploring the Attraction to GPT for Malicious Purposes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-helperdll-missing-or-not-found-errors/"><u>How to Fix Helper.dll Missing or Not Found Errors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>In 2024, A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-14-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi 14 Pro for Streaming | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-your-privacy-how-to-identify-and-locate-a-hidden-airtag/"><u>Protect Your Privacy: How to Identify and Locate a Hidden AirTag</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quoras-poe-a-step-toward-ai-engagement/"><u>Quora's POE: A Step Toward AI Engagement</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-how-the-linksys-velop-reinvents-mesh-networking-technology/"><u>The Ultimate Review: How the Linksys Velop Reinvents Mesh Networking Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tiny-yet-mighty-a-comprehensive-echo-dot-gen-3-review-covering-all-alexa-features/"><u>Tiny Yet Mighty: A Comprehensive Echo Dot (Gen 3) Review Covering All Alexa Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-features-and-review-of-the-netgear-nighthawk-x6-wireless-mesh-extender-for-enhanced-networking/"><u>Top Features and Review of the Netgear Nighthawk X6 Wireless Mesh Extender for Enhanced Networking</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-key-trackers-a-comprehensive-review/"><u>Top-Rated Key Trackers : A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/transforming-rest-a-thorough-review-of-the-ihome-zenergy-therapeutic-nighttime-companer-rise-and-shine-revitalized/"><u>Transforming Rest: A Thorough Review of the IHome Zenergy Therapeutic Nighttime Companer – Rise and Shine Revitalized</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-the-finest-wide-mouse-pads/"><u>Ultimate Selection: The Finest Wide Mouse Pads</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-lg-stylo-6-a-blend-of-style-and-writing-accuracy-insightfully-reviewed/"><u>Unboxing the LG Stylo 6 – A Blend of Style and Writing Accuracy Insightfully Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-your-creative-potential-the-definitive-guide-to-huion-kamvas-gt-191-tablet/"><u>Unleash Your Creative Potential - The Definitive Guide to Huion Kamvas GT-191 Tablet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-choose-chatgpt-plus-here-are-5-insights-that-show-why-you-shouldnt-miss-out/"><u>Why Choose ChatGPT Plus? Here Are 5 Insights That Show Why You Shouldn't Miss Out!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-enhance-your-messaging-keywords-that-drive-marketing/"><u>[New] In 2024, Enhance Your Messaging Keywords that Drive Marketing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-visionary-8-webcams-the-future-of-live-broadcasts/"><u>[Updated] In 2024, Visionary 8 Webcams The Future of Live Broadcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-interior-illumination-through-natural-sun-exposure/"><u>[Updated] Interior Illumination Through Natural Sun Exposure</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-naming-rules-and-guidelines-how-to-ensure-originality-in-streaming-for-2024/"><u>[Updated] Naming Rules and Guidelines How to Ensure Originality in Streaming for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-success-of-nokia-2-how-this-mid-range-model-outshines-its-competitors/"><u>Exploring the Success of Nokia ^2: How This Mid-Range Model Outshines Its Competitors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-humble-to-haute-the-art-of-upgraded-animal-accommodations/"><u>From Humble to Haute: The Art of Upgraded Animal Accommodations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-windows-10-home-jump-to-premium-version-guide/"><u>From Windows 10 Home: Jump to Premium Version Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/grab-your-dream-screen-or-projection-gear-at-rock-bottom-prices-benqs-prime-day-extravaganza-specials/"><u>Grab Your Dream Screen or Projection Gear at Rock-Bottom Prices - BenQ's Prime Day Extravaganza Specials!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/high-end-smartphone-showdown-comprehensive-review-of-the-samsung-galaxy-s10-premium-edition/"><u>High-End Smartphone Showdown: Comprehensive Review of the Samsung Galaxy S10 Premium Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/howling-heights-a-deep-dive-into-monster-hunter-worlds-deadly-beasts/"><u>Howling Heights: A Deep-Dive Into Monster Hunter: World's Deadly Beasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-flying-high-a-compreenasol-guide-to-cutting-edge-drone-editing/"><u>In 2024, Flying High A Compreenasol Guide to Cutting-Edge Drone Editing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-6-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 6 and iPad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-honor-90-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor 90 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lensdirect-reviews-the-ultimate-defense-against-blue-light-damage-using-prescription-eyewear/"><u>LensDirect Reviews: The Ultimate Defense Against Blue Light Damage Using Prescription Eyewear</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/obs-studio-vs-bandicam-which-is-better/"><u>OBS Studio vs Bandicam Which Is Better</u></a></li>
 </ul></div>
 

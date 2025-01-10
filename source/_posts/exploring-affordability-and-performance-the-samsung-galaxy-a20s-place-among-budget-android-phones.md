@@ -1,7 +1,7 @@
 ---
 title: "Exploring Affordability and Performance: The Samsung Galaxy A20's Place Among Budget Android Phones"
-date: 2024-11-07T20:41:38.729Z
-updated: 2024-11-14T19:34:56.477Z
+date: 2025-01-07T23:57:54.747Z
+updated: 2025-01-10T06:33:42.106Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring Affordability and Performance: The Samsung Galaxy A20's Place Among Budget Android Phones"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 ## Logitech C615 HD Laptop Webcam
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/jgH6j34_PXXE9fO2vS4Nr4d3pSM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / James Huenink
 
@@ -41,10 +45,7 @@ Lifewire / James Huenink
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/9YqP4BNKZ_F27rxIYbc3f1vqzd0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / James Huenink
@@ -69,6 +70,10 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/86PZ5XCiq91ihr7-8UNmM5io9pY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_4_Final_Horiz-bad356a5002b4156859dca672e8a8eb4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / James Huenink
 
 ## **Design:** **Flexible, foldable design**
@@ -85,6 +90,10 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Camera Quality: Quality camera with some autofocus troubles**
 
  The camera takes 1080p video and has a 2 MP sensor. We tested the webcam’s photo capabilities by taking a picture of some packaging. Color was well represented, but the autofocus was just a bit off. The image was just a bit blurry, and we couldn’t read the smaller words at all. This wasn’t a problem close up, but it made a bigger difference when people were far away.
@@ -99,13 +108,6 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Decent sound quality for a small mic**
 
  We used both[Photobooth](https://www.lifewire.com/how-to-turn-on-camera-on-mac-4175436) and[Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) to test the performance of the C615\. It was very easy to position the camera exactly the way we wanted it, though the USB cable occasionally gave us problems. We’d swivel the camera and then the pull of the USB cable would turn the whole base so the camera pointed back at the same spot where it started.
@@ -114,13 +116,6 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/C2UBXNFmxG8nA0udy1IprMH4LBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_9_Final_Horiz-1af52951f8704af9b76d7dd1ec9744a9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / James Huenink
 
 ## **Price: Inexpensive HD camera**
@@ -128,10 +123,7 @@ Lifewire / James Huenink
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Competition: Acquits itself well against the competition**
@@ -182,22 +174,18 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-5-excellent-mac-livestream-software/"><u>2024 Approved Unveiling 5 Excellent Mac Livestream Software</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/authentic-basketball-action-awaits-you-dive-into-nba-2k19/"><u>Authentic Basketball Action Awaits You: Dive Into NBA 2K19</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-overwatch-review-a-captivating-blend-of-friendly-rivalry-and-action-gaming/"><u>Essential Overwatch Review: A Captivating Blend of Friendly Rivalry & Action Gaming</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/evaluating-performance-a-closer-look-at-the-latest-samsung-galaxy-chromebook-for-mobile-professionals/"><u>Evaluating Performance: A Closer Look at the Latest Samsung Galaxy Chromebook for Mobile Professionals</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-macro-to-superzoom-powershot-sx70s-versatility/"><u>From Macro to Superzoom: PowerShot SX70's Versatility!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/get-more-bang-for-your-buck-the-arcshell-ar-5-delivers-on-performance-without-breaking-the-bank/"><u>Get More Bang for Your Buck: The Arcshell AR-5 Delivers on Performance Without Breaking the Bank</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-realme-narzo-n53-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Realme Narzo N53 without App | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-15-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 15 Plus If Youve Tried Everything</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-cutthroat-markets-with-offworld-trading-company-insights/"><u>Navigating Cutthroat Markets with Offworld Trading Company Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-with-toms-hardware-insights/"><u>Navigating the Digital World with Tom's Hardware Insights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-your-steam-remote-play-woes-with-these-proven-tips-and-hacks/"><u>Resolve Your Steam Remote Play Woes with These Proven Tips & Hacks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/score-big-with-samsung-limited-time-prime-day-bargains-await/"><u>Score Big with Samsung: Limited-Time Prime Day Bargains Await</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-realme-c67-4g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Realme C67 4G</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-tcl-50s425-50/"><u>Top TCL 50S425 50</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlock-affordable-entertainment-lenovo-tab-m10-hd-202-for-effortless-web-and-media/"><u>Unlock Affordable Entertainment: Lenovo Tab M10 HD (202#) for Effortless Web and Media</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-performance-of-tp-links-av1300-powerline-wi-fi-extender-is-it-truly-effective/"><u>Unpacking Performance of TP-Link's AV1300 Powerline Wi-Fi Extender: Is It Truly Effective?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-archive-your-online-dialogues-essential-steps-for-fb-chat-recordings/"><u>[Updated] In 2024, Archive Your Online Dialogues Essential Steps for FB Chat Recordings</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-marvell-avastar-wifi-on-intel-system/"><u>Configure Marvell Avastar WiFi on Intel System</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-k11x-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo K11x Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/immersive-experience-logging-top-tips-and-techniques-for-minecraft-recordings/"><u>Immersive Experience Logging Top Tips & Techniques for Minecraft Recordings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark Go (2023)?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-microsoft-surface-laptop-4s-exceptional-quality/"><u>In-Depth Evaluation of Microsoft Surface Laptop 4'S Exceptional Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-maxoaks-top-tier-power-solution-a-versatile-185whr-and-50k-mah-energy-pack/"><u>In-Depth Review of MaxOak's Top-Tier Power Solution: A Versatile 185W/Hr and 50K mAh Energy Pack</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-gaming-potential-with-the-asus-rt-ac88u-wireless-router-uncovered/"><u>Maximizing Your Gaming Potential with the ASUS RT-AC88U Wireless Router Uncovered</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-fun-and-excitement-with-pokemon-the-journey-through-shining-pearl/"><u>Navigating Fun and Excitement with Pokémon - The Journey Through Shining Pearl</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pros-and-cons-of-apples-newest-phones-the-battle-between-iphone-15-and-15-pro-max/"><u>Pros & Cons of Apple's Newest Phones: The Battle Between iPhone 15 and 15 Pro Max</u></a></li>
+<li><a href="https://driver-install.techidaily.com/relaunching-nvidia-software-on-pcs/"><u>Relaunching NVIDIA Software on PCs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/retained-earnings-600/"><u>Retained Earnings: $600</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/synopsis-of-crowd-opinions-on-vllo/"><u>Synopsis of Crowd Opinions on VLLO</u></a></li>
 </ul></div>
 

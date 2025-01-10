@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Latest Computer with These Spectacular Retro Game Challenges!
-date: 2024-12-28T16:02:51.003Z
-updated: 2025-01-03T17:44:16.445Z
+date: 2025-01-06T23:13:42.597Z
+updated: 2025-01-10T02:43:00.141Z
 tags:
   - games
   - tv
@@ -32,22 +32,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Kingdom Come Deliverance official screenshot showing knights in battle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/kingdom-come-deliverance-official-screenshot.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Warhorse Studios
 
  With [a sequel](https://store.steampowered.com/app/1771300/Kingdom%5FCome%5FDeliverance%5FII/) on the way in 2024, the time has never been better to give _Kingdom Come: Deliverance_  a go. While the console version looks fine, on PC this game was and remains a hardware torture test for PC. Without the benefit of modern technologies like [DLSS and frame generation](https://extra-hints.techidaily.com/new-core-understanding-of-narrative-frameworks/), you'll need a monstrous GPU to run this game at its highest settings at anything above 1080p. However, it's well worth it because the end result is still impressive, with the games more grounded and semi-realistic approach to the RPG genre.
 
  Kingdom Come: Deliverance is also well worth playing in its own right, despite its learning curve. Trying to survive as a 15th-century Bohemian peasant has never looked this good.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2  Metro Exodus Enhanced Edition 
 
 ![Metro Exodus screenshot showing landscape with global illumination](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/metro-exodus-screenshot-showing-landscape-with-global-illumination.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4A Games
@@ -64,9 +64,17 @@ Remedy Entertainment
 
  In some ways, Control has aged quite well in the sense that only now can you really see the game as it was intended without low frame rates, and it's still absolutely worth it to play this strange and amazing cross of _The X-files_ and an episode of _The_ _Twilight Zone_.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4  Witcher 3 (Classic Version) 
 
 ![Witcher 3 classic official screenshot showing the back of the witcher with two swords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/witcher-3-classic-official-screenshot-showing-the-back-of-the-witcher-with-two-swords.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 CD Projekt RED
 
@@ -76,17 +84,9 @@ CD Projekt RED
 
  The classic version of the game, however, still looks amazing, and on a modern computer you can max everything out at high-resolutions and still get butter-smooth frame rates. Classic Witcher 3 is still a looker and will still make use of whatever performance your current PC offers. Classic Witcher 3 on a modern PC is still the ultimate Witcher experience in my opinion. Amazing for a game that first came out in 2015!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5  Red Dead Redemption 2 
 
 ![Red Dead Redemption 2 official screenshot showing two coqboys riding through a field](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/red-dead-redemption-2-official-screenshot-showing-two-coqboys-riding-through-a-field.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Rockstar
 
@@ -102,21 +102,21 @@ Asobo
 
  Released in 2019 for PC, Asobo's [_A Plague Tale: Innocence_](https://store.steampowered.com/app/752590/A%5FPlague%5FTale%5FInnocence/) was an absolute widowmaker of a game. If you wanted to play at anything faster than 30fps, you needed a truly beefy system. Thanks to the "flood of rats" mechanic, this is quite a workout for CPUs as well. Play this on a decent modern computer and the game's potential really shines.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7  The Tomb Raider Survivor Trilogy 
 
 ![Shadow of the Tomb Raider official screenshot showing Lara Croft about to backstab an enemy soldier.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shadow-of-the-tomb-raider.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Crystal Dyamics
 
  Yes, I'm cheating a little here since this is a trilogy of games, but each of the [_Tomb Raider_ reboot](https://store.steampowered.com/bundle/34203/Tomb%5FRaider%5FDefinitive%5FSurvivor%5FTrilogy/) games are still 100% worth loading up on modern systems. The later games, such as _Shadow of the Tomb Raider_ offer more modern features such as ray-traced shadows and DLSS, but they all look pretty spectacular maxed-out and at higher resolutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8  Grand Theft Auto V 
 
@@ -136,13 +136,13 @@ Lightspeed Studios
 
  It's funny, because when I bought my first proper 3D accelerator, the [3Dfx Voodo 3 2000](https://win-howtos.techidaily.com/guide-addressing-windows-problem-inability-to-locate-a-suitable-printer-driver-fixed/), it was specifically to play Quake II. I guess not that much has changed over the decades.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10  Batman: Arkham Knight 
 
 ![Batman Arkham Knight official image showing Batman approaching bad guys in the rain.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/batman-arkham-knight-official-image-showing-batman-approaching-bad-guys-in-the-rain.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Rocksteady Studios
 
@@ -163,17 +163,24 @@ Rocksteady Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-mold-mirthful-media/"><u>[New] 2024 Approved Mold Mirthful Media</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-a-novices-guide-to-making-unforgettable-snaps-on-snapchat-for-2024/"><u>[New] A Novice's Guide to Making Unforgettable Snaps on Snapchat for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-ultimate-guide-to-selecting-superior-netgear-routers/"><u>2024'S Ultimate Guide to Selecting Superior Netgear Routers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/beyond-the-buzzwords-the-leading-edits-without-vimeo-for-2024/"><u>Beyond the Buzzwords The Leading Edits Without Vimeo for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-elite-art-tools-top-5-drawing-tablets-dominating-2024-market/"><u>Explore Elite Art Tools: Top 5 Drawing Tablets Dominating 2024 Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/headlamp-upgrades-for-peak-vehicle-performance/"><u>Headlamp Upgrades for Peak Vehicle Performance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-hot-30-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Infinix Hot 30 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/impostor-chatgpt-chrome-add-on-exposes-facebook-accounts/"><u>Impostor ChatGPT Chrome Add-On Exposes Facebook Accounts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-applecareplus-a-smart-choice-for-your-iphone-protection-plan/"><u>Is AppleCare+ a Smart Choice for Your iPhone Protection Plan?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/jokejigsaw-crafting-comedy-graphics/"><u>JokeJigsaw Crafting Comedy Graphics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-apples-release-schedule-for-optimal-iphone-timing/"><u>Navigating Apple's Release Schedule for Optimal iPhone Timing</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/savoring-a-year-of-learning-without-price/"><u>Savoring a Year of Learning without Price</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-from-zero-to-hero-with-telegram-promotion-techniques/"><u>[New] From Zero to Hero with Telegram Promotion Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonious-hush-managing-music-on-pc-mac/"><u>[Updated] Harmonious Hush Managing Music on PC, Mac</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-rhythmic-reckonings-top-disruptors-for-mobile-devices/"><u>[Updated] Rhythmic Reckonings Top Disruptors for Mobile Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-quality-in-flight-holy-stone-hs1-628-predator-mini-rc-helicopter-in-depth-review/"><u>Affordable Quality in Flight: Holy Stone HS1 628 Predator Mini RC Helicopter – In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-value-proposition-a-comprehensive-review-of-alienwares-aurora-r7/"><u>Assessing the Value Proposition: A Comprehensive Review of Alienware's Aurora R7</u></a></li>
+<li><a href="https://discover-great.techidaily.com/detailed-tutorial-for-efficiently-backing-up-data-on-dell-systems-using-windows-11-procedures/"><u>Detailed Tutorial for Efficiently Backing Up Data on Dell Systems Using Windows 11 Procedures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-update-and-repair-a-broken-ds4-wireless-controller-on-windows/"><u>How to Successfully Update and Repair a Broken DS4 Wireless Controller on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-becoming-an-expert-in-lut-technology/"><u>In 2024, Becoming an Expert in LUT Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-insight-into-high-end-hdr-cameras/"><u>In 2024, Comprehensive Insight Into High-End HDR Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/no-illusions-allowed-true-tales-of-unmasking-windows-ploys/"><u>No Illusions Allowed: True Tales of Unmasking Windows Ploys</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-minded-channels-ultimate-yt-educational-guide-for-2024/"><u>Top Minded Channels Ultimate YT Educational Guide for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-the-samsung-qn55q6f-the-best-in-4k-hdr-clarity-and-smart-features/"><u>Top Review of the Samsung QN55Q6F - The Best in 4K, HDR Clarity and Smart Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unbeatable-bargains-await-secure-your-favorite-tribit-sound-gear-at-knockout-prices-on-prime-day/"><u>Unbeatable Bargains Await: Secure Your Favorite Tribit Sound Gear at Knockout Prices on Prime Day</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-secrets-of-samsung-cf591-the-ultimate-gamers-display-revealed/"><u>Uncovering the Secrets of Samsung CF591 – The Ultimate Gamer’s Display Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-full-potential-of-your-home-in-depth-review-of-asus-ax6600-mesh-wifi-system/"><u>Unlocking the Full Potential of Your Home: In-Depth Review of ASUS AX6600 Mesh WiFi System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-choice-in-depth-look-at-netgear-orbi-mesh-router-excellence/"><u>Unveiling the Best Choice: In-Depth Look at Netgear Orbi Mesh Router Excellence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-the-j5-tactical-v1-pro-a-comprehensive-review-for-enhanced-night-vision/"><u>Unveiling the Power of the J5 Tactical V1-Pro: A Comprehensive Review for Enhanced Night Vision</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-truth-about-tp-link-av1n300-extender-a-comprehensive-review/"><u>Unveiling the Truth About TP-Link AV1n300 Extender: A Comprehensive Review</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-vistawindows-103/"><u>Windows VistaからWindows 10にスムーズにデータ転送するための3コツ</u></a></li>
 </ul></div>
 

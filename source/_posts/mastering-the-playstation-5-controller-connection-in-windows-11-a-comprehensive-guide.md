@@ -1,7 +1,7 @@
 ---
 title: "Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide"
-date: 2024-12-31T16:09:33.525Z
-updated: 2025-01-03T17:19:30.253Z
+date: 2025-01-08T16:20:17.895Z
+updated: 2025-01-09T17:24:52.336Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ---
 
 ## Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 * Outside of Steam, use the third-party apps DualSenseX or ReWASD to connect and configure your PS5 controller.
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
@@ -45,15 +53,15 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
  To check this, go to "Settings", click on "System", then on "Sound."
 
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, click on "Manage Sound Devices".
 
@@ -62,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
@@ -77,20 +81,20 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
@@ -102,16 +106,12 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
 
@@ -140,21 +140,20 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-excessive-tiktok-drafts-simplify-with-smart-editing-techniques/"><u>[New] 2024 Approved Excessive TikTok Drafts? Simplify with Smart Editing Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-video-segmentation-adding-chapters-for-clarity/"><u>[New] 2024 Approved Vimeo Video Segmentation Adding Chapters for Clarity</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nalyzing-youtube-adrevenue-average-payments-by-thousands-of-views/"><u>[New] Analyzing Youtube AdRevenue Average Payments by Thousands of Views</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-impact-the-20-key-principles-of-fb-video-marketing/"><u>[New] Maximizing Impact The 20 Key Principles of FB Video Marketing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-depths-of-nhl-19s-web-based-sports-simulation-a-comprehensive-critique/"><u>Exploring the Depths of NHL '19'S Web-Based Sports Simulation: A Comprehensive Critique</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-enhance-and-modernize-dell-audio-systems/"><u>How to Enhance and Modernize Dell Audio Systems</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-launch-into-live-tiktok-from-computer-quick-and-easy-steps/"><u>In 2024, Launch Into Live TikTok From Computer – Quick and Easy Steps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ize-youtube-creations-a-guide-to-high-quality-visuals-for-2024/"><u>Optimize YouTube Creations A Guide to High-Quality Visuals for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-5-goggles-securing-victory-in-air-races-for-2024/"><u>Premier 5 Goggles Securing Victory in Air Races for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-viewing-your-websites-pre-upload/"><u>Step-by-Step Guide: Viewing Your Websites Pre-Upload</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-list-of-best-cell-phone-signal-boosters-for-optimal-connectivity/"><u>The Definitive List of Best Cell Phone Signal Boosters for Optimal Connectivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-evolving-microsoft-surface-pro-7-an-assessment-of-its-dependable-enhancements-and-subtle-revisions/"><u>The Evolving Microsoft Surface Pro 7 - An Assessment of Its Dependable Enhancements and Subtle Revisions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-huawei-p20-pro-phenomenon-a-dual-win-for-photography-enthusiasts-and-smartphone-lovers/"><u>The Huawei P20 Pro Phenomenon: A Dual Win for Photography Enthusiasts and Smartphone Lovers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-for-garmin-venu-mastering-247-health-and-exercise-insights/"><u>The Ultimate Review for Garmin Venu - Mastering 24/7 Health and Exercise Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-showdown-assessing-the-pros-and-cons-of-amazon-fire-versus-samsung-tablets/"><u>The Ultimate Showdown: Assessing the Pros and Cons of Amazon Fire Versus Samsung Tablets</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-your-inner-star-karaoke-usas-top-review-and-musical-joy-under-150/"><u>Unleash Your Inner Star: Karaoke USA's Top Review and Musical Joy Under $150</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unleashing-musical-talent-with-magix-studio/"><u>[New] 2024 Approved Unleashing Musical Talent with Magix Studio</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-deleted-history-uncovered-your-guide-to-online-video-retrieval/"><u>[Updated] 2024 Approved Deleted History Uncovered Your Guide to Online Video Retrieval</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-transform-brainstorms-into-youtube-channel-names/"><u>[Updated] 2024 Approved How To Transform Brainstorms Into YouTube Channel Names</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-crafting-visual-wonders-the-art-of-3d-text-in-psartwork/"><u>[Updated] Crafting Visual Wonders The Art of 3D Text in PSArtwork</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-realme-v30-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Realme V30 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-dominates-as-they-secure-top-seven-positions-in-worldwide-smartphone-market-share/"><u>IPhone Dominates as They Secure Top Seven Positions in Worldwide Smartphone Market Share</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015936922-logitech-g533-microphone-troubleshooting-guide-get-it-working-again/"><u>Logitech G533 Microphone Troubleshooting Guide: Get It Working Again</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-the-past-and-present-our-take-on-the-netgear-c3000-router-review/"><u>Navigating Through the Past and Present: Our Take on the Netgear C3000 Router Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nhl-19-review-compelling-online-gameplay/"><u>NHL 19 Review: Compelling Online Gameplay</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nickwatch-arrives-in-the-usa-coinciding-with-kidzchoice-gala/"><u>NickWatch Arrives in the USA Coinciding with KidzChoice Gala</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nintendos-console-revolutionized-discover-how-the-switch-lite-delivers-quality-entertainment-for-less/"><u>Nintendo's Console Revolutionized: Discover How the Switch Lite Delivers Quality Entertainment for Less</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/prioritize-these-pc-upgrades-now/"><u>Prioritize These PC Upgrades Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/roku-and-fire-tv-stick-showdown-deciding-on-the-ideal-option/"><u>Roku and Fire TV Stick Showdown – Deciding on The Ideal Option</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/text-tactics-best-practices-guide/"><u>Text Tactics Best Practices Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tracing-the-future-beyond-turings-legacy/"><u>Tracing the Future: Beyond Turing's Legacy</u></a></li>
 </ul></div>
 

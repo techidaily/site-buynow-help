@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2024-12-27T16:03:06.754Z
-updated: 2025-01-03T16:37:55.162Z
+date: 2025-01-07T11:13:07.445Z
+updated: 2025-01-10T05:15:24.639Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The 2024 Summer Olympics are landing in Paris at the end of July, and you don't need cable to access a lot of the action. NBC will broadcast many daytime and primetime events. With the aid of an over-the-air (OTA) antenna, you can watch for free.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which Channels are Broadcasting the Olympics?
@@ -51,6 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jordan Gloor / How-To Geek
 
  When you think of a TV antenna, you may envision a set of metal rabbit ears. But these days, indoor digital antennae often resemble an internet router or speaker. Some antenna models even have sleek, flat designs that are easy to mount indoors to a wall. Outdoor antennae are designed to be mounted on your roof and are typically much larger with a wider range.
@@ -59,10 +63,6 @@ Jordan Gloor / How-To Geek
 
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Which Olympic Events I Can Watch for Free?
 
  You will be able to watch NBC Olympics coverage using an antenna in most places. You'll find the [full schedule on the Olympics' official website](https://www.nbcolympics.com/full-schedule). NBC Sports has also [published a schedule](https://www.nbcsports.com/olympics/news/paris-2024-olympic-day-by-day-competition-schedule) adjusted for Eastern Standard Time in the United States (six hours behind Paris).
@@ -70,7 +70,7 @@ Jordan Gloor / How-To Geek
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Watch 2024 Olympic Gymnastics
@@ -78,7 +78,7 @@ Jordan Gloor / How-To Geek
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
@@ -104,16 +104,18 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-fuse-voice-recordings-with-ppt-content/"><u>[New] Fuse Voice Recordings with PPT Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-tips-and-tricks-for-effortless-finding-exceptional-pexel-images/"><u>[New] In 2024, Tips and Tricks for Effortless Finding Exceptional Pexel Images</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-subtle-symmetry-balancing-visuals-like-a-pro-for-2024/"><u>[Updated] Subtle Symmetry Balancing Visuals Like a Pro for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-top-6-favorite-short-form-video-download-tools/"><u>[Updated] Unveiling the Top 6 Favorite Short-Form Video Download Tools</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-xs-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone XS Max</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-mini-marvel-a-comprehensive-samsung-galaxy-s10e-evaluation/"><u>Discovering the Mini Marvel: A Comprehensive Samsung Galaxy S10e Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/effortless-accuracy-and-enduring-connections-the-sabrent-mini-travel-wireless-mouse-experience/"><u>Effortless Accuracy & Enduring Connections: The Sabrent Mini Travel Wireless Mouse Experience</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/elevating-productivity-and-entertainment-an-expert-review-of-the-power-packed-samsung-galaxy-tab-s5e/"><u>Elevating Productivity and Entertainment - An Expert Review of the Power-Packed Samsung Galaxy Tab S5e</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ergodriven-topo-mat-assessment-a-must-have-anti-fatigue-standing-pad-for-office-productivity/"><u>Ergodriven Topo Mat Assessment: A Must-Have Anti-Fatigue Standing Pad for Office Productivity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-comfort-with-the-ergodriven-topo-the-anti-fatigue-mat-for-effortless-long-stands-at-your-desk/"><u>Experience Comfort with the Ergodriven Topo - The Anti-Fatigue Mat for Effortless Long Stands at Your Desk</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-assessment-the-combination-of-quality-and-efficiency-in-the-huion-inspiroy-g10t-art-pad/"><u>Expert Assessment: The Combination of Quality and Efficiency in the Huion Inspiroy G10T Art Pad</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-insider-insights-unpacking-the-dji-phantom-3-pro-features/"><u>[New] Insider Insights Unpacking the DJI Phantom 3 Pro Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capture-perfection-4-methods-of-saving-chromebook-screenshots/"><u>[Updated] 2024 Approved Capture Perfection 4 Methods of Saving Chromebook Screenshots</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-tools-to-bypass-lock-screenred-magic-9-proplus-by-drfone-android-unlock-android-unlock/"><u>Bypass Tools to Bypass Lock Screen(Red Magic 9 Pro+)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/vate-1000-fanbase-followers-quickly/"><u>Cultivate 1,000 Fanbase Followers Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-solutions-to-the-common-problems-with-realteks-rtl8723be-driver/"><u>DIY Solutions to the Common Problems with Realtek's RTL8723BE Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957373535-effortlessly-update-to-latest-asrock-ab350-pro4-drivers-free-downloads-here/"><u>Effortlessly Update to Latest ASRock AB350 Pro4 Drivers - Free Downloads Here</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-nokia-c110-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Nokia C110</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovation-unboxed-an-insightful-examination-of-the-powerhouse-m1-in-apples-latest-imac/"><u>Innovation Unboxed: An Insightful Examination of the Powerhouse M1 in Apple's Latest iMac</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/iphone-15-pro-max-vs-samsung-s24-ultra-a-comprehensive-showdown/"><u>IPhone 15 Pro Max Vs. Samsung S24 Ultra: A Comprehensive Showdown</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lightzone-review-free-darkroom-software-for-windows-mac-and-linux/"><u>Lightzone Review: Free Darkroom Software for Windows, Mac, and Linux</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-performance-and-savings-with-the-acer-predator-triton-300-se-a-detailed-review/"><u>Maximizing Performance and Savings with the Acer Predator Triton 300 SE – A Detailed Review!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-viewing-experience-with-the-affordable-hisense-50h8f-4k-tv-expert-review/"><u>Maximizing Your Viewing Experience with the Affordable Hisense 50H8F 4K TV - Expert Review</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-to-edit-top-10-online-video-editors-with-no-watermark-limitations-for-2024/"><u>Updated Free to Edit Top 10 Online Video Editors with No Watermark Limitations for 2024</u></a></li>
 </ul></div>
 

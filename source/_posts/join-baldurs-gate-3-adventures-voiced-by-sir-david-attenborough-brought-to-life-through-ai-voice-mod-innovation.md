@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2024-12-27T17:27:52.673Z
-updated: 2025-01-03T17:25:02.165Z
+date: 2025-01-06T17:41:40.463Z
+updated: 2025-01-10T12:44:30.032Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  PC games have been the target of mods for almost as long as there have been PC games. I certainly fondly remember playing the Barney the Dinosaur mod for Wolfenstein 3D on my 386 laptop, but enough about my chronic back pain!
 
  Thanks to AI, we're seeing some truly out-there mods for games, and one of the most impressive might be one that swaps out the Baldur's Gate 3 narrator for a voice that almost (but not quite) sounds like Sir David Attenborough. Here's how to try it for yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What You Need
 
@@ -43,10 +51,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 1: Open the Mod Manager
 
  With the mod manager file unzipped, open the folder and run BG3ModManager.exe. You should see this program window open. It looks a little complicated, but we're going to follow a very basic process.
@@ -54,7 +58,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 2: Import the Mod Fixer
@@ -67,13 +71,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 4: Export Mod Order
 
@@ -87,25 +91,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This means we're ready to go!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 5: Test the Game
 
  Everything on the modding side of the process should now be done, which means it's time to start up the game to see if it's working. You'll get a warning that mods have been detected, which is a good sign! You can choose to never show this message again, but I think it's worth the hassle of the extra click so that you know whether you're starting up a modded version of Baldur's Gate or not.
 
 ![BG3 mod warning message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-warning.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you're in the game, you can either load up your save game and wait until you get to a section of narration, or you can quickly start a new game with a preset character, run to the first nursery in front of your pod, and check for the voice this way. As you can see in this clip.
 
 Your browser does not support the video tag. 
 
  Now you can play the game like normal with your new narrator.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Removing Mods
 
@@ -132,18 +132,18 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-simplify-note-capture-with-mematic-app/"><u>[New] Simplify Note Capture with Mematic App</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-high-quality-webcam-capture-made-easy-review/"><u>[Updated] In 2024, High-Quality WebCam Capture Made Easy Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-enhance-live-stream-performance-with-these-5-pro-tips/"><u>2024 Approved Enhance Live Stream Performance with These 5 Pro Tips</u></a></li>
-<li><a href="https://solve-help.techidaily.com/dvdsmapv6newsdvd/"><u>究極のジャニーズ・DVDコピーツール：SMAP、V6、嵐、NEWS、関ジャニ∞の高品質DVDコピー方法</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/comment-optimiser-la-taille-de-votre-video-les-6-moyens-les-plus-efficaces-pour-lemailing/"><u>Comment Optimiser La Taille De Votre Vidéo: Les 6 Moyens Les Plus Efficaces Pour L'Emailing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/creation-of-international-institutions/"><u>Creation of International Institutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/delving-into-the-design-brilliance-of-rayman-legends-platform-playgrounds/"><u>Delving Into the Design Brilliance of Rayman Legends' Platform Playgrounds</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/economical-ssl-certificate-exploration/"><u>Economical SSL Certificate Exploration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevating-ps3-space-tips-for-hdd-expansion/"><u>Elevating PS3 Space: Tips for HDD Expansion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/embracing-tamriels-wilderness-an-in-depth-review-of-skyrim-on-the-nintendo-switch/"><u>Embracing Tamriel's Wilderness: An In-Depth Review of Skyrim on the Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-top-non-nvidia-gpus-for-gaming/"><u>Exploring Top Non-NVIDIA GPUs for Gaming</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-14-text-animation-examples/"><u>In 2024, Best 14 Text Animation Examples</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-photography-with-darktable-the-premier-open-source-raw-image-editor-for-mac-and-linux/"><u>Revolutionize Your Photography with Darktable: The Premier Open-Source Raw Image Editor for Mac & Linux</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-3d-lut-design-techniques/"><u>[New] Unveiling 3D LUT Design Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-looms-lens-sharpen-your-recording-skills/"><u>[Updated] 2024 Approved Loom's Lens Sharpen Your Recording Skills</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/balancing-style-and-exercise-tracking-in-the-amazfit-gts-a-comprehensive-review/"><u>Balancing Style and Exercise Tracking in the Amazfit GTS - A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-binge-worthy-tv-streaming-options-available-in-2024/"><u>Best Binge-Worthy TV Streaming Options Available in 202^4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-ipad-edition-features-prices-and-reviews-compared/"><u>Best iPad Edition: Features, Prices, and Reviews Compared</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boost-your-workout-routine-the-fitbit-versa-3-featuring-built-in-gps-and-wellness-tools-to-keep-you-going/"><u>Boost Your Workout Routine: The Fitbit Versa 3 Featuring Built-In GPS and Wellness Tools to Keep You Going</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canon-eos-t7-review-a-significant-step-forward/"><u>Canon EOS T7 Review - A Significant Step Forward</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-the-best-streamer-chromecast-vs-roku-showdown/"><u>Choosing the Best Streamer: Chromecast Vs. Roku Showdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-durability-and-performance-of-airpods-pro-post-release-is-investing-in-them-worth-it/"><u>Evaluating the Durability and Performance of AirPods Pro Post-Release: Is Investing in Them Worth It?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expert-guide-resolving-common-hardware-malfunctions-with-ease-tips-from-yl-computing/"><u>Expert Guide: Resolving Common Hardware Malfunctions with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intense-action-iphone-tips-for-artistic-motion-blur-photos/"><u>In 2024, Intense Action IPhone Tips for Artistic Motion-Blur Photos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-skills-with-the-cytron-edu-pico-the-benefits-of-understanding-and-overcoming-failures/"><u>Mastering Skills with the Cytron Edu Pico: The Benefits of Understanding and Overcoming Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-failure-to-detect-powershell/"><u>Overcoming Windows Failure to Detect PowerShell</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding Asset-Flipped Games – Do They Hurt the Gaming Industry?
-date: 2024-12-29T17:10:28.361Z
-updated: 2025-01-03T16:57:19.546Z
+date: 2025-01-03T00:55:53.401Z
+updated: 2025-01-09T18:47:45.858Z
 tags:
   - games
   - tv
@@ -22,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You may have heard some poorly-received games being accused of being "asset flip" titles, but I bet more than a few people have no idea what this particular insult means in the context of video games. Thankfully, we can rectify that right away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Not Every Asset in Games Is Bespoke
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For a game to count as an "asset flip," it generally needs to use pre-made assets for most to all of its in-game assets. The idea is that the creators of the game put in as little effort as possible, and just wanted some sort of game out the door. It's basically creating a hodgepodge game from existing bits and pieces and selling it as your own original creative work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pre-made Assets Help Out Indie and Double-A Developers
@@ -42,7 +42,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The same goes for sound effects. An M16 is an M16, there's no need for every developer to go out and record a new one. As with the production of any medium, budget allocations have to be smart to get the most out of your resources. Also, don't think that "triple A" big-budget games don't do the same thing. A penny saved, and all that!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Asset Flipped Games Are Usually a Form of Shovelware
@@ -52,7 +52,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A man sorting through piles of Nintendo Switch games into a dumpster](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-man-sorting-through-piles-of-nintendo-switch-games-into-a-dumpster.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek / MidJourney
@@ -60,7 +60,7 @@ Sydney Louw Butler / How-To Geek / MidJourney
  In fact, with modern game creation tools like Unity and Unreal Engine 5, it's not hard for a single person with some free time to knock something out in a few days to weeks. There have even been cases where people publish what's essentially an unaltered [Unity template](https://assetstore.unity.com/search#cf-ec%5Fcategory=templates) with a new name and try to sell that. There are some good Steam curators, such as [Asset Flip Reviews](https://store.steampowered.com/curator/41754370-Asset-Flip-Reviews/) who make a point of highlighting these games so that people can safely avoid them. Even if you buy them on a platform where you can easily get your money back, they've still wasted your time and that's worth something too!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Just Because a Game Uses “Flipped” Assets Doesn’t Make It Bad
@@ -86,22 +86,24 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-customize-your-videos-closing-music-without-costs/"><u>[New] Customize Your Video's Closing Music Without Costs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-the-art-of-fbx-less-game-capture-techniques/"><u>[New] In 2024, Mastering the Art of FBX-Less Game Capture Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-valheims-flora-frontier-unlocking-the-best-seeds-for-2024/"><u>[New] Valheim's Flora Frontier Unlocking the Best Seeds for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-detailed-look-logitechs-elite-4k-webcam-review/"><u>[Updated] Detailed Look Logitech’s Elite 4K Webcam Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apples-leap-forward-the-game-changing-impact-of-the-mac-m1-chip/"><u>Apple’s Leap Forward: The Game-Changing Impact of the Mac M1 Chip</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-troubleshooting-on-windows-11-identifying-and-fixing-device-detection-errors/"><u>Bluetooth Troubleshooting on Windows 11: Identifying & Fixing Device Detection Errors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bose-qc35-ii-unveiled-top-noise-canceling-headphones/"><u>Bose QC35 II Unveiled: Top Noise-Canceling Headphones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/charting-the-galaxy-insights-and-strategies-from-an-in-depth-offworld-trading-company-overview/"><u>Charting the Galaxy: Insights and Strategies From an In-Depth 'Offworld Trading Company' Overview</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cheap-and-quick-camera-picks-your-2024-photography-buddy/"><u>Cheap & Quick Camera Picks - Your 2024 Photography Buddy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-reading-devices-is-it-the-ipad-kindle-or-nook-for-you/"><u>Comparing Reading Devices: Is It the iPad, Kindle, or Nook for You?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-the-titans-a-comprehensive-review-of-samsung-galaxy-s10plus-vs-s20/"><u>Comparing The Titans: A Comprehensive Review of Samsung Galaxy S10+ Vs. S20</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-mapmyride-a-user-friendly-cycling-companion/"><u>Comprehensive Analysis of MapMyRide: A User-Friendly Cycling Companion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-nokia-e72-exceeding-mid-range-expectations/"><u>Comprehensive Analysis of Nokia E7.2 - Exceeding Mid-Range Expectations</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721096983128-dealing-with-iphones-and-mtp-driver-woes-master-these-troubleshooting-tips/"><u>Dealing With iPhones and MTP Driver Woes? Master These Troubleshooting Tips!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-motorola-razr-40-ultra-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola Razr 40 Ultra Unlock Without Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-htc-u23-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your HTC U23 Pro Device</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/windows-11-blue-screen-error-0xc000000e/"><u>Windows 11 で発生する Blue Screen Error 0xC000000E - 説明と回復方法</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-use-dslr-for-facebook-live-on-you-pc-or-mac/"><u>[Updated] In 2024, How to Use DSLR for Facebook Live on You PC or Mac?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-srt-optimization-the-ultimate-performance-boosters-for-computers/"><u>[Updated] In 2024, SRT Optimization The Ultimate Performance Boosters for Computers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-audio-elite-choosing-the-best-wires-for-you/"><u>2024'S Audio Elite: Choosing the Best Wires for You</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-lenovo-chromebook-duet-evaluation-a-comprehensive-look-at-the-cost-effective-tabletlaptop-hybrid/"><u>Affordable Lenovo Chromebook Duet Evaluation: A Comprehensive Look at the Cost-Effective Tablet/Laptop Hybrid</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722960894199-amazon-basics-7-port-usb-30-hub-comprehensive-review-your-ultimate-connectivity-solution/"><u>Amazon Basics 7-Port USB 3.0 Hub Comprehensive Review – Your Ultimate Connectivity Solution!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aminy-ufo-review-looks-can-be-deceiving/"><u>Aminy UFO Review: Looks Can Be Deceiving</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dialogue-design-mastery-using-gpt-to-build-unique-bots/"><u>Dialogue Design Mastery: Using GPT to Build Unique Bots</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-call-of-duty-warzone-glitches-fixing-the-elusive-dev-error-6634-updated/"><u>Overcome Call of Duty Warzone Glitches: Fixing the Elusive Dev Error 6634 (Updated )</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/seamless-video-meetings-from-home-a-guide-to-proficient-use-of-skypes-screen-sharing/"><u>Seamless Video Meetings From Home A Guide to Proficient Use of Skype's Screen Sharing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranked-apple-watch-shields-your-ultimate-buying-guide/"><u>Top-Ranked Apple Watch Shields : Your Ultimate Buying Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/twitter-image-resolution-standards-for-2024/"><u>Twitter Image Resolution Standards for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-tp-link-archer-c80-superior-performance-at-a-budget-friendly-price/"><u>Unboxing the TP-Link Archer C80: Superior Performance at a Budget-Friendly Price</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-your-contents-potential-mastering-the-art-of-youtube-featured-listings-for-2024/"><u>Unlock Your Content's Potential Mastering the Art of YouTube Featured Listings for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-fast-and-reliable-connectivity-comprehensive-review-of-the-d-link-powerline-2000-kit/"><u>Unlocking Fast and Reliable Connectivity: Comprehensive Review of the D-Link Powerline 2000 Kit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-versatility-of-amazons-family-friendly-fire-hd-10-multimedia-tablet-in-our-latest-review/"><u>Unveiling the Versatility of Amazon's Family-Friendly Fire HD 10 Multimedia Tablet in Our Latest Review</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-s-top-rated-free-mod-video-editing-tools/"><u>Updated S Top-Rated Free MOD Video Editing Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgraded-power-contrasting-samsungs-latest-marvels-s24-and-s23-ultra/"><u>Upgraded Power: Contrasting Samsung's Latest Marvels, S24 and S23 Ultra</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-centric-design-of-the-acer-xfa240-laptop-examined/"><u>User-Centric Design of the Acer XFA240 Laptop Examined</u></a></li>
 </ul></div>
 

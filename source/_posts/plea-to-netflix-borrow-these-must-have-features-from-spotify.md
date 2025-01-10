@@ -1,7 +1,7 @@
 ---
 title: "Plea to Netflix: Borrow These Must-Have Features From Spotify"
-date: 2024-12-27T17:42:13.747Z
-updated: 2025-01-03T16:49:09.794Z
+date: 2025-01-09T09:46:15.749Z
+updated: 2025-01-09T22:55:30.819Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 ## Plea to Netflix: Borrow These Must-Have Features From Spotify
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  The best TV binges are the ones with all hits and no skips. Netflix, you’re the king of queues, so let me create my own playlists with individual episodes from shows on your service. While we’re on the topic of new features, I’ve got some other ideas too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Video Playlists Would Be Great for Better Binging
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Dear reader, I can see the skeptical wheels turning in your brain, thinking, “But content gets removed and added to Netflix all the time, what happens then?” That's easy. If shows or movies become unavailable, then they’re just grayed out from playlists. The same thing happens with songs on Spotify. Artists remove songs and albums all the time for various reasons. The playlist skips unavailable tracks and moves on. To spin this into a positive thing, Netflix could always use this info to ping you when a show or movie returns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Add Back That Shuffle Button!
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Access to More Data For a Richer Experience
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
@@ -90,24 +90,22 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-symphony-in-your-pocket-classic-tones-at-a-click/"><u>[New] In 2024, Symphony in Your Pocket Classic Tones at a Click</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-leverage-vimeo-for-wider-viewership/"><u>[New] Leverage Vimeo for Wider Viewership</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ryan-kaji-youthful-wealth-through-internet-popularity/"><u>[Updated] 2024 Approved Ryan Kaji Youthful Wealth Through Internet Popularity</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-zen-masters-guide-to-zooming-your-youtube-livestreams/"><u>[Updated] In 2024, The Zen Master’s Guide to Zooming Your YouTube Livestreams</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-socialites-secret-accelerate-your-fame-on-insta-with-our-top-15-hacks/"><u>[Updated] Socialite's Secret Accelerate Your Fame on Insta with Our Top 15 Hacks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-polar-prowess-highlighting-the-elite-of-snowboard-cross-winter-games/"><u>2024 Approved Polar Prowess Highlighting the Elite of Snowboard Cross, Winter Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/astro-a50-headset-recognition-problems-fixes-for-astro-command-system-failures/"><u>Astro A50 Headset Recognition Problems: Fixes for Astro Command System Failures</u></a></li>
-<li><a href="https://win-hot.techidaily.com/creating-diy-sticker-designs-for-the-trendiest-2/"><u>Creating DIY Sticker Designs for the Trendiest 2#</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-paying-for-applecareplus-a-smart-choice-for-iphone-and-ipad-owners/"><u>Is Paying for AppleCare+ a Smart Choice for iPhone and iPad Owners?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/master-your-subjects-from-home-the-definitive-rankings-of-online-course-websites/"><u>Master Your Subjects From Home: The Definitive Rankings of Online Course Websites</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mavix-m9-gaming-chair-review/"><u>Mavix M9 Gaming Chair Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/microsoft-surface-duo-review/"><u>Microsoft Surface Duo Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/must-have-upgrades-for-your-iphone-find-the-perfect-extras-here/"><u>Must-Have Upgrades for Your iPhone: Find the Perfect Extras Here!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-through-choices-how-to-choose-an-iphone-optimized-for-games/"><u>Navigating Through Choices: How to Choose an iPhone Optimized for Games</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgear-nighthawk-x10-ad7200-router-unleashing-high-speed-wi-fi-connectivity-in-a-comprehensive-evaluation/"><u>Netgear Nighthawk X10 AD7200 Router: Unleashing High-Speed Wi-Fi Connectivity in a Comprehensive Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nintendos-console-companion-the-switch-lite-reviewed-for-gaming-on-the-go/"><u>Nintendo’s Console Companion – The Switch Lite Reviewed for Gaming On-the-Go</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oneplus-nord-n100-reviewed-a-value-packed-phone-without-breaking-the-bank/"><u>OnePlus Nord N100 Reviewed - A Value-Packed Phone Without Breaking the Bank</u></a></li>
-<li><a href="https://win11.techidaily.com/revealing-the-extremes-processor-stages-in-windows/"><u>Revealing the Extremes: Processor Stages in Windows</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/riparazione-rapida-dei-file-con-modi-facili-ed-economici-su-cmd-senza-costi-aggiuntivi/"><u>Riparazione Rapida Dei File Con Modi Facili Ed Economici Su CMD Senza Costi Aggiuntivi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-deciphering-whatsapps-voice-call-mechanics/"><u>[New] 2024 Approved Deciphering WhatsApp's Voice Call Mechanics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-deep-dive-into-digital-platform-wealth-dailymotion-and-youtube-comparison/"><u>[New] A Deep-Dive Into Digital Platform Wealth Dailymotion & YouTube Comparison</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-magix-vst-transform-your-home-studio-setup/"><u>[New] Magix VST Transform Your Home Studio Setup</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mastering-360-videos-for-fb-creation-and-sharing-guide/"><u>[Updated] In 2024, Mastering 360 Videos for FB Creation & Sharing Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-ranked-best-of-the-best-smart-speakers/"><u>Expertly Ranked Best-of-the-Best: Smart Speakers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-amazon-fire-hd-n-an-inclusive-media-tablet-reviewed/"><u>Exploring the Amazon Fire HD N - An Inclusive Media Tablet Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-depths-of-galactic-warfare-a-thorough-review-of-star-wars-squadrons/"><u>Exploring the Depths of Galactic Warfare - A Thorough Review of Star Wars: Squadrons.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/find-everything-at-your-fingertips-with-oodle-your-go-to-source-for-complimentary-community-listings/"><u>Find Everything at Your Fingertips with Oodle - Your Go-To Source for Complimentary Community Listings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fun-filled-gaming-adventure-reviews-of-plants-vs-zombies-new-release-battle-for-neighborville/"><u>Fun-Filled Gaming Adventure: Reviews of 'Plants Vs. Zombies' New Release, 'Battle for Neighborville'</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-best-live-stream-tools-xsplit-or-obs/"><u>In 2024, Best Live Stream Tools XSplit or OBS?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-unveiling-the-power-of-a-feature-packed-samsung-galaxy-tab-s5e/"><u>In-Depth Analysis: Unveiling the Power of a Feature-Packed Samsung Galaxy Tab S5e</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insightful-analysis-of-samsung-galaxy-fit-an-ultimate-companion-for-health-conscious-users/"><u>Insightful Analysis of Samsung Galaxy Fit: An Ultimate Companion for Health-Conscious Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/interplanetary-town-planning-gone-awry-stirring-up-storms-for-galactic-fun/"><u>Interplanetary Town Planning Gone Awry: Stirring Up Storms for Galactic Fun</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-meetings-pre-call-tech-check-for-webcamsmics-windows/"><u>Perfecting Meetings: Pre-Call Tech Check for Webcams/Mics (Windows)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-why-society-is-moving-towards-electric-vehicles/"><u>Understanding Why Society Is Moving Towards Electric Vehicles</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Announces Closure of Xbox 360 Marketplace in Current Month
-date: 2025-01-01T16:39:18.606Z
-updated: 2025-01-03T17:35:02.680Z
+date: 2025-01-06T20:21:08.538Z
+updated: 2025-01-09T21:44:56.304Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Microsoft Announces Closure of Xbox 360 Marketplace in Current Month
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Xbox 360 Store is to close from July 29, 2024, affecting all digital purchases.
@@ -22,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After almost 20 years, Microsoft is officially closing the Xbox 360 storefront. After July 29, 2024, you will no longer be able to purchase games on your vintage 360\. Here’s what that means.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Xbox 360 Store Is Closing
@@ -31,10 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Used copies of Dragon's Dogma, Darksiders II, and Unreal Tournament III for Xbox 360.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/used_games.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Microsoft’s announcement only affects the purchasing of digital titles on the Xbox 360, which means that as long as you own a game (or another item, like an add-on) you’ll still be able to download it from your Download History (under Settings > Account) after this date.
@@ -42,7 +42,7 @@ Tim Brookes / How-To Geek
  Since everything was made available via the store, the shutdown will affect a huge variety of items from games and trials to add-ons, avatar items, gamerpics, trailers, and apps for non-games. In-game purchases, subscriptions, and video content in the Movies & TV app will also be pulled from sale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Many Games Are Discounted Right Now
@@ -55,6 +55,10 @@ Tim Brookes / How-To Geek
 
 [Delisted Games](https://delistedgames.com/xbox-360-marketplace-resources/) has a list of 47 titles that never saw release anywhere else (not even the PlayStation 3), that will officially be “lost forever” on July 29\. Most of these are obscure indie titles, but there are some big names in there like _Fruit Ninja Kinect_, Xbox Live Arcade exclusive two _South Park_ games, and forgettable arcade port _Double Dragon II: Wander of the Dragons_.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Online Play and Updates Are Unaffected
 
  Game updates will still work on the Xbox 360 after the store is shut down, both for digital titles and disc-based titles. You’ll need to sign in and connect to online services for this to work.
@@ -63,16 +67,12 @@ Tim Brookes / How-To Geek
 
 ![Xbox Live Gold vs Game Pass Core compared.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-04-at-10-39-08.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Xbox
 
  Microsoft still requires a premium subscription to play online on the Xbox 360\. This was once called Xbox Live Gold but is now known as [Game Pass Core](https://www.xbox.com/en-US/xbox-game-pass/core). It’ll set you back $9.99/month, just like Xbox Live Gold once did. If you [have a Game Pass subscription](https://fox-info.techidaily.com/2024-approved-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/) for another console (like the Xbox One, or Series X|S), you can play on your Xbox 360 simply by signing in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The End of an Era
@@ -96,24 +96,22 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-comprehensively-understanding-cloud-storage-with-adobe-and-why-you-should-compare-for-2024/"><u>[New] Comprehensively Understanding Cloud Storage with Adobe and Why You Should Compare for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-expert-guide-to-free-of-watermark-tiktok-video-downloads-for-2024/"><u>[New] Expert Guide to Free-of-Watermark TikTok Video Downloads for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-firefoxs-pip-explained-a-users-handbook/"><u>[New] Firefox's PIP Explained A User's Handbook</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-compendium-all-features-of-bublcams-360-degree-lens/"><u>[Updated] Comprehensive Compendium All Features of Bublcam's 360-Degree Lens</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-enhanced-virtual-storefronts-analysis/"><u>2024 Approved Enhanced Virtual Storefronts Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accelerate-chrome-performance-now-tips-and-hacks-for-speedy-browsing/"><u>Accelerate Chrome Performance Now - Tips and Hacks for Speedy Browsing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/android-essentials-must-have-apps-from-google-play/"><u>Android Essentials Must-Have Apps From Google Play</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-streaming-device-tips-roku-vs-fire-tv-stick-decision-making/"><u>Best Streaming Device Tips: Roku Vs. Fire TV Stick Decision-Making</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-of-the-lg-um7300-economical-entry-into-4k-viewing-experience/"><u>Comprehensive Assessment of the LG UM7300: Economical Entry Into 4K Viewing Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-third-generation-apple-tv-4k-assessment/"><u>Comprehensive Guide: Third-Generation Apple TV 4K Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/critical-factors-to-evaluate-when-acquiring-refurbished-ipads/"><u>Critical Factors to Evaluate When Acquiring Refurbished iPads</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-garmin-forerunner-745-top-tier-gadget-for-all-athletes/"><u>Expert Analysis of the Garmin Forerunner 745: Top-Tier Gadget for All Athletes</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-g2-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo G2 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-8-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 8? How to Fix</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-asus-zenwifi-xt8-ax6600-mastering-your-home-wi-fi-experience/"><u>In-Depth Analysis of the ASUS ZenWiFi XT8 AX6600: Mastering Your Home Wi-Fi Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lenovo-tab-4-analysis-affordable-android-device-with-constraints/"><u>Lenovo Tab 4 Analysis: Affordable Android Device with Constraints</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-automated-pet-feeding-and-weight-management-with-the-petsafe-healthy-pet-feeder-reviews-and-insights/"><u>The Ultimate Guide to Automated Pet Feeding and Weight Management with the PetSafe Healthy Pet Feeder - Reviews & Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-mophie-powerstation-ac-charger-a-snapshot-of-luxury-meets-functionality-at-a-price/"><u>Unveiling the Mophie Powerstation AC Charger: A Snapshot of Luxury Meets Functionality at a Price</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-live-streaming-made-simple-google-meet-to-youtube-guide/"><u>[New] 2024 Approved Live Streaming Made Simple Google Meet to YouTube Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-conquering-challenges-expert-gopro-tips-for-2024/"><u>[New] Conquering Challenges Expert GoPro Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-secrets-of-striking-youtube-live-images/"><u>[Updated] Unveiling the Secrets of Striking YouTube Live Images</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/boost-virtual-engagement-select-top-10-recorder-software/"><u>Boost Virtual Engagement Select Top 10 Recorder Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celebrating-a-decade-of-innovation-how-raspberry-pi-became-the-microcomputer-that-changed-tech-forever-zdnet/"><u>Celebrating a Decade of Innovation: How Raspberry Pi Became the Microcomputer That Changed Tech Forever - ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digiarty-winxdvd-faq-and/"><u>Digiarty WinXDVD 専用 FAQ: ユーザーからの一般的な製品 & 技術問い合わせ回答集</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-poweradd-pilot-pro2-enhanced-charging-capabilities-for-laptops-and-devices-explored/"><u>Evaluating the POWERADD Pilot Pro2: Enhanced Charging Capabilities for Laptops and Devices Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-ultimate-sound-with-nest-audio-the-go-to-smart-speaker-for-avid-musicians/"><u>Experience the Ultimate Sound with Nest Audio - The Go-To Smart Speaker for Avid Musicians</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-blade-blh4100-ideal-for-outdoor-fpv-adventures/"><u>Expert Analysis of the Blade BLH4100: Ideal for Outdoor FPV Adventures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-reviews-top-waterfront-gadgets-selection/"><u>Expert Reviews: Top Waterfront Gadgets Selection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-performance-and-features-in-the-hp-zbook-firefly-15-g8-laptop-review/"><u>Exploring Performance and Features in The HP ZBook Firefly 15 G8 Laptop Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-extended-talk-time-of-jabra-voice-model-25/"><u>Exploring the Extended Talk Time of Jabra Voice Model 25</u></a></li>
+<li><a href="https://article-helps.techidaily.com/fine-tuning-your-audacity-recordings/"><u>Fine-Tuning Your Audacity Recordings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/future-proof-picking-best-consoles-to-play-unveiled/"><u>Future-Proof Picking: Best Consoles to Play Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/holy-stone-cartoon-racer-the-ultimate-remote-control-toy-for-quality-family-time-an-in-depth-review/"><u>Holy Stone Cartoon Racer: The Ultimate Remote Control Toy for Quality Family Time - An In-Depth Review</u></a></li>
+<li><a href="https://fox-within.techidaily.com/los-mas-eficaces-programas-de-backup-automatico-para-discos-duro-recomendaciones-y-comparativas/"><u>Los Más Eficaces Programas De Backup Automático Para Discos Duro, Recomendaciones Y Comparativas</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-savvy-students-secret-to-saving-on-dell-equipment-with-special-offers/"><u>The Savvy Student's Secret to Saving on Dell Equipment with Special Offers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Best New Patrol Officer Equipment: 2024'S Top Body Cam Picks"
-date: 2024-08-09T00:39:12.853Z
-updated: 2024-08-10T00:39:12.853Z
+date: 2025-01-05T21:58:41.296Z
+updated: 2025-01-10T07:18:18.691Z
 categories:
   - BestProducts
 description: "This Article Describes Best New Patrol Officer Equipment: 2024'S Top Body Cam Picks"
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/d31c6f93e50a0d4cef2f6b0259a76d22bb0769d48
 
 ## Anker PowerDrive 2 24W Dual USB Car Charger
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Anker PowerDrive 2](https://www.lifewire.com/thmb/mk2ndJKMrOgGOYfE8uNwJVYkaTk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2LW4053582_Hero-2f8cd7af2da04ce48dce54d7f045bf01.jpg)
 
 Lifewire / Nick Jaynes
@@ -40,6 +37,10 @@ Lifewire / Nick Jaynes
 [View On Amazon $11](https://www.amazon.com/Anker-Charger-PowerDrive-Samsung-Motorola/dp/B014IBIMEW/?tag=lifewire-onsite-prod-20&ascsubtag=4686818%7Cnd7f7a98277d245b4b9e665cea9f2aa9d21%7CB014IBIMEW) [View On Walmart](https://www.walmart.com/ip/Anker-24W-4-8A-Dual-USB-Car-Charger-PowerDrive-2-for-iPhone-6-6s-6-Plus-Note-5-iPad-Air-2-Galaxy-S7-S6-S6-Edge-Edge-Note-5-and-More/191316160) [View On Anker](https://us.anker.com/products/a2310?currency=USD&variant=37436889464982)
 
 4.5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Anker PowerDrive 2 24W Dual USB Car Charger
 
@@ -67,8 +68,9 @@ Lifewire / Nick Jaynes
  Lifewire / Nick Jaynes
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: All-plastic, but sturdy and subtle**
 
  The Anker PowerDrive 2 might not be the sharpest or most cutting-edge looking in-car USB charger, but what it lacks in visual pizazz, it more than makes up for in sturdiness.
@@ -81,9 +83,6 @@ Lifewire / Nick Jaynes
 
  Lifewire / Nick Jaynes
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Fast charging for demanding devices**
 
  The best part of the Anker PowerDrive 2 is its charging. It has the ability to charge iPads simultaneously without getting overheated thanks to its PowerIQ and VoltageBoost technology. Each USB port can output a maximum 5V/2.4A, for a total of 24W. That’s in line with other car[chargers](https://www.lifewire.com/best-wireless-phone-chargers-4138571) we tested, but the PowerIQ technology can help identify device and deliver the fastest possible charge. This also gives you some overvoltage protection to make sure something like a smartwatch doesn’t fry when you plug it in.
@@ -95,8 +94,9 @@ Lifewire / Nick Jaynes
  One thing to note is that the PowerDrive 2 includes a micro USB cable, in case you don’t want to carry your device’s cable everywhere with you. That’s a nice touch we didn’t get with other chargers we tested.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: Middle of the pack**
 
  The list price of $14.99 is positioned in the mid-range of the USB charger market, which ranges from just a few dollars to upwards of $50 for some fancier chargers. However, Anker PowerDrive 2 can be had for a discounted price on some websites. Considering the fact that the Anker PowerDrive 2 includes both the fast-charger and a 3-foot micro USB cable, it is well priced for the marketplace.
@@ -104,8 +104,9 @@ Lifewire / Nick Jaynes
  Lifewire / Nick Jaynes
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Competition: A handful of rivals**
 
  The RAVPower 24W charger is one of Anker’s main rivals. It has a metal exterior, a lower price tag, and theoretically identical power output. However, its construction is far less robust. In fact, its metal outside easily separates from the internal components easily making Anker a better pick for longevity.
@@ -121,8 +122,9 @@ Lifewire / Nick Jaynes
  The price is fair, the charging is fast, and the design is unobtrusive. It’s hard to ask for much more.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  PowerDrive 2 24W Dual USB Car Charger
@@ -140,11 +142,31 @@ Lifewire / Nick Jaynes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>[New] 2024 Approved Direct Entry Into Your Channel Simplifying the Follow Button Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-compreshift-guide-to-creating-profitable-and-engaging-youtube-collaborations/"><u>[Updated] 2024 Approved A Compreshift Guide to Creating Profitable & Engaging YouTube Collaborations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examining-key-features-in-vr-headsets/"><u>[Updated] Examining Key Features in VR Headsets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-nailing-the-art-of-ppt-video-reproduction/"><u>[Updated] Nailing the Art of PPT Video Reproduction</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-ultimate-picture-quality-with-samsung-qn55q6-in-depth-4k-uhd-and-hdr10plus-review/"><u>Experience Ultimate Picture Quality with Samsung QN55Q6지납습바 - In-Depth 4K UHD and HDR10+ Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-mobvoi-ticwatch-pro-leads-as-an-exceptional-smartwatch-with-advanced-connectivity/"><u>How the Mobvoi Ticwatch Pro Leads as an Exceptional Smartwatch with Advanced Connectivity</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-lenovo-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Lenovo Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-great-outdoors-with-garmins-reliable/"><u>Mastering the Great Outdoors with Garmin's Reliable</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/minecraft-unveiled-a-complete-analysis-suitable-for-every-age-group/"><u>Minecraft Unveiled: A Complete Analysis Suitable for Every Age Group</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-asus-chromebook-c202s-series-rugged-tech-gear-for-educational-environments-and-kids-use/"><u>Review of Asus Chromebook C202S Series: Rugged Tech Gear for Educational Environments & Kids' Use</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seo-for-podcasts-ultimate-guide-to-boost-your-podcast-rankings-for-2024/"><u>SEO for Podcasts - Ultimate Guide To Boost Your Podcast Rankings for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tt560-lights-up-reliability-in-a-simple-package/"><u>TT560 Lights Up: Reliability in a Simple Package</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-iphonepcs-full-potential-with-these-top-8-converters/"><u>Unlock iPhone/PC's Full Potential With These Top 8 Converters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-on-the-go-charging-with-halo-bolts-dual-purpose-power-unit-reviewed/"><u>Unlocking the Potential of On-the-Go Charging with Halo Bolt's Dual-Purpose Power Unit Reviewed</u></a></li>
+<li><a href="https://techidaily.com/vivo-y78plus-t1-edition-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo Y78+ (T1) Edition support - Forgotten screen lock.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/xbox-one-wont-connect-a-comprehensive-guide-to-correcting-the-no-signal-error/"><u>Xbox One Won't Connect: A Comprehensive Guide to Correcting the 'No Signal' Error</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/youtube-tv-savvy-heres-why-it-could-be-your-next-choice/"><u>YouTube TV Savvy? Here's Why It Could Be Your Next Choice</u></a></li>
+</ul></div>
+

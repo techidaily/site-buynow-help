@@ -1,7 +1,7 @@
 ---
 title: "Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective"
-date: 2024-12-30T17:49:47.109Z
-updated: 2025-01-03T16:52:21.037Z
+date: 2025-01-07T06:59:28.568Z
+updated: 2025-01-09T22:53:55.115Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 ---
 
 ## Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Highlights
 
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 ![Sony PlayStation 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Sony-PlayStation-3-large.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Sony_
@@ -47,10 +43,6 @@ _Sony_
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Most people think of GPU performance when it comes to frame rates, but the CPU plays an equally important role. It handles all the game mechanics under the hood, and the GPU depends on the results of physics calculations, or information about what the AI characters are doing in order to render the scene. If the CPU can't provide that information fast enough to draw 60 frames a second, then it doesn't matter how fast the GPU is.
@@ -58,6 +50,10 @@ Tim Brookes / How-To Geek
  Funnily enough, the PlayStation 3 was blessed with a supremely powerful CPU for the time, but its exotic architecture made it hard to program and so in most games, that performance wasn't accessible. However, the weak CPU problem really came to the fore in the PlayStation 4 and Xbox One generation.
 
  These consoles had GPUs that had no problems giving us a consistent 30fps experience in most cases, but their CPUs were essentially weak power-efficient laptop components that really struggled to go beyond the 30fps mark. This is why when the PlayStation 4 Pro and Xbox One X consoles were released with significantly upgraded GPUs, developers could only increase graphical fidelity, but not frame rate. Even with a mild increase in clock speed, the CPUs in the half-generation refreshed consoles just couldn't muster faster frames.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Pushing for Nicer Screenshots
 
@@ -76,12 +72,16 @@ Cianna Garrison / How-To Geek
  According to a wonderful [deep dive by Modern Vintage Gamer](https://www.youtube.com/watch?v=%5FPiiXM51oBo) the PS2's "Emotion Engine" had an architecture well-optimised, with sub-processors specialized in accelerating different aspects of rendering which, in turn, could feed that Graphics Synthesizer quickly and efficiently. In other words, developers would hit the "spatial" detail limit before hitting the "temporal" limit. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  An Apathetic Customer Base
 
  Apart from a few vocal people on gaming forums and platforms like X (formerly Twitter), it's not clear that the typical console gamer really cares about frame rate at all. While a cool-looking trailer or screenshots will impress prospective buyers, 60fps gameplay doesn't seem to move the needle much. With the current generation of consoles, console gamers do seem a little more aware of 60fps and its benefits, but quite a few games have 60fps modes that compromise the visuals far too much to actually play them that way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  We’re Back to 30FPS Again.
 
@@ -102,19 +102,16 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-broadcast-brilliance-how-to-prevent-live-video-halts-on-facebook/"><u>[New] Broadcast Brilliance How to Prevent Live Video Halts on Facebook</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-viral-visionaries-top-meme-creators-on-social-media-for-2024/"><u>[New] Viral Visionaries Top Meme Creators on Social Media for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-directly-send-snaps-from-your-phone-a-tutorial/"><u>[Updated] In 2024, Directly Send Snaps From Your Phone - A Tutorial</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-perfect-blend-of-style-and-functionality-in-free-macdrawers/"><u>[Updated] The Perfect Blend of Style & Functionality in Free MacDrawers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/all-about-the-apple-watch-se-top-features-for-less-money/"><u>All About the Apple Watch SE – Top Features for Less Money</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/biker-vs-bitezones-a-critical-analysis-of-survival-in-sonys-zombie-hit-days-gone/"><u>Biker Vs. Bitezones: A Critical Analysis of Survival in Sony's Zombie Hit - Days Gone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/framing-your-lifes-journey-with-digital-clarity-and-precision/"><u>Framing Your Life's Journey with Digital Clarity & Precision</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagrams-creative-toolkit-applying-effects-on-existing-content/"><u>Instagram's Creative Toolkit Applying Effects on Existing Content</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-ipados-and-macos-gain-new-ai-edge-apple-integrates-openais-chatgpt-technology/"><u>IOS, iPadOS & macOS Gain New AI Edge: Apple Integrates OpenAI's ChatGPT Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-pc-gamepad-adjustments-and-accuracy-checks/"><u>Mastering PC Gamepad Adjustments & Accuracy Checks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigate-safely-with-escort-ix-cutting-edge-intelligent-radar-detectors-tested-for-optimal-performance/"><u>Navigate Safely with Escort iX: Cutting-Edge Intelligent Radar Detectors Tested for Optimal Performance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/score-amazing-discounts-with-these-exclusive-oneplus-prime-day-bargains/"><u>Score Amazing Discounts with These Exclusive OnePlus Prime Day Bargains!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/viair-88p-compact-compressor-evaluation-impressive-strength-noteworthy-limitations/"><u>Viair 88P Compact Compressor Evaluation: Impressive Strength, Noteworthy Limitations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-online-video-scaling-service/"><u>[New] Online Video Scaling Service</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/diving-into-the-updates-of-sony-blu-ray-s6500/"><u>Diving Into the Updates of Sony Blu-Ray S6500</u></a></li>
+<li><a href="https://extra-support.techidaily.com/insightful-ways-of-gathering-photographic-elements-for-2024/"><u>Insightful Ways of Gathering Photographic Elements for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-world-of-phones-is-an-iphone-or-a-samsung-device-best-for-you/"><u>Navigating the World of Phones: Is an iPhone or a Samsung Device Best for You?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oodle-unveiled-topnotch-local-deals-and-promotions-without-the-price-tag/"><u>Oodle Unveiled: Topnotch Local Deals and Promotions Without the Price Tag</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-s10-review/"><u>Samsung Galaxy S10 Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-broadcasting-with-manycam-your-ultimate-choice-in-live-streaming-and-online-conferencing-tools/"><u>Seamless Broadcasting with ManyCam: Your Ultimate Choice in Live Streaming and Online Conferencing Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/securing-online-play-making-and-using-a-network-id-on-the-nintendo-3ds/"><u>Securing Online Play: Making and Using a Network ID on the Nintendo 3DS</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transitioning-from-windows-home-to-professional-key-benefits-unveiled/"><u>Step-by-Step Guide: Transitioning From Windows Home to Professional - Key Benefits Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/take-to-the-skies-outdoors-in-depth-look-at-the-blade-blh4100-120-r-ready-to-fly-helicopter/"><u>Take to the Skies Outdoors: In-Depth Look at the Blade BLH4100 120 R Ready-to-Fly Helicopter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-priority-alert-why-you-cant-wait-any-longer-to-get-ios-153-installed/"><u>Top Priority Alert: Why You Can't Wait Any Longer to Get iOS 15.3 Installed</u></a></li>
 </ul></div>
 

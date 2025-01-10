@@ -1,7 +1,7 @@
 ---
 title: "Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad"
-date: 2024-12-30T16:03:37.603Z
-updated: 2025-01-03T16:24:28.449Z
+date: 2025-01-08T20:58:34.553Z
+updated: 2025-01-09T22:27:14.027Z
 tags:
   - games
   - tv
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  Apple has been lifting restrictions on game emulation on iOS and iPadOS for months now, and finally it's possible to get DOS emulation on your mobile Apple devices without jailbreaking. One of the first DOS emulation tools on the App Store is iDOS 3, and here's how you can get a game running in no time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You'll Need iDOS 3: What Is It?
@@ -48,41 +48,45 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![iDOS 3 in portrait mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/idos-3-in-portrait-mode.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some DOS games need to be installed off a CD, but in this case we just want to mount the folder as a drive. So tap on the floppy drive and select "Folder."
 
 ![The floppy drive menu in iDOS 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-floppy-drive-menu-in-idos-3.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now navigate to the folder where you saved your DOS game files, and select "Open."
 
 ![The iDOS 3 file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-file-browser.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll see a message that the game folder has been mounted as a virtual drive in iDOS. So next we want to change to that drive. Type "D:" using the on-screen keyboard and then tap on the Enter button.
 
 ![The iDOS 3 interface showing that a folder had been mounted and the drive changed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-interface-showing-that-a-folder-had-been-mounted-and-the-drive-changed.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now we've changed to drive D, and all you have to do is type the name of the executable, and then press enter. In this case, that's "Jazz.exe" but it depends on the specific game, of course.
 
 ![The iDOS 3 interface with the name of the executable file ready to run](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-interface-with-the-name-of-the-executable-file-ready-to-run.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now the game is running, but how to control it?
 
 ![Jazz Jackrabbit running on iDOS 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/jazz-jackrabbit-running-on-idos-3.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In portrait mode, you can use the virtual keyboard to control your game, and if you tap the little gamepad button you'll have an on-screen gamepad with buttons that are bound to certain keyboard keys.
 
 ![The iDOS 3 virtual gamepad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-virtual-gamepad.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you put the iPad into landscape mode, you'll see a little bar with options pop up at the top.
 
@@ -99,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![The iDOS 3 quick bar with blutooth icon highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar-with-blutooth-icon-highlighted.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hold the button on the controller you want to rebind, and then press the corresponding key on the virtual keyboard.
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  Some DOS games supported joysticks or gamepads, and if you want to use your gamepad as a true controller with these games, tap on the settings gear in the iDOS 3 quick bar and choose "Settings."
 
 ![The iDOS 3 settings button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-settings-button.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then under "optional inputs" enable the gamepad option. Just remember that you'll have to set up the joystick or gamepad in the game itself, since back then games calibrated these peripherals on an individual basis.
 
@@ -137,21 +137,24 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-master-the-art-of-photo-display-with-best-frames/"><u>[New] Master the Art of Photo Display with Best Frames</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-harnessing-youtubes-power-for-profit-mastering-short-video-earnings/"><u>[Updated] 2024 Approved Harnessing YouTube's Power for Profit Mastering Short Video Earnings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-essential-insights-on-youtube-tvs-unique-features-for-2024/"><u>[Updated] Essential Insights on YouTube TV's Unique Features for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unleashing-potential-vr-innovations-for-fun-and-games/"><u>[Updated] Unleashing Potential VR Innovations for Fun & Games</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-a-bite-into-tiktoks-most-engaging-dishes/"><u>2024 Approved A Bite Into TikTok's Most Engaging Dishes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-how-to-running-whatsapp-on-a-mac-computer/"><u>Comprehensive How-To: Running WhatsApp on a Mac Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-refresh-your-corsair-headset-driver-for-windows-os/"><u>Easy Methods to Refresh Your Corsair Headset Driver for Windows OS</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ting-your-videos-reach-top-8-youtube-ranks-unveiled/"><u>Elevating Your Video's Reach - Top 8 YouTube Ranks Unveiled</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722664036570-experience-uninterrupted-connectivity-with-the-amplifi-hd-wi-fi-mesh-system-no-dead-zones-guaranteed/"><u>Experience Uninterrupted Connectivity with the Amplifi HD Wi-Fi Mesh System - No Dead Zones Guaranteed!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/narrative-analysis-torment-where-science-meets-fantasy-in-a-world-building-masterpiece/"><u>Narrative Analysis: Torment - Where Science Meets Fantasy in a World Building Masterpiece</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-2024s-top-handheld-gaming-platforms-for-enthusiasts/"><u>Navigating 2024'S Top Handheld Gaming Platforms for Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/optimizing-ps3-swapping-for-bigger-hdd/"><u>Optimizing PS3: Swapping for Bigger HDD</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/philips-hf3505-clock-reviewed-a-staple-alarm-solution-for-your-mornings/"><u>Philips HF3505 Clock Reviewed: A Staple Alarm Solution for Your Mornings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/poweradd-pilot-pro2-analysis-an-in-depth-look-at-its-battery-capacity-for-multiple-device-charging/"><u>POWERADD Pilot Pro2 Analysis: An In-Depth Look at Its Battery Capacity for Multiple Device Charging</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/rca-video-doorbell-camera-review/"><u>RCA Video Doorbell Camera Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revamp-your-workspace-with-style-comprehensive-review-of-the-modern-flexispot-theodore-desk/"><u>Revamp Your Workspace with Style: Comprehensive Review of the Modern Flexispot Theodore Desk</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-action-reimagined-deep-dive-into-the-t5-thievery-review/"><u>[New] Action Reimagined Deep Dive Into the T5 Thievery Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-video-formats-which-is-more-effective-av1-or-vp9/"><u>[New] Understanding Video Formats Which Is More Effective, AV1 or VP9?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-telegram-for-newcomers-how-to-make-your-advertising-stand-out/"><u>[Updated] Telegram for Newcomers How to Make Your Advertising Stand Out</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-g2-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo G2 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-reviews-the-cutting-edge-vertical-mice-dominating-the-market/"><u>Expert Reviews: The Cutting-Edge Vertical Mice Dominating the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/find-what-you-need-for-free-with-oodle-classified-ads/"><u>Find What You Need for Free with Oodle Classified Ads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/head-to-head-battle-nintendo-switch-lite-vs-oled-model-which-wins/"><u>Head-to-Head Battle: Nintendo Switch Lite Vs. OLED Model – Which Wins?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-fix-corsair-hs70-mic-not-working-issue/"><u>How to Fix Corsair HS70 Mic Not Working Issue</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-acer-chromebook-15-sizable-and-efficient-computing-on-a-large-screen/"><u>In-Depth Look at the Acer Chromebook 15 - Sizable and Efficient Computing on a Large Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-does-fongo-stack-up-in-the-canadian-voice-over-ip-market/"><u>In-Depth Review: How Does Fongo Stack Up in the Canadian Voice over IP Market?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-samsung-galaxy-note20-ultra-5g-analysis-is-it-worth-the-upgrade/"><u>In-Depth Samsung Galaxy Note20 Ultra 5G Analysis: Is It Worth the Upgrade?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-performance-gear-discover-the-premier-fitness-trackers-of-this-year/"><u>Leading Performance Gear: Discover the Premier Fitness Trackers of This Year</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovos-ultimate-portability-unleashed-in-depth-look-at-the-x12-detachable-and-its-superior-keyboard-experience/"><u>Lenovo's Ultimate Portability Unleashed: In-Depth Look at the X12 Detachable and Its Superior Keyboard Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mac-audio-setup-101-using-audacity-for-sound-recording-for-2024/"><u>Mac Audio Setup 101 - Using Audacity for Sound Recording for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maintain-optimal-performance-updating-hardware-drivers-in-windows-10-using-revouninstaller/"><u>Maintain Optimal Performance: Updating Hardware Drivers in Windows 10 Using RevoUninstaller</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/marvels-avengers-review-marvelous-mediocrity/"><u>Marvel’s Avengers Review: Marvelous Mediocrity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/neurohormonal-blockade-with-raas-inhibitors-and-beta-blockers-is-a-cornerstone-treatment-aimed-at-mitigating-adverse-remodeling-processes/"><u>Neurohormonal Blockade with RAAS Inhibitors and Beta-Blockers Is a Cornerstone Treatment Aimed at Mitigating Adverse Remodeling Processes.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/nighttime-adventure-cams-faceoff-black-vs-sj7-for-2024/"><u>Nighttime Adventure Cams Faceoff Black vs SJ7 for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728478031966-windows-11-0xc00000e/"><u>Windows 11 0xC00000E错误修复指南 - 有效解决方法</u></a></li>
 </ul></div>
 

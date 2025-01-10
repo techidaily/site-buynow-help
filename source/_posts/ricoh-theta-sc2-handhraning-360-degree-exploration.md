@@ -1,7 +1,7 @@
 ---
 title: "Ricoh Theta SC2: Handhraning 360-Degree Exploration"
-date: 2024-12-08T06:45:02.153Z
-updated: 2024-12-09T18:41:28.636Z
+date: 2025-01-07T17:36:02.364Z
+updated: 2025-01-10T10:10:30.384Z
 categories:
   - BestProducts
 description: "This Article Describes Ricoh Theta SC2: Handhraning 360-Degree Exploration"
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/0PqspYn0Ny1UT0fFzdIhza4naCk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-HERO-SQ-e459d44e1a2c432f80fec058b858ccfe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -44,9 +44,17 @@ Lifewire / Jeremy Laukkonen
 
 4.8
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Omni 20+ Wireless Power Bank
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/_EV0MTLRfFPHdqFJ2gKyMJff5YY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-HERO-SQ-e459d44e1a2c432f80fec058b858ccfe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -75,11 +83,11 @@ Lifewire / Jeremy Laukkonen
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/lFGiT6009F_OKGOJ-sLcNKNylt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-2-9a3217b3ee154a3ebcb38e61aac3be52.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Slick all-black appearance that’s dulled a bit by soft-touch rubber**
 
@@ -110,7 +118,7 @@ Lifewire / Jeremy Laukkonen
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/QOfV3Sc5THi3Z0gKZq0e-ciPUEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-5-000854ae3c4347b7adc13130dcb9d1b9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
@@ -120,10 +128,6 @@ Lifewire / Jeremy Laukkonen
  The display is small, but it’s quite bright and easy to read. The only issue is that it isn’t particularly easy to figure out what the individual icons mean, or how to use the display to change input and output settings, without referring to an instruction manual that isn’t included in the box.
 
  I’ve already covered the issue with the manual in the previous section, so suffice it to say I recommend avoiding frustration and just downloading the manual from the Omnicharge website rather than trying to figure out the display and controls on your own.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Sockets and Ports: Excellent array, including wireless**
 
@@ -140,10 +144,6 @@ Lifewire / Jeremy Laukkonen
  If you don’t mind packing extra adapters, or you have a device that won’t accept a fast charge over the included USB-C port, then the Omni 20+ does include a perfectly functional AC outlet on the other side. This is a nice touch for the sake of compatibility, but I see a power bank like the Omni 20+ as a way to reduce clutter, so I look at the power outlet as more of a useful backup than something I want to use every day.
 
  On the front of the power bank, next to the display, you’ll find two USB-A ports. These ports are capable of charging all your standard USB devices. One is a Qualcomm 3.0 compatible quick charge port, and the other is a standard USB port that’s capable of putting out up to 3A.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Battery: Decent battery capacity for the size**
 
@@ -162,7 +162,7 @@ Lifewire / Jeremy Laukkonen
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Charging Speed: True fast charging available for some USB-C devices**
@@ -225,22 +225,24 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-capture-and-share-top-no-cost-screen-recorders-for-windowsmac-users/"><u>[New] In 2024, Capture and Share - Top No-Cost Screen Recorders for Windows/Mac Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-cgi-in-depth-tutorial-for-kinemaster-users/"><u>[Updated] Perfecting CGI In-Depth Tutorial for Kinemaster Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-building-a-professional-online-brand-as-a-game-vlogger/"><u>2024 Approved Building a Professional Online Brand as a Game Vlogger</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/5-best-mini-pcs-dominating-the-world-of-competitive-gaming/"><u>5 Best Mini-PCs Dominating the World of Competitive Gaming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726227602339-vobmp4-movavi/"><u>免費線上改VOB成MP4：運用 Movavi 影片編輯器</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-high-performance-tp-link-archer-a9-router-evaluation-less-than-100/"><u>Affordable High-Performance TP-Link Archer A9 Router Evaluation – Less Than $100</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-innovation-or-confusing-design-unpacking-the-microsoft-surface-gos-dual-personality/"><u>Affordable Innovation or Confusing Design? Unpacking the Microsoft Surface Go's Dual Personality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-morning-routine-revolution-with-totobay-wake-up-light-second-gen-insights/"><u>Affordable Morning Routine Revolution with Totobay Wake-Up Light - Second Gen Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/antop-at-127-user-review-high-quality-signal-with-a-sleek-design/"><u>ANTOP AT-127 User Review: High-Quality Signal with a Sleek Design</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-airpods-max-review/"><u>Apple AirPods Max Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/applecareplus-reviewed-are-you-getting-your-moneys-worth/"><u>AppleCare+ Reviewed: Are You Getting Your Money's Worth?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/asus-ax6000-rt-ax88u-masterclass-review-of-a-leading-smart-wi-fi-6-router-and-its-stellar-features/"><u>Asus AX6000 RT-AX88U: Masterclass Review of a Leading Smart Wi-Fi 6 Router and Its Stellar Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-monetization-mastery-secrets-success/"><u>In 2024, YouTube Monetization Mastery Secrets Success</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/onestepcams-evaluation-are-we-overlooking-gems/"><u>OneStepCams Evaluation Are We Overlooking Gems?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/predictive-models-must-account-for-long-term-environmental-degradation-mechanisms-that-affect-material-properties-and-structural-integrity/"><u>Predictive Models Must Account for Long-Term Environmental Degradation Mechanisms that Affect Material Properties and Structural Integrity.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-mouse-pads-of-2024-smooth-movement-and-stunning-led-illumination/"><u>Top-Rated Mouse Pads of 2024: Smooth Movement & Stunning LED Illumination</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-your-potential-top-notch-iphone-compatible-security-system-that-blends-in-seamlessly-a-hidden-gem-featured-by-zdnet/"><u>Unlock Your Potential: Top-Notch iPhone Compatible Security System That Blends In Seamlessly - A Hidden Gem Featured by ZDNet!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-leading-streaming-tools-for-online-video-games/"><u>[New] In 2024, Leading Streaming Tools for Online Video Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-the-secrets-of-slow-motion-video-production-for-instagram-impact/"><u>[New] In 2024, Unveiling the Secrets of Slow Motion Video Production for Instagram Impact</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-lead-the-pack-with-these-top-7-android-tools-against-ads/"><u>[Updated] 2024 Approved Lead the Pack with These Top 7 Android Tools Against Ads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-exploring-options-when-facebook-takes-down-my-content-for-2024/"><u>[Updated] Exploring Options When Facebook Takes Down My Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-the-limitations-of-immersive-tech/"><u>2024 Approved Examining the Limitations of Immersive Tech</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-strongly-built-uniden-r3-with-exceptional-long-range-features/"><u>Expert Review: The Strongly Built Uniden R3 with Exceptional Long Range Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-elegance-and-efficiency-of-aukeys-no-nonsense-usb-30-hub-package/"><u>Exploring the Elegance & Efficiency of Aukey's No-Nonsense USB 3.0 Hub Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-escort-max-360-high-tech-radar-detection-meets-accurate-gps-navigation/"><u>Exploring the Features of Escort Max 360: High-Tech Radar Detection Meets Accurate GPS Navigation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fast-and-reliable-or-just-ugly-evaluating-tp-links-av2000-powerline-adapter/"><u>Fast and Reliable or Just Ugly? - Evaluating TP-Link's AV2000 Powerline Adapter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-2018-amazon-kindle-paperwhite-revolutionized-reading/"><u>How the 2018 Amazon Kindle Paperwhite Revolutionized Reading</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-usb-connectivity-issues-in-windows-10-and-11-systems/"><u>How to Repair Unresponsive USB Connectivity Issues in Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-ott-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .ott file document electronically</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capturing-moments-on-facebook-beyond-the-screen/"><u>In 2024, Capturing Moments on Facebook Beyond the Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-hp-stream-14-affordable-performance-with-notable-tradeoffs/"><u>In-Depth Analysis of the HP Stream 14: Affordable Performance with Notable Tradeoffs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-a71-5g-smart-choice-against-high-end-models/"><u>In-Depth Analysis of the Samsung Galaxy A71 5G - Smart Choice Against High-End Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-a-2020-lacking-essential-function/"><u>In-Depth Analysis of the Samsung Galaxy Tab A (2020): Lacking Essential Function</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-apple-watch-series-6-elevates-yet-remains-unrivaled-in-its-class/"><u>In-Depth Analysis: How the Apple Watch Series 6 Elevates Yet Remains Unrivaled in Its Class</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-10-free-video-compression-tools-for-windows-10/"><u>New 2024 Approved Top 10 Free Video Compression Tools for Windows 10</u></a></li>
 </ul></div>
 

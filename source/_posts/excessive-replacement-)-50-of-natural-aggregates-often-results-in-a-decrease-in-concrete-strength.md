@@ -1,7 +1,7 @@
 ---
 title: Excessive Replacement (> 50%%) of Natural Aggregates Often Results in a Decrease in Concrete Strength.
-date: 2025-01-01T17:36:40.424Z
-updated: 2025-01-03T16:11:16.298Z
+date: 2025-01-09T07:20:25.335Z
+updated: 2025-01-09T18:29:31.094Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 ## Excessive Replacement (> 50%) of Natural Aggregates Often Results in a Decrease in Concrete Strength.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
@@ -102,6 +102,10 @@ Jerome Thomas / How-To Geek
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
@@ -127,7 +131,7 @@ Jerome Thomas / How-To Geek
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -140,10 +144,6 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
@@ -151,7 +151,7 @@ Jerome Thomas / How-To Geek
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Price and Availability
@@ -193,22 +193,20 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-miniscreen-capture-scrutiny-and-replacements/"><u>[New] 2024 Approved MiniScreen Capture Scrutiny and Replacements</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-immerse-in-fun-the-top-samsung-gear-vr-games/"><u>[Updated] 2024 Approved Immerse in Fun The Top Samsung Gear VR Games</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-prime-communication-tools-for-remote-teams/"><u>2024 Approved Prime Communication Tools for Remote Teams</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728499231906-google/"><u>自動的なデータバックアップ用にスケジューリング方法 - Google検索対策</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-excellence-the-arcshell-ar-5-user-guide-and-in-depth-assessment/"><u>Affordable Excellence: The ArcShell AR-5 User Guide & In-Depth Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boost-your-pcs-display-quality-by-changing-the-gpu/"><u>Boost Your PC's Display Quality by Changing the GPU</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-vivo-y78-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y78 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/charge-off-moves-alternative-methods-to-power-up-your-phone-in-a-pinch/"><u>Charge-Off Moves: Alternative Methods to Power Up Your Phone in a Pinch</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/choosing-your-first-camera-the-2024-bestseller-list/"><u>Choosing Your First Camera The 2024 Bestseller List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-performance-windows-editing-tools-roundup-reviewed/"><u>High Performance Windows Editing Tools Roundup Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hp-stream-11-laptop-ultimate-essential-computing-on-the-go/"><u>HP Stream 11 Laptop - Ultimate Essential Computing on the Go</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-level-immersive-gaming-without-breaking-the-bank-exploring-the-oculus-quest-2s-worth/"><u>Next-Level Immersive Gaming without Breaking the Bank - Exploring the Oculus Quest 2'S Worth</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tech-savvy-on-a-shoestring-discover-our-in-depth-look-at-the-oneplus-nord-n1-groovy/"><u>Tech Savvy on a Shoestring? Discover Our In-Depth Look at the OnePlus Nord N1 Groovy</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-value-in-smart-surveillance-an-in-depth-review-of-vuebells-economy-video-doorbells/"><u>The Best Value in Smart Surveillance: An In-Depth Review of VueBell's Economy Video Doorbells</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-microsoft-surface-pro-7-uncovered-dependable-output-with-a-few-tweak-ups/"><u>The Microsoft Surface Pro 7 Uncovered: Dependable Output with a Few Tweak-Ups</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-uninterruptible-power-supply-ups-units/"><u>Top-Rated Uninterruptible Power Supply (UPS) Units</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-step-by-step-tutorial-on-enabling-incognito-mode-in-google-chrome/"><u>Ultimate Step-By-Step Tutorial on Enabling Incognito Mode in Google Chrome</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-iconic-top-tier-virtual-reality-films-for-2024/"><u>[New] Iconic Top-Tier Virtual Reality Films for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-hidden-narratives-unlocked-a-complete-snapguide/"><u>[Updated] In 2024, Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-blueprint-of-an-engaging-podcast-blurb-for-2024/"><u>[Updated] The Blueprint of an Engaging Podcast Blurb for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/dji-sky-artistry-experiment-with-color-filters-at-zero-cost/"><u>DJI Sky Artistry - Experiment with Color Filters at Zero Cost</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-complete-screen-recorder-in-depth-az-reviewing/"><u>In 2024, Complete Screen Recorder - In-Depth AZ Reviewing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/maximizing-your-pcs-efficiency-expert-strategies-from-yl-computing-top-performance-tips-revealed/"><u>Maximizing Your PC's Efficiency: Expert Strategies From YL Computing - Top Performance Tips Revealed!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ful-browsings-your-ultimate-list-of-top-comedy-vids/"><u>Mirthful Browsings Your Ultimate List of Top Comedy Vids</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-advanced-sketching-displays-for-designers-2024-edition/"><u>Most Advanced Sketching Displays for Designers - 2024 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgears-solution-for-large-homes-a-detailed-look-at-the-wireless-range-extender-nighthawk-x4/"><u>Netgear's Solution for Large Homes? A Detailed Look at the Wireless Range Extender, Nighthawk X4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-gen-tech-tug-of-war-assessing-the-differences-between-galaxy-s23-and-s21-ultras/"><u>Next-Gen Tech Tug of War: Assessing the Differences Between Galaxy S23 & S21 Ultras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/power-up-your-gadgets-with-our-in-depth-review-of-the-anker-superhub-usb-30/"><u>Power Up Your Gadgets with Our In-Depth Review of the Anker SuperHub USB 3.0</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/powering-up-your-drive-expert-review-of-dbpower-600a-with-a-robust-18k-mah-feature/"><u>Powering Up Your Drive: Expert Review of DBPOWER 600A with a Robust 18K mAh Feature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/procase-macbook-pro-13-defender-the-wallet-friendly-choice-our-complete-case-comparison-and-review/"><u>ProCase MacBook Pro 13 Defender: The Wallet-Friendly Choice - Our Complete Case Comparison & Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rechargeable-vs-battery-powered-why-the-romer-outdoor-searchlight-leads-in-performance/"><u>Rechargeable Vs. Battery-Powered: Why the Romer Outdoor Searchlight Leads in Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-comeback-how-apple-transformed-its-least-favorite-gadget-into-a-hit-zdnet/"><u>Revolutionary Comeback: How Apple Transformed Its Least Favorite Gadget Into a Hit | ZDNet</u></a></li>
 </ul></div>
 

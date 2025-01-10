@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing a Bursting Steam Game Collection
-date: 2024-12-28T16:12:29.968Z
-updated: 2025-01-03T16:16:57.054Z
+date: 2025-01-08T03:43:27.199Z
+updated: 2025-01-10T09:43:38.950Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Effective Strategies for Managing a Bursting Steam Game Collection
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After collecting games from sales, bundles, and elsewhere, I have over 200 games in my Steam library and not enough time to play them all. This called for some prioritization. Here's how I prioritized the games that are worth my time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's In My Game Library: The Assessment Step
@@ -39,10 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Right away, I had a series of around twenty to thirty games I could reasonably get through, which interested me greatly. To narrow down the list further, I checked the Steam reviews on the store pages of each of these games. Those that came out as "mostly positive" went to the top of the queue, and those that had mixed or bad reviews dropped down the list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Lightweights: Trading Time For Fun
 
  Like most adult gamers, I am busy with only short windows of time for gaming. While I [won't be switching to mobile gaming any time soon](https://win-solutions.techidaily.com/the-ultimate-strategy-to-correct-mw3-dev-error-6068-as-you-head-into-2024/), I still like to play games in a bite-size format as often as possible. Get in, get something done, and get back out to do something else.
@@ -52,7 +48,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  But what about the longer games? Well, I will be honest; some longer games also made it to the top of the list. Here are the criteria I used to judge them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Heavyweights: Judging Which Long Games Are Worth My Time
@@ -64,6 +60,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For the best of the rest, I looked at the quality of those games which I judged from reviews. I used the Steam store reviews posted on the game's page, but I knew that sometimes, review bombing would happen. I used [Metacritic](https://www.metacritic.com/) to back up the reviews for these games. If the reviews said the game was good, it would go up the list. If either of the two sites had an issue with the game or thought that it wasn't worth the player's time, I'd drop it down.
 
 ![Games making up my steam library before I prioritized them by what I needed to play first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/my-library-before-prioritizing.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Finally, for the longer games, I implemented a strict playtime window. A long game had exactly one hour of playtime to hook me. If I wasn't interested in the game, the characters, or the plot at the end of that playtime, I would drop it. This is where my subjectivity came in since I knew that some of these games already had weak plotlines (or none at all).
 
@@ -84,7 +84,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Arguably the biggest issue that someone attempting to copy my method will have is categorizing their games into games that can be completed relatively easily and those that will take a lot more time. Judging average playtime using a website like [How Long to Beat](https://howlongtobeat.com) for a game isn't a solid metric, and it's usually better to look at the reviews and comments on the game to get a better feel for that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Clean Steam Library Is a Happy Steam Library
@@ -106,20 +106,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-diablo-ii-resurrected-not-launching/"><u>[SOLVED] Diablo II: Resurrected Not Launching</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-screen-grab-mastery-for-windows-users-3-techniques/"><u>[Updated] 2024 Approved Screen Grab Mastery for Windows Users (3 Techniques)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-beyond-marketing-hype-the-genuine-facts-of-reels/"><u>2024 Approved Beyond Marketing Hype The Genuine Facts of Reels</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-topmate-c302-laptop-cooler-evaluation-budget-friendly-and-high-performance/"><u>Affordable TopMate C302 Laptop Cooler Evaluation: Budget-Friendly & High Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-watch-series-6-evaluation-subtle-enhancements-yet-remains-unrivaled/"><u>Apple Watch Series 6 Evaluation: Subtle Enhancements Yet Remains Unrivaled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/charming-cyberspace-ai-for-romance-fraud/"><u>Charming Cyberspace: AI for Romance Fraud</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cost-effective-smartphone-comparison-how-motorola-one-matches-up-to-an-iphone/"><u>Cost-Effective Smartphone Comparison: How Motorola One Matches up to an iPhone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-best-2023-games-to-play-on-your-new-steam-deck/"><u>Discover the Best 2023 Games to Play on Your New Steam Deck</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/effortless-file-deletion-for-macs-stellars-mobile-eraser-standard-version/"><u>Effortless File Deletion for MACs: Stellar's Mobile Eraser Standard Version</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/fastest-practices-powerpoint-recordings-for-2024/"><u>Fastest Practices PowerPoint Recordings for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-easily-update-your-canon-mx490-printer-software-for-windows-systems/"><u>How to Easily Update Your Canon MX490 Printer Software for Windows Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-why-the-oneplus-9-struggles-with-mathematical-excellence/"><u>In-Depth Analysis: Why the OnePlus 9 Struggles with Mathematical Excellence</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active2-review-more-connectivity-control-and-insights-than-the-original/"><u>Samsung Galaxy Watch Active2 Review: More Connectivity, Control, and Insights Than the Original</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-audio-interfaces-unveiled-the-podcasters-must-have-list-for-2024/"><u>Top Audio Interfaces Unveiled The Podcaster's Must-Have List for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-innovative-design-and-fluid-functionality-in-the-dell-xps-13-gen-7-7390-laptop-review/"><u>Unlocking the Potential: Innovative Design and Fluid Functionality in the Dell XPS 13 Gen 7 (7390) Laptop Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-enhance-learning-with-easy-recording-techniques-for-your-imac/"><u>[New] Enhance Learning with Easy Recording Techniques for Your iMac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-aspect-ratios-for-youtube-videos-shorts-and-ads-guide/"><u>[New] In 2024, Mastering Aspect Ratios for YouTube Videos, Shorts & Ads Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-digital-realms-comparing-metaverse-and-omniverse/"><u>[New] Pioneering Digital Realms Comparing Metaverse & Omniverse</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-evaluating-the-financial-returns-for-makers-on-youtube-shorts/"><u>[Updated] 2024 Approved Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-gaining-ground-on-the-groundswell-of-online-viewers/"><u>[Updated] 2024 Approved Gaining Ground on the Groundswell of Online Viewers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-guffaw-gazette-twitters-funniest-threads/"><u>[Updated] Guffaw Gazette Twitter's Funniest Threads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/deep-windows-11-know-how-importing-media-like-a-pro-for-2024/"><u>Deep Windows 11 Know-How Importing Media Like a Pro for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-documentation-and-photography-flatbed-scanners/"><u>Leading Documentation and Photography Flatbed Scanners</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lg-gram-17-review-a-featherweight-laptop-offering-impressive-performance/"><u>LG Gram 17 Review: A Featherweight Laptop Offering Impressive Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mars-new-city-builders-unleash-windy-havoc-for-entertaining-escapades/"><u>Mars' New City Builders Unleash Windy Havoc for Entertaining Escapades</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-arlo-security-suite-a-practical-installation-walkthrough/"><u>Navigating the Arlo Security Suite: A Practical Installation Walkthrough</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/powershot-g7x-mark-ii-the-compact-leader-in-photography/"><u>PowerShot G7X Mark II – The Compact Leader in Photography</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pros-and-cons-of-the-lg-k92-determining-if-5g-is-a-game-changer/"><u>Pros and Cons of the LG K92: Determining if 5G Is a Game Changer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-swift-swagtron-swagboard-t1-balancing-cost-and-performance/"><u>Review of the Swift Swagtron Swagboard T1: Balancing Cost and Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-navigating-value-with-the-newly-launched-iphone-se-from-apple-in-2020/"><u>Review: Navigating Value with the Newly Launched iPhone SE From Apple in 2020</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-tab-s7plus-vs-apple-ipad-air-nv-choosing-the-best-premium-tablet-on-the-market/"><u>Samsung Galaxy Tab S7+ vs Apple iPad Air nV: Choosing the Best Premium Tablet on the Market</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/asy-guide-to-youtube-to-avi-conversion-technology/"><u>The Easy Guide to YouTube-to-AVI Conversion Technology</u></a></li>
+<li><a href="https://fox-making.techidaily.com/sd-windows/"><u>フリーソフトウェアを使ったSDカードからのデータ回復 - Windows機能も活用方法</u></a></li>
 </ul></div>
 

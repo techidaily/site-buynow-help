@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Collectibles: The Impact of 3D Printing on the Nerf Community"
-date: 2024-12-06T09:55:46.140Z
-updated: 2024-12-09T20:14:43.856Z
+date: 2025-01-09T10:30:46.651Z
+updated: 2025-01-10T09:43:24.966Z
 tags:
   - games
   - tv
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
  Nerf is a household name, especially when it comes to its "blasters" that fire soft foam darts or balls. Just like paintball, Nerf has many serious fans, and also like paintball, they enjoy modding and tinkering with their plastic projectile slingers. With the arrival of 3D printers, the scope of what's possible in the Nerf world has opened up significantly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Scratch-Built Custom Blaster
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
  Take the [Flintlock Nerf Blaster](https://cults3d.com/en/3d-model/various/flintlock-nerf-blaster-v-1-3). It's a beautifully-complex gun that looks and acts like a flintlock. So you and a friend can pretend to settle your differences through a duel, or maybe you're looking for the final piece of your pirate costume. You can see just how ingenious the design is in this assembly instruction video. With such a huge parts list, it's not for the faint of heart, and certainly too complex for a company like Nerf to manufacture at scale, but that's the beauty of having your own little desktop factory! That said, you can get the commercial [Hanke Flintlock Style Manual Action Foam Dart Blaster](https://biu-blaster.com/products/hanke-flintlock-toy-manual-foam-blaster), which by all accounts is quite good.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Amazing Mods
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 ![Ranky's Nerf retaliator SMG kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ranky-s-nerf-retaliator-smg-kit.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Ranky](https://cults3d.com/en/3d-model/game/nerf-retaliator-smg-kit)
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
  The mods are endless, and range from purely cosmetic mods to accessories like [sights](https://cults3d.com/en/3d-model/game/external-sight-for-nerf-n-strike-blaster-tactical-rail-compatible) that work with the tactical rails already found on Nerf blasters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3D-printed Ammo
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
  However, because 3D printers can print in a variety of materials, and have precise control of the internal density and structure of a dart, it's possible to make some interesting things that fly better or hit harder. Of course, you're better off using these on [3D-printed shooting targets](https://cults3d.com/en/3d-model/game/small-shooting-target).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance Upgrades
@@ -90,18 +90,19 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-best-tools-for-extracting-fb-content-1-5-overview/"><u>[New] Best Tools for Extracting FB Content #1-5 Overview</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-max-360-and-hero-11-the-ultimate-gopro-video-battle/"><u>[New] Evaluating Max 360 & Hero 11 The Ultimate GoPro Video Battle</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-boosting-your-short-form-video-content-on-youtube/"><u>[New] In 2024, Boosting Your Short-Form Video Content on Youtube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pursuing-perfection-on-track-compiling-top-5-simulators/"><u>[New] Pursuing Perfection on Track Compiling Top 5 Simulators</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-7-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 7 Device from iCloud</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/microsoft-surface-pro-7-analysis-efficient-update-with-minor-enhancements/"><u>Microsoft Surface Pro 7 Analysis: Efficient Update with Minor Enhancements</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgears-nighthawk-x4-unveiled-an-in-depth-look-at-its-efficient-wi-fi-extending-powers/"><u>Netgear's Nighthawk X4 Unveiled: An In-Depth Look at Its Efficient Wi-Fi Extending Powers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/purewave-analysis-depth-resistant-audio-clarity/"><u>PureWave Analysis: Depth-Resistant Audio Clarity</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-the-perfect-blend-of-elegance-and-performance-in-the-apple-imac-215/"><u>Review: The Perfect Blend of Elegance and Performance in the Apple iMac 21.5</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sabrent-compact-mouse-with-advanced-precision-a-perfect-blend-of-efficiency-and-convenience/"><u>Sabrent Compact Mouse with Advanced Precision: A Perfect Blend of Efficiency & Convenience</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/see-the-world-at-a-distance-with-superzoom-canons-powershot-sx70-hs/"><u>See the World at a Distance with Superzoom - Canon's PowerShot SX70 HS</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sing-your-favorite-songs-anywhere-a-comprehensive-guide-to-the-colorful-plug-and-play-sml38ebtbk-singing-machine/"><u>Sing Your Favorite Songs Anywhere: A Comprehensive Guide to the Colorful, Plug & Play SML38ebtbk Singing Machine</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speed-up-computing-with-intelligent-520/"><u>Speed Up Computing with Intelligent 520</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-reawakening-windows-photo-viewer-in-windows-10-with-ease/"><u>[New] In 2024, Reawakening Windows Photo Viewer in Windows 10 with Ease</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sky-surfing-in-hd-with-the-yuneec-drone-review/"><u>[New] Sky Surfing in HD with the Yuneec Drone Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-discovering-uncharted-territory-on-instagram/"><u>[Updated] 2024 Approved Discovering Uncharted Territory on Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-do-voiceover-on-powerpoint/"><u>[Updated] In 2024, How to Do Voiceover on PowerPoint</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/7-must-have-considerations-before-a-smart-tv-buy/"><u>7 Must-Have Considerations Before a Smart TV Buy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-ultra-hd-hisense-50-inch-4k-hdr-television-comprehensive-review/"><u>Affordable Ultra HD Hisense 50-Inch 4K HDR Television - Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-vs-samsung-phones-picking-the-perfect-tech-companer/"><u>Apple Vs. Samsung Phones: Picking the Perfect Tech Companer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-netflixs-worth-in-your-entertainment-budget/"><u>Assessing Netflix's Worth in Your Entertainment Budget</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-pros-and-cons-of-the-portable-pioneer-bdr-xs06-for-your-blu-ray-needs-an-expert-review/"><u>Assessing the Pros and Cons of the Portable Pioneer BDR-XS06 for Your Blu-Ray Needs: An Expert Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/banks-vs-ai-are-your-assets-safe-from-gpt-inspired-cyberthreats/"><u>Banks vs AI: Are Your Assets Safe From GPT-Inspired Cyberthreats?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/crafting-immersive-experiences-with-compelling-tiktok-captions-top-5-for-2024/"><u>Crafting Immersive Experiences with Compelling TikTok Captions (Top 5) for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/guide-to-using-stellar-eraser-on-your-iphone-or-ipad-mac-standard-edition/"><u>Guide to Using Stellar Eraser on Your iPhone or iPad - Mac Standard Edition</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/reviving-the-second-largest-stock-exchange-chinas-strategic-tax-cut-on-securities-transactions-takes-effect-sparking-hope-in-troubled-times/"><u>Reviving the Second-Largest Stock Exchange: China's Strategic Tax Cut on Securities Transactions Takes Effect, Sparking Hope in Troubled Times</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/withings-move-smartwatch-where-vintage-beauty-meets-digital-innovation/"><u>Withings Move Smartwatch - Where Vintage Beauty Meets Digital Innovation</u></a></li>
 </ul></div>
 

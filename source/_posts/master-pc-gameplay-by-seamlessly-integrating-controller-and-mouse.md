@@ -1,7 +1,7 @@
 ---
 title: Master PC Gameplay by Seamlessly Integrating Controller and Mouse
-date: 2024-12-29T16:08:19.180Z
-updated: 2025-01-03T17:45:03.392Z
+date: 2025-01-07T04:10:32.582Z
+updated: 2025-01-10T09:36:35.832Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Master PC Gameplay by Seamlessly Integrating Controller and Mouse
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The "Why Not Both?" meme is more than a little overused when it comes to decisions between two good things, but it's the perfect answer to the question of whether you should use a controller or a mouse to play your favorite games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Keyboards Suck for Movement, Controllers Suck for Aim
@@ -37,6 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  So we have two halves of a good control scheme, which brings us back to...
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Not Both?
 
  The idea is basic—use the left half of a console controller for movement of your character and your mouse for all the aiming. This lets you get the best movement scheme in total for your game. Sure, there will be a learning curve, but you'll get the hang of it quickly if you persevere.
@@ -44,10 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  However, you've probably already spotted one major flaw with this—a lack of buttons! With your left hand on the keyboard, you have access to numerous buttons beyond movement. With just a standard controller in your hands, you have movement, you can click the stick, and you have one trigger and one bumper. If you have a fancy controller with paddles, then you might have one or two additional buttons, which could be enough in some games.
 
  There are a few ways to address this beyond what I just mentioned. For example, many mice these days have numerous side and thumb buttons that can be assigned to take over common things you might want to do during a game, such as tossing a grenade or melee attacks. Also, don't forget that you have an entire D-pad on the left side of a standard controller, which is perfect for common functions like using a healing item or swapping weapons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Configure Controller and Mouse Together
 
@@ -58,22 +58,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  So, all that's left is to dig through the key binding settings for your game, and assign the right function to the right button either on your controller or mouse. If you're lucky, they should all sort into something that's quite playable!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Dedicated Combo Peripherals
 
 ![Hori Tactical Assault Commander controller combo with half controller and mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/hori-tactical-assault-commander.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hori
 
  If you want to achieve the same synergy of controller and mouse on console, you don't have quite this amount of flexibility. However, there have been a few dedicated combo controllers over the years. Sadly, they were never particularly popular, nor by all accounts much good, but it's worth pointing out that this idea isn't new or that outlandish.
 
  There's the [SplitFish Shark](https://eu.splitfish.com/fragfx-game-controllers/fragfx-shark-ps4.html?%5F%5F%5Fstore=english&%5F%5F%5Ffrom%5Fstore=default) which has various iterations for different consoles. Even HORI, which is one of the most eminent controller makers in the world, took a stab at it with the [HORI Tactical Assault Commander G2](https://www.amazon.com/Tactical-Assault-Commander-KeyPad-Gamepad-Controller/dp/B01L8QL2N8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002794&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fforget-picking-between-controller-or-mouse-for-pc-gaming-use-both-and-never-look-back%2F&asc%5Fcampaign=Evergreen).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Is Dual-Wielding Better?
 
@@ -96,19 +96,17 @@ Hori
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-comedy-collection-a-1992-review-of-the-goofys-for-2024/"><u>[New] 'Comedy Collection' A 1992 Review of The Goofys for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-latest-instagram-photo-and-video-size-checklist-for-2024/"><u>[New] Latest Instagram Photo and Video Size Checklist for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/conquering-challenges-in-single-source-online-streaming/"><u>Conquering Challenges in Single-Source Online Streaming</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-the-best-browser-add-ons-for-effortlessly-saving-movies-and-clips-from-websites-such-as-vimeo-youtube-and-social-media/"><u>Discover the Best Browser Add-Ons for Effortlessly Saving Movies & Clips From Websites Such as Vimeo, YouTube, and Social Media</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-essentials-a-guide-to-getting-the-right-vr-gear/"><u>Evaluating Essentials: A Guide to Getting the Right VR Gear</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-capabilities-of-google-stadia-where-can-it-improve/"><u>Exploring the Capabilities of Google Stadia – Where Can It Improve?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-stars-a-thrilling-sci-fi-adventure-and-shooter-game/"><u>Exploring the Stars: A Thrilling Sci-Fi Adventure and Shooter Game</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-xr21-by-drfone-android/"><u>How to Bypass FRP from Nokia XR21?</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s System? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instantaneous-access-to-high-quality-passport-selfies-free-desktopweb-tool/"><u>Instantaneous Access to High-Quality Passport Selfies – Free Desktop/Web Tool</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-asuss-affordable-laptop-the-lightweight-and-multi-purpose-vivobook-11/"><u>Review of Asus's Affordable Laptop - The Lightweight and Multi-Purpose Vivobook 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/understanding-the-differences-between-ipad-pro-and-macbook-pro/"><u>Understanding the Differences Between iPad Pro and MacBook Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-oneplus-nord-n10-5g-top-reasons-to-consider-this-model/"><u>Unveiling the OnePlus Nord N10 5G - Top Reasons to Consider This Model</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor/"><u>Updated What Is an AI Video Editor?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-video-privacy-techniques-for-obscuring-details/"><u>[New] In 2024, Mastering Video Privacy Techniques for Obscuring Details</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-streamlining-windows-photos-with-customized-audio-and-visual-settings/"><u>[New] In 2024, Streamlining Windows Photos with Customized Audio & Visual Settings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-ultimate-guide-achieving-professional-sound-without-a-mic-for-2024/"><u>[New] The Ultimate Guide Achieving Professional Sound without a Mic for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-colorful-conga-crow/"><u>[Updated] Colorful Conga Crow</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-non-responsive-wireless-keyboard-problems-in-windows-systems/"><u>How to Resolve Non-Responsive Wireless Keyboard Problems in Windows Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-blaze-2-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Blaze 2 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-firewall-display-settings-on-windows-os/"><u>Mastering Firewall Display Settings on Windows OS</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/os-melhores-programas-para-transferencia-de-tela-em-2023-analise-detalhada-por-movavi/"><u>Os Melhores Programas Para Transferência De Tela Em 2023 - Análise Detalhada Por Movavi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-sony-ps4-pro-4k-graphics-performance-analysis/"><u>Ultimate Guide: Sony PS4 Pro 4K Graphics Performance Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-review-the-mirari-childrens-alarm-clock-that-ticks-all-boxes/"><u>Unboxing & Review: The Mirari Children's Alarm Clock That Ticks All Boxes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-game-with-the-ibuypower-tailored-pc-a-cost-effective-powerhouse/"><u>Unleash Your Game with the iBuypower Tailored PC: A Cost-Effective Powerhouse</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-the-potential-a-complete-review-of-the-high-performance-anker-superspeed-hub/"><u>Unleashing the Potential: A Complete Review of the High-Performance Anker SuperSpeed Hub</u></a></li>
 </ul></div>
 

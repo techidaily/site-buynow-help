@@ -1,7 +1,7 @@
 ---
 title: "DIY Live TV Success: Ditching Streaming Giants for Personal Setup"
-date: 2024-12-27T17:03:39.982Z
-updated: 2025-01-03T16:06:51.987Z
+date: 2025-01-03T22:15:57.643Z
+updated: 2025-01-10T04:13:11.990Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 ## DIY Live TV Success: Ditching Streaming Giants for Personal Setup
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  If you're like me, you're tired of seeing the phrase "price hike" in headlines about the streaming services you're paying for. I got so tired I decided to use my movie collection to build what you might call a personal streaming service. Here's what it involved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Can You Stream Movies Yourself?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  We have resources if you want to [learn more about running Jellyfin](https://extra-approaches.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry-for-2024/) yourself. Instead of retreading that ground, I'm just going to cover some key information about home streaming that I wish I'd known before going in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Early Hiccups in Building a Streaming Server
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 ![An external Blu-ray drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52781571646_3bd529ceb6_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jordan Gloor / How-To Geek
 
  Then I wanted to make my server accessible from outside my home, and that was its own job. After trying a few different methods and running into issues with port forwarding on my router, the solution I landed on was [a Cloudflare tunnel](https://www.cloudflare.com/products/tunnel/). That solved several problems like avoiding port forwarding and enabling HTTPS.
@@ -58,6 +54,10 @@ Jordan Gloor / How-To Geek
  One regret I had was where I first installed the server: my personal computer. It worked fine until someone wanted to stream something while I was using my computer for anything resource-intensive, like gaming. That led me to finally invest in a [network-attached storage (NAS)](https://fox-access.techidaily.com/new-in-2024-unleashing-potential-in-4k-with-top-gimbals-selection/) device. One of these can hold and run your server as a dedicated device instead of relying on your personal computer. There are several [streaming-capable NAS devices we recommend](https://screen-recording.techidaily.com/updated-2024-approved-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices/), but I chose the Asustor AS5202T.
 
 ![Asustor AS5202T](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/asustor-as5202t.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Asustor AS5202T
 
@@ -70,7 +70,7 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
  Once I got the NAS, though, I learned that a Jellyfin server is difficult to move. There's no built-in function for it at all. There are scripts you can find online that are meant to partially automate it for you, but they still require some technical knowledge to use and aren't guaranteed to work. I ultimately decided figuring it all out wasn't worth my time, so I started a new Jellyfin instance on my NAS and copied over all my movies and shows. That was a much simpler, albeit slow, process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Was It All Worth It?
@@ -94,21 +94,20 @@ If you're looking for a NAS mainly for media and Plex, you can make it easy with
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-edit-like-a-pro-10-must-know-tips-for-newbies/"><u>[New] 2024 Approved Edit Like a Pro 10 Must-Know Tips for Newbies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>[New] Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>[New] Top Streamers Choice Does VirusMix or WireCast Rule the Game?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-art-of-revisiting-historical-facebook-posts-mobilelaptop/"><u>[Updated] 2024 Approved The Art of Revisiting Historical Facebook Posts (Mobile/Laptop)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-enhance-viewership-with-advanced-youtube-video-tracker-tools/"><u>[Updated] Enhance Viewership with Advanced YouTube Video Tracker Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boost-your-electronics-the-definitive-review-of-the-mighty-beatit-bt-d11-portable-charger/"><u>Boost Your Electronics: The Definitive Review of the Mighty Beatit BT-D11 Portable Charger</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-6-plus-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 6 Plus in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-assessment-of-the-amplifi-hd-wireless-networking-solution-defeat-wi-fi-weak-spots-with-ease/"><u>In-Depth Assessment of the Amplifi HD Wireless Networking Solution: Defeat Wi-Fi Weak Spots with Ease!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-showdown-deciding-between-the-iphone-1nfone-14-pro-and-iphone-14-pro-max-a-detailed-guide/"><u>IPhone Showdown: Deciding Between the iPhone 1Nfone 14 Pro and iPhone 14 Pro Max – A Detailed Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-speed-of-your-domestic-internet-a-thorough-review-of-the-orbi-tri-band-wi-fi/"><u>Navigating the Speed of Your Domestic Internet: A Thorough Review of the Orbi Tri-Band Wi-Fi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/power-on-the-go-zmi-powerpack-groovy-our-thoughts-and-insights-in-a-complete-review/"><u>Power on the Go? ZMI PowerPack Groovy! - Our Thoughts and Insights in a Complete Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-new-samsung-galaxy-watch-active-2-unveiled-improved-linkages-and-features-beyond-the-original-model-reviewed/"><u>The New Samsung Galaxy Watch Active 2 Unveiled: Improved Linkages & Features Beyond the Original Model Reviewed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-redmi-note-12-pro-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Redmi Note 12 Pro 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-verdict-on-microsoft-surface-duo-an-expensive-and-troublesome-multitasking-experience/"><u>The Verdict on Microsoft Surface Duo: An Expensive and Troublesome Multitasking Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-spacious-acer-chromebook-15-in-this-comprehensive-overview/"><u>Unveiling the Features of the Spacious Acer Chromebook 15 in This Comprehensive Overview</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-chromebook-monitoring-app/"><u>[New] Premier Chromebook Monitoring App</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-t2x-5g-by-drfone-android/"><u>How to Bypass FRP on Vivo T2x 5G?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-prime-locations-for-youtube-content-exposure/"><u>In 2024, Prime Locations for YouTube Content Exposure</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboard-kinks-how-to-awaken-sleeping-windows-1011-pcs/"><u>Keyboard Kinks: How to Awaken Sleeping Windows 10/11 PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/revolutionizing-performance-the-all-electric-volkswagen-golf-gti-concept-debuts/"><u>Revolutionizing Performance: The All-Electric Volkswagen Golf GTI Concept Debuts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/soil-spinners-finding-the-next-stardew-title-for-2024/"><u>Soil Spinners Finding the Next Stardew Title for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-setup-for-the-ultimate-protection-with-blinks-outdoor-cameras/"><u>Step-by-Step Setup for the Ultimate Protection with Blink's Outdoor Cameras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-advanced-tech-tools-for-tranquil-slumber/"><u>The Ultimate Guide to Advanced Tech Tools for Tranquil Slumber</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-blueear-bluetooth-headgear-fashionable-earmuffs-with-a-promising-audio-experience/"><u>The Ultimate Guide to BlueEar Bluetooth Headgear: Fashionable Earmuffs with a Promising Audio Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-8-must-play-titles-exclusive-to-google-play-pass-unlock-gaming-bliss/"><u>Top 8 Must-Play Titles Exclusive to Google Play Pass - Unlock Gaming Bliss!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performing-portable-storage-options-usb-drives-to-watch/"><u>Top-Performing Portable Storage Options: USB Drives to Watch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/trade-in-tactics-apples-smartphone-upgrade-program/"><u>Trade-In Tactics: Apple’s Smartphone Upgrade Program</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-buyers-guide-selecting-the-perfect-tablet-by-dimensions-and-mass/"><u>Ultimate Buyer's Guide: Selecting the Perfect Tablet by Dimensions & Mass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-fixes-for-ietfamedll-problems-a-comprehensive-guide/"><u>Ultimate Fixes for ietfame.dll Problems: A Comprehensive Guide</u></a></li>
 </ul></div>
 

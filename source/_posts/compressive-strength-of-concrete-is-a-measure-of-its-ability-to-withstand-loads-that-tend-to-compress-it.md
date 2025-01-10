@@ -1,7 +1,7 @@
 ---
 title: Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.
-date: 2024-12-30T17:17:25.970Z
-updated: 2025-01-03T17:15:56.730Z
+date: 2025-01-07T04:46:49.464Z
+updated: 2025-01-09T17:05:54.445Z
 tags:
   - games
   - tv
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Ideally, a portable projector has everything it needs to watch a movie, self-contained, while remaining small and easy to travel with. The [Anker Nebula Capsule 3](https://us.seenebula.com/products/capsule-3-projectors-d2425) gets really close to this ideal state because of its Google TV software, 2.5-hour battery life, and decently loud speaker, but its brightness level is a weak point and might be a little too dim to use anywhere.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -89,7 +93,7 @@ Expand
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -107,7 +111,7 @@ Jerome Thomas / How-To Geek
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -130,10 +134,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -155,7 +155,7 @@ Jerome Thomas / How-To Geek
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Anker Nebula Capsule 3?
@@ -193,24 +193,24 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-action-cameras-for-waterproof-recording-1-7/"><u>[New] 2024 Approved Action Cameras for Waterproof Recording #1-7</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-complete-how-to-for-mac-obs-plus-streamlabs-integration/"><u>[New] 2024 Approved The Complete How-To for Mac OBS + Streamlabs Integration</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/apidly-increase-views-effective-growth-hacks-for-channels-for-2024/"><u>[New] Rapidly Increase Views Effective Growth Hacks for Channels for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-ensure-continuous-playback-of-youtube-videos-on-fb/"><u>[Updated] In 2024, How to Ensure Continuous Playback of YouTube Videos on FB</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96177233-9781623366636-an-oasis-in-time/"><u>An Oasis in Time | Free Book</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-uniden-r3-a-superior-and-durable-long-range-radar-detector/"><u>Comprehensive Analysis of the Uniden R3 - A Superior and Durable Long Range Radar Detector</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/creating-a-visual-statement-with-stellar-podcast-artwork-for-2024/"><u>Creating a Visual Statement with Stellar Podcast Artwork for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/garmin-vivoactive-3-unveiled-elevating-workouts-and-work-tunes-for-optimal-fitness/"><u>Garmin Vivoactive 3 Unveiled: Elevating Workouts and Work Tunes for Optimal Fitness</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-c210-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia C210 to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-list-digital-dominators-in-av-production/"><u>In 2024, Exclusive List Digital Dominators in AV Production</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-repair-of-nonfunctional-dvd-bd-and-cd-readers/"><u>Mastering the Repair of Nonfunctional DVD, BD & CD Readers</u></a></li>
-<li><a href="https://win-web.techidaily.com/moving-music-forward-how-to-convert-and-transfer-spotify-playlists-onto-deezer/"><u>Moving Music Forward: How to Convert and Transfer Spotify Playlists Onto Deezer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/tablet-buying-strategy-balancing-portability-with-performance-in-size-and-weight/"><u>Tablet Buying Strategy: Balancing Portability with Performance in Size and Weight</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-latest-and-greatest-2024s-premier-compact-charger-units-for-your-laptop/"><u>The Latest and Greatest: 2024'S Premier Compact Charger Units for Your Laptop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/thorough-oneplus-nord-n100-evaluation-top-pick-for-affordable-smartphones/"><u>Thorough OnePlus Nord N100 Evaluation: Top Pick for Affordable Smartphones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unbeatable-amazon-prime-day-blowouts-get-your-hands-on-the-best/"><u>Unbeatable Amazon Prime Day Blowouts: Get Your Hands on the Best</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-your-security-arsenal-hands-on-with-blinks-wireless-floodlight-light-cameras/"><u>Unpacking Your Security Arsenal: Hands-On with Blink's Wireless Floodlight Light Cameras</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-and-features-of-apples-top-laptop-macbook-pro-16-m1-202n-model/"><u>Unveiling the Performance & Features of Apple's Top Laptop - MacBook Pro 16 M1, 202N Model</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-practicality-with-the-acer-xf2-40-workstation/"><u>Unveiling the Power of Practicality with the Acer XF2-40 Workstation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-close-up-confidence-navigating-google-meets-zoom-feature-for-2024/"><u>[New] Close-Up Confidence Navigating Google Meet's Zoom Feature for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-the-art-of-minuscule-web-pixels-for-2024/"><u>[New] Mastering the Art of Minuscule Web Pixels for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-tales-the-top-storytelling-channels-on-yt-this-year/"><u>[New] Unraveling Tales The Top Storytelling Channels on YT This Year</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/an-adventure-in-textures-in-depth-analysis-of-minecrafts-campfire-tales-pack/"><u>An Adventure in Textures: In-Depth Analysis of Minecraft's Campfire Tales Pack</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-instructions-for-downloading-and-setting-up-linksys-usb-wireless-adapter/"><u>Easy Instructions for Downloading and Setting Up Linksys USB Wireless Adapter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-image-export-skills-an-essential-guide-to-print-settings-in-photoshop/"><u>Elevate Your Image Export Skills: An Essential Guide to Print Settings in Photoshop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-performance-and-design-a-deep-dive-into-the-samsung-galaxy-s10-review/"><u>Elite Performance and Design: A Deep Dive Into the Samsung Galaxy S10 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/emperor-of-rome-critique-building-an-empire-against-all-odds/"><u>Emperor of Rome Critique: Building an Empire Against All Odds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-google-pixelbook-go-a-masterfully-designed-chromebook-with-a-premium-price-tag/"><u>Evaluating The Google Pixelbook Go - A Masterfully Designed Chromebook with a Premium Price Tag</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-toshiba-55-inch-fire-tv-edition-why-its-a-prime-asset-to-any-home/"><u>Expert Review of the Toshiba 55-Inch Fire TV Edition - Why It's a Prime Asset to Any Home</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-reviews-navigating-through-2024s-best-smartwatch-options/"><u>Expert Reviews: Navigating Through 2024'S Best Smartwatch Options</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-best-value-in-tablets-2020-review-of-lenovo-tab-m10-and-its-impressive-display-quality/"><u>Exploring the Best Value in Tablets: 2020 Review of Lenovo Tab M10 and Its Impressive Display Quality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/fading-techniques-for-aural-balance/"><u>Fading Techniques for Aural Balance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-fun-facelift-to-survival-tactics-navigating-the-world-of-7-days-to-life-in-one-week-review/"><u>From Fun Facelift to Survival Tactics: Navigating the World of '7 Days to Life' In One Week Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/godfall-critique-underwhelming-narrative-and-gameplay-as-ps5-exclusive-debut/"><u>Godfall Critique: Underwhelming Narrative and Gameplay as PS5 Exclusive Debut</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-z-fold-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy Z Fold 5 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/why-is-instagram-turning-my-video-sideways/"><u>Why Is Instagram Turning My Video Sideways?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/yl-softwares-collection-premium-game-of-thrones-visual-content-stunning-photos-wallpaper-and-backgrounds-for-fans/"><u>YL Software's Collection: Premium Game of Thrones Visual Content - Stunning Photos, Wallpaper, and Backgrounds for Fans</u></a></li>
 </ul></div>
 

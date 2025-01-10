@@ -1,7 +1,7 @@
 ---
 title: "Clearing Space: Ultimate Guide to Expanding Your PS5's Hard Drive Capacity"
-date: 2024-12-30T16:14:05.924Z
-updated: 2025-01-03T16:53:20.769Z
+date: 2025-01-07T21:11:10.822Z
+updated: 2025-01-09T22:16:45.535Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
 ## Clearing Space: Ultimate Guide to Expanding Your PS5's Hard Drive Capacity
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Delete Unused Games and Apps](https://extra-tips.techidaily.com/crafting-chuckles-in-cyberspace-diy-memes-of-the-metaverse/)
@@ -22,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 * [Delete or Transfer Screenshots and Video Captures](https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y27-5g-phone-withwithout-imei-number-by-drfone-android/)
 * [Disable PS5 Auto Capturing for Achievements](https://screen-capture.techidaily.com/updated-launching-live-recordings-on-hp-computers-for-2024/)
 * [Use Cloud Gaming When Possible](https://ai-live-streaming.techidaily.com/secrets-for-tiktok-live-studio-success-for-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
 ![Deleting a game from the PS5 home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-game-home-screen-ps5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Confirm you want to delete it by selecting “Yes” in the prompt.
 
  To see all the games installed on your PS5, go to Game Library > Installed Games.
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 ![Deleting a game from the Game Library screen on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/game-library-menu-ps5.png) 
 
  You’ll find games that are hidden from the home screen here. This will give you a better idea of what is taking up space on your PS5’s storage drive. Again, you can delete these using the Options > Delete process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Transfer Games to an External USB Drive
 
@@ -86,10 +94,14 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 ![Deleting selected save data on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/deleting-games-console-storage-ps5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select “OK” in the prompt, and the save data will be removed from your console. Remember that this will effectively reset your progress in a game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Transfer Save Data to Cloud Storage
 
@@ -105,17 +117,9 @@ Chifundo Kasiya / How-To Geek
 
 ![Uploading game save data to the cloud on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/uploading-game-save-cloud-ps5.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Chifundo Kasiya / How-To Geek
 
  The files will now start uploading to the cloud storage. How long it takes will depend on the size of the files and the speed of your internet connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Delete or Transfer Screenshots and Video Captures
 
@@ -125,13 +129,13 @@ Chifundo Kasiya / How-To Geek
 
 ![Select a tab in the Media Gallery screen on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/media-gallery-settings-ps5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select a screenshot or video and press the Options button on your controller. Then, select “Delete” or “Copy to USB Drive” in the menu.
 
 ![Selecting "Delete" or "Copy to USB Drive" on a PS5 when deleting or moving media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-video-media-gallery-ps5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, confirm your decision by selecting “Delete” or “Copy” in the prompt. You can also delete or transfer several items at once by choosing the “Select Multiple” icon on the left.
 
@@ -141,13 +145,13 @@ Chifundo Kasiya / How-To Geek
 
 ![Deleting selected media on a PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/deleting-multiple-video-media-gallery-ps5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To transfer them, select the three-dot icon below “Delete” and choose “Copy to USB Drive” in the menu.
 
  Once you confirm your decision, the items will be removed or moved from your PS5\. If you want another way to back up these items, you can [transfer the screenshots and videos to your phone](https://extra-skills.techidaily.com/2024-approved-seeking-visual-vintage-free-art-archives-online/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Disable PS5 Auto Capturing for Achievements
 
@@ -158,7 +162,7 @@ Chifundo Kasiya / How-To Geek
 ![The Captures and Broadcasts screen in the PS5 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/captures-and-broadcasts-screen-ps5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select “Save Trophy Screenshots” in the Screenshots section and choose “None” in the menu. Do the same for the “Save Trophy Videos” option in the Video Clips section.
@@ -166,10 +170,6 @@ Chifundo Kasiya / How-To Geek
 ![Disabling autocapturing for trophies on the PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/disabling-autocapture-trophy-captures.png) 
 
  Now you won’t have trophy screenshots and videos automatically taking up space in your PS5’s storage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Cloud Gaming When Possible
 
@@ -196,18 +196,21 @@ Chifundo Kasiya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-help.techidaily.com/marvels-avengers-striking-a-note-between-greatness-and-mundanity/"><u>'Marvel's Avengers': Striking a Note Between Greatness and Mundanity</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-delightful-yuletide-cinema-on-youtube-savor-nine-whole-film-gems/"><u>[New] In 2024, Delightful Yuletide Cinema on YouTube Savor Nine Whole-Film Gems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-the-netgear-c3nce-modem-rouer-as-a-primarily-modem-device/"><u>In-Depth Analysis: The Netgear C3nce Modem-Rouer as a Primarily Modem Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-star-wars-squadrons-the-ultimate-galactic-fighting-adventure/"><u>In-Depth Review of Star Wars: Squadrons - The Ultimate Galactic Fighting Adventure</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-devices-power-with-our-non-bricky-fast-charging-magsafe-battery-pack-zdnet/"><u>Revolutionize Your Device's Power with Our Non-Bricky, Fast-Charging MagSafe Battery Pack | ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/sending-and-receiving-imessages-from-your-pc-using-windows-a-step-by-step-guide/"><u>Sending and Receiving iMessages From Your PC Using Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-speaker-face-off-unveiling-the-pros-of-google-assistant-and-alexa/"><u>Smart Speaker Face-Off: Unveiling the Pros of Google Assistant and Alexa</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-photoscape-evaluating-an-affordable-alternative-for-image-editing-needs/"><u>The Ultimate Guide to PhotoScape: Evaluating an Affordable Alternative for Image Editing Needs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125191165-toms-tech-insights-in-depth-reviews-and-guides/"><u>Tom's Tech Insights: In-Depth Reviews and Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-leading-hardware-reviews-and-advice/"><u>Tom's Tech Insights: Leading Hardware Reviews and Advice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-endless-motivation-with-fitbit-versa-3s-inbuilt-navigation-and-health-monitoring-features/"><u>Unleash Endless Motivation with Fitbit Versa 3'S Inbuilt Navigation & Health Monitoring Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-deciphering-bandicams-latest-2023-capabilities/"><u>[New] In 2024, Deciphering Bandicam's Latest 2023 Capabilities</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716069056997-updated-in-2024-zombification-extravaganza-8-epic-titles-ranked/"><u>[Updated] In 2024, Zombification Extravaganza - 8 Epic Titles Ranked!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-ground-in-easy-modern-nft-creation-techniques/"><u>2024 Approved Breaking Ground in Easy, Modern NFT Creation Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-new-horizon-of-affordability-with-microsofts-surface-laptop-go-reviewed-here/"><u>Exploring the New Horizon of Affordability with Microsoft's Surface Laptop Go Reviewed Here!</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/find-your-deals-on-oodle-zero-cost-local-classifieds/"><u>Find Your Deals on Oodle: Zero Cost Local Classifieds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-classic-creatures-to-modern-mayhem-a-new-direction-for-zombie-lore-with-7-days-to-die/"><u>From Classic Creatures to Modern Mayhem: A New Direction for Zombie Lore with '7 Days to Die'</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/future-proof-vision-enhancements-top-smart-frames-to-look-forward-to/"><u>Future-Proof Vision Enhancements: Top Smart Frames to Look Forward To</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-the-full-spectrum-of-visions-with-chatgpts-ai-capabilities/"><u>Harnessing the Full Spectrum of Visions with ChatGPT's AI Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hewlett-packards-affordable-15-notebook-with-amd-processor-is-it-efficient-for-your-needs/"><u>Hewlett-Packard's Affordable 15 Notebook with AMD Processor: Is It Efficient for Your Needs?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/illuminate-your-world-the-powerful-flash-of-the-430ex-iii-rt-review/"><u>Illuminate Your World: The Powerful Flash of the 430EX III-RT Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insightful-overwatch-critique-engaging-squad-battles-galore/"><u>Insightful Overwatch Critique: Engaging Squad Battles Galore</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfecting-ephemeral-fades-in-digital-recording-software-audacity-for-2024/"><u>Perfecting Ephemeral Fades in Digital Recording Software Audacity for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/topview-assessment-report-for-2024/"><u>TopView Assessment Report for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated A Brief Review of CapCut Translate With Alternative</u></a></li>
 </ul></div>
 

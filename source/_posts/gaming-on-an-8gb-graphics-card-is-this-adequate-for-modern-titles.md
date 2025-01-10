@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2025-01-01T16:01:26.284Z
-updated: 2025-01-03T17:24:28.998Z
+date: 2025-01-04T17:31:53.636Z
+updated: 2025-01-09T22:55:40.220Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Highlights
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The latest and greatest AAA games can use a boatload of video memory when you crank the visuals to high or ultra. With such an insatiable appetite for VRAM, is an 8GB GPU enough to play the latest games in 2024? I've got an 8GB GPU, and here's what I've learned.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  8GB of Memory Is Plenty for Indie, eSports, and Older Games
@@ -48,7 +48,7 @@ Cianna Garrison / How-To Geek
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Things Get Complicated With Newer AAA Games
@@ -60,7 +60,7 @@ Cianna Garrison / How-To Geek
 ![A screenshot of a virtual Corvette driving in a race from the game "Forza Horizon 5."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-01-172430.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -89,13 +89,13 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy an 8GB GPU in 2024?
 
@@ -120,22 +120,19 @@ _GIGABYTE_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-preventing-unwanted-filming-in-quicktime/"><u>[New] In 2024, Preventing Unwanted Filming in QuickTime</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-android-gamers-rejoice-heres-kinemaster-unleashed/"><u>2024 Approved Android Gamers Rejoice! Here's KineMaster Unleashed</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-perfecting-your-sound-palette-with-audacity-crossfading/"><u>2024 Approved Perfecting Your Sound Palette with Audacity Crossfading</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advance-repair-for-bad-and-corrupt-video-files/"><u>Advance Repair for Bad and Corrupt Video Files</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-powerhouse-apple-ipad-air-2020-compares-favorably-with-the-ipad-pro/"><u>Budget-Friendly Powerhouse: Apple iPad Air (2020) Compares Favorably with the iPad Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-premier-smartwatch-selection-available-this-year/"><u>Discover the Premier Smartwatch Selection Available This Year</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/everyday-expertise-who-outperforms-in-conversation/"><u>Everyday Expertise: Who Outperforms in Conversation?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-microsoft-flight-simulator-x-gold-edition-remains-a-top-choice-in-aviation-gaming/"><u>Expert Analysis: Microsoft Flight Simulator X - Gold Edition Remains a Top Choice in Aviation Gaming</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-rich-tapestry-of-medieval-times-with-assassins-creed-valhalla-a-detailed-critique/"><u>Exploring the Rich Tapestry of Medieval Times with Assassin's Creed: Valhalla – A Detailed Critique</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/finding-the-perfect-blend-of-affordability-and-performance-in-ibuypowers-custom-gaming-systems-a-detailed-review/"><u>Finding the Perfect Blend of Affordability & Performance in iBUYPOWER's Custom Gaming Systems - A Detailed Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fundamentals-of-digital-tale-construction-for-2024/"><u>Fundamentals of Digital Tale Construction for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/huawei-mediapad-m5-examined-the-ultimate-visual-and-audio-experience/"><u>Huawei MediaPad M5 Examined: The Ultimate Visual & Audio Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-motorola-g24-power-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Motorola G24 Power to Roku | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-why-the-top-race-rc-rock-crawler-dominates-difficult-trails/"><u>In-Depth Analysis: Why the Top Race RC Rock Crawler Dominates Difficult Trails</u></a></li>
-<li><a href="https://howto.techidaily.com/instinct-mi1300-sales-outlook-raised-by-amd-to-4-billion-lags-behind-nvidias-projected-10x-at-40b/"><u>Instinct MI1300 Sales Outlook Raised by AMD to $4 Billion, Lags Behind Nvidia's Projected 10X at $40B</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-legacy-lives-on-evaluating-the-performance-and-reliability-of-netgears-c3000-in-contemporary-settings/"><u>The Legacy Lives On: Evaluating the Performance and Reliability of Netgear's C3000 in Contemporary Settings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-picking-the-perfect-soldering-tools/"><u>Ultimate Guide: Picking the Perfect Soldering Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mp-up-your-media-get-free-soundtracks-for-2024/"><u>[New] Amp Up Your Media Get Free Soundtracks for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-telegrams-wonders-for-marketers-beginning-their-journey/"><u>[New] In 2024, Telegram’s Wonders for Marketers Beginning Their Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-integrating-third-party-tools-with-your-win11-zoom-setup/"><u>[New] Integrating Third-Party Tools with Your Win11 Zoom Setup</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-xbox-expansion-top-5-external-hard-drives-ranked/"><u>[Updated] In 2024, Xbox Expansion Top 5 External Hard Drives Ranked</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-typing-troubles-learn-how-to-reconnect-your-wireless-keyboard-with-computer/"><u>Bluetooth Typing Troubles? Learn How to Reconnect Your Wireless Keyboard with Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/diy-tech-adventure-the-makeblock-mbot-kit-an-in-depth-guide-to-crafting-and-programming-your-personal-robot/"><u>DIY Tech Adventure: The Makeblock MBot Kit – An In-Depth Guide to Crafting & Programming Your Personal Robot</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dynamic-3d-audio-sony-reviewed/"><u>Dynamic 3D Audio - Sony Reviewed</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-the-unwanted-mouse-double-click-problem-expert-advice/"><u>Eliminating the Unwanted Mouse Double-Click Problem: Expert Advice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-rankings-the-premier-fitness-trackers-on-the-market/"><u>Elite Rankings: The Premier Fitness Trackers on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-criteria-selecting-the-perfect-activity-monitor-for-active-lifestyles/"><u>Essential Criteria: Selecting the Perfect Activity Monitor for Active Lifestyles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-tp-link-av2ebridge-technology-exceptional-connectivity-hindered-by-aesthetics/"><u>Evaluating the TP-Link AV2ebridge Technology: Exceptional Connectivity Hindered by Aesthetics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-power-of-affordable-innovation-with-oneplus-nord-n10-5g/"><u>Experience the Power of Affordable Innovation with OnePlus Nord N10 5G</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-advanced-tips-for-integrating-markers-in-videography/"><u>In 2024, Advanced Tips for Integrating Markers in Videography</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-best-text-animation-software-with-motion-tracking-for-2024/"><u>The Best Text Animation Software with Motion Tracking for 2024</u></a></li>
 </ul></div>
 

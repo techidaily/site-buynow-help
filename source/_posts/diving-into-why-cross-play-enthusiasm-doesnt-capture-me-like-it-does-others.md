@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2025-01-02T16:05:03.609Z
-updated: 2025-01-03T16:39:52.429Z
+date: 2025-01-07T18:10:04.215Z
+updated: 2025-01-10T09:13:40.216Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,7 +30,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Controller Mis-Matching and Aim Assist
@@ -42,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![mouse keyboard controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/mouse-keyboard-controller.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
@@ -65,6 +61,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Problems That Impact Competitive Play
 
  For friendly, co-op games, having latency issues or control scheme bias isn't such a huge issue. However, for other games that have a healthy competitive scene, this could be a terrible thing to deal with.
@@ -72,10 +72,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
  PVP play in titles like _War Thunder_ and _Overwatch 2_ requires players to have more-or-less the same footing. Unfortunately, that's not always the case. As someone who's played both of these titles with both control schemes, there's a distinct difference in how they handle that's more than just getting used to the controls.
 
  In competitive play, [PC players usually dominate first-person lobbies](https://www.makeuseof.com/reasons-why-cross-platform-play-has-pushback-from-gaming-industry/) where console gamers are present. This, combined with the placement system and how losing can affect your final rewards, leads to a general imbalance in titles. While cross-play is great for non-competitive titles, it could ruin competition for one subset of gamers. After all, if a player has a core advantage, they need less skill to dominate in competitive play.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Ergonomics of Playing on a PC Don't Match Consoles
 
@@ -90,7 +86,7 @@ Jerome Thomas / How-To Geek
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Few Other Considerations
@@ -104,6 +100,10 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
  Gameplay in cross-platform titles requires a bit more work on the developer's part. The reason so many games traditionally lacked this functionality is because of how much work goes into porting games between hardware, including testing for compatibility across platforms. It's very likely updates may cause a game to become unplayable on one platform or another.
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You Can Always Turn Off Cross-Play
 
@@ -126,16 +126,20 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-crafting-an-ideal-speech-translation-experience-in-google-for-2024/"><u>[New] Crafting an Ideal Speech Translation Experience in Google for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-dynamic-directionality-prime-phone-friendly-tripods/"><u>[Updated] In 2024, Dynamic Directionality Prime Phone-Friendly Tripods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-13-mini-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 13 mini Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y100i-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y100i Device SIM</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhancing-your-workspace-a-detailed-look-at-microsofts-ergonomic-keyboard-excellence/"><u>Enhancing Your Workspace: A Detailed Look at Microsoft's Ergonomic Keyboard Excellence</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ethernet-over-power-with-the-tp-link-av200-2017-review-great-speed-lacks-in-aesthetics/"><u>Ethernet Over Power with the TP-Link AV200 2017 Review: Great Speed, Lacks in Aesthetics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-sony-xperia-5-a-slim-marvel-with-a-hefty-cost/"><u>Evaluating the Sony Xperia 5: A Slim Marvel with a Hefty Cost</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-omnicharge-omni/"><u>Expert Insights on the Omnicharge Omni</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-nokia-g22-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Nokia G22 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-performance-reducing-msmpengineexes-impact-on-your-pcs-cpu-in-windows/"><u>Optimizing Performance: Reducing MsMpEngine.exe's Impact on Your PC's CPU in Windows</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-discover-the-5-premier-voice-recording-gadgets-optimized-for-mp3-files-for-2024/"><u>Updated Discover the 5 Premier Voice Recording Gadgets Optimized for MP3 Files for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-strategic-pathway-to-podcast-popularity-with-effective-seo-techniques/"><u>[New] 2024 Approved The Strategic Pathway to Podcast Popularity with Effective SEO Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-top-picks-most-fancied-and-watched-prime-originals/"><u>[New] Twitter's Top Picks Most Fancied & Watched Prime Originals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-unseen-ui-techniques-for-newcomers/"><u>2024 Approved Ultimate Unseen UI Techniques for Newcomers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/examining-the-combination-of-robustness-and-affordability-in-fintie-cases-for-macbook-pro-13/"><u>Examining the Combination of Robustness & Affordability in Fintie Cases for MacBook Pro 13</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-lg-k51-attractive-aesthetics-overpowered-by-lagging-cpu-speed/"><u>In-Depth Review of the LG K51: Attractive Aesthetics Overpowered by Lagging CPU Speed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insightful-review-on-twelve-south-compass-pro-masterfully-designed-for-optimal-balance/"><u>Insightful Review on Twelve South Compass Pro: Masterfully Designed for Optimal Balance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/journey-through-soundscapes-value-in-paww-wavesound-3-gear/"><u>Journey Through Soundscapes: Value in Paww Wavesound 3 Gear</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kid-friendly-nickwatch-premieres-in-america-on-kids-choice-awards-night/"><u>Kid-Friendly NickWatch Premieres in America on Kids' Choice Awards Night</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-cell-phone-packages-for-seniors-ranked-exclusive-picks/"><u>Leading Cell Phone Packages for Seniors Ranked: Exclusive Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-connectivity-with-tp-link-re200-ac750-range-extender-a-review/"><u>Maximizing Connectivity with TP-Link RE200 AC750 Range Extender: A Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigate-to-high-speed-top-cable-modems-elevating-connectivity/"><u>Navigate to High Speed: Top Cable Modems Elevating Connectivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-lowering-cpu-intensity-in-gaming-windows/"><u>Solutions for Lowering CPU Intensity in Gaming Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-best-free-user-friendly-srt-translators-online/"><u>Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
 </ul></div>
 

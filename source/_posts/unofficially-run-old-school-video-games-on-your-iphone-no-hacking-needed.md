@@ -1,7 +1,7 @@
 ---
 title: Unofficially Run Old-School Video Games on Your iPhone - No Hacking Needed!
-date: 2024-12-31T16:27:35.185Z
-updated: 2025-01-03T16:55:48.126Z
+date: 2025-01-04T17:02:32.123Z
+updated: 2025-01-09T22:12:59.964Z
 tags:
   - games
   - tv
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Make Use of Delta's Full Feature Set](https://some-knowledge.techidaily.com/ideal-webcams-to-upgrade-your-zoom-video-quality-for-2024/)
 * [More Emulators Are Coming](https://tiktok-clips.techidaily.com/2024-approved-funhouse-finds-unveiling-the-hottest-tiktok-gaming-phenoms/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Emulators are now officially available for iPhone, legally, but you'll need to supply your own games (and downloading ROMs you do not own is illegal).
@@ -36,7 +40,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Original Game Boy cartridges.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/games_i_own.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -48,7 +52,7 @@ Tim Brookes / How-To Geek
 ![Game Boy ROMs within iPhone emulator Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gbc_roms_delta.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So why the sudden change? Apple is probably jumping before it is pushed. The EU has mandated that the iPhone open up to third-party App Stores, so Apple may be trying to avoid future problems. There’s also nothing inherently illegal about emulators, even though big players like Nintendo are vehemently opposed.
@@ -60,16 +64,12 @@ Tim Brookes / How-To Geek
 ![Super Mario 64 on an iPhone with Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/n64_super_mario_64.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Delta brings together many different emulation projects like [Nestopia](https://nestopia.sourceforge.net), [Snes9x](https://github.com/snes9xgit/), [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), and [melonDS](https://github.com/melonDS-emu/melonDS) under one simple application. The project is a spiritual successor to GBA4iOS, an emulator you may have heard of if you’ve dabbled in the iOS emulation scene before.
 
  You can [download Delta from the App Store](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) for iPhone, though it also works on iPad and macOS. As per Apple’s guidelines, the emulator doesn’t come with anything in playable form. You’ll need to supply your own ROMs, which you can transfer using a variety of methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Transfer Games via Cloud Storage
 
@@ -79,15 +79,15 @@ Tim Brookes / How-To Geek
 
  You can also open the relevant app on your iPhone (you’ll need to do this for Google Drive and cloud storage providers that don’t integrate with Files). You should be able to tap on a ROM file to automatically have it open in Delta. If you have more than one app that can handle that file type, you’ll be asked which app you want to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Transfer Games via AirDrop
 
  AirDrop works in much the same way. Simply find the native ROM file on the device you want to AirDrop from (like a Mac) and send it to your target device. The file will be saved in your device’s Downloads folder. Use Files to find Downloads, tap on the ROM and it will open in Delta (or prompt you to select an app, after which you can choose Delta).
 
  The game will now be added to Delta and you can delete the file from your Downloads folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Transfer Games via USB
 
@@ -96,10 +96,6 @@ Tim Brookes / How-To Geek
  With your iPhone connected, make sure you trust the connection when prompted on your iPhone, then open Finder or iTunes. Select your device either in the sidebar on a Mac or by clicking the device icon at the top of the screen in iTunes. Now select “Files” or “File Sharing” from the list of options.
 
  Find the Delta app and drag and drop your ROM files over. They should be copied to the root folder. Now open Delta and tap on the plus “+” icon in the top-right corner of the screen. Select “iTunes” and then tap “Import” when prompted and Delta will ingest the ROMs into its database.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Play With Touch Controls or a Controller
 
@@ -137,6 +133,10 @@ Kris Henges / How-To Geek
 
  Lastly, you can customize your Delta home screen to either show what you’ve recently been playing or a selection of your favorite games. This can be particularly handy when your collection grows to an unwieldy size. Head to “Settings” and tap “Home Screen Shortcuts” to get started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Emulators Are Coming
 
  Delta is likely the first of many emulators to come, considering the appetite for more systems now that the App Store floodgates have been opened. With a focus on mostly older platforms, Delta performs nearly flawlessly on most modern iPhone models.
@@ -158,20 +158,16 @@ Kris Henges / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-help.techidaily.com/a-buyers-ultimate-guide/"><u>: A Buyer's Ultimate Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-peak-performance-in-live-recording-software/"><u>[New] 2024 Approved Peak Performance in Live Recording Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-avoiding-common-pitfalls-using-movie-maker-on-windows-8/"><u>2024 Approved Avoiding Common Pitfalls Using Movie Maker on Windows 8</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unleash-gaming-potential-using-obs-recording-features/"><u>2024 Approved Unleash Gaming Potential - Using OBS Recording Features</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dts-aac-movavi/"><u>在線無成本的 DTS 到 AAC 音效轉換服務 – Movavi 提供解答方案</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-dash-cams-in-depth-review-of-the-pruveeo-f5-1080p-camera/"><u>Budget-Friendly Dash Cams: In-Depth Review of the Pruveeo F5 1080P Camera</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-which-one-reigns-supreme/"><u>Comparing iPhone 15 Pro Max and Samsung Galaxy S24 Ultra: Which One Reigns Supreme?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-top-rated-linksys-wrt3200acm-a-leading-open-source-wifi-solution/"><u>Expert Analysis: Top-Rated Linksys WRT3200ACM - A Leading Open-Source WiFi Solution</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-color-correction-applying-free-luts-in-obs-productions/"><u>In 2024, Mastering Color Correction Applying Free LUTs in OBS Productions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-lighting-art-with-top-softbox-kits-2024-edition/"><u>Mastering Lighting Art with Top Softbox Kits - 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/online-sign-in-portal-restored-access-regained/"><u>Online Sign-In Portal Restored: Access Regained</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-progressive-journey-comparing-features-of-the-samsung-galaxy-s10plus-and-s20-models/"><u>The Progressive Journey: Comparing Features of the Samsung Galaxy S10+ and S20 Models.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-netgear-nighthawk-x4-top-reviews-and-performance-analysis/"><u>Ultimate Guide to Netgear Nighthawk X4 - Top Reviews & Performance Analysis</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-infinix-note-30-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Note 30 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-powerhouse-a-deep-dive-review-into-dells-affordable-and-versatile-g5-5090-gaming-laptop/"><u>Unveiling the Powerhouse: A Deep Dive Review Into Dell's Affordable and Versatile G5 5090 Gaming Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-anthem-no-sound-in-windows-11/"><u>[FIXED] Anthem No Sound in Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-expert-fb-media-downloader-enhanced-firefox-support/"><u>[New] Expert FB Media Downloader Enhanced FireFox Support</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-effortless-production-of-fb-ad-videos-with-complimentary-kit-for-2024/"><u>[Updated] Effortless Production of FB Ad Videos with Complimentary Kit for 2024</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enhanced-tailor-your-sites-user-experience-with-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced: Tailor Your Site's User Experience with Advanced Analytics & Personalization</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-motorola-edgeplus-does-it-match-top-tier-standards/"><u>Evaluating Motorola Edge+: Does It Match Top-Tier Standards?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-owc-mercury-pro-cutting-edge-drive-innovation-and-peak-performance-capabilities/"><u>Evaluating the OWC Mercury Pro: Cutting-Edge Drive Innovation and Peak Performance Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-performance-and-features-of-a-battery-operated-google-nest-doorbell/"><u>Evaluating the Performance and Features of a Battery Operated Google Nest Doorbell</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-ace-3-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your OnePlus Ace 3</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-the-fujitsu-scansnap-ix1400-a-must-have-scanner-for-home-office-and-small-business-needs/"><u>Expert Analysis on the Fujitsu ScanSnap iX1400: A Must-Have Scanner for Home Office & Small Business Needs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-asus-rog-phone-7-ultimate-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Asus ROG Phone 7 Ultimate To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/tudo-sobre-o-cortador-de-mp3-da-movavi-funcionamento-download-e-tecnicas-de-baixar-com-maior-sucesso/"><u>Tudo Sobre O Cortador De Mp3 Da Movavi: Funcionamento, Download E Técnicas De Baixar Com Maior Sucesso</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Inside My Adventure in 3D-Printed LEGO Creations – Surprising Outcomes Revealed
-date: 2025-01-02T16:28:41.795Z
-updated: 2025-01-03T16:56:20.105Z
+date: 2025-01-04T21:22:08.313Z
+updated: 2025-01-09T19:29:08.704Z
 tags:
   - games
   - tv
@@ -22,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Proper LEGO is expensive, and sometimes you just need a specific brick or a brick that no one makes anymore. So what about simply 3D printing LEGO? I took a shot at it, and it's not as simple as I thought.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Great LEGO Patent Expiration and “Compatible” Bricks
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Not that LEGO let this happen without a fight, its failed legal battles with companies like Mega Blocks make for [fascinating reading](https://www.nytimes.com/2005/02/02/business/worldbusiness/building-a-legal-case-block-by-block.html). For our purposes here, all you need to know is that regular folks making LEGO models for 3D printing is fine, as long as they don't pretend to be real LEGO or use the company's trademarks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Where to Find Brick Model Files
@@ -45,10 +45,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  As far as possible, I try to avoid using supports for my prints, because they leave markers on the model that require cleaning later. So I've printed these bricks in place, right-way-up to ensure there are no overhangs that would fail. However, some more exotic brick types might need supports, which you'll have to generate using your 3D printing software.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Results
 
  My first attempt at printing a few test bricks did not go well. The K1 uses a smooth print bed out of the box, and you're supposed to rub a glue stick all over it before printing to help with adhesion. As a rule, I have not found this necessary, and so I can dispense with the messy cleanup and just get on with printing. Not so for my poor bricks, which very much did not remain stuck to the bed, and the print had to be abandoned. Two bricks did make it, giving me viable 0.2mm standard quality samples.
@@ -58,14 +54,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Two 3D-printed LEGO-compatible bricks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/bad-blocks.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Testing Compatibility With Real LEGO
 
@@ -75,9 +67,17 @@ Sydney Louw Butler/How-To Geek
 
 ![Two 3D-printed LEGO-compatible blocks stuck together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/good-blocks.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler/How-To Geek
 
  After printing out two test blocks, I got a pretty decent fit with real LEGO, but an incredible fit between the 3D-printed blocks themselves. In fact, they may be a little _too_ tight-fitting because them to come apart is much harder than with real LEGO. I can however, see myself printing out enough bricks to complete a build using this particular set, knowing that it won't fall apart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Printed LEGO Rabbit Hole
 
@@ -102,16 +102,20 @@ Sydney Louw Butler/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/isrupt-unbidden-youtube-content-feeds/"><u>[New] Disrupt Unbidden YouTube Content Feeds</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-enhancing-your-feed-step-by-step-guide-for-uploading-videos-to-instagram-desktop-for-2024/"><u>[New] Enhancing Your Feed Step-by-Step Guide for Uploading Videos to Instagram Desktop for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-hp-zbook-firefly-15-g8-a-travelers-dream-device/"><u>Comprehensive Review of the HP ZBook Firefly 15 G8: A Traveler's Dream Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/freestyle2-blue-on-macos-the-ultimate-reason-apple-users-should-switch-to-this-revolutionary-software/"><u>Freestyle2 Blue on macOS: The Ultimate Reason Apple Users Should Switch to This Revolutionary Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-exclusive-look-top-5-value-for-money-gaming-mice-and-keyboards/"><u>In 2024, Exclusive Look Top 5 Value-for-Money Gaming Mice & Keyboards</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigate-with-ease-top-wireless-mouse-options/"><u>Navigate with Ease: Top Wireless Mouse Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975652901-steal-the-show-top-steelseries-drivers-and-settings-for-windows-11-get-it-here/"><u>Steal the Show: Top SteelSeries Drivers & Settings for Windows 11 - Get It Here!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/targeted-drug-delivery-systems-using-nanotechnology-can-provide-localized-treatment-for-periodontal-disease-or-pain-management-with-minimal-systemic-effects111/"><u>Targeted Drug Delivery Systems Using Nanotechnology Can Provide Localized Treatment for Periodontal Disease or Pain Management with Minimal Systemic Effects.</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/top-3-macos-synchronization-tools-comprehensive-review-features-and-step-by-step-guide/"><u>Top 3 macOS Synchronization Tools: Comprehensive Review, Features, and Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-5-factors-to-evaluate-when-selecting-your-ideal-fitness-tracker/"><u>Top 5 Factors To Evaluate When Selecting Your Ideal Fitness Tracker</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/uninterrupted-quest-experience-addressing-the-immortals-fenynzings-crash-dilemma/"><u>Uninterrupted Quest Experience: Addressing the Immortals Fenynzing's Crash Dilemma</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0-best-youtube-music-reaction-video-and-how-to-make-one/"><u>[New] 10 Best YouTube Music Reaction Video & How to Make One</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-media-top-ranking-camera-apps-for-iphonesandroid-devices/"><u>[Updated] In 2024, Exploring Media Top-Ranking Camera Apps for iPhones/Android Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-leading-ways-streaming-and-recording-real-time-sport-events/"><u>[Updated] Leading Ways Streaming and Recording Real-Time Sport Events</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-boosting-remote-work-engagement-with-4-tactics/"><u>2024 Approved Boosting Remote Work Engagement with 4 Tactics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-premier-suggestions-top-10-sports-binge-watching-apps-soccer-focus/"><u>2024 Approved Premier Suggestions Top 10 Sports Binge-Watching Apps, Soccer Focus</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-xs-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone XS Max to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-game-pauses-with-x3daudio17dll-restoration/"><u>Avoid Game Pauses with X3DAudio1_7.dll Restoration</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-11-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme 11 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/reimagined-ultrahd-2023s-samsung-bdplus-k850/"><u>Reimagined UltraHD 2023'S Samsung BD+ K850</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-game-changing-lg-gram-156-inch-notebook-review-2018-power-meets-lightweight-durability-and-long-battery-life/"><u>The Game-Changing LG Gram 15.6 Inch Notebook Review (2018) - Power Meets Lightweight Durability & Long Battery Life</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-process-can-be-performed-with-varying-current-types-alternating-ac-or-direct-current-electrode-negative-dcen/"><u>The Process Can Be Performed with Varying Current Types: Alternating (AC) or Direct Current Electrode Negative (DCEN).</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-inexpensive-cams/"><u>The Ultimate Guide to Inexpensive Cams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-holy-stone-predator-mini-rc-helicopter-hs170-on-a-budget-reviewers-insight/"><u>The Ultimate Guide to the Holy Stone Predator Mini RC Helicopter (HS170) on a Budget – Reviewer's Insight!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-how-the-clearstream-2v-indooroutdoor-hdtv-antenna-delivers-excellent-performance-in-an-attractive-package/"><u>The Ultimate Review: How the ClearStream 2V Indoor/Outdoor HDTV Antenna Delivers Excellent Performance in an Attractive Package</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-best-ergonomic-keyboard-wrist-pads-for-optimal-typing-comfort-2024-edition/"><u>The Ultimate Selection: Best Ergonomic Keyboard Wrist Pads for Optimal Typing Comfort - 2024 Edition</u></a></li>
 </ul></div>
 

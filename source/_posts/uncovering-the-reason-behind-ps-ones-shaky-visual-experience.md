@@ -1,7 +1,7 @@
 ---
 title: Uncovering the Reason Behind PS One's Shaky Visual Experience
-date: 2024-12-30T16:51:46.028Z
-updated: 2025-01-03T16:24:34.124Z
+date: 2025-01-06T20:17:18.874Z
+updated: 2025-01-09T19:36:31.552Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Uncovering the Reason Behind PS One's Shaky Visual Experience
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Highlights
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Call me biased, but the original PlayStation is still my favorite console of all time. While the games might look a little rough now, they're still as good to play as ever. That said, even back then, PS1 graphics had this signature wobble you didn't find in the competition, so what gives?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It’s All About Floating Points
@@ -44,7 +44,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This meant that game developers had to create their own in-house Z-buffering solution, and since it was not done in hardware, they had to be economical with their depth-sorting algorithms. This led to a common situation in PS1 games where small sorting errors were made and polygons that should have been hidden from view pop in and out of sight.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Affine Texture Mapping Is Not So Fine After All
@@ -52,10 +52,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Texture mapping is the process of adding textures (which are basically digital pictures) to a polygon wireframe. It's basically the "skin" of a 3D object. The PS1 uses a method known as "affine" texture mapping, which uses simple math to determine the coordinates on the polygon where the texture should be drawn. Affine texture mapping does not take Z-coordinates into account, and so perspective projection will appear incorrect for 3D objects. Remember the PS1 has no Z-buffer!
 
  Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what's known as affine texture warping.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Fast, Cheap, or Complex: Pick Two
 
@@ -65,12 +61,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The bottom line is that the console could have had that extra hardware, but it would have driven the cost up significantly, without any clear benefit to Sony or its players at the time. The company went with "fast and cheap," leaving complexity at the door. History has shown this was the right decision.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Emulators Can Correct This (But Should You?)
 
 ![An iPad running G-Police next a  physical original copy of the game and a PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -96,17 +96,24 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-leveraging-instagram-hashtags-to-amplify-social-media-impact/"><u>[New] 2024 Approved Leveraging Instagram Hashtags to Amplify Social Media Impact</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-video-framing-technique-adding-bb-and-letterbox-overlays-to-fb/"><u>[New] In 2024, Video Framing Technique Adding BB and Letterbox Overlays to FB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-best-of-breed-top-rated-youtubers-streaming-arsenal/"><u>[Updated] 2024 Approved Best of Breed Top-Rated Youtuber's Streaming Arsenal</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-evaluating-the-functionality-of-vidma-screen-replayer/"><u>2024 Approved Evaluating the Functionality of Vidma Screen Replayer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/5-amazing-tiny-powerhouses-perfect-for-gamers-buyers-choice/"><u>5 Amazing Tiny Powerhouses Perfect for Gamers - Buyer's Choice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-pruveeo-fhd-1080p-dashcam-ultimate-road-safety-reviews/"><u>Affordable Pruveeo FHD 1080P Dashcam - Ultimate Road Safety Reviews</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/analyzing-the-hp-stream-14-navigating-trade-offs-for-economical-computing/"><u>Analyzing the HP Stream 14: Navigating Trade-Offs for Economical Computing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-macbook-air-13-inch-m1-2020-review-the-revolutionary-power-of-apples-m1-chip/"><u>Apple MacBook Air 13-Inch (M1, 2020) Review: The Revolutionary Power of Apple's M1 Chip</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/descifrar-cuando-un-primer-tratado-sobre-el-tiempo-en-espanol/"><u>Descifrar Cuándo: Un Primer Tratado Sobre El Tiempo en Espaňol</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-unhidden-ios-apps-a-comprehensive-guide/"><u>Unveiling the Secrets of Unhidden iOS Apps - A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-note-30-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Note 30 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unlock-youtube-placement-secrets-what-matters-most/"><u>[New] 2024 Approved Unlock YouTube Placement Secrets What Matters Most?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-of-breed-exceptional-cardboard-vr-gaming-experienits/"><u>[Updated] Best of Breed Exceptional Cardboard VR Gaming Experienits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-imaginarium-collagecraft-cutting-edge-assembler/"><u>2024 Approved Imaginarium CollageCraft Cutting-Edge Assembler</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/en-ligne-pour-toute-la-journee-convertissez-votre-musique-gsm-au-format-mp3-avec-le-convertisseur-gratuit-de-movavi/"><u>En Ligne Pour Toute La Journée : Convertissez Votre Musique GSM Au Format MP3 Avec Le Convertisseur Gratuit De Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/freelance-warriors-guide-complimentary-psd-treasures/"><u>Freelance Warriors Guide Complimentary PSD Treasures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a15-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ps5-versus-ps5-slim-understanding-the-key-distinctions-between-models/"><u>PS5 Versus PS5 Slim – Understanding the Key Distinctions Between Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/scosche-revolt-dual-review/"><u>Scosche ReVolt Dual Review</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-to-retrieving-accidentally-erased-files-from-usb-memory-sticks-for-free/"><u>Step-by-Step Guide to Retrieving Accidentally Erased Files From USB Memory Sticks for Free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-transferring-data-from-your-iphone-to-a-mac-without-using-itunes-or-icloud/"><u>Step-by-Step Guide: Transferring Data From Your iPhone to a Mac Without Using iTunes or iCloud</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-enigmatic-identity-of-microsoft-surface-go-unveiled-in-our-affordable-tablet-review/"><u>The Enigmatic Identity of Microsoft Surface Go Unveiled in Our Affordable Tablet Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-companer-for-on-the-go-power-an-extensive-review-of-maxoaks-185wh50000mah-bank/"><u>The Ultimate Companer for On-the-Go Power: An Extensive Review of MaxOak's 185Wh/50000mAh Bank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-fongo-in-canada-exploring-superior-voip-services-for-business-and-personal-use/"><u>The Ultimate Guide to Choosing Fongo in Canada: Exploring Superior VoIP Services for Business and Personal Use</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v30-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V30 Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-acer-savings-on-prime-day-2024-unbeatable-offers/"><u>Top Acer Savings on Prime Day 2024: Unbeatable Offers!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-showdown-how-does-apple-tv-4k-stack-up-against-roku-ultra-in-a-side-by-side-comparison/"><u>Top Showdown: How Does Apple TV 4K Stack Up Against Roku Ultra in a Side-by-Side Comparison?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-performance-with-ibuypowers-high-value-gaming-rig-in-depth-review/"><u>Top-Tier Performance with IBUYPOWER's High-Value Gaming Rig - In-Depth Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-editing-obs-videos-without-a-watermark-top-7-tools-compared/"><u>Ultimate Guide to Editing OBS Videos without a Watermark – Top 7 Tools Compared</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-sonys-xperia-5-size-and-price-overview/"><u>Unboxing Sony's Xperia 5: Size and Price Overview</u></a></li>
 </ul></div>
 

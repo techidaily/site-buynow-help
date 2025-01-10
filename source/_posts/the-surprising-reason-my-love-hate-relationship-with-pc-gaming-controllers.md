@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers"
-date: 2024-12-27T16:36:58.541Z
-updated: 2025-01-03T17:50:07.814Z
+date: 2025-01-03T16:56:17.265Z
+updated: 2025-01-09T18:53:06.469Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 ---
 
 ## The Surprising Reason: My Love-Hate Relationship with PC Gaming Controllers
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,16 +28,12 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
  I love gaming on my PC because there’s a wider selection of games, and I have a desktop that is more powerful than any console on the market. Despite this, I exclusively play games using a controller and avoid using my keyboard and mouse. That may sound blasphemous, but I have some good reasoning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  The Pinky Problem 
 
 ![Fingers in awkward position on a keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/fingers-in-awkward-position-on-a-keyboard.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
 
@@ -52,10 +44,6 @@ Ismar Hrnjicevic / How-To Geek
  It's not just keyboards, either. Constant mouse movements can lead to carpal tunnel syndrome, a [common ailment among pro gamers](https://esportshealthcare.com/carpal-tunnel-syndrome/). While I'm not that hardcore, why risk my health for a hobby?
 
  Controllers offer a more ergonomic alternative. Your fingers wrap naturally around them, moving freely, especially the [Xbox Elite controllers](https://youtube-clips.techidaily.com/the-rise-and-challenges-of-video-streaming-profits/) and their [game-changing back buttons](https://some-skills.techidaily.com/the-best-ai-naming-assistants-for-podcast-innovation-for-2024/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  Controllers Are Better for My Preferred Game Genres 
 
@@ -101,6 +89,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  I've experienced this first-hand with _EA Sports FC 24_, my current go-to game for local multiplayer. But it translates to other titles like _Street Fighter_, _It Takes Two_, or _Overcooked_. Trust me, you don't want to play _Overcooked_ with one person on a gamepad and another fumbling with a keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  I’m Tied to My Desk 
 
  Picture this: I've spent hours sitting at my desk, working away. When it's finally time to unwind with some games, I'm faced with the prospect of either staying in that exact same spot or going somewhere else. My life can’t start and end at a desk.
@@ -109,6 +101,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  This is the main reason I decided to get a gamepad. I can easily grab my controller, plop down anywhere in my room, and start gaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7  Breaks My Work Discipline 
 
  Most of us don't have a gaming PC _and_ an office PC, all we have is a PC. On this system, we do our work and we play our games, which is just a recipe for procrastination. I can't count how many times I jumped into a gaming session because I had to do some work that was boring or tiring. I thought a quick gaming session would clear my mind, but all it did was tick away an hour or two of the workday.
@@ -116,6 +112,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
  I'm not blaming the keyboard and mouse entirely, though it did seem like the call of a siren sometimes. However, after switching to a gamepad for gaming (and gradually preferring it over a keyboard and mouse), I noticed a boost in my productivity.
 
  By associating gaming with a gamepad and keeping it out of sight during work hours, I created just enough friction to resist sneaking into quick gaming sessions when work got challenging. I established a clear boundary: work mode is a keyboard and mouse, and play mode is a gamepad. It's simple, effective, and [keeps me disciplined](https://extra-information.techidaily.com/the-insiders-guide-to-captivating-youtube-headlines/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8  Because I Love My Keyboard and Mouse 
 
@@ -130,7 +130,7 @@ Ismar Hrnjicevic / How-To Geek
  My [current mechanical keyboard has hot-swappable](https://facebook-record-videos.techidaily.com/streamlining-visual-storytelling-with-youtube-videos-for-2024/) switches, so technically, if a key falters, I can pull it out and replace it. However, considering this and all the above points, it’s just more convenient to have a dedicated gamepad for gaming while preserving my keyboard and mouse for work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9  A Spare Keyboard and Mouse Will Take Up Too Much Desk Space 
@@ -162,20 +162,22 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-adding-pizzazz-to-your-footage-with-moving-text/"><u>[Updated] Adding Pizzazz to Your Footage with Moving Text</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-value-wristband-gadget-comprehensive-examination-of-the-fitbit-versa-lite/"><u>Best Value Wristband Gadget: Comprehensive Examination of the Fitbit Versa Lite</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-amazon-fire-hd-10-tablet-analysis-perfect-choice-for-family-entertainment/"><u>Comprehensive Amazon Fire HD 10 Tablet Analysis - Perfect Choice for Family Entertainment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exclusive-deals-acers-finest-bargains-for-prime-day-shopping-extravaganza-2e4/"><u>Exclusive Deals: Acer's Finest Bargains for Prime Day Shopping Extravaganza 2E4</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-rating-of-the-oneplus-6t-outstanding-functionality-at-an-incredible-cost/"><u>Expert Rating of the OnePlus 6T: Outstanding Functionality at an Incredible Cost</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/going-against-the-grain-instagram-video-reversal/"><u>Going Against the Grain Instagram Video Reversal</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-can-i-tell-if-my-location-is-being-monitored-by-an-apple-airtag-expert-guide-for-peace-of-mind/"><u>How Can I Tell If My Location Is Being Monitored by an Apple AirTag? Expert Guide for Peace of Mind</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-proficiently-use-twitter-archives-in-2024/"><u>How to Proficiently Use Twitter Archives, In 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-poco-f5-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Poco F5 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-your-fun-with-budget-friendly-usa-karaoke-for-under-150-dollars/"><u>Maximize Your Fun with Budget-Friendly USA Karaoke for Under 150 Dollars</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sound-without-cords-the-efficacy-of-m06-headphones/"><u>Sound Without Cords: The Efficacy of M06 Headphones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-garmin-vivosmart-4s-body-battery-and-stress-management-capabilities/"><u>The Ultimate Guide to Garmin Vivosmart 4'S Body Battery and Stress Management Capabilities</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-c110-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nokia C110 Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visionary-dialogue-and-scenery-a-film-lovers-treasure/"><u>Visionary Dialogue and Scenery A Film Lover's Treasure</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-enriching-mp4-soundtracks-with-srt-a-compreomedium-guide/"><u>[New] 2024 Approved Enriching MP4 Soundtracks with SRT – A Compreomedium Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-celebrating-the-hottest-instagram-after-effects-plugins/"><u>[Updated] In 2024, Celebrating the Hottest Instagram After Effects Plugins</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/conversione-gratuita-online-da-vob-a-3gp-con-movavi/"><u>Conversione Gratuita Online Da VOB a 3GP Con Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-mix-fold-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Mix Fold 3 FRP Bypass</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ative-methods-for-shuffling-yt-playlists-for-2024/"><u>Innovative Methods for Shuffling YT Playlists for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/insert-audio-files-into-powerpoint-sequences-for-2024/"><u>Insert Audio Files Into PowerPoint Sequences for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-disable-youtube-streaming-on-your-ipad-device/"><u>Steps to Disable YouTube Streaming on Your iPad Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-ergodriven-topo-a-game-changing-anti-fatigue-mat-for-standing-workspaces/"><u>The Ultimate Guide to the Ergodriven Topo: A Game-Changing Anti-Fatigue Mat for Standing Workspaces</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-6-iphone-security-software-the-ultimate-guide-to-antivirus-apps/"><u>Top 6 iPhone Security Software: The Ultimate Guide to Antivirus Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-8-leading-computer-manufacturers/"><u>Top 8 Leading Computer Manufacturers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-netgear-orbi-assessment-your-ideal-choice-for-optimal-wi-fi-coverage/"><u>Top Netgear Orbi Assessment: Your Ideal Choice for Optimal Wi-Fi Coverage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranked-soundproof-earpieces-for-24/"><u>Top-Ranked Soundproof Earpieces for '24</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gps-running-watch-the-essential-guide-to/"><u>Top-Rated GPS Running Watch: The Essential Guide To</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-and-assessment-of-the-lenovo-ideapad-3-the-new-contender-in-line-with-yoga-a940s-legacy/"><u>Ultimate Guide & Assessment of the Lenovo IdeaPad 3: The New Contender in Line with Yoga A940's Legacy</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-best-laptop-battery-packs-of-2024/"><u>Ultimate Guide to the Best Laptop Battery Packs of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-walkthrough-for-discontinuing-your-tiktok-activity/"><u>Ultimate Walkthrough for Discontinuing Your TikTok Activity</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/z3-plus-by-zee-edge-a-comprehensive-review-of-an-easy-to-use-budget-friendly-dash-cam/"><u>Z3 Plus by Zee Edge - A Comprehensive Review of an Easy-to-Use, Budget-Friendly Dash Cam</u></a></li>
 </ul></div>
 

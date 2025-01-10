@@ -1,7 +1,7 @@
 ---
 title: The Lowest Cost SSLs and Their Capabilities
-date: 2024-08-09T00:39:11.426Z
-updated: 2024-08-10T00:39:11.426Z
+date: 2025-01-06T16:45:19.094Z
+updated: 2025-01-10T06:37:26.366Z
 categories:
   - BestProducts
 description: This Article Describes The Lowest Cost SSLs and Their Capabilities
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/FJ1-SfCkKBkebN5IAQBs600x0vk=/540x405/fi
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fossil Sport Smartwatch
 
 ![Fossil Sport Smartwatch](https://www.lifewire.com/thmb/5x3QF2xeDjzPJii5hKe3LYqWN2M=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Fossil-Sport-Smart-Watch-1-b30f7a06ff534614a2afa0261ce1905f.jpg)
@@ -40,10 +37,6 @@ Lifewire / Andy Zahn
 
 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Fossil Sport Smartwatch
 
 ![Fossil Sport Smartwatch](https://www.lifewire.com/thmb/FVsGpLa_gg2Xq47MnBiAgRmc79s=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Fossil-Sport-Smart-Watch-1-b30f7a06ff534614a2afa0261ce1905f.jpg)
@@ -71,6 +64,10 @@ Lifewire / Andy Zahn
 
  Fossil has a reputation for making cool watches, both of the traditional and smart variety, and Fossil Sport is no exception. The question is, does it work as well as it looks?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Classy looks, quality controls**
 
  The Fossil Sport is one slick looking watch, and it’s impressively customizable. There are a number of different colors to choose from, as well as varying colors of extra bands you can buy as accessories. I tested the Smoke Black model and appreciated its understated and elegant appearance. If that’s not your thing, you can go crazy and make the watch as gaudy and unique as you like.
@@ -79,15 +76,16 @@ Lifewire / Andy Zahn
 
 ![Fossil Sport Smartwatch](https://www.lifewire.com/thmb/09nYIY5js64r3HdZV05shTtw6aI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fossil-Sport-Smart-Watch-3-596e9d29b0634b1a9abfa429e619733e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andy Zahn
 
  The Fossil Sport is controlled using both a[touchscreen](https://www.lifewire.com/what-is-a-touchscreen-4144770) and three dedicated buttons. The central button features a rotating dial that’s great for scrolling through menus and notifications. The other two can be programmed as shortcuts to access different functions. It’s water-resistant down to 5 ATM, or 164 feet, though it’s not a diving watch.
 
  The Fossil Sport is one slick looking watch, and it’s impressively customizable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup process: Streamlined with lots of prompts**
 
  The Google Wear OS setup experience is decently streamlined, though be prepared to sit through plenty of prompts for the various permissions needed to fully utilize the capabilities of the Fossil Sport. Once you’ve got the Wear OS app installed on your phone, it will guide you through the pairing and setup processes. When you’re through with this initial setup, the other aspects of the watch (like Google Fit, apps,[Bluetooth](https://www.lifewire.com/what-is-bluetooth-2377412) headphone connections, etc.) require their own separate setup processes.
@@ -97,15 +95,13 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Comfort: Highly adjustable**
 
  I appreciated that Fossil included a watch band large enough to fit my extra-large 9-inch wrists with room to spare. I found it comfortable to wear all day long; its lightweight prevented it from being overly burdensome on my wrist.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performance: Accurate stats**
 
  I was impressed by the accuracy of the Fossil Sport’s heart rate sensor and its other fitness tracking features. It read my correct heart rate right off the bat, which is something other smartwatches have failed to do due to my chunky wrists. The GPS and pedometer accurately kept track of my progress on walks and other activities, and these statistics are handled and gamified to some degree through Google Fit. This makes detailed statistics readily available on your phone, though it doesn’t provide quite as much detail and analysis as other fitness tracking software.
@@ -113,15 +109,13 @@ Lifewire / Andy Zahn
  The 1.2-inch 390 PPI AMOLED display is wonderfully crisp, clear, and bright enough to see even in strong sunlight. It’s so pretty to look at with deep blacks and bright colors that I found myself occasionally glancing at the watch just to enjoy this startlingly nice screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Battery: 24-hour power**
 
  I found that I was easily able to get through a day or two without having to recharge the Fossil Sport. Its 24-hour battery claim is accurate under average daily use conditions. Once you do run the battery down, the watch switches into a battery saver mode where only the time is displayed. In this mode, you can expect a week's worth of battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Fossil Sport Smartwatch](https://www.lifewire.com/thmb/a8TojyXavE05a-LRkRQauxY7ChM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fossil-Sport-Smart-Watch-2-cb6ea34d0ed1441c8c0dac4542d0dd1d.jpg)
 
  Lifewire / Andy Zahn
@@ -143,8 +137,9 @@ Lifewire / Andy Zahn
  Since launch, the MSRP of the Vivoactive 3 Music has plummeted from $275 to just $99, making it a genuine bargain. The watch is ridiculously high quality for such a low price.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Fossil Sport vs. Garmin Vivoactive 3 Music**
 
  If you want to dive deeper into fitness tracking, then you may want to consider the Garmin Vivoactive 3 Music.[The Vivoactive 3 Music](https://www.lifewire.com/garmin-vivoactive-3-music-review-5069587) (view on[Amazon](https://www.amazon.com/dp/B07DB3F6M2?tag=lifewire-onsite-prod-20&ascsubtag=5069585%7Cn5c2d2db9c33044f3bef91a93ac72349f12%7C) ) features a wide range of granular fitness tracking capabilities that outclass Fossil Sport in this respect. However, it’s twice as expensive as the Fossil Sport, which is superior in most other ways. It’s worth mentioning that the Vivoactive 3 Music easily ran Spotify, which was a definitive advantage for me.
@@ -154,6 +149,10 @@ Lifewire / Andy Zahn
  **Fossil Sport has all the basic features a Smartwatch needs at an attractive price point.**
 
  The value of Fossil Sport is beyond dispute. Between its capable feature set, excellent design, and bargain price point, this smartwatch is a versatile and good looking companion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -177,11 +176,28 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-of-1980s-movie-magic-in-editing/"><u>[Updated] Pinnacle of 1980S Movie Magic in Editing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-vivobook-11-review/"><u>Asus Vivobook 11 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effortless-fitness-management-using-the-miniature-samsung-galaxy-fit2-gadget/"><u>Effortless Fitness Management Using the Miniature Samsung Galaxy Fit2 Gadget</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-value-proposition-of-onepluss-budget-champion-the-n100-phone/"><u>Exploring the Value Proposition of OnePlus's Budget Champion - The N100 Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-one-piece-to-two-disassembling-the-xbox-360-slim/"><u>From One Piece to Two: Disassembling the Xbox 360 Slim</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-address-the-absent-ssleay32dll-file-issue/"><u>How to Correctly Address the Absent ssleay32.dll File Issue</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-fix-playback-glitches-with-facebook-videos-android/"><u>In 2024, Fix Playback Glitches with Facebook Videos (Android)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-7-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 7 Plus</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-viberns-cost-effective-messaging-service-viber-out/"><u>In-Depth Review of Viber'n's Cost-Effective Messaging Service - Viber Out</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-device-hooked-up-no-friction/"><u>Print Device Hooked Up, No Friction</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-elite-circle-unveiling-top-10-gamers-on-tiktok/"><u>The Elite Circle Unveiling Top 10 Gamers on TikTok</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-netgear-orbi-evaluation-ultimate-guide-to-the-ideal-mesh-wi-fi-system/"><u>Top Netgear Orbi Evaluation: Ultimate Guide to the Ideal Mesh Wi-Fi System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-portable-gaming-devices-in-2n24-a-comprehensive-list/"><u>Top Rated Portable Gaming Devices in 2N24: A Comprehensive List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-accessibility-tools-simple-way/"><u>Understanding Windows Accessibility Tools, Simple Way</u></a></li>
+</ul></div>
+
