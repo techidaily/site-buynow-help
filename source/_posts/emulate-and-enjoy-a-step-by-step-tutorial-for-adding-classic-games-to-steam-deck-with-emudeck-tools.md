@@ -1,7 +1,7 @@
 ---
 title: "Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools"
-date: 2025-01-08T13:00:59.814Z
-updated: 2025-01-10T02:08:30.280Z
+date: 2025-01-14T22:27:50.343Z
+updated: 2025-01-15T18:38:36.985Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ---
 
 ## Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![The "Collections" tab on the Steam Deck Library with emulated games added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-3.jfif) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Can You Run With EmuDeck?
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  While it is less critical than a flash drive, it's also a good idea to have a microSD card specifically for emulation purposes to avoid cluttering your storage with emulated games. An A2 microSD card from SanDisk is a good choice, but there are [lots of good microSD options](https://media-tips.techidaily.com/quick-and-simple-turn-any-video-into-samsung-galaxy-friendly-format-with-a-mac/) depending on how much space you might need.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Installing EmuDeck
 
  With your microSD card prepared, put your Steam Deck into desktop mode by pressing the Steam button followed by Power > Switch to Desktop. Now open up a web browser and head to [EmuDeck.com](http://www.EmuDeck.com), download the EmuDeck installer for SteamOS using the link provided, put the installer somewhere you can access it (you might want to run it again later), then run it.
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![PS2 games in the Steam Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-4.jfif) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It is, of course, up to you to make sure that you're staying on the right side of the law when it comes to emulated games. Assuming you're aware of the law, adding ROMs is fairly simple. EmuDeck has an automatic system to detect ROMs from a USB-C flash drive, but I'd recommend doing it manually to be safe.
 
  When it comes to sourcing ROMs and game files, [make sure you understand the legal ramifications of emulation](https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-13-mini-by-drfone-ios/). It is highly recommended that you purchase games through legal means and dump the files yourself to play on your emulator.
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 ![Various game files inside the "PS2" ROMs folder in Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/files3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I recommend using an external mouse and keyboard to navigate Desktop Mode while moving files around, as the touch screen controls can make this process a little cumbersome.
 
  Once this is complete, open the EmuDeck app in Desktop mode and select "Steam ROM Manager." Click "Yes" if a pop-up window appears and it will bring you to the "Parsers" window where you can select which emulators you want to add to your Steam library, which I'd recommend so you can easily change settings later on.
@@ -88,23 +88,23 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![The ROM Manager application in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the "Add Games" button in the bottom left corner to see a list of all the games you've added as long as you put them in the right folder.
 
 ![The Parsers menu in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/parsers2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have selected all of your desired games, select "Save to Steam" and the program should automatically parse all your installed games directly to your Steam library.
 
 ![The Emudeck ROM manager adding games to Steam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Multiplayer, Quality of Life Features, and Easy Expansion
@@ -150,18 +150,17 @@ Shutterstock/REDPIXEL.PL
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-versatile-video-tools-exporting-tiktok-content-as-mp4/"><u>[Updated] In 2024, Versatile Video Tools Exporting TikTok Content as MP4</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-replay-anywhere-instant-guide-to-youtube-video-loops/"><u>[Updated] Replay Anywhere Instant Guide to YouTube Video Loops</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-free-video-embedding-techniques-for-online-articles/"><u>2024 Approved Free Video Embedding Techniques for Online Articles</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/dynamic-visual-snapshot-providers/"><u>Dynamic Visual Snapshot Providers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-interpersonal-skills-in-the-office-with-zdnets-ultimate-guide-to-emotional-intelligence/"><u>Mastering Interpersonal Skills in the Office with ZDNet's Ultimate Guide to Emotional Intelligence</u></a></li>
-<li><a href="https://win-web3.techidaily.com/neuer-iphone-14-und-13-losung-fur-das-problem-der-unbeabsichtigten-ausschalten-nach-datentransfer/"><u>Neuer iPhone 14 Und 13: Lösung Für Das Problem Der Unbeabsichtigten Ausschalten Nach Datentransfer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/spotlight-on-slimness-exploring-the-key-differences-between-ipad-and-ipad-air-models/"><u>Spotlight on Slimness: Exploring the Key Differences Between iPad and iPad Air Models</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-setting-up-your-nintendo-3ds-network-id/"><u>Step-by-Step Guide: Setting Up Your Nintendo 3DS Network ID</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-cheap-tablet-dive-into-our-in-depth-review-of-the-lenovo-tab-m10-hd-2020/"><u>The Best Cheap Tablet? Dive Into Our In-Depth Review of the Lenovo Tab M10 HD (2020)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-breakdown-of-amazons-fire-hd-10-a-must-have-for-family-media-lovers/"><u>The Complete Breakdown of Amazon's Fire HD 10 - A Must-Have for Family Media Lovers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-most-affordable-and-sturdy-tv-mounts-reviewed-cheetahs-model/"><u>The Most Affordable & Sturdy TV Mounts Reviewed - Cheetah's Model</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleashing-musical-talent-with-magix-studio/"><u>Unleashing Musical Talent with Magix Studio</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-windows-blurry-screen-quickly-and-easily/"><u>[Fixed] Windows Blurry Screen | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-new-wave-on-youtube-and-fb-discover-the-hottest-8-trends-for-2024/"><u>[New] The New Wave on YouTube & FB Discover the Hottest 8 Trends for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-quick-reference-guide-to-screencastifys-tools/"><u>2024 Approved Quick Reference Guide to Screencastify's Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/an-in-depth-look-at-movavis-video-edition-plus-for-2e24/"><u>An In-Depth Look at Movavi's Video Edition Plus for 2E24</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-ssls-secure-for-how-much-less/"><u>Budget-Friendly SSLs: Secure for How Much Less?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-leading-smartwatch-models/"><u>Discover the Leading Smartwatch Models</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-cost-effective-quality-with-our-comprehensive-oneplus-nord-n100-review/"><u>Experience Cost-Effective Quality with Our Comprehensive OnePlus Nord N100 Review</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-face-finds-budget-friendly-platforms-to-purchase-for-2024/"><u>Fresh Face Finds Budget-Friendly Platforms to Purchase for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-insiders-guide-overcome-iphone-video-dullness-using-4-adobe-solutions/"><u>In 2024, [Insider's Guide] Overcome iPhone Video Dullness Using 4 Adobe Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-relaxation-techniques-through-smarter-sleep-tools/"><u>Next-Level Relaxation Techniques Through Smarter Sleep Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/settling-around-the-virtual-campfire-an-in-depth-look-at-minecrafts-storytelling-through-skins/"><u>Settling Around the Virtual Campfire: An In-Depth Look at Minecraft’s Storytelling Through Skins</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-mobile-sound-treat-asmr-for-2024/"><u>The Ultimate Mobile Sound Treat ASMR for 2024</u></a></li>
 </ul></div>
 

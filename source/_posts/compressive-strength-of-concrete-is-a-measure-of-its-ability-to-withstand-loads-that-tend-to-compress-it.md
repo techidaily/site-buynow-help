@@ -1,7 +1,7 @@
 ---
 title: Compressive Strength of Concrete Is a Measure of Its Ability to Withstand Loads that Tend to Compress It.
-date: 2025-01-07T04:46:49.464Z
-updated: 2025-01-09T17:05:54.445Z
+date: 2025-01-08T16:24:24.795Z
+updated: 2025-01-16T00:41:04.633Z
 tags:
   - games
   - tv
@@ -22,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Ideally, a portable projector has everything it needs to watch a movie, self-contained, while remaining small and easy to travel with. The [Anker Nebula Capsule 3](https://us.seenebula.com/products/capsule-3-projectors-d2425) gets really close to this ideal state because of its Google TV software, 2.5-hour battery life, and decently loud speaker, but its brightness level is a weak point and might be a little too dim to use anywhere.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -88,13 +84,13 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -103,16 +99,12 @@ Jerome Thomas / How-To Geek
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -134,6 +126,10 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -143,6 +139,10 @@ Jerome Thomas / How-To Geek
  I did also experience some occasional stuttering. There’s a quad-core ARM CPU and a dedicated GPU inside, along with 2GB of RAM and 16GB of storage, which seems adequate to run Google TV, so I don’t know where the culprit was for the occasional freezing and buffering—I doubt it was my 2GB home internet connection.
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Battery Life
 
@@ -154,13 +154,13 @@ Jerome Thomas / How-To Geek
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -193,24 +193,20 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-close-up-confidence-navigating-google-meets-zoom-feature-for-2024/"><u>[New] Close-Up Confidence Navigating Google Meet's Zoom Feature for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-the-art-of-minuscule-web-pixels-for-2024/"><u>[New] Mastering the Art of Minuscule Web Pixels for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unraveling-tales-the-top-storytelling-channels-on-yt-this-year/"><u>[New] Unraveling Tales The Top Storytelling Channels on YT This Year</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/an-adventure-in-textures-in-depth-analysis-of-minecrafts-campfire-tales-pack/"><u>An Adventure in Textures: In-Depth Analysis of Minecraft's Campfire Tales Pack</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-instructions-for-downloading-and-setting-up-linksys-usb-wireless-adapter/"><u>Easy Instructions for Downloading and Setting Up Linksys USB Wireless Adapter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevate-your-image-export-skills-an-essential-guide-to-print-settings-in-photoshop/"><u>Elevate Your Image Export Skills: An Essential Guide to Print Settings in Photoshop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-performance-and-design-a-deep-dive-into-the-samsung-galaxy-s10-review/"><u>Elite Performance and Design: A Deep Dive Into the Samsung Galaxy S10 Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/emperor-of-rome-critique-building-an-empire-against-all-odds/"><u>Emperor of Rome Critique: Building an Empire Against All Odds</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-google-pixelbook-go-a-masterfully-designed-chromebook-with-a-premium-price-tag/"><u>Evaluating The Google Pixelbook Go - A Masterfully Designed Chromebook with a Premium Price Tag</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-toshiba-55-inch-fire-tv-edition-why-its-a-prime-asset-to-any-home/"><u>Expert Review of the Toshiba 55-Inch Fire TV Edition - Why It's a Prime Asset to Any Home</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-reviews-navigating-through-2024s-best-smartwatch-options/"><u>Expert Reviews: Navigating Through 2024'S Best Smartwatch Options</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-best-value-in-tablets-2020-review-of-lenovo-tab-m10-and-its-impressive-display-quality/"><u>Exploring the Best Value in Tablets: 2020 Review of Lenovo Tab M10 and Its Impressive Display Quality</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/fading-techniques-for-aural-balance/"><u>Fading Techniques for Aural Balance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-fun-facelift-to-survival-tactics-navigating-the-world-of-7-days-to-life-in-one-week-review/"><u>From Fun Facelift to Survival Tactics: Navigating the World of '7 Days to Life' In One Week Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/godfall-critique-underwhelming-narrative-and-gameplay-as-ps5-exclusive-debut/"><u>Godfall Critique: Underwhelming Narrative and Gameplay as PS5 Exclusive Debut</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-z-fold-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy Z Fold 5 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/why-is-instagram-turning-my-video-sideways/"><u>Why Is Instagram Turning My Video Sideways?</u></a></li>
-<li><a href="https://win-popular.techidaily.com/yl-softwares-collection-premium-game-of-thrones-visual-content-stunning-photos-wallpaper-and-backgrounds-for-fans/"><u>YL Software's Collection: Premium Game of Thrones Visual Content - Stunning Photos, Wallpaper, and Backgrounds for Fans</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-prolific-iphone-photography-cutting-edge-app-selection-guide/"><u>[New] In 2024, Prolific iPhone Photography Cutting-Edge App Selection Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-strategic-insights-for-optimal-tech-upgrades/"><u>[Updated] In 2024, Strategic Insights for Optimal Tech Upgrades</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2023s-leading-online-sound-recorders-ranked-for-2024/"><u>2023'S Leading Online Sound Recorders Ranked for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-wireless-range-solutions-extender-booster-or-repeater-for-your-home-network/"><u>Comparing Wireless Range Solutions: Extender, Booster or Repeater for Your Home Network?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-razers-stealth-13-ultrabook-a-revolutionary-step-forward-for-high-performance-portability/"><u>Comprehensive Review of Razer's Stealth 13 Ultrabook: A Revolutionary Step Forward for High-Performance Portability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-why-the-ring-video-doorbell-pro-is-a-clever-choice-for-home-security/"><u>Comprehensive Review: Why the Ring Video Doorbell Pro Is a Clever Choice for Home Security</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-amazon-kindles-value-in-2019-reliable-and-affordable-reading-essentials/"><u>Discovering the Amazon Kindle's Value in 2019 - Reliable and Affordable Reading Essentials</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-pinnacle-of-next-gen-consoles-an-in-depth-xbox-one-x-review/"><u>Exploring the Pinnacle of Next-Gen Consoles: An In-Depth Xbox One X Review</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guidance-for-non-standard-video-encoding/"><u>Guidance for Non-Standard Video Encoding</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/guide-detaille-clonage-de-partition-pour-windows-nativite1-avec-le-logiciel-daomei-gratuit/"><u>Guide Détaillé : Clonage De Partition Pour Windows Nativité1 Avec Le Logiciel D'AOMEI Gratuit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immersive-sound-experience-samsungs-new-buds-pro/"><u>Immersive Sound Experience: Samsung's New Buds Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-pixels-a-detailed-analysis-of-8k-tvs/"><u>In 2024, Pioneering Pixels A Detailed Analysis of 8K TVs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-expenses-cut-over-500-from-monthly-costs-with-simple-strategies-zdnet/"><u>Slash Your Expenses: Cut Over $500 From Monthly Costs with Simple Strategies | ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-cost-effective-and-easy-to-control-propella-7s-40-scooter-a-detailed-review/"><u>Unveiling the Cost-Effective and Easy-to-Control Propella 7S 4.0 Scooter: A Detailed Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/yamahas-b020bl-stereo-system-a-portable-powerhouse/"><u>Yamaha's B020BL Stereo System - A Portable Powerhouse</u></a></li>
 </ul></div>
 

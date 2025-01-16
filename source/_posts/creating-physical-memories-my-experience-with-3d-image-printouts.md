@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2025-01-07T05:43:39.901Z
-updated: 2025-01-10T11:18:48.704Z
+date: 2025-01-12T05:40:35.404Z
+updated: 2025-01-16T03:30:50.278Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ## Creating Physical Memories: My Experience with 3D Image Printouts
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
  While working with porcelain isn't something you can do at home typically, if you have a 3D printer you can emulate the same effect and make a lithophane by printing it. When you hold the lithophane up to the light, your original image appears. It's a neat effect and, thanks to the flexibility of 3D printing, you can make all sorts of interesting decorations using this method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Converting an Image to a Lithophane
 
  To make a lithophane, you need to use software that converts the light and dark parts of the image into a 3D model with thicker or thinner sections representing the image.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
@@ -51,18 +55,18 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
 
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printing Your Lithophane
@@ -76,10 +80,6 @@ Close
  The problem is that a thin vertical panel is basically impossible to print, so you need to support your lithophane in some way. You can manually add supports to it using a CAD program, for example, but this is where a lithophane maker app comes into its own. For example, It's Litho has a number of pre-made stands and mounts as I mentioned before. You can add integrated frames too, there's plenty of customization. With such an integrated frame, you can print your litho vertically with confidence and get a significantly better end result.
 
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
 
@@ -100,19 +100,24 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-top-tips-for-creating-instagrammable-unboxing-highlights-for-2024/"><u>[New] Top Tips for Creating Instagrammable Unboxing Highlights for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-10-critical-strategies-for-dynamic-cover-designs/"><u>[Updated] 10 Critical Strategies for Dynamic Cover Designs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-choosing-between-obs-and-streamlabs-for-broadcast-excellence/"><u>[Updated] 2024 Approved Choosing Between OBS and Streamlabs for Broadcast Excellence</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-8-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone 8 Plus</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-itel-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Itel .</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/lg-smart-tv-mastery-the-comprehensive-guide-to-display-sharing/"><u>LG Smart TV Mastery: The Comprehensive Guide to Display Sharing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/los-mejores-conversores-gratuitos-para-mp4-como-desplazarse-sin-coste-entre-formatos-de-video/"><u>Los Mejores Conversores Gratuitos Para MP4: Cómo Desplazarse Sin Coste Entre Formatos De Vídeo</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-control-a-step-by-step-tutorial-for-blocking-microsoft-marketing-features-in-windows-11/"><u>Master the Control: A Step-by-Step Tutorial for Blocking Microsoft Marketing Features in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-to-restore-heat-functionality-on-a-3d-printer-bed/"><u>Step by Step Guide to Restore Heat Functionality on a 3D Printer Bed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-review-of-the-netgear-nighthawk-rax80-brilliant-performance-meets-elegant-package-with-wi-fi-6-technology/"><u>The Complete Review of the Netgear Nighthawk RAX80 – Brilliant Performance Meets Elegant Package with Wi-Fi 6 Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-essential-guide-to-fitbit-inspire-hr-your-reliable-partner-for-non-stop-health-monitoring/"><u>The Essential Guide to Fitbit Inspire HR: Your Reliable Partner for Non-Stop Health Monitoring</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-blend-of-sophistication-and-utility-in-michael-kors-gen-5e-accessories-a-comprehensive-assessment/"><u>The Perfect Blend of Sophistication & Utility in Michael Kors Gen 5E Accessories - A Comprehensive Assessment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-budget-conscious-fellowes-keyboard-with-antimicrobial-protection/"><u>The Ultimate Guide to Choosing a Budget-Conscious Fellowes Keyboard with Antimicrobial Protection</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-guide-to-linksys-max-stream-ac1900-a-versatile-router-fit-for-everyone/"><u>The Ultimate Review Guide to Linksys Max-Stream AC1900 – A Versatile Router Fit for Everyone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-connecting-with-clarity-4-ways-to-share-stories/"><u>[New] In 2024, Connecting with Clarity 4 Ways to Share Stories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-picks-user-friendly-software-for-new-game-recorders-and-editors/"><u>[New] In 2024, Top Picks User-Friendly Software for New Game Recorders & Editors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-tactical-steps-to-obtain-top-notch-pictorial-content-for-2024/"><u>[New] Tactical Steps to Obtain Top-Notch Pictorial Content for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-detailed-guide-to-advanced-human-interface-systems/"><u>[Updated] A Detailed Guide to Advanced Human Interface Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pure-pitch-perception-recording-in-mac-studios/"><u>[Updated] In 2024, Pure Pitch Perception Recording in Mac Studios</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-ipad-air-vs-samsung-galaxy-tab-s7plus-faceoff-elite-tablets-competing-head-to-head/"><u>Apple iPad Air ^ Vs. Samsung Galaxy Tab S7+ Faceoff: Elite Tablets Competing Head to Head</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-p40-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel P40? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-timeless-charm-and-modern-intelligence-a-comprehensive-review-of-withings-move/"><u>Discovering Timeless Charm & Modern Intelligence: A Comprehensive Review of Withings Move</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-the-fitbit-charge-6-device/"><u>Expert Evaluation of the Fitbit Charge 6 Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-capabilities-of-soundbot-sb210-an-efficient-audio-device-with-high-quality-performance/"><u>Exploring the Capabilities of SoundBot SB210: An Efficient Audio Device with High-Quality Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/future-of-fun-discover-2024s-most-popular-game-consoles/"><u>Future of Fun: Discover 2024'S Most Popular Game Consoles</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-inkjet-printer-installation-guide/"><u>HP Inkjet Printer Installation Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/luxurious-design-and-ingenuity-in-the-latest-michael-kors-access-gen-5e-mkgo-watch-review/"><u>Luxurious Design and Ingenuity in the Latest Michael Kors Access Gen 5E MKGO Watch Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-audio-experience-with-nests-smart-speaker-designed-for-enthusiast-listeners/"><u>Revolutionize Your Audio Experience with Nest's Smart Speaker Designed for Enthusiast Listeners</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-savings-with-the-lg-24lh4830-tv-splurge-worthy-features-at-a-wallet-friendly-price/"><u>Smart Savings with the LG 24LH4830 TV – Splurge-Worthy Features at a Wallet-Friendly Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-choosing-the-perfect-17-inch-laptop/"><u>Ultimate Guide: Choosing the Perfect 17-Inch Laptop</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-solutions-for-usbasp-issues-in-wxpwin810/"><u>Universal Solutions for USBasp Issues in WXP/Win8/10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-upgrade-to-spotify-premium/"><u>Why Upgrade to Spotify Premium?</u></a></li>
 </ul></div>
 

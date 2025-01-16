@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2025-01-04T17:31:53.636Z
-updated: 2025-01-09T22:55:40.220Z
+date: 2025-01-11T19:50:56.700Z
+updated: 2025-01-15T16:03:45.250Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Highlights
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The latest and greatest AAA games can use a boatload of video memory when you crank the visuals to high or ultra. With such an insatiable appetite for VRAM, is an 8GB GPU enough to play the latest games in 2024? I've got an 8GB GPU, and here's what I've learned.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  8GB of Memory Is Plenty for Indie, eSports, and Older Games
@@ -39,6 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A screenshot of a virtual bar from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204942.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
@@ -47,10 +51,6 @@ Cianna Garrison / How-To Geek
 
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Things Get Complicated With Newer AAA Games
 
  If you’re eyeing AAA games released in 2021 and later, 8GB of video memory will limit performance in some scenarios. For example, _Forza Horizon 5_, released in the second part of 2021, runs fine with textures set to extreme, even though the game hits you with a low memory warning minutes after you start driving.
@@ -58,10 +58,6 @@ Cianna Garrison / How-To Geek
  But after some time—about half an hour at 1440p ultrawide, a bit longer at 1080p—you will notice slowdowns, corrupted textures, and you might even experience a crash or two. Lowering the texture quality to ultra fixes the issue, but _Forza Horizon 5_ is far from the only game that doesn’t play nice with 8GB of VRAM.
 
 ![A screenshot of a virtual Corvette driving in a race from the game "Forza Horizon 5."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-01-172430.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
 
@@ -89,12 +85,16 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy an 8GB GPU in 2024?
@@ -120,19 +120,22 @@ _GIGABYTE_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/mp-up-your-media-get-free-soundtracks-for-2024/"><u>[New] Amp Up Your Media Get Free Soundtracks for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-telegrams-wonders-for-marketers-beginning-their-journey/"><u>[New] In 2024, Telegram’s Wonders for Marketers Beginning Their Journey</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-integrating-third-party-tools-with-your-win11-zoom-setup/"><u>[New] Integrating Third-Party Tools with Your Win11 Zoom Setup</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-xbox-expansion-top-5-external-hard-drives-ranked/"><u>[Updated] In 2024, Xbox Expansion Top 5 External Hard Drives Ranked</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-typing-troubles-learn-how-to-reconnect-your-wireless-keyboard-with-computer/"><u>Bluetooth Typing Troubles? Learn How to Reconnect Your Wireless Keyboard with Computer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/diy-tech-adventure-the-makeblock-mbot-kit-an-in-depth-guide-to-crafting-and-programming-your-personal-robot/"><u>DIY Tech Adventure: The Makeblock MBot Kit – An In-Depth Guide to Crafting & Programming Your Personal Robot</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dynamic-3d-audio-sony-reviewed/"><u>Dynamic 3D Audio - Sony Reviewed</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-the-unwanted-mouse-double-click-problem-expert-advice/"><u>Eliminating the Unwanted Mouse Double-Click Problem: Expert Advice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-rankings-the-premier-fitness-trackers-on-the-market/"><u>Elite Rankings: The Premier Fitness Trackers on the Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-criteria-selecting-the-perfect-activity-monitor-for-active-lifestyles/"><u>Essential Criteria: Selecting the Perfect Activity Monitor for Active Lifestyles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-tp-link-av2ebridge-technology-exceptional-connectivity-hindered-by-aesthetics/"><u>Evaluating the TP-Link AV2ebridge Technology: Exceptional Connectivity Hindered by Aesthetics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-the-power-of-affordable-innovation-with-oneplus-nord-n10-5g/"><u>Experience the Power of Affordable Innovation with OnePlus Nord N10 5G</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-advanced-tips-for-integrating-markers-in-videography/"><u>In 2024, Advanced Tips for Integrating Markers in Videography</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-best-text-animation-software-with-motion-tracking-for-2024/"><u>The Best Text Animation Software with Motion Tracking for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-bright-ideas-for-android-video-mastery/"><u>[New] In 2024, Bright Ideas for Android Video Mastery</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-offline-android-delights-top-screen-free-game-list-you-must-play/"><u>[New] Offline Android Delights Top Screen-Free Game List You Must Play</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-full-time-employees-guide-to-video-content-success/"><u>[New] The Full-Time Employee's Guide to Video Content Success</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-proven-methods-to-supercharge-your-spotify-ad-results/"><u>2024 Approved Proven Methods to Supercharge Your Spotify Ad Results</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-asus-zephyrus-g14-evaluation-the-ultimate-all-rounder-in-gaming-computers/"><u>Comprehensive Asus Zephyrus G14 Evaluation: The Ultimate All-Rounder in Gaming Computers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhance-connectivity-leading-wi-fi-expanders-for-a-stronger-signal/"><u>Enhance Connectivity: Leading Wi-Fi Expanders for a Stronger Signal</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-elevating-your-facebook-presence-dji-drone-streaming-tips/"><u>In 2024, Elevating Your Facebook Presence DJI Drone Streaming Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-a15-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy A15 5G FRP?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-spark-sponsorships-a-guide-to-easy-fundraising-for-budget-channels/"><u>In 2024, Spark Sponsorships A Guide to Easy Fundraising for Budget Channels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/key-factors-to-influence-your-next-laptop-purchase/"><u>Key Factors to Influence Your Next Laptop Purchase</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-realm-of-affordable-video-the-vixia-hf-r800-review/"><u>Navigating the Realm of Affordable Video: The VIXIA HF R800 Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-complete-guide-to-fixing-screen-trembling-in-google-chrome-for-windows-latest-2n24-edition/"><u>The Complete Guide to Fixing Screen Trembling in Google Chrome for Windows - Latest 2N24 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-versatile-osprey-series-a-deep-dive-into-the-affordable-ws-2902a-by-ambient/"><u>The Versatile Osprey Series: A Deep Dive Into the Affordable WS-2902A by Ambient</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-pick-review-the-smartly-crafted-twelve-south-compass-pros-unmatched-durability-and-balance/"><u>Top Pick Review: The Smartly Crafted Twelve South Compass Pro's Unmatched Durability and Balance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-mouse-options-enhance-your-tablet-experience/"><u>Top-Rated iPad Mouse Options: Enhance Your Tablet Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrade-your-wi-fi-coverage-with-the-netgear-nighthawk-x6s-range-extender/"><u>Upgrade Your Wi-Fi Coverage with the Netgear Nighthawk X6S Range Extender</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Weekly Insights on Upcoming Devices From Google & Samsung
-date: 2025-01-09T07:59:51.307Z
-updated: 2025-01-10T11:20:51.109Z
+date: 2025-01-09T16:22:50.572Z
+updated: 2025-01-16T03:39:30.857Z
 tags:
   - games
   - tv
@@ -16,10 +16,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 This was a surprisingly busy week for tech news, with announcements for Google and Samsung’s next hardware events, and a whole lot of software updates. Here are the biggest stories you might have missed.
 
 ##  The Big News
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
@@ -38,16 +34,12 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 Valve
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
@@ -57,12 +49,16 @@ Valve
 
  Finally, a Start menu change that makes sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
@@ -72,7 +68,7 @@ Valve
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Motorola
@@ -84,6 +80,10 @@ Motorola
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -106,20 +106,22 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-converting-youtube-broadcasts-into-listenable-formats/"><u>[Updated] In 2024, Converting YouTube Broadcasts Into Listenable Formats</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-precision-and-persuasion-crafting-content-that-sticks-on-reddit/"><u>[Updated] Precision and Persuasion Crafting Content That Sticks on Reddit</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-macmac/"><u>「2024 Mac主流最新播放器：發現無限金援的影音奧力！【Mac用自由版播放軟件革命解密！】」</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/breaking-the-internet-with-these-hysterical-stickers-for-2024/"><u>Breaking the Internet with These Hysterical Stickers for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-pdf-handling-discover-these-4-essential-tips/"><u>ChatGPT's PDF Handling: Discover These 4 Essential Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-test-of-the-kootek-device-for-laptop-temperature-control-a-robust-and-efficient-choice/"><u>Comprehensive Test of the Kootek Device for Laptop Temperature Control: A Robust and Efficient Choice</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/create-program-and-learn-with-the-makeblock-mbot-robot-kit-a-complete-product-assessment-and-user-guide/"><u>Create, Program & Learn with the Makeblock mBot Robot Kit: A Complete Product Assessment and User Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/deciphering-the-disparity-between-echo-pop-and-echo-dot-devices/"><u>Deciphering the Disparity Between Echo Pop and Echo Dot Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/digital-vs-physical-books-the-case-for-kindles/"><u>Digital Vs. Physical Books: The Case for Kindles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-leading-vertical-computer-mice-innovations/"><u>Discover the Leading Vertical Computer Mice Innovations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-most-effective-wi-fi-extenders-on-the-market-this-year/"><u>Discover the Most Effective Wi-Fi Extenders on the Market This Year</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-reno-8t-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 8T 5G</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-performance-to-new-heights-with-overclocked-crucial-c36-memory-sticks-a-ddr5-powerhouse-examined/"><u>Taking Performance to New Heights with Overclocked Crucial C36 Memory Sticks – A DDR5 Powerhouse Examined</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-touchscreen-laptops-features-and-reviews/"><u>Ultimate Guide to Premium Touchscreen Laptops - Features & Reviews</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1728463733804-windows/"><u>Windowsパソコン用バックアップツール：タイムマシンと似た機能を持つ</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>[New] How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-choice-5-sound-devices-for-streamers/"><u>[New] Ultimate Choice 5 Sound Devices for Streamers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-launching-educator-channels-10-key-tips-for-youtube-success/"><u>[Updated] Launching Educator Channels 10 Key Tips for YouTube Success</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apc-back-ups-pro-1-va-power-surge-protection-unveiled-abundant-ports-hot-swappable-cells-explained/"><u>APC Back-UPS Pro 1# VA Power Surge Protection Unveiled - Abundant Ports, Hot Swappable Cells Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-chromebook-c202sa-a-reliable-educational-device-tested-by-students-and-children/"><u>Asus Chromebook C202SA - A Reliable Educational Device Tested by Students & Children</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-affordability-and-quality-in-49-lg-um7300-4k-tv-a-consumer-review/"><u>Exploring Affordability and Quality in 49 LG UM7300 4K TV - A Consumer Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/find-your-perfect-match-professional-review-of-the-most-exceptional-17-inch-laptops-in-202/"><u>Find Your Perfect Match: Professional Review of the Most Exceptional 17-Inch Laptops in 202</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-resolved-halo-4-ue4-critical-bug-leading-to-system-failure/"><u>Fixing the [Resolved]: Halo 4 UE4 Critical Bug Leading to System Failure</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-make-a-thumbnail-for-your-youtube-free-easily-in-2024/"><u>How to Make a Thumbnail for Your YouTube Free Easily, In 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/immerse-yourself-in-cosmic-warfare-with-a-critical-review-of-star-wars-squadrons/"><u>Immerse Yourself in Cosmic Warfare with a Critical Review of 'Star Wars: Squadrons'</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/motorola-edgeplus-assessment-not-quite-the-pinnacle-of-high-end-devices/"><u>Motorola Edge+ Assessment: Not Quite the Pinnacle of High-End Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviewing-the-rugged-cat-s42-extensive-armor-but-modest-performance-levels/"><u>Reviewing the Rugged Cat S42: Extensive Armor but Modest Performance Levels</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-on-prime-day-with-metas-splendid-deal-on-the-quest-3-headset-512gb-why-its-a-must-have-now/"><u>Score Big on Prime Day with Meta's Splendid Deal on the Quest 3 Headset (512GB) - Why It's a Must-Have Now!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/us-debut-of-new-nickelodeon-kid-favorite-at-the-annual-kids-choice-ceremony/"><u>U.S. Debut of New Nickelodeon Kid Favorite at the Annual Kids' Choice Ceremony</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-value-of-the-new-apple-watch-se-model/"><u>Unveiling the Value of the New Apple Watch SE Model</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vision-quest-steps-to-secure-your-dream-4k-screen/"><u>Vision Quest Steps to Secure Your Dream 4K Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Phantom V Flip? | Dr.fone</u></a></li>
 </ul></div>
 

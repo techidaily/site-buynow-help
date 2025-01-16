@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Travel-Friendly Speakers : A Comprehensive Guide"
-date: 2025-01-06T18:50:03.468Z
-updated: 2025-01-10T11:04:06.223Z
+date: 2025-01-08T17:24:03.185Z
+updated: 2025-01-15T17:05:00.090Z
 tags:
   - buying-guides
 categories:
@@ -65,12 +65,16 @@ Best Compact Portable Speaker
 
  How-To Geek's product recommendations come from the same team of experts who have helped people fix their gadgets over one billion times. We only recommend the best products based on our research and expertise. We never accept payment to endorse or review a product. [Read More »](https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Portable Speaker Overall: [Sonos Move 2](https://www.amazon.com/gp/aw/d/B0CGGJHZSM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003006&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-portable-speakers%2F&asc%5Fcampaign=Commerce) 
 
 ![Sonos Move 2 sitting on a dirt patch in front of flowers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53197064810_f154131bfd_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -104,16 +108,12 @@ The Sonos Move 2 is a veritable powerhouse among portable speakers and supports 
 
 [See at Amazon](https://www.amazon.com/gp/aw/d/B0CGGJHZSM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003006&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-portable-speakers%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Best Budget Portable Speaker: [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C296VD7T?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003006&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-portable-speakers%2F&asc%5Fcampaign=Commerce) 
 
 ![Sony SRS-XB100](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-srs-xb100.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sony
@@ -137,15 +137,7 @@ Sony
 
 ![Sony SRS-XB100 TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-srs-xb100-tag.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best Budget Portable Speaker
 
@@ -158,12 +150,16 @@ With its diminutive size, the Sony SRS-XB100 is one of the most portable speaker
 [$48 at Amazon](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C296VD7T?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003006&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-portable-speakers%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Portable Speaker: [JBL Xtreme 4](https://uk.jbl.com/bluetooth-speakers/XTREME-4.html?cgid=bluetooth-portables) 
 
 ![JBL Xtreme 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/jbl-xtreme-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 JBL
 
@@ -186,6 +182,10 @@ JBL
 
 ![JBL Xtreme 4 TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/jbl-xtreme-4-tag.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Portable Speaker
@@ -196,13 +196,13 @@ Bring the party with you, with the JBL Xtreme 4\. Featuring powerful, bass-heavy
 
 [See at JBL](https://uk.jbl.com/bluetooth-speakers/XTREME-4.html?cgid=bluetooth-portables) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Best Waterproof Portable Speaker: [UE EPICBOOM](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003006&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-portable-speakers%2F&asc%5Fcampaign=Commerce) 
 
 ![UE EPICBOOM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ue-epicboom.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ultimate Ears 
 
@@ -224,6 +224,10 @@ Ultimate Ears
 ![UE EPICBOOM TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ue-epicboom-tag.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Waterproof Portable Speaker
 
@@ -260,11 +264,11 @@ Tribit
 
 ![Tribit StormBox Flow TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/tribit-stormbox-flow-tag.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Compact Portable Speaker
 
@@ -285,10 +289,6 @@ Indulge in the StormBox Flow outdoor speaker audio experience with distinct voca
  Most portable speakers don't need Wi-Fi to operate, as most of them can connect via Bluetooth to your chosen device. However, connecting your speaker via Wi-Fi will provide you with the benefit of better audio, as there are fewer limitations compared to Bluetooth.
 
  With a Wi-Fi speaker, data can be transferred at much faster speeds than with Bluetooth and isn't subject to the same data compression process as Bluetooth is. However, Wi-Fi speakers require an internet connection to function, whereas Bluetooth speakers do not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can I bring a portable speaker on a plane?
 
@@ -319,17 +319,24 @@ Indulge in the StormBox Flow outdoor speaker audio experience with distinct voca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-teaching-with-video-effective-editing-methods/"><u>[New] In 2024, Teaching with Video Effective Editing Methods</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-cutting-edge-mobile-apps-for-stellar-intros/"><u>[Updated] In 2024, Cutting-Edge Mobile Apps for Stellar Intros</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-itel-a05s-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Itel A05s FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/elevate-your-vr-experience-with-the-essential-oculus-quest-2-elite-carrying-case-unbox-test-and-reveal-proscons/"><u>Elevate Your VR Experience with the Essential Oculus Quest 2 Elite Carrying Case – Unbox, Test & Reveal Pros/Cons!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-s18e-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo S18e FRP Bypass Instantly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-t2-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo T2 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-discounts-on-acer-laptops-and-accessories-during-prime-day-2024/"><u>Top Discounts on Acer Laptops & Accessories During Prime Day 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-spectacular-hdr-imagery-with-sunbriteverandas-durable-55-inch-4k-veranda-television/"><u>Unleash Spectacular HDR Imagery with SunBriteVeranda's Durable 55-Inch 4K Veranda Television</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-apple-homepod-mini-an-expert-review-on-audio-quality-smart-assistant-and-beyond/"><u>Unveiling Apple HomePod Mini: An Expert Review on Audio Quality, Smart Assistant, and Beyond</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-lg-gram-17-stunning-performance-in-an-extremely-lightweight-laptop/"><u>Unveiling the LG Gram 17: Stunning Performance in an Extremely Lightweight Laptop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-truth-an-in-depth-viber-out-app-analysis/"><u>Unveiling the Truth: An In-Depth Viber Out App Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-a-comprehensive-tutorial-for-customizing-video-covers-on-social-media/"><u>[New] In 2024, A Comprehensive Tutorial for Customizing Video Covers on Social Media</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-infinite-save-instagram-stories-secret-weapon/"><u>[New] Infinite Save Instagram Stories' Secret Weapon</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/airpods-max-does-it-justify-its-high-price/"><u>AirPods Max: Does It Justify Its High Price?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/applecareplus-reviewed-assessing-its-true-cost-benefit-ratio/"><u>AppleCare+ Reviewed: Assessing Its True Cost-Benefit Ratio</u></a></li>
+<li><a href="https://win-help.techidaily.com/eliminazione-efficiente-di-file-di-riproduzione-cosa-fare-quando-il-disco-di-backup-e-riempito-su-windows-11/"><u>Eliminazione Efficiente Di File Di Riproduzione: Cosa Fare Quando Il Disco Di Backup È Riempito Su Windows 11?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-evaluating-the-samsung-galaxy-a71-5g-as-a-cost-effective-competitor-to-premium-phones/"><u>Expert Insights: Evaluating the Samsung Galaxy A71 5G as a Cost-Effective Competitor to Premium Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-a-new-era-of-audio-recording-with-tascams-bluetooth-enabled-cd-200bt-review/"><u>Exploring a New Era of Audio Recording with Tascam's Bluetooth-Enabled CD-200BT Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/furbo-leads-the-pack-a-detailed-canine-surveillance-watchdog-analysis/"><u>Furbo Leads the Pack: A Detailed Canine Surveillance Watchdog Analysis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-100-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor 100 to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-focused-communication-tips-for-virtual-teams/"><u>In 2024, Focused Communication Tips for Virtual Teams</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-setup-linking-your-nintendo-account-with-your-3ds-device/"><u>Navigating the Setup: Linking Your Nintendo Account with Your 3DS Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-primary-app-uses-computer-audio-devices/"><u>Resolving Non-Primary App Uses Computer Audio Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewers-take-on-the-ergodyne-topo-pad-a-step-towards-endurance-and-comfort-at-work/"><u>Reviewer's Take on the ErgoDyne Topo Pad: A Step Towards Endurance and Comfort at Work</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-assessment-of-the-lihan-lhfm1039-mastering-bluetooth-connectivity-for-automotive-sound-systems/"><u>The Complete Assessment of the LIHAN LHFM1039: Mastering Bluetooth Connectivity for Automotive Sound Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-recommended-netgear-routers-your-ultimate-guide/"><u>Top Recommended Netgear Routers : Your Ultimate Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-enjoying-pokemon-go-adventures-with-friends/"><u>Ultimate Guide: Enjoying 'Pokémon Go' Adventures with Friends</u></a></li>
 </ul></div>
 

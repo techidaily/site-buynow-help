@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
-date: 2025-01-06T09:37:36.567Z
-updated: 2025-01-10T09:34:03.050Z
+date: 2025-01-15T01:54:20.481Z
+updated: 2025-01-15T23:40:02.275Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _AMD_
@@ -56,7 +60,7 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
@@ -67,10 +71,6 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
@@ -78,7 +78,7 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
@@ -92,7 +92,7 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -126,18 +126,16 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-achieve-financial-success-with-youtube-ad-profit-techniques/"><u>[New] 2024 Approved Achieve Financial Success with YouTube Ad Profit Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-for-efficient-funimate-use/"><u>[New] Expert Strategies for Efficient Funimate Use</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-practical-methods-for-capturing-vimeo-media/"><u>[New] Practical Methods for Capturing Vimeo Media</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-spotify-promotion-strategies-for-effective-ads/"><u>[Updated] Mastering Spotify Promotion Strategies for Effective Ads</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-oneplus-nord-ce-3-5g-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your OnePlus Nord CE 3 5G lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-generative-ai-enhances-search-functions-top-companies-to-watch/"><u>How Generative AI Enhances Search Functions – Top Companies to Watch</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y55s 5G (2023) Phone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/1723016829314-no-audio-in-battlefield-4-discover-the-simple-solution/"><u>No Audio in Battlefield 4? Discover the Simple Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reviewing-the-lamicall-tablet-holder-designed-with-functionality-as-a-focus/"><u>Reviewing the Lamicall Tablet Holder: Designed with Functionality as a Focus</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/showdown-analyzing-the-differences-between-ring-and-nest-doorbells/"><u>Showdown: Analyzing the Differences Between Ring & Nest Doorbells</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ddpai-mini3-breaking-the-mold-for-a-more-enjoyable-dashcam-journey/"><u>The Ddpai Mini3 - Breaking the Mold for a More Enjoyable Dashcam Journey</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-essential-apc-ups-reviews-for-gamers-find-your-perfect-match/"><u>The Essential APC UPS Reviews for Gamers: Find Your Perfect Match</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content-for-2024/"><u>[Updated] Become a Freelance Transcriber Tips and Tricks for YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-command-the-stage-of-youtube-with-studio-skills/"><u>[Updated] Command the Stage of YouTube with Studio Skills</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-of-video-quality-3-key-transcoder-strategies/"><u>[Updated] Pinnacle of Video Quality 3 Key Transcoder Strategies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-gaming-an-in-depth-look-at-the-nintendo-switch-lite/"><u>Budget-Friendly Gaming: An In-Depth Look at the Nintendo Switch Lite</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209559287-9781785358913-divine-meditations/"><u>Divine Meditations | Free Book</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-ready-for-prime-day-best-apple-deals-and-steals-awaiting-you/"><u>Get Ready for Prime Day: Best Apple Deals and Steals Awaiting You</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leaders-lift-off-full-featured-stability-review/"><u>Leader's Lift-Off: Full-Featured Stability Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/masterful-creation-with-the-gaomon-pd1560-ultimate-artists-pen-display-insight/"><u>Masterful Creation with the Gaomon PD1560 - Ultimate Artist’s Pen Display Insight</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/should-i-upgrade-to-macos-monterey/"><u>Should I Upgrade to macOS Monterey?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/silent-setup-success-pairing-your-airpods-with-the-quest-3-headset-tips-and-tricks-zdnet-guide/"><u>Silent Setup Success: Pairing Your AirPods with the Quest 3 Headset – Tips & Tricks | ZDNet Guide</u></a></li>
 </ul></div>
 

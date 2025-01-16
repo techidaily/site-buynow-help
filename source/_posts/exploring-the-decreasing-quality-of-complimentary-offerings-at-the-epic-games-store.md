@@ -1,7 +1,7 @@
 ---
 title: Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store
-date: 2025-01-08T00:56:08.875Z
-updated: 2025-01-10T08:56:22.559Z
+date: 2025-01-09T18:28:30.427Z
+updated: 2025-01-16T02:28:54.593Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Exploring the Decreasing Quality of Complimentary Offerings at the Epic Games Store
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Epic's free game quality has declined from popular titles to less niche offerings, leading to gamer fatigue.
@@ -24,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * While beneficial for building a user base, Epic's tactics may not be sustainable in the long-term.
 
  The Epic Game Store has been offering free games since it first launched in 2018\. Though much of my own game collection comes from the storefront, the quality has been on a steady downward decline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Games Aren't What They Used to Be
 
@@ -33,13 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  A steady drip of niche, free games continued through 2023 and into 2024\. This year, we've seen some dismal free offerings, including in-game items to try to get more people interested in games they already don't care about.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Epic's Free Games Are Repetitive and Lack Variety
 
 ![Screenshot of Epic Games Store browsing page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/156005c5-5.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As someone open to new gaming experiences, I'm always willing to try out something new, assuming it falls into one of the genres I enjoy. Many recent free games fall into this category, like indie puzzlers or management simulators, which do not necessarily appeal to all gamers. While some of them appeal to me, there can be too much of a good thing.
 
@@ -52,7 +52,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![8BitDo Ultimate Controller with 2.4GHz wireless.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8bitdo-ultimate-c-2-4g.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8BitDo
@@ -64,16 +64,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The story's the same in gaming communities around the internet. People collect the free games that then sit there, unplayed, while everyone keeps playing their favorites. It makes one wonder, "Who exactly are these free games for, anyway?"
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  More Marketing, Less Promise
 
 ![A man fanning his money around to &quot;make it rain&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Syda Productions/Shutterstock](https://www.shutterstock.com/image-photo/business-people-success-fortune-concept-happy-309411233?src=library)
 
@@ -94,6 +90,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Epic still seems to be getting some game developers to offer their wares up for free on the platform, driving connection and user engagement. The gains here are a little skewed, with Epic getting the exposure and the studios getting their games into people's libraries (who probably won't play them) and user emails they can market to directly.
 
  The downside is that no one on Epic's side seems to check the quality of these games. While none of them are outright shovelware, a few titles make a gamer raise their eyebrows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Keep Collecting Epic's Free Games?
 
@@ -118,20 +118,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfecting-playback-game-capturing-on-windows-10/"><u>[New] 2024 Approved Perfecting Playback Game Capturing on Windows 10</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ce-your-edits-youtube-studios-time-saving-secrets-revealed-for-2024/"><u>[New] Ace Your Edits YouTube Studio's Time-Saving Secrets Revealed for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-goovision-promax-high-res-os-capturer/"><u>[New] In 2024, GooVision ProMax High-Res OS Capturer</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-step-by-step-guide-turning-your-insta-videos-into-top-notch-mp4/"><u>[Updated] 2024 Approved Step-by-Step Guide Turning Your Insta Videos Into Top-Notch MP4</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-over-150m-accounts-how-google-activated-two-factor-authentication-by-default/"><u>Securing Over 150M Accounts: How Google Activated Two-Factor Authentication by Default</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/temporal-trials-inverting-and-rewinding-your-vids-on-iphone-for-2024/"><u>Temporal Trials Inverting and Rewinding Your Vids on iPhone for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-poco-c55-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Poco C55 Phone Hassle-Free</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-companion-for-mobile-bibliophiles-in-depth-review-of-kobo-clara-hd/"><u>The Perfect Companion for Mobile Bibliophiles: In-Depth Review of Kobo Clara HD</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-significant-effect-of-focusing-on-miles-morales-in-the-latest-spider-man-game/"><u>The Significant Effect of Focusing on Miles Morales in the Latest Spider-Man Game</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-mastering-your-samsung-galaxy-tab-s5es-feature-packed-android-experience/"><u>The Ultimate Guide to Mastering Your Samsung Galaxy Tab S5e's Feature-Packed Android Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-using-your-netgear-c370er-a-closer-look-at-its-modem-capabilities/"><u>The Ultimate Guide to Using Your Netgear C370er - A Closer Look at Its Modem Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-home-theater-computers-a-comprehensive-guide/"><u>Top-Rated Home Theater Computers : A Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshoot-a-broken-tubechop-explore-these-5-effective-alternatives-now/"><u>Troubleshoot a Broken TubeChop? Explore These 5 Effective Alternatives Now!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-distinctions-ipad-vs-ipad-air-a-comprehensive-guide/"><u>Unveiling the Distinctions: IPad Vs. IPad Air – A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cumuluspro-standing-desk-pad-evaluation-your-ultimate-comfortable-workstation/"><u>CumulusPro Standing Desk Pad Evaluation: Your Ultimate Comfortable Workstation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experts-weigh-in-on-the-samsung-galaxy-watch-active-a-revolutionary-approach-to-wellness-tracking/"><u>Experts Weigh in on the Samsung Galaxy Watch Active – A Revolutionary Approach to Wellness Tracking</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-end-of-chatgpt-bypass-methods-a-look-at-7-reasons-why-they-fail/"><u>Exploring the End of ChatGPT Bypass Methods: A Look at 7 Reasons Why They Fail</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gaming-retro-building-pc-a-dual-focus/"><u>Gaming Retro, Building PC – A Dual Focus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nubia-z50s-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nubia Z50S Pro</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-spotting-a-block-snapchat-notifications-gone-mute/"><u>In 2024, Spotting a Block Snapchat Notifications Gone Mute</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-samsung-galaxy-watch3-timeless-style-meets-contemporary-enhancements/"><u>Review of Samsung Galaxy Watch3 - Timeless Style Meets Contemporary Enhancements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-evolution-continues-a-comprehensive-review-of-djis-latest-drone-phantom-4-pro-v20/"><u>The Evolution Continues: A Comprehensive Review of DJI's Latest Drone - Phantom 4 Pro V.2.0</u></a></li>
 </ul></div>
 

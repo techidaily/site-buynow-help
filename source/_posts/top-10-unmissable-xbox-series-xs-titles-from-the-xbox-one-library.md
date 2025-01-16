@@ -1,7 +1,7 @@
 ---
 title: Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library
-date: 2025-01-07T18:09:33.635Z
-updated: 2025-01-10T00:14:07.555Z
+date: 2025-01-12T04:16:23.638Z
+updated: 2025-01-15T21:11:40.650Z
 tags:
   - games
   - tv
@@ -28,10 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Brand-new games arrive on Xbox all the time, so it's easy to forget about the many older Xbox One titles. But there are a ton of last-generation games that are worth playing again on the latest hardward thanks to some big upgrades that overhaul performance, visuals, and even features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 _Halo: The Master Chief Collection_ 
 
 ![The campaign selection screen in Halo: The Master Chief Collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/halo-mcc.png) 
@@ -42,12 +38,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This release received plenty of upgrades for the Series X|S, including variable field of view adjustment, [support for 120 frames per second](https://hardware-tips.techidaily.com/comprehensive-review-of-popular-120mm-aftermarket-cpu-coolers-by-be-quiet-corsair-cooler-master-and-enermax/) for both single and multiplayer, and 4K resolution. It now looks and plays just as well as any modern game, and it's absolutely worth your time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 _The Witcher 3: Wild Hunt_ 
 
 ![The main menu of The Witcher 3: Wild Hunt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/witcher-3-wild-hunt.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I'll be frank: you've been living under a rock if you're a gamer who hasn't heard about _The Witcher 3: Wild Hunt_. This 2015 title is not just one of the best RPGs ever made, but many consider it one of the [best _overall_ games of all time](https://screen-activity-recording.techidaily.com/streamline-control-switch-pro-in-steam-play/), and it holds over 200 game of the year awards to prove it.
@@ -65,10 +65,6 @@ Bethesda Softworks
  There were a lot of ecstatic fans when the _DOOM_ 2016 reboot blew all expectations out of the water and brought the classic franchise back into the limelight. This meant that _DOOM Eternal_ had a ton of hype as well, and thankfully it met all expectations.
 
  It's _DOOM_. It's frenetic, violent, deceptively complex, full of awesome music, and includes a deeper story than most realize. It already looked great on the Xbox One, but it also received an update for the Series X|S, allowing it to look even better and play more smoothly. [If you love fast-paced shooters](https://common-error.techidaily.com/solving-unable-to-connect-issues-with-a-remote-server-a-step-by-step-guide/), _DOOM Eternal_ is worth a look.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 _Star Wars Jedi: Fallen Order_ 
 
@@ -91,12 +87,16 @@ Electronic Arts
  Fighting games aren't for everyone, but if you love _DragonBall_, it's worth a look just for that feeling of practically being in the anime. If you like other 2D fighters but haven't tried _FighterZ_ yet, I'd recommend it just for the team-based fighting system, super moves, and great music (ArcSys really never misses). The main upgrade from the Xbox One version to the X|S version was [the addition of rollback netcode](https://tech-haven.techidaily.com/localizing-your-legal-services-with-an-llm-is-it-worth-it-understanding-pros-and-cons/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 _Hellblade: Senua's Sacrifice_ 
 
 ![The main menu for Hellblade: Senua's Sacrifice.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hellblade.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Hellblade: Senua's Sacrifice_ is not a game that everyone is going to enjoy. Some people think it's like _Dark Souls_, but it's not really. You spend a lot of time walking around, listening to voices in your head and trying to figure out challenging puzzles. Occasionally, you get to fight some nightmarish foes, but it's not really an action game.
 
@@ -108,10 +108,6 @@ _Hellblade: Senua's Sacrifice_ is not a game that everyone is going to enjoy. So
 
 ![Gameplay from Mortal Shell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mortal-shell.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Playstack
 
 [_Elden Ring_ took the world by storm](https://win-solutions.techidaily.com/1722989773154-diablo-ii-resurrected-wont-start-here-are-some-solutions/), and rightfully so. It's arguably the best Souls-like game to date, and honestly, few of its competitors could hope to match it in quality. This includes _Mortal Shell_. But if you enjoy Souls-like games, this one has solid mechanics, a wonderful grim aesthetic, and some unique mechanics.
@@ -120,13 +116,13 @@ Playstack
 
 _Mortal Shell_ has an enhanced edition for the Series X|S, improving its graphical fidelity. If you're looking for a quick but rewarding Souls-like experience, give _Mortal Shell_ a shot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 _Stellaris: Console Edition_ 
 
 ![Gameplay from Stellaris: Console Edition.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/stellaris.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Paradox Interactive
 
@@ -145,12 +141,16 @@ CD Projekt Red
  The good news is that this critically acclaimed title is in a much better state today, and it has a Series X|S version optimized for the newer hardware. It looks better, runs better, plays better, and there's a big DLC expansion available too. So if you avoided [playing _Cyberpunk 2077_](https://some-approaches.techidaily.com/updated-top-10-impressive-srt-converters-for-mac-and-windows/) due to its rough launch, now would be a great time to give it a shot on the Series X|S.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10 _Sea of Thieves_ 
 
 ![Gameplay from Sea of Thieves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/sea-of-thieves.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Microsoft Studios
 
@@ -177,24 +177,18 @@ Microsoft Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-square-it-up-your-complete-guide-to-instagram-ready-videos-in-imovie/"><u>[New] Square It Up! Your Complete Guide to Instagram-Ready Videos in iMovie</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-less-loved-aspects-of-virtual-worlds/"><u>[New] The Less-Loved Aspects of Virtual Worlds</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solution-needed-mp620-printer-not-detected-in-windows-os/"><u>[Solution Needed] MP620 Printer Not Detected in Windows OS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unveiling-the-powerhouse-q500-typhoon/"><u>[Updated] 2024 Approved Unveiling the Powerhouse Q500 Typhoon</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-beginners-guide-to-leveraging-preview-for-advanced-image-manipulation-on-mac/"><u>A Beginner's Guide to Leveraging Preview for Advanced Image Manipulation on Mac</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessing-quality-and-comfort-the-definitive-review-of-microsoft-surface-ergonomic-keyboard/"><u>Assessing Quality and Comfort: The Definitive Review of Microsoft Surface Ergonomic Keyboard</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bargain-tv-wall-mounting-a-low-cost-entertainment-solution/"><u>Bargain TV Wall Mounting: A Low-Cost Entertainment Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/benchmarking-the-asus-rt-ac68u-ultra-fast-and-robust-wi-fi-performance-in-a-5g-world/"><u>Benchmarking the Asus RT-AC68U: Ultra-Fast and Robust Wi-Fi Performance in a 5G World</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-tp-link-re200-ac750-wi-fi-booster-assessment-value-for-money-review/"><u>Budget Friendly TP-Link RE200 AC750 Wi-Fi Booster Assessment: Value for Money Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-powerhouse-apples-ipad-air-4-vs-ipad-pro-a-comprehensive-examination/"><u>Budget-Friendly Powerhouse: Apple's iPad Air 4 Vs. IPad Pro - A Comprehensive Examination</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-the-pros-and-cons-ps5-slim-vs-original-ps5/"><u>Comparing the Pros and Cons: PS5 Slim vs Original PS5</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-viber-out-services-and-user-experience/"><u>Comprehensive Analysis of Viber Out Services and User Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-to-eliminate-keyboard-response-delay-in-windows-11/"><u>Comprehensive Fixes to Eliminate Keyboard Response Delay in Windows 11</u></a></li>
-<li><a href="https://win-webster.techidaily.com/download-videography-hits-at-no-cost-with-the-latest-cliphunter-extension-tool/"><u>Download Videography Hits at No Cost with the Latest ClipHunter Extension Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/getting-paramountplus-up-and-running-again-on-your-firestick-a-step-by-step-guide/"><u>Getting Paramount+ Up and Running Again on Your Firestick - A Step-by-Step Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/412154-9781440696534-the-complete-idiots-guide-to-toltec-wisdom/"><u>The Complete Idiot's Guide to Toltec Wisdom | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-walkthrough-running-kodi-on-windows-10-systems/"><u>Ultimate Walkthrough: Running Kodi on Windows 10 Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-lg-gram-156-inch-2018-the-perfect-blend-of-portability-and-endurance-in-a-laptop/"><u>Unveiling the LG Gram 15.6-Inch (2018) - The Perfect Blend of Portability and Endurance in a Laptop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-isnt-my-pacific-drive-working-diagnose-and-repair-strategies/"><u>Why Isn't My Pacific Drive Working? Diagnose and Repair Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-steps-to-record-with-your-macbooks-camera-for-2024/"><u>[New] Easy Steps to Record with Your MacBook's Camera for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apples-2020-iphone-se-assessed-the-perfect-blend-of-features-and-value/"><u>Apple's 2020 iPhone SE Assessed: The Perfect Blend of Features and Value</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-tablet-for-me-a-detailed-comparison-between-amazon-fire-and-samsung-devices/"><u>Best Tablet for Me: A Detailed Comparison Between Amazon Fire and Samsung Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-smart-file-sorting-in-the-latest-windows-11/"><u>Discover Smart File Sorting in the Latest Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/efficiently-managing-soundscape-with-soundcores-budget-friendly-life-q30/"><u>Efficiently Managing Soundscape with Soundcore's Budget-Friendly Life Q30</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eight-effective-ways-to-restore-touchscreen-functionality-on-your-tablet/"><u>Eight Effective Ways to Restore Touchscreen Functionality on Your Tablet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-discounts-on-economical-gopro-cameras/"><u>In 2024, Exclusive Discounts on Economical GoPro Cameras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-oneplus-9-pro-unmatched-style-performance-and-photography-experience/"><u>In-Depth Analysis of OnePlus 9 Pro: Unmatched Style, Performance & Photography Experience</u></a></li>
+<li><a href="https://win-bits.techidaily.com/planen-sie-ihre-wochentliche-windows-server-backup-eine-einfache-schritt-fur-schritt-anleitung/"><u>Planen Sie Ihre Wöchentliche Windows-Server-Backup – Eine Einfache Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-samsung-galaxy-a20-affordable-quality-in-a-smartphone/"><u>The Complete Guide to Samsung Galaxy A20: Affordable Quality in a Smartphone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-fundamentals-of-navigating-youtube-regulations-for-2024/"><u>The Fundamentals of Navigating YouTube Regulations for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sh-your-creative-brand-selecting-one-of-a-kind-channel-titles/"><u>Unleash Your Creative Brand Selecting One-of-a-Kind Channel Titles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-contrast-apples-ipad-pro-vs-microsoft-surface-pro-explored/"><u>Unveiling the Contrast: Apple's iPad Pro Vs. Microsoft Surface Pro Explored</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2025-01-08T11:49:25.386Z
-updated: 2025-01-09T21:44:38.901Z
+date: 2025-01-12T00:08:47.404Z
+updated: 2025-01-16T03:32:44.682Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -84,13 +88,13 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -99,16 +103,12 @@ Jerome Thomas / How-To Geek
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -126,16 +126,12 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -161,6 +157,10 @@ Jerome Thomas / How-To Geek
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -193,21 +193,16 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-revolutionize-your-gaming-by-recording-on-win10/"><u>[New] 2024 Approved Revolutionize Your Gaming by Recording on Win10</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-the-power-of-visual-content-share-vids-on-facebook/"><u>[New] 2024 Approved Unlocking the Power of Visual Content Share Vids on Facebook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-download-dos-and-donts-for-vrecorder-for-2024/"><u>[New] Download Dos & Don’ts for VRecorder for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-twitch-livestream-hacks-to-boost-engagement-and-followers/"><u>[New] Twitch Livestream Hacks to Boost Engagement and Followers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-best-of-breed-snapchat-augmentations-await/"><u>[Updated] Best of Breed Snapchat Augmentations Await</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-ps5-upgrades-the-best-9-add-ons/"><u>Essential PS5 Upgrades: The Best 9 Add-Ons</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>In 2024, The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/reclaim-control-from-mobile-disruptions-discover-these-4-strategies-for-a-focused-tech-free-life/"><u>Reclaim Control From Mobile Disruptions: Discover These 4 Strategies for a Focused Tech-Free Life</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-mobile-wi-fi-companion-tp-link-wr902ac-travel-router-for-frequent-flyers/"><u>The Perfect Mobile Wi-Fi Companion: TP-Link WR902AC Travel Router for Frequent Flyers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-arlo-video-doorbells-evaluated-seamless-integration-of-surveillance-and-intrusion-notifications/"><u>Top Arlo Video Doorbells Evaluated: Seamless Integration of Surveillance and Intrusion Notifications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-samsung-electronics-bargains-during-prime-shopping-event/"><u>Top Samsung Electronics Bargains During Prime Shopping Event</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-giant-a-thorough-review-and-assessment-of-the-iphone-12-pro-max/"><u>Unboxing the Giant: A Thorough Review and Assessment of the iPhone 12 Pro Max</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wi-fi-mesh-is-its-value-clear/"><u>Wi-Fi Mesh: Is Its Value Clear?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wifi-router-faceoff-can-tp-link-archer-ax6000-outshine-nighthawk-ax12-in-depth-review-analysis/"><u>WiFi Router Faceoff: Can TP-Link Archer AX6000 Outshine Nighthawk AX12? In-Depth Review Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/zte-blade-a3y-on-a-budget-comprehensive-handset-evaluation-and-insights/"><u>ZTE Blade A3Y on a Budget: Comprehensive Handset Evaluation & Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-macos-sierra-integration-techniques/"><u>[New] Seamless MacOS Sierra Integration Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-class-and-functionality-in-the-flexispot-theodore-an-in-depth-look-at-todays-trendy-standing-desks/"><u>Exploring Class and Functionality in the Flexispot Theodore: An In-Depth Look at Today's Trendy Standing Desks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-inexpensive-2019-kindle-from-amazon-measures-up-readers-guide/"><u>How The Inexpensive 2019 Kindle From Amazon Measures Up: Reader's Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-guide-to-streamline-yt-playlist-integration-in-htmlcss/"><u>In 2024, Guide to Streamline YT Playlist Integration in HTML/CSS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-a59-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo A59 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 11 Pro 3 Ways To Unlock</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-depth-review-vrs-winning-features-and-faults/"><u>In-Depth Review VR's Winning Features & Faults</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-mophie-ac-powerstation-review-is-it-worth-its-premium-cost/"><u>Inside the Mophie AC Powerstation Review: Is It Worth Its Premium Cost?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kensuns-mobile-air-pump-reviewed-unyielding-performance-meets-convenience-on-wheels/"><u>Kensun's Mobile Air Pump Reviewed: Unyielding Performance Meets Convenience on Wheels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-highest-quality-karaoke-devices/"><u>Ultimate Guide to the Highest Quality Karaoke Devices</u></a></li>
 </ul></div>
 

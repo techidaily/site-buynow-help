@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept"
-date: 2025-01-08T22:16:23.500Z
-updated: 2025-01-09T16:15:21.372Z
+date: 2025-01-13T17:14:18.384Z
+updated: 2025-01-16T03:11:49.138Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ## Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
  Have you got backlog dread? Do you stare at your pile of games forlornly as you swipe your credit card once again to put even more on the pile? I'm here to tell you that your "backlog" shouldn't be weighing you down.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What’s This “Backlog” Stuff?
 
  The word "backlog" implies a couple of things, but the most pertinent things that pop into my head are "work" and "obligation." You might have a backlog of reports to work through, or a backlog of videos to edit. It's something you are obligated to do, and you're behind! So you can't really ever rest until that backlog is cleared. Applying that concept to your collection of video games feels fundamentally wrong.
 
  Games are entertainment, not an obligation. So it might be better psychologically-speaking, to stop thinking of your video game collection as a "backlog" in the first place!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Backlogs Are a Rainy-Day Blessing
 
@@ -46,11 +46,11 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Don’t Have to Finish All Your Games
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Did I waste my time playing them? No! They were fun while they lasted, and I enjoyed my time with them, but just like any healthy relationship, you need to know when the right time is to walk away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don’t Let the Sunk Cost Fallacy Stop Your Fun
@@ -88,24 +88,19 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-audio-capture-essentials-mastering-mac-setup/"><u>[Updated] In 2024, Audio Capture Essentials Mastering Mac Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-choosing-video-aspect-ratios/"><u>2024 Approved The Essential Guide to Choosing Video Aspect Ratios</u></a></li>
-<li><a href="https://article-posts.techidaily.com/beauty-tips-and-tricks-collection/"><u>Beauty Tips & Tricks Collection</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-power-of-precision-in-audio-explore-klipschs-flexus-200/"><u>Discover the Power of Precision in Audio: Explore Klipsch's Flexus 200</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-powerhouse-within-in-depth-zmi-powerpack-20000-portable-charger-review/"><u>Discover the Powerhouse Within: In-Depth ZMI PowerPack 20000 Portable Charger Review!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-beantech-bitwatch-s1-plus-a-riveting-review-of-a-budget-friendly-smartwatch/"><u>Discovering the Beantech Bitwatch S1 Plus - A Riveting Review of a Budget-Friendly Smartwatch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-dynamic-duo-of-teamwork-and-parkour-in-dying-light-a-comprehhavioural-review/"><u>Discovering the Dynamic Duo of Teamwork and Parkour in 'Dying Light': A Comprehhavioural Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dissecting-godfall-for-ps5-a-missed-opportunity-in-gaming-originality/"><u>Dissecting Godfall for PS5: A Missed Opportunity in Gaming Originality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dji-air-2s-dominance-an-in-depth-review-of-the-premier-drone-experience/"><u>DJI Air 2S Dominance: An In-Depth Review of the Premier Drone Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/engaging-deep-dive-into-arlos-advanced-home-safety-tech/"><u>Engaging Deep Dive Into Arlo's Advanced Home Safety Tech</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-next-gen-gaming-with-the-samsung-q6er-series-qled-ultra-hd-television/"><u>Experience Next-Gen Gaming with the Samsung Q6er Series QLED Ultra HD Television</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-waterscapes-like-never-before-with-insta360-x2/"><u>Experience Waterscapes Like Never Before with Insta360 X2</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/g-for-everyone-accessible-channels/"><u>Gaming for Everyone Accessible Channels</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-google-pixel-8-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Google Pixel 8 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimal-windows-service-reactivation/"><u>Optimal Windows Service Reactivation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/pet-cube-revolutionizes-long-distance-animal-care/"><u>Pet Cube Revolutionizes Long-Distance Animal Care</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-issues-with-the-steelseries-gg-engine-in-windows/"><u>Troubleshooting Guide: Fixing Issues with the SteelSeries GG Engine in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-the-program-compatibility-troubleshooter-on-windows-11-and-how-do-you-use-it/"><u>What Is the Program Compatibility Troubleshooter on Windows 11, and How Do You Use It?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-gamers-eden-record-without-paying-in-24-for-2024/"><u>[New] Gamers' Eden Record Without Paying in '24 for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfecting-instagram-the-art-of-caption-placement/"><u>[Updated] Perfecting Instagram The Art of Caption Placement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-z3-plus-dashcam-from-z-edge-a-comprehensive-review/"><u>Affordable Z3 Plus Dashcam From Z-Edge - A Comprehensive Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-poco-m6-pro-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Poco M6 Pro 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-samsung-cf591-assessment-ideal-choice-for-gamers/"><u>Comprehensive Samsung CF591 Assessment: Ideal Choice for Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/conquer-and-rule-discover-the-thrills-of-imperator-rome/"><u>Conquer and Rule: Discover the Thrills of Imperator: Rome</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-typing-to-tech-marvels-inside-look-at-the-raspberry-pi-400-keyboard-pc/"><u>From Typing to Tech Marvels: Inside Look at the Raspberry Pi 400 Keyboard PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-five-must-play-street-fighter-clones/"><u>In 2024, Five Must-Play Street Fighter Clones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-14-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi 14? Fixed | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-photoscapes-capabilities-as-a-gratis-image-editing-tool/"><u>In-Depth Analysis of PhotoScape's Capabilities as a Gratis Image Editing Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamline-your-playback-the-ultimate-guide-to-roblox-replays-on-a-mac-for-2024/"><u>Streamline Your Playback The Ultimate Guide to Roblox Replays on a Mac for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-2020-apple-macbook-pro-with-m1-a-groundbreaking-review-of-performance-and-design/"><u>The 2020 Apple MacBook Pro with M1: A Groundbreaking Review of Performance and Design</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-best-imessage-games-to-play/"><u>Top 7 Best iMessage Games to Play</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-airpod-microphone-problems-on-microsofts-operating-system/"><u>Troubleshooting AirPod Microphone Problems on Microsoft's Operating System</u></a></li>
 </ul></div>
 

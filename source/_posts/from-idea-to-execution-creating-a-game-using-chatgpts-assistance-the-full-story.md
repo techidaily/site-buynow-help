@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story"
-date: 2025-01-04T05:40:42.175Z
-updated: 2025-01-10T09:27:47.718Z
+date: 2025-01-12T00:44:00.512Z
+updated: 2025-01-16T03:19:02.669Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 ## From Idea to Execution: Creating a Game Using ChatGPT's Assistance – The Full Story
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  When I discovered ChatGPT, the first thing I wanted to do was see if I could use it in game development. As always, ChatGPT is eager to help and almost feels like the world's most into-it intern.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Can ChatGPT Code a Game for You?
 
 ![ChatGPT gives me a list of ideas that I could potentially make into a game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-1.png) 
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
  A game engine is what a developer uses to create a game. Several game engines are available, including [Unreal Engine](https://www.unrealengine.com/en-US), [Godot](https://godotengine.org/), and [Unity](https://unity.com/). As someone who knows Unity well, I decided to use this as my development engine. I asked a few general questions (that I know the answer to) to ensure that [ChatGPT wouldn't start hallucinating](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) about my game engine.
 
 ![ChatGPT describes the steps in building a player character](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-seems-to-know-some-stuff-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After sorting out that it at least knew what it was doing, I decided to give the framework for my project, which included:
 
@@ -86,15 +78,15 @@ public class Projectile : MonoBehaviour
     
  Notably, it gave me well-commented code so I could follow along as a beginner programmer. Many places suggest that you could [learn to code using AI](https://learntocodewith.me/resources/ai-coding/), and the inclusion of well-commented code is part of that. You won't have to worry if there are errors in your code if you can trace them comment by comment. However, when using GPT to build a game, I encountered several issues that would defeat a newcomer to game development.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  ChatGPT Is Far From Perfect
 
  LLMs are only as good (or as bad) as the prompts the user gives them. For example, a user could easily [generate anime-type characters with MidJourney](https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/) by including a few words to clarify the prompt's end result. However, when building a game with ChatGPT, I found that there were times when the engine simply didn't pick up what I was putting down.
 
 ![An error happens that I can't seem to figure out, so I ask GPT for help](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-wild-unexpected-behavior-appears.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this example, I encountered an issue with spawning my projectiles, with all the "bullets" being deflected when the player moves. While this could create some interesting play patterns, I decided to ask it to fix the problem, and it suggested a fix. Unfortunately, the fix didn't work.
 
@@ -106,6 +98,10 @@ public class Projectile : MonoBehaviour
 
  I eventually put together the game using a few suggestions from GPT about the persistent score as well as the random generation algorithm and scrolling for the game background. You can [play the final game here](https://zandoliearts.itch.io/the-unfriendly-skies).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Does It Work With Other Game Engines?
 
  I know ChatGPT was very good with Unity once I could sort out some of the issues I ran into above. However, I wondered how coding a game with ChatGPT would work for a less-popular engine like Godot. I'm not exactly an expert in Godot, having used it far less than I did Unity. I decided to ask ChatGPT a few questions:
@@ -116,10 +112,6 @@ GPT's Godot Problem
 
  For those who use Godot regularly, the issue is immediately obvious. ChatGPT stopped learning in 2021 or thereabouts (at least for the free version). The script GPT gave me was based on its knowledge of Godot 2.x, which is a heavily outdated version of the current 4.x version. The glaring problem is the use of KinematicBody2D, which was replaced by CharacterBody2D in later iterations of the language.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Much Skill Do You Need to Code a Game With ChatGPT?
 
  If you're considering making the next Legend of Zelda: Breath of the Wild using ChatGPT, you should probably temper your expectations. You need to have a decent understanding of the engine you're working in to use ChatGPT as a coding assistant.
@@ -128,9 +120,17 @@ GPT's Godot Problem
 
  In simpler language, you know what the game you're making should look like and how things in it should behave. You can explain it to ChatGPT what you want, and it will give you something close to (but not quite) what your game needs. To make it behave the way you want it to, you'll have to fiddle around with the code that GPT gives you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Code a Game With ChatGPT?
 
 ![Screenshot of My Game's Title Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-1-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Game development is a complex field, but thanks to engines like those mentioned above, it is much more approachable for the general public. A skilled developer could spend a few hours putting together a game that works and has all the things they want in it.
 
@@ -162,18 +162,24 @@ GPT's Godot Problem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-how-to-make-every-discord-livestree-a-timeless-treasure/"><u>[Updated] How to Make Every Discord Livestree a Timeless Treasure</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>2024 Approved Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-backdrop-swap-selection-roundup/"><u>Cutting-Edge Backdrop Swap Selection Roundup</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-gionee-f3-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Gionee F3 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-s23plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy S23+ to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamlined-scheduling-making-the-most-of-zoom-calls/"><u>In 2024, Streamlined Scheduling Making the Most of Zoom Calls</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/overcooked-user/"><u>Overcooked! # User</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/primetrackings-small-gps-tracker-unmatched-performance-at-tiny-size-user-testimonials-and-ratings/"><u>PrimeTracking's Small GPS Tracker: Unmatched Performance at Tiny Size – User Testimonials and Ratings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/secure-the-best-oneplus-limited-time-offer-for-your-tech-essentials/"><u>Secure the Best OnePlus Limited-Time Offer for Your Tech Essentials!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722863532420-step-by-step-guide-setting-up-your-oculus-questquest-account/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest #Account</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-assessing-ankers-roav-dashcam-c1-performance-and-features/"><u>The Complete Guide to Assessing Anker's Roav DashCam C1 Performance and Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-netgear-routers-for-enhanced-connectivity/"><u>The Premier Selection of Netgear Routers for Enhanced Connectivity</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/wiederherstellung-von-daten-auf-einem-nicht-formatierten-usb-stick-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Daten Auf Einem Nicht Formatierten USB-Stick - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-6-clearcut-android-recorder-options-no-ads/"><u>[New] 2024 Approved Top 6 Clearcut Android Recorder Options (No Ads)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-demystifying-t-series-income-streams-via-youtube-platforms/"><u>[New] Demystifying T-Series Income Streams via YouTube Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-take-screenshots-of-pc-games-6-methods/"><u>[New] In 2024, How to Take Screenshots of PC Games [6 Methods]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-civ-6-not-launching-on-windows-10/"><u>[SOLVED] Civ 6 Not Launching on Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-slomotion-app-an-exhaustive-evaluation/"><u>[Updated] 2024 SloMotion App An Exhaustive Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-value-computers-the-ultimate-guide-to-the-acer-aspire-e-15/"><u>Best Value Computers: The Ultimate Guide to the Acer Aspire E 15</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deep-dive-into-madden-19-superior-modules-but-beginning-to-wear-out/"><u>Deep Dive Into Madden 19: Superior Modules, But Beginning to Wear Out</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-farm-frontier-favorites-similar-titles-galore/"><u>In 2024, Farm Frontier Favorites Similar Titles Galore</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-harmonious-blends-using-fades-in-logic-pro-x/"><u>In 2024, Harmonious Blends Using Fades in Logic Pro X</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-vivo-y100i-power-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y100i Power 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723082155548-maximize-your-safety-on-the-road-with-the-pruveeo-1080p-full-hd-action-camera-reviews-inside/"><u>Maximize Your Safety on the Road with the Pruveeo 1080P Full HD Action Camera - Reviews Inside!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-totobay-wake-up-light-second-generation-top-affordable-option/"><u>Review of the Totobay Wake-Up Light, Second Generation - Top Affordable Option</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-qled-q60r-smart-tv-4k-gaming-experience-review/"><u>Samsung QLED Q60R Smart TV 4K Gaming Experience Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-mp3-to-cd-conversion-for-home-users-on-windows-via-imgburn/"><u>Streamlining Mp3 to CD Conversion for Home Users on Windows via ImgBurn</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-oneplus-8t-examined-swift-speed-tainted-by-flawed-photography/"><u>The OnePlus #8T Examined: Swift Speed Tainted by Flawed Photography</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-mouse-picks-for-2/"><u>Top-Rated Wireless Mouse Picks for 2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-gamings-hidden-treasures-a-deep-dive-into-exceptional-portable-game-units-of-2024/"><u>Unveiling Gaming's Hidden Treasures: A Deep Dive Into Exceptional Portable Game Units of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-a-comprehensive-look-at-the-seriously-clever-ring-doorbell-pro/"><u>Unveiling the Features: A Comprehensive Look at the Seriously Clever Ring Doorbell Pro</u></a></li>
 </ul></div>
 

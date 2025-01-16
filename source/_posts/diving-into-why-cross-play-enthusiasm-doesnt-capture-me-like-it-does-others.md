@@ -1,7 +1,7 @@
 ---
 title: Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
-date: 2025-01-07T18:10:04.215Z
-updated: 2025-01-10T09:13:40.216Z
+date: 2025-01-10T04:25:51.684Z
+updated: 2025-01-15T22:02:32.373Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Diving Into Why Cross-Play Enthusiasm Doesn’t Capture Me Like It Does Others
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Playing cross-platform means less wait time in matchmaking lobbies, making it easier to find a game.
@@ -20,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * To avoid issues with cross-play, many games allow you to turn it off in the settings if needed.
 
  Remember when cross-platform multiplayer gaming was something we all wanted? Now that we've got it, I don't think it's panned out exactly how I expected. Here's why I'm so far unimpressed by cross-platform gaming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Cross-Platform Multiplayer Offers Gamers
 
@@ -29,16 +37,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Probably the best thing about cross-platform multiplayer is that it [allows me to play with friends](https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/) who don't game on their PC. Nothing is as satisfying as jumping into _Monster Hunter: Rise_ to play alongside my Nintendo Switch compatriots while using my PC. It also saves me from having to spend another $60 to get the game for Switch just to play with those friends. Despite these benefits, however, there are a few things that are less than stellar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Controller Mis-Matching and Aim Assist
 
 ![mouse keyboard controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/mouse-keyboard-controller.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
@@ -61,10 +65,6 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
  Toxic gaming communities exist all over, but there's a lot of vitriol for console players playing what's seen as a PC title. This might be due to several factors, but there's no reason for the hate. Controllers and mouse-and-keyboard players can co-exist peacefully. However, this divide wouldn't exist if cross-play wasn't a thing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Problems That Impact Competitive Play
 
  For friendly, co-op games, having latency issues or control scheme bias isn't such a huge issue. However, for other games that have a healthy competitive scene, this could be a terrible thing to deal with.
@@ -77,6 +77,10 @@ Jason Montoya / Hannah Stryker / Andrew Heinzman / How-To Geek
 
 ![A Razer Firefly V2 Pro gaming mouse on a light-up mouse pad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/gaming-mouse-on-therazer-firefly-v2-pro_53678776130_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  As a PC player, it gets very difficult to keep up with my console friends when they're running marathon sessions. My keyboard-and-mouse is great for accuracy and precision, but after a while, carpal tunnel syndrome starts setting in. Meanwhile, my console friends are just getting started with their comfy controllers for the next four hours. This downside is something a lot of friend groups have to deal with when cross-platform gaming is considered.
@@ -85,13 +89,13 @@ Jerome Thomas / How-To Geek
 
  The easy solution to this is to get a controller to play alongside your console friends. In that case, you'll have the best of all worlds, and don't need to worry about the downside of getting tired before they do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Few Other Considerations
 
 ![Several electronic devices sharing the same screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/cross-platform-computer-smartphone-gaming.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-illustration-on-theme-cross-platform-1335072044)_
 
@@ -100,10 +104,6 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
  Gameplay in cross-platform titles requires a bit more work on the developer's part. The reason so many games traditionally lacked this functionality is because of how much work goes into porting games between hardware, including testing for compatibility across platforms. It's very likely updates may cause a game to become unplayable on one platform or another.
 
  Another issue is communication in team games. In many cases, voice chat is the go-to for communication and coordination in some team-based titles. While PC gamers typically hop in with their headsets connected, many console gamers don't use headsets. This makes it hard to communicate and coordinate effectively, leading to a severe disadvantage for one team.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You Can Always Turn Off Cross-Play
 
@@ -126,20 +126,21 @@ _[Vik Kay/Shutterstock.com](https://www.shutterstock.com/image-vector/isometric-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-strategic-pathway-to-podcast-popularity-with-effective-seo-techniques/"><u>[New] 2024 Approved The Strategic Pathway to Podcast Popularity with Effective SEO Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-top-picks-most-fancied-and-watched-prime-originals/"><u>[New] Twitter's Top Picks Most Fancied & Watched Prime Originals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-unseen-ui-techniques-for-newcomers/"><u>2024 Approved Ultimate Unseen UI Techniques for Newcomers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/examining-the-combination-of-robustness-and-affordability-in-fintie-cases-for-macbook-pro-13/"><u>Examining the Combination of Robustness & Affordability in Fintie Cases for MacBook Pro 13</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-lg-k51-attractive-aesthetics-overpowered-by-lagging-cpu-speed/"><u>In-Depth Review of the LG K51: Attractive Aesthetics Overpowered by Lagging CPU Speed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insightful-review-on-twelve-south-compass-pro-masterfully-designed-for-optimal-balance/"><u>Insightful Review on Twelve South Compass Pro: Masterfully Designed for Optimal Balance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/journey-through-soundscapes-value-in-paww-wavesound-3-gear/"><u>Journey Through Soundscapes: Value in Paww Wavesound 3 Gear</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kid-friendly-nickwatch-premieres-in-america-on-kids-choice-awards-night/"><u>Kid-Friendly NickWatch Premieres in America on Kids' Choice Awards Night</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-cell-phone-packages-for-seniors-ranked-exclusive-picks/"><u>Leading Cell Phone Packages for Seniors Ranked: Exclusive Picks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-connectivity-with-tp-link-re200-ac750-range-extender-a-review/"><u>Maximizing Connectivity with TP-Link RE200 AC750 Range Extender: A Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigate-to-high-speed-top-cable-modems-elevating-connectivity/"><u>Navigate to High Speed: Top Cable Modems Elevating Connectivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-lowering-cpu-intensity-in-gaming-windows/"><u>Solutions for Lowering CPU Intensity in Gaming Windows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unveiling-best-free-user-friendly-srt-translators-online/"><u>Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-pinnacle-playbook-perfecting-the-art-of-live-thumbnail-design/"><u>[New] The Pinnacle Playbook Perfecting the Art of Live Thumbnail Design</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-proven-steps-to-elevate-webinar-video-quality-for-2024/"><u>[Updated] Proven Steps to Elevate Webinar Video Quality for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-enhancing-microsoft-onenote-with-onetastic-add-in/"><u>Comprehensive Evaluation: Enhancing Microsoft OneNote with Onetastic Add-In</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-sony-walkman-nw-ws623s-design-flaws/"><u>Evaluating Sony Walkman NW-WS623's Design Flaws</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exceptional-value-in-a-gamers-rig-an-in-depth-review-of-the-dell-g5-5090-with-plenty-of-options-to-suit-any-player/"><u>Exceptional Value in a Gamer's Rig: An In-Depth Review of the Dell G5 5090 with Plenty of Options to Suit Any Player</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-motorola-razr-40-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Motorola Razr 40</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metaverse-passage-premier-vr-equipment-showcase/"><u>Metaverse Passage Premier VR Equipment Showcase</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-value-tablet-on-the-market-an-in-depth-review-of-apples-latest-8th-generation-10n-inch-ipad/"><u>The Best Value Tablet on the Market: An In-Depth Review of Apple's Latest 8Th Generation 10.n-Inch iPad!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-trouble-free-opening-of-csgo-on-windows-11/"><u>Tips for Trouble-Free Opening of CS:GO on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-photo-viewer-apps-para-usar-en-windows-10/"><u>Top Rated Photo Viewer Apps Para Usar en Windows 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-the-perfect-ups-our-expert-picks/"><u>Ultimate Guide to Choosing the Perfect UPS : Our Expert Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-premium-access-to-upcoming-apple-vision-pro-tools-with-testflight-a-comprehensive-guide/"><u>Unlock Premium Access to Upcoming Apple Vision Pro Tools with TestFlight - A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-capabilities-of-blinks-weatherproof-waterfall-light-with-four-cameras/"><u>Unpacking the Capabilities of Blink's Weatherproof Waterfall Light with Four Cameras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-hidden-joys-within-pokemon-shining-pearl-journey/"><u>Unveiling Hidden Joys Within Pokémon Shining Pearl Journey</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/why-the-iphone-16-pro-is-my-top-pick-over-the-max-in-apples-latest-lineup-insights/"><u>Why the iPhone 16 Pro Is My Top Pick Over the Max in Apple's Latest Lineup - Insights</u></a></li>
 </ul></div>
 

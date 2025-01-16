@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Dream: Experience Baldur's Gate 3 with David Attenborough Using Advanced Voice Mod Technology"
-date: 2025-01-08T02:50:03.829Z
-updated: 2025-01-09T23:38:58.145Z
+date: 2025-01-14T17:59:26.387Z
+updated: 2025-01-15T19:32:03.098Z
 tags:
   - games
   - tv
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
  Thanks to AI, we're seeing some truly out-there mods for games, and one of the most impressive might be one that swaps out the Baldur's Gate 3 narrator for a voice that almost (but not quite) sounds like Sir David Attenborough. Here's how to try it for yourself.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What You Need
@@ -47,15 +47,15 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step 1: Open the Mod Manager
 
  With the mod manager file unzipped, open the folder and run BG3ModManager.exe. You should see this program window open. It looks a little complicated, but we're going to follow a very basic process.
 
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 2: Import the Mod Fixer
 
@@ -68,16 +68,12 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 4: Export Mod Order
 
@@ -90,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This means we're ready to go!
@@ -113,6 +109,10 @@ Your browser does not support the video tag.
 
 ![BG3 mod deletion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-deletion-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see two check boxes. Make sure the permanent deletion box is checked if you want to remove the mod files completely. Otherwise, simply leave the box to remove the mod from the load order checked. Then confirm your choice. Finally, export the mod order to the game again.
 
  Now the original narrator should be back, and in my testing, this did not affect my save games. However, keep in mind that certain mods may make save games impossible to use with the vanilla game! If you want to know more about PC gaming mods in general, check out my [modding primer](https://facebook-clips.techidaily.com/2024-approved-streaming-aerial-adventures-on-fb-from-dji-drone/) and if you're interested in AI technology in video games, you might want to see how [AI will change game development](https://some-guidance.techidaily.com/2024-approved-the-evolved-2023-samsung-bd-j5900-a-deep-dive/).
@@ -132,17 +132,18 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>[New] In 2024, TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-innovators-behind-vr-spectacles/"><u>[Updated] Innovators Behind VR Spectacles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/barnes-and-nobles-nook-glowlight-ereader-review-your-perfect-book-companion-in-the-dark/"><u>Barnes & Noble's Nook GlowLight eReader Review: Your Perfect Book Companion in the Dark</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/broadcast-your-previous-video-a-guide-to-live-streaming-on-facebook/"><u>Broadcast Your Previous Video A Guide to Live-Streaming on Facebook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bt-d11-by-beatit-a-comprehensive-review-of-the-robust-jump-starter/"><u>BT-D11 by Beatit: A Comprehensive Review of the Robust Jump Starter</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-12-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/capitalize-on-prime-day-savings-top-picks-for-high-performance-benq-tech/"><u>Capitalize on Prime Day Savings: Top Picks for High-Performance BenQ Tech</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-enhanced-security-with-ring-doorbell-proplus/"><u>Comprehensive Evaluation of Enhanced Security with Ring Doorbell Pro+</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-one-of-a-kind-ai-pictures-using-microsofts-innovative-image-creator-tool/"><u>Crafting One-of-a-Kind AI Pictures Using Microsoft's Innovative Image Creator Tool</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-asus-proart-4k-ultra-a-pro-artists-dream-display/"><u>In 2024, ASUS ProArt 4K Ultra A Pro Artist's Dream Display</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-mscorwksdll-error-comprehensive-guide-to-restoring-the-missing-dll-file/"><u>Resolving mscorwks.dll Error: Comprehensive Guide to Restoring the Missing DLL File</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-seamless-youtube-editing-the-ultimate-finalcut-pro-guidebook/"><u>[New] In 2024, Seamless YouTube Editing The Ultimate FinalCut Pro Guidebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-social-sensation-strategies-crafting-fbs-topmusicvideos/"><u>[New] In 2024, Social Sensation Strategies - Crafting FB's #TopMusicVideos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-15-best-game-recording-software-for-youtuber-for-2024/"><u>[Updated] 15 Best Game Recording Software for YouTuber for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-global-earning-creator/"><u>[Updated] The Ultimate Global Earning Creator</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/at-lp120xusb-a-vinyl-enthusiasts-dream-digitalizer/"><u>AT-LP120XUSB: A Vinyl Enthusiast’s Dream Digitalizer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-stylish-and-mighty-apple-imac-4k-desktop-reviews-and-insights/"><u>Comprehensive Guide to the Stylish & Mighty Apple iMac 4K Desktop - Reviews and Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722940798974-dive-into-the-world-of-yakuza-like-a-dragon-a-captivating-jrpg-you-ought-to-play-now/"><u>Dive Into the World of Yakuza: Like a Dragon - A Captivating JRPG You Ought to Play Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-unveiling-the-power-of-playstation-4-pros-ultra-hd-capabilities/"><u>Expert Analysis: Unveiling the Power of PlayStation 4 Pro's Ultra HD Capabilities</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-best-tvs-to-accompany-your-highest-rated-consoles/"><u>In 2024, Best TVs to Accompany Your Highest Rated Consoles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/introducing-the-latest-evolution-19-fresh-additions-to-tcls-q-and-s-series-of-intelligent-displays/"><u>Introducing the Latest Evolution - 19 Fresh Additions to TCL's Q and S Series of Intelligent Displays</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/michael-kors-access-gen-5e-the-ultimate-guide-reviews-features-and-style/"><u>Michael Kors Access Gen 5E: The Ultimate Guide - Reviews, Features & Style</u></a></li>
+<li><a href="https://video-capture.techidaily.com/nanograbby-evaluation-of-tiny-screen-captures-for-2024/"><u>NanoGrabby Evaluation of Tiny Screen Captures for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-digital-sketching-a-complete-guide-to-the-huion-kamvas-gt-191-tablet/"><u>Revolutionizing Digital Sketching: A Complete Guide to the Huion Kamvas GT-191 Tablet</u></a></li>
 </ul></div>
 
