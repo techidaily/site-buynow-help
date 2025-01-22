@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Dream: Experience Baldur's Gate 3 with David Attenborough Using Advanced Voice Mod Technology"
-date: 2025-01-14T17:59:26.387Z
-updated: 2025-01-15T19:32:03.098Z
+date: 2025-01-15T08:24:07.935Z
+updated: 2025-01-22T05:10:19.964Z
 tags:
   - games
   - tv
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
  Thanks to AI, we're seeing some truly out-there mods for games, and one of the most impressive might be one that swaps out the Baldur's Gate 3 narrator for a voice that almost (but not quite) sounds like Sir David Attenborough. Here's how to try it for yourself.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What You Need
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 1: Open the Mod Manager
 
  With the mod manager file unzipped, open the folder and run BG3ModManager.exe. You should see this program window open. It looks a little complicated, but we're going to follow a very basic process.
@@ -63,12 +59,16 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
 ![BG3 mod importing menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-importing-menu-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to the folder where the mod fixer's zipped file is, select it and then select "Open." You should see "ModFixer" listed under "Overrides."
 
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 3: Import the Narrator Mod
@@ -85,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This means we're ready to go!
 
 ##  Step 5: Test the Game
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
  Everything on the modding side of the process should now be done, which means it's time to start up the game to see if it's working. You'll get a warning that mods have been detected, which is a good sign! You can choose to never show this message again, but I think it's worth the hassle of the extra click so that you know whether you're starting up a modded version of Baldur's Gate or not.
 
 ![BG3 mod warning message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-warning.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you're in the game, you can either load up your save game and wait until you get to a section of narration, or you can quickly start a new game with a preset character, run to the first nursery in front of your pod, and check for the voice this way. As you can see in this clip.
 
@@ -110,7 +110,7 @@ Your browser does not support the video tag.
 ![BG3 mod deletion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-deletion-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll see two check boxes. Make sure the permanent deletion box is checked if you want to remove the mod files completely. Otherwise, simply leave the box to remove the mod from the load order checked. Then confirm your choice. Finally, export the mod order to the game again.
@@ -132,18 +132,24 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-seamless-youtube-editing-the-ultimate-finalcut-pro-guidebook/"><u>[New] In 2024, Seamless YouTube Editing The Ultimate FinalCut Pro Guidebook</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-social-sensation-strategies-crafting-fbs-topmusicvideos/"><u>[New] In 2024, Social Sensation Strategies - Crafting FB's #TopMusicVideos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-15-best-game-recording-software-for-youtuber-for-2024/"><u>[Updated] 15 Best Game Recording Software for YouTuber for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-global-earning-creator/"><u>[Updated] The Ultimate Global Earning Creator</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/at-lp120xusb-a-vinyl-enthusiasts-dream-digitalizer/"><u>AT-LP120XUSB: A Vinyl Enthusiast’s Dream Digitalizer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-stylish-and-mighty-apple-imac-4k-desktop-reviews-and-insights/"><u>Comprehensive Guide to the Stylish & Mighty Apple iMac 4K Desktop - Reviews and Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722940798974-dive-into-the-world-of-yakuza-like-a-dragon-a-captivating-jrpg-you-ought-to-play-now/"><u>Dive Into the World of Yakuza: Like a Dragon - A Captivating JRPG You Ought to Play Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-unveiling-the-power-of-playstation-4-pros-ultra-hd-capabilities/"><u>Expert Analysis: Unveiling the Power of PlayStation 4 Pro's Ultra HD Capabilities</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-best-tvs-to-accompany-your-highest-rated-consoles/"><u>In 2024, Best TVs to Accompany Your Highest Rated Consoles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/introducing-the-latest-evolution-19-fresh-additions-to-tcls-q-and-s-series-of-intelligent-displays/"><u>Introducing the Latest Evolution - 19 Fresh Additions to TCL's Q and S Series of Intelligent Displays</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/michael-kors-access-gen-5e-the-ultimate-guide-reviews-features-and-style/"><u>Michael Kors Access Gen 5E: The Ultimate Guide - Reviews, Features & Style</u></a></li>
-<li><a href="https://video-capture.techidaily.com/nanograbby-evaluation-of-tiny-screen-captures-for-2024/"><u>NanoGrabby Evaluation of Tiny Screen Captures for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionizing-digital-sketching-a-complete-guide-to-the-huion-kamvas-gt-191-tablet/"><u>Revolutionizing Digital Sketching: A Complete Guide to the Huion Kamvas GT-191 Tablet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-beating-the-market-top-file-managers/"><u>[New] 2024 Approved Beating the Market Top File Managers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-videography-policy-including-aspect-ratios-is-crucial/"><u>[New] 2024 Approved Twitter's Videography Policy Including Aspect Ratios Is Crucial</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevating-content-sharing-link-instagram-and-tiktok/"><u>[New] In 2024, Elevating Content Sharing Link Instagram & TikTok</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlock-50-exclusive-youtube-banner-free-gifts/"><u>[New] Unlock 50 Exclusive YouTube Banner Free Gifts!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-youtube-presence-creating-professional-thumbnails-from-smartphones-for-2024/"><u>[Updated] Enhancing YouTube Presence Creating Professional Thumbnails From Smartphones for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-new-tech-horizon-with-microsofts-hololens-review/"><u>[Updated] The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/deciphering-facebooks-forgotten-features-a-cross-platform-manual-for-2024/"><u>Deciphering Facebook's Forgotten Features A Cross-Platform Manual for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fullscreen-glitch-fixed-on-win11-monitor/"><u>Fullscreen Glitch Fixed on Win11 Monitor</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-look-at-lgs-latest-gem-stylo-6-review-highlighting-its-elegant-aesthetic-and-intuitive-stylus/"><u>Inside Look at LG's Latest Gem: Stylo 6 Review Highlighting Its Elegant Aesthetic & Intuitive Stylus</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/jumping-into-higher-performance-upgrading-windows-11s-bitness/"><u>Jumping Into Higher Performance: Upgrading Windows 11'S Bitness</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kobo-libra-h2o-wetproof-ebook-reader-a-detailed-examination-and-rating/"><u>Kobo Libra H2O Wetproof Ebook Reader: A Detailed Examination and Rating</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-alternatives-to-ms-office-revealed-use/"><u>Leading Alternatives to MS Office Revealed Use</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-aerial-excellence-with-the-acclaimed-dji-mavic-2-pro-a-review-for-experts/"><u>Mastering Aerial Excellence with the Acclaimed DJI Mavic 2 Pro - A Review for Experts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/portable-wifi-hotspot-discover-the-power-of-tp-links-wr902ac-travel-router/"><u>Portable WiFi Hotspot: Discover the Power of TP-Link's WR902AC Travel Router</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-apc-back-ups-be600m1-powerful-portable-surge-protector-with-integrated-mobile-device-charging/"><u>Review of APC Back-UPS BE600M1 - Powerful Portable Surge Protector with Integrated Mobile Device Charging</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-latest-amazon-fire-hd-8-gen-8-tablet-exceptional-entry-level-performance-at-a-fair-cost/"><u>Reviewing the Latest Amazon Fire HD 8 Gen 8 Tablet: Exceptional Entry-Level Performance at a Fair Cost</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revisiting-sound-quality-with-logitech-g533-review/"><u>Revisiting Sound Quality with Logitech G533 Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-affordable-alternative-to-macbook-air-meet-the-laptop-that-matches-up-zdnet-tech-reviews/"><u>The Affordable Alternative to MacBook Air - Meet the Laptop That Matches Up | ZDNET Tech Reviews</u></a></li>
 </ul></div>
 

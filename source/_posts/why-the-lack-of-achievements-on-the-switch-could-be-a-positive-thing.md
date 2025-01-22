@@ -1,7 +1,7 @@
 ---
 title: Why the Lack of Achievements on The Switch Could Be a Positive Thing
-date: 2025-01-11T00:13:39.410Z
-updated: 2025-01-15T17:33:02.785Z
+date: 2025-01-14T20:21:24.691Z
+updated: 2025-01-21T16:36:49.611Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Why the Lack of Achievements on The Switch Could Be a Positive Thing
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Achievements are a "meta" aspect of gaming and can be disruptive.
@@ -26,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Nintendo is the only console maker of the big three without an integrated achievement system for its consoles. Achievements are immensely popular, and many people want them on the Switch, but I think a lack of achievements is an overlooked unique selling point for Nintendo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  No Achievements Means Pure Gaming On Switch
@@ -36,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now, the first thing everyone says to this is "you can just [disable the notifications](https://extra-skills.techidaily.com/2024-approved-mastering-high-dynamic-range-with-image-curving/)", but the way that Xbox and PlayStation achievements are designed means they are always in sight at some point. They clutter up the screen when you're browsing your games, litter your profile page, and try to get your eyes on them wherever possible. If Nintendo implemented a truly optional achievement system, I'd be less fussed about it, but their competition only offers half-measures, and that's not good enough for me. My Switch is currently the only place where I can play video games and only have to think about the game itself.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Achievements Can Make Gaming Worse
@@ -45,12 +41,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Likewise, game developers who design their games with achievements in mind have a [perverse incentive](https://en.wikipedia.org/wiki/Perverse%5Fincentive) to use achievements to drive engagement, or stuff the game with filler to push up play time numbers, or even maximize the chances that players will use [microtransactions](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/). Since achievements can be used to influence player behavior, it's possible to use them in ways that aren't great for players in terms of enjoyment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Individual Switch Games Have Their Own Achievement Systems
 
 ![The box art for Fire Emblem Engage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/b5827e3b.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Switch/dp/B0BF1W7K23/ref=sr%5F1%5F1%5Fsspa?crid=14DNO0YJ12XXC&keywords=fire+emblem+engage&qid=1674073683&sprefix=fire+emblem+engage%2Caps%2C522&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaM1cxNDBNMjBTSDcmZW5jcnlwdGVkSWQ9QTA2MzM3NjkxQjRIWFVaRUxNVU1LJmVuY3J5cHRlZEFkSWQ9QTA4MDc2NjYxWFU2Q0FCRkRHVDdLJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)_
@@ -58,7 +58,7 @@ _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Swit
  In light of the lack of achievements on the Switch, some developers have simply opted to build their own achievements into their games. For example, in Fire Emblem Engage there's an achievement list within the game to keep track of your progress. Even better, you get in-game currency when you unlock an achievement, so they are more than just window dressing. This isn't rare either, as this [list of Switch games with in-game achievements](https://www.reddit.com/r/NintendoSwitch/comments/xl00ju/list%5Fof%5Fswitch%5Fgames%5Fwith%5Fingame%5Fachievements%5Fin/) from Reddit shows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Switch 2 Simply Doesn’t Need Them to Succeed
@@ -84,16 +84,16 @@ _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Swit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unpacking-the-wirecast-experience-and-its-rivals/"><u>[New] 2024 Approved Unpacking the WireCast Experience & Its Rivals</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-guide-to-youtube-keywords-for-peak-performance-for-2024/"><u>[New] The Ultimate Guide to YouTube Keywords for Peak Performance for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-streamline-your-content-embedding-youtube-media-into-instagrams-story-section/"><u>[Updated] In 2024, Streamline Your Content Embedding YouTube Media Into Instagram's Story Section</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-content-propagation-on-vimeo-for-2024/"><u>[Updated] Mastering Content Propagation on Vimeo for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/5-best-dvd-creators-for-macos-sierra/"><u>5 Best DVD Creators for macOS Sierra</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/beast-battles-unleashed-a-critical-review-of-monster-hunter-worlds-fearsome-challenges/"><u>Beast Battles Unleashed: A Critical Review of Monster Hunter: World's Fearsome Challenges</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mobvoi-ticwatch-pro-with-4g-lte-an-in-depth-analysis/"><u>Mobvoi Ticwatch Pro with 4G LTE - An In-Depth Analysis</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/photography-elite-line-up-best-6-4k-dslr-options-reviewed/"><u>Photography Elite Line-Up Best 6 4K DSLR Options Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-saving-images-from-word-docs/"><u>Step-by-Step Guide: Saving Images From Word Docs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-ultimate-stargazers-guide-to-luxury-car-accessories-sj4000/"><u>The Ultimate Stargazer's Guide to Luxury Car Accessories (SJ4000)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/vive-cosmos-review/"><u>Vive Cosmos Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/advanced-health-tracking-on-your-wrist-a-detailed-review-of-the-fitbit-charge-6-smartwatch-features/"><u>Advanced Health Tracking on Your Wrist – A Detailed Review of the Fitbit Charge 6 Smartwatch Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-lenovo-chromebook-duet-assessment-the-ideal-cost-effective-convertible/"><u>Affordable Lenovo Chromebook Duet Assessment: The Ideal Cost-Effective Convertible</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-lg-24lh4830-smart-tv-high-quality-entertainment-without-breaking-the-bank/"><u>Affordable LG 24LH4830 Smart TV: High Quality Entertainment Without Breaking the Bank</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-singing-bliss-with-karaoke-usa-less-than-150-for-endless-entertainment/"><u>Affordable Singing Bliss with Karaoke USA: Less Than $150 for Endless Entertainment</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-expiring-notification-in-windows-11-devices/"><u>Avoidance of ‘Expiring’ Notification in Windows 11 Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-new-patrol-officer-equipment-2024s-top-body-cam-picks/"><u>Best New Patrol Officer Equipment: 2024'S Top Body Cam Picks</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-70-lite-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor 70 Lite 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-clipping-videos-using-vlc-media-player-across-windowsmac-platforms/"><u>Guide to Clipping Videos Using VLC Media Player Across Windows/Mac Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ddr5-board-guide-2024/"><u>The Ultimate DDR5 Board Guide 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719576338655-transform-your-life-through-hindi-discover-8-compelling-mondly-benefits/"><u>Transform Your Life Through Hindi: Discover 8 Compelling Mondly Benefits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725288830652-winx/"><u>WinX 핸드리퍼 및 비디오 콘볼링: 모바일 호환성을 위해서는 다이제스트 관리에서 최고 선택</u></a></li>
 </ul></div>
 

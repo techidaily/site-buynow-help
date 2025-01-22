@@ -1,7 +1,7 @@
 ---
 title: The End of the Era for Ubiquitous Touch Buttons in Product Design
-date: 2025-01-08T17:23:45.272Z
-updated: 2025-01-15T22:01:39.571Z
+date: 2025-01-21T08:00:55.618Z
+updated: 2025-01-21T16:00:44.684Z
 tags:
   - games
   - tv
@@ -21,10 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Problem With Capacitive Touch Buttons
 
  Two things around the house routinely make me reach for the swear jar: cables and touch buttons. Cables are an unavoidable fact of life, the bane of [anyone who appreciates a nice clean setup](https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-profile-video-attraction/). But touch buttons are a deliberate choice.
@@ -36,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
@@ -49,15 +45,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
 
@@ -76,7 +72,7 @@ Tim Brookes / How-To Geek
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Some Manufacturers Ditched Touch for a Reason
@@ -87,6 +83,10 @@ Tim Brookes / How-To Geek
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Occasionally the PS4 would turn itself on randomly, for seemingly no reason. Worse still, the console could randomly turn itself off or eject the disc for no reason. Add to this the constant threat of curious dog and cat noses that are perfect for triggering capacitive touch buttons, and the fact that it was way too easy to trigger these buttons when cleaning or simply walking past.
@@ -96,7 +96,7 @@ Tim Brookes / How-To Geek
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
@@ -118,22 +118,20 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-guide-to-capturing-lol-showdowns/"><u>[New] Comprehensive Guide to Capturing LOL Showdowns</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-prime-mac-screen-capture-options/"><u>[Updated] 2024 Approved The Prime Mac Screen Capture Options</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-high-end-horizons-the-elite-8k-camera-selection/"><u>[Updated] In 2024, High-End Horizons The Elite 8K Camera Selection</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-selecting-the-best-sketchpad-and-design-tools-for-windows/"><u>2024 Approved Selecting the Best Sketchpad and Design Tools for Windows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/directscreen-w11-instant-recording-on-windows-11-for-2024/"><u>DirectScreen W11 Instant Recording on Windows 11 for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-sleek-and-efficient-anker-powercoreplus-26800-charger-combo-review/"><u>Expert Insights on the Sleek and Efficient Anker PowerCore+ 26800 Charger Combo Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-nonfunctional-laptop-keyboard-on-windows-10-8-and-7-a-step-by-step-guide/"><u>Fixing a Nonfunctional Laptop Keyboard on Windows 10, 8 & 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-farm-frenzy-the-ultimate-group-game-guide-for-farms/"><u>In 2024, Farm Frenzy The Ultimate Group Game Guide for Farms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-superior-visuals-leading-hdmi-21-monitors-for-ps5-gaming/"><u>In 2024, Superior Visuals Leading HDMI 2.1 Monitors for PS5 Gaming</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insights-and-opinions-on-the-updated-apple-books-mobile-application/"><u>Insights and Opinions on the Updated Apple Books Mobile Application</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nokia-71-phone-analysis-stunning-display-and-photography-at-an-exceptional-value/"><u>Nokia 7.1 Phone Analysis - Stunning Display & Photography at an Exceptional Value</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-x7b-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor X7b? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/soaring-high-with-microsoft-flight-simulator-x-gold-the-ultimate-gaming-experience/"><u>Soaring High with Microsoft Flight Simulator X Gold – The Ultimate Gaming Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-acer-aspire-e-15-the-ultimate-guide-to-affordable-power/"><u>Top-Rated Acer Aspire E 15: The Ultimate Guide to Affordable Power</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-ultra-hd-entertainment-with-amazons-insignia-ns-43df710na19-fire-tv-stick-an-insightful-and-affordable-option/"><u>Unlocking Ultra HD Entertainment with Amazon's Insignia NS-43DF710NA19 Fire TV Stick: An Insightful and Affordable Option</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-and-capabilities-of-the-newly-released-google-pixel-6-phone/"><u>Unveiling the Performance and Capabilities of the Newly Released Google Pixel 6 Phone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/xiaomi-mi-smart-band-4-evaluation-how-it-outshines-budget-competitors-in-fitness-tracking/"><u>Xiaomi Mi Smart Band 4 Evaluation: How It Outshines Budget Competitors in Fitness Tracking</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-mac-screen-recorder-solutions-beyond-bandicam/"><u>[New] 2024 Approved Ultimate Mac Screen Recorder Solutions Beyond Bandicam</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-definitive-guide-to-superior-hdr-photography-gear-for-2024/"><u>[New] The Definitive Guide to Superior HDR Photography Gear for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-seamless-image-files-management-on-ios-jpegpng-to-pdf/"><u>[Updated] 2024 Approved Seamless Image Files Management on IOS JPEG/PNG to PDF</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-from-watcher-to-participant-tiktok-live-integration/"><u>2024 Approved From Watcher to Participant TikTok Live Integration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-pros-and-cons-navigating-through-pidgin-instant-messengers-features/"><u>Assessing Pros and Cons: Navigating Through Pidgin Instant Messenger's Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-bw-16d1x-u-blu-ray-player-assessment-elegant-design-with-notable-idiosyncrasies/"><u>Asus BW-16D1X-U Blu-Ray Player Assessment: Elegant Design with Notable Idiosyncrasies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-between-the-latest-flagships-iphone-15-pro-max-and-samsung-s24-ultra-reviewed/"><u>Choosing Between the Latest Flagships: IPhone 15 Pro Max and Samsung S24 Ultra Reviewed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-amplifi-hd-networking-solution-evaluation-eliminate-wi-fi-black-spots/"><u>Comprehensive Amplifi HD Networking Solution Evaluation: Eliminate Wi-Fi Black Spots</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-asus-rt-ac68u-a-leap-in-speed-and-security-with-5g-wi-fi/"><u>Comprehensive Analysis of the Asus RT-AC68U – A Leap in Speed & Security with 5G Wi-Fi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-the-new-imac-featuring-the-game-changing-m1-chip-a-visual-and-technological-upgrade/"><u>Comprehensive Review: The New iMac Featuring the Game-Changing M1 Chip – A Visual & Technological Upgrade</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deciding-between-an-ipad-pro-or-a-macbook-pro-essential-differences-explored/"><u>Deciding Between an iPad Pro or a MacBook Pro: Essential Differences Explored</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-flash-videos-hassle-free-on-your-pc-or-mac-with-5kplayer-steps/"><u>Download Flash Videos Hassle-Free on Your PC or Mac With 5KPlayer Steps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-nine-all-inclusive-free-holiday-movies-streamed-on-youtube/"><u>In 2024, Nine All-Inclusive Free Holiday Movies Streamed on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sensing-souls-in-silicon-is-ais-grasp-on-emotion-complete/"><u>Sensing Souls in Silicon: Is AI's Grasp on Emotion Complete?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/tutorial-comment-sauvegarder-une-video-sur-un-ordinateur-avec-windows-ou-macos/"><u>Tutorial : Comment Sauvegarder Une Vídeo Sur Un Ordinateur Avec Windows Ou macOS</u></a></li>
 </ul></div>
 

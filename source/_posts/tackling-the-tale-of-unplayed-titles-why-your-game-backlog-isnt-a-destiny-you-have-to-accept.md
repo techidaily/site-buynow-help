@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept"
-date: 2025-01-13T17:14:18.384Z
-updated: 2025-01-16T03:11:49.138Z
+date: 2025-01-18T23:07:09.764Z
+updated: 2025-01-21T17:44:00.683Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 ## Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Think of your game collection as entertainment, not an obligation to clear a "backlog".
@@ -26,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Have you got backlog dread? Do you stare at your pile of games forlornly as you swipe your credit card once again to put even more on the pile? I'm here to tell you that your "backlog" shouldn't be weighing you down.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s This “Backlog” Stuff?
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  The word "backlog" implies a couple of things, but the most pertinent things that pop into my head are "work" and "obligation." You might have a backlog of reports to work through, or a backlog of videos to edit. It's something you are obligated to do, and you're behind! So you can't really ever rest until that backlog is cleared. Applying that concept to your collection of video games feels fundamentally wrong.
 
  Games are entertainment, not an obligation. So it might be better psychologically-speaking, to stop thinking of your video game collection as a "backlog" in the first place!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Backlogs Are a Rainy-Day Blessing
 
@@ -46,11 +46,11 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Don’t Have to Finish All Your Games
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Did I waste my time playing them? No! They were fun while they lasted, and I enjoyed my time with them, but just like any healthy relationship, you need to know when the right time is to walk away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don’t Let the Sunk Cost Fallacy Stop Your Fun
@@ -88,19 +88,16 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-gamers-eden-record-without-paying-in-24-for-2024/"><u>[New] Gamers' Eden Record Without Paying in '24 for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-perfecting-instagram-the-art-of-caption-placement/"><u>[Updated] Perfecting Instagram The Art of Caption Placement</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-z3-plus-dashcam-from-z-edge-a-comprehensive-review/"><u>Affordable Z3 Plus Dashcam From Z-Edge - A Comprehensive Review</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-poco-m6-pro-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Poco M6 Pro 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-samsung-cf591-assessment-ideal-choice-for-gamers/"><u>Comprehensive Samsung CF591 Assessment: Ideal Choice for Gamers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/conquer-and-rule-discover-the-thrills-of-imperator-rome/"><u>Conquer and Rule: Discover the Thrills of Imperator: Rome</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-typing-to-tech-marvels-inside-look-at-the-raspberry-pi-400-keyboard-pc/"><u>From Typing to Tech Marvels: Inside Look at the Raspberry Pi 400 Keyboard PC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-five-must-play-street-fighter-clones/"><u>In 2024, Five Must-Play Street Fighter Clones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-14-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi 14? Fixed | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-photoscapes-capabilities-as-a-gratis-image-editing-tool/"><u>In-Depth Analysis of PhotoScape's Capabilities as a Gratis Image Editing Tool</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamline-your-playback-the-ultimate-guide-to-roblox-replays-on-a-mac-for-2024/"><u>Streamline Your Playback The Ultimate Guide to Roblox Replays on a Mac for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-2020-apple-macbook-pro-with-m1-a-groundbreaking-review-of-performance-and-design/"><u>The 2020 Apple MacBook Pro with M1: A Groundbreaking Review of Performance and Design</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-best-imessage-games-to-play/"><u>Top 7 Best iMessage Games to Play</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-airpod-microphone-problems-on-microsofts-operating-system/"><u>Troubleshooting AirPod Microphone Problems on Microsoft's Operating System</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-achieve-professional-looking-motion-blur-with-just-a-few-steps-in-photoshop/"><u>[New] 2024 Approved Achieve Professional-Looking Motion Blur with Just a Few Steps in Photoshop</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-phantom-3-showdown-golem-4-emerges/"><u>[New] 2024 Approved Phantom 3 Showdown Golem 4 Emerges</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/d-the-numbers-carryminatis-youtube-wealth/"><u>Behind the Numbers CarryMinati’s YouTube Wealth</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-crafted-workspace-thrones-the-ultimate-chair-selection-for-2cuary/"><u>Expertly Crafted Workspace Thrones: The Ultimate Chair Selection for 2Cuary</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-google-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Google Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-power-of-words-in-podcast-summaries/"><u>In 2024, The Power of Words in Podcast Summaries</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-photography-essentials-discover-the-leading-tripods-on-the-market-2023-edition/"><u>Professional Photography Essentials: Discover the Leading Tripods on the Market - 2023 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-lava-yuva-2-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Yuva 2 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/spectral-control-enhancing-image-aesthetics-for-2024/"><u>Spectral Control Enhancing Image Aesthetics for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-high-performance-external-ssds-for-2abbreviated-2024-market/"><u>Ultimate Selection of High-Performance External SSDs for 2Abbreviated 2024 Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-the-premier-sunlight-powered-charger-models-of-2-maximizing-portability-and-efficiency-s-leading-solar-chargers/"><u>Ultimate Selection: The Premier Sunlight-Powered Charger Models of 2# Maximizing Portability and Efficiency 'S Leading Solar Chargers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
-date: 2025-01-12T00:08:47.404Z
-updated: 2025-01-16T03:32:44.682Z
+date: 2025-01-17T02:09:16.481Z
+updated: 2025-01-21T22:24:36.132Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## Durability Against Freeze-Thaw Cycles May Be Improved with Certain Types of Synthetic Aggregates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Ideally, a portable projector has everything it needs to watch a movie, self-contained, while remaining small and easy to travel with. The [Anker Nebula Capsule 3](https://us.seenebula.com/products/capsule-3-projectors-d2425) gets really close to this ideal state because of its Google TV software, 2.5-hour battery life, and decently loud speaker, but its brightness level is a weak point and might be a little too dim to use anywhere.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -88,23 +92,19 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
  The prime reason to buy the Capsule 3 is its compact, all-inclusive design. It has built-in speakers, a battery that’s long enough for most movies, and streaming software, all within the size of a small Gatorade bottle. (You can see how it compares to a 12-ounce can of La Croix.) Unless you’re putting it on a tripod or plugging it into power, there’s nothing else it needs. It features a resolution of 1,920 x 1,080, has HDMI input, an 8W speaker, can do front or rear projection, and weighs under two pounds.
 
  It’s a little too big to be pocketable but incredibly small for a projector. It got an “Oh, that’s cool” from people in my family when they saw its size in my hand. The Capsule 3 even has touch controls on top, so if the remote isn’t close by, you can still pause the movie or adjust the volume. On the surface, it’s a very neat device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  A Projector That Can Travel
 
@@ -130,10 +130,6 @@ Jerome Thomas / How-To Geek
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The idea of casting to it is a little silly anyway because each time I tried to at home, it still wanted me to sign in to the app on Capsule 3\. The Google TV software on the projector can handle nearly every streaming capability natively, so there’s little point in using two devices instead of just controlling it from Capsule 3\. When I did get casting to work, there was some buffering and pauses that were not present when using the native apps.
@@ -154,12 +150,16 @@ Jerome Thomas / How-To Geek
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Anker Nebula Capsule 3?
 
 ![Nebula Capsule 3 next to its box, remote, and power adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -193,16 +193,19 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-seamless-macos-sierra-integration-techniques/"><u>[New] Seamless MacOS Sierra Integration Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-class-and-functionality-in-the-flexispot-theodore-an-in-depth-look-at-todays-trendy-standing-desks/"><u>Exploring Class and Functionality in the Flexispot Theodore: An In-Depth Look at Today's Trendy Standing Desks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-inexpensive-2019-kindle-from-amazon-measures-up-readers-guide/"><u>How The Inexpensive 2019 Kindle From Amazon Measures Up: Reader's Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-guide-to-streamline-yt-playlist-integration-in-htmlcss/"><u>In 2024, Guide to Streamline YT Playlist Integration in HTML/CSS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-a59-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo A59 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 11 Pro 3 Ways To Unlock</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-depth-review-vrs-winning-features-and-faults/"><u>In-Depth Review VR's Winning Features & Faults</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-the-mophie-ac-powerstation-review-is-it-worth-its-premium-cost/"><u>Inside the Mophie AC Powerstation Review: Is It Worth Its Premium Cost?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kensuns-mobile-air-pump-reviewed-unyielding-performance-meets-convenience-on-wheels/"><u>Kensun's Mobile Air Pump Reviewed: Unyielding Performance Meets Convenience on Wheels</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-highest-quality-karaoke-devices/"><u>Ultimate Guide to the Highest Quality Karaoke Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-from-capture-to-share-expert-insights-into-screen-recording-software-for-2024/"><u>[New] From Capture to Share Expert Insights Into Screen Recording Software for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-boosting-youtube-videos-activating-av1-support/"><u>[Updated] 2024 Approved Boosting YouTube Videos Activating AV1 Support</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-gamers-guide-to-video-recording/"><u>[Updated] Gamer's Guide to Video Recording</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-optimize-productivity-with-mematic-app/"><u>[Updated] Optimize Productivity with Mematic App</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-seal-of-credibility-writing-journalisms-finale-for-2024/"><u>[Updated] Seal of Credibility Writing Journalism's Finale for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-ultimate-housewide-internet-with-orbi-tri-band-mesh-wi-fi-system-a-comprehensive-evaluation/"><u>Experience Ultimate Housewide Internet with Orbi Tri-Band Mesh Wi-Fi System - A Comprehensive Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-powerful-functions-of-garmin-venu-the-essential-companion-for-round-the-clock-health-monitoring/"><u>Explore the Powerful Functions of Garmin Venu: The Essential Companion for Round-the-Clock Health Monitoring</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-benefits-of-upgrading-to-apples-giant-an-iphone-12-pro-max-review/"><u>Exploring the Benefits of Upgrading to Apple's Giant - An iPhone 12 Pro Max Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-elite-usb-drive-selection-of-2024-find-yours-here/"><u>Exploring the Elite USB Drive Selection of 2024 - Find Yours Here</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-newly-revamped-echo-dot-4th-gens-innovative-appearance-reviewed/"><u>Exploring the Newly Revamped Echo Dot - 4Th Gen's Innovative Appearance Reviewed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-g2-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo G2?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-realme-gt-5-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Realme GT 5 Android SIM Unlock APK</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-huion-inspiroy-g1t-drawing-tablet-delivers-exceptional-quality-and-performance/"><u>In-Depth Analysis: How the Huion Inspiroy G1t Drawing Tablet Delivers Exceptional Quality and Performance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-file-management-best-practices-for-saving-and-organizing/"><u>New Final Cut Pro File Management Best Practices for Saving and Organizing</u></a></li>
 </ul></div>
 

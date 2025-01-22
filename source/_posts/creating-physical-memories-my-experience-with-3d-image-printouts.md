@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2025-01-12T05:40:35.404Z
-updated: 2025-01-16T03:30:50.278Z
+date: 2025-01-20T05:32:44.595Z
+updated: 2025-01-22T07:36:53.640Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ## Creating Physical Memories: My Experience with 3D Image Printouts
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Lithophanes are images created by varying the thickness of a material to let different amount of light through.
@@ -25,15 +21,15 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
  Photos are 2D, and so surely you'd only want to print them using a normal everyday 2D printer? However, it turns out you can create a "lithophane" from a photo and turn your snaps into actual plastic models.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is a Lithophane Exactly?
 
  True lithophanes are porcelain pieces that have designs pressed into them when the porcelain is soft. Then, when held up to a light, the image becomes visible. The different thicknesses of the porcelain let through different amounts of light, and you effectively have a grayscale image.
 
  While working with porcelain isn't something you can do at home typically, if you have a 3D printer you can emulate the same effect and make a lithophane by printing it. When you hold the lithophane up to the light, your original image appears. It's a neat effect and, thanks to the flexibility of 3D printing, you can make all sorts of interesting decorations using this method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Converting an Image to a Lithophane
 
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
@@ -56,17 +52,21 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
 
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Printing Your Lithophane
@@ -100,24 +100,16 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-connecting-with-clarity-4-ways-to-share-stories/"><u>[New] In 2024, Connecting with Clarity 4 Ways to Share Stories</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-picks-user-friendly-software-for-new-game-recorders-and-editors/"><u>[New] In 2024, Top Picks User-Friendly Software for New Game Recorders & Editors</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-tactical-steps-to-obtain-top-notch-pictorial-content-for-2024/"><u>[New] Tactical Steps to Obtain Top-Notch Pictorial Content for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-detailed-guide-to-advanced-human-interface-systems/"><u>[Updated] A Detailed Guide to Advanced Human Interface Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pure-pitch-perception-recording-in-mac-studios/"><u>[Updated] In 2024, Pure Pitch Perception Recording in Mac Studios</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-ipad-air-vs-samsung-galaxy-tab-s7plus-faceoff-elite-tablets-competing-head-to-head/"><u>Apple iPad Air ^ Vs. Samsung Galaxy Tab S7+ Faceoff: Elite Tablets Competing Head to Head</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-p40-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel P40? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-timeless-charm-and-modern-intelligence-a-comprehensive-review-of-withings-move/"><u>Discovering Timeless Charm & Modern Intelligence: A Comprehensive Review of Withings Move</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-the-fitbit-charge-6-device/"><u>Expert Evaluation of the Fitbit Charge 6 Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-capabilities-of-soundbot-sb210-an-efficient-audio-device-with-high-quality-performance/"><u>Exploring the Capabilities of SoundBot SB210: An Efficient Audio Device with High-Quality Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/future-of-fun-discover-2024s-most-popular-game-consoles/"><u>Future of Fun: Discover 2024'S Most Popular Game Consoles</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-inkjet-printer-installation-guide/"><u>HP Inkjet Printer Installation Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/luxurious-design-and-ingenuity-in-the-latest-michael-kors-access-gen-5e-mkgo-watch-review/"><u>Luxurious Design and Ingenuity in the Latest Michael Kors Access Gen 5E MKGO Watch Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionize-your-audio-experience-with-nests-smart-speaker-designed-for-enthusiast-listeners/"><u>Revolutionize Your Audio Experience with Nest's Smart Speaker Designed for Enthusiast Listeners</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-savings-with-the-lg-24lh4830-tv-splurge-worthy-features-at-a-wallet-friendly-price/"><u>Smart Savings with the LG 24LH4830 TV – Splurge-Worthy Features at a Wallet-Friendly Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-choosing-the-perfect-17-inch-laptop/"><u>Ultimate Guide: Choosing the Perfect 17-Inch Laptop</u></a></li>
-<li><a href="https://driver-install.techidaily.com/universal-solutions-for-usbasp-issues-in-wxpwin810/"><u>Universal Solutions for USBasp Issues in WXP/Win8/10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-upgrade-to-spotify-premium/"><u>Why Upgrade to Spotify Premium?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-maximize-view-count-best-yt-thumbnail-sizes/"><u>[New] 2024 Approved Maximize View Count Best YT Thumbnail Sizes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-simplifying-cross-platform-sharing-instagram-and-facebook-integration-for-2024/"><u>[New] Simplifying Cross-Platform Sharing Instagram & Facebook Integration for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-steer-clear-of-vr-nausea-essential-precautions/"><u>[Updated] Steer Clear of VR Nausea Essential Precautions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/error-loading-operating-system-windows-sven/"><u>Error Loading Operating System - Windows ˈsɛvənの問題解決ガイド</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-rectify-person-recognition-blunders-with-ease-on-your-iphoneipad/"><u>How to Rectify Person Recognition Blunders with Ease on Your iPhone/iPad</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-tecno-pova-5-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Pova 5 Pro Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrade-legacy-speakers-today-discover-wiims-latest-breakthrough-in-ultra-streaming-technology-for-enhanced-acoustics/"><u>Upgrade Legacy Speakers Today! Discover WiiM's Latest Breakthrough in Ultra Streaming Technology for Enhanced Acoustics.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrading-your-mobile-pc-with-microsofts-improved-windows-features/"><u>Upgrading Your Mobile PC with Microsoft's Improved Windows Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-classic-game-consoles-trounce-smartphones-a-look-at-5-key-benefits-for-gamers/"><u>Why Classic Game Consoles Trounce Smartphones: A Look at 5 Key Benefits for Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-invest-in-online-radio-even-with-the-popularity-of-streaming-services/"><u>Why Invest in Online Radio Even with the Popularity of Streaming Services</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-leaving-spotify-is-harder-than-youd-think-even-if-you-hate-it/"><u>Why Leaving Spotify Is Harder Than You'd Think Even If You Hate It</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Affordable & Powerful Laptop Picks for the Savvy Shopper - 2023 Edition
-date: 2025-01-10T05:22:08.344Z
-updated: 2025-01-15T16:24:51.307Z
+date: 2025-01-18T05:27:08.698Z
+updated: 2025-01-21T20:02:25.092Z
 tags:
   - buying-guides
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 #####  Acer Aspire Vero  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best Budget Laptop Overall  
@@ -61,10 +61,6 @@ Best Budget Laptop for Students
 ![starlite linux laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/starlite-linux-laptop.png)  
 #####  Star Labs StarLite 11-inch  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best Budget Linux Laptop  
 [Star Labs](https://starlabs.systems/pages/starlite)
 
@@ -87,6 +83,10 @@ Best Budget Linux Laptop
  One thing to know is that the most frequent corner cut by manufacturers in the budget laptop segment is the screen, with many devices coming with dim panels that feature slightly washed-out colors. If you need accurate colors on your display for your work, you may have to eat the cost of a non-budget laptop.
 
  Finally, you should only look for a laptop with a 1080p resolution display. Devices sporting 768p or lower screens usually come with a plethora of downsides, and we don't recommend them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -134,6 +134,10 @@ The Acer Aspire Vero isn't the cheapest budget notebook, but you get computing p
 
 [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-aspire-vero-15-6-full-hd-laptop-intel-i5-1335u-with-8gb-lpddr5-512gb-pcie-gen4-ssd-cobblestone-gray%2F6553054.p%3FskuId%3D6553054) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Budget Laptop for Gaming: [Acer Nitro 16 Gaming Laptop](https://www.amazon.com/i5-13500H-GeForce-Display-Backlit-AN16-51-56VR/dp/B0BXMMP84S?tag=hotoge-20&ascsubtag=UUhtgUeUpU203497&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F850968%2Fbest-budget-laptops%2F&asc%5Fcampaign=Commerce) 
 
 [](https://www.amazon.com/i5-13500H-GeForce-Display-Backlit-AN16-51-56VR/dp/B0BXMMP84S?tag=hotoge-20&ascsubtag=UUhtgUeUpU203497&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F850968%2Fbest-budget-laptops%2F&asc%5Fcampaign=Commerce)
@@ -161,15 +165,7 @@ The Acer Aspire Vero isn't the cheapest budget notebook, but you get computing p
 
 ![Acer Nitro 16](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/acer-nitro-16.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best Budget Laptop for Gaming
 
@@ -184,10 +180,6 @@ While it may not look so impressive on paper, the Acer Nitro 16 delivers fantast
 [](https://www.amazon.com/Lenovo-Processor-Graphics-82HU00JWUS-Graphite/dp/B09BG96KFJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU203497&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F850968%2Fbest-budget-laptops%2F&asc%5Fcampaign=Commerce)
 
 [![Lenovo Flex 5 on pink and yellow background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/lenovo-flex-5.jpg) Lenovo](https://www.amazon.com/Lenovo-Processor-Graphics-82HU00JWUS-Graphite/dp/B09BG96KFJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU203497&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F850968%2Fbest-budget-laptops%2F&asc%5Fcampaign=Commerce)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [](https://www.amazon.com/Lenovo-Processor-Graphics-82HU00JWUS-Graphite/dp/B09BG96KFJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU203497&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F850968%2Fbest-budget-laptops%2F&asc%5Fcampaign=Commerce) 
 
@@ -212,6 +204,10 @@ While it may not look so impressive on paper, the Acer Nitro 16 delivers fantast
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best 2-in-1 Budget Laptop
 
 #####  Lenovo Flex 5
@@ -221,7 +217,7 @@ The Lenovo Flex 5 is a snappy 2-in-1 laptop that beats competitors when it comes
 [$643 at Amazon](https://www.amazon.com/Lenovo-Processor-Graphics-82HU00JWUS-Graphite/dp/B09BG96KFJ?tag=hotoge-20&ascsubtag=UUhtgUeUpU203497&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F850968%2Fbest-budget-laptops%2F&asc%5Fcampaign=Commerce) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Touch Screen Budget Laptop: [Microsoft Surface Laptop Go 3](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-surface-laptop-go-3-12-4-touch-screen-intel-core-i5-with-8gb-memory-256gb-ssd-latest-model-sage%2F6554715.p%3FskuId%3D6554715) 
@@ -251,7 +247,7 @@ The Lenovo Flex 5 is a snappy 2-in-1 laptop that beats competitors when it comes
 ![Microsoft Surface Laptop Go 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/microsoft-surface-laptop-go-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
@@ -263,6 +259,10 @@ Best Touch Screen Budget Laptop
 The Microsoft Surface Laptop Go 3 may be the company's most affordable laptop, but you wouldn't think that from the build quality, and the performance is impressive as well.
 
 [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-surface-laptop-go-3-12-4-touch-screen-intel-core-i5-with-8gb-memory-256gb-ssd-latest-model-sage%2F6554715.p%3FskuId%3D6554715) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best Budget Laptop for Students: [ASUS VivoBook 16X](https://www.amazon.com/ASUS-VivoBook-Laptop-WUXGA-1920/dp/B0B9J76S6Y?tag=hotoge-20&ascsubtag=UUhtgUeUpU203497&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F850968%2Fbest-budget-laptops%2F&asc%5Fcampaign=Commerce) 
 
@@ -290,6 +290,10 @@ The Microsoft Surface Laptop Go 3 may be the company's most affordable laptop, b
  The ASUS VivoBook 16X is a workhorse of a laptop that excels at the performance you get for the price. Other parts of the equation are far from great but good enough for most students.
 
 ![ASUS VivoBook 16X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/asus-vivobook-16x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
@@ -333,6 +337,10 @@ A workhorse of a laptop with unbeatable CPU for the price, more than a decent ke
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Budget Linux Laptop
 
 #####  Star Labs StarLite 11-inch
@@ -341,10 +349,6 @@ The CPU here is a bit disappointing but everything else is outstanding for the p
 
 [Star Labs](https://starlabs.systems/pages/starlite) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ### How much RAM does a laptop need?
@@ -352,7 +356,7 @@ The CPU here is a bit disappointing but everything else is outstanding for the p
  While 4 gigabytes of memory is a bare minimum for a modern laptop, we recommend avoiding those laptops unless you can't stretch your budget enough to afford a device with at least 8GB of memory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How much storage space does a laptop need?
@@ -368,10 +372,6 @@ The CPU here is a bit disappointing but everything else is outstanding for the p
 ### How do I connect a laptop to a TV or monitor?
 
  The easiest way is to use an HDMI cable. Just hook it to your laptop's HDMI port and then to the HDMI port of your monitor. If you don't have an HDMI port on your monitor, look for HDMI adapters that can work with DisplayPort or DVI ports. If your laptop has a USB-C port with DisplayPort functionality or a Thunderbolt port, you can use a USB-C cable to connect the two.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How long do laptops last?
 
@@ -396,14 +396,19 @@ The CPU here is a bit disappointing but everything else is outstanding for the p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-and-interpreting-twitter-archives-for-2024/"><u>[New] Navigating and Interpreting Twitter Archives for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-charting-your-course-to-certification-a-guide-to-verified-partnership/"><u>[Updated] In 2024, Charting Your Course to Certification A Guide to Verified Partnership</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-autofocus-on-iphone-cameras-efficiently/"><u>[Updated] Mastering Autofocus on iPhone Cameras Efficiently</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-performance-of-seatechs-wireless-blu-ray-burner-unit-with-usb-support-a-closer-look-at-its-variable-output/"><u>Expert Insights on the Performance of SeaTech's Wireless Blu-Ray Burner Unit with USB Support: A Closer Look at Its Variable Output</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-the-world-effortlessly-and-smartly/"><u>Explore the World, Effortlessly & Smartly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-your-experience-with-lenovo-tab-m10-fhd-plus-in-2amidst-budget-friendly-tablets/"><u>Maximize Your Experience with Lenovo Tab M10 FHD Plus in 2Amidst Budget-Friendly Tablets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-october-sales-metas-512gb-quest-2-pro-offers-top-value-during-prime-day-events-exclusive-insights/"><u>Unbeatable October Sales: Meta's 512GB Quest 2 Pro Offers Top Value During Prime Day Events - Exclusive Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-features-of-the-pioneer-bdr-xs06-an-external-usb-30-blu-ray-drive-reviewed-for-convenience-and-output/"><u>Unpacking the Features of the Pioneer BDR-XS06: An External USB 3.0 Blu-Ray Drive Reviewed for Convenience and Output</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-expert-analysis-top-picks-of-the-best-5-slow-motion-cams/"><u>[New] 2024 Approved Expert Analysis Top Picks of the Best 5 Slow Motion Cams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-creativity-crafting-compelling-fb-video-campaigns/"><u>[New] Unleashing Creativity Crafting Compelling FB Video Campaigns</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-find-your-favorite-screen-an-in-depth-review-of-top-6-hdmi-tvs/"><u>[Updated] Find Your Favorite Screen An In-Depth Review of Top 6 HDMI TVs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-synchronous-capture-for-webcam-and-display/"><u>[Updated] Synchronous Capture for Webcam and Display</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/astonishing-freeness-of-screen-dance-duels/"><u>Astonishing Freeness of Screen Dance Duels</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/blue-yeti-not-detected-essential-fixes-to-get-it-working-again/"><u>Blue Yeti Not Detected? Essential Fixes to Get It Working Again</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-acurite-pro-weather-station-01036m-effortless-installation-and-solid-construction/"><u>Comprehensive Review of AcuRite Pro Weather Station 01036M: Effortless Installation & Solid Construction</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-past-in-depth-review-of-the-legacy-netgear-c3000-router-with-built-in-modem-features/"><u>Navigating the Past: In-Depth Review of the Legacy Netgear C3000 Router with Built-In Modem Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paw-patrol-party-pet-playtime/"><u>Paw Patrol Party: Pet Playtime</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-garmin-vivomove-hr-smartwatch-the-trendiest-gadget-for-fitness-enthusiasts/"><u>Review of the Garmin Vivomove HR Smartwatch: The Trendiest Gadget for Fitness Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-yard-work-with-fun-and-easy-grass-cutting-the-ultimate-guide-to-enjoying-remote-controlled-lawnmowers-today/"><u>Revolutionize Yard Work with Fun and Easy Grass Cutting: The Ultimate Guide to Enjoying Remote-Controlled Lawnmowers Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-the-epson-wf-3540-drivers-in-windows/"><u>Step-by-Step Guide: Installing the Epson WF-3540 Drivers in Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-miniature-master-unpacking-the-power-of-sx740-hs/"><u>The Miniature Master: Unpacking the Power of SX740 HS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-portable-pro-with-extended-zoom-meet-the-sx70/"><u>The Portable Pro with Extended Zoom - Meet the SX70!</u></a></li>
 </ul></div>
 

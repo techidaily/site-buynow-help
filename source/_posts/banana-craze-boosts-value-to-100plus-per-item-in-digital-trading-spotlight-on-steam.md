@@ -1,7 +1,7 @@
 ---
 title: Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
-date: 2025-01-14T01:25:09.814Z
-updated: 2025-01-16T01:07:56.169Z
+date: 2025-01-18T22:03:51.411Z
+updated: 2025-01-22T01:40:05.950Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Banana Craze Boosts Value to $100+ per Item in Digital Trading Spotlight on Steam
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Steam’s latest clicker game sensation has users trading virtual bananas on the Steam Community Market for hundreds of real-world dollars. Just what is going on?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  This Game Is Bananas
@@ -36,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A virtual banana from the Banana game on Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ss_641d6402187d5335b1e345498f0eff293a054f75-1920x1080.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pony / Sky / AestheticSpartan
@@ -46,7 +46,7 @@ Pony / Sky / AestheticSpartan
  These in-game items may be given out for free, but they can be traded on the Steam Community Market for real money. You can buy and sell bananas from as little as a few cents up to hundreds or thousands of dollars. The rarer the banana, the higher the value the community has assigned to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's Really Going On Here?
@@ -58,7 +58,7 @@ Pony / Sky / AestheticSpartan
 ![The free-to-play Banana game in third place on the Steam charts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-12-at-12-32-52.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s still a bit of a mystery what’s really going on here. The game makes no claims that in-game items have any inherent value so on the surface, Banana seems innocent enough. The game doesn’t appear to be doing anything in the background (so it’s not a stealthy crypto miner), and you don’t even need to leave it open as long as you open it regularly for a few clicks to collect your fruit.
@@ -88,20 +88,24 @@ Pony / Sky / AestheticSpartan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-expertly-ranked-best-internet-sound-recorders-2023/"><u>[New] Expertly Ranked Best Internet Sound Recorders 2023</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-comprehensive-guide-to-youtube-video-editing-tools/"><u>[New] In 2024, Comprehensive Guide to YouTube Video Editing Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-master-class-screenscreen-recording-using-adobe-captivating-software/"><u>[New] Master Class Screenscreen Recording Using Adobe Captivating Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-farm-fantasy-a-decade-of-dirt-digging-delights/"><u>2024 Approved Farm Fantasy A Decade of Dirt Digging Delights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-jackery-powerbar-unit-featuring-inbuilt-ac-socket/"><u>Comprehensive Guide to the Jackery PowerBar Unit Featuring Inbuilt AC Socket</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726027691289-flvmp33/"><u>FLVファイルをMP3に変換するための最適な3ステップガイド</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-macx-software-convert-your-dvds-into-mp3-and-mp4-files-effortlessly/"><u>Free MacX Software: Convert Your DVDs Into MP3 and MP4 Files Effortlessly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-examination-of-the-asus-zephyrus-g14-uncompromised-power-for-gamers/"><u>In-Depth Examination of the Asus Zephyrus G14: Uncompromised Power for Gamers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigate-through-2024s-top-computer-brand-landscapes/"><u>Navigate Through 2024'S Top Computer Brand Landscapes</u></a></li>
-<li><a href="https://games-able.techidaily.com/should-you-really-care-about-your-steam-level/"><u>Should You Really Care About Your Steam Level?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-comprehensive-guide-to-editing-tiktok-account-numbers-for-2024/"><u>The Comprehensive Guide to Editing TikTok Account Numbers for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-iphone-models-ideal-for-gaming-enthusiasts/"><u>The Ultimate Guide to iPhone Models Ideal for Gaming Enthusiasts!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-of-the-garmin-forerunner-45-your-ideal-companion-for-tracking-running-performance/"><u>Unveiling the Benefits of the Garmin Forerunner 45: Your Ideal Companion for Tracking Running Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-newest-features-in-amazons-latest-echo-device-the-4gen-update/"><u>Unveiling the Newest Features in Amazon's Latest Echo Device - The 4Gen Update</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-secret-to-exceptional-instagram-reels/"><u>[New] The Secret to Exceptional Instagram Reels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-effortless-audio-delivery-on-your-iphone-for-2024/"><u>[Updated] Effortless Audio Delivery on Your iPhone for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-losungen-und-schritte-wiederherstellung-und-offnen-von-word-dateien/"><u>1. Lösungen Und Schritte: Wiederherstellung Und Öffnen Von Word-Dateien</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-novices-guide-to-prime-gopro-extras/"><u>2024 Approved Novice's Guide to Prime GoPro Extras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/adblocker-adoption-continues-to-challenge-youtubes-revenue-stream/"><u>Adblocker Adoption Continues to Challenge YouTube's Revenue Stream</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-tech-clean-essentials-the-must-have-kit-for-all-your-devices/"><u>Affordable Tech-Clean Essentials: The Must-Have Kit for All Your Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beginners-guide-to-staying-active-how-nintendo-systems-make-exercise-fun-and-accessible/"><u>Beginner's Guide to Staying Active: How Nintendo Systems Make Exercise Fun and Accessible</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-twitch-streaming-starts-here-utilizing-equipment-you-likely-own/"><u>Budget-Friendly Twitch Streaming Starts Here: Utilizing Equipment You Likely Own</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bundle-up-your-streaming-unveiling-the-new-dual-subscription-hulu-and-disneyplus-app/"><u>Bundle Up Your Streaming: Unveiling the New Dual-Subscription Hulu & Disney+ App!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/comment-resoudre-les-problemes-de-transfert-de-fichiers-sur-windows-11-sujets-daide-et-conseils-rapides/"><u>Comment Résoudre Les Problèmes De Transfert De Fichiers Sur Windows 11? Sujets D'Aide Et Conseils Rapides</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-8-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 8 Without Previous Owner?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/overcoming-launch-errors-with-far-cry-n6-on-pc-solutions-unveiled/"><u>Overcoming Launch Errors with Far Cry N6 on PC - Solutions Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-roblox-stuck-boot-dilemma-with-simple-solutions/"><u>Overcoming Roblox Stuck Boot Dilemma with Simple Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/presidents-day-sale-exclusive-save-big-on-macbook-pro-equipped-with-apple-m3-pro-at-20-discount-shop-now/"><u>Presidents' Day Sale Exclusive: Save Big on MacBook Pro Equipped with Apple M3 Pro at 20% Discount - Shop Now!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quickly-fresh-windows-11-drivers-tips-and-tricks/"><u>Quickly Fresh Windows 11 Drivers - Tips & Tricks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-the-dream-experience-baldurs-gate-3-with-david-attenborough-using-advanced-voice-mod-technology/"><u>Unlock the Dream: Experience Baldur's Gate 3 with David Attenborough Using Advanced Voice Mod Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-savings-discover-how-to-enjoy-more-with-apple-tvplus-in-just-five-strategies/"><u>Unlocking Savings: Discover How to Enjoy More with Apple TV+ in Just Five Strategies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/weekly-insights-on-upcoming-devices-from-google-and-samsung/"><u>Weekly Insights on Upcoming Devices From Google & Samsung</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-you-might-reconsider-the-necessity-of-investing-in-your-own-arcade-game-console/"><u>Why You Might Reconsider the Necessity of Investing in Your Own Arcade Game Console</u></a></li>
 </ul></div>
 

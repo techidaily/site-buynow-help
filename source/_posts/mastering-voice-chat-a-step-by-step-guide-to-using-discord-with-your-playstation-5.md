@@ -1,7 +1,7 @@
 ---
 title: "Mastering Voice Chat: A Step-by-Step Guide to Using Discord with Your PlayStation 5"
-date: 2025-01-14T03:10:08.271Z
-updated: 2025-01-15T17:29:47.685Z
+date: 2025-01-18T21:40:15.493Z
+updated: 2025-01-22T06:08:04.412Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 ---
 
 ## Mastering Voice Chat: A Step-by-Step Guide to Using Discord with Your PlayStation 5
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,19 +30,11 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
  Being a PlayStation user doesn't mean you can't use Discord. Connect your Discord account to your PS5 and chat with other users while playing, even if they're using a different platform to you. Here's how to set up and use Discord on a Sony console.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Set Up Discord on PS5
 
  To use Discord on the PlayStation 5, start by [linking your Discord account to your console](https://facebook-videos.techidaily.com/2024-approved-discovery-unearthing-the-best-videos-from-fbs-sphere/). To do this, turn on your PS5, sign in, and select the "cog" Settings icon in the top-right corner of the dashboard.
 
 ![Accessing PlayStation settings using the "Cog" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ps5_settings.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Head to Users and Accounts > Linked Services, and you'll see a list of accounts that you can add to your PS5.
 
@@ -57,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 ![Choosing to accept or decline the terms when connecting PSN to Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/accept_terms.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now link your Discord account by heading to [discord.com/activate](http://discord.com/activate), logging in, and entering the code displayed. You can also [use your iPhone](https://facebook-video-content.techidaily.com/in-2024-enhancing-outdoor-vision-with-gopro-and-live-streaming-platforms/) or [Android smartphone to scan the QR code](https://vp-tips.techidaily.com/2024-approved-free-football-live-learn-and-cut-your-match-footage/) on the screen for quicker access. Alternatively, use the PS5 browser (via the "Use Browser" button) to log in and link accounts that way.
@@ -65,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 ![Using a code or QR code to verify linked accounts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/connect_account.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you've entered the code on a secondary device, you'll need to click "Authorize" to grant permission on Discord's end too.
@@ -76,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
  It's always a good idea to keep your console software up to date to avoid compatibility problems with services like Discord Head to Settings > System Software > System Software Update and Settings to manually check for an update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Join Discord Chats Right on Your PS5
 
  PS5 Discord integration lets you join voice chats on your console using your DualSense controller's microphone and speaker (or a [gaming headset](https://fox-access.techidaily.com/essential-approach-for-blending-gopro-vids-with-continuous-360-degree-visuals/) if you have one connected). There's no way to read or join in on text chats, so you'll be limited to voice channels.
@@ -84,11 +76,11 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 ![Discord intergration in PS5 Game Base.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_2570.JPG) 
 
- From here you'll be able to choose a server, a voice channel, or a direct message call. This eliminates the need to use another device to control Discord integration while using your PS5.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ From here you'll be able to choose a server, a voice channel, or a direct message call. This eliminates the need to use another device to control Discord integration while using your PS5.
 
 ##  Send Discord Chats to Your PS5 via Apps and the Web
 
@@ -107,20 +99,20 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 ![Confirm the console you want to transfer your voice chat to.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/transfer_voice_confirmation.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the PlayStation 5, you should see a notification appear to let you know that you've joined a Discord voice chat.
 
 ![Discord voice chat notification on PS5 dashboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/discord_notification.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can manage your Discord session by pressing the "PS" button, navigating to "Game Base" and selecting "Discord" in the sidebar.
 
 ![Manage your Discord voice chat session.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_2571.JPG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Use Discord on Your PlayStation?
 
@@ -134,11 +126,19 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
  You can remove Discord integration both on your PS5 console or via the Discord web interface and apps. Both have the same effect, so it's up to you which method is more convenient.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  On Your PlayStation 5
 
  To unlink Discord on the PS5, head to Settings > Users and Accounts > Linked Services and select Discord followed by "Unlink Account" to sever ties between your PlayStation Account and your Discord account.
 
 ![Unlink Discord from your PlayStation Network account.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/unlink_discord.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  On Discord
 
@@ -167,17 +167,22 @@ thumbnail: https://thmb.techidaily.com/d01f6c0274e2880e91afbb32b22a67b6646c0f35e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unleash-the-power-of-your-lost-iphone-x/"><u>[New] Unleash the Power of Your Lost iPhone X</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-voip-options-does-vonage-remain-top-tier/"><u>Evaluating VoIP Options: Does Vonage Remain Top-Tier?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/first-impressions-of-samsungs-latest-earbuds-the-galaxy-budsplus/"><u>First Impressions of Samsung's Latest Earbuds - The Galaxy Buds+</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/game-sharing-made-easy-for-xbox-one-users-and-their-circle-of-gamers/"><u>Game-Sharing Made Easy for Xbox One Users and Their Circle of Gamers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v27-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V27 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-everything-you-need-to-know-about-stardew-valley-ginger-island/"><u>In 2024, Everything You Need to Know About Stardew Valley Ginger Island</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-redmi-13c-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Redmi 13C 5G FRP Without Computer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-pantheon-of-praise-celebrating-ten-superstar-posts/"><u>In 2024, The Pantheon of Praise Celebrating Ten Superstar Posts</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/leading-internet-mp3-editing-solution/"><u>Leading Internet MP3 Editing Solution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-performance-on-a-budget-the-ultimate-review-of-the-versatile-dell-g5-5090-system/"><u>Maximizing Performance on a Budget: The Ultimate Review of the Versatile Dell G5 5090 System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-updating-microsofts-sculpt-ergonomic-keyboard-driver-seamlessly/"><u>Step-by-Step Tutorial: Updating Microsoft's Sculpt Ergonomic Keyboard Driver Seamlessly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-2024-audio-gadget-guidebook/"><u>The Ultimate 2024 Audio Gadget Guidebook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-freshly-taken-images-dissection-and-secondary-ideas-for-2024/"><u>[Updated] Freshly Taken Images Dissection & Secondary Ideas for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-youtube-video-process-with-faster-techniques-for-2024/"><u>[Updated] Streamline Your YouTube Video Process with Faster Techniques for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-most-outstanding-television-models-reviewed-find-the-perfect-set-for-you/"><u>2024'S Most Outstanding Television Models Reviewed: Find the Perfect Set for You</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-the-most-advanced-sprinkler-automation-solutions/"><u>A Comprehensive Guide to the Most Advanced Sprinkler Automation Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-and-powerful-laptop-picks-for-the-savvy-shopper-2023-edition/"><u>Affordable & Powerful Laptop Picks for the Savvy Shopper - 2023 Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-and-high-performance-mechanical-keyboards-below-50-price-tag/"><u>Affordable and High-Performance Mechanical Keyboards Below $50 Price Tag</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/crafting-quality-content-setting-up-your-mac-for-minecraft-sessions-for-2024/"><u>Crafting Quality Content Setting Up Your Mac for Minecraft Sessions for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-premier-samsung-galaxy-s23-phone-case-selections-the-consumers-handbook/"><u>Discover Premier Samsung Galaxy S23 Phone Case Selections : The Consumer's Handbook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-reduce-startup-delays-in-star-wars-battlefront-ii-on-windows-machines/"><u>How to Reduce Startup Delays in Star Wars: Battlefront II on Windows Machines</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-z-flip-5-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy Z Flip 5 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-itel-a60-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Itel A60 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-viewing-the-transformers-film-series-sequentially/"><u>The Complete Guide: Viewing the Transformers Film Series Sequentially</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-8-methods-to-transform-mkv-files-into-mp3-audio-a-comprehensive-guide/"><u>Top 8 Methods to Transform MKV Files Into MP3 Audio - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-recommended-keyboards-your-ultimate-guide/"><u>Top Recommended Keyboards : Your Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-keyboards-in-2n24-a-comprehensive-guide/"><u>Top-Rated Wireless Keyboards in 2N24: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-usb-c-power-solutions-for-the-year-2024/"><u>Ultimate Selection of Premium USB-C Power Solutions for the Year 2024</u></a></li>
 </ul></div>
 

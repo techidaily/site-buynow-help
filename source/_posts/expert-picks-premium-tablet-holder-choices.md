@@ -1,7 +1,7 @@
 ---
 title: "Expert Picks: Premium Tablet Holder Choices"
-date: 2025-01-08T23:44:53.956Z
-updated: 2025-01-15T20:07:09.751Z
+date: 2025-01-20T18:53:37.208Z
+updated: 2025-01-22T06:03:05.310Z
 tags:
   - buying-guides
 categories:
@@ -39,6 +39,10 @@ Best Adjustable Tablet Stand
 Best Adjustable Tablet Stand  
 [$23 at Amazon](https://www.amazon.com/Foldable-Aluminum-Universal-Flexible-Rotation/dp/B08FMSCCG9?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001334&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-tablet-stands%2F&asc%5Fcampaign=Commerce)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What to Look For In a Tablet Stand in 2023
 
  Tablet stands come in different shapes and form factors. And with so many options, it can be hard to choose. Thankfully, we’ve made things easier for you by highlighting some of the key things to look for in a tablet stand.
@@ -64,6 +68,10 @@ Best Adjustable Tablet Stand
 
 ![PWR+ Tripod Stand on gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/pwr-tripod-stand.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _PWR+_
 
 | Pros                                                     | Cons                                    |
@@ -85,6 +93,10 @@ _PWR+_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best Tablet Stand Overall
 
 #####  PWR+ Tripod Stand
@@ -93,13 +105,13 @@ The PWR+ Tripod Stand is easy to set up, sturdy, and supports all compatible 4 t
 
 [$35 at Amazon](https://www.amazon.com/Tablet-Stands-Holders-Adjustable-Reception/dp/B071KDB3R6?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001334&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-tablet-stands%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Budget Tablet Stand: [UGREEN Tablet Stand for Desk](https://www.amazon.com/UGREEN-Adjustable-Compatible-Nintendo-Samsung/dp/B07CG71KQ1/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001334&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-tablet-stands%2F&asc%5Fcampaign=Commerce) 
 
 ![UGREEN Tablet Stand for Desk on gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ugreen-tablet-stand-for-desk.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _UGREEN_
 
@@ -121,6 +133,10 @@ _UGREEN_
 ![UGREEN Tablet Stand for Desk pfp on transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ugreen-tablet-stand-for-desk-pfp.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Budget Tablet Stand
 
@@ -153,14 +169,10 @@ _Lamicall_
 
 ![Lamicall Floor Tablet Stand pfp on transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/lamicall-floor-tablet-stand-pfp.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best Floor Tablet Stand
@@ -172,10 +184,6 @@ $56 $70 Save $14
 The Lamicall Floor Tablet Stand is a heavy-duty floor stand with a stable base that can hold tablets up to 15 inches. It is height adjustable to 63 inches and has a flexible gooseneck that can be rotated 360 degrees. 
 
 [$56 at Amazon](https://www.amazon.com/Tablet-Floor-Stand-Adjustable-Compatible/dp/B0894N579V?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001334&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-tablet-stands%2F&asc%5Fcampaign=Commerce) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best Adjustable Tablet Stand: [Tryone Gooseneck Tablet Holder](https://www.amazon.com/Tryone-Gooseneck-Nintendo-Samsung-Overall/dp/B01AUQ33LG/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001334&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-tablet-stands%2F&asc%5Fcampaign=Commerce) 
 
@@ -200,11 +208,11 @@ _Tryone_
 
 ![Tryone Gooseneck Tablet Holder pfp on transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/tryone-gooseneck-tablet-holder-pfp.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Adjustable Tablet Stand
 
@@ -248,16 +256,12 @@ Best Adjustable Tablet Stand
 The UGREEN Desktop Stand is a sturdy, well-built stand that supports tablets from 4.7 to 12.9 inches. It has a dual-rod support design that makes it very stable, even when drawing on the tablet. The stand is also height adjustable, so you can find the perfect viewing angle. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Tablet Stand for Bed: [SAMHOUSING Tablet Stand](https://www.amazon.com/Foldable-Aluminum-Universal-Flexible-Rotation/dp/B08FMSCCG9?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001334&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-tablet-stands%2F&asc%5Fcampaign=Commerce) 
 
 ![SAMHOUSING Tablet Stand on gradient background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/samhousing-tablet-stand.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _SAMHOUSING_
 
@@ -278,15 +282,7 @@ _SAMHOUSING_
 
 ![SAMHOUSING Tablet Stand pfp on transparent background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/samhousing-tablet-stand-pfp.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-best_of-generic.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best Adjustable Tablet Stand
 
@@ -296,10 +292,14 @@ The SAMHOUSING Tablet Stand is a great option for bedside use. It securely holds
 
 [$23 at Amazon](https://www.amazon.com/Foldable-Aluminum-Universal-Flexible-Rotation/dp/B08FMSCCG9?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001334&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-tablet-stands%2F&asc%5Fcampaign=Commerce) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Can I use a tablet stand for an iPad?
@@ -329,22 +329,22 @@ The SAMHOUSING Tablet Stand is a great option for bedside use. It securely holds
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/inancial-foresight-select-youtube-stocks-hubs-for-2024/"><u>[New] Financial Foresight Select YouTube Stocks Hubs for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-topography-of-youtube-content-popularity/"><u>[New] Topography of YouTube Content Popularity</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlocking-the-process-for-claiming-facebooks-top-tier-marker/"><u>2024 Approved Unlocking the Process for Claiming Facebook’s Top-Tier Marker</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-tech-on-trial-the-lenovo-chromebook-duet-review-and-its-impact-as-an-accessible-2-in-1-gadget/"><u>Affordable Tech on Trial: The Lenovo Chromebook Duet Review and Its Impact as an Accessible 2-in-1 Gadget</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ou-need-to-know-about-youtube-shorts-fund/"><u>All You Need to Know About YouTube Shorts Fund</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boost-your-electronics-the-definitive-review-of-the-mighty-beatit-bt-d11-portable-charger/"><u>Boost Your Electronics: The Definitive Review of the Mighty Beatit BT-D11 Portable Charger</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-resolving-black-screen-dilemma-in-far-cry-6/"><u>Expert Advice on Resolving Black Screen Dilemma in Far Cry 6</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-10-leading-budget-friendly-quality-webcall-providers/"><u>In 2024, 10 Leading Budget-Friendly, Quality Webcall Providers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-evaluating-gopro-hero5-video-outputs/"><u>In 2024, Evaluating GoPro Hero5 Video Outputs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-assessment-of-the-amplifi-hd-wireless-networking-solution-defeat-wi-fi-weak-spots-with-ease/"><u>In-Depth Assessment of the Amplifi HD Wireless Networking Solution: Defeat Wi-Fi Weak Spots with Ease!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/iphone-2024-exclusive-top-8-selfie-accessories-list/"><u>Iphone 2024 Exclusive Top #8 Selfie Accessories List</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-speed-of-your-domestic-internet-a-thorough-review-of-the-orbi-tri-band-wi-fi/"><u>Navigating the Speed of Your Domestic Internet: A Thorough Review of the Orbi Tri-Band Wi-Fi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalized-nutrition-with-chatgpt-help/"><u>Personalized Nutrition with ChatGPT Help</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/power-on-the-go-zmi-powerpack-groovy-our-thoughts-and-insights-in-a-complete-review/"><u>Power on the Go? ZMI PowerPack Groovy! - Our Thoughts and Insights in a Complete Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-new-samsung-galaxy-watch-active-2-unveiled-improved-linkages-and-features-beyond-the-original-model-reviewed/"><u>The New Samsung Galaxy Watch Active 2 Unveiled: Improved Linkages & Features Beyond the Original Model Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-verdict-on-microsoft-surface-duo-an-expensive-and-troublesome-multitasking-experience/"><u>The Verdict on Microsoft Surface Duo: An Expensive and Troublesome Multitasking Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-spacious-acer-chromebook-15-in-this-comprehensive-overview/"><u>Unveiling the Features of the Spacious Acer Chromebook 15 in This Comprehensive Overview</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-complete-guide-to-enthralling-boomers-on-snapchat/"><u>[New] 2024 Approved The Complete Guide to Enthralling Boomers on Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-the-best-ways-to-capture-your-minecraft-quests-on-a-mac/"><u>[Updated] Unveiling the Best Ways to Capture Your Minecraft Quests on a Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-google-pixel-8-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Google Pixel 8 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/audew-travel-sized-air-compressor-review-compact-design-exceptional-reliability/"><u>Audew Travel-Sized Air Compressor Review: Compact Design, Exceptional Reliability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-choosing-your-long-span-wireless-router-best-performers-unveiled/"><u>Expertly Choosing Your Long-Span Wireless Router: Best Performers Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-the-capabilities-of-sj-cam-s6/"><u>Exploring the Capabilities of SJ-CAM S6</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/godfall-analysis-why-sonys-initial-ps5-title-falls-short-on-content/"><u>Godfall Analysis: Why Sony's Initial PS5 Title Falls Short on Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-device-unavailable-error-24-for-windows-users/"><u>How to Correctly Address Device Unavailable Error (#24) for Windows Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-dial-down-the-velocity-of-your-snapchat-videos/"><u>In 2024, How to Dial Down the Velocity of Your Snapchat Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lamicall-s-tablet-holder-assessment-a-perfect-blend-of-style-and-usability/"><u>Lamicall S Tablet Holder Assessment: A Perfect Blend of Style and Usability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-asus-wireless-network-adapters-and-router-reviews/"><u>Leading ASUS Wireless Network Adapters & Router Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-8-essential-factors-to-look-for-in-your-next-tablet-purchase/"><u>Top 8 Essential Factors to Look For in Your Next Tablet Purchase</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-17-inch-laptop-models-a-comprehensive-guide/"><u>Top Rated 17-Inch Laptop Models : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-power-inverter-models/"><u>Top-Rated Power Inverter Models</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-to-access-wordpad-in-windows/"><u>Unveiling the Process to Access WordPad in Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/what-you-need-to-know-about-the-next-generation-airpods-and-how-to-secure-yours-early/"><u>What You Need To Know About The Next Generation AirPods & How to Secure Yours Early!</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Xiaomi won't play MOV videos, how to fix ?</u></a></li>
 </ul></div>
 

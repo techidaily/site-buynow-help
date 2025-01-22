@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles"
-date: 2025-01-13T03:52:09.388Z
-updated: 2025-01-16T01:03:52.363Z
+date: 2025-01-19T18:41:48.870Z
+updated: 2025-01-22T09:37:19.212Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ---
 
 ## Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 
  So, if a video game score doesn't help you figure out where to spend your money, is there another way?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Find a Reviewer Who Likes Games You Already Like
 
  Reviews are subjective, and attaching a score to them without a clear and consistent rubric might not be that smart to begin with. There are plenty of incredibly high-scoring games that I think are boring (Breath of the Wild) or barely games (Red Dead Redemption 2), which would make me an iconoclast in some cases. However, tehre are reviewers who have similar tastes to mine, so instead of worrying about an average score on Metacritic or what mainstream reviewers think of a game, try to find a reviewer who has given good scores to games you already love. Then look for games they've reviewed well to get an idea of what you should play next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Read the Reviews, Not the Scores
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -54,7 +54,7 @@ Cianna Garrison / How-To Geek
  If you're reading reviews by other players, rather than professional reviewers, it's also worth looking at circumstantial information to get some context on their reviews. Did they post a gushing review five hours into a 100 hour game? Are they [console warring](https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-phone-and-remove-locked-screen-by-drfone-android/) in the review? Again, the substance of the review matters as well as some of what's between the lines.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Watch YouTube Gameplay
@@ -62,7 +62,7 @@ Cianna Garrison / How-To Geek
  There are tons of third-party gameplay videos of just about every game on YouTube. You may even prefer to watch clips with no commentary at all, so you can get an idea of what the minute-to-minute experience is like, without someone's opinion affecting you. Just be careful not to spoil the game for yourself. You may want to look for footage that's specifically labeled as spoiler-free, or that doesn't contain story content. It may also be a good idea to look at footage of the first hour of gameplay only, if you don't want any spoilers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Try a Demo or Play on a Subscription Service
@@ -90,21 +90,15 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-real-time-storytelling-on-the-rise-navigating-and-thriving-in-a-social-media-world/"><u>[New] In 2024, Real-Time Storytelling on the Rise Navigating and Thriving in a Social Media World</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-youtubes-secrets-for-profound-visibility-gains/"><u>[Updated] 2024 Approved Unlocking YouTube's Secrets for Profound Visibility Gains</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-7-secure-video-conferencing-systems-for-smbs-for-2024/"><u>[Updated] Ultimate 7 Secure Video Conferencing Systems for SMBs for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1-ultimate-guide-locate-virtual-machines-with-vcenter-using-mac-and-ip-addresses/"><u>1. Ultimate Guide: Locate Virtual Machines with vCenter Using MAC and IP Addresses</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bargain-entertainment-setup-the-md2380-unveiled/"><u>Bargain Entertainment Setup: The MD2380 Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bose-quietcomfort-35-ii-review/"><u>Bose QuietComfort 35 II Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choosing-your-smart-companion-alexa-vs-google-assistant-finding-the-right-one/"><u>Choosing Your Smart Companion: Alexa Vs. Google Assistant - Finding the Right One</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/google-data-recovery-recover-lost-data-from-google-pixel-8-by-fonelab-android-recover-data/"><u>Google Data Recovery – recover lost data from Google Pixel 8</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/googles-latest-innovation-an-expert-evaluation-of-the-wireless-nest-doorbell-battery/"><u>Google's Latest Innovation: An Expert Evaluation of the Wireless Nest Doorbell (Battery)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-issues-with-cracking-sound-on-your-pcs-speakers-windows-107-guide/"><u>How to Fix Audio Issues with Cracking Sound on Your PC's Speakers - Windows 10/7 Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-zte-blade-a73-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your ZTE Blade A73 5G Device SIM</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-s18e-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo S18e? Fixed | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-airpod-microphone-problems-on-a-windows-10-computer/"><u>Solving AirPod Microphone Problems on a Windows 10 Computer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-of-premium-vertical-mouse-models-for-2e34/"><u>The Ultimate Selection of Premium Vertical Mouse Models for 2E34</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-picks-outstanding-external-blu-ray-players-and-burners-2024-edition/"><u>Top Picks: Outstanding External Blu-Ray Players and Burners - 2024 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranking-smart-speakers-on-the-market/"><u>Top-Ranking Smart Speakers on the Market</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/creen-safari-adventure-through-one-million-games-for-2024/"><u>[New] Screen Safari Adventure Through One Million Games for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-eliminating-iphoneandroid-issues-with-fb-message-video-sharing/"><u>[Updated] Eliminating iPhone/Android Issues with FB Message Video Sharing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-picks-of-the-year-premium-google-cardboard-vr-gaming/"><u>[Updated] Picks of the Year Premium Google Cardboard VR Gaming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehveubell-review-the-leading-low-cost-video-doorbell-solution/"><u>Comprehveubell Review: The Leading Low-Cost Video Doorbell Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721455342656-contacts-not-responding-on-ios-three-tips-for-a-smooth-solution/"><u>Contacts Not Responding on iOS? Three Tips for a Smooth Solution.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/deciding-between-chromecast-or-roku-which-offers-superior-performance/"><u>Deciding Between Chromecast or Roku: Which Offers Superior Performance?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-high-performance-cable-modems-for-seamless-connectivity/"><u>Discover High-Performance Cable Modems for Seamless Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-performance-and-convenience-with-the-brand-new-ampace-andes-1500-battery-pack/"><u>Evaluating Performance and Convenience with the Brand-New Ampace Andes 1500 Battery Pack</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamp-your-sluggish-computer-expert-strategies-to-rejuvenate-older-windows-10-and-mac-devices/"><u>Revamp Your Sluggish Computer: Expert Strategies to Rejuvenate Older Windows 10 and Mac Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-vpn-apps-reviewed-by-experts-find-your-perfect-match/"><u>Top-Rated iPhone VPN Apps Reviewed by Experts - Find Your Perfect Match</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2025-01-12T18:49:15.948Z
-updated: 2025-01-15T21:12:29.520Z
+date: 2025-01-21T07:05:07.612Z
+updated: 2025-01-22T07:23:40.543Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The 2024 Summer Olympics are landing in Paris at the end of July, and you don't need cable to access a lot of the action. NBC will broadcast many daytime and primetime events. With the aid of an over-the-air (OTA) antenna, you can watch for free.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which Channels are Broadcasting the Olympics?
@@ -35,10 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to NBC, you will find some Olympics content streaming on the Peacock app, GOLF Channel, USA Network, CNBC, and E!. Telemundo will air Spanish-language coverage. However, Peacock and the extended range of NBCUniversal channels are not accessible via antenna and can get expensive due to price creep.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Do I Watch for Free?
 
  OTA antennae pick up free broadcast frequencies, allowing you to tune into television stations without paid cable. Depending on where you live, you may be able to access a handful of local channels or a wider range of HD networks. You are likely to have access to NBC.
@@ -48,12 +48,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Most modern televisions have an integrated tuner, meaning they are ready to be connected to an antenna. This makes setting up an antenna to watch the 2024 Olympics a lot easier than it might sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Setting Up an Antenna
 
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -62,10 +66,6 @@ Jordan Gloor / How-To Geek
 [Setting up an antenna](https://youtube-stream.techidaily.com/2024-approved-unwinding-watchlists-youtubes-route-for-playback-in-opposite-direction/) may be as easy as plugging the device into the integrated tuner on the back of your TV. Once the two devices are connected, you are typically required to turn on your television and allow it to scan for channels. Each antenna may have slightly different setup instructions.
 
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Which Olympic Events I Can Watch for Free?
 
@@ -78,7 +78,7 @@ Jordan Gloor / How-To Geek
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
@@ -104,18 +104,18 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/convert-your-dvd-collection-with-winx-the-ultimate-free-dvd-to-mp4-converter-for-windows-11-and-ios-devices/"><u>Convert Your DVD Collection with WinX: The Ultimate FREE DVD to MP4 Converter for Windows 11 and iOS Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-free-alternatives-to-skype/"><u>Discover the Ultimate Free Alternatives to Skype</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/epubor-ultimate-software-crashes-during-encounter-with-kindle-drm-at-version-3054/"><u>Epubor Ultimate Software Crashes During Encounter with Kindle DRM at Version 3.0.5.4</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-without-fear-with-the-w100-cameras-durability/"><u>Explore Without Fear with the W100 Camera's Durability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-ultra-hd-entertainment-an-in-depth-look-at-the-new-apple-tv-4k/"><u>Exploring Ultra HD Entertainment: An In-Depth Look at the New Apple TV 4K</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-huawei-p30-pro-the-smartphone-that-stands-the-test-of-time/"><u>In-Depth Look at the Huawei P30 Pro – The Smartphone That Stands the Test of Time</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-wi-fi-connection-failures-expert-tips-inside/"><u>Quick Fixes for Common Wi-Fi Connection Failures – Expert Tips Inside!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-lava-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Lava</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsungs-newest-contender-how-the-galaxy-s2n-ultra-improves-on-its-predecessor-the-s23-ultra/"><u>Samsung's Newest Contender: How the Galaxy S2n Ultra Improves on Its Predecessor, the S23 Ultra?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-surprising-potential-of-xbox-series-s-tiny-package-impressive-hardware-inside/"><u>Unpacking the Surprising Potential of Xbox Series S – Tiny Package, Impressive Hardware Inside</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-the-amazon-fire-hd-10-is-a-familys-best-friend-in-the-world-of-tablets-and-entertainment/"><u>Why the Amazon Fire HD 10 Is a Family's Best Friend in the World of Tablets and Entertainment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-guide-easycapture-v2-analysis-for-2024/"><u>[New] Ultimate Guide EasyCapture V2 Analysis for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-screens-guide-to-smart-stocks/"><u>[New] Your Screen's Guide to Smart Stocks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-affordable-high-performance-gaming-keyboards-listed/"><u>[Updated] 2024 Approved Affordable High-Performance Gaming Keyboards Listed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-essential-aspect-ratio-tips-for-social-media-videos-for-2024/"><u>[Updated] Essential Aspect Ratio Tips for Social Media Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-audio-respeeders-fast-fix-for-pace-modification-for-2024/"><u>[Updated] Top Audio Respeeders Fast-Fix for Pace Modification for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/authoritative-guide-to-the-most-advanced-smart-audio-systems/"><u>Authoritative Guide to the Most Advanced Smart Audio Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/book-lovers-guide-how-does-the-newly-launched-kobo-nia-hold-up-against-amazon-kindle-rivals/"><u>Book Lover's Guide: How Does the Newly Launched Kobo Nia Hold up Against Amazon Kindle Rivals?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-smart-companion-alexa-vs-google-assistant-finding-the-ideal-match/"><u>Choosing Your Smart Companion: Alexa Vs. Google Assistant - Finding the Ideal Match</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-e-readers-ipad-vs-amazon-kindle-vs-barnes-and-noble-nook/"><u>Comparing E-Readers: IPad Vs. Amazon Kindle Vs. Barnes & Noble Nook</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-itel-frp-bypass-by-drfone-android/"><u>In 2024, About Itel FRP Bypass</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-delving-into-the-heart-of-apples-m1-processor/"><u>In 2024, Delving Into the Heart of Apple's M1 Processor</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-the-mystery-uncovering-why-steam-overlooks-your-vr-setup/"><u>Solve the Mystery: Uncovering Why Steam Overlooks Your VR Setup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-chromebooks-auditory-experience-with-top-5-web-tools-for-2024/"><u>Transform Your Chromebook's Auditory Experience with Top 5 Web Tools for 2024</u></a></li>
 </ul></div>
 

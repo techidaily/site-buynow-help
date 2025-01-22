@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2025-01-14T19:29:32.745Z
-updated: 2025-01-16T03:18:13.867Z
+date: 2025-01-18T10:11:33.575Z
+updated: 2025-01-21T17:20:32.285Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,10 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I ran virus scans on all the downloaded files and didn't detect anything, but you should also scan any files you download, especially executable programs, which in this case would be the mod manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 1: Open the Mod Manager
 
  With the mod manager file unzipped, open the folder and run BG3ModManager.exe. You should see this program window open. It looks a little complicated, but we're going to follow a very basic process.
@@ -54,7 +54,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 2: Import the Mod Fixer
@@ -63,16 +63,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![BG3 mod importing menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-importing-menu-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to the folder where the mod fixer's zipped file is, select it and then select "Open." You should see "ModFixer" listed under "Overrides."
 
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 4: Export Mod Order
@@ -80,10 +88,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Next, all you have to do is select File>Export Order to Game.
 
 ![BG3 export mod order menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-export-mod-order-menu.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You should see a green message pop up at the bottom of the window in the mod manager.
 
@@ -102,10 +106,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 Your browser does not support the video tag. 
 
  Now you can play the game like normal with your new narrator.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Removing Mods
 
@@ -132,24 +132,20 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[New] 2024 Approved How to Force YouTube CC to Stay On and Get More Views</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-full-exploration-new-features-in-videoshow-app-24-for-2024/"><u>[Updated] Full Exploration New Features in VideoShow App '24 for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft/"><u>[Updated] In 2024, The Art of Intense Focus 5 Techniques for Zooming in Minecraft</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harness-the-power-of-storyremix-elevate-video-quality-for-windows-11-users/"><u>2024 Approved Harness the Power of StoryRemix Elevate Video Quality for Windows 11 Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-prime-7-free-screen-recorders-for-old-computers/"><u>2024 Approved Prime 7 Free Screen Recorders for Old Computers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-in-class-analyzing-the-differences-between-apple-tv-4k-and-roku-ultra/"><u>Best in Class? Analyzing the Differences Between Apple TV 4K and Roku Ultra</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/better-balance-drones-7-leading-gimbals-for-2024/"><u>Better Balance Drone's 7 Leading Gimbals for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-nixplay-x15d-the-cutting-edge-picture-revelation/"><u>Discover Nixplay X15D - The Cutting-Edge Picture Revelation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/examine-recorded-conversation-for-2024/"><u>Examine Recorded Conversation for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/final-assessment-of-hitman-3-a-flawless-finale/"><u>Final Assessment of Hitman 3: A Flawless Finale</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/future-ready-discover-the-most-effective-alternatives-to-microsoft-office/"><u>Future Ready: Discover the Most Effective Alternatives to Microsoft Office</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-asus-rog-rapture-gt-ax110n-wifi-router-evaluation-topnotch-performance-for-gamers/"><u>In-Depth Asus ROG Rapture GT-AX110n WiFi Router Evaluation: Topnotch Performance for Gamers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-third-gen-apple-tv-4k-streaming-box/"><u>In-Depth Evaluation of the Third Gen Apple TV 4K Streaming Box</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/lg-360-camera-mastered-a-full-review/"><u>LG 360 Camera Mastered A Full Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/linksys-wrt3200acm-router-unveiled-a-benchmark-in-open-source-technology-with-impeccable-performance/"><u>Linksys WRT3200ACM Router Unveiled: A Benchmark in Open Source Technology with Impeccable Performance</u></a></li>
-<li><a href="https://fox-info.techidaily.com/overcoming-handheld-vibration-secure-your-gopro-movies/"><u>Overcoming Handheld Vibration Secure Your GoPro Movies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-reviews-why-the-netgear-nighthawk-rax120-is-a-leader-in-wireless-connectivity-speeds/"><u>Top Reviews: Why the Netgear Nighthawk RAX120 Is a Leader in Wireless Connectivity Speeds</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-visual-experience-lg-c9s-65-oled-screen-and-its-impact-on-home-entertainment/"><u>Ultimate Visual Experience: LG C9's 65 OLED Screen and Its Impact on Home Entertainment</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nvesting-right-choosing-the-best-camera-and-gear-for-2024/"><u>[New] Investing Right Choosing the Best Camera and Gear for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elite-10-sound-enhancers-across-os-platforms-for-2024/"><u>[Updated] Elite 10 Sound Enhancers Across OS Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zenith-of-plotting-in-cinemas-eight-divisions/"><u>[Updated] Zenith of Plotting in Cinema's Eight Divisions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-powershot-perfection-elph-190/"><u>Budget-Friendly PowerShot Perfection: ELPH 190</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207289788-eliminate-windows-directory-and-file-access-issues-today/"><u>Eliminate Windows Directory and File Access Issues Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-vivo-x100-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Vivo X100 with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-the-skies-with-microsoft-flight-simulator-x-gold-edition-a-comprehensive-review-of-the-leading-aeronautical-gaming-experience/"><u>Master the Skies with Microsoft Flight Simulator X: Gold Edition - A Comprehensive Review of The Leading Aeronautical Gaming Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-protective-covers-for-google-pixel-6-pro/"><u>Top-Rated Protective Covers for Google Pixel 6 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-smart-bathroom-weighing-devices/"><u>Top-Rated Smart Bathroom Weighing Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-soldering-irons-find-your-perfect-match/"><u>Top-Rated Soldering Irons: Find Your Perfect Match</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-travel-friendly-speakers-a-comprehensive-guide/"><u>Top-Rated Travel-Friendly Speakers : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-choosing-the-ideal-surge-protector-for-home-and-office-in-2-surveys-highlighting-their-superiority-in-performance-and-value-for-customers-see13/"><u>Ultimate Guide: Choosing the Ideal Surge Protector for Home & Office in 2 Surveys, Highlighting Their Superiority in Performance and Value for Customers Seeking Protection Against Voltage Spikes.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-durable-and-stylish-google-pixel-phone-sleeves-for-2nce-2023-edition/"><u>Ultimate Selection: Durable & Stylish Google Pixel Phone Sleeves for 2Nce - 2023 Edition</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/visual-voyages-free-thematic-tools-for-youtube/"><u>Visual Voyages Free Thematic Tools for YouTube</u></a></li>
 </ul></div>
 
