@@ -1,7 +1,7 @@
 ---
 title: "My Journey Into Game Development with ChatGPT: A Comprehensive Review"
-date: 2025-01-06T00:41:07.561Z
-updated: 2025-01-10T06:22:49.833Z
+date: 2025-01-28T20:37:23.094Z
+updated: 2025-01-29T21:56:05.277Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/34062c0c76761441d1daaab882479cf039a7dd266
 ---
 
 ## My Journey Into Game Development with ChatGPT: A Comprehensive Review
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/34062c0c76761441d1daaab882479cf039a7dd266
 ![ChatGPT gives me a list of ideas that I could potentially make into a game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-1.png) 
 
  It's quickly apparent that GPT's willingness to [teach you to code](https://fox-helps.techidaily.com/navigating-gif-storage-and-use-in-the-digital-age-iphone/) a game is well-meaning but requires you to understand a bit about what you're doing. As someone who's been an amateur game developer for more than a decade, I know a little bit about coding a game. In using GPT to help me, I was interested in seeing how sophisticated it was for producing a playable game prototype.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  It Certainly Understands Game Engines
 
@@ -79,7 +79,7 @@ public class Projectile : MonoBehaviour
  Notably, it gave me well-commented code so I could follow along as a beginner programmer. Many places suggest that you could [learn to code using AI](https://learntocodewith.me/resources/ai-coding/), and the inclusion of well-commented code is part of that. You won't have to worry if there are errors in your code if you can trace them comment by comment. However, when using GPT to build a game, I encountered several issues that would defeat a newcomer to game development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ChatGPT Is Far From Perfect
@@ -89,16 +89,12 @@ public class Projectile : MonoBehaviour
 ![An error happens that I can't seem to figure out, so I ask GPT for help](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-wild-unexpected-behavior-appears.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this example, I encountered an issue with spawning my projectiles, with all the "bullets" being deflected when the player moves. While this could create some interesting play patterns, I decided to ask it to fix the problem, and it suggested a fix. Unfortunately, the fix didn't work.
 
 ![GPT's responses doesn't fix the error I keep having](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-error-is-still-there.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I eventually fixed it myself, but it highlighted a major issue with using ChatGPT to code a game: there are some things it doesn't know.
 
@@ -112,13 +108,13 @@ public class Projectile : MonoBehaviour
 
 ![GPT gives me a piece of code that is outdated because of GPT's limitations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gpt-s-godot-problem-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 GPT's Godot Problem
 
  For those who use Godot regularly, the issue is immediately obvious. ChatGPT stopped learning in 2021 or thereabouts (at least for the free version). The script GPT gave me was based on its knowledge of Godot 2.x, which is a heavily outdated version of the current 4.x version. The glaring problem is the use of KinematicBody2D, which was replaced by CharacterBody2D in later iterations of the language.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Much Skill Do You Need to Code a Game With ChatGPT?
 
@@ -131,6 +127,10 @@ GPT's Godot Problem
 ##  Should You Code a Game With ChatGPT?
 
 ![Screenshot of My Game's Title Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-1-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Game development is a complex field, but thanks to engines like those mentioned above, it is much more approachable for the general public. A skilled developer could spend a few hours putting together a game that works and has all the things they want in it.
 
@@ -162,22 +162,16 @@ GPT's Godot Problem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-effortless-idevice-photo-to-pc-migration/"><u>[Updated] In 2024, Effortless iDevice Photo-to-PC Migration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-brother-hl-l2340dw-wireless-color-laser-printer-drivers-and-software-for-windows/"><u>Free Download: Brother HL-L2340DW Wireless Color Laser Printer Drivers & Software for Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-choosing-top-8-free-ai-powered-srt-translators/"><u>In 2024, Choosing Top 8 Free, AI-Powered SRT Translators</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 11 Pro Max</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-midlands-lxt500vp3-handheld-radios-packed-with-features-but-questionable-performance/"><u>In Depth Review of Midland's LXT500VP3 Handheld Radios – Packed with Features but Questionable Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-reliable-omoton-t1-tablet-holder-great-value-at-an-unbeatable-price/"><u>In-Depth Evaluation of the Reliable Omoton T1 Tablet Holder: Great Value at an Unbeatable Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-dying-light-the-ultimate-first-person-team-up-survival-journey/"><u>In-Depth Review of Dying Light: The Ultimate First-Person, Team-Up Survival Journey</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-suminds-best-selling-bluetooth-bt70b-transmitter-a-must-have-for-every-driver/"><u>In-Depth Review of Sumind's Best Selling Bluetooth BT70B Transmitter: A Must-Have for Every Driver!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insightful-analysis-of-the-lavish-and-rapid-glion-dolly-electric-scooter/"><u>Insightful Analysis of the Lavish & Rapid Glion Dolly Electric Scooter</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/introducing-karaoke-cloud-pro-v2-upgrade-from-sept-14-with-extra-tracks-the-ultimate-dj-experience/"><u>Introducing Karaoke Cloud Pro v2 Upgrade From Sept '14 with Extra Tracks: The Ultimate DJ Experience</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ipad-screen-recording-made-simple-a-handy-overview/"><u>IPad Screen Recording Made Simple A Handy Overview</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-it-worth-switching-to-tp-links-archer-ax6000-how-does-it-stack-up-to-the-nighthawk-ax12/"><u>Is It Worth Switching to TP-Link's Archer AX6000? How Does It Stack Up to the Nighthawk AX12?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-youtubes-enhanced-service-worth-the-investment/"><u>Is YouTube's Enhanced Service Worth the Investment?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lg-k92-5g-smartphone-assessment-is-the-upgrade-worthwhile/"><u>LG K92 5G Smartphone Assessment: Is the Upgrade Worthwhile?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/review-vlcs-capability-to-record-screens/"><u>Review VLC's Capability to Record Screens</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/syma-x5c-reviewed-ideal-entry-level-flying-machine-for-2024/"><u>Syma X5C Reviewed Ideal Entry-Level Flying Machine for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/behemoth-performance-2500-msi-raider-hx-showdown/"><u>Behemoth Performance: $2500 MSI Raider HX Showdown</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/die-besten-12-gratis-konvertierenden-apps-fur-pcmac-um-4k-videos-perfekt-in-1080p-zu-transformieren/"><u>Die Besten 12 Gratis Konvertierenden Apps Für PC/Mac, Um 4K-Videos Perfekt in 1080P Zu Transformieren</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-12-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 12 Pro? | Stellar</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-dissecting-youtubes-user-commentary/"><u>In 2024, Dissecting YouTubes' User Commentary</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-moving-email-accounts-seamlessly-between-thunderbird-and-outlook/"><u>Step-by-Step Guide: Moving Email Accounts Seamlessly Between Thunderbird and Outlook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tango-app-user-guide-exceptional-free-communication-tools-included/"><u>Tango App User Guide - Exceptional Free Communication Tools Included</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-algorithm-of-affluence-for-social-sites/"><u>The Algorithm of Affluence for Social Sites</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-guide-to-choosing-the-best-budget-friendly-case-for-macbook-pro-13/"><u>The Essential Guide to Choosing the Best Budget-Friendly Case for MacBook Pro 13</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-assessment-of-dell-xps-13s-impressive-2-in-1-functionality-and-power/"><u>The Ultimate Assessment of Dell XPS 13'S Impressive 2-in-1 Functionality and Power</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-leading-voice-transcription-programs/"><u>The Ultimate List: Leading Voice Transcription Programs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
 

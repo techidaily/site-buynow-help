@@ -1,7 +1,7 @@
 ---
 title: "Clearing Space: Ultimate Guide to Expanding Your PS5's Hard Drive Capacity"
-date: 2025-01-07T21:11:10.822Z
-updated: 2025-01-09T22:16:45.535Z
+date: 2025-01-25T17:07:03.636Z
+updated: 2025-01-29T22:16:24.074Z
 tags:
   - games
   - tv
@@ -13,10 +13,6 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
 ## Clearing Space: Ultimate Guide to Expanding Your PS5's Hard Drive Capacity
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Delete Unused Games and Apps](https://extra-tips.techidaily.com/crafting-chuckles-in-cyberspace-diy-memes-of-the-metaverse/)
@@ -27,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 * [Disable PS5 Auto Capturing for Achievements](https://screen-capture.techidaily.com/updated-launching-live-recordings-on-hp-computers-for-2024/)
 * [Use Cloud Gaming When Possible](https://ai-live-streaming.techidaily.com/secrets-for-tiktok-live-studio-success-for-2024/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Deleting unused games and apps is the easiest way to free up space on your PS5\. You can also transfer games to an external USB drive so that you don't have to download them again.
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
  The PlayStation 5’s internal SSD has 825 GB, but only 667 GB of that is available for you to use. For many gamers, that space can quickly run out. Here’s how you can free up some of it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Delete Unused Games and Apps
 
  If you’re not playing a particular game, you should consider deleting it to clear space. To do that, highlight the game (don’t launch it) on the home screen and press the Options button on your DualSense controller. Then, select “Delete” in the menu.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 ![Deleting a game from the PS5 home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-game-home-screen-ps5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Confirm you want to delete it by selecting “Yes” in the prompt.
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 ![Deleting a game from the Game Library screen on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/game-library-menu-ps5.png) 
 
  You’ll find games that are hidden from the home screen here. This will give you a better idea of what is taking up space on your PS5’s storage drive. Again, you can delete these using the Options > Delete process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Transfer Games to an External USB Drive
 
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
  In the prompt, select “OK” to start the moving process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Delete Large Save Files
 
  Some save files can be hundreds of megabytes. Deleting them, especially if it’s a game you’re not going to play again, might just give you some extra space on your PS5’s storage.
@@ -93,15 +97,7 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
 ![Deleting selected save data on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/deleting-games-console-storage-ps5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select “OK” in the prompt, and the save data will be removed from your console. Remember that this will effectively reset your progress in a game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Transfer Save Data to Cloud Storage
 
@@ -121,6 +117,10 @@ Chifundo Kasiya / How-To Geek
 
  The files will now start uploading to the cloud storage. How long it takes will depend on the size of the files and the speed of your internet connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Delete or Transfer Screenshots and Video Captures
 
  Screenshots and video captures can accumulate over time and take up significant space on your PS5's drive. You can delete them from the system or transfer them to a USB drive to free up space.
@@ -129,12 +129,16 @@ Chifundo Kasiya / How-To Geek
 
 ![Select a tab in the Media Gallery screen on PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/media-gallery-settings-ps5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select a screenshot or video and press the Options button on your controller. Then, select “Delete” or “Copy to USB Drive” in the menu.
 
 ![Selecting "Delete" or "Copy to USB Drive" on a PS5 when deleting or moving media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-video-media-gallery-ps5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, confirm your decision by selecting “Delete” or “Copy” in the prompt. You can also delete or transfer several items at once by choosing the “Select Multiple” icon on the left.
@@ -149,10 +153,6 @@ Chifundo Kasiya / How-To Geek
 
  Once you confirm your decision, the items will be removed or moved from your PS5\. If you want another way to back up these items, you can [transfer the screenshots and videos to your phone](https://extra-skills.techidaily.com/2024-approved-seeking-visual-vintage-free-art-archives-online/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Disable PS5 Auto Capturing for Achievements
 
  By default, the PS5 will automatically record screenshots and videos whenever you unlock a trophy. These can also accumulate, especially if you’re a trophy hunter.
@@ -161,15 +161,15 @@ Chifundo Kasiya / How-To Geek
 
 ![The Captures and Broadcasts screen in the PS5 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/captures-and-broadcasts-screen-ps5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select “Save Trophy Screenshots” in the Screenshots section and choose “None” in the menu. Do the same for the “Save Trophy Videos” option in the Video Clips section.
 
 ![Disabling autocapturing for trophies on the PS5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/disabling-autocapture-trophy-captures.png) 
 
  Now you won’t have trophy screenshots and videos automatically taking up space in your PS5’s storage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Cloud Gaming When Possible
 
@@ -196,21 +196,19 @@ Chifundo Kasiya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-deciphering-bandicams-latest-2023-capabilities/"><u>[New] In 2024, Deciphering Bandicam's Latest 2023 Capabilities</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1716069056997-updated-in-2024-zombification-extravaganza-8-epic-titles-ranked/"><u>[Updated] In 2024, Zombification Extravaganza - 8 Epic Titles Ranked!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-ground-in-easy-modern-nft-creation-techniques/"><u>2024 Approved Breaking Ground in Easy, Modern NFT Creation Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-new-horizon-of-affordability-with-microsofts-surface-laptop-go-reviewed-here/"><u>Exploring the New Horizon of Affordability with Microsoft's Surface Laptop Go Reviewed Here!</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/find-your-deals-on-oodle-zero-cost-local-classifieds/"><u>Find Your Deals on Oodle: Zero Cost Local Classifieds</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-classic-creatures-to-modern-mayhem-a-new-direction-for-zombie-lore-with-7-days-to-die/"><u>From Classic Creatures to Modern Mayhem: A New Direction for Zombie Lore with '7 Days to Die'</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/future-proof-vision-enhancements-top-smart-frames-to-look-forward-to/"><u>Future-Proof Vision Enhancements: Top Smart Frames to Look Forward To</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-the-full-spectrum-of-visions-with-chatgpts-ai-capabilities/"><u>Harnessing the Full Spectrum of Visions with ChatGPT's AI Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hewlett-packards-affordable-15-notebook-with-amd-processor-is-it-efficient-for-your-needs/"><u>Hewlett-Packard's Affordable 15 Notebook with AMD Processor: Is It Efficient for Your Needs?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/illuminate-your-world-the-powerful-flash-of-the-430ex-iii-rt-review/"><u>Illuminate Your World: The Powerful Flash of the 430EX III-RT Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insightful-overwatch-critique-engaging-squad-battles-galore/"><u>Insightful Overwatch Critique: Engaging Squad Battles Galore</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/perfecting-ephemeral-fades-in-digital-recording-software-audacity-for-2024/"><u>Perfecting Ephemeral Fades in Digital Recording Software Audacity for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/topview-assessment-report-for-2024/"><u>TopView Assessment Report for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-harnessing-technology-the-art-of-capturing-ios-devices-in-media-for-2024/"><u>[Updated] Harnessing Technology The Art of Capturing iOS Devices in Media for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-banners-makers-10-online-tools-to-create-channel-art/"><u>[Updated] In 2024, YouTube Banners Makers 10 Online Tools to Create Channel Art</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/all-about-the-new-fortnite-experience-in-depth-review-of-the-current-battle-royale-season/"><u>All About the New Fortnite Experience: In-Depth Review of the Current Battle Royale Season</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazons-streaming-game-changer-a-comprehensive-review-of-the-high-speed-fire-tv-cube-device/"><u>Amazon's Streaming Game Changer: A Comprehensive Review of the High-Speed Fire TV Cube Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apples-latest-innovation-unveiled-discover-the-new-m4-processor-launch-details-and-technical-specifications/"><u>Apple's Latest Innovation Unveiled: Discover the New M4 Processor Launch Details & Technical Specifications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/athletes-eye-on-the-vive-cosmos-an-outstanding-vr-set-holding-its-own-against-tough-competitors/"><u>Athlete's Eye on the Vive Cosmos – An Outstanding VR Set Holding Its Own Against Tough Competitors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beam-power-move-from-win10-32-bit-to-64-bit-superiority/"><u>Beam Power: Move From Win10 32-Bit to 64-Bit Superiority</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723082423931-expert-analysis-of-the-amplifi-hd-router-setup-say-goodbye-to-weak-signal-areas/"><u>Expert Analysis of the Amplifi HD Router Setup: Say Goodbye to Weak Signal Areas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-change-insights-from-the-latest-tech-team-reshuffles-zdnet/"><u>Navigating Change: Insights From the Latest Tech Team Reshuffles | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-motorola-razr-40-ultra-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Motorola Razr 40 Ultra.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/scrutinizing-the-specifications-of-djis-flight-model-3-for-2024/"><u>Scrutinizing the Specifications of DJI's Flight Model 3 for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/stream-your-xbox-one360-games-seamlessly-using-the-windows-11-xbox-gaming-platform/"><u>Stream Your Xbox One/360 Games Seamlessly Using the Windows 11 Xbox Gaming Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/title-transformations-beyond-standard-styles/"><u>Title Transformations Beyond Standard Styles</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-itel-s23-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Itel S23 FRP Bypass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective"
-date: 2025-01-07T06:59:28.568Z
-updated: 2025-01-09T22:53:55.115Z
+date: 2025-01-26T16:54:42.710Z
+updated: 2025-01-29T18:00:36.533Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
 ## Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Highlights
 
 * PS2 could render games at 60fps easily due to optimized architecture.
@@ -21,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
  The PlayStation 2 had no shortage of games that ran at a smooth 60fps, but for the console generations that followed, this performance figure became rather scarce. Why did hitting that magic 60fps mark become so difficult and rare?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The HD Era
 
  The PlayStation 3 and Xbox 360 heralded the era of 720p and 1080p games. Taking advantage of a new generation of TVs, the amount of detail in games shot up dramatically. Unfortunately, the more pixels you have, the more GPU memory and bandwidth you need, and rendering each frame takes much more processing power even without all the new eye-candy.
@@ -32,16 +32,24 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 ![Sony PlayStation 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Sony-PlayStation-3-large.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Sony_
 
  Which is why most games on these consoles target 30fps, and more often than not failed to maintain or even reach that figure. Offering frame rates in the 20s, for the most "cinematic" gaming experience possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Weak CPUs
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -50,10 +58,6 @@ Tim Brookes / How-To Geek
  Funnily enough, the PlayStation 3 was blessed with a supremely powerful CPU for the time, but its exotic architecture made it hard to program and so in most games, that performance wasn't accessible. However, the weak CPU problem really came to the fore in the PlayStation 4 and Xbox One generation.
 
  These consoles had GPUs that had no problems giving us a consistent 30fps experience in most cases, but their CPUs were essentially weak power-efficient laptop components that really struggled to go beyond the 30fps mark. This is why when the PlayStation 4 Pro and Xbox One X consoles were released with significantly upgraded GPUs, developers could only increase graphical fidelity, but not frame rate. Even with a mild increase in clock speed, the CPUs in the half-generation refreshed consoles just couldn't muster faster frames.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Pushing for Nicer Screenshots
 
@@ -72,16 +76,12 @@ Cianna Garrison / How-To Geek
  According to a wonderful [deep dive by Modern Vintage Gamer](https://www.youtube.com/watch?v=%5FPiiXM51oBo) the PS2's "Emotion Engine" had an architecture well-optimised, with sub-processors specialized in accelerating different aspects of rendering which, in turn, could feed that Graphics Synthesizer quickly and efficiently. In other words, developers would hit the "spatial" detail limit before hitting the "temporal" limit. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  An Apathetic Customer Base
 
  Apart from a few vocal people on gaming forums and platforms like X (formerly Twitter), it's not clear that the typical console gamer really cares about frame rate at all. While a cool-looking trailer or screenshots will impress prospective buyers, 60fps gameplay doesn't seem to move the needle much. With the current generation of consoles, console gamers do seem a little more aware of 60fps and its benefits, but quite a few games have 60fps modes that compromise the visuals far too much to actually play them that way.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  We’re Back to 30FPS Again.
 
@@ -102,16 +102,18 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-online-video-scaling-service/"><u>[New] Online Video Scaling Service</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/diving-into-the-updates-of-sony-blu-ray-s6500/"><u>Diving Into the Updates of Sony Blu-Ray S6500</u></a></li>
-<li><a href="https://extra-support.techidaily.com/insightful-ways-of-gathering-photographic-elements-for-2024/"><u>Insightful Ways of Gathering Photographic Elements for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-world-of-phones-is-an-iphone-or-a-samsung-device-best-for-you/"><u>Navigating the World of Phones: Is an iPhone or a Samsung Device Best for You?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oodle-unveiled-topnotch-local-deals-and-promotions-without-the-price-tag/"><u>Oodle Unveiled: Topnotch Local Deals and Promotions Without the Price Tag</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-s10-review/"><u>Samsung Galaxy S10 Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/seamless-broadcasting-with-manycam-your-ultimate-choice-in-live-streaming-and-online-conferencing-tools/"><u>Seamless Broadcasting with ManyCam: Your Ultimate Choice in Live Streaming and Online Conferencing Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/securing-online-play-making-and-using-a-network-id-on-the-nintendo-3ds/"><u>Securing Online Play: Making and Using a Network ID on the Nintendo 3DS</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transitioning-from-windows-home-to-professional-key-benefits-unveiled/"><u>Step-by-Step Guide: Transitioning From Windows Home to Professional - Key Benefits Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/take-to-the-skies-outdoors-in-depth-look-at-the-blade-blh4100-120-r-ready-to-fly-helicopter/"><u>Take to the Skies Outdoors: In-Depth Look at the Blade BLH4100 120 R Ready-to-Fly Helicopter</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-priority-alert-why-you-cant-wait-any-longer-to-get-ios-153-installed/"><u>Top Priority Alert: Why You Can't Wait Any Longer to Get iOS 15.3 Installed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-duel-masters-switch-edition-the-best-of-ten-for-2024/"><u>[New] Duel Masters Switch Edition - The Best of Ten for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-the-art-of-channel-creation-on-youtube/"><u>[New] Mastering the Art of Channel Creation on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-pairings-adding-songs-to-windows-11-videos-with-ease/"><u>[New] Perfect Pairings Adding Songs to Windows 11 Videos with Ease</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-withings-move-where-vintage-style-meets-smartwatch-technology/"><u>A Closer Look at Withings Move: Where Vintage Style Meets Smartwatch Technology</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-umbrella-studiokit-xlz103-review/"><u>Affordable Umbrella StudioKit XLZ103 Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-homepod-vs-google-nest-audio-a-comprehensive-sound-showdown/"><u>Apple HomePod Vs. Google Nest Audio: A Comprehensive Sound Showdown</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-ac88u-gaming-router-performance-analysis-delivers-as-promised/"><u>Asus AC88U Gaming Router Performance Analysis: Delivers as Promised</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-poco-f5-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco F5 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-info.techidaily.com/elevate-your-media-experience-with-top-phone-videos/"><u>Elevate Your Media Experience with Top Phone Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolving-issues-when-starting-genshin-impact/"><u>Quick Solutions: Resolving Issues When Starting Genshin Impact</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-creativity-of-2013s-sound-blaster-zxr-a-detailed-review/"><u>Unveiling the Creativity of 2013'S Sound Blaster ZxR: A Detailed Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/xbox-one-x-review-taking-the-crown-as-todays-console-king/"><u>Xbox One X Review: Taking the Crown as Today’s Console King</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/zte-blade-a3y-evaluation-exceptional-value-in-an-affordable-smartphone/"><u>ZTE Blade A3Y Evaluation: Exceptional Value in an Affordable Smartphone</u></a></li>
 </ul></div>
 

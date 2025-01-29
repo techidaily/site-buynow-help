@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing a Bursting Steam Game Collection
-date: 2025-01-13T04:11:28.813Z
-updated: 2025-01-16T06:00:30.488Z
+date: 2025-01-24T19:40:54.341Z
+updated: 2025-01-29T17:14:43.321Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Effective Strategies for Managing a Bursting Steam Game Collection
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Prioritizing short games with strong storylines helps maximize enjoyment in limited gaming windows.
@@ -22,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After collecting games from sales, bundles, and elsewhere, I have over 200 games in my Steam library and not enough time to play them all. This called for some prioritization. Here's how I prioritized the games that are worth my time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's In My Game Library: The Assessment Step
@@ -43,10 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  But what about the longer games? Well, I will be honest; some longer games also made it to the top of the list. Here are the criteria I used to judge them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Heavyweights: Judging Which Long Games Are Worth My Time
 
  With the shortest fifteen games at the top of my list, I had a few month's worth of gaming time sorted. But there was an entire section of my games catalog I hadn't touched yet: longer games and those with continual progression. One of those two categories of games is just not something I could manage, and the MMOs immediately went out the window, as did the seasonal games like _Path of Exile_.
@@ -57,10 +57,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Games making up my steam library before I prioritized them by what I needed to play first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/my-library-before-prioritizing.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Finally, for the longer games, I implemented a strict playtime window. A long game had exactly one hour of playtime to hook me. If I wasn't interested in the game, the characters, or the plot at the end of that playtime, I would drop it. This is where my subjectivity came in since I knew that some of these games already had weak plotlines (or none at all).
 
  Despite [being a success story as far as a recovery arc goes](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review), _No Man's Sky_ had to take the drop because it was just too much for me to even think about doing. The lack of a solid plot of the game made the experience one I could afford to avoid altogether.
@@ -70,7 +66,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After going through this process, I whittled down the 200+ games in my inventory to a little over 25 titles, all of which appealed to me and which I was looking forward to playing. I still have the other 175+ games in my library, but I'm not really as interested in playing them. Maybe when I'm bored, I'll install something and give it a go, but the priority games have already been decided.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  My Methodology Isn't Perfect
@@ -82,10 +78,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![How Long to Beat entry for Elden Ring.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-20-at-08-18-46.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Arguably the biggest issue that someone attempting to copy my method will have is categorizing their games into games that can be completed relatively easily and those that will take a lot more time. Judging average playtime using a website like [How Long to Beat](https://howlongtobeat.com) for a game isn't a solid metric, and it's usually better to look at the reviews and comments on the game to get a better feel for that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Clean Steam Library Is a Happy Steam Library
 
@@ -106,24 +106,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-android-photography-excellence-tips-and-tools/"><u>[New] In 2024, Android Photography Excellence Tips and Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>[Updated] Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-buying-guide-select-the-perfect-mouse-for-your-mac/"><u>Essential Buying Guide: Select the Perfect Mouse for Your Mac</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/exploring-the-field-gear-vs-lgcam-comparison/"><u>Exploring the Field Gear vs LGCam Comparison</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/immerse-yourself-in-skyrims-adventure-the-best-elder-scrolls-game-for-nintendo-switch-reviewed/"><u>Immerse Yourself in Skyrim's Adventure: The Best Elder Scrolls Game for Nintendo Switch Reviewed</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-all-you-need-to-know-about-adding-apple-music-to-video/"><u>In 2024, All You Need to Know About Adding Apple Music to Video</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-filmora-guide-efficiently-convert-avi-files-to-gifs-on-both-operating-systems/"><u>In 2024, Filmora Guide Efficiently Convert AVI Files to GIFs on Both Operating Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p55plus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel P55+ Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-pulse-picking-playlists-hot-tracks-for-viral-youtube-shorts/"><u>In 2024, Pulse-Picking Playlists Hot Tracks for Viral YouTube Shorts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/jackery-powerbar-portable-charger-analysis-featuring-integrated-ac-output/"><u>Jackery PowerBar Portable Charger Analysis: Featuring Integrated AC Output</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-twelve-souths-bookbook-v2-for-macbook-ingenious-protective-gear/"><u>Review of Twelve South's BookBook V2 for MacBook - Ingenious Protective Gear</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/scorching-deal-alert-unbeatable-msi-aegis-r2-with-rtx-4070-and-intel-i7-at-less-than-1600-upgrade-your-game-today/"><u>Scorching Deal Alert: Unbeatable MSI Aegis R2 with RTX 4070 & Intel I7 at Less Than $1,600 – Upgrade Your Game Today</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-review-for-ambients-ws-1002-wifi-weather-station-exquisite-quality-with-a-premium-tag/"><u>Top Review for Ambient's WS-1002 WiFi Weather Station: Exquisite Quality with a Premium Tag</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-guide-to-the-leading-17-inch-laptops/"><u>Ultimate Guide to the Leading 17-Inch Laptops</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-ring-video-doorbell-2-a-comprehensive-evaluation/"><u>Ultimate Guide: Ring Video Doorbell 2 - A Comprehensive Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleash-productivity-anywhere-with-the-2021-ipad-pro-m1-tablet-meets-desktop-performance/"><u>Unleash Productivity Anywhere with the 2021 iPad Pro (M1) - Tablet Meets Desktop Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-in-depth-analysis-of-apples-2020-mac-mini-with-m1-chip-dominates-over-rivals/"><u>Unveiling the Powerhouse: In-Depth Analysis of Apple's 2020 Mac Mini with M1 Chip Dominates Over Rivals</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/whats-missing-unveiling-the-pros-and-cons-of-the-new-google-nest-hub/"><u>What's Missing? Unveiling the Pros and Cons of the New Google Nest Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-iphones-hdr-features-for-professional-photography/"><u>[New] Exploring iPhone's HDR Features for Professional Photography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-from-timeless-tales-in-tone-on-tone-to-dynamic-digital-narratives/"><u>[Updated] In 2024, From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-quick-tunes-on-your-phone-top-speed-up-apps-for-2024/"><u>[Updated] Quick Tunes on Your Phone Top Speed-Up Apps for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-ultimate-selection-of-premium-mesh-wi-fi-setups/"><u>2024'S Ultimate Selection of Premium Mesh Wi-Fi Setups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-tutorial-adding-apps-to-your-samsung-smart-setup/"><u>A Beginner's Tutorial: Adding Apps to Your Samsung Smart Setup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-ac88u-triple-band-router-in-depth-performance-analysis-and-gameplay-enhancement/"><u>Asus AC88U Triple-Band Router - In-Depth Performance Analysis & Gameplay Enhancement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-fujitsu-scansnap-ix1400-evaluation-the-ultimate-scanner-solution-for-home-office-and-smbs/"><u>Comprehensive Fujitsu ScanSnap iX1400 Evaluation: The Ultimate Scanner Solution for Home Office & SMBs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-select-best-apps-for-watching-live-boxing-and-international-football/"><u>Elite Select Best Apps for Watching Live Boxing & International Football</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empower-your-site-insights-using-cookiebot-the-ultimate-web-tracker-solution/"><u>Empower Your Site Insights Using Cookiebot – The Ultimate Web Tracker Solution</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-scenes-of-successful-onestream-livestreams/"><u>In 2024, Behind-the-Scenes of Successful OneStream Livestreams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/perfect-your-hd-vids-on-android-with-these-10-players/"><u>Perfect Your HD Vids on Android With These 10 Players</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/resolving-a-black-screen-on-your-pc-expert-tips-from-yl-computing/"><u>Resolving a Black Screen on Your PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-the-right-travel-friendly-laptop-chargers/"><u>Ultimate Guide to Choosing the Right Travel-Friendly Laptop Chargers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-testing-the-latest-samsung-galaxy-budsplus-wireless-earphones/"><u>Unboxing & Testing the Latest Samsung Galaxy Buds+ Wireless Earphones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/understanding-the-key-distinctions-between-ipad-and-ipad-air/"><u>Understanding the Key Distinctions Between iPad and iPad Air</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unfolding-the-lenovo-thinkpad-x1-fold-experience-a-revolutionary-design-with-imperfections/"><u>Unfolding the Lenovo ThinkPad X1 Fold Experience: A Revolutionary Design with Imperfections</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-long-conversations-analyzing-jabras-speak-25/"><u>Unleashing Long Conversations: Analyzing Jabra's Speak 25</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-harmonizing-visuals-and-audio-for-professionals-a-filmora-perspective-on-background-music-addition-and-adjustment-for-2024/"><u>Updated Harmonizing Visuals and Audio for Professionals A Filmora Perspective on Background Music Addition and Adjustment for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-skagen-falster-2-deserves-a-spot-on-your-radar-an-elegant-contender-against-apple-devices/"><u>Why Skagen Falster 2 Deserves a Spot on Your Radar - An Elegant Contender Against Apple Devices</u></a></li>
 </ul></div>
 

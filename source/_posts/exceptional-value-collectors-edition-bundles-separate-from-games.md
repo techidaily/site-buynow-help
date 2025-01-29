@@ -1,7 +1,7 @@
 ---
 title: "Exceptional Value: Collector's Edition Bundles, Separate From Games"
-date: 2025-01-04T10:57:15.687Z
-updated: 2025-01-10T00:53:33.187Z
+date: 2025-01-24T20:10:51.637Z
+updated: 2025-01-29T17:42:09.228Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 ## Exceptional Value: Collector's Edition Bundles, Separate From Games
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 
  You may have noticed that some collector's editions of video games these days come with a heap of swag, but no actual copy of the game! Understandably, plenty of gamers have voiced dissatisfaction with this trend, but not only does this make perfect sense for publishers, it's actually good for players too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  It Means a Single Stock Pool for All Platforms
 
  I clearly remembered how badly I wanted the ultimate collector's edition of _Borderlands 2_ for my PlayStation 3\. This beauty came with a ton of cool items, but most of all I wanted that replica of an in-game loot chest. Despite pre-ordering, my order was canceled due to stock issues, but I could still have the Xbox 360 version. The only problem was that I didn't have an Xbox 360.
@@ -39,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 ![Borderlands Ultimate Loot Chest collection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/borderlands-ultimate-loot-chest-collection.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Gearbox Entertainment
 
  Now, you can argue that if I had infinite money I could just have bought the wrong edition and the regular game for my console, but having a single version of the collector's edition that isn't platform specific would have solved this issue. Not only does it mean that all platforms draw from the same pool of stock, it also means that these editions can be cheaper to make because you have economies of scale that apply to just one product, rather than being split over three or four versions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Physical and Digital Players Can Both Buy the Same Edition
 
@@ -53,7 +53,7 @@ Gearbox Entertainment
  After all, whether you're a digital or physical game media supporter, that doesn't make you more or less likely to want a cool statue or T-shirt. Personally I think the overwhelming shift to digital game distribution was one of the main factors driving the trend of not including the game with collector's editions, but either way it's a net benefit for both types of player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It Means PC Gamers Can Get In on the Action
@@ -64,6 +64,10 @@ Justin Duino / How-To Geek
 
  Almost all fancy collector's editions are aimed at console gamers, or at least they have been in the past. Since physical gaming has been dead on PC for years now, this meant buying a console copy of a multiplatform game you'll never use. It's perhaps a small concession, but by leaving the game out of the collector's edition, PC gamers don't have to be second-class citizens.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Better Quality Swag
 
  Let's be honest, a lot of these collector's editions in the past have included stuff that was frankly nicer on paper than in-hand. Since the price of the game has to be factored into the overall price of the collectors' edition, it means there's less money in the budget for the actual goodies. There is, after all, a limit to how high you can make the price overall. I wouldn't go as far as saying this is always true, but by focusing the entire budget of the collector's edition on the goodies and not the game, you're more likely to get something that's not garbage.
@@ -73,10 +77,6 @@ Justin Duino / How-To Geek
  I've argued in the past that the [worst time to buy a game is when it releases](https://sound-issues.techidaily.com/voice-chat-malfunction-solved-steps-to-reconnect-and-communicate-effectively-in-call-of-duty-modern-warfare/), and there's [no point in pre-ordering](https://some-tips.techidaily.com/updated-striding-forward-a-comprehensive-review-of-vr-walkers/) purely digital games since the supply is effectively infinite. That's not the case for a collectors' edition of a game, which has a fixed physical number of units. In most cases there won't be a second production run either so if you miss your chance, that's it. Being scalped on Ebay is your only other option.
 
  With discless collectors' editions you can pre-order the goodies, and leave buying the game until the first few patches have released. If you're truly patient, you can wait for the definite patched version to be released on disc. I understand the FOMO of wanting to play that game the instant it releases, but at least these discless editions let you split the commitment between the physical goodies and the game itself.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Collector's Editions Are Truly Optional
 
@@ -99,22 +99,19 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-crafting-quality-content-for-youtube-success/"><u>[Updated] In 2024, Crafting Quality Content for YouTube Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-strategies-for-developing-visually-stunning-applications-in-the-era-of-apples-visionos-insights-by-zdnet/"><u>Essential Strategies for Developing Visually Stunning Applications in the Era of Apple's VisionOS - Insights by ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fitbit-charge-4-explored-a-symphony-of-style-and-efficiency/"><u>Fitbit Charge 4 Explored: A Symphony of Style and Efficiency</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fitbit-versa-a-comprehensive-evaluation-of-your-affordable-health-companion/"><u>Fitbit Versa: A Comprehensive Evaluation of Your Affordable Health Companion</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/guide-to-accessing-hulu-content-for-free-with-high-definition-quality-hdfull-hd/"><u>Guide to Accessing Hulu Content for FREE with High-Definition Quality (HD/Full HD)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hands-on-review-premium-experience-with-dell-monitor-elite-anc-earphones-and-top-tier-hd-webcam/"><u>Hands-On Review: Premium Experience with Dell Monitor, Elite ANC Earphones & Top-Tier HD Webcam</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/hero9-black-examination-superior-quality-high-expense/"><u>HERO9 Black Examination - Superior Quality, High Expense</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-z-fold-5-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy Z Fold 5 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/insta360-x2-perfect-for-swimmers-and-surfers-on-the-go/"><u>Insta360 X2: Perfect for Swimmers and Surfers on the Go</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-an-upgrade-to-macos-sonoma-beneficial-for-me/"><u>Is an Upgrade to macOS Sonoma Beneficial for Me?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lg-k92-5g-review-not-worth-it-just-for-5g/"><u>LG K92 5G Review: Not Worth It Just for 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-road-radar-defense-an-in-depth-review-of-escort-max-360s-revolutionary-features-and-accurate-gps-system/"><u>Mastering Road Radar Defense - An In-Depth Review of Escort Max 360'S Revolutionary Features and Accurate GPS System</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-up-a-safe-workspace-windows-sandbox-11/"><u>Setting Up a Safe Workspace: Windows Sandbox 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-set-up-aptoide-kodi-extension-to-get-access-to-a-wide-range-of-apps/"><u>Ultimate Tutorial: Set Up Aptoide Kodi Extension to Get Access to a Wide Range of Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-fixing-hp-printer-driver-conflicts-in-win-os/"><u>Update: Fixing HP Printer Driver Conflicts in Win OS</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-top-video-editing-tools-for-vloggers-free-and-premium-options/"><u>Updated Top Video Editing Tools for Vloggers Free and Premium Options</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-uniting-social-media-and-television-with-fb-live/"><u>[New] In 2024, Uniting Social Media & Television with FB Live</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimize-your-videos-discoverability-with-key-youtube-seo-strategies/"><u>[New] Optimize Your Videos' Discoverability with Key YouTube SEO Strategies</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-audio-enhancement-apps-for-youtubers-videos/"><u>2024 Approved Essential Audio Enhancement Apps for YouTubers' Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/5-amazing-tiny-powerhouses-perfect-for-gamers-buyers-choice/"><u>5 Amazing Tiny Powerhouses Perfect for Gamers - Buyer's Choice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-pruveeo-fhd-1080p-dashcam-ultimate-road-safety-reviews/"><u>Affordable Pruveeo FHD 1080P Dashcam - Ultimate Road Safety Reviews</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-mic-not-working-fixed/"><u>Astro A50 Mic Not Working [FIXED]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-magic-v2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor Magic V2?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-navigating-zoom-settings-for-top-notch-audio-capture/"><u>In 2024, Navigating ZOOM Settings for Top-Notch Audio Capture</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/netgear-nighthawk-x10-router-review-the-gateway-to-exceptional-wi-fi-speeds-and-performance/"><u>Netgear Nighthawk X10 Router Review - The Gateway to Exceptional Wi-Fi Speeds and Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/perfect-pitch-perfection-the-top-7-apps-to-change-your-voice-online/"><u>Perfect Pitch Perfection The Top 7 Apps to Change Your Voice Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-giants-unveiled-how-to-excel-on-facebook-twitter-instagram-and-youtube/"><u>Social Giants Unveiled: How to Excel on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-truth-about-cyberpunk-2077-bugs-and-brilliance-coexist/"><u>Unveiling the Truth About Cyberpunk 2077: Bugs and Brilliance Coexist</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-choose-the-lg-24lh4830-smart-reliable-entertainment-for-cost-conscious-buyers/"><u>Why Choose the LG 24LH4830? Smart, Reliable Entertainment for Cost-Conscious Buyers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/worth-the-extra-cost-uncovering-the-value-of-applecareplus/"><u>Worth the Extra Cost? Uncovering the Value of AppleCare+</u></a></li>
 </ul></div>
 

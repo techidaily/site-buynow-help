@@ -1,7 +1,7 @@
 ---
 title: "My Favorite Portable Gaming Device for On-the-Go Play: Beyond the JoyCon"
-date: 2025-01-05T17:16:43.983Z
-updated: 2025-01-09T19:04:04.802Z
+date: 2025-01-25T23:01:19.960Z
+updated: 2025-01-29T22:23:36.312Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
 ## My Favorite Portable Gaming Device for On-the-Go Play: Beyond the JoyCon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Playdate is a charming, eye-catching handheld with a unique design and game distribution model.
@@ -21,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
  When I want to untether my long gaming sessions from a TV, it's hard to resist my Nintendo Switch. However, when I need a quick fix at home, the handheld I'm reaching for most often is one you might not have heard of: the Playdate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is a Playdate?
 
 ![Playdate and Switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/playdate-and-switch.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
 
@@ -35,12 +39,16 @@ Tim Rattray / How-To Geek
 
  Playdate is also noteworthy for its game distribution model. Every console comes with 24 games, doled out at a pace of two per week. These span the gamut of game genres, from puzzlers to RPGs to high-score chasers. Some were created by famous developers such as Bennett Foddy and Zack Gage exclusively for Playdate. Options beyond this "season one" collection include Panic's curated catalogue of games for purchase—the highest profile of which being Lucas Pope's _Mars After Midnight_—and [sideloading games](https://tech-haven.techidaily.com/navigating-nuance-the-human-advantage-over-bots/) following support through [the Playdate website](https://help.play.date/games/sideloading/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  This Charming Device Invites You to Play
 
 ![Playdate with cases and box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/htg-playdate-feature-header.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
@@ -50,6 +58,10 @@ Tim Rattray / How-To Geek
  The charm only increases after unlocking the device, a whimsical process itself that involves pressing the lock button twice, each click opening a sleeping eye displayed on the screen. Just like that, the Playdate comes alive in your hands. From here, you're greeted with your library of games, sleekly presented as a series of animated cards. Scrolling through this photogenic menu with the side-hitched crank is enjoyable in-and-of itself, especially compared to the simplistic utilitarian menu of the Switch. In other words, the Playdate makes sure you're having fun before you're having fun, but doesn't complicate the experience in doing so.
 
  It's also noteworthy that unlike the bright screens we often spend much of our day starting at, the Playdate's screen isn't backlit. It's akin to reading on an [e-ink Kindle](https://facebook-video-files.techidaily.com/updated-the-key-to-captivating-audiences-crafting-fb-slideshows/), except you get to game instead. Thus, a quick Playdate session becomes a respite for the eyes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Games Are Satisfying in Quick Bursts
 
@@ -65,17 +77,9 @@ Tim Rattray / How-To Geek
 
  Also worth noting is that you can easily both sideload and buy games through your computer's web browser, which automatically download to your Playdate. This means that the quick game you intend to play will likely be waiting for you next time you grab the handheld. This fuss-free functionality ensures your quick session is spent playing instead of waiting for an install. It's a feature found on most modern hardware but is nonetheless critical to the Playdate's pick-up-and-play sensibility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Longer Experiences Are Also Available
 
 ![Playdate and box on platform.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/playdate-and-box-on-platform.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tim Rattray / How-To Geek
 
@@ -86,10 +90,6 @@ Tim Rattray / How-To Geek
 ##  We Need to Talk About the Crank
 
  No discussion of the Playdate is complete without remarking on its trademark feature: the crank. This pops out of a nook in the side of the device and is utilized by most games in some capacity. It's transformative at its best, be it adjusting a camera lens or operating it like a beer tap. The clever ways in which developers utilize the crank are endlessly surprising and provide an experience unavailable on any other console. Plus, it's hard to go wrong with the fun-factor of turning a crank.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Is The Playdate Right for You?
 
@@ -112,22 +112,18 @@ Tim Rattray / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-masterful-80s-filters-and-transitions-for-editors/"><u>[New] 2024 Approved Masterful 80S Filters & Transitions for Editors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-unlock-full-potential-with-iphone-hdr/"><u>2024 Approved How to Unlock Full Potential with iPhone HDR</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-impact-on-academic-integrity-are-personalized-essays-a-thing-of-the-past/"><u>AI's Impact on Academic Integrity: Are Personalized Essays a Thing of the Past?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-budget-options-in-4k-a-detailed-look-at-the-lg-um7300-television/"><u>Exploring Budget Options in 4K: A Detailed Look at The LG UM7300 Television</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-imo-chat-apps-functionality-an-extensive-review-on-usability/"><u>Exploring Imo Chat App's Functionality - An Extensive Review on Usability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/find-your-ideal-replacement-top-5-non-microsoft-suite-apps-reviewed/"><u>Find Your Ideal Replacement: Top 5 Non-Microsoft Suite Apps Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/flexible-travel-ally-patek-fly-12-tripod-reviewed/"><u>Flexible Travel Ally - Patek Fly 12 Tripod Reviewed</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-burned-pasta-to-flavorful-fun-an-engaging-overcooked-2-reaction/"><u>From Burned Pasta to Flavorful Fun: An Engaging Overcooked! 2 Reaction</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/futureproof-choices-the-creme-de-la-creme-of-body-cams/"><u>Futureproof Choices: The Crème De La Crème of Body Cams</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/futureproofing-your-home-with-premium-cordless-phones-of-2024-what-to-buy-now/"><u>Futureproofing Your Home with Premium Cordless Phones of 2024: What to Buy Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/has-the-voip-leader-changed-a-comparison-beyond-vonage/"><u>Has The VoIP Leader Changed? A Comparison Beyond Vonage</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-infinix-note-30-vip-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Infinix Note 30 VIP Through Google Earth?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-m34-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy M34 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-sound-in-steam-games-quick-troubleshooting-techniques-will-help/"><u>No Sound in Steam Games? Quick Troubleshooting Techniques Will Help</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-removing-user-profiles-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Removing User Profiles via Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-13t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi 13T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-onboarding-for-webinar-logging-in-microsoft-operating-systems/"><u>[Updated] Easy Onboarding for Webinar Logging in Microsoft Operating Systems</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-perfecting-online-presence-key-to-knowing-and-using-fb-video-ratios/"><u>2024 Approved Perfecting Online Presence Key to Knowing and Using FB Video Ratios</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/access-recovery-mastering-post-hack-facebook-fixes-for-2024/"><u>Access Recovery Mastering Post-Hack Facebook Fixes for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-a58-4g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo A58 4G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-online-converter-change-your-videos-from-flv-to-mp4-with-ease-using-movavis-free-tool/"><u>Gratis Online Converter: Change Your Videos From FLV to MP4 with Ease Using Movavi's Free Tool</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/linkedin-luxury-unpacking-the-premium-perks/"><u>LinkedIn Luxury: Unpacking the Premium Perks</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-shopping-in-china-major-changes-in-the-industry/"><u>Live Shopping in China Major Changes in the Industry</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nintendo-showdown-a-detailed-look-at-the-switch-lite-and-switch-oled-models/"><u>Nintendo Showdown: A Detailed Look at the Switch Lite and Switch OLED Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-installer-efficiency/"><u>Optimizing Windows Installer Efficiency</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/outlook-vs-gmail-showdown-determining-the-supreme-email-solution/"><u>Outlook vs Gmail Showdown: Determining the Supreme Email Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/secrets-to-a-successful-prime-day-bargain-hunting-for-benq-displays-and-projection-units/"><u>Secrets to a Successful Prime Day: Bargain Hunting for BenQ Displays and Projection Units</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/status-bt-one-review-flawed-but-affordable/"><u>Status BT One Review: Flawed But Affordable</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sumind-bt7b-expert-assessment-of-the-ultimate-car-bluetooth-fm-transmitter/"><u>Sumind BT7#B - Expert Assessment of the Ultimate Car Bluetooth FM Transmitter</u></a></li>
 </ul></div>
 

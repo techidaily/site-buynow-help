@@ -1,7 +1,7 @@
 ---
 title: "Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide"
-date: 2025-01-16T05:44:04.651Z
-updated: 2025-01-22T06:10:14.125Z
+date: 2025-01-22T21:28:06.495Z
+updated: 2025-01-29T18:01:20.370Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ## Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 * [Using a PS5 Controller for Non-Steam PC Games](https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 * Outside of Steam, use the third-party apps DualSenseX or ReWASD to connect and configure your PS5 controller.
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
@@ -70,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  Next, click on "Manage Sound Devices".
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
@@ -93,25 +81,37 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
 
@@ -140,24 +140,19 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-10-top-must-have-gear-items-for-youtubers-for-2024/"><u>[New] 10 Top Must-Have Gear Items for YouTubers for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-video-conversion-unlocking-the-mp3-potential/"><u>[New] 2024 Approved Instagram Video Conversion - Unlocking the MP3 Potential</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-looms-labyrinth-navigating-screen-record-art/"><u>[New] 2024 Approved Loom's Labyrinth Navigating Screen Record Art</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/eading-audio-to-text-online-solutions/"><u>[New] Leading Audio-to-Text Online Solutions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nleash-more-views-on-youtube-with-pro-tag-optimization-for-2024/"><u>[New] Unleash More Views on YouTube with Pro Tag Optimization for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-exploring-the-positive-side-of-engaging-with-asmr/"><u>[Updated] Exploring The Positive Side of Engaging with ASMR</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-cinematic-brilliance-in-motion-kinemaster-techniques/"><u>2024 Approved Cinematic Brilliance in Motion Kinemaster Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-essential-guide-fetching-twitter-videos-directly-from-mobile/"><u>2024 Approved Essential Guide Fetching Twitter Videos Directly From Mobile</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/enhance-your-computers-performance-yl-software-techniques-to-optimize-ram-usage/"><u>Enhance Your Computer’s Performance: YL Software Techniques to Optimize RAM Usage</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-xbox-live-top-four-recording-techniques/"><u>In 2024, Mastering Xbox Live Top Four Recording Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-photography-gear-packs-ultimate-guide/"><u>Top-Rated Photography Gear Packs : Ultimate Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-portable-speaker-systems/"><u>Top-Rated Portable Speaker Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-protective-covers-for-samsung-galaxy-a-comprehensive-guide/"><u>Top-Rated Protective Covers for Samsung Galaxy : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-protective-covers-for-the-samsung-galaxy-z-fold-4-a-comprehensive-guide/"><u>Top-Rated Protective Covers for the Samsung Galaxy Z Fold 4 : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-ps5-audio-gear-ultimate-list-for-23/"><u>Top-Rated PS5 Audio Gear: Ultimate List for 2^3!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-samsung-galaxy-s22-ultra-phone-covers-2023-edition/"><u>Top-Rated Samsung Galaxy S22 Ultra Phone Covers - 2023 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-smart-lock-innovations-the-ultimate-picks/"><u>Top-Rated Smart Lock Innovations: The Ultimate Picks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-smart-window-shades-a-comprehensive-guide/"><u>Top-Rated Smart Window Shades : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-wireless-bluetooth-dongles-a-comprehensive-guide/"><u>Top-Rated Wireless Bluetooth Dongles : A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-deciphering-disguised-dialogues-with-youtube-viewers/"><u>[Updated] In 2024, Deciphering Disguised Dialogues with YouTube Viewers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-screen-grabbers-selection-1-8-for-2024/"><u>[Updated] Prime Screen Grabbers Selection #1-8 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-quality-in-flight-holy-stone-hs1-628-predator-mini-rc-helicopter-in-depth-review/"><u>Affordable Quality in Flight: Holy Stone HS1 628 Predator Mini RC Helicopter – In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-value-proposition-a-comprehensive-review-of-alienwares-aurora-r7/"><u>Assessing the Value Proposition: A Comprehensive Review of Alienware's Aurora R7</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beating-heat-on-a-budget-in-depth-examination-of-the-topmate-c302-portable-laptop-chiller/"><u>Beating Heat on a Budget: In-Depth Examination of the TopMate C302 Portable Laptop Chiller</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-mice-compatible-with-ipads-a-comprehensive-review/"><u>Best Mice Compatible with IPads – A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/book-lovers-guide-to-portable-e-readers-unveiling-the-kobo-clara-hd/"><u>Book Lovers' Guide to Portable E-Readers: Unveiling the Kobo Clara HD</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canon-powershot-sx530-a-budget-friendly-starter/"><u>Canon PowerShot SX530 - A Budget-Friendly Starter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canuck-communicators-speak-up-a-critical-review-of-fongo-voip-in-canada/"><u>Canuck Communicators Speak Up: A Critical Review of Fongo VoIP in Canada</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discover-the-leading-software-to-transform-dvd-media-into-mp4-format-for-modern-windows-operating-systems/"><u>Discover the Leading Software to Transform DVD Media Into MP4 Format for Modern Windows Operating Systems</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/disena-una-presentacion-musical-para-las-fiestas-con-nuestro-editor-de-diapositivas-tematica-de-diciembre-slideshow-christmas-maker/"><u>Diseña Una Presentación Musical Para Las Fiestas Con Nuestro Editor De Diapositivas Temática De Diciembre | Slideshow Christmas Maker</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-with-gpt-automation-unlocking-8-powerful-strategies/"><u>Maximizing Efficiency with GPT Automation: Unlocking 8 Powerful Strategies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-y55s-5g-2023-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Y55s 5G (2023) has been deleted.</u></a></li>
 </ul></div>
 

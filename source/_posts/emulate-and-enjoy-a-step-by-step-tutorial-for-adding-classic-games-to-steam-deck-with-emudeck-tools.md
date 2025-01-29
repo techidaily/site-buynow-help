@@ -1,7 +1,7 @@
 ---
 title: "Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools"
-date: 2025-01-14T22:27:50.343Z
-updated: 2025-01-15T18:38:36.985Z
+date: 2025-01-24T20:15:10.367Z
+updated: 2025-01-29T23:21:19.401Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ## Emulate and Enjoy: A Step-by-Step Tutorial for Adding Classic Games to Steam Deck with EmuDeck Tools
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  Gaming handhelds like the Steam Deck are great for emulation, allowing you to play a variety of games from classic systems on the go. With EmuDeck, you can see your emulated games alongside your regular Steam Library and launch them without launching a separate emulator first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is EmuDeck?
 
  EmuDeck is essentially an installer package that automatically installs and sets up a variety of emulators for various gaming platforms in a matter of minutes. It achieves this by running an installation script that automatically finds the best emulators for each available system and installs them directly to your Steam library for easy access.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![The "Collections" tab on the Steam Deck Library with emulated games added.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/download-3.jfif) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Can You Run With EmuDeck?
@@ -78,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![Various game files inside the "PS2" ROMs folder in Emudeck.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/files3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I recommend using an external mouse and keyboard to navigate Desktop Mode while moving files around, as the touch screen controls can make this process a little cumbersome.
@@ -88,23 +92,19 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 ![The ROM Manager application in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the "Add Games" button in the bottom left corner to see a list of all the games you've added as long as you put them in the right folder.
 
 ![The Parsers menu in Emudeck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/parsers2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have selected all of your desired games, select "Save to Steam" and the program should automatically parse all your installed games directly to your Steam library.
 
 ![The Emudeck ROM manager adding games to Steam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rom-manager-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Multiplayer, Quality of Life Features, and Easy Expansion
@@ -150,17 +150,21 @@ Shutterstock/REDPIXEL.PL
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-windows-blurry-screen-quickly-and-easily/"><u>[Fixed] Windows Blurry Screen | Quickly & Easily</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-new-wave-on-youtube-and-fb-discover-the-hottest-8-trends-for-2024/"><u>[New] The New Wave on YouTube & FB Discover the Hottest 8 Trends for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-quick-reference-guide-to-screencastifys-tools/"><u>2024 Approved Quick Reference Guide to Screencastify's Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/an-in-depth-look-at-movavis-video-edition-plus-for-2e24/"><u>An In-Depth Look at Movavi's Video Edition Plus for 2E24</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-ssls-secure-for-how-much-less/"><u>Budget-Friendly SSLs: Secure for How Much Less?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-leading-smartwatch-models/"><u>Discover the Leading Smartwatch Models</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-cost-effective-quality-with-our-comprehensive-oneplus-nord-n100-review/"><u>Experience Cost-Effective Quality with Our Comprehensive OnePlus Nord N100 Review</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-face-finds-budget-friendly-platforms-to-purchase-for-2024/"><u>Fresh Face Finds Budget-Friendly Platforms to Purchase for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-insiders-guide-overcome-iphone-video-dullness-using-4-adobe-solutions/"><u>In 2024, [Insider's Guide] Overcome iPhone Video Dullness Using 4 Adobe Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-level-relaxation-techniques-through-smarter-sleep-tools/"><u>Next-Level Relaxation Techniques Through Smarter Sleep Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/settling-around-the-virtual-campfire-an-in-depth-look-at-minecrafts-storytelling-through-skins/"><u>Settling Around the Virtual Campfire: An In-Depth Look at Minecraft’s Storytelling Through Skins</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-mobile-sound-treat-asmr-for-2024/"><u>The Ultimate Mobile Sound Treat ASMR for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-review-of-the-hp-envy-27s-4k-tech/"><u>[New] A Comprehensive Review of the HP Envy 27'S 4K Tech</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-prevent-thumbnail-absence-in-shorts-uploads/"><u>[New] How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-timeless-tech-posed-shots-of-old-iphone-x-for-2024/"><u>[New] Timeless Tech Posed Shots of Old iPhone X for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-samsung-ru7300-55-4k-uhd-smart-led-tv-analysis-are-the-unique-features-justified/"><u>Comprehensive Samsung RU7300 55 4K UHD Smart LED TV Analysis - Are the Unique Features Justified?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/conquering-all-terrain-in-depth-review-of-the-top-race-rc-rock-crawler-vehicle/"><u>Conquering All Terrain: In-Depth Review of the Top Race RC Rock Crawler Vehicle</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-the-cord-a-comprehensive-review-of-the-amazon-basics-flat-antenna-for-free-tv-enthusiasts/"><u>Cutting the Cord: A Comprehensive Review of the Amazon Basics Flat Antenna for Free TV Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-affordable-excellence-in-surveillance-the-pruveeo-f5-1080p-dash-cam-evaluated/"><u>Discover Affordable Excellence in Surveillance: The Pruveeo F5 1080P Dash Cam Evaluated</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-battery-life-with-a-larger-battery-capacity-than-its-predecessor-users-can-expect-improved-battery-life-for-day-to-day-use/"><u>Enhanced Battery Life: With a Larger Battery Capacity than Its Predecessor, Users Can Expect Improved Battery Life for Day-to-Day Use.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-lg-k92s-5g-feature-a-step-too-far-or-innovative-leap-forward/"><u>Evaluating LG K92's 5G Feature: A Step Too Far or Innovative Leap Forward?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-sony-xperia-5-stylish-slimmer-and-costly-features-unveiled/"><u>Evaluating the Sony Xperia 5: Stylish, Slimmer, and Costly Features Unveiled</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-htc-u23withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on HTC U23with/without a PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-f25-pro-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo F25 Pro 5G Phones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/next-level-llm-support-through-abbyy-marketplace-pioneering-document-expertise-and-effortless-rag-integration/"><u>Next-Level LLM Support Through ABBYY Marketplace: Pioneering Document Expertise and Effortless Rag Integration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-iphones-sluggish-charge-expert-advice-and-effective-fixes/"><u>Solving iPhone's Sluggish Charge: Expert Advice and Effective Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-ctrl-plus-alt-plus-del-functionality-a-step-by-step-guide/"><u>Troubleshoot Your Ctrl + Alt + Del Functionality - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-live-updates-for-win-11s-task-tracker/"><u>Upgrade Live Updates for Win 11'S Task Tracker</u></a></li>
 </ul></div>
 

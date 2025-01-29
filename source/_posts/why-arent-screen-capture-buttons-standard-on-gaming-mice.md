@@ -1,7 +1,7 @@
 ---
 title: Why Aren't Screen Capture Buttons Standard on Gaming Mice?
-date: 2025-01-04T05:51:54.213Z
-updated: 2025-01-10T11:11:21.480Z
+date: 2025-01-28T23:13:29.983Z
+updated: 2025-01-29T23:01:19.200Z
 tags:
   - games
   - tv
@@ -20,7 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [We Need Mice with Dedicated Screenshot Buttons](https://sound-tweaking.techidaily.com/in-2024-top-5-digital-audio-file-organizers-for-seamless-mp3-management/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  I’ve always wanted a dedicated screenshot button on my gaming mouse. Now that I’m rocking a dual mouse setup, I finally turned my dream into reality. Here’s how I did it and why I waited so long to finally take the plunge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Remap Your Mouse Button to Capture Screenshots With It
@@ -45,6 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Logitech G Hub home screen showing the currently active mouse button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-01.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using On-board Memory Mode, turn it off by clicking the appropriate button.
 
 ![Logitech G Hub disabling on-board memory mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-02.png) 
@@ -52,10 +56,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Now, click the “Assignments,” then the “Macros” menu, and finally the “Create New Macro” button.
 
 ![Logitech G Hub button customization menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-03.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll need to name the new macro. In my case, I named it “Screenshot.” Press Enter to move to the next step.
 
@@ -78,20 +78,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Recording and saving a new macro in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-08.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, just click and drag the macro you just recorded to the button you want to take screenshots with. In my case, it was the “Forward” button.
 
 ![Assigning the screenshot macro to a mouse in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-09.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, you can take screenshots with a mouse button instead of pressing multiple buttons on your keyboard or hitting PrtSc, opening Paint, and pasting the screenshot there.
 
  If you don't have a Logitech mouse, the steps you'll need to take will be different but ultimately the process should be similar: create a new macro, record keystrokes, then save and assign it to a button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Sacrificing a Button to Take Screenshots Is Far From Ideal
 
@@ -138,21 +138,18 @@ Goran Damnjanovic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-navigate-the-transfer-of-quick-images-from-popular-chat-app/"><u>[Updated] 2024 Approved Navigate the Transfer of Quick Images From Popular Chat App</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-exploring-snapchats-spotlight-feature-deeply/"><u>[Updated] In 2024, Exploring Snapchat's Spotlight Feature Deeply</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/5-best-mini-pcs-dominating-the-world-of-competitive-gaming/"><u>5 Best Mini-PCs Dominating the World of Competitive Gaming</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-high-performance-tp-link-archer-a9-router-evaluation-less-than-100/"><u>Affordable High-Performance TP-Link Archer A9 Router Evaluation – Less Than $100</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-innovation-or-confusing-design-unpacking-the-microsoft-surface-gos-dual-personality/"><u>Affordable Innovation or Confusing Design? Unpacking the Microsoft Surface Go's Dual Personality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723063455954-bikers-vs-zombies-an-exciting-journey-in-days-gone/"><u>Bikers Vs. Zombies - An Exciting Journey in Days Gone</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-ms-resouce-text-error-on-windows-11/"><u>Eliminating Ms-Resouce Text Error on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-lava-yuva-2-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Lava Yuva 2 Phones</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/er-the-future-of-youtube-content-with-tubebuddy/"><u>Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-xiaomi-redmi-k70e-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Xiaomi Redmi K70E</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/spotlight-a-podcast-on-your-instagram-feed/"><u>Spotlight a Podcast on Your Instagram Feed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-tablet-reviews-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Tablet Reviews - Comprehensive Analysis by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-experts-love-tp-links-affordable-archer-c9-router-a-comprehensive-review/"><u>Why Experts Love TP-Link's Affordable Archer C9 Router: A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/wireless-savvy-on-a-shoestring-discover-how-tp-links-archer-c50-stands-up/"><u>Wireless Savvy on a Shoestring? Discover How TP-Link's Archer C50 Stands Up</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/your-ultimate-list-the-elite-selection-of-17-inch-powerhouses/"><u>Your Ultimate List: The Elite Selection of 17-Inch Powerhouses</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-complete-handbook-enhancing-productivity-using-mobizen-recorder/"><u>[New] Complete Handbook Enhancing Productivity Using Mobizen Recorder</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-crafting-an-elite-home-computer-for-professional-4k-editing/"><u>[Updated] 2024 Approved Crafting an Elite Home Computer for Professional 4K Editing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-connect-with-creators-unravel-your-youtube-subscriber-type-with-6-exciting-questionnaires/"><u>2024 Approved Connect With Creators Unravel Your YouTube Subscriber Type with 6 Exciting Questionnaires</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-recap-how-to-locate-youtube-comments-post-upload/"><u>2024 Approved Quick Recap How to Locate YouTube Comments Post-Upload</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/alienware-aurora-r11-review-why-it-claimed-the-title-of-top-notch-gaming-pc/"><u>Alienware Aurora R11 Review - Why It Claimed the Title of Top-Notch Gaming PC !</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/classy-elegance-meets-functionality-a-detailed-look-at-flexispots-modern-theodore-standing-desk-for-a-productive-office-atmosphere/"><u>Classy Elegance Meets Functionality: A Detailed Look at Flexispot's Modern Theodore Standing Desk for a Productive Office Atmosphere</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-affordable-pruveeo-f5-full-hd-dash-cam/"><u>Comprehensive Analysis of the Affordable Pruveeo F5 Full HD Dash Cam</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decoding-the-power-of-asus-ax6600-mesh-wifi-features-performance-and-user-experience-explored/"><u>Decoding the Power of ASUS AX6600 Mesh WiFi - Features, Performance & User Experience Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-experience-with-lenovo-tab-m10-fhd-plus-in-2amidst-budget-friendly-tablets/"><u>Maximize Your Experience with Lenovo Tab M10 FHD Plus in 2Amidst Budget-Friendly Tablets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/minecraft-setup-success-guide-for-users-running-windows-11-systems/"><u>Minecraft Setup Success Guide for Users Running Windows 11 Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sci-fi-virtual-voyages-the-most-immersive-movies-in-the-metaverse-space/"><u>Sci-Fi Virtual Voyages The Most Immersive Movies in the Metaverse Space</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-nubia-red-magic-8s-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nubia Red Magic 8S Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-netgear-nighthawk-x10-ad7200-experience-lightning-quick-internet-with-our-in-depth-review/"><u>Ultimate Guide to the Netgear Nighthawk X10 (AD7200) - Experience Lightning Quick Internet with Our In-Depth Review</u></a></li>
 </ul></div>
 

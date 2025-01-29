@@ -1,7 +1,7 @@
 ---
 title: Unveiling My Favorite Reason to Choose Paddle Controls in Gaming Adventures
-date: 2025-01-06T20:10:54.233Z
-updated: 2025-01-10T01:12:56.856Z
+date: 2025-01-27T19:08:44.730Z
+updated: 2025-01-29T16:05:51.333Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Unveiling My Favorite Reason to Choose Paddle Controls in Gaming Adventures
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Controls Hard to Reach? Remap to a Rear Paddle](https://some-skills.techidaily.com/new-utilizing-film-content-a-strategy-for-teachers/)
@@ -21,7 +25,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [On Steam Deck and ROG Ally, Rear Paddles Take Things to the Next Level](https://fox-links.techidaily.com/updated-in-2024-elevate-your-drone-game-with-these-top-mods/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The best thing about my 8Bitdo Ultimate 2.4G controller is the pair of paddle buttons on the back. Add to that the fact that both my Steam Deck and ROG Ally come with paddle buttons and I’ve gotten so used to this setup that I don’t want to game with an old-fashioned controller anymore.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Controls Hard to Reach? Remap to a Rear Paddle
 
  During the initial couple of weeks of using the [8Bitdo Ultimate 2.4G](https://www.amazon.com/Ultimate-Wireless-Controller-Joystick-Gaming-Console/dp/B0CPXZKWY5?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002816&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-love-using-a-paddle-controller-for-gaming%2F&asc%5Fcampaign=Evergreen), I didn’t pay much attention to its paddle buttons. But then I installed _Hi-Fi Rush_ and found that the dodge, mapped to the right bumper by default, is somewhat hard to reach because of where I usually rest my index fingers. This being a rhythm-based brawler, nailing dodge each time in sync with the rhythm was tiring and sort of hard to pull off.
@@ -39,10 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  So, I downloaded the 8Bitdo app and created a custom profile with the right bumper mapped to both of the paddles. And oh boy, did that make a world of difference. Now, I could easily dodge with both my fingers, so I ended up rhythmically pressing the paddles non-stop, which soon turned me into a _Hi-Fi Rush_ dodge master and made nailing massive combos a cakewalk.
 
 ![Steam Deck OLED With a Focus on the new, orange, power button against a pitch black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/steam-deck-oled-power-button.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Valve
 
@@ -59,7 +63,7 @@ Valve
 ![rear-of-the-asus-rog-ally-3jpg_53307363035_o](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/rear-of-the-asus-rog-ally-3jpg_53307363035_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -67,10 +71,6 @@ Hannah Stryker / How-To Geek
  The solution is to remap L3 and R3 to the paddles, and the result is glorious. I can’t explain just how delightful it is not to have to press and hold the thumbsticks and instead use easy-to-reach and easy-to-press paddle buttons. Because of this, I even forgo using one of the two paddle buttons on my ROG Ally as a modifier in _Everspace 2_.
 
  Paddle buttons also allowed me to finally try playing racing games with manual transmission. I just can’t bother using manual on a regular controller because it’s either mapped to the bumpers, which are hard to reach, or face buttons, which leads to me pressing the wrong button in tense moments. Now, I can finally enjoy driving cars with manual shifting without needing a wheel, which is great considering [I much prefer gaming on my handhelds](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) than on my PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  A Paddle Controller Gives Me an Edge in Multiplayer Games
 
@@ -80,6 +80,10 @@ Hannah Stryker / How-To Geek
 
  In shooters like _Call of Duty_, on the other hand, I can reload, jump, and crouch or slide without taking my thumb off the right thumbstick. This means I can always adjust my aim, even while reloading or sliding. For console players who have little choice but to use a controller, this can be a huge boon. You can get [a similar advantage](https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v29e-drfone-by-drfone-virtual-android/) in other FPS games since most of them have frequently used moves mapped to face buttons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  On Steam Deck and ROG Ally, Rear Paddles Take Things to the Next Level
 
  While a regular paddle button controller is brilliant, rear buttons being natively supported, like on the Steam Deck and ROG Ally, is even better. On the two handhelds, you aren’t limited to copying other button mappings; you can map anything you like, including keyboard keys and key combos. On the Ally, I can use one of the two paddles as a modifier, practically doubling the number of buttons available.
@@ -87,10 +91,6 @@ Hannah Stryker / How-To Geek
  This is super cool to have in RPGs where I can map the usual keys used for opening the map, inventory, and quest journal to the face buttons and get a PC-like RPG gaming experience. Better yet, I can also map quicksave and quickload as secondary functions. This allowed me to play _Mass Effect_ as I would on a PC without going to the pause menu every five minutes to open the map or create a quick save.
 
 ![Sony's DualSense Edge controller rear paddles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dualsense_paddles.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sony
 
@@ -115,21 +115,20 @@ Sony
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-endless-visual-streaming-services/"><u>[New] Endless Visual Streaming Services</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-craftsmanship-in-action-macs-5-elite-snipping-applications/"><u>[New] In 2024, Craftsmanship in Action Mac's 5 Elite Snipping Applications</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/deforming-dialogue-a-photographervideographers-handbook-for-2024/"><u>Deforming Dialogue A Photographer/Videographer's Handbook for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-selection-6-prime-stores-for-your-next-laptop-purchase/"><u>Discover the Ultimate Selection: 6 Prime Stores for Your Next Laptop Purchase</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/eero-pro-mesh-router-analysis-for-expansive-and-consistent-home-internet-access/"><u>Eero Pro Mesh Router Analysis for Expansive and Consistent Home Internet Access</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/enhancing-visuals-in-remote-collaborations-with-google-meet-for-2024/"><u>Enhancing Visuals in Remote Collaborations with Google Meet for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ensuring-regular-meals-for-your-furry-friends-using-petsafes-automated-feeder/"><u>Ensuring Regular Meals for Your Furry Friends Using PetSafe's Automated Feeder</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-iphone-security-suites-discover-the-best-available-protection/"><u>Essential iPhone Security Suites: Discover The Best Available Protection</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/eternal-vision-recorder-tool-for-2024/"><u>Eternal Vision Recorder Tool for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-the-ultimate-sound-with-nest-audio-the-perfect-choice-for-music-enthusiasts/"><u>Experience the Ultimate Sound with Nest Audio – The Perfect Choice for Music Enthusiasts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-nokia-c12-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia C12 Pro Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/huawei-mediapad-m5-a-masterclass-in-picture-perfection-and-sonic-brilliance/"><u>Huawei MediaPad M5 - A Masterclass in Picture Perfection and Sonic Brilliance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-laptop-prodigy-hp-zbook-firefly-15-g8-reviewed/"><u>In Depth Analysis of the Laptop Prodigy: HP ZBook Firefly 15 G8 Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pixel-tablet-unveiling-whats-inside-teaser-on-upcoming-specs-and-release-timelines/"><u>Pixel Tablet Unveiling - What's Inside? Teaser on Upcoming Specs & Release Timelines</u></a></li>
-<li><a href="https://facebook.techidaily.com/rediscovering-previous-business-networking-events-on-facebook/"><u>Rediscovering Previous Business Networking Events on Facebook</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620245369-troubleshoot-your-message-send-failures-fast-solutions-for-persistent-issues/"><u>Troubleshoot Your Message Send Failures: Fast Solutions for Persistent Issues!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-4-ways-to-record-ps3-gameplay-for-2024/"><u>[New] 4 Ways to Record PS3 Gameplay for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-explore-and-apply-instagrams-latest-filters-for-stunning-feeds/"><u>[Updated] In 2024, Explore and Apply Instagram's Latest Filters for Stunning Feeds</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-rank-the-best-10-cost-free-image-enhancers-for-smartphone-users-for-2024/"><u>[Updated] Rank the Best 10 Cost-Free Image Enhancers for Smartphone Users for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-to-iphone-stellar-images/"><u>In 2024, Unlocking the Secrets to iPhone Stellar Images</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nes-classic-console-guide-how-to-download-and-play-additional-games/"><u>NES Classic Console Guide: How to Download and Play Additional Games</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/protect-your-iphone-with-the-ultimate-guide-to-antivirus-apps-top-6-picks/"><u>Protect Your iPhone with the Ultimate Guide to Antivirus Apps (Top 6 Picks)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-mophies-ac-powerstation-balancing-price-and-portability-for-on-the-go-users/"><u>Review of Mophie's AC Powerstation - Balancing Price and Portability for On-the-Go Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/roku-streaming-devices-what-to-expect/"><u>Roku Streaming Devices: What to Expect ?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-safe-listing-of-your-emails/"><u>Step-by-Step Guide: Mastering Safe Listing of Your Emails</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/studio-luxe-starter-set-limostudio-aggressive-glow/"><u>Studio Luxe Starter Set: LimoStudio Aggressive Glow</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-costly-creativity-companion-comprehensive-review-of-microsoft-surface-studio-2/"><u>The Costly Creativity Companion: Comprehensive Review of Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-review-samsung-galaxy-note-9-dominates-in-phablet-segment/"><u>The Definitive Review: Samsung Galaxy Note 9 Dominates in Phablet Segment</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
-date: 2025-01-15T01:54:20.481Z
-updated: 2025-01-15T23:40:02.275Z
+date: 2025-01-25T19:46:05.333Z
+updated: 2025-01-29T22:05:27.368Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## How Microsoft's New Focus in AI May Signal Trouble for Compact Computing Systems Used in Handheld PC Gaming
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -36,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _AMD_
@@ -60,7 +60,7 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
@@ -71,15 +71,15 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
@@ -92,7 +92,7 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -126,16 +126,19 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content-for-2024/"><u>[Updated] Become a Freelance Transcriber Tips and Tricks for YouTube Content for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-command-the-stage-of-youtube-with-studio-skills/"><u>[Updated] Command the Stage of YouTube with Studio Skills</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-of-video-quality-3-key-transcoder-strategies/"><u>[Updated] Pinnacle of Video Quality 3 Key Transcoder Strategies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-gaming-an-in-depth-look-at-the-nintendo-switch-lite/"><u>Budget-Friendly Gaming: An In-Depth Look at the Nintendo Switch Lite</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209559287-9781785358913-divine-meditations/"><u>Divine Meditations | Free Book</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/get-ready-for-prime-day-best-apple-deals-and-steals-awaiting-you/"><u>Get Ready for Prime Day: Best Apple Deals and Steals Awaiting You</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leaders-lift-off-full-featured-stability-review/"><u>Leader's Lift-Off: Full-Featured Stability Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/masterful-creation-with-the-gaomon-pd1560-ultimate-artists-pen-display-insight/"><u>Masterful Creation with the Gaomon PD1560 - Ultimate Artist’s Pen Display Insight</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/should-i-upgrade-to-macos-monterey/"><u>Should I Upgrade to macOS Monterey?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/silent-setup-success-pairing-your-airpods-with-the-quest-3-headset-tips-and-tricks-zdnet-guide/"><u>Silent Setup Success: Pairing Your AirPods with the Quest 3 Headset – Tips & Tricks | ZDNet Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects/"><u>[Updated] A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-8-photo-montage-synthesizer-online/"><u>[Updated] Ultimate 8 Photo Montage Synthesizer Online</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assassins-creed-iii-critique-exceptional-final-chapter/"><u>Assassin's Creed III Critique - Exceptional Final Chapter</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/blissful-tunes-protected-skin-a-look-at-bose-soundsport-frames/"><u>Blissful Tunes, Protected Skin - A Look at Bose SoundSport Frames</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/breaking-down-the-release-date-and-specs-of-amazfit-helio-ring-with-price-points/"><u>Breaking Down the Release Date and Specs of Amazfit Helio Ring with Price Points</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compare-and-contrast-the-battle-between-nintendos-switch-lite-vs-oled-edition/"><u>Compare & Contrast: The Battle Between Nintendo's Switch Lite Vs. OLED Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-dreame-bot-l10-pro-the-advanced-mopping-and-vacuuming-robot/"><u>Comprehensive Review of Dreame Bot L10 Pro: The Advanced Mopping & Vacuuming Robot</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-tp-link-reviews-enhancing-your-network-with-the-re5nfyx/"><u>Comprehensive TP-Link Reviews: Enhancing Your Network with the RE5nfyX</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-100-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor 100 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-a-server-switch-journey-from-bedrock-to-java-using-geysermc/"><u>Embark on a Server Switch Journey: From Bedrock to Java Using GeyserMC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-entertainment-on-a-budget-9-affordable-substitutes-to-netflix/"><u>Enjoy Entertainment on a Budget: 9 Affordable Substitutes to Netflix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-blueprint-instagram-tiktok-merger/"><u>Essential Blueprint Instagram-TikTok Merger</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-90-lite-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor 90 Lite FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-tecno-spark-20-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Tecno Spark 20 Pro FRP Bypass</u></a></li>
 </ul></div>
 

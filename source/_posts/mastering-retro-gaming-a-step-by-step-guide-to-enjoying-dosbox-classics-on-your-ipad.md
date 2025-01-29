@@ -1,7 +1,7 @@
 ---
 title: "Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad"
-date: 2025-01-21T05:06:07.834Z
-updated: 2025-01-22T05:44:50.775Z
+date: 2025-01-22T20:59:25.580Z
+updated: 2025-01-29T16:13:25.605Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ## Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [You'll Need iDOS 3: What Is It?](https://instagram-videos.techidaily.com/ten-simple-steps-to-acquire-igtv-media/)
@@ -21,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 * [Configuring Peripherals](https://desktop-recording.techidaily.com/updated-revolutionize-your-farm-life-stardews-best-7-game-updates-for-2024/)
 
  Apple has been lifting restrictions on game emulation on iOS and iPadOS for months now, and finally it's possible to get DOS emulation on your mobile Apple devices without jailbreaking. One of the first DOS emulation tools on the App Store is iDOS 3, and here's how you can get a game running in no time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You'll Need iDOS 3: What Is It?
 
@@ -38,16 +38,12 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The context menu to show the contents of a macOS app package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-12-46-23-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this case the .exe file was in Content > Resources > Game, so I copied the entire contents of the "game" folder to my iPad in a folder named "Jazz."
 
  As to how you can get the files on your iPad, the options are endless. You can AirDrop it from your Mac, transfer the files using a USB flash drive, email them to yourself, use iCloud. It doesn't matter where you choose to save the game files, as long as you remember it for later.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Running Your Game
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![iDOS 3 in portrait mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/idos-3-in-portrait-mode.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some DOS games need to be installed off a CD, but in this case we just want to mount the folder as a drive. So tap on the floppy drive and select "Folder."
@@ -76,25 +72,25 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 interface with the name of the executable file ready to run](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-interface-with-the-name-of-the-executable-file-ready-to-run.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now the game is running, but how to control it?
 
 ![Jazz Jackrabbit running on iDOS 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/jazz-jackrabbit-running-on-idos-3.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In portrait mode, you can use the virtual keyboard to control your game, and if you tap the little gamepad button you'll have an on-screen gamepad with buttons that are bound to certain keyboard keys.
 
 ![The iDOS 3 virtual gamepad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-virtual-gamepad.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you put the iPad into landscape mode, you'll see a little bar with options pop up at the top.
 
 ![The iDOS 3 quick bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use the little pin icon to make it stay, but you can just tap the top edge of the screen to make it appear. Here you can tap on buttons to see a virtual mouse, keyboard, or gamepad appear on-screen.
 
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  Some DOS games supported joysticks or gamepads, and if you want to use your gamepad as a true controller with these games, tap on the settings gear in the iDOS 3 quick bar and choose "Settings."
 
 ![The iDOS 3 settings button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-settings-button.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then under "optional inputs" enable the gamepad option. Just remember that you'll have to set up the joystick or gamepad in the game itself, since back then games calibrated these peripherals on an individual basis.
 
@@ -137,22 +137,18 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-convert-fb-videos-to-mp4-no-cost-high-definition-available-for-2024/"><u>[New] Convert FB Videos to MP4 - No Cost, High Definition Available for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-social-media-match-up-youtube-shorts-or-tiktok/"><u>[New] In 2024, Social Media Match-Up Youtube Shorts or TikTok?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-display-defects-in-windows/"><u>Banish Display Defects in Windows</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-market-access-benefits-of-being-multilingual/"><u>Global Market Access: Benefits of Being Multilingual</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-downloading-and-setting-up-microsoft-surface-pro-4s-driver-software-in-windows/"><u>Guide to Downloading and Setting Up Microsoft Surface Pro 4'S Driver Software in Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-x-fold-2-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo X Fold 2?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-t2x-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo T2x 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-mac-graphics-revolution-top-10-freeware-drawings/"><u>In 2024, Mac Graphics Revolution Top 10 Freeware Drawings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/leveraging-influencers-in-your-twitter-marketing-plan-for-2024/"><u>Leveraging Influencers in Your Twitter Marketing Plan for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-gaming-audio-equipment-ultimate-picks/"><u>Top Rated Gaming Audio Equipment - Ultimate Picks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-gadgets-and-enhancements/"><u>Top Rated iPad Gadgets and Enhancements</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-iphone-15-pro-max-protective-covers-ultimate-shopping-list/"><u>Top Rated iPhone 15 Pro Max Protective Covers - Ultimate Shopping List</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-mp3-players-your-ultimate-guide/"><u>Top Rated MP3 Players - Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-compact-energy-units-of-2/"><u>Top-Rated Compact Energy Units of 2#</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-case-picks-for-the-new-2023-9th-gen-model-enhance-your-device/"><u>Top-Rated iPad Case Picks for the New 2023 9Th Gen Model: Enhance Your Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-iphone-protective-covers-2023-edition/"><u>Top-Rated iPhone Protective Covers - 2023 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-laptop-workstations-ultimate-choices-for-2-024/"><u>Top-Rated Laptop Workstations: Ultimate Choices for 2 024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ideal-selections-the-best-9-mobile-video-meeting-solutions-reviewed-for-2024/"><u>[New] Ideal Selections The Best 9 Mobile Video Meeting Solutions Reviewed for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-what-are-instagrams-daily-story-snapshots-in-2024/"><u>[Updated] What Are Instagram's Daily Story Snapshots, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-guide-to-the-best-gaming-tech/"><u>[Updated] YouTube's Guide to the Best Gaming Tech</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-13-mini-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 13 mini Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-10-best-high-security-androidios-video-calling-tools-available-for-free/"><u>In 2024, 10 Best High-Security Android/iOS Video Calling Tools Available for Free</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-initiating-instagram-live-shows-for-2024/"><u>Step-by-Step Initiating Instagram Live Shows for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-a2-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo A2 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/timing-of-a-20mb-sized-video/"><u>Timing of a 20MB-Sized Video</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-full-potential-of-your-home-in-depth-review-of-asus-ax6600-mesh-wifi-system/"><u>Unlocking the Full Potential of Your Home: In-Depth Review of ASUS AX6600 Mesh WiFi System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-choice-in-depth-look-at-netgear-orbi-mesh-router-excellence/"><u>Unveiling the Best Choice: In-Depth Look at Netgear Orbi Mesh Router Excellence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-the-j5-tactical-v1-pro-a-comprehensive-review-for-enhanced-night-vision/"><u>Unveiling the Power of the J5 Tactical V1-Pro: A Comprehensive Review for Enhanced Night Vision</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-truth-about-tp-link-av1n300-extender-a-comprehensive-review/"><u>Unveiling the Truth About TP-Link AV1n300 Extender: A Comprehensive Review</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x100-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X100 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Budget-Friendly Tablet with Stunning Full HD Plus Screen - A Comprehensive 2020 Review
-date: 2025-01-09T02:03:55.186Z
-updated: 2025-01-10T12:29:13.395Z
+date: 2025-01-26T18:12:11.966Z
+updated: 2025-01-29T17:20:57.554Z
 categories:
   - BestProducts
 description: This Article Describes Lenovo's Budget-Friendly Tablet with Stunning Full HD Plus Screen - A Comprehensive 2020 Review
@@ -36,13 +36,13 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lenovo Tab M10 FHD Plus (2nd Gen)
 
 ![Lenovo Tab M10 FHD Plus (2020)](https://www.lifewire.com/thmb/dbD4xoAS3V_HdF9dkFJwAPoswK0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo_TabM10FHDPlus_HeroSquare-fd396d12e6ec48668ead96bed2f790fb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -91,15 +91,15 @@ Lifewire / Jeremy Laukkonen
 
 ![Lenovo Tab M10 FHD Plus (2020)](https://www.lifewire.com/thmb/Ma5tHUu5pX1_gI7bCahJfUmTcJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo_TabM10FHDPlus_04-5bc59222ddfe4d488b3aaf566fdf3300.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  The left edge is less interesting, as it’s bare aside from Lenovo’s dock connector. Unless you buy the version of the tablet that includes a dock, this connector is useless. You can’t buy the dock separately, and the version of the tablet that doesn’t ship with a dock has different firmware that locks out most of the dock functionality anyway.
 
  The back of the tablet has the aforementioned cutouts on the top and bottom, and the single rear-facing camera in the upper left corner. Aside from the Lenovo logo, Dolby logo, and an informational sticker that you’re free to remove, that’s it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Display: Great-looking full HD screen
 
@@ -121,11 +121,19 @@ Lifewire / Jeremy Laukkonen
 
 ![Lenovo Tab M10 FHD Plus (2020)](https://www.lifewire.com/thmb/tt3HD9uM-f4_vqoAxok0dfwOVb8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo_TabM10FHDPlus_02-264a43b354b148d7bfeea1a952ddcb71.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  For more specific benchmarks, the Tab M10 FHD Plus scored 5,266 in web browsing, 4,360 in writing, and 3,851 in data manipulation. That’s a great web browsing score, but the writing and data manipulation scores are a bit disappointing. The Tab M10 HD, which is a second generation M-series tablet that’s priced lower than the Tab M10 FHD Plus, scored a bit better in those areas.
 
  I also ran a couple graphics benchmarks from GFXBench. The first one I ran was Car Chase, which is a game-like benchmark that tests how well a device handles lighting, physics, and other things. It hit just 5.9 FPS in that benchmark, which is significantly better than the 3.4 FPS I saw from the less expensive Tab M10 HD, but still very unimpressive. It did better in the less intense T-Rex benchmark, registering a playable 31 FPS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Productivity: Excels at basic productivity tasks
 
@@ -136,7 +144,7 @@ Lifewire / Jeremy Laukkonen
  I also used it for a handful of[Discord](https://www.lifewire.com/discord-4174046) video calls, but the low quality selfie cam failed to impress in that department. It works well enough in a pinch, but I wouldn’t recommend it as a primary device for word processing, video conferencing, or anything along those lines.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Audio: Stereo sound with Dolby Atmos
@@ -146,7 +154,7 @@ Lifewire / Jeremy Laukkonen
  When I loaded up YouTube Music and turned up the volume all the way, I found that the Tab M10 FHD Plus was loud enough to easily fill a large room. I didn’t notice a whole lot of distortion at the highest volume, but it was loud enough that I found it more comfortable to listen to at three quarters volume or less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Network: Good Wi-Fi network speeds with an LTE option
@@ -161,10 +169,6 @@ Lifewire / Jeremy Laukkonen
 
  Next up, I took the Tab M10 FHD Plus into a hallway around the corner at a distance of about 10 feet from the router. At that distance, the connection speed dropped to 184 Mbps. I then took it about 60 feet from the router into another room with walls and other obstructions in the way, and the speed dropped only to 182 Mbps. Finally, I took it out into my garage, at a distance of about 100 feet, and the speed dropped to 26.5 Mbps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Camera: Disappointing results all around
 
  The Tab M10 FHD Plus has better cameras than the first generation of the Tab M10 hardware, but the results still aren’t that great. It has the same 8MP sensor on the back and 5MP selfie cam that you get in the less expensive Tab M10 HD. These cameras are more acceptable in the less expensive version of the hardware than they are here.
@@ -177,6 +181,10 @@ Lifewire / Jeremy Laukkonen
 
  The selfie cam is sufficient for video calls, but it wouldn’t be my first choice. Video looks washed out and flat, with excessive noise depending on the lighting conditions. Photos look like artifacts from a different time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery: Could use a bigger battery
 
  The Tab M10 FHD Plus includes a 5,000 mAh battery and supports up to 10W charging. The battery is the same one found in the less expensive Tab M10 HD, and it should really be bigger due to the increased power consumption of the bigger display. When using the tablet during the day for email and web browsing, and at night to stream videos, I found myself needing to put it on the charger every day.
@@ -184,6 +192,10 @@ Lifewire / Jeremy Laukkonen
  To test the battery, I connected to Wi-Fi, opened YouTube, and streamed HD videos nonstop until the tablet died. Under those conditions, I found it to last only about four hours. You could get more time out of it by shutting off Wi-Fi or lowering the screen brightness, but it still isn’t that great a battery life, and this tablet could definitely use a bigger battery.
 
  The battery is the same one found in the less expensive Tab M10 HD, and it should really be bigger due to the increased power consumption of the bigger display.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software: Originally shipped with Android Pie, now comes with Android 10
 
@@ -193,10 +205,6 @@ Lifewire / Jeremy Laukkonen
 
  Lenovo’s implementation of Android 10 is essentially stock, and I found it to run quite well. There are no unnecessary changes, additions, or cumbersome UX tweaks layered on top. You get pretty close to a stock experience, with the notable addition of Google Kids Space. This is a welcome addition, as it’s totally optional. You can ignore it if you bought the tablet for yourself or an older teen, or open the app and set it up if you want to provide tons of pre-approved apps, books, and other content for a younger child.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Price: Decent price for a basic Android tablet
 
  The Tab M10 FHD has an MSRP of between $149.99 and $209.99 depending on the configuration you choose, with the version that includes a dock being a bit more expensive, and those prices are pretty reasonable. I’ve also seen it on sale for a bit less than that, at which point it makes the move from adequately priced to a great deal. If you find the configuration I tested, with 4GB of RAM, it'll be priced closer to $149.99—a fantastic value.
@@ -204,10 +212,6 @@ Lifewire / Jeremy Laukkonen
 ![Lenovo Tab M10 FHD Plus (2020)](https://www.lifewire.com/thmb/6jtXbNEbp6IeWqkD4Bs-0KjGx4Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lenovo_TabM10FHDPlus_05-afa4a59fc67343c785979e6eb3f67c48.jpg)
 
 Lifewire / Jeremy Laukkonen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lenovo Tab M10 FHD Plus (2020) vs. Lenovo Tab M10 HD
 
@@ -220,10 +224,6 @@ Lifewire / Jeremy Laukkonen
  **Great little tablet for the price, but make sure you don't need the dock.**
 
  The Lenovo Tab M10 FHD Plus (2020) is a great option if you’re looking for a basic Android tablet for less than $200\. It can’t stand up to more expensive tablets, but it’s great for basic tasks like email, web browsing, and streaming media. The only issue is that you can’t get the dock separately, so make sure to grab the Lenovo Smart Tab M10 FHD Plus that includes the dock if you want that functionality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -268,24 +268,22 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-effective-methods-for-stable-windows-11-photos-viewing/"><u>[Updated] 2024 Approved Effective Methods for Stable Windows 11 Photos Viewing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-crop-companion-chronicles-best-agricultural-titles-with-pals/"><u>2024 Approved Crop Companion Chronicles Best Agricultural Titles with Pals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-high-quality-display-in-a-lightweight-laptop-a-must-try-find/"><u>Affordable High-Quality Display in a Lightweight Laptop: A Must-Try Find!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/graphics-genesis-radeon-reclaimed-for-2024/"><u>Graphics Genesis Radeon Reclaimed for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-a79-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Oppo A79 5G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-of-vivacut-video-editing-insights/"><u>In 2024, Navigating the World of VivaCut Video Editing - Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-dreame-bot-l10-pro-transforms-home-cleaning-using-lidar-navigation-tech/"><u>In-Depth Review: How Dreame Bot L10 Pro Transforms Home Cleaning Using LiDAR Navigation Tech</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-personal-tracker-primetrackings-pocket-size-companion-for-peace-of-mind-with-your-belongings/"><u>Innovative Personal Tracker: PrimeTracking's Pocket-Size Companion for Peace of Mind with Your Belongings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-the-world-of-minecraft-an-engaging-journey-through-an-age-defying-playground/"><u>Inside the World of Minecraft: An Engaging Journey Through an Age-Defying Playground</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-document-management-with-fujitsu-scansnap-ix1600-a-rigorous-desktop-scanner-review/"><u>Mastering Document Management with Fujitsu ScanSnap iX1600 - A Rigorous Desktop Scanner Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-coverage-the-ultimate-guide-to-using-netgear-nighthawk-wi-fi-amplifier/"><u>Maximize Coverage: The Ultimate Guide to Using Netgear Nighthawk Wi-Fi Amplifier</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/michael-kors-gen-5e-mkgo-watch-reviews-fusing-elegance-with-intelligent-features/"><u>Michael Kors Gen 5E MKGO Watch Reviews: Fusing Elegance with Intelligent Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/motorolas-moto-g-power-examined-superior-battery-life-paired-with-robust-performance/"><u>Motorola's Moto G Power Examined: Superior Battery Life Paired with Robust Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netatmo-weather-station-unveiled-a-high-tech-solution-for-smart-home-devotees/"><u>Netatmo Weather Station Unveiled: A High-Tech Solution for Smart Home Devotees</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/picture-perfect-presentation-carvers-digital-frame-review/"><u>Picture Perfect Presentation - Carver's Digital Frame Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/precision-in-action-3-methods-for-gaming-footage/"><u>Precision in Action 3 Methods for Gaming Footage</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/securing-group-discussions-on-hangouts/"><u>Securing Group Discussions on Hangouts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speeding-up-hr-operations-with-gpt-prompts/"><u>Speeding Up HR Operations with GPT Prompts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-install-and-update-microsoft-drivers-on-windows-11-8-or-ebx/"><u>Step-by-Step Guide to Install & Update Microsoft Drivers on Windows 11, 8 or Ebx</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>[New] Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-speedy-view-of-vimeo-videos-for-2024/"><u>[Updated] Speedy View of Vimeo Videos for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-philips-hf3520-alarm-clock-evaluation-a-blend-of-quality-and-value/"><u>Affordable Philips HF3520 Alarm Clock Evaluation: A Blend of Quality & Value</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-cameras-rated/"><u>Economical Cameras Rated</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-non-operational-usb-ports-in-modern-windows-environments/"><u>Effective Solutions for Non-Operational USB Ports in Modern Windows Environments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-vivo-x-flip-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Vivo X Flip?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-15-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nixplay-seeds-impressive-features-elevate-photo-display-standards/"><u>Nixplay Seed's Impressive Features Elevate Photo Display Standards</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-chromebook-2-analysis-the-pinnacle-of-compact-efficiency/"><u>Samsung Chromebook 2 Analysis: The Pinnacle of Compact Efficiency</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simplified-methods-for-recording-successful-online-classes-and-meets/"><u>Simplified Methods for Recording Successful Online Classes & Meets</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-iphone-models-for-an-optimal-gaming-experience/"><u>The Best iPhone Models for an Optimal Gaming Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-long-range-routers-of-2024/"><u>The Best Long-Range Routers of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performers-a-selection-of-the-best-cable-modemrouter-combinations-available/"><u>Top Performers : A Selection of the Best Cable Modem/Router Combinations Available</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranking-usb-flash-drive-picks/"><u>Top-Ranking USB Flash Drive Picks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-videos-effortlessly-download-the-movavi-app-for-free-rmvb-to-mov-conversion/"><u>Transform Your Videos Effortlessly - Download the Movavi App for Free RMVB to MOV Conversion!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-iphone-contacts-go-missing-practical-fixes-for-users/"><u>What to Do When iPhone Contacts Go Missing: Practical Fixes for Users</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-nokia-130-music-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Nokia 130 Music Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

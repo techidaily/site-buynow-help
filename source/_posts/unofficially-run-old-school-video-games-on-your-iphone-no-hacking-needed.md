@@ -1,7 +1,7 @@
 ---
 title: Unofficially Run Old-School Video Games on Your iPhone - No Hacking Needed!
-date: 2025-01-04T17:02:32.123Z
-updated: 2025-01-09T22:12:59.964Z
+date: 2025-01-26T22:41:04.052Z
+updated: 2025-01-29T18:34:41.395Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Unofficially Run Old-School Video Games on Your iPhone - No Hacking Needed!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Emulators Are Now (Officially) Available for iPhone](https://www.howtogeek.com/how-to-play-classic-video-games-on-your-iphone-for-free-without-jailbreaking/#emulators-are-now-officially-available-for-iphone)
@@ -20,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Play With Touch Controls or a Controller](https://facebook-video-footage.techidaily.com/the-essentials-of-adding-emojis-to-youtube-discussions-for-2024/)
 * [Make Use of Delta's Full Feature Set](https://some-knowledge.techidaily.com/ideal-webcams-to-upgrade-your-zoom-video-quality-for-2024/)
 * [More Emulators Are Coming](https://tiktok-clips.techidaily.com/2024-approved-funhouse-finds-unveiling-the-hottest-tiktok-gaming-phenoms/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,7 +40,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Original Game Boy cartridges.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/games_i_own.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -51,11 +51,11 @@ Tim Brookes / How-To Geek
 
 ![Game Boy ROMs within iPhone emulator Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gbc_roms_delta.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  So why the sudden change? Apple is probably jumping before it is pushed. The EU has mandated that the iPhone open up to third-party App Stores, so Apple may be trying to avoid future problems. There’s also nothing inherently illegal about emulators, even though big players like Nintendo are vehemently opposed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Play Classic Nintendo Games With Delta
 
@@ -64,7 +64,7 @@ Tim Brookes / How-To Geek
 ![Super Mario 64 on an iPhone with Delta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/n64_super_mario_64.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Delta brings together many different emulation projects like [Nestopia](https://nestopia.sourceforge.net), [Snes9x](https://github.com/snes9xgit/), [mupen64plus](https://github.com/mupen64plus/mupen64plus-core), and [melonDS](https://github.com/melonDS-emu/melonDS) under one simple application. The project is a spiritual successor to GBA4iOS, an emulator you may have heard of if you’ve dabbled in the iOS emulation scene before.
@@ -80,7 +80,7 @@ Tim Brookes / How-To Geek
  You can also open the relevant app on your iPhone (you’ll need to do this for Google Drive and cloud storage providers that don’t integrate with Files). You should be able to tap on a ROM file to automatically have it open in Delta. If you have more than one app that can handle that file type, you’ll be asked which app you want to use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Transfer Games via AirDrop
@@ -96,6 +96,10 @@ Tim Brookes / How-To Geek
  With your iPhone connected, make sure you trust the connection when prompted on your iPhone, then open Finder or iTunes. Select your device either in the sidebar on a Mac or by clicking the device icon at the top of the screen in iTunes. Now select “Files” or “File Sharing” from the list of options.
 
  Find the Delta app and drag and drop your ROM files over. They should be copied to the root folder. Now open Delta and tap on the plus “+” icon in the top-right corner of the screen. Select “iTunes” and then tap “Import” when prompted and Delta will ingest the ROMs into its database.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Play With Touch Controls or a Controller
 
@@ -133,10 +137,6 @@ Kris Henges / How-To Geek
 
  Lastly, you can customize your Delta home screen to either show what you’ve recently been playing or a selection of your favorite games. This can be particularly handy when your collection grows to an unwieldy size. Head to “Settings” and tap “Home Screen Shortcuts” to get started.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  More Emulators Are Coming
 
  Delta is likely the first of many emulators to come, considering the appetite for more systems now that the App Store floodgates have been opened. With a focus on mostly older platforms, Delta performs nearly flawlessly on most modern iPhone models.
@@ -158,16 +158,22 @@ Kris Henges / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-anthem-no-sound-in-windows-11/"><u>[FIXED] Anthem No Sound in Windows 11</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-expert-fb-media-downloader-enhanced-firefox-support/"><u>[New] Expert FB Media Downloader Enhanced FireFox Support</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-effortless-production-of-fb-ad-videos-with-complimentary-kit-for-2024/"><u>[Updated] Effortless Production of FB Ad Videos with Complimentary Kit for 2024</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enhanced-tailor-your-sites-user-experience-with-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced: Tailor Your Site's User Experience with Advanced Analytics & Personalization</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-motorola-edgeplus-does-it-match-top-tier-standards/"><u>Evaluating Motorola Edge+: Does It Match Top-Tier Standards?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-owc-mercury-pro-cutting-edge-drive-innovation-and-peak-performance-capabilities/"><u>Evaluating the OWC Mercury Pro: Cutting-Edge Drive Innovation and Peak Performance Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-performance-and-features-of-a-battery-operated-google-nest-doorbell/"><u>Evaluating the Performance and Features of a Battery Operated Google Nest Doorbell</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-ace-3-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your OnePlus Ace 3</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-the-fujitsu-scansnap-ix1400-a-must-have-scanner-for-home-office-and-small-business-needs/"><u>Expert Analysis on the Fujitsu ScanSnap iX1400: A Must-Have Scanner for Home Office & Small Business Needs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-asus-rog-phone-7-ultimate-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Asus ROG Phone 7 Ultimate To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/tudo-sobre-o-cortador-de-mp3-da-movavi-funcionamento-download-e-tecnicas-de-baixar-com-maior-sucesso/"><u>Tudo Sobre O Cortador De Mp3 Da Movavi: Funcionamento, Download E Técnicas De Baixar Com Maior Sucesso</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-youtube-presence-filmmaking-with-filmora/"><u>[Updated] 2024 Approved Elevate Your YouTube Presence Filmmaking with Filmora</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-mobility-examination-2023/"><u>In 2024, Full Mobility Examination 2023</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-12-mp-docooler-usb-20-camera-is-it-worth-your-money/"><u>In-Depth Review of the 12 MP Docooler USB 2.0 Camera: Is It Worth Your Money?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mobvoi-ticwatch-e2-an-economical-choice-or-a-missed-opportunity-in-depth-review/"><u>Mobvoi TicWatch E2: An Economical Choice or a Missed Opportunity - In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-the-choices-how-to-decide-between-ipad-pro-and-microsoft-surface-pro/"><u>Navigating Through the Choices: How to Decide Between iPad Pro and Microsoft Surface Pro</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avchd-video-editing-the-top-5-software-solutions/"><u>New In 2024, AVCHD Video Editing The Top 5 Software Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtx-2060-super-graphics-card-drivers-for-windows-11-free-download/"><u>RTX 2060 Super Graphics Card Drivers for Windows 11 – Free Download</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-enhancing-your-pc-with-a-new-graphics-card/"><u>Step-by-Step Guide: Enhancing Your PC with a New Graphics Card</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-definitive-srt-file-generation-manual-for-2024/"><u>The Definitive SRT File Generation Manual for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-elder-scrolls-v-unveiling-skyrim-for-nintendo-switch-a-must-play-adventure/"><u>The Elder Scrolls V: Unveiling Skyrim for Nintendo Switch – A Must-Play Adventure!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-common-errors-in-understanding-private-browsing-safeguard-your-online-privacy/"><u>Top 5 Common Errors in Understanding Private Browsing: Safeguard Your Online Privacy!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-reviews-for-the-incredible-zmi-powerpack-20000-the-perfect-travel-companion/"><u>Top Reviews for the Incredible ZMI PowerPack 20000 – The Perfect Travel Companion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-mouse-fixing-right-click-issues-on-windows-11/"><u>Troubleshooting the Mouse: Fixing Right-Click Issues on Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-where-to-position-your-ps4s-webcam-for-best-results/"><u>Ultimate Guide: Where to Position Your PS4's Webcam for Best Results</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/upgrade-or-downgrade-a-comparison-of-the-new-galaxy-s24-ultra-and-previous-model-s23-ultra/"><u>Upgrade or Downgrade? A Comparison of the New Galaxy S24 Ultra and Previous Model S23 Ultra</u></a></li>
 </ul></div>
 

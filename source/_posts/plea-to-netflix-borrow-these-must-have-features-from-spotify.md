@@ -1,7 +1,7 @@
 ---
 title: "Plea to Netflix: Borrow These Must-Have Features From Spotify"
-date: 2025-01-17T23:21:10.538Z
-updated: 2025-01-22T09:39:54.428Z
+date: 2025-01-26T22:42:02.280Z
+updated: 2025-01-29T19:11:33.238Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 ## Plea to Netflix: Borrow These Must-Have Features From Spotify
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  The best TV binges are the ones with all hits and no skips. Netflix, you’re the king of queues, so let me create my own playlists with individual episodes from shows on your service. While we’re on the topic of new features, I’ve got some other ideas too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Video Playlists Would Be Great for Better Binging
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Dear reader, I can see the skeptical wheels turning in your brain, thinking, “But content gets removed and added to Netflix all the time, what happens then?” That's easy. If shows or movies become unavailable, then they’re just grayed out from playlists. The same thing happens with songs on Spotify. Artists remove songs and albums all the time for various reasons. The playlist skips unavailable tracks and moves on. To spin this into a positive thing, Netflix could always use this info to ping you when a show or movie returns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Add Back That Shuffle Button!
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Access to More Data For a Richer Experience
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
@@ -90,17 +90,17 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-effortless-viewing-automatic-playback-of-youtube-videos-on-social-media/"><u>[New] 2024 Approved Effortless Viewing Automatic Playback of YouTube Videos on Social Media</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-chill-out-the-leading-10-calm-games-for-2024/"><u>[New] Chill Out The Leading 10 Calm Games for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-top-10-youtube-download-apps-best-in-class-compatibility/"><u>[New] Top 10 YouTube Download Apps - Best in Class Compatibility</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-effortless-entertainment-free-quality-memes-galore/"><u>[Updated] Effortless Entertainment FREE, Quality Memes Galore</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-11f-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2023s-elite-heart-beat-gadgets-a-comprehensive-guide-to-choosing-the-right-fitness-tracker/"><u>2023'S Elite Heart Beat Gadgets: A Comprehensive Guide to Choosing the Right Fitness Tracker</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2023s-elite-selection-of-iphone-15-pro-max-skins-and-cases-reviewed-and-ranked/"><u>2023'S Elite Selection of iPhone 15 Pro Max Skins & Cases Reviewed and Ranked</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/o-trim-youtube-videos/"><u>How to Trim YouTube Videos?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revise-incompatible-installer/"><u>Revise Incompatible Installer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-highly-ranked-11-ipad-air-sleeves-for-2econd-2024-edition/"><u>Ultimate Selection of Highly-Ranked 11 iPad Air Sleeves for 2Econd, 2024 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-intelligent-light-switch-upgrades-for-2n23/"><u>Ultimate Selection of Intelligent Light Switch Upgrades for 2N23</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-2024s-highest-quality-ipad-pro-13-cases-reviewed-and-rated/"><u>Ultimate Selection: 2024'S Highest Quality iPad Pro 13 Cases Reviewed and Rated!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-prime-array-of-unplugged-digital-pastimes/"><u>[New] In 2024, Prime Array of Unplugged Digital Pastimes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-yearly-revelation-of-cost-effective-editing-apps/"><u>[New] The Yearly Revelation of Cost-Effective Editing Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/google-pixel-8-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Pixel 8 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-poco-c55-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Poco C55 Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-gen-cameras-unearthing-the-top-of-2024-listings/"><u>Next-Gen Cameras Unearthing the Top of 2024 Listings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pushing-boundaries-asrock-debuts-revolutionary-amd-ryzen-9000-boards/"><u>Pushing Boundaries: ASRock Debuts Revolutionary AMD Ryzen 9000 Boards</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategic-trailer-planning-for-increased-channels-profitability-for-2024/"><u>Strategic Trailer Planning for Increased Channels' Profitability for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-best-in-class-open-source-routers-spotlight-on-linksys-wrt3200acm/"><u>The Ultimate Guide to the Best in Class Open Source Routers: Spotlight on Linksys WRT3200ACM</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-reliable-and-rechargeable-romer-illuminator-a-bright-companastern-for-outdoor-enthusiasts/"><u>The Ultimate Guide to the Reliable and Rechargeable Romer Illuminator: A Bright Companastern for Outdoor Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-tier-virtual-reality-on-a-budget-discover-why-with-our-oculus-quest-2-guide/"><u>Top-Tier Virtual Reality on a Budget? Discover Why with Our Oculus Quest 2 Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-strongest-wi-fi-expanders/"><u>Ultimate Guide to the Strongest Wi-Fi Expanders</u></a></li>
 </ul></div>
 

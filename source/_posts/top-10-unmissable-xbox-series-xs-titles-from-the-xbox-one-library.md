@@ -1,7 +1,7 @@
 ---
 title: Top 10 Unmissable Xbox Series X|S Titles From the Xbox One Library
-date: 2025-01-17T08:50:18.258Z
-updated: 2025-01-22T07:52:56.935Z
+date: 2025-01-23T17:11:02.048Z
+updated: 2025-01-29T16:18:23.169Z
 tags:
   - games
   - tv
@@ -28,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Brand-new games arrive on Xbox all the time, so it's easy to forget about the many older Xbox One titles. But there are a ton of last-generation games that are worth playing again on the latest hardward thanks to some big upgrades that overhaul performance, visuals, and even features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 _Halo: The Master Chief Collection_ 
 
 ![The campaign selection screen in Halo: The Master Chief Collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/halo-mcc.png) 
@@ -37,10 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The collection gives you access to some of the best campaigns in FPS gaming, along with the multiplayer for each title (_Combat Evolved_ multiplayer is a real blast from the past), Forge modes, Theater, tons of achievements to pursue, Easter Eggs to find, and more. It's one of the best choices if you want the most bang for your buck.
 
  This release received plenty of upgrades for the Series X|S, including variable field of view adjustment, [support for 120 frames per second](https://hardware-tips.techidaily.com/comprehensive-review-of-popular-120mm-aftermarket-cpu-coolers-by-be-quiet-corsair-cooler-master-and-enermax/) for both single and multiplayer, and 4K resolution. It now looks and plays just as well as any modern game, and it's absolutely worth your time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 _The Witcher 3: Wild Hunt_ 
 
@@ -52,16 +52,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 _The Witcher 3_ is one of the highest-selling games of all time for good reason. It has been upgraded for the Series X|S with many graphical improvements such as ray-tracing and higher-resolution textures. The latest release also includes all DLC and even has some extra main game content compared to the Xbox One release.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 _DOOM Eternal_ 
 
 ![Gameplay from DOOM Eternal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/doom-eternal.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bethesda Softworks
@@ -73,10 +69,6 @@ Bethesda Softworks
 ## 4 _Star Wars Jedi: Fallen Order_ 
 
 ![A cutscene from Star Wars Jedi: Fallen Order.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fallen-order.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Electronic Arts
 
@@ -93,6 +85,10 @@ Electronic Arts
  There are surely some people reading this who fondly remember playing the Budokai games in their childhood. For a time, nothing could hold a candle to those titles in the world of _DragonBall Z_ fighting games. _DragonBall FighterZ_ made a huge splash in 2018, bringing an incredible aesthetic, epic soundtracks, and a complex but easy-to-pick-up combat system.
 
  Fighting games aren't for everyone, but if you love _DragonBall_, it's worth a look just for that feeling of practically being in the anime. If you like other 2D fighters but haven't tried _FighterZ_ yet, I'd recommend it just for the team-based fighting system, super moves, and great music (ArcSys really never misses). The main upgrade from the Xbox One version to the X|S version was [the addition of rollback netcode](https://tech-haven.techidaily.com/localizing-your-legal-services-with-an-llm-is-it-worth-it-understanding-pros-and-cons/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 _Hellblade: Senua's Sacrifice_ 
 
@@ -116,16 +112,12 @@ Playstack
 
 _Mortal Shell_ has an enhanced edition for the Series X|S, improving its graphical fidelity. If you're looking for a quick but rewarding Souls-like experience, give _Mortal Shell_ a shot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8 _Stellaris: Console Edition_ 
 
 ![Gameplay from Stellaris: Console Edition.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/stellaris.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Paradox Interactive
@@ -134,13 +126,13 @@ Paradox Interactive
 
  Destroy entire worlds, conquer other empires, take over the galaxy as a sentient fungal hivemind horror: you name it, _Stellaris_ probably lets you do it. I can personally attest that _Stellaris_ plays very intuitively with a controller, which many 4X games on console can't claim. Being a strategy game, graphics aren't _that_ important, but a performance-optimized version for the X|S does exist now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9 _Cyberpunk 2077_ 
 
 ![Gameplay from Cyberpunk 2077.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cyberpunk-2077.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 CD Projekt Red
 
@@ -148,9 +140,17 @@ CD Projekt Red
 
  The good news is that this critically acclaimed title is in a much better state today, and it has a Series X|S version optimized for the newer hardware. It looks better, runs better, plays better, and there's a big DLC expansion available too. So if you avoided [playing _Cyberpunk 2077_](https://some-approaches.techidaily.com/updated-top-10-impressive-srt-converters-for-mac-and-windows/) due to its rough launch, now would be a great time to give it a shot on the Series X|S.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10 _Sea of Thieves_ 
 
 ![Gameplay from Sea of Thieves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/sea-of-thieves.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Microsoft Studios
 
@@ -177,14 +177,20 @@ Microsoft Studios
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-framework-for-exceptional-ppt-video-documentation/"><u>[New] 2024 Approved The Framework for Exceptional PPT Video Documentation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-value-free-sound-compression-tools-top-picks-for-windows-and-mac-list/"><u>Best Value-Free Sound Compression Tools - Top Picks for Windows & Mac, List!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-txt-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .txt file Using DigiSigner</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-reno-10-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo Reno 10 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgear-c3000-cable-modem-router-review-dated-tech/"><u>Netgear C3000 Cable Modem Router Review: Dated Tech</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-gen-console-showdown-impressive-specs-packed-into-an-amazingly-small-xbox-series-s/"><u>Next-Gen Console Showdown: Impressive Specs Packed Into an Amazingly Small Xbox Series S</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nvidia-shield-tv-pro-review-a-powerful-streaming-device-for-gamers/"><u>Nvidia Shield TV Pro Review: A Powerful Streaming Device for Gamers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pursue-justice-in-digital-realms-experience-4-ai-mysteries/"><u>Pursue Justice in Digital Realms: Experience 4 AI Mysteries</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/rediscover-android-excellence-through-the-lens-of-google-pixel-3s-detailed-evaluation/"><u>Rediscover Android Excellence Through the Lens of Google Pixel 3'S Detailed Evaluation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-elite-10-royal-warfare-games/"><u>[Updated] 2024 Approved Elite 10 Royal Warfare Games</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>[Updated] 2024 Approved Go Global with Music Transform Your Spotify Lists Into YouTube Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862873135-1300plus-bidding-war-for-exclusive-evga-classified-x67-prototype-motherboard/"><u>$1,300+ Bidding War for Exclusive EVGA Classified X67# Prototype Motherboard</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-lg-watch-style-examination-mastering-the-classic-wear-os-20-timepiece/"><u>Comprehensive LG Watch Style Examination - Mastering the Classic Wear OS 2.0 Timepiece</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-logitech-c615-webcam-assessment-balancing-quality-with-cost/"><u>Comprehensive Logitech C615 Webcam Assessment: Balancing Quality with Cost</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creation-of-international-institutions/"><u>Creation of International Institutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/delving-into-the-design-brilliance-of-rayman-legends-platform-playgrounds/"><u>Delving Into the Design Brilliance of Rayman Legends' Platform Playgrounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/discover-the-ultimate-camcorders-for-your-windows-system-for-2024/"><u>Discover the Ultimate Camcorders for Your Windows System for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-ssl-certificate-exploration/"><u>Economical SSL Certificate Exploration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevating-ps3-space-tips-for-hdd-expansion/"><u>Elevating PS3 Space: Tips for HDD Expansion</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-install-and-use-periscope-for-live-streaming-on-your-computer/"><u>How to Install and Use Periscope for Live Streaming on Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-note-12-pro-4g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi Note 12 Pro 4G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-reviews-on-the-pro-hd-logitech-c920-webcam-features-quality-and-value-insights/"><u>Top Reviews on the Pro HD Logitech C920 Webcam: Features, Quality and Value Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-aether-discovering-the-concept-and-becoming-a-member/"><u>Unveiling Aether: Discovering the Concept & Becoming a Member</u></a></li>
 </ul></div>
 

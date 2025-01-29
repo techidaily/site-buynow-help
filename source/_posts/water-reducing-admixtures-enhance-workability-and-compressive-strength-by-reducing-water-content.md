@@ -1,7 +1,7 @@
 ---
 title: Water-Reducing Admixtures Enhance Workability and Compressive Strength by Reducing Water Content.
-date: 2025-01-05T07:43:27.660Z
-updated: 2025-01-10T12:23:13.840Z
+date: 2025-01-24T23:20:24.041Z
+updated: 2025-01-29T19:18:14.736Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## Water-Reducing Admixtures Enhance Workability and Compressive Strength by Reducing Water Content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -88,6 +88,10 @@ Expand
 
 [$500 at Amazon](https://www.amazon.com/Projector-Portable-Autofocus-120-Inch-Playtime/dp/B0CHW11C8H?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001994&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fanker-nebula-capsule-3-review%2F&asc%5Fcampaign=Affiliate) [$549 at anker](https://us.seenebula.com/products/capsule-3-projectors-d2425) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Capsule 3 Is Ultra-Portable
 
 ![Nebula Capsule 3 being held by a persona and compared to a can of la crox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/jerome-thomas-photo-1.jpg) 
@@ -101,10 +105,6 @@ Jerome Thomas / How-To Geek
 ##  A Projector That Can Travel
 
 ![Nebula Capsule 3 turned on, sitting on a tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-turned-on.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -122,6 +122,10 @@ Jerome Thomas / How-To Geek
 
  On the trip, my original plan was to stream content from my iPad to the projector, but I had trouble casting to it wirelessly over hotel Wi-Fi. This is almost certainly because these networks are typically set up to keep devices from seeing one another. Even with my iPad and Capsule 3 on the same network, the Netflix app couldn’t see the device to cast to it. If this is your primary use case, I would simply recommend picking up an HDMI cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Google TV Is Good But Has Its Problems
 
 ![Nebula Capsule 3 projecting its picture on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/nebula-capsule-3-projector.jpg) 
@@ -136,26 +140,18 @@ Jerome Thomas / How-To Geek
 
  Still, even though Google TV has its rough patches, it is worlds better than the custom software that some projectors include. Those projectors rarely get updated and usually only support one or two streaming services you pay for. They’re weird and buggy. Here, Google TV keeps the Capsule 3 as modern as possible, which should mean decent software support for the immediate future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Battery Life
 
  Each time I used the Capsule 3 on battery power, I was able to make it through a full movie. I started watching “You Hurt My Feelings” with a battery level of 86%, and when I finished the 93-minute movie, it was at 12%.
 
  When the Capsule 3 was fully charged, I made it through the 87-minute “Fantastic Mr. Fox” and then about 50 to 60 minutes into “Star Wars: The Force Awakens” before the projector died. Whenever I used the projector, I also opted for the standard brightness level versus the less bright eco mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Price and Availability
 
  The Nebula Capsule 3 retails for $549\. If you like everything it offers but think you’ll need more brightness, there’s also the [Nebula Mars 3 Air](https://us.seenebula.com/products/mars-3-air-projectors-d2325), which retails for $599\. Despite being a little bulkier and heavier, it offers 400 ANSI lumens of brightness but the same 1080p resolution and 2.5 hours of battery life.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Anker Nebula Capsule 3?
@@ -169,6 +165,10 @@ Jerome Thomas / How-To Geek
  But if you don’t mind hunting for the shadowy corners of a room during the day or waiting until nightfall, then there’s not much to dislike about what this projector can do. It’s a solid value from a reputable brand with modern software onboard.
 
 ![Nebula Capsule 3 Projector (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/nebula-capsule-3-projector-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Anker Nebula Capsule 3 Mini Projector
 
@@ -193,20 +193,17 @@ Ultra-Portable Cinema Experience: Transform any space into a movie theater with 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-fixed-camera-resumes-with-obs/"><u>[New] In 2024, Fixed Camera Resumes with OBS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-share-worthiness-creator/"><u>[New] Ultimate Share Worthiness Creator</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-generating-an-auto-subscribe-link-for-youtube/"><u>[Updated] In 2024, Generating an Auto-Subscribe Link for YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-listen-and-act-complimentary-recognition-software/"><u>[Updated] Listen and Act Complimentary Recognition Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-secret-pathway-to-premium-pristine-pictures/"><u>In 2024, The Secret Pathway to Premium, Pristine Pictures</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kensun-portable-tire-inflator-review/"><u>Kensun Portable Tire Inflator Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lensdirect-review-protect-your-eyes-with-premium-prescription-blocking-glasses-against-digital-strain/"><u>LensDirect Review: Protect Your Eyes with Premium Prescription Blocking Glasses Against Digital Strain</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/linkedin-plus-elevating-your-professional-presence-quickly/"><u>LinkedIn Plus: Elevating Your Professional Presence Quickly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-performance-why-the-alienware-aurora-r11-is-your-best-bet-in-gaming-pcs-of-2021/"><u>Mastering Performance: Why the Alienware Aurora R11 Is Your Best Bet in Gaming PCs of 2021</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/must-listen-youtube-podcasts-and-songs-for-2024/"><u>Must-Listen YouTube Podcasts and Songs for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-pages-in-any-weather-an-insider-review-of-the-durable-and-efficient-kobo-libra-h2o/"><u>Navigating Pages in Any Weather: An Insider Review of the Durable and Efficient Kobo Libra H2O</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-realm-of-digital-education-ranking-10-exceptional-online-learning-platforms/"><u>Navigating the Realm of Digital Education: Ranking 10 Exceptional Online Learning Platforms</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-to-creating-subtitles-for-movies-and-tv-shows/"><u>Step-by-Step Guide to Creating Subtitles for Movies & TV Shows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-causes-of-non-responsive-iphone-touch-screens-troubleshooting-tips/"><u>Top 7 Causes of Non-Responsive iPhone Touch Screens: Troubleshooting Tips</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-cutting-edge-techniques-to-elevate-your-tiktok-visual-storytelling/"><u>[New] Cutting-Edge Techniques to Elevate Your TikTok Visual Storytelling</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-fast-track-adding-snapchat-to-your-mac/"><u>[New] Fast Track Adding Snapchat to Your Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-demystifying-srt-to-sub-clear-practical-solutions/"><u>[New] In 2024, Demystifying SRT to SUB Clear, Practical Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-public-assessment-of-vllo-functionality-for-2024/"><u>[New] Public Assessment of VLLO Functionality for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-augmenting-youtube-video-space/"><u>[Updated] Step-by-Step Augmenting YouTube Video Space</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-google-pixel-8-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Google Pixel 8 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-links-ultra-portable-wi-fi-travel-router-the-perfect-solution-for-on-the-move-internet-access/"><u>TP-Link's Ultra-Portable Wi-Fi Travel Router: The Perfect Solution for On-the-Move Internet Access</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-2024s-leading-handheld-game-systems/"><u>Ultimate List: 2024'S Leading Handheld Game Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-ps4-pro-assessment-experience-4k-gaming-on-next-gen-console/"><u>Ultimate PS4 Pro Assessment: Experience 4K Gaming on Next-Gen Console</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-2024s-premium-usb-devices/"><u>Ultimate Selection: 2024'S Premium USB Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-a-refined-era-for-smartphones-insights-into-the-updated-samsung-galaxy-s21-features/"><u>Unveiling a Refined Era for Smartphones: Insights Into the Updated Samsung Galaxy S21 Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-putting-chatgpt-on-your-phone-may-not-be-ideal/"><u>Why Putting ChatGPT on Your Phone May Not Be Ideal</u></a></li>
 </ul></div>
 

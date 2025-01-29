@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at the Huawei MediaPad M5 – Where Clarity Meets Quality Sound
-date: 2025-01-06T13:11:02.830Z
-updated: 2025-01-10T07:22:59.369Z
+date: 2025-01-23T22:49:58.521Z
+updated: 2025-01-29T23:16:27.313Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Look at the Huawei MediaPad M5 – Where Clarity Meets Quality Sound
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/CVT_-DqC-CCcWUC0wkIrzlX6Heo=/400x300/fi
 ## Samsung Galaxy Tab S6
 
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/7WjwLLZiPJKJZWhXlUSo8gCOtSY=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_S6_HeroSquare-041c0f1331604f5199eb280d31cb1fe8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -48,7 +44,7 @@ Lifewire / Erika Rawes
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/il4lPBPvRiNVh03WGsCMkN0U0SU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_S6_HeroSquare-041c0f1331604f5199eb280d31cb1fe8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
@@ -84,10 +80,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Display: 10.5-inch Super AMOLED**
 
  You can usually rely on Samsung devices to have top-notch display quality, and the Tab S6 is no different. The super AMOLED display is crisp and clear. The text is sharp, and the colors are bright and vivid. The 10.5-inch display feels large enough to watch shows and movies or to use as a hybrid when you connect the keyboard case.
@@ -100,13 +92,25 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance: Qualcomm 855**
 
  The Tab S6 has the Qualcomm 855 processor, which is a pretty solid mobile CPU. It comes in two versions: one version with 128GB of storage and 6 GB of RAM, and one version with 256 GB of storage and 8 GB of RAM. I tested the former version. On PCMark Work 2.0, the lower level Tab S6 scored a 9022\. On Geekbench 5, the Tab S6 scored a single core score of 747 and a multi-core score of 2,518\. It’s multi-core scores come in very close to the A12 Bionic chip in the iPad (2019).
 
 ![Samsung Galaxy Tab S6](https://www.lifewire.com/thmb/TIUmjQSMgpAJw4W3I6fcgiYY1BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_Galaxy_Tab_S6_06-cc64b6b41e8f4420b9fe38d223541b52.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Productivity: S Pen included, keyboard case sold separately**
 
@@ -119,7 +123,7 @@ Lifewire / Erika Rawes
  After about a week, the S Pen became like an extra appendage for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Audio: Dolby Atmos**
@@ -127,10 +131,6 @@ Lifewire / Erika Rawes
  The Galaxy Tab S6 has four speakers—two on the bottom and two on the top. The speakers are AKG tuned, and they even support Dolby Atmos. You can enable Dolby Atmos in the tablet’s sound settings. Overall, the speakers sound exceptional for a mobile device. I was impressed by the immersive sound quality when watching movies and shows. For music, the bass isn’t as punchy as it could be, but it sounds better than most tablets I’ve encountered.
 
  I do wish the Galaxy Tab S6 had a headphone jack. I was able to purchase a USB-C to 3.5 mm adapter on Amazon for about $10, but it would have been nice to have a 3.5 mm jack available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Network: No Wi-Fi 6**
 
@@ -142,15 +142,15 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Camera: Dual rear cameras**
 
  The Tab S6 has dual rear cameras, and a single front-facing camera. It has a 13 MP camera and a 5 MP camera on the back, and an 8 MP camera on the front. For a tablet, the camera quality is actually pretty good. It’s not as good as your typical flagship phone, but it’s better than you’d expect on a hybrid tablet. Photos are surprisingly clean and detailed, so you could absolutely get a good group pic at the office, or snap a clear pic of a document you need to send.
 
  The Tab S6 can take UHD video (3840x2160) at 30 FPS with the rear camera and FHD (1920x1080) at 30 FPS with the front cam, and it has a few cool software features like a food mode, pro mode, night mode, and hyperlapse. You can also create an AR emoji and take advantage of additional features like Bixby Vision.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Battery: Worse than the Tab S4**
 
@@ -183,7 +183,7 @@ Lifewire / Erika Rawes
  The Galaxy Tab S6 is one of the better 10-inch tablets available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -219,24 +219,18 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ffordable-acoustic-amps-and-mics-for-video-voyagers-for-2024/"><u>[New] Affordable Acoustic Amps and Mics for Video Voyagers for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outube-monetization-mastery-secrets-success/"><u>[New] YouTube Monetization Mastery Secrets Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-selecting-the-prime-sky-vault-for-firms/"><u>[Updated] 2024 Approved Selecting the Prime Sky Vault for Firms</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-streamlining-your-youtube-views-a-guide-to-blocking-advertisements/"><u>[Updated] In 2024, Streamlining Your YouTube Views A Guide to Blocking Advertisements</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-rise-above-1000-subs-youtubing-strategies-for-mobile-creators-for-2024/"><u>[Updated] Rise Above 1000 Subs YouTubing Strategies for Mobile Creators for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/ignite-user-interaction-via-thoughtfully-crafted-insta-lives/"><u>Ignite User Interaction via Thoughtfully-Crafted Insta Lives</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-transitioning-vids-from-twitter-to-fb-engagement-zone/"><u>In 2024, Transitioning Vids From Twitter to FB Engagement Zone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/inspirational-insta-captions-to-elevate-your-social-presence/"><u>Inspirational Insta Captions to Elevate Your Social Presence</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/taking-on-two-titans-in-depth-analysis-of-apple-watch-series-9-against-fitbit-charge-6/"><u>Taking on Two Titans: In-Depth Analysis of Apple Watch Series 9 Against Fitbit Charge 6</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-all-rounder-panasonic-fz80s-review/"><u>The All-Rounder: Panasonic FZ80's Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-new-era-of-computing-imac-with-m1-a-revolutionary-design-and-powerful-cpu-analysis/"><u>The New Era of Computing: IMac with M1 - A Revolutionary Design & Powerful CPU Analysis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-dying-light-experience-engaging-first-person-co-op-play-combined-with-parkour-skills/"><u>The Ultimate Dying Light Experience: Engaging First-Person Co-Op Play Combined with Parkour Skills</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-smart-mornings-with-totobays-2nd-gen-wake-up-light-budget-friendly-and-effective/"><u>The Ultimate Guide to Smart Mornings with Totobay's 2Nd Gen Wake-Up Light - Budget Friendly and Effective.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-7-premium-mobile-plans-for-seniors/"><u>Top 7 Premium Mobile Plans for Seniors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-17-inch-laptops-a-comprehensive-guide/"><u>Top Rated 17-Inch Laptops : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-review-of-the-dell-g5-5090-the-ultimate-choice-for-cost-effective-high-performance-gaming-computers/"><u>Top Review of the Dell G5 5090: The Ultimate Choice for Cost-Effective, High-Performance Gaming Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-the-zoom-share-screen-glitch/"><u>Troubleshooting Guide: Resolving the 'Zoom Share Screen' Glitch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-linkedin-potential-8-upgrade-reasons/"><u>Unlocking LinkedIn Potential: 8 Upgrade Reasons</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-castwithease-how-to-make-livestreaming-your-podcast-effortless/"><u>[New] CastWithEase How to Make Livestreaming Your Podcast Effortless</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-high-definition-horizons-the-intricacies-of-dell-p2715q-screening-for-2024/"><u>[New] High-Definition Horizons The Intricacies of Dell P2715Q Screening for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-eager-ears-entertainment-where-to-download-laughable-rings/"><u>[Updated] 2024 Approved Eager-Ears Entertainment Where to Download Laughable Rings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-step-by-step-guide-to-optimal-screen-casting-via-meet/"><u>2024 Approved Step-by-Step Guide to Optimal Screen Casting via Meet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-snapseed-starters-handbook-for-photo-editing/"><u>2024 Approved The Snapseed Starter's Handbook for Photo Editing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/audio-library-accessibility-the-ultimate-audible-benefits-guide/"><u>Audio Library Accessibility: The Ultimate Audible Benefits Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-performance-of-googles-telephony-offerings/"><u>Evaluating the Performance of Google’s Telephony Offerings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-superior-samsung-galaxy-s21-ultra-ruling-the-android-market/"><u>Expert Analysis of the Superior Samsung Galaxy S21 Ultra - Ruling the Android Market</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-algorithm-effective-tools-to-increase-youtube-views/"><u>In 2024, Master the Algorithm Effective Tools to Increase YouTube Views</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-logitech-c615-camera-striking-balance-between-cost-and-functionality/"><u>In-Depth Review of the Logitech C615 Camera: Striking Balance Between Cost and Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/insecurity-in-linux-vendor-kernel-confirming-the-risks-and-solutions-according-to-recent-research-zdnet/"><u>Insecurity in Linux Vendor Kernel: Confirming the Risks and Solutions According to Recent Research | ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-samsung-galaxy-tab-s3-a-solid-choice-expert-insights-and-review/"><u>Is the Samsung Galaxy Tab S3 a Solid Choice? Expert Insights and Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-loyalty-with-apple-watch-series-n-why-im-skipping-series-10-and-staying-content-with-what-i-have-exclusive/"><u>My Loyalty with Apple Watch Series N | Why I'm Skipping Series 10 and Staying Content With What I Have Exclusive</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ricoh Theta SC2: Handhraning 360-Degree Exploration"
-date: 2025-01-07T17:36:02.364Z
-updated: 2025-01-10T10:10:30.384Z
+date: 2025-01-26T20:23:24.960Z
+updated: 2025-01-29T22:06:38.429Z
 categories:
   - BestProducts
 description: "This Article Describes Ricoh Theta SC2: Handhraning 360-Degree Exploration"
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/0PqspYn0Ny1UT0fFzdIhza4naCk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-HERO-SQ-e459d44e1a2c432f80fec058b858ccfe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -44,17 +44,9 @@ Lifewire / Jeremy Laukkonen
 
 4.8
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Omni 20+ Wireless Power Bank
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/_EV0MTLRfFPHdqFJ2gKyMJff5YY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-HERO-SQ-e459d44e1a2c432f80fec058b858ccfe.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -83,10 +75,14 @@ Lifewire / Jeremy Laukkonen
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/lFGiT6009F_OKGOJ-sLcNKNylt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-2-9a3217b3ee154a3ebcb38e61aac3be52.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Slick all-black appearance that’s dulled a bit by soft-touch rubber**
@@ -117,11 +113,11 @@ Lifewire / Jeremy Laukkonen
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/QOfV3Sc5THi3Z0gKZq0e-ciPUEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-5-000854ae3c4347b7adc13130dcb9d1b9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Display: Crisp and easy to read, but confusing**
 
@@ -161,10 +157,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Charging Speed: True fast charging available for some USB-C devices**
 
  For the most part, the Omni 20+ is able to charge each device as fast as it’s designed to be charged. Older devices that charge over standard USB-A ports will draw between 1 and 3 A, depending on the device, and charge quite slowly. But if you have a Qualcomm 3.0 compatible device, you can plug it into the appropriate USB port and enjoy faster charging.
@@ -178,6 +170,10 @@ Lifewire / Jeremy Laukkonen
  By plugging the Omni 20+ into power when available, I found it to be a fantastic replacement for an otherwise bulky assortment of power adapters for my laptop, phone, and other devices.
 
  The built-in Qi charger is capable of putting out 10 watts, and I found it to work just as well as other 10 watt Qi chargers I’ve used. It is a bit touchy in terms of positioning, but I was able to get the hang of it pretty fast.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: High end**
 
@@ -198,6 +194,10 @@ Lifewire / Jeremy Laukkonen
  **Fantastic functionality, decent battery capacity, and frustrating setup experience.**
 
  The Omnicharge Omni 20+ is one of the best power banks out there, and it had better be for the price they’re asking. This is the power bank you need if you count a high wattage USB-C port, barrel connector input and output, wireless charging, and a standard power outlet among your needs. You can find cheaper power banks that provide more juice, but you won’t find one with this same feature set.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -225,24 +225,18 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-leading-streaming-tools-for-online-video-games/"><u>[New] In 2024, Leading Streaming Tools for Online Video Games</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-the-secrets-of-slow-motion-video-production-for-instagram-impact/"><u>[New] In 2024, Unveiling the Secrets of Slow Motion Video Production for Instagram Impact</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-lead-the-pack-with-these-top-7-android-tools-against-ads/"><u>[Updated] 2024 Approved Lead the Pack with These Top 7 Android Tools Against Ads</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-exploring-options-when-facebook-takes-down-my-content-for-2024/"><u>[Updated] Exploring Options When Facebook Takes Down My Content for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-the-limitations-of-immersive-tech/"><u>2024 Approved Examining the Limitations of Immersive Tech</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-the-strongly-built-uniden-r3-with-exceptional-long-range-features/"><u>Expert Review: The Strongly Built Uniden R3 with Exceptional Long Range Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-elegance-and-efficiency-of-aukeys-no-nonsense-usb-30-hub-package/"><u>Exploring the Elegance & Efficiency of Aukey's No-Nonsense USB 3.0 Hub Package</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-escort-max-360-high-tech-radar-detection-meets-accurate-gps-navigation/"><u>Exploring the Features of Escort Max 360: High-Tech Radar Detection Meets Accurate GPS Navigation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fast-and-reliable-or-just-ugly-evaluating-tp-links-av2000-powerline-adapter/"><u>Fast and Reliable or Just Ugly? - Evaluating TP-Link's AV2000 Powerline Adapter</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-2018-amazon-kindle-paperwhite-revolutionized-reading/"><u>How the 2018 Amazon Kindle Paperwhite Revolutionized Reading</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-usb-connectivity-issues-in-windows-10-and-11-systems/"><u>How to Repair Unresponsive USB Connectivity Issues in Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-ott-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .ott file document electronically</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-capturing-moments-on-facebook-beyond-the-screen/"><u>In 2024, Capturing Moments on Facebook Beyond the Screen</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-hp-stream-14-affordable-performance-with-notable-tradeoffs/"><u>In-Depth Analysis of the HP Stream 14: Affordable Performance with Notable Tradeoffs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-a71-5g-smart-choice-against-high-end-models/"><u>In-Depth Analysis of the Samsung Galaxy A71 5G - Smart Choice Against High-End Models</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-a-2020-lacking-essential-function/"><u>In-Depth Analysis of the Samsung Galaxy Tab A (2020): Lacking Essential Function</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-how-the-apple-watch-series-6-elevates-yet-remains-unrivaled-in-its-class/"><u>In-Depth Analysis: How the Apple Watch Series 6 Elevates Yet Remains Unrivaled in Its Class</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-10-free-video-compression-tools-for-windows-10/"><u>New 2024 Approved Top 10 Free Video Compression Tools for Windows 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-mac-obs-guide-installation-and-operational-knowledge/"><u>[New] In 2024, The Ultimate Mac OBS Guide Installation & Operational Knowledge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-converting-any-tiktok-sound-into-phone-alerts/"><u>[New] The Ultimate Guide Converting Any TikTok Sound Into Phone Alerts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-iphone-firmware-and-software-for-potential-upgrade/"><u>Assessing iPhone Firmware and Software for Potential Upgrade</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-hp-zbook-firefly-15-g8-a-travelling-treasure/"><u>Comprehensive Evaluation of the HP ZBook Firefly 15 G8: A Travelling Treasure</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-elite-seven-portals-for-watching-movie-trailers-online/"><u>Discover the Elite Seven Portals for Watching Movie Trailers Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-adding-visual-flair-with-gifs-in-your-instagram-comments/"><u>Guide: Adding Visual Flair with GIFs in Your Instagram Comments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-asus-rog-phone-8-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Asus ROG Phone 8 Pro.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-elite-cgi-green-screen-tutorial-for-kinemaster-enthusiasts/"><u>In 2024, Elite CGI Green Screen Tutorial for Kinemaster Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-asus-zenwifi-ax6600-xt8-top-tier-mesh-wi-fi-solution-reviewed/"><u>In-Depth Look at the ASUS ZenWiFi AX6600 (XT8): Top-Tier Mesh Wi-Fi Solution Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ios-android-unite-how-to-download-and-make-your-own-whatsapp-tones/"><u>IOS, Android Unite How to Download and Make Your Own WhatsApp Tones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tech-gurus-weigh-in-on-the-motorola-one-5g-ace-powerful-battery-life-meets-next-gen-5g-speed/"><u>Tech Gurus Weigh in on the Motorola One 5G Ace – Powerful Battery Life Meets Next-Gen 5G Speed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-setting-up-and-operating-your-arlo-alarm-kit/"><u>Ultimate Guide: Setting Up and Operating Your Arlo Alarm Kit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966983711-ultimate-solution-to-get-your-epson-et-4550-up-and-running-on-windows-with-proven-techniques/"><u>Ultimate Solution to Get Your Epson ET-4550 Up & Running on Windows with Proven Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Hidden Insights: 20 Often-Missed Techniques for the Ultimate Nintendo Switch Experience"
-date: 2025-01-13T21:12:01.579Z
-updated: 2025-01-15T22:29:08.388Z
+date: 2025-01-24T16:02:30.504Z
+updated: 2025-01-29T17:59:28.514Z
 tags:
   - games
   - tv
@@ -38,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
  The Nintendo Switch's mix of innovation and nostalgia pushed it into the hands and hearts of the greater game-playing public. While the direct, user-friendly interface makes it easy for a newcomer to play their favorite games, the beloved Mario machine still holds some surprises for even the most enfranchised player.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1  Change Your Region to Access Region-Restricted Games 
 
 ![Nintendo Switch Region Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/region-lock.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Robert Griffey / How-To Geek
 
@@ -65,16 +65,12 @@ Robert Griffey / How-To Geek
  If you ever wanted to unlock your Switch to the sound of a honking clown horn or a series of other amusing sounds, then you are in luck. You can discover a series of similarly silly sound effects on the unlock screen by pressing ZL, ZR, or the control sticks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Ease Eye Strain with Dark Mode 
 
 ![Nintendo Switch in Dark Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dark-mode.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Robert Griffey / How-To Geek
 
@@ -84,16 +80,24 @@ Robert Griffey / How-To Geek
 
  As games get larger, hard drive space becomes more precious. You can [free up internal storage](https://facebook-video-footage.techidaily.com/updated-the-definitive-guide-to-film-gear-buying-tips/) by transferring game save data to a microSD card. Once you insert a card of your choice, just head to System Settings > Data Management, and select "Move Data Between System/microSD Card."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7  Pair Bluetooth Headphones 
 
  You can enjoy a wireless audio experience on the go by [pairing Bluetooth headphones with your Switch](https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/). Head to System Settings > Bluetooth Audio, and follow the pairing instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8  Pair Joy-Cons with Other Devices 
 
  Did you know Nintendo’s Joy-Cons can also be paired with your trusty smartphone, Mac, or PC? Hold down the sync button on the Joy-Con until the lights start flashing—indicating it's in pairing mode—and connect it through the Bluetooth menu on your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9  Use a USB Keyboard 
@@ -112,6 +116,10 @@ Jerome Thomas / How-To Geek
 
  It's a rare occasion that a Switch will freeze to a degree that necessitates any action. If the situation arises, a hard reset should resolve most issues. Hold the power button down for about 12 seconds until the console powers off, wait a few moments, and then press the power button again to restart your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 12  Adjust Brightness Quickly 
 
  You don't need to break your concentration if you're on-the-go and the screen becomes harder to see because the ambient light keeps changing. You can adjust the screen brightness quickly by holding down the Home button during gameplay. A quick menu will appear, allowing you to adjust the brightness without exiting your game.
@@ -122,10 +130,6 @@ Jerome Thomas / How-To Geek
 
 ![A Nintendo Switch face-down on a white tabletop with joy-cons surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/shutterstock_1154615047.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [saksorn kumjit/Shutterstock.com](https://www.shutterstock.com/image-photo/bangkok-thailand-august-12-2018-nintendo-1154615047)
 
  For all of us who are sent into a fit of rage by an A-mapped jump button, you can [customize your Joy-Con button layout](https://techno-recovery.techidaily.com/the-ultimate-list-5-best-video-editing-software-picks/) by going to System Settings > Controllers and Sensors, and then selecting "Change Button Mapping." From there, you can change the controls to suit your play style.
@@ -134,25 +138,25 @@ Jerome Thomas / How-To Geek
 
  You can easily extend the battery life of your Switch by setting a shorter duration for sleep mode. Conserve power by going to System Settings > Sleep Mode, and choosing "Auto-Sleep (Playing on Console Screen)" and insulate yourself from the pitfalls of a dead-system surprise.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 15  See How Long You've Played a Game 
 
  Whether you're worried you've spent too much time speed-running _Metroid Dread_ or just need hard proof to win an argument with a significant other, you can check your playtime by selecting your user icon on the home screen and choosing "Profile." This will show you an estimate of the number of hours you've sunk into each game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 16  Send a Screenshot to Your Phone with a QR Code 
 
  Sharing and saving in-game screenshots is made super simple with a QR code. Open the "Album" on the Home screen, select the screenshot, and choose Sharing and Editing > Send to Smartphone to generate a code to send to others or keep to yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 17  Transfer Data to a New Switch 
 
 ![ROG Ally Next to OELD Switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sydney Butler / How-To Geek
 
@@ -160,16 +164,12 @@ The ROG Ally next to an OLED Nintendo Switch. Both devices offer impressive scre
 
  Upgrading to an OLED Switch? Transfer user and save data to a new Switch by going to System Settings > Users, and then "Transfer Your User and Save Data." Follow the prompts to move data wirelessly between consoles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 18  Turn on Your TV 
 
  If you're tired of having to press a confusing series of buttons to boot up your entire entertainment system, the Switch can do it for you. In the "System Settings" menu, select "TV Settings," and toggle "Match TV Power State" on. Now you can turn on your TV and Switch by pressing the Home button on your Joy-Con or Pro Controller and prove to yourself just how over-rated standing and moving actually is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 19  Voice Chat with Friends 
@@ -199,17 +199,22 @@ The ROG Ally next to an OLED Nintendo Switch. Both devices offer impressive scre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-efficient-methods-for-renaming-users-in-google-meet-for-2024/"><u>[Updated] Efficient Methods for Renaming Users in Google Meet for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canon-powershot-g9-x-mark-ii-review-great-travel-camera-with-a-retro-look/"><u>Canon PowerShot G9 X Mark II Review: Great Travel Camera with a Retro Look</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-testing-results-for-lenovo-yoga-a940-notebook/"><u>Comprehensive Testing Results for Lenovo Yoga A940 Notebook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevating-play-the-surround-sound-advantage-of-g-pro-x/"><u>Elevating Play: The Surround Sound Advantage of G Pro X</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-x50-gt-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor X50 GT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-oneplus-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock OnePlus Phone Forgot Password</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y02t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y02T to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-intrepid-insights-top-10-undiscovered-vlc-commands/"><u>In 2024, Intrepid Insights Top 10 Undiscovered VLC Commands</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-12-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme 12 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sb210-soundbot-unveiling-its-exceptional-acoustic-capabilities-for-a-cozy-winter-season/"><u>SB210 Soundbot: Unveiling Its Exceptional Acoustic Capabilities for a Cozy Winter Season</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-wireless-charge-discover-our-erhaps-top-7-solutions-for-restoring-wireless-power-to-your-iphone/"><u>Struggling With iPhone Wireless Charge? Discover Our Erhaps, Top 7 Solutions for Restoring Wireless Power to Your iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-navigate-youtube-gaming-success-with-right-tags/"><u>[New] 2024 Approved Navigate YouTube Gaming Success with Right Tags</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-insiders-guide-to-youtube-tv-features-and-functions/"><u>[New] The Insider's Guide to YouTube TV Features & Functions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elite-visionaries-video-realm/"><u>[Updated] Elite Visionaries Video Realm</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfecting-google-meet-ppt-sessions-on-desktoptablet-for-2024/"><u>[Updated] Perfecting Google Meet PPT Sessions on Desktop/Tablet for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-roadmap-to-creating-unforgettable-facebook-cover-videos/"><u>[Updated] The Roadmap to Creating Unforgettable Facebook Cover Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-essential-tips-and-tricks-for-creating-killer-short-videos-on-yt/"><u>2024 Approved Essential Tips and Tricks for Creating Killer Short Videos on YT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-look-at-the-new-microsoft-surface-pro-7-steady-upgrade-with-minor-tweaks/"><u>A Comprehensive Look at the New Microsoft Surface Pro 7 - Steady Upgrade with Minor Tweaks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-deep-dive-into-the-directors-cut-why-wasteland-2-is-a-must-play-turn-based-rpg/"><u>A Deep Dive Into the Director's Cut: Why Wasteland 2 Is a Must-Play Turn-Based RPG</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ace-your-skills-with-the-top-picks-from-linkedin-learnings-2024-catalog/"><u>Ace Your Skills with the Top Picks From LinkedIn Learning's 2024 Catalog</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-camera-error-0xa00f425d/"><u>Eradicating Window's Camera Error: 0XA00F425D</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-redmi-12-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi Redmi 12 5G FRP</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-minds-of-tech-a-detailed-look-at-the-2019-tcl-32s325-with-roku-tv/"><u>Unveiling the Minds of Tech: A Detailed Look at the 2019 TCL 32S325 with Roku TV</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-of-netgears-ex3700-wi-fi-range-extender-ac750-a-detailed-review/"><u>Unveiling the Performance of Netgear's EX3700 Wi-Fi Range Extender (AC750) - A Detailed Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-a-closer-look-at-the-samsung-galaxy-s2-impressions/"><u>Unveiling the Potential: A Closer Look at the Samsung Galaxy S2# Impressions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-secrets-of-a-robust-yet-cost-effective-fintie-case-for-your-macbook-pro-13/"><u>Unveiling the Secrets of a Robust yet Cost-Effective Fintie Case for Your MacBook Pro 13</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/user-experience-insights-on-googles-phone-communications-platform/"><u>User Experience Insights on Google's Phone Communications Platform</u></a></li>
 </ul></div>
 

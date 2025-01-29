@@ -1,7 +1,7 @@
 ---
 title: Weekly Insights on Upcoming Devices From Google & Samsung
-date: 2025-01-16T16:28:52.218Z
-updated: 2025-01-21T17:25:48.539Z
+date: 2025-01-26T20:55:07.863Z
+updated: 2025-01-29T16:31:45.347Z
 tags:
   - games
   - tv
@@ -21,13 +21,13 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
@@ -35,15 +35,15 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Valve
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
@@ -53,16 +53,12 @@ Valve
 
  Finally, a Start menu change that makes sense.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
@@ -71,15 +67,19 @@ Valve
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Motorola
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
@@ -106,16 +106,19 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-how-to-add-a-timestamp-to-youtube-video-for-2024/"><u>[New] How to Add a Timestamp to YouTube Video for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-video-and-image-quality-on-the-go-naturally/"><u>2024 Approved Boost Video & Image Quality on the Go, Naturally</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-low-cost-approach-to-tv-wall-mounting-dreams-tale/"><u>A Low-Cost Approach to TV Wall Mounting: Dream's Tale</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ab-testing/"><u>A/B Testing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-protection-for-your-macbook-pro-13-in-depth-analysis-of-a-simple-economical-case/"><u>Affordable Protection for Your MacBook Pro 13: In-Depth Analysis of a Simple, Economical Case</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/decoding-the-success-story-how-the-corsair-one-pro-reigns-supreme-in-creative-and-competitive-computing/"><u>Decoding the Success Story: How the Corsair One Pro Reigns Supreme in Creative and Competitive Computing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dissecting-the-balance-between-strength-and-size-in-the-radpower-radcity-pressure-bike-model-5plus/"><u>Dissecting the Balance Between Strength and Size in the RadPower RadCity Pressure Bike, Model 5+</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/profit-generating-methods-for-successful-vimeo-creators-for-2024/"><u>Profit-Generating Methods for Successful Vimeo Creators for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-mastering-the-conversion-of-youtube-videos-into-m4a-format-using-three-effective-techniques/"><u>Simple Steps: Mastering the Conversion of YouTube Videos Into M4A Format Using Three Effective Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/timeless-tech-treatment-reviving-oldschool-gaming/"><u>Timeless Tech Treatment: Reviving Oldschool Gaming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/whats-inside-unlocking-price-and-tech-insights-for-amazfit-helio-ring-2021/"><u>What's Inside: Unlocking Price and Tech Insights for Amazfit Helio Ring 2021</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>[New] The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-comprehensive-guide-to-viewing-facebook-videos-on-apple-tv-devices/"><u>[Updated] In 2024, Comprehensive Guide to Viewing Facebook Videos on Apple TV Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-your-drone-experience-with-these-essentials/"><u>2024 Approved Elevate Your Drone Experience with These Essentials</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-gameplay-stream-xbox-seamlessly-to-facebook/"><u>2024 Approved Elevate Your Gameplay Stream Xbox Seamlessly to Facebook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-google-pixel-8-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-mohu-leafs-30-tv-antenna-best-value-in-reception-technology/"><u>In-Depth Review of Mohu Leaf's 30 TV Antenna - Best Value in Reception Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-review-of-the-updated-microsoft-surface-pro-7-reliable-performance-amidst-slight-modifications/"><u>Inside Review of the Updated Microsoft Surface Pro 7 – Reliable Performance Amidst Slight Modifications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-chatgpt-to-tackle-mathematical-questions-effectively/"><u>Is It Possible for ChatGPT to Tackle Mathematical Questions Effectively?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-paying-for-applecareplus-a-smart-choice-for-iphone-and-ipad-owners/"><u>Is Paying for AppleCare+ a Smart Choice for iPhone and iPad Owners?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/master-your-subjects-from-home-the-definitive-rankings-of-online-course-websites/"><u>Master Your Subjects From Home: The Definitive Rankings of Online Course Websites</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mavix-m9-gaming-chair-review/"><u>Mavix M9 Gaming Chair Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/microsoft-surface-duo-review/"><u>Microsoft Surface Duo Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-steps-to-record-movies-on-your-tech-devices/"><u>Quick Steps to Record Movies on Your Tech Devices</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-the-reasons-for-loud-computer-fans-a-guide-by-yl-computing-yl-solutions/"><u>Understanding the Reasons for Loud Computer Fans: A Guide by YL Computing | YL Solutions</u></a></li>
 </ul></div>
 

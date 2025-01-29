@@ -1,7 +1,7 @@
 ---
 title: "Five Years On: The Critical Functions Yet To Be Added To Apple TV+"
-date: 2025-01-08T16:48:56.226Z
-updated: 2025-01-15T21:03:28.562Z
+date: 2025-01-22T21:10:34.497Z
+updated: 2025-01-29T21:24:12.702Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 ## Five Years On: The Critical Functions Yet To Be Added To Apple TV+
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,16 +35,12 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
 ![Apple services running on Apple devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-services-running-on-apple-devices.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  Another wrinkle is that everyone you invite to Family Sharing needs to create an Apple account. It's free to do that, but it's still an annoying hurdle—especially compared to the likes of Disney+ and Netflix, where you can create extra profiles within seconds from any device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  An Android App for Phones and Tablets
@@ -55,10 +51,14 @@ Apple
 
 ![Apple TV app on the Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-tv-app-on-the-play-store.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You're not entirely locked out as an Android user, mind. You can stream Apple TV+ in a web browser on mobile, but it's not as smooth as a native app would be—you may encounter plentiful buffering, for instance, and there's no support for [features like offline viewing](https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-z-fold-5-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Separate Your Watchlist From Up Next
@@ -66,6 +66,10 @@ Apple
  When you're partway through a show or movie on Apple TV+, it adds it to your "Up Next" row. This persistently appears on the home screen, so it's quick to jump back into what you're watching. So far, so good.
 
 ![Up Next on Apple TV+ in a web browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/up-next-on-apple-tv-in-a-web-browser.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The issue comes when you want to mark something you're interested in so you can easily find it later. There's no separate watchlist, like there is on Netflix or Prime Video. Instead, you can only add it to your Up Next, which means that list quickly becomes a mess of things you're currently watching and what you want to watch.
 
@@ -78,10 +82,6 @@ Apple
  You can browse by a handful of categories, like "Drama Series" and "Feature Films", but there's no way to pair these with more specific filters (like if you only want 90-minute movies).
 
 ![Searching on Apple TV+.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/searching-on-apple-tv.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The search functionality itself is also unreliable. A search for "kids" includes the likes of adult-orientated _The Tragedy of Macbeth_. You'll also get different results depending on whether you search "kids" and then select "Movies", or just search "kids movies".
 
@@ -106,16 +106,20 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-navigating-the-world-of-speech-to-text-with-google-expertly/"><u>[Updated] In 2024, Navigating the World of Speech-to-Text with Google Expertly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-personalize-your-pixelated-world-the-ultimate-guide-to-discovering-creator-types-via-6-tests/"><u>[Updated] Personalize Your Pixelated World The Ultimate Guide to Discovering Creator Types via 6 Tests</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-visionaryzoom-7-x-perfect-photo-amplification-for-2024/"><u>[Updated] VisionaryZoom 7-X Perfect Photo Amplification for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comparative-review-traditional-chromecast-vs-the-new-and-improved-chromecast-with-google-tv/"><u>A Comparative Review: Traditional Chromecast Vs. The New and Improved Chromecast with Google TV</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-innovations-in-balancing-exposures-for-perfect-pictures/"><u>In 2024, Innovations in Balancing Exposures for Perfect Pictures</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-new-fitbit-charge-4-blending-aesthetics-and-performance/"><u>In-Depth Look at the New Fitbit Charge 4: Blending Aesthetics & Performance</u></a></li>
-<li><a href="https://article-tips.techidaily.com/mastering-audio-recording-top-mics-for-4k-video/"><u>Mastering Audio Recording - Top Mics for 4K Video</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimal-aspect-ratios-for-video-content-creation-for-2024/"><u>Optimal Aspect Ratios for Video Content Creation for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-the-elite-samsung-galaxy-tab-s7plus-and-its-unmatched-android-performance/"><u>The Definitive Guide to the Elite Samsung Galaxy Tab S7+ and Its Unmatched Android Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-network-server-cabinets-and-racks-a-comprehensive-guide/"><u>Top-Rated Network Server Cabinets & Racks : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-hp-chromebook-11-an-all-in-one-solution-for-academics-careers-and-recreation/"><u>Unveiling the HP Chromebook 11: An All-in-One Solution for Academics, Careers & Recreation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-survey-life-through-the-spinning-sphere-of-samsung/"><u>[New] Comprehensive Survey Life Through the Spinning Sphere of Samsung</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-quick-fix-mac-compatible-youtube-video-resize/"><u>[New] In 2024, Quick Fix Mac-Compatible YouTube Video Resize</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-fixing-obs-screen-blackout-problems/"><u>[Updated] 2024 Approved Fixing OBS Screen Blackout Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-asus-proart-excellence-in-4k-hdr-monitoring/"><u>[Updated] ASUS ProArt Excellence in 4K HDR Monitoring</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-guide-the-intricate-process-of-media-import-in-w11/"><u>Exclusive Guide The Intricate Process of Media Import in W11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-10-pro-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 10 Pro 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-linksys-ea9500-router-advanced-tech-for-seamless-connectivity/"><u>In-Depth Look at the Linksys EA9500 Router: Advanced Tech for Seamless Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-new-and-improved-samsung-galaxy-budsplus/"><u>In-Depth Look at the New and Improved Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-oneplus-9-pro-style-meets-velocity-with-superior-cameras/"><u>In-Depth Look at the OnePlus 9 Pro - Style Meets Velocity with Superior Cameras</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-patekfly-12-your-shape-shifting-tripod/"><u>Innovative Patekfly 12: Your Shape-Shifting Tripod</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-your-ipad-keeping-pace-with-the-latest-technology-trends/"><u>Is Your iPad Keeping Pace With the Latest Technology Trends?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lg-gram-156-ultra-lightweight-laptop-review-2018-long-battery-life-and-powerful-performance/"><u>LG Gram 15.6 Ultra-Lightweight Laptop Review (2018) - Long Battery Life & Powerful Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lightning-fast-lg-gram-17-the-ultimate-guide-to-its-slim-powerful-performance/"><u>Lightning-Fast LG Gram 17: The Ultimate Guide to Its Slim, Powerful Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-x50-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor X50 with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
 

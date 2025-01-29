@@ -1,7 +1,7 @@
 ---
 title: Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
-date: 2025-01-11T19:50:56.700Z
-updated: 2025-01-15T16:03:45.250Z
+date: 2025-01-26T21:41:08.533Z
+updated: 2025-01-29T19:23:17.562Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Gaming on an 8GB Graphics Card - Is This Adequate for Modern Titles?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Highlights
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The latest and greatest AAA games can use a boatload of video memory when you crank the visuals to high or ultra. With such an insatiable appetite for VRAM, is an 8GB GPU enough to play the latest games in 2024? I've got an 8GB GPU, and here's what I've learned.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  8GB of Memory Is Plenty for Indie, eSports, and Older Games
@@ -40,7 +40,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A screenshot of a virtual bar from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204942.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -50,6 +50,10 @@ Cianna Garrison / How-To Geek
  On the other hand, enabling ray-traced lighting really starts to stress the 8GB memory buffer on my RTX 3070, even at 1080p, when [streaming the game to a ROG Ally](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/).
 
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Things Get Complicated With Newer AAA Games
 
@@ -86,16 +90,12 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Should You Buy an 8GB GPU in 2024?
 
@@ -120,22 +120,18 @@ _GIGABYTE_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-bright-ideas-for-android-video-mastery/"><u>[New] In 2024, Bright Ideas for Android Video Mastery</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-offline-android-delights-top-screen-free-game-list-you-must-play/"><u>[New] Offline Android Delights Top Screen-Free Game List You Must Play</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-full-time-employees-guide-to-video-content-success/"><u>[New] The Full-Time Employee's Guide to Video Content Success</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-proven-methods-to-supercharge-your-spotify-ad-results/"><u>2024 Approved Proven Methods to Supercharge Your Spotify Ad Results</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-asus-zephyrus-g14-evaluation-the-ultimate-all-rounder-in-gaming-computers/"><u>Comprehensive Asus Zephyrus G14 Evaluation: The Ultimate All-Rounder in Gaming Computers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhance-connectivity-leading-wi-fi-expanders-for-a-stronger-signal/"><u>Enhance Connectivity: Leading Wi-Fi Expanders for a Stronger Signal</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-elevating-your-facebook-presence-dji-drone-streaming-tips/"><u>In 2024, Elevating Your Facebook Presence DJI Drone Streaming Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-a15-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy A15 5G FRP?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-spark-sponsorships-a-guide-to-easy-fundraising-for-budget-channels/"><u>In 2024, Spark Sponsorships A Guide to Easy Fundraising for Budget Channels</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/key-factors-to-influence-your-next-laptop-purchase/"><u>Key Factors to Influence Your Next Laptop Purchase</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-the-realm-of-affordable-video-the-vixia-hf-r800-review/"><u>Navigating the Realm of Affordable Video: The VIXIA HF R800 Review</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-complete-guide-to-fixing-screen-trembling-in-google-chrome-for-windows-latest-2n24-edition/"><u>The Complete Guide to Fixing Screen Trembling in Google Chrome for Windows - Latest 2N24 Edition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-versatile-osprey-series-a-deep-dive-into-the-affordable-ws-2902a-by-ambient/"><u>The Versatile Osprey Series: A Deep Dive Into the Affordable WS-2902A by Ambient</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-pick-review-the-smartly-crafted-twelve-south-compass-pros-unmatched-durability-and-balance/"><u>Top Pick Review: The Smartly Crafted Twelve South Compass Pro's Unmatched Durability and Balance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-ipad-mouse-options-enhance-your-tablet-experience/"><u>Top-Rated iPad Mouse Options: Enhance Your Tablet Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/upgrade-your-wi-fi-coverage-with-the-netgear-nighthawk-x6s-range-extender/"><u>Upgrade Your Wi-Fi Coverage with the Netgear Nighthawk X6S Range Extender</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elevate-your-zoom-sessions-utilizing-filters-effectively/"><u>[New] 2024 Approved Elevate Your Zoom Sessions Utilizing Filters Effectively</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-fusing-genres-a-youtube-music-strategy/"><u>[New] In 2024, Fusing Genres A YouTube Music Strategy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-most-popular-iphone-podcast-soundshare-for-2024/"><u>[Updated] Most Popular iPhone Podcast Soundshare for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-simplified-pathway-facebook-vids-to-mp4-720p-and-1080p-hd-free-for-2024/"><u>[Updated] Simplified Pathway Facebook Vids to MP4, 720P & 1080P HD Free for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-find-x6-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Find X6 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-forward-thinking-desktopmobile-chat-apps/"><u>In 2024, Forward-Thinking Desktop/Mobile Chat Apps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-xs-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone XS</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-lose-and-gain-photo-dimensions-in-windows-11-seamlessly/"><u>Learn to Lose and Gain Photo Dimensions in Windows 11 Seamlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/most-innovative-arvr-iphoneandroid-apps/"><u>Most Innovative AR/VR iPhone/Android Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/rexing-v1-dashcam-examined-the-perfect-blend-of-discretion-and-dependability/"><u>Rexing V1 Dashcam Examined - The Perfect Blend of Discretion and Dependability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/score-the-ultimate-savings-with-roku-specials-this-prime-day/"><u>Score the Ultimate Savings with Roku Specials This Prime Day</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/secure-premium-savings-topmost-acer-offers-at-amazons-prime-day-event-year-2e4/"><u>Secure Premium Savings: Topmost Acer Offers at Amazon's Prime Day Event - Year 2E4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sing-your-heart-out-on-a-budget-discover-the-wonders-of-karaoke-usa-at-just-149plus/"><u>Sing Your Heart Out on a Budget - Discover the Wonders of Karaoke USA at Just $149+</u></a></li>
 </ul></div>
 

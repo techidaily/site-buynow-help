@@ -1,7 +1,7 @@
 ---
 title: "Rethinking User Interfaces: Why Touch Buttons Overload Is Harming Business"
-date: 2025-01-15T18:16:45.064Z
-updated: 2025-01-22T01:00:56.518Z
+date: 2025-01-25T18:54:47.472Z
+updated: 2025-01-29T18:35:44.362Z
 tags:
   - games
   - tv
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Problem With Capacitive Touch Buttons
 
  Two things around the house routinely make me reach for the swear jar: cables and touch buttons. Cables are an unavoidable fact of life, the bane of [anyone who appreciates a nice clean setup](https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-profile-video-attraction/). But touch buttons are a deliberate choice.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
  Perhaps the most egregious thing is how these buttons can feel unnecessary. Where a regular clicky button or dial would have done the job just fine, a touch button feels shoe-horned in. It can seem like a lazy attempt to make an interface feel modern, a “great idea” suggested by someone who knows nothing about usability in a board meeting about sales projections.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Capacitive Touch Buttons Are Everywhere
@@ -45,15 +49,15 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tim Brookes / How-To Geek
 
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
 
@@ -62,10 +66,6 @@ Tim Brookes / How-To Geek
  The iPhone 7 skirted many potential problems with clever use of haptic feedback and a tactile design. Muscle memory plays a big part in an established design too, since existing iPhone users already knew where the Home button was so the user experience was identical.
 
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -76,7 +76,7 @@ Tim Brookes / How-To Geek
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Some Manufacturers Ditched Touch for a Reason
@@ -87,6 +87,10 @@ Tim Brookes / How-To Geek
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Occasionally the PS4 would turn itself on randomly, for seemingly no reason. Worse still, the console could randomly turn itself off or eject the disc for no reason. Add to this the constant threat of curious dog and cat noses that are perfect for triggering capacitive touch buttons, and the fact that it was way too easy to trigger these buttons when cleaning or simply walking past.
@@ -94,10 +98,6 @@ Tim Brookes / How-To Geek
  By the time the revised PlayStation 4 Pro rolled around three years later, these had been replaced with good old-fashioned clicky buttons. Lesson learned.
 
  But Sony wasn’t the only company to make this mistake. Microsoft added touch buttons to the final Xbox 360 revision and early Xbox One consoles. These eventually disappeared when the Xbox One X launched in 2017, and they never materialized on the [Xbox Series X or S](https://techno-recovery.techidaily.com/the-definitive-list-of-high-performance-wifi-signal-amplifiers/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Old Man Shouts at Touch Buttons
 
@@ -118,20 +118,15 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-endless-preservation-of-instagrams-free-and-easy/"><u>[New] 2024 Approved Endless Preservation of Instagrams, Free & Easy</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-avoid-buffering-switch-av1-codec-on-youtube/"><u>[New] In 2024, Avoid Buffering Switch AV1 Codec on YouTube</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-eac-launch-error-easy-anti-cheat-is-not-installed/"><u>[SOLVED] EAC Launch Error: Easy Anti-Cheat Is Not Installed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-in-depth-look-at-fraps-screen-capture/"><u>[Updated] 2024 Approved In-Depth Look at Fraps Screen Capture</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-techniques-to-overcome-blackout-during-obs-fullscreen/"><u>[Updated] 2024 Approved Techniques to Overcome Blackout During OBS Fullscreen</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/catch-every-moment-of-the-2024-summer-games-on-your-screen-no-cable-required/"><u>Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-down-on-expenses-how-to-maintain-affordable-online-entertainment-budgets/"><u>Cutting Down on Expenses: How to Maintain Affordable Online Entertainment Budgets</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-cutting-edge-innovations-in-top-tier-mechanical-keyboard-technology-for-gamers/"><u>Discover Cutting-Edge Innovations in Top-Tier Mechanical Keyboard Technology for Gamers.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-engaging-gaming-experiences-unveiling-the-secrets-to-finding-quality-games/"><u>Discover Engaging Gaming Experiences: Unveiling the Secrets to Finding Quality Games</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-immersive-gaming-without-the-glasses-the-advantages-of-purchasing-a-pre-owned-3ds-console/"><u>Discover Immersive Gaming Without the Glasses: The Advantages of Purchasing a Pre-Owned 3DS Console</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-potential-savings-why-inspecting-dvds-before-going-digital-could-reward-you-with-coupons/"><u>Discover Potential Savings: Why Inspecting DVDs Before Going Digital Could Reward You With Coupons</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/diving-deep-into-android-gaming-key-insights-and-tips-i-learned-along-the-way/"><u>Diving Deep Into Android Gaming: Key Insights and Tips I Learned Along the Way</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/doubling-your-screen-space-dual-monitor-setup-for-mac-users/"><u>Doubling Your Screen Space: Dual Monitor Setup for Mac Users</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-download-royalty-free-videos-from-these-top-websites-for-2024/"><u>New Download Royalty-Free Videos From These Top Websites for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-flv-videos-into-high-quality-m4a-files-for-free-with-movavis-web-tool/"><u>Transform Your FLV Videos Into High-Quality M4A Files for Free with Movavi's Web Tool</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mastering-the-art-of-affordable-data-storage-cloud/"><u>[New] Mastering the Art of Affordable Data Storage (Cloud)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-vita-video-edit-a-detailed-2024-guide-and-review/"><u>[New] Mastering Vita Video Edit A Detailed 2024 Guide & Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-how-to-use-green-screen-in-kinemaster/"><u>[Updated] How To Use Green Screen In KineMaster</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-guide-to-using-the-voice-recorder-app-on-samsung-galaxy-s10-and-s9/"><u>New In 2024, Guide to Using the Voice Recorder App on Samsung Galaxy S10 and S9</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/steps-to-add-motion-blur-to-face-with-picsart/"><u>Steps to Add Motion Blur to Face with Picsart</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-g2-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo G2 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-features-of-the-samsung-galaxy-tab-s7-why-its-perfect-for-tech-savvy-users/"><u>Unveiling the Best Features of the Samsung Galaxy Tab S7 - Why It's Perfect for Tech Savvy Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-a-complete-guide-to-kobo-clara-color/"><u>Unveiling the Features: A Complete Guide to Kobo Clara Color</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-linksys-ea8300-enhancing-your-network-experience/"><u>Unveiling the Potential of Linksys EA8300: Enhancing Your Network Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723025921339-why-apple-users-will-love-the-newly-reviewed-freestyle2-in-sapphire-blue-edition/"><u>Why Apple Users Will Love the Newly-Reviewed Freestyle2 in Sapphire Blue Edition.</u></a></li>
 </ul></div>
 

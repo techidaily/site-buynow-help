@@ -1,7 +1,7 @@
 ---
 title: Uncovering the Reason Behind PS One's Shaky Visual Experience
-date: 2025-01-17T01:08:40.829Z
-updated: 2025-01-22T06:51:55.015Z
+date: 2025-01-25T18:40:23.419Z
+updated: 2025-01-29T17:38:47.954Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Uncovering the Reason Behind PS One's Shaky Visual Experience
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Highlights
 
@@ -29,10 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Since you can only use integers, any position for a vertice that's not an integer will simply be skipped over. So you'll see polygons "snap" between positions with certain types of motion. For example, a character that's standing still and has a subtle idle animation will look like they're jittering a little.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Z-Buffer Not Found
 
  Apart from the lack of an FPU, the PlayStation also lacked a hardware Z-buffer. You might remember XYZ coordinates from school, where you can describe any point within a 3D space using three numbers. The PlayStation lacked a hardware buffer to store depth or Z-axis values, sorted in order of how far away something is from the "camera."
@@ -40,7 +40,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This meant that game developers had to create their own in-house Z-buffering solution, and since it was not done in hardware, they had to be economical with their depth-sorting algorithms. This led to a common situation in PS1 games where small sorting errors were made and polygons that should have been hidden from view pop in and out of sight.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Affine Texture Mapping Is Not So Fine After All
@@ -50,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Consoles like the Nintendo 64 do have a Z-buffer, and also use a method known as mipmapping, where multiple versions of a texture are swapped out depending on your distance from the object, further improving the clarity and stability of textures in motion. On the PS1, lacking these technologies, it leads to what's known as affine texture warping.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Fast, Cheap, or Complex: Pick Two
@@ -62,7 +62,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The bottom line is that the console could have had that extra hardware, but it would have driven the cost up significantly, without any clear benefit to Sony or its players at the time. The company went with "fast and cheap," leaving complexity at the door. History has shown this was the right decision.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Emulators Can Correct This (But Should You?)
@@ -70,7 +70,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An iPad running G-Police next a  physical original copy of the game and a PS4 controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-ipad-running-g-police-next-a-physical-original-copy-of-the-game-and-a-ps4-controller.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -96,21 +96,22 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-breaking-down-barriers-to-affordable-editing-power-for-2024/"><u>[New] Breaking Down Barriers to Affordable Editing Power for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-huawei-p10-review-unpacking-its-impressive-specs-and-features/"><u>[Updated] Huawei P10 Review Unpacking Its Impressive Specs and Features</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-tailoring-content-to-trends-organic-growth-strategies-for-youtubers/"><u>[Updated] Tailoring Content to Trends Organic Growth Strategies for YouTubers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/bose-qc30-balancing-efficacy-and-imperfections/"><u>Bose QC30: Balancing Efficacy and Imperfections</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/diving-into-the-sound-quality-of-samsung-galaxy-budsplus-with-a-real-world-hands-on-review/"><u>Diving Into the Sound Quality of Samsung Galaxy Buds+ with a Real-World Hands-On Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-5-criteria-for-choosing-speakers/"><u>Essential 5 Criteria for Choosing Speakers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evolution-in-technology-a-review-of-samsungs-s10plus-and-its-successor-the-s2/"><u>Evolution in Technology: A Review of Samsung's S10+ and Its Successor, the S2</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-google-wifi-revolutionizing-home-networking-for-users-everywhere/"><u>Expert Insights on Google Wifi – Revolutionizing Home Networking for Users Everywhere</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-of-thermaltakes-massive-tm-portable-notebook-cooler-high-value-but-pricey-purchase/"><u>Expert Review of Thermaltake's Massive TM Portable Notebook Cooler - High Value, but Pricey Purchase</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expertly-curated-picks-premier-mesh-networking-systems/"><u>Expertly Curated Picks: Premier Mesh Networking Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-creative-engineering-behind-the-twelve-south-bookbook-v2-macbook-sleeve/"><u>Exploring the Creative Engineering Behind the Twelve South BookBook V2 MacBook Sleeve</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-gt-5-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme GT 5 Pro Quickly? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-honor-70-lite-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Honor 70 Lite 5G</u></a></li>
-<li><a href="https://article-posts.techidaily.com/premier-movie-sneak-peeks-ensemble/"><u>Premier Movie Sneak Peeks Ensemble</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-memories-with-stellar-data-recovery-techniques-by-totan/"><u>Reviving Memories with Stellar Data Recovery Techniques by Totan</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveil-your-creative-potential-comprehensive-guide-to-powerdirector-pro/"><u>Unveil Your Creative Potential Comprehensive Guide to PowerDirector Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-zero-price-strategies-for-solo-frame-analysis-in-videos/"><u>[Updated] Zero-Price Strategies for Solo Frame Analysis in Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ving-profit-through-youtube-sourav-joshis-guide-for-2024/"><u>Achieving Profit Through YouTube Sourav Joshi’s Guide for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/add-more-games-to-the-nes-classic/"><u>Add More Games to the NES Classic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-books-application-a-comprehensive-review/"><u>Apple Books Application: A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/approach-identify-alternative-tests-used-in-endodontic-diagnosis/"><u>Approach: Identify Alternative Tests Used in Endodontic Diagnosis.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-for-home-entertainment-maisto-rc-rock-crawler-reviewed-enthralling-family-friendly-fun/"><u>Best for Home Entertainment: Maisto RC Rock Crawler Reviewed, Enthralling Family-Friendly Fun</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-mfc-7860dw-easy-steps-to-download-and-update-your-printer-drivers-for-windows/"><u>Brother MFC-7860DW: Easy Steps to Download & Update Your Printer Drivers for Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-linksys-ac1900-max-stream-wifi-router-ideal-choice-for-all-households/"><u>Comprehensive Evaluation of Linksys AC1900 Max-Stream WiFi Router: Ideal Choice for All Households</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-asus-chromebook-c2-grook-for-kids-and-students-sturdy-design-and-performance/"><u>Comprehensive Review of the Asus Chromebook C2 Grook for Kids & Students: Sturdy Design and Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-high-end-ws-1nfi-ambient-weather-observer-quality-vs-price-analysis/"><u>Comprehensive Review of the High-End WS-1nfi Ambient Weather Observer: Quality Vs. Price Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/prime-video-conferencing-and-communication-aids-for-2024/"><u>Prime Video Conferencing & Communication Aids for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-not-working-heres-how-to-solve-it-in-windows-10/"><u>Qualcomm Atheros Bluetooth Not Working? Here's How to Solve It in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconciling-winrars-file-sums-a-guide-with-6-fixes/"><u>Reconciling WinRAR's File Sums: A Guide with 6 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-puzzle-9-techniques-for-flawless-powerpoint-prints-in-windows/"><u>Solving the Puzzle: 9 Techniques for Flawless PowerPoint Prints in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-pcs-showdown-how-apple-dell-and-other-tech-giants-stack-up-zdnet/"><u>Top Rated PCs Showdown: How Apple, Dell & Other Tech Giants Stack Up | ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/xbox-series-s-reviewed-high-end-gaming-in-a-smaller-form-factor/"><u>Xbox Series S Reviewed: High-End Gaming in a Smaller Form Factor</u></a></li>
 </ul></div>
 
