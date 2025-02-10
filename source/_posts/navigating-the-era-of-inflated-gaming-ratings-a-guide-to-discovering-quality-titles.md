@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles"
-date: 2025-01-25T16:41:35.384Z
-updated: 2025-01-29T17:36:06.348Z
+date: 2025-02-09T07:29:17.004Z
+updated: 2025-02-09T20:02:58.393Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ## Navigating the Era of Inflated Gaming Ratings: A Guide to Discovering Quality Titles
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  So, if a video game score doesn't help you figure out where to spend your money, is there another way?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Find a Reviewer Who Likes Games You Already Like
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  Reviews are subjective, and attaching a score to them without a clear and consistent rubric might not be that smart to begin with. There are plenty of incredibly high-scoring games that I think are boring (Breath of the Wild) or barely games (Red Dead Redemption 2), which would make me an iconoclast in some cases. However, tehre are reviewers who have similar tastes to mine, so instead of worrying about an average score on Metacritic or what mainstream reviewers think of a game, try to find a reviewer who has given good scores to games you already love. Then look for games they've reviewed well to get an idea of what you should play next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Read the Reviews, Not the Scores
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![A screenshot of a virtual tattooed woman from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-201542.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cianna Garrison / How-To Geek
@@ -57,13 +57,13 @@ Cianna Garrison / How-To Geek
 
  If you're reading reviews by other players, rather than professional reviewers, it's also worth looking at circumstantial information to get some context on their reviews. Did they post a gushing review five hours into a 100 hour game? Are they [console warring](https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-phone-and-remove-locked-screen-by-drfone-android/) in the review? Again, the substance of the review matters as well as some of what's between the lines.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Watch YouTube Gameplay
 
  There are tons of third-party gameplay videos of just about every game on YouTube. You may even prefer to watch clips with no commentary at all, so you can get an idea of what the minute-to-minute experience is like, without someone's opinion affecting you. Just be careful not to spoil the game for yourself. You may want to look for footage that's specifically labeled as spoiler-free, or that doesn't contain story content. It may also be a good idea to look at footage of the first hour of gameplay only, if you don't want any spoilers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Try a Demo or Play on a Subscription Service
 
@@ -90,18 +90,18 @@ Cianna Garrison / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-master-online-engagement-with-proficient-use-of-snap-in-teams/"><u>[New] 2024 Approved Master Online Engagement with Proficient Use of Snap in Teams</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-download-windows-movie-maker-6-step-by-step-guide/"><u>[New] Download Windows Movie Maker 6 Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-insider-tips-for-facebook-cover-video-mastery-for-2024/"><u>[New] Insider Tips for Facebook Cover Video Mastery for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-android-brightening-essentials-stepwise-demystification/"><u>[Updated] In 2024, Android Brightening Essentials - Stepwise Demystification</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unmatched-mac-visual-scriber-with-sound-capture/"><u>[Updated] Unmatched Mac Visual Scriber with Sound Capture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mpeg-4-avi-movavi/"><u>無條件免費 MPEG-4 到 AVI 格式移動：使用 Movavi 實現簡化的影片遷移</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/descargar-y-convertir-archivos-raf-sin-coste-con-movavi/"><u>Descargar Y Convertir Archivos RAF Sin Coste Con Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-glossary-for-beginners-in-ai-explore-29-essential-terms-and-phrases/"><u>The Ultimate Glossary for Beginners in AI: Explore 29 Essential Terms and Phrases</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unihertz-atom-xl-analysis-the-compact-durable-device-that-packs-a-mighty-punch/"><u>Unihertz Atom XL Analysis: The Compact, Durable Device That Packs a Mighty Punch</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-perfect-slumber-top-tier-technology-for-your-ideal-rest/"><u>Unlocking Perfect Slumber: Top-Tier Technology For Your Ideal Rest</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-capabilities-of-the-fujitsu-scansnap-ix1400-a-comprehensive-review-tailored-for-home-workers-and-entrepreneurial-ventures/"><u>Unveiling the Capabilities of the Fujitsu ScanSnap iX1400 - A Comprehensive Review Tailored for Home Workers & Entrepreneurial Ventures</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-samsung-galaxy-tab-a-202-0-exclusive-look-at-its-omission/"><u>Unveiling the Samsung Galaxy Tab A (202 0) - Exclusive Look at Its Omission</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-lenovo-docking-station-a-step-by-step-driver-guide/"><u>Update Your Lenovo Docking Station: A Step-by-Step Driver Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-tiktok-voiceovers-unveiled-for-2024/"><u>[Updated] Mastering TikTok Voiceovers Unveiled for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-earnings-unleashed-discovering-8-lucrative-tiktok-practices/"><u>2024 Approved Earnings Unleashed Discovering 8 Lucrative TikTok Practices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-pc-performance-with-a-new-gpu-installation-tutorial/"><u>Elevate Your PC Performance with a New GPU Installation Tutorial</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-listening-on-spotify-premium-insights/"><u>Enhanced Listening on Spotify: Premium Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-versatile-and-affordable-dell-g5-5090-your-gateway-to-high-performance-gaming/"><u>Expert Review: The Versatile and Affordable Dell G5 5090, Your Gateway to High-Performance Gaming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-12-pro-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 12 Pro? Complete Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/masterclass-on-apple-watch-series-4-refining-innovation-in-wearable-technology/"><u>Masterclass on Apple Watch Series 4: Refining Innovation in Wearable Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-tablet-tech-how-the-2018-apple-ipad-pro-11-inches-sets-new-standards-in-consumer-electronics/"><u>Revolutionizing Tablet Tech: How the 2018 Apple iPad Pro (11 Inches) Sets New Standards in Consumer Electronics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-in-one-handset-reviewed-why-the-google-pixel-n-4a-fits-most-users/"><u>The All-in-One Handset Reviewed - Why the Google Pixel N 4a Fits Most Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unraveling-youtubes-vision-for-a-thriving-ecosystem-of-short-form-video/"><u>Unraveling YouTube's Vision for a Thriving Ecosystem of Short-Form Video</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-compact-zoom-mastery-in-sx720hs-review/"><u>Unveiling Compact Zoom Mastery in SX720HS Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210641186-9780762482214-well-rested-every-day/"><u>Well-Rested Every Day | Free Book</u></a></li>
 </ul></div>
 

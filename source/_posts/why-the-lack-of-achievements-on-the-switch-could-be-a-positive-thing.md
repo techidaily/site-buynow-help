@@ -1,7 +1,7 @@
 ---
 title: Why the Lack of Achievements on The Switch Could Be a Positive Thing
-date: 2025-01-28T22:35:16.910Z
-updated: 2025-01-29T17:07:23.452Z
+date: 2025-02-04T21:56:41.211Z
+updated: 2025-02-10T05:24:01.131Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Why the Lack of Achievements on The Switch Could Be a Positive Thing
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Nintendo is the only console maker of the big three without an integrated achievement system for its consoles. Achievements are immensely popular, and many people want them on the Switch, but I think a lack of achievements is an overlooked unique selling point for Nintendo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  No Achievements Means Pure Gaming On Switch
@@ -36,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Now, the first thing everyone says to this is "you can just [disable the notifications](https://extra-skills.techidaily.com/2024-approved-mastering-high-dynamic-range-with-image-curving/)", but the way that Xbox and PlayStation achievements are designed means they are always in sight at some point. They clutter up the screen when you're browsing your games, litter your profile page, and try to get your eyes on them wherever possible. If Nintendo implemented a truly optional achievement system, I'd be less fussed about it, but their competition only offers half-measures, and that's not good enough for me. My Switch is currently the only place where I can play video games and only have to think about the game itself.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Achievements Can Make Gaming Worse
@@ -46,7 +46,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Likewise, game developers who design their games with achievements in mind have a [perverse incentive](https://en.wikipedia.org/wiki/Perverse%5Fincentive) to use achievements to drive engagement, or stuff the game with filler to push up play time numbers, or even maximize the chances that players will use [microtransactions](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/). Since achievements can be used to influence player behavior, it's possible to use them in ways that aren't great for players in terms of enjoyment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Individual Switch Games Have Their Own Achievement Systems
@@ -58,7 +58,7 @@ _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Swit
  In light of the lack of achievements on the Switch, some developers have simply opted to build their own achievements into their games. For example, in Fire Emblem Engage there's an achievement list within the game to keep track of your progress. Even better, you get in-game currency when you unlock an achievement, so they are more than just window dressing. This isn't rare either, as this [list of Switch games with in-game achievements](https://www.reddit.com/r/NintendoSwitch/comments/xl00ju/list%5Fof%5Fswitch%5Fgames%5Fwith%5Fingame%5Fachievements%5Fin/) from Reddit shows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Switch 2 Simply Doesn’t Need Them to Succeed
@@ -84,17 +84,20 @@ _[Intelligent Systems](https://www.amazon.com/Fire-EmblemTM-Engage-Nintendo-Swit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-how-to-check-tiktok-video-copyright-before-uploading/"><u>[New] How to Check Tiktok Video Copyright Before Uploading?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-understanding-video-formats-which-is-more-effective-av1-or-vp9/"><u>[New] Understanding Video Formats Which Is More Effective, AV1 or VP9?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>2024 Approved The Art of Optimizing Windows Media Player's Audio Operations From Cds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empower-your-code-with-ai-apples-latest-update-brings-advanced-cost-free-programming-utilities-to-coders/"><u>Empower Your Code with AI: Apple's Latest Update Brings Advanced, Cost-Free Programming Utilities to Coders.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/google-assistant-vs-alexa-determining-the-ideal-smart-speaker-companion/"><u>Google Assistant Vs. Alexa: Determining the Ideal Smart Speaker Companion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-to-silencing-alerts-and-alarms-on-smartphones/"><u>Guide to Silencing Alerts and Alarms on Smartphones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/guidelines-for-selecting-your-next-virtual-reality-headset/"><u>Guidelines for Selecting Your Next Virtual Reality Headset</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-huawei-p60-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Huawei P60?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-apple-watch-series-4-an-evolutionary-upgrade/"><u>In-Depth Analysis of Apple Watch Series ‪4: An Evolutionary Upgrade</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-ergohead-mat-for-standing-workstations-a-longevity-and-ease-guide/"><u>In-Depth Analysis of the Ergohead Mat for Standing Workstations: A Longevity and Ease Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-photoscape-program-the-ultimate-freeware-solution-for-imagery-enhancement/"><u>In-Depth Analysis of the PhotoScape Program: The Ultimate Freeware Solution for Imagery Enhancement</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210181328-9780760367858-the-zenned-out-guide-to-understanding-crystals/"><u>The Zenned Out Guide to Understanding Crystals | Free Book</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nrich-your-viewing-experience-with-these-leading-top-6-tools-to-download-youtubes-short-videos/"><u>[New] Enrich Your Viewing Experience with These Leading Top 6 Tools to Download YouTubes' Short Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-swift-to-stillness-the-art-of-timelapse-with-a-galaxy-for-2024/"><u>[New] Swift to Stillness The Art of Timelapse with a Galaxy for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-edits-with-these-top-5-tools-no-youtube-for-2024/"><u>[Updated] Elevate Your Edits with These Top 5 Tools (No Youtube) for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-f54-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/asus-vivobook-11-review-small-affordable-all-around-laptop/"><u>Asus Vivobook 11 Review: Small, Affordable, All-Around Laptop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/easystreamsetup-a-quick-overview-of-simplified-podcast-streaming-techniques/"><u>EasyStreamSetup A Quick Overview of Simplified Podcast Streaming Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evolution-of-innovation-the-top-11-technology-advancements-post-1844/"><u>Evolution of Innovation: The Top 11 Technology Advancements Post-1844</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-f14-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy F14 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hands-on-with-mods-new-easy-sidecar-e-bike/"><u>Hands-On With Mod’s New Easy Sidecar E-Bike</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hero9-review-gopro-at-its-best-but-expensive-to-own/"><u>HERO9 Review - GoPro at Its Best, But Expensive to Own</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-docooler-usb-20-with-12megapixels-amazing-quality-or-just-a-gimmick/"><u>In-Depth Look at the Docooler USB 2.0 with 12Megapixels: Amazing Quality or Just a Gimmick?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-viber-out-the-best-for-international-calls-an-in-depth-review/"><u>Is Viber Out the Best for International Calls? An In-Depth Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-content-creation-with-hix-ai-powered-by-gpt/"><u>Revolutionize Your Content Creation with HIX AI Powered by GPT-</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-nonfunctional-corsair-virtuoso-headset/"><u>Step-by-Step Solutions for a Nonfunctional Corsair Virtuoso Headset</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-linksys-ea85-router-seamlessly-directing-traffic-among-your-electronics/"><u>Unveiling the Power of Linksys EA8ˈ5 Router: Seamlessly Directing Traffic Among Your Electronics</u></a></li>
 </ul></div>
 
