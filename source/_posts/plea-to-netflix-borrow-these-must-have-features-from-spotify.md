@@ -1,7 +1,7 @@
 ---
 title: "Plea to Netflix: Borrow These Must-Have Features From Spotify"
-date: 2025-02-09T07:13:25.667Z
-updated: 2025-02-10T01:08:07.448Z
+date: 2025-02-17T05:46:45.262Z
+updated: 2025-02-19T18:56:03.461Z
 tags:
   - games
   - tv
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 ## Plea to Netflix: Borrow These Must-Have Features From Spotify
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  The best TV binges are the ones with all hits and no skips. Netflix, you’re the king of queues, so let me create my own playlists with individual episodes from shows on your service. While we’re on the topic of new features, I’ve got some other ideas too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Video Playlists Would Be Great for Better Binging
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Dear reader, I can see the skeptical wheels turning in your brain, thinking, “But content gets removed and added to Netflix all the time, what happens then?” That's easy. If shows or movies become unavailable, then they’re just grayed out from playlists. The same thing happens with songs on Spotify. Artists remove songs and albums all the time for various reasons. The playlist skips unavailable tracks and moves on. To spin this into a positive thing, Netflix could always use this info to ping you when a show or movie returns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Add Back That Shuffle Button!
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Netflix, add a shuffle button where it makes sense. Put a shuffle button on the pages for TV series. Serve me up a random episode of a specific show, not just any random show. I mean, Spotify doesn’t put a shuffle button on its entire library. The shuffle button is used for albums and playlists—its use is narrower.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Access to More Data For a Richer Experience
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Based on Google searches and anecdotal evidence from talking with other people, it’s clear everyone is looking for more information about shows and movies. Netflix, don’t make people leave the site or app to get that info. Let us tap into that curiosity on your turf.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  We Need More Features (If You’re Going to Keep Raising Prices)
@@ -90,18 +90,22 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-pictureperfectionist-expert-guide-to-ig-size-settings/"><u>[New] 2024 Approved PicturePerfectionist Expert Guide to IG Size Settings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-best-resources-to-explore-for-personalized-text-enhancements-online/"><u>[Updated] 2024 Approved Best Resources to Explore for Personalized Text Enhancements Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-streamlining-your-media-mastering-mp4-and-other-formats-in-vlc-for-2024/"><u>[Updated] Streamlining Your Media Mastering MP4 & Other Formats in VLC for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/after-one-month-comparing-the-health-and-fitness-capabilities-of-fitbit-sense-2-and-versa-4-caution-on-gps-functionality/"><u>After One Month: Comparing the Health & Fitness Capabilities of Fitbit Sense 2 & Versa 4 - Caution on GPS Functionality</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-testing-results-for-lenovo-yoga-a940-notebook/"><u>Comprehensive Testing Results for Lenovo Yoga A940 Notebook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-premier-wearables-elite-smartwatches-of-2024/"><u>Discover the Premier Wearables: Elite Smartwatches of 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-videos-from-any-website-a-complete-guide-with-movavi/"><u>Download Videos From Any Website: A Complete Guide with Movavi</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevating-play-the-surround-sound-advantage-of-g-pro-x/"><u>Elevating Play: The Surround Sound Advantage of G Pro X</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/masterful-ways-of-scrolling-through-appreciated-youtube-feedback/"><u>Masterful Ways of Scrolling Through Appreciated YouTube Feedback</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-top-performers-best-netgear-routers-available/"><u>The Top Performers: Best Netgear Routers Available</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-fitbit-charge-3-review-an-effective-choice-today/"><u>Unpacking the Fitbit Charge 3 Review: An Effective Choice Today?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-leading-selection-of-tools-to-download-facebook-lite-videos/"><u>[New] 2024 Approved The Leading Selection of Tools to Download Facebook Lite Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-navigating-google-meet-professionally-free-of-charge/"><u>[New] In 2024, Navigating Google Meet Professionally, Free of Charge</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flawless-playlist-integration-techniques-in-web-development/"><u>[Updated] 2024 Approved Flawless Playlist Integration Techniques in Web Development</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-list-for-capturing-instagram-vids-pcmac/"><u>2024 Approved The Ultimate List for Capturing Instagram Vids (PC/Mac)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-8-enhanced-peripherals-for-a-richer-metaverse-experience/"><u>2024 Approved Top 8 Enhanced Peripherals for a Richer Metaverse Experience</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/boost-your-dell-xps-13s-speed-by-upgrading-to-a-solid-state-drive-a-comprehensive-guide/"><u>Boost Your Dell XPS 13'S Speed by Upgrading to a Solid State Drive - A Comprehensive Guide!</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-windows-11-cursor-blackout-with-these-tips/"><u>Conquer Windows 11 Cursor Blackout with These Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/finding-the-right-time-to-switch-phones/"><u>Finding the Right Time to Switch Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-google-nest-hello-revolutionizes-your-doorbell-experience-in-depth-review-on-facial-recognition-package-detection-and-enhanced-connectivity/"><u>How Google Nest Hello Revolutionizes Your Doorbell Experience: In-Depth Review on Facial Recognition, Package Detection, and Enhanced Connectivity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-the-pros-and-cons-of-apple-books-app/"><u>In-Depth Analysis: The Pros and Cons of Apple Books App</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-why-the-amazonbasics-12-sheet-security-shredder-is-a-must-have-for-document-safety/"><u>In-Depth Analysis: Why the AmazonBasics 12-Sheet Security Shredder Is a Must-Have for Document Safety</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-your-ipad-behind-the-times-a-modern-tech-dilemma/"><u>Is Your iPad Behind the Times - A Modern Tech Dilemma</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-trackers-for-marathoners-the-ultimate-guide/"><u>Leading Trackers for Marathoners: The Ultimate Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-usb-wireless-routers-the-definitive-list-of-2024-picks/"><u>Leading USB Wireless Routers: The Definitive List of 2024 Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lenovo-chromebook-duet-review-low-budget-2-in-1/"><u>Lenovo Chromebook Duet Review: Low Budget 2-In-1</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-linguistic-navigation-on-windows-11-and-11-pro-with-shortcuts/"><u>Swift Linguistic Navigation on Windows 11 & 11 Pro with Shortcuts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zoom-meet-up-essentials-a-step-by-step-guide/"><u>Zoom Meet-Up Essentials A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept"
-date: 2025-02-05T06:54:31.441Z
-updated: 2025-02-10T03:09:11.724Z
+date: 2025-02-14T17:46:49.692Z
+updated: 2025-02-20T10:45:42.906Z
 tags:
   - games
   - tv
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 ## Tackling the Tale of Unplayed Titles: Why Your Game Backlog Isn't a Destiny You Have to Accept
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Think of your game collection as entertainment, not an obligation to clear a "backlog".
@@ -22,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Have you got backlog dread? Do you stare at your pile of games forlornly as you swipe your credit card once again to put even more on the pile? I'm here to tell you that your "backlog" shouldn't be weighing you down.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s This “Backlog” Stuff?
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Games are entertainment, not an obligation. So it might be better psychologically-speaking, to stop thinking of your video game collection as a "backlog" in the first place!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Backlogs Are a Rainy-Day Blessing
@@ -46,11 +50,11 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Boomer Shooter Collection on the Nintendo Switch Including several DOOM games, Serieous Sam, Duke Nukem, Turok, Quake, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/boomer-shooters-switch.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Don’t Have to Finish All Your Games
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Just like I have no interest in "[100%-ing](https://instagram-videos.techidaily.com/updated-tips-to-triple-your-instagram-video-viewers/)" games, I don't consider it an obligation to even see the credits in a game roll. I will never keep playing a game when I am no longer having fun. If there's nothing intrinsic about the game's story or game play loop to drive me to the end of the game, then I'll simply stop and move on to the next thing. There are some games that I feel are so good that I've finished them many times, and I'll probably never stop playing _DOOM_ or _Skyrim_, but the mountain of games that lost me halfway eclipses Mount Everest.
 
  Did I waste my time playing them? No! They were fun while they lasted, and I enjoyed my time with them, but just like any healthy relationship, you need to know when the right time is to walk away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Don’t Let the Sunk Cost Fallacy Stop Your Fun
 
@@ -88,16 +88,20 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-comparative-assessment-youtube-vs-dailymention/"><u>2024 Approved Comparative Assessment YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bored-tunneling/"><u>Bored Tunneling</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-google-pixel-4a-the-perfect-balance-of-features-and-affordability/"><u>Comprehensive Evaluation of the Google Pixel 4A: The Perfect Balance of Features and Affordability</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-amazon-luna-a-seamless-journey-into-next-gen-streaming-services/"><u>In-Depth Analysis of Amazon Luna: A Seamless Journey Into Next-Gen Streaming Services</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973770669-quick-updates-for-your-intel-iris-540-graphic-drivers-made-easy/"><u>Quick Updates for Your Intel Iris 540 Graphic Drivers Made Easy</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/ranking-the-leading-free-srt-translation-tools/"><u>Ranking the Leading Free SRT Translation Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-of-finties-durable-macbook-pro-13-encasement-maximizing-protection-without-breaking-the-bank/"><u>The Ultimate Review of Fintie's Durable MacBook Pro 13 Encasement: Maximizing Protection without Breaking the Bank</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-nvlddmkmsys-blue-screen-of-death-for-windows-users/"><u>Troubleshooting nvlddmkm.sys Blue Screen of Death for Windows Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-10t-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 10T 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-chorus-collective-recordings-downloads-and-evaluation-for-2024/"><u>[Updated] Chorus Collective Recordings, Downloads & Evaluation for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-laughter-laborer-spooky-cyborgs/"><u>[Updated] Laughter Laborer Spooky Cyborgs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-the-leading-6-mac-video-grabber-apps/"><u>[Updated] Unveiling the Leading 6 Mac Video Grabber Apps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/an-in-depth-assessment-of-the-chic-compact-anker-powercoreplus-26800-battery-setup/"><u>An In-Depth Assessment of the Chic, Compact Anker PowerCore+ 26800 Battery Setup</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/automatic-cleanup-of-temp-files-on-a-windows-system-explained/"><u>Automatic Cleanup of Temp Files on a Windows System Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/blueears-trendsetting-wireless-beanie-a-fusion-of-modern-audio-tech-and-fashion-featured-review/"><u>Blueear's Trendsetting Wireless Beanie: A Fusion of Modern Audio Tech and Fashion, Featured Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-hc-v770-premium-tech-inclusion/"><u>Budget HC-V770: Premium Tech Inclusion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bybs-leading-quality-e430-led-swing-arm-light-examined-an-in-depth-review/"><u>BYB's Leading Quality E430 LED Swing Arm Light Examined: An In-Depth Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-netgear-orbi-rbs50y-ideal-outdoor-wireless-solution/"><u>Comprehensive Analysis of the Netgear Orbi RBS50Y - Ideal Outdoor Wireless Solution</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-is-the-microsoft-sculpt-keyboard-a-smart-cost-effective-choice/"><u>Comprehensive Review: Is the Microsoft Sculpt Keyboard a Smart, Cost-Effective Choice?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-tips-for-dealing-with-unresponsive-apps-on-windows-11-systems/"><u>Essential Tips for Dealing with Unresponsive Apps on Windows 11 Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-magic-6-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor Magic 6 to Roku | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-kid-friendly-cinema-a-list-of-top-6-sites-offering-free-childrens-flicks/"><u>Navigating Kid-Friendly Cinema: A List of Top 6 Sites Offering Free Children's Flicks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-sailing-overcoming-stutter-problems-while-enjoying-assassins-creed-valhalla-on-pc/"><u>Smooth Sailing: Overcoming Stutter Problems While Enjoying Assassin's Creed Valhalla on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-accuracy-logitechs-elite-mouse/"><u>Unmatched Accuracy - Logitech's Elite Mouse</u></a></li>
 </ul></div>
 

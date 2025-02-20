@@ -1,7 +1,7 @@
 ---
 title: "Top-Performing Processors: A Comprehensive Guide"
-date: 2025-02-05T21:58:33.721Z
-updated: 2025-02-09T23:57:21.545Z
+date: 2025-02-18T03:41:55.742Z
+updated: 2025-02-19T19:46:33.918Z
 tags:
   - buying-guides
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 
  The [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) is the cornerstone of every [PC build](https://extra-resources.techidaily.com/virtuality-unleashed-insightful-reviews-of-top-10-pc-vr-streamers/). The best CPUs give you more frames in video games, as long as you have [a GPU to match the CPU](https://extra-guidance.techidaily.com/m1-pro-vs-m1-max-delving-into-the-details-of-apples-latest-cpus-for-2024/), and take less time to power through productivity workloads.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  UPDATE: 02/07/2024
 
  We've updated a variety of our CPU picks with new models. Take a look!
@@ -24,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 * [](https://www.amazon.com/i7-14700K-Desktop-Processor-Integrated-Graphics/dp/B0CGJ41C9W?tag=hotoge-20&ascsubtag=UUhtgUeUpU227949&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896303%2Fbest-cpus%2F&asc%5Fcampaign=Commerce)  
 ![Intel Core i7-14700K](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/intel-core-i7-14700k.png)  
 #####  Intel Core i7-14700K  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best Intel CPU Overall  
 [$398 at Amazon](https://www.amazon.com/i7-14700K-Desktop-Processor-Integrated-Graphics/dp/B0CGJ41C9W?tag=hotoge-20&ascsubtag=UUhtgUeUpU227949&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896303%2Fbest-cpus%2F&asc%5Fcampaign=Commerce)
@@ -55,10 +55,6 @@ Best Budget Ryzen CPU
 
 Best CPU for Gaming  
 [$367 at Amazon](https://www.amazon.com/AMD-Ryzen-7800X3D-16-Thread-Processor/dp/B0BTZB7F88?tag=hotoge-20&ascsubtag=UUhtgUeUpU227949&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896303%2Fbest-cpus%2F&asc%5Fcampaign=Commerce)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What to Look for in a CPU in 2024
 
@@ -109,7 +105,7 @@ _Intel_
 ![Intel Core i7-14700K](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/intel-core-i7-14700k.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
@@ -147,10 +143,6 @@ _AMD_
 
 ![AMD Ryzen 9 7950X 01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/amd-ryzen-9-7950x-01.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best AMD CPU Overall
@@ -163,13 +155,13 @@ A superb choice for gamers and professionals, the AMD Ryzen 9 7950X justifies it
 
 [$449 at Amazon](https://www.amazon.com/AMD-7950X-32-Thread-Unlocked-Processor/dp/B0BBHD5D8Y?tag=hotoge-20&ascsubtag=UUhtgUeUpU227949&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896303%2Fbest-cpus%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Best Budget Intel CPU: [Intel Core i3-12100F](https://www.amazon.com/Intel-BX8071512100F-INTEL-I3-12100F-Desktop/dp/B09NPJX7PV?tag=hotoge-20&ascsubtag=UUhtgUeUpU227949&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896303%2Fbest-cpus%2F&asc%5Fcampaign=Commerce) 
 
 ![Intel i3 on pink background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/intel-core-i3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Intel_
 
@@ -202,13 +194,13 @@ The Intel Core I3-12100F is an amazing CPU for $100 or less. It's perfect for an
 
 [$85 at Amazon](https://www.amazon.com/Intel-BX8071512100F-INTEL-I3-12100F-Desktop/dp/B09NPJX7PV?tag=hotoge-20&ascsubtag=UUhtgUeUpU227949&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896303%2Fbest-cpus%2F&asc%5Fcampaign=Commerce) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.target.com%2Fp%2Fintel%255Fcore%255Fi312100f%255F%2F-%2FA-85688622) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Budget AMD CPU: [AMD Ryzen 5 5500](https://www.amazon.com/AMD-5500-12-Thread-Unlocked-Processor/dp/B09VCJ171S?tag=hotoge-20&ascsubtag=UUhtgUeUpU227949&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896303%2Fbest-cpus%2F&asc%5Fcampaign=Commerce) 
 
 ![AMD Ryzen 5 5500 box against a grey background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/amd-ryzen-5-5500-01.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _AMD_
 
@@ -232,11 +224,11 @@ _AMD_
 
 ![AMD Ryzen 5 5500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/amd-ryzen-5-5500.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best Budget Ryzen CPU
 
@@ -247,10 +239,6 @@ $84 $159 Save $75
 The best budget Ryzen CPU you can get is the AMD Ryzen 5 5500\. Its multithreaded performance won't impress anyone, and its gaming performance leaves something to be desired. However, for the price, it's more than a decent performer.
 
 [$84 at Amazon](https://www.amazon.com/AMD-5500-12-Thread-Unlocked-Processor/dp/B09VCJ171S?tag=hotoge-20&ascsubtag=UUhtgUeUpU227949&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896303%2Fbest-cpus%2F&asc%5Fcampaign=Commerce) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best CPU for Gaming: [AMD Ryzen 7 7800X3D](http://www.amazon.com/AMD-Ryzen-7800X3D-16-Thread-Processor/dp/B0BTZB7F88?tag=hotoge-20&ascsubtag=UUhtgUeUpU227949&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896303%2Fbest-cpus%2F&asc%5Fcampaign=Commerce) 
 
@@ -282,6 +270,10 @@ _AMD_
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best CPU for Gaming
 
 #####  AMD Ryzen 7 7800X3D 
@@ -292,27 +284,35 @@ If you're a gamer and want the fastest gaming CPU on the market, get the Ryzen 7
 
 [$367 at Amazon](https://www.amazon.com/AMD-Ryzen-7800X3D-16-Thread-Processor/dp/B0BTZB7F88?tag=hotoge-20&ascsubtag=UUhtgUeUpU227949&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F896303%2Fbest-cpus%2F&asc%5Fcampaign=Commerce) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What does CPU stand for?
 
 CPU stands for Central Processing Unit. It is the primary component of a computer responsible for executing instructions and performing calculations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can I place any CPU in any motherboard?
 
 No, you cannot place any CPU in any motherboard. The motherboard must have a compatible CPU socket and chipset for the CPU you plan on using. It is important to ensure compatibility between the CPU and motherboard before making a purchase.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How do I check my CPU temperature?
 
 There are several ways to check your CPU temperature. One way is to enter your computer's BIOS, where the CPU temperature is usually displayed on the BIOS home page. Another way is to use third-party monitoring tools such as Core Temp or HWiNFO. These tools allow you to monitor the CPU temperature and other system thermals. Make sure to refer to the respective guides for more detailed instructions on monitoring your CPU temperature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is a CPU core?
 
@@ -337,18 +337,18 @@ Cleaning thermal paste off a CPU is a straightforward process. After removing th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-elevate-your-creative-content-the-top-50plus-tiktok-tags/"><u>[New] Elevate Your Creative Content The Top 50+ TikTok Tags</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitters-visuals-saving-and-downloading-on-smartphones/"><u>[Updated] 2024 Approved Twitter's Visuals Saving and Downloading on Smartphones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fb-vids-to-mp4-downloader-efficient-and-effective/"><u>[Updated] FB Vids to MP4 Downloader – Efficient & Effective</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-select-websites-propelling-youtube-media/"><u>[Updated] Select Websites Propelling YouTube Media</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-top-10-ai-powered-name-generators-for-podcasts-online/"><u>[Updated] Top 10 AI-Powered Name Generators for Podcasts Online</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-troubleshooting-iphone-x-regaining-access-via-facial-id/"><u>[Updated] Troubleshooting iPhone X Regaining Access via Facial ID</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-directors-weaving-visual-auditory-tapestries/"><u>2024 Approved Top Directors Weaving Visual, Auditory Tapestries</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-excellence-unveiled-zte-blade-a3y-analysis-and-user-experience/"><u>Affordable Excellence Unveiled: ZTE Blade A3Y Analysis and User Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-portable-android-device/"><u>Comprehensive Analysis of the Samsung Galaxy Tab S4: The Ultimate Portable Android Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-benefits-of-synology-rt2ac-exceptional-longer-reach-and-effective-parental-control-functions-unveiled-in-our-review/"><u>Discover the Benefits of Synology RT2#AC: Exceptional Longer Reach and Effective Parental Control Functions Unveiled in Our Review</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-art-of-time-control-fcpx-freeze-frames-and-slow-motion/"><u>New In 2024, The Art of Time Control FCPX Freeze Frames and Slow Motion</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-launch-issues-with-football-manager-2023-a-step-by-step-guide/"><u>Resolving Launch Issues with Football Manager 2023 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-magic-behind-samsung-qn5email-protected-a-revolutionary-4k-hdr-smart-tv-journey/"><u>Unveiling the Magic Behind Samsung QN5^[email Protected] – A Revolutionary 4K HDR Smart TV Journey</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-elevate-zoom-outputs-top-3-transformer-tactics/"><u>[New] In 2024, Elevate Zoom Outputs Top 3 Transformer Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-comprehensive-list-top-screenshot-videography-tools/"><u>[Updated] Comprehensive List Top Screenshot Videography Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhancing-productivity-with-azure-voice-recognition/"><u>[Updated] In 2024, Enhancing Productivity with Azure Voice Recognition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-techniques-for-smooth-playback-and-no-frame-dropping-in-obs-for-2024/"><u>[Updated] Techniques for Smooth Playback and No Frame Dropping in OBS for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike/"><u>[Updated] Vegas Pro '21 A Comprehenive Examination for Gamblers and Techies Alike</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/canon-powershot-elph-190-review-solid-performance-price/"><u>Canon PowerShot ELPH 190 Review: Solid Performance, Price</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/classic-meets-high-tech-an-in-depth-review-of-the-stylish-skagen-falster-3-smartwatch/"><u>Classic Meets High-Tech: An In-Depth Review of the Stylish Skagen Falster 3 Smartwatch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/create-a-research-budget/"><u>Create a Research Budget:</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-lenovo-tab-4-cost-effective-tablet-understanding-its-restrictions/"><u>Exploring the Lenovo Tab 4: Cost-Effective Tablet, Understanding Its Restrictions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hp-omen-obelisk-desktop-top-reviews-for-power-players-seeking-the-best-in-high-performance-computing/"><u>HP OMEN Obelisk Desktop - Top Reviews for Power Players Seeking the Best in High-Performance Computing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solving-the-problem-of-unresponsive-logitech-g433-microphones/"><u>Solving the Problem of Unresponsive Logitech G433 Microphones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/standing-desk-pad-review-for-ergohead-users-seeking-long-duration-support/"><u>Standing Desk Pad Review for Ergohead Users Seeking Long-Duration Support</u></a></li>
+<li><a href="https://win-able.techidaily.com/valorant-troubleshooting-guide-solving-launch-issues-on-pc/"><u>Valorant Troubleshooting Guide: Solving Launch Issues on PC</u></a></li>
 </ul></div>
 

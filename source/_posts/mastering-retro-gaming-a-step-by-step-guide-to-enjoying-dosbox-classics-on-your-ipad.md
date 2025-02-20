@@ -1,7 +1,7 @@
 ---
 title: "Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad"
-date: 2025-02-08T06:08:40.908Z
-updated: 2025-02-09T23:38:08.666Z
+date: 2025-02-14T18:25:13.570Z
+updated: 2025-02-20T02:43:39.895Z
 tags:
   - games
   - tv
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ---
 
 ## Mastering Retro Gaming: A Step-by-Step Guide to Enjoying DOSBox Classics on Your iPad
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  The [iDOS 3 app](https://apps.apple.com/za/app/idos-3/id1580768213) is based on the free and Open Source DOS emulator [DOSBox](https://www.dosbox.com/). The app has a beautiful retro front-end, is easy to use, and only cost me around a dollar. So the first thing you need to do in this process is buy the app, and install it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Getting Your DOS Games on iPad
@@ -38,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The context menu to show the contents of a macOS app package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-12-46-23-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this case the .exe file was in Content > Resources > Game, so I copied the entire contents of the "game" folder to my iPad in a folder named "Jazz."
 
  As to how you can get the files on your iPad, the options are endless. You can AirDrop it from your Mac, transfer the files using a USB flash drive, email them to yourself, use iCloud. It doesn't matter where you choose to save the game files, as long as you remember it for later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Running Your Game
 
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The floppy drive menu in iDOS 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-floppy-drive-menu-in-idos-3.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now navigate to the folder where you saved your DOS game files, and select "Open."
 
 ![The iDOS 3 file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-file-browser.PNG) 
@@ -68,24 +68,16 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 interface showing that a folder had been mounted and the drive changed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-interface-showing-that-a-folder-had-been-mounted-and-the-drive-changed.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now we've changed to drive D, and all you have to do is type the name of the executable, and then press enter. In this case, that's "Jazz.exe" but it depends on the specific game, of course.
 
 ![The iDOS 3 interface with the name of the executable file ready to run](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-interface-with-the-name-of-the-executable-file-ready-to-run.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now the game is running, but how to control it?
 
 ![Jazz Jackrabbit running on iDOS 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/jazz-jackrabbit-running-on-idos-3.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In portrait mode, you can use the virtual keyboard to control your game, and if you tap the little gamepad button you'll have an on-screen gamepad with buttons that are bound to certain keyboard keys.
@@ -106,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 ![The iDOS 3 quick bar with blutooth icon highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-quick-bar-with-blutooth-icon-highlighted.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hold the button on the controller you want to rebind, and then press the corresponding key on the virtual keyboard.
 
 ![The iDOS 3 gamepad configuration screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-gamepad-configuration-screen.PNG) 
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  Some DOS games supported joysticks or gamepads, and if you want to use your gamepad as a true controller with these games, tap on the settings gear in the iDOS 3 quick bar and choose "Settings."
 
 ![The iDOS 3 settings button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-idos-3-settings-button.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then under "optional inputs" enable the gamepad option. Just remember that you'll have to set up the joystick or gamepad in the game itself, since back then games calibrated these peripherals on an individual basis.
 
@@ -137,14 +137,16 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-creative-edge-ideas-to-make-your-tiktok-fp-memorable/"><u>[New] 2024 Approved Creative Edge Ideas to Make Your TikTok FP Memorable</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/discovering-idle-indexed-views-in-sql-server-a-two-pronged-approach/"><u>Discovering Idle Indexed Views in SQL Server: A Two-Pronged Approach</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/inside-look-free2xs-camera-recording-capabilities-for-2024/"><u>Inside Look Free2X's Camera Recording Capabilities for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/jackery-powerbar-portable-charger-analysis-featuring-integrated-ac-output/"><u>Jackery PowerBar Portable Charger Analysis: Featuring Integrated AC Output</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/japejungle-design-original-content-instantly/"><u>JapeJungle Design Original Content Instantly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-review-for-ambients-ws-1002-wifi-weather-station-exquisite-quality-with-a-premium-tag/"><u>Top Review for Ambient's WS-1002 WiFi Weather Station: Exquisite Quality with a Premium Tag</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-ring-video-doorbell-2-a-comprehensive-evaluation/"><u>Ultimate Guide: Ring Video Doorbell 2 - A Comprehensive Evaluation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-in-depth-analysis-of-apples-2020-mac-mini-with-m1-chip-dominates-over-rivals/"><u>Unveiling the Powerhouse: In-Depth Analysis of Apple's 2020 Mac Mini with M1 Chip Dominates Over Rivals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-validation-on-x-a-step-by-step-guide/"><u>Achieving Validation on X: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-integrate-titles-or-descriptions-with-instagram-video-clips/"><u>Easy Ways to Integrate Titles or Descriptions with Instagram Video Clips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-among-us-on-your-pc-quick-fix-guide/"><u>How To Restore Voice Chat Functionality In Among Us On Your PC - Quick Fix Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-11-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 11 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-tweeting-fun-iosandroid-tips-for-downloading-gifs/"><u>In 2024, Tweeting Fun IOS/Android Tips for Downloading GIFs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigate-the-stars-an-in-depth-analysis-of-star-wars-squadrons-interactive-arenas/"><u>Navigate the Stars: An In-Depth Analysis of 'Star Wars: Squadrons' Interactive Arenas</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/owc-mercury-pro-external-usb-31-gen-1-optical-drive-review/"><u>OWC Mercury Pro External USB 3.1 Gen 1 Optical Drive Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-apcs-be600m1-revolutionary-battery-backup-with-superior-usb-charger-capability/"><u>Review of APC's BE600M1 - Revolutionary Battery Backup with Superior USB Charger Capability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-roadside-emergencies-with-the-halo-bolt-portable-chargerjump-starter-a-thorough-product-assessment/"><u>Revolutionize Your Roadside Emergencies with the Halo Bolt Portable Charger/Jump Starter: A Thorough Product Assessment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-city-commutes-an-in-depth-look-at-mods-easy-sidecar-e-bike/"><u>Revolutionizing City Commutes: An In-Depth Look at Mod's Easy Sidecar E-Bike</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uide-to-earning-through-streams-dm-and-yo-unveiled/"><u>The Guide to Earning Through Streams Dm & Yo Unveiled</u></a></li>
 </ul></div>
 

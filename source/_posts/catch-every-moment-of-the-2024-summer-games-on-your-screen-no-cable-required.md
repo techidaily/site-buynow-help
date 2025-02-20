@@ -1,7 +1,7 @@
 ---
 title: Catch Every Moment of the 2024 Summer Games on Your Screen - No Cable Required
-date: 2025-02-05T03:12:41.281Z
-updated: 2025-02-09T23:48:25.859Z
+date: 2025-02-15T17:22:11.458Z
+updated: 2025-02-20T01:30:31.471Z
 tags:
   - games
   - tv
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The 2024 Summer Olympics are landing in Paris at the end of July, and you don't need cable to access a lot of the action. NBC will broadcast many daytime and primetime events. With the aid of an over-the-air (OTA) antenna, you can watch for free.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which Channels are Broadcasting the Olympics?
@@ -35,6 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to NBC, you will find some Olympics content streaming on the Peacock app, GOLF Channel, USA Network, CNBC, and E!. Telemundo will air Spanish-language coverage. However, Peacock and the extended range of NBCUniversal channels are not accessible via antenna and can get expensive due to price creep.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Do I Watch for Free?
 
  OTA antennae pick up free broadcast frequencies, allowing you to tune into television stations without paid cable. Depending on where you live, you may be able to access a handful of local channels or a wider range of HD networks. You are likely to have access to NBC.
@@ -44,12 +48,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Most modern televisions have an integrated tuner, meaning they are ready to be connected to an antenna. This makes setting up an antenna to watch the 2024 Olympics a lot easier than it might sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Setting Up an Antenna
 
 ![Person holding an indoor TV antenna](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52815640483_03eaabec66_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jordan Gloor / How-To Geek
 
@@ -59,10 +67,6 @@ Jordan Gloor / How-To Geek
 
  Keep in mind that you want to be careful about antenna placement to get better reception. As a general rule, you'll want to avoid placing your antenna so that there is an obstacle in the way of the signal. If you're placing an indoor antenna, put it high up on the wall near a window if you can.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Which Olympic Events I Can Watch for Free?
 
  You will be able to watch NBC Olympics coverage using an antenna in most places. You'll find the [full schedule on the Olympics' official website](https://www.nbcolympics.com/full-schedule). NBC Sports has also [published a schedule](https://www.nbcsports.com/olympics/news/paris-2024-olympic-day-by-day-competition-schedule) adjusted for Eastern Standard Time in the United States (six hours behind Paris).
@@ -70,16 +74,12 @@ Jordan Gloor / How-To Geek
  Events that are typically shown in full include swimming, diving, and track and field. Popular sports like women's gymnastics and basketball are often reserved for primetime broadcasts. Check in on the schedule closer to the opening ceremony to get the exact TV schedule.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Watch 2024 Olympic Gymnastics
 
 ![A gymnast performing with the Olympics logo in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gymnast-performing-with-the-olympics-logo-in-the-background.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Victor Velter](https://www.shutterstock.com/image-photo/saraiva-flavia-brasil-womens-balance-beam-2208531455) / Shutterstock
 
@@ -104,20 +104,17 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-cybernetic-wonders-discovering-sci-fi-metaverse-marvels-on-screen-for-2024/"><u>[New] Cybernetic Wonders Discovering Sci-Fi Metaverse Marvels on Screen for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-debating-the-need-for-itop-screencasting-for-2024/"><u>[New] Debating the Need for ITop Screencasting for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-transforming-mp4-files-with-vlc/"><u>[New] Expert Techniques for Transforming MP4 Files with VLC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-phantom-3-duel-mirage-4s-debut/"><u>[Updated] In 2024, Phantom 3 Duel Mirage 4'S Debut</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-synchronize-content-releases-with-audience-activity-cycles/"><u>[Updated] In 2024, Synchronize Content Releases with Audience Activity Cycles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production/"><u>2024 Approved Perfecting iPhone Cinematic Work Top 8 Tips for Excellent Pro Video Production</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assassins-creed-valhalla-evaluation-unveiling-a-thrilling-viking-journey-through-the-medieval-era/"><u>Assassin's Creed: Valhalla Evaluation – Unveiling a Thrilling Viking Journey Through the Medieval Era</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-edge-lightweight-laptop-analysis-how-the-lg-gram-17-balances-power-with-portability/"><u>Cutting-Edge Lightweight Laptop Analysis: How the LG Gram 17 Balances Power with Portability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dive-into-performance-in-depth-review-of-apples-latest-multimedia-marvel-the-ipad-air-201/"><u>Dive Into Performance: In-Depth Review of Apple's Latest Multimedia Marvel, the iPad Air (201</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722945843888-embrace-active-living-with-the-fitbit-versa-3-its-internal-gps-and-diverse-health-app-selection-provide-continuous-encouragement/"><u>Embrace Active Living with the Fitbit Versa 3 - Its Internal GPS & Diverse Health App Selection Provide Continuous Encouragement!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-silent-symphony-softening-computer-sounds-system-wide/"><u>In 2024, Silent Symphony Softening Computer Sounds System-Wide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlimited-free-image-refinement-onlinemobile/"><u>In 2024, Unlimited Free Image Refinement Online/Mobile</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-your-internet-speed-with-the-asus-zenwifi-router-ax6600-in-depth-review-and-setup-tips/"><u>Maximizing Your Internet Speed with the ASUS ZenWiFi Router AX6600: In-Depth Review and Setup Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/showdown-the-ultimate-face-off-between-apples-iphone-15-pro-and-pro-max-models/"><u>Showdown: The Ultimate Face-Off Between Apple's iPhone 15 Pro and Pro Max Models</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/xbox-one-x-the-unrivaled-champion-in-todays-competitive-console-arena/"><u>Xbox One X: The Unrivaled Champion in Today's Competitive Console Arena</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-searching-skills-unlock-additional-free-filters/"><u>[New] 2024 Approved Instagram Searching Skills – Unlock Additional Free Filters</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unleash-your-inner-edgy-with-easy-tiktok-updates/"><u>2024 Approved Unleash Your Inner Edgy with Easy TikTok Updates</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728485908072-404-web/"><u>404: Webページ検索に失敗した場合の対処方法</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/activating-microsofts-security-shield-how-to-turn-on-windows-defender-for-optimal-safety-expert-advice-by-yl-software/"><u>Activating Microsoft's Security Shield: How to Turn On Windows Defender for Optimal Safety – Expert Advice by YL Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-livestreams-with-manycam-powerful-video-software-features-and-online-camera-simulation/"><u>Enhance Your Livestreams with ManyCam: Powerful Video Software Features and Online Camera Simulation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-effective-is-miraris-kids-alarm-clock-our-comprehensive-analysis-reveals-all/"><u>How Effective Is Mirari's Kids' Alarm Clock? Our Comprehensive Analysis Reveals All!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-upgrade-windows-10-32-bit-to-64-bit/"><u>How to Upgrade Windows 10 32-Bit to 64-Bit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-assessment-of-the-apple-iphone-12-pro-max-why-more-is-often-merrier/"><u>In-Depth Assessment of the Apple iPhone 12 Pro Max: Why More Is Often Merrier</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-smaller-inexpensive-asus-vivobook-11-all-rounder-pc-for-everyone/"><u>In-Depth Look at the Smaller, Inexpensive Asus VivoBook 11 – All-Rounder PC for Everyone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-tips-to-resolve-lameencdll-complications-during-audacity-mp3-encoding-processes/"><u>Quick Tips to Resolve lame_enc.dll Complications During Audacity MP3 Encoding Processes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-image-creation-with-advanced-techniques-for-utilizing-chatgpt/"><u>Revolutionize Your Image Creation with Advanced Techniques for Utilizing ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-running-crusader-kings-ii-solutions-to-game-not-launching-problems/"><u>Successfully Running Crusader Kings II: Solutions to Game Not Launching Problems</u></a></li>
 </ul></div>
 

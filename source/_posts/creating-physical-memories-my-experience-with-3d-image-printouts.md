@@ -1,7 +1,7 @@
 ---
 title: "Creating Physical Memories: My Experience with 3D Image Printouts"
-date: 2025-02-03T09:22:34.312Z
-updated: 2025-02-10T05:16:10.196Z
+date: 2025-02-13T08:11:31.584Z
+updated: 2025-02-19T18:24:18.598Z
 tags:
   - games
   - tv
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ---
 
 ## Creating Physical Memories: My Experience with 3D Image Printouts
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  While working with porcelain isn't something you can do at home typically, if you have a 3D printer you can emulate the same effect and make a lithophane by printing it. When you hold the lithophane up to the light, your original image appears. It's a neat effect and, thanks to the flexibility of 3D printing, you can make all sorts of interesting decorations using this method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Converting an Image to a Lithophane
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![Ultimaker Cura image conversion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-45-47.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here you can specify the size of the lithophane, how thick it is, and so on. You can play around with these settings without ever printing anything, but I found that the default settings are just fine for any of the photos I tried.
 
  Once you're happy with the settings, your photo will appear as a lithophane model in the slicer just like any other 3D model.
@@ -52,18 +52,18 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ![Ultimaker Cura lithophane preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-at-10-47-32.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The other option is to use a specialized lithophane tool. The one I used here is the [It's Litho Lithophane Maker](https://tool.itslitho.com/CreateModel), but there are oodles of them online. All you have to do is upload your image, tweak the list of settings to taste, and then download the resulting 3D model file. It then goes into your slicer before being sent to your printer. The major advantage of a specialized tool like It's Litho is that you can do fancy stuff like make hexagonal or curved lithophanes, or ones with integrated stands and mounts for lights.
 
 ![It's Litho model preview showing integrated stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-20-at-15-48-38.png) 
 
- Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Of course, you can do the same thing manually using CAD software, but if all you want to do is make a few lithos and not learn how to use CAD in general, then using a specialized tool is the path of least resistance.
 
 ##  Printing Your Lithophane
 
@@ -78,7 +78,7 @@ Close
 ![A 3D-printed lithophane of a jumping spider sitting on a plant](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-3d-printed-lithophane-of-a-jumping-spider-sitting-on-a-plant.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sydney Louw Butler / How-To Geek
@@ -100,20 +100,22 @@ Sydney Louw Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-creating-a-viral-youtube-sensation-simplified-action-plan-for-2024/"><u>[New] Creating a Viral YouTube Sensation Simplified Action Plan for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make-for-2024/"><u>[Updated] Earning Big on Youtube Shorts What You Need & How Much Can You Make for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>[Updated] In 2024, Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-depth-look-at-gaming-screen-capture-tools-for-2024/"><u>[Updated] In-Depth Look at Gaming Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/breaking-down-the-barriers-top-strategies-for-beginners-in-influencer-marketing-on-reddit/"><u>Breaking Down the Barriers Top Strategies for Beginners in Influencer Marketing on Reddit</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-stylish-and-mighty-apple-imac-4k-desktop-reviews-and-insights/"><u>Comprehensive Guide to the Stylish & Mighty Apple iMac 4K Desktop - Reviews and Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722940798974-dive-into-the-world-of-yakuza-like-a-dragon-a-captivating-jrpg-you-ought-to-play-now/"><u>Dive Into the World of Yakuza: Like a Dragon - A Captivating JRPG You Ought to Play Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-detecting-and-eliminating-mobile-spyware-insights/"><u>Effective Strategies for Detecting and Eliminating Mobile Spyware - Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-unveiling-the-power-of-playstation-4-pros-ultra-hd-capabilities/"><u>Expert Analysis: Unveiling the Power of PlayStation 4 Pro's Ultra HD Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-gb150-wireless-headphones-the-best-sound-quality-for-your-budget-on-amazon-306-characters/"><u>In-Depth Review: GB150 Wireless Headphones – The Best Sound Quality for Your Budget on Amazon! (306 Characters)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/integrating-your-vimeo-videos-into-instagram-for-2024/"><u>Integrating Your Vimeo Videos Into Instagram for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/master-the-skies-an-authoritative-review-on-why-djis-mavic-air-drone-reigns-supreme/"><u>Master the Skies: An Authoritative Review on Why DJI's Mavic Air ^ Drone Reigns Supreme</u></a></li>
-<li><a href="https://win-web.techidaily.com/strategie-efficaci-per-superare-la-lentezza-della-sincronizzazione-in-microsoft-outlook/"><u>Strategie Efficaci per Superare La Lentezza Della Sincronizzazione in Microsoft Outlook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-12-unique-presents-ideal-for-tech-savvy-enthusiasts-a-guide/"><u>Top 12 Unique Presents Ideal for Tech-Savvy Enthusiasts: A Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-latest-samsung-galaxy-s21-model-trimming-down-for-innovation/"><u>Unveiling the Features of the Latest Samsung Galaxy S21 Model: Trimming Down for Innovation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-complete-users-manual-to-youtube-editing-via-finalcut-pro/"><u>[Updated] In 2024, The Complete User's Manual to YouTube Editing via FinalCut Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-snap-and-tag-your-audio-favorite-to-share/"><u>2024 Approved Snap & Tag Your Audio Favorite to Share</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-deep-dive-into-freeimage-editing-software-the-comprehensive-photoscape-evaluation/"><u>A Deep Dive Into FreeImage Editing Software: The Comprehensive PhotoScape Evaluation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-detailed-torment-tides-of-numenera-game-analysis-an-in-depth-look-at-a-science-fiction-role-playing-experience/"><u>A Detailed Torment: Tides of Numenera Game Analysis - An In-Depth Look at a Science Fiction Role-Playing Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-se-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone SE Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-zte-axon-40-lite-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from ZTE Axon 40 Lite to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209281547-master-the-art-of-keeping-your-machine-awake-all-night-hassle-free/"><u>Master the Art of Keeping Your Machine Awake All Night, Hassle-Free!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722972082998-the-ultimate-showdown-gopros-hero7-in-the-action-camera-arena/"><u>The Ultimate Showdown: GoPro's HERO7 in the Action Camera Arena!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-sound-journey-with-mmx-200/"><u>The Ultimate Sound Journey with MMX 200</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-verdict-on-amazon-luna-an-unexpectedly-fluid-video-game-platform/"><u>The Verdict on Amazon Luna - An Unexpectedly Fluid Video Game Platform</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-features-explored-the-newly-launched-16-inch-m1-based-apple-macbook-pro-from-2021/"><u>Top Features Explored: The Newly Launched 16-Inch M1 Based Apple MacBook Pro From 2021</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranked-artists-choice-elite-graphic-tablets/"><u>Top Ranked Artist's Choice: Elite Graphic Tablets</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-comparing-all-types-of-ipads/"><u>Ultimate Guide: Comparing All Types of iPads</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-the-best-animation-drawing-software-for-beginners-and-pros/"><u>Updated Unleash Your Creativity The Best Animation Drawing Software for Beginners and Pros</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/youtube-premium-is-it-right-for-your-viewing-habits/"><u>YouTube Premium: Is It Right for Your Viewing Habits?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zoom-and-tv-integration-seamless-instructions-for-sharing-screen-presentations/"><u>Zoom and TV Integration: Seamless Instructions for Sharing Screen Presentations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Join Baldur's Gate 3 Adventures Voiced by Sir David Attenborough - Brought to Life Through AI Voice Mod Innovation
-date: 2025-02-06T08:36:43.564Z
-updated: 2025-02-09T21:38:02.561Z
+date: 2025-02-19T06:50:29.787Z
+updated: 2025-02-20T05:13:02.142Z
 tags:
   - games
   - tv
@@ -49,31 +49,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The BG3 mod manager main page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-manager-main-page.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 2: Import the Mod Fixer
 
  The mod fixer is necessary for many mods to work in the game, since it forces the game to recompile the campaign data, without which some mods would not work. To install it, Select File>Import Mod in the mod manager.
 
 ![BG3 mod importing menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-importing-menu-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to the folder where the mod fixer's zipped file is, select it and then select "Open." You should see "ModFixer" listed under "Overrides."
 
 ![The mod loaded under the Overrides section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-mod-loaded-under-the-overrides-section.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 3: Import the Narrator Mod
 
  Now, repeat the same process in Step 2, except this time select the zipped file for the Famous British Narrator mod instead. Since this is a much larger file, importing will take longer and could be a while depending on your computer's performance.Now both imported mods should be listed under "Overrides."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 4: Export Mod Order
 
@@ -81,13 +81,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![BG3 export mod order menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-export-mod-order-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should see a green message pop up at the bottom of the window in the mod manager.
 
 ![BG3 mod export success message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-export-success-message.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This means we're ready to go!
 
@@ -96,10 +96,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Everything on the modding side of the process should now be done, which means it's time to start up the game to see if it's working. You'll get a warning that mods have been detected, which is a good sign! You can choose to never show this message again, but I think it's worth the hassle of the extra click so that you know whether you're starting up a modded version of Baldur's Gate or not.
 
 ![BG3 mod warning message.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-warning.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you're in the game, you can either load up your save game and wait until you get to a section of narration, or you can quickly start a new game with a preset character, run to the first nursery in front of your pod, and check for the voice this way. As you can see in this clip.
 
@@ -112,6 +108,10 @@ Your browser does not support the video tag.
  To reverse this process and take the game back to the way it was, right-click on the mods under "Overrides" and select "Delete Mod."
 
 ![BG3 mod deletion menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/bg3-mod-deletion-menu.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll see two check boxes. Make sure the permanent deletion box is checked if you want to remove the mod files completely. Otherwise, simply leave the box to remove the mod from the load order checked. Then confirm your choice. Finally, export the mod order to the game again.
 
@@ -132,22 +132,20 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-the-best-10-spotify-recorders/"><u>[New] In 2024, The Ultimate Guide to the Best 10 Spotify Recorders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-virtual-racing-for-cyclists/"><u>[Updated] 2024 Approved Best Virtual Racing for Cyclists</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-razers-stealth-13-ultrabook-a-revolutionary-step-forward-for-high-performance-portability/"><u>Comprehensive Review of Razer's Stealth 13 Ultrabook: A Revolutionary Step Forward for High-Performance Portability</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-why-the-ring-video-doorbell-pro-is-a-clever-choice-for-home-security/"><u>Comprehensive Review: Why the Ring Video Doorbell Pro Is a Clever Choice for Home Security</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-download-and-install-epson-l3150-printer-driver-on-windows-10-87/"><u>Easy Guide to Download & Install Epson L3150 Printer Driver on Windows 10, 8/7</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/elevating-vlogging-to-new-heights-yi-hero-reviewed-for-2024/"><u>Elevating Vlogging to New Heights Yi Hero Reviewed for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-pinnacle-of-next-gen-consoles-an-in-depth-xbox-one-x-review/"><u>Exploring the Pinnacle of Next-Gen Consoles: An In-Depth Xbox One X Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-roads-less-traveled-a-review-of-google-maps-for-iphone-enthusiasts/"><u>Exploring the Roads Less Traveled: A Review of Google Maps for iPhone Enthusiasts</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/immersive-sound-experience-samsungs-new-buds-pro/"><u>Immersive Sound Experience: Samsung's New Buds Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-mastering-easy-hdr-a-step-by-step-guide/"><u>In 2024, Mastering Easy HDR A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-loading-problems-heres-how-to-get-unstuck/"><u>Red Dead Redemption 2 Loading Problems? Here's How to Get Unstuck!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-most-trusted-encrypted-email-providers/"><u>Top 5 Most Trusted Encrypted Email Providers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-cost-effective-and-easy-to-control-propella-7s-40-scooter-a-detailed-review/"><u>Unveiling the Cost-Effective and Easy-to-Control Propella 7S 4.0 Scooter: A Detailed Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-distinctive-traits-of-iphone-15-pro-max-and-samsung-s24-ultra-smartphones/"><u>Unveiling the Distinctive Traits of iPhone 15 Pro Max and Samsung S24 Ultra Smartphones</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-home-video-pro-on-mac-simplified-slideshow-creation-for-everyone-for-2024/"><u>Updated Home Video Pro on Mac Simplified Slideshow Creation for Everyone for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/yamahas-b020bl-stereo-system-a-portable-powerhouse/"><u>Yamaha's B020BL Stereo System - A Portable Powerhouse</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enable-quiet-youtube-bgplay-for-iphone-and-android-for-2024/"><u>[New] Enable Quiet YouTube BGPlay for iPhone & Android for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flashing-lights-of-olympic-speed/"><u>2024 Approved Flashing Lights of Olympic Speed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/crucial-considerations-before-investing-in-a-new-gaming-platform/"><u>Crucial Considerations Before Investing in a New Gaming Platform</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-edge-review-discover-whats-new-in-the-fourth-generation-echo-experience/"><u>Cutting-Edge Review: Discover What's New in the Fourth Generation Echo Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-how-facebook-determines-allowed-media/"><u>Dissecting How Facebook Determines Allowed Media</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-performance-the-dji-phantom-nk-pros-v2-soaring-close-to-excellence/"><u>Evaluating Performance: The DJI Phantom Nk Pro's V2 - Soaring Close to Excellence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-rebirth-of-spyro-enormous-entertainment-from-an-iconic-little-dragon/"><u>Evaluating the Rebirth of Spyro: Enormous Entertainment From an Iconic Little Dragon</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/excellent-clearstream-eclipse-antenna-stellar-signal-quality-in-an-effortless-design/"><u>Excellent ClearStream Eclipse Antenna - Stellar Signal Quality in an Effortless Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-latest-from-apple-comprehensive-review-of-the-iphone-15-pros-cutting-edge-technology/"><u>Experience the Latest From Apple: Comprehensive Review of the iPhone 15 Pro's Cutting-Edge Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-ultimate-housewide-internet-with-orbi-tri-band-mesh-wi-fi-system-a-comprehensive-evaluation/"><u>Experience Ultimate Housewide Internet with Orbi Tri-Band Mesh Wi-Fi System - A Comprehensive Evaluation</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-11-pro-maxipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 11 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-videos-in-tamil-for-a-wider-reach-for-2024/"><u>New How To Translate Videos in Tamil for a Wider Reach for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionizing-communication-free-top-8-srt-tools-revealed-for-2024/"><u>Revolutionizing Communication Free Top 8 SRT Tools Revealed for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A38 | Dr.fone</u></a></li>
 </ul></div>
 
